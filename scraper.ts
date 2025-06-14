@@ -29,6 +29,7 @@ interface FixtureMeta {
 }
 
 const fetchWithCookies = fetchCookie(fetch, new CookieJar());
+const REPO_NAME = 'basketball-ical';
 
 const BASE_URL = 'https://www.waverleybasketball.com/fixtures.aspx';
 
@@ -207,7 +208,7 @@ function buildNestedFixtureIndex(
     if (!nested[seasonDir]) nested[seasonDir] = {};
     if (!nested[seasonDir][division]) nested[seasonDir][division] = {};
 
-    const filepath = `${sanitizeFilename(seasonDir)}/${sanitizeFilename(division)}/${sanitizeFilename(team)}.ics`;
+    const filepath = `${REPO_NAME}/${sanitizeFilename(seasonDir)}/${sanitizeFilename(division)}/${sanitizeFilename(team)}.ics`;
     nested[seasonDir][division][team] = filepath;
   }
 

@@ -3,6 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Waverley Basketball Fixtures</title>
   <style>
     body { font-family: sans-serif; padding: 2rem; background: #f9f9f9; }
@@ -19,13 +20,6 @@
       border-radius: 4px;
     }
     .btn:hover { background: #005fa3; }
-    .btn-copy {
-      margin-left: 1rem;
-      background: #4caf50;
-    }
-    .btn-copy:hover {
-      background: #3b8f40;
-    }
     details {
       margin-top: 1rem;
       padding: 1rem;
@@ -54,18 +48,16 @@
   <label for="ageGroup">Age Group:</label>
   <select id="ageGroup"><option value="">Select Age Group</option></select>
 
-  <label for="division">Division:</label>
-  <select id="division"><option value="">Select Division</option></select>
+  <label for="division" id="division-label" style="display:none;">Division:</label>
+  <select id="division" style="display:none;"><option value="">Select Division</option></select>
 
-  <label for="team">Team:</label>
-  <select id="team"><option value="">Select Team</option></select>
+  <label for="team" id="team-label" style="display:none;">Team:</label>
+  <select id="team" style="display:none;"><option value="">Select Team</option></select>
 
   <div id="calendar-link">
     <p>
-      <a id="icsLink" class="btn" href="#" target="_blank">📅 Subscribe</a>
-      <button id="copyBtn" class="btn btn-copy">📋 Copy Link</button>
+      <button id="copyBtn" class="btn">📋 Copy Link</button>
     </p>
-    <p><a id="icsDownload" class="btn" href="#" download>⬇️ Download Calendar</a></p>
   </div>
 
   <section>
@@ -74,23 +66,24 @@
       <summary>📱 iPhone / iOS</summary>
       <ol>
         <li>Tap the <strong>📋 Copy Link</strong> button above.</li>
-        <li>Open the <strong>Settings</strong> app.</li>
-        <li>Go to <strong>Calendar > Accounts > Add Account</strong>.</li>
+        <li>Open the <strong>Calendar</strong> app.</li>
+        <li>Go to <strong>Calendars > Add Calendar > Add Subscription Calendar</strong>.</li>
         <li>Select <strong>Other</strong> > <strong>Add Subscribed Calendar</strong>.</li>
-        <li>Paste the link into the Server field.</li>
-        <li>Tap <strong>Next</strong> and then <strong>Save</strong>.</li>
+        <li>Paste the link into the Subscription URL field.</li>
+        <li>Tap <strong>Subscribe</strong> and then <strong>Add</strong>.</li>
       </ol>
     </details>
 
     <details>
-      <summary>💻 Mac / Google Calendar</summary>
+      <summary>🤖 Android / Google Calendar</summary>
       <ol>
         <li>Tap the <strong>📋 Copy Link</strong> button above.</li>
-        <li>Go to <a href="https://calendar.google.com" target="_blank">Google Calendar</a>.</li>
+        <li>Go to <a href="https://calendar.google.com" target="_blank">Google Calendar</a> in your browser.</li>
         <li>On the left, click <strong>“+” next to Other calendars</strong>.</li>
         <li>Select <strong>“From URL”</strong>.</li>
         <li>Paste the link and click <strong>Add Calendar</strong>.</li>
       </ol>
+      <p><i>It may take several minutes to appear and sync, but once added, it will show up on all devices linked to that Google account — including Android.</i></p>
     </details>
   </section>
 
@@ -100,9 +93,9 @@
     const ageGroupSelect = document.getElementById('ageGroup');
     const divisionSelect = document.getElementById('division');
     const teamSelect = document.getElementById('team');
+    const divisionLabel = document.getElementById('division-label');
+    const teamLabel = document.getElementById('team-label');
     const linkContainer = document.getElementById('calendar-link');
-    const icsLink = document.getElementById('icsLink');
-    const icsDownload = document.getElementById('icsDownload');
     const copyBtn = document.getElementById('copyBtn');
 
     function clearSelect(select) {
@@ -134,6 +127,10 @@
     ageGroupSelect.addEventListener('change', () => {
       clearSelect(divisionSelect);
       clearSelect(teamSelect);
+      divisionSelect.style.display = 'inline-block';
+      divisionLabel.style.display = 'inline-block';
+      teamSelect.style.display = 'none';
+      teamLabel.style.display = 'none';
       linkContainer.style.display = 'none';
       const divisions = Object.keys(data[ageGroupSelect.value] || {});
       populateSelect(divisionSelect, sortAlpha(divisions));
@@ -141,6 +138,8 @@
 
     divisionSelect.addEventListener('change', () => {
       clearSelect(teamSelect);
+      teamSelect.style.display = 'inline-block';
+      teamLabel.style.display = 'inline-block';
       linkContainer.style.display = 'none';
       const teams = Object.keys(data[ageGroupSelect.value]?.[divisionSelect.value] || {});
       populateSelect(teamSelect, sortAlpha(teams));
@@ -152,10 +151,6 @@
       const team = teamSelect.value;
       const link = data[age]?.[div]?.[team];
       if (link) {
-        icsLink.href = link;
-        icsLink.textContent = `📅 ${team} Calendar`;
-        icsDownload.href = link;
-        icsDownload.download = `${team}.ics`;
         copyBtn.setAttribute('data-link', link);
         linkContainer.style.display = 'block';
       } else {
