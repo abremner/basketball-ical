@@ -1,0 +1,788 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Waverley Basketball Fixtures</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; background: #f9f9f9; }
+    h1 { color: #333; }
+    label, select { display: block; margin-top: 1rem; }
+    #calendar-link { margin-top: 2rem; display: none; }
+  </style>
+</head>
+<body>
+  <h1>Waverley Basketball Fixture Calendars</h1>
+  <p>Select your team to view or subscribe to their calendar:</p>
+
+  <label for="season">Season:</label>
+  <select id="season"><option value="">Select Season</option></select>
+
+  <label for="ageGroup">Age Group:</label>
+  <select id="ageGroup"><option value="">Select Age Group</option></select>
+
+  <label for="division">Division:</label>
+  <select id="division"><option value="">Select Division</option></select>
+
+  <label for="team">Team:</label>
+  <select id="team"><option value="">Select Team</option></select>
+
+  <div id="calendar-link">
+    <p><a id="icsLink" href="#" target="_blank">📅 View or Subscribe to Calendar</a></p>
+  </div>
+
+  <script>
+    const data = {
+  "U08 Boys (W25)": {
+    "Division 01": [
+      "AlphaWolf Tigers",
+      "Ashy Lightning Gold",
+      "East Malvern Piranhas",
+      "Maccabi Bucks",
+      "Maccabi Warriors",
+      "Solway Colts"
+    ],
+    "Division 02": [
+      "AlphaWolf Magic",
+      "Arax",
+      "Bambra Piranhas",
+      "Glen Iris Scorpions Ferndale",
+      "Glen Iris Scorpions Gardiner",
+      "Malvern Tigers Daniels",
+      "Malvern Tigers Exum",
+      "Timberwolves Blasters"
+    ],
+    "Division 03": [
+      "Claremont Piranhas",
+      "Malvern Tigers Ingles",
+      "Packer Park Piranhas",
+      "Solway Brumbies",
+      "Solway Chargers",
+      "Solway Mustangs",
+      "Timberwolves Pythons"
+    ],
+    "Division 04": [
+      "Ashy Lightning Green",
+      "Burnley Park Piranhas",
+      "Maccabi Celtics",
+      "Malvern Tigers Giddey",
+      "Melbourne Wolves RBT Raptors",
+      "Toorak Toucans"
+    ],
+    "Division 05": [
+      "Dorrington Piranhas",
+      "Golden Hawks Sky",
+      "Renwick Piranhas",
+      "Solway Stallions",
+      "Solway Steeds",
+      "Wattletree Piranhas"
+    ]
+  },
+  "U08 Girls (W25)": {
+    "Division 01": [
+      "Ashy Lightning Gold",
+      "Solway Blazes",
+      "Solway Fire",
+      "Timberwolves Diamonds"
+    ],
+    "Division 02": [
+      "Arax",
+      "Glen Iris Scorpions Ferndale",
+      "Malvern Tigers Atwell",
+      "Malvern Tigers Wallace",
+      "Solway Comets",
+      "Solway Stars",
+      "Warley Piranhas"
+    ],
+    "Division 03": [
+      "Ashy Lightning Green",
+      "Maccabi Bucks",
+      "Maccabi Celtics",
+      "Maccabi Warriors",
+      "Solway Meteors",
+      "Solway Sparks"
+    ],
+    "Division 04": [
+      "Flowerdale Piranhas",
+      "Harleston Park Piranhas",
+      "Korowa Cherry",
+      "Maccabi Ducks"
+    ]
+  },
+  "U10 Boys (W25)": {
+    "Division 01/02": [
+      "AlphaWolf Dragons",
+      "Maccabi Warriors",
+      "Malvern Tigers  Red",
+      "Malvern Tigers Black",
+      "Solway Boomers",
+      "Timberwolves Crusaders",
+      "Timberwolves Pistols",
+      "Toorak Tigercats"
+    ],
+    "Division 03": [
+      "Ashy Lightning Gold",
+      "Glen Iris Scorpions Ferndale",
+      "Maccabi Bucks",
+      "Malvern Tigers White",
+      "Malvern Tigers Yellow",
+      "Melbourne Wolves RBT Vipers"
+    ],
+    "Division 04": [
+      "Arax",
+      "Armadale Piranhas",
+      "Ashy Lightning Green",
+      "Dendy Park Piranhas",
+      "Maccabi Celtics",
+      "Malvern Tigers Green",
+      "Malvern Tigers Orange",
+      "Solway Lakers",
+      "Toorak Tigersharks"
+    ],
+    "Division 05": [
+      "Hawksburn Piranhas",
+      "Hotham Piranhas",
+      "Malvern Tigers Blue",
+      "Solway Celtics",
+      "Solway Hawks",
+      "Timberwolves Boomers"
+    ],
+    "Division 06": [
+      "AlphaWolf Hunters",
+      "Glen Iris Scorpions Gardiner",
+      "Glen Iris Scorpions Nettleton",
+      "Maccabi Ducks",
+      "Solway Bucks",
+      "SouthEast Venom Rockets",
+      "Timberwolves Cubs",
+      "Toorak Torpedoes"
+    ],
+    "Division 07": [
+      "Golden Hawks Sky",
+      "Malvern Tigers  Brown",
+      "Malvern Tigers  Purple",
+      "Orrong Park Piranhas",
+      "Penpraze Park Piranhas",
+      "Solway Bulls",
+      "Timberwolves Cobras",
+      "Toorak Tycoons"
+    ],
+    "Division 08": [
+      "Comets Snake",
+      "Glen Iris Scorpions Raven",
+      "Maccabi Falcons",
+      "Phoenix Park Piranhas",
+      "Timberwolves Bucks",
+      "Timberwolves Legends",
+      "Timberwolves Lightning",
+      "Toorak Thunderbolts"
+    ],
+    "Division 09": [
+      "Glen Iris Scorpions Summerhill",
+      "Golden Hawks Iron",
+      "Maccabi Eagles",
+      "Maccabi Hawks",
+      "Solway Nets",
+      "Toorak Thrashers"
+    ],
+    "Division 10": [
+      "AlphaWolf Kings",
+      "Maccabi Giants",
+      "Malvern Tigers Grey",
+      "Malvern Tigers Lime",
+      "Malvern Tigers Maroon"
+    ],
+    "Division 11": [
+      "Ashy Lightning Yellow",
+      "Koornang Piranhas",
+      "Maccabi Jaguars",
+      "Solway Hornets",
+      "SouthEast Venom Magic",
+      "Timberwolves Hawks"
+    ]
+  },
+  "U10 Girls (W25)": {
+    "Division 01": [
+      "Ashy Lightning Gold",
+      "Halley Park Piranhas",
+      "Korowa Cherry",
+      "Malvern Tigers Black",
+      "Solway Hurricanes",
+      "Timberwolves Sharks",
+      "Toorak Troublemakers"
+    ],
+    "Division 02": [
+      "Erindale Piranhas",
+      "Maccabi Warriors",
+      "Malvern Tigers Red",
+      "Malvern Tigers Yellow",
+      "Solway Blizzards",
+      "Solway Tornadoes",
+      "Timberwolves Warriors",
+      "Toorak Tangos"
+    ],
+    "Division 03": [
+      "AlphaWolf Sparks",
+      "Dairy Park Piranhas",
+      "Glen Iris Scorpions Ferndale",
+      "Maccabi Bucks",
+      "Malvern Tigers Blue",
+      "Malvern Tigers White",
+      "Solway Mistrals"
+    ],
+    "Division 04": [
+      "Embling Piranhas",
+      "Glen Iris Scorpions Gardiner",
+      "Grace Park Piranhas",
+      "Lauriston Fire",
+      "Maccabi Celtics",
+      "Malvern Tigers Green",
+      "Netherlee Piranhas",
+      "Valentine Piranhas"
+    ],
+    "Division 05": [
+      "AlphaWolf Blaze",
+      "Ashy Lightning Green",
+      "Korowa Grey",
+      "Maccabi Ducks",
+      "Maccabi Eagles",
+      "Malvern Tigers  Orange",
+      "Malvern Tigers Brown",
+      "Malvern Tigers Purple",
+      "Timberwolves Gems"
+    ]
+  },
+  "U12 Boys (W25)": {
+    "Division 01/02": [
+      "Ashy Lightning Gold",
+      "Glen Iris Scorpions Ferndale",
+      "Maccabi Warriors",
+      "Malvern Tigers  Red",
+      "Malvern Tigers Black",
+      "Timberwolves Bullets",
+      "Timberwolves Rocks",
+      "Toorak Taipans"
+    ],
+    "Division 03": [
+      "Golden Hawks Sky",
+      "Maccabi Bucks",
+      "Malvern Tigers Yellow",
+      "Windsor Piranhas",
+      "Yarra Park Piranhas"
+    ],
+    "Division 04": [
+      "AlphaWolf Legends",
+      "Maccabi Celtics",
+      "Malvern Tigers White",
+      "Solway Cubs",
+      "Timberwolves Colts",
+      "Toorak Tarantulas"
+    ],
+    "Division 05": [
+      "Alma Park Piranhas",
+      "Malvern Tigers Green",
+      "Solway Lions",
+      "Timberwolves Heat",
+      "Toorak Tigersnakes",
+      "Toorak Torchers"
+    ],
+    "Division 06": [
+      "Glen Iris Scorpions Gardiner",
+      "Heywood Park Piranhas",
+      "Maccabi Ducks",
+      "Malvern Tigers Orange",
+      "Solway Wolverines",
+      "Timberwolves Howlers"
+    ],
+    "Division 07": [
+      "AlphaWolf Lakers",
+      "AlphaWolf Spartans",
+      "Beckett Park Piranhas",
+      "Central Park Piranhas",
+      "Maccabi Eagles",
+      "Malvern Tigers  Brown",
+      "Malvern Tigers Blue"
+    ],
+    "Division 08": [
+      "Ashy Lightning Green",
+      "Glen Iris Scorpions Summerhill",
+      "Malvern Tigers Purple",
+      "Solway Bobcats",
+      "Timberwolves Chargers",
+      "Timberwolves Stealers"
+    ],
+    "Division 09": [
+      "AlphaWolf Warriors",
+      "Golden Hawks Iron",
+      "Maccabi Falcons",
+      "Maccabi Giants",
+      "Malvern Tigers Maroon",
+      "Warrawee Piranhas"
+    ],
+    "Division 10": [
+      "Comets Cyclones",
+      "Comets Tigers",
+      "Malvern Tigers Grey",
+      "Solway Panthers",
+      "Stonnington Piranhas",
+      "Toorak Thunder",
+      "Toorak Trouble"
+    ],
+    "Division 11": [
+      "Ardrie Park Piranhas",
+      "Ashy Lightning Yellow",
+      "Glen Iris Scorpions Nettleton",
+      "Glen Iris Scorpions Raven",
+      "Golden Hawks Blaze",
+      "Maccabi Hawks",
+      "Maccabi Jaguars",
+      "Maccabi Lakers",
+      "Timberwolves Cyclones"
+    ],
+    "Division 12": [
+      "Balaclava Piranhas",
+      "Maccabi Kings",
+      "Malvern Tigers Aqua",
+      "Malvern Tigers Lime",
+      "Malvern Tigers Tan",
+      "Solway Crocodiles",
+      "Solway Dingoes",
+      "Timberwolves Cavs",
+      "Timberwolves Fury",
+      "Wilson Piranhas"
+    ]
+  },
+  "U12 Girls (W25)": {
+    "Division 01/02": [
+      "Glen Iris Scorpions Ferndale",
+      "Malvern Tigers Phillips",
+      "Malvern Tigers Taylor",
+      "Solway Bluebirds",
+      "Solway Finches",
+      "Timberwolves Strikers",
+      "Toorak TopShots",
+      "Yanakie Piranhas"
+    ],
+    "Division 03": [
+      "Ashy Lightning Gold",
+      "Comets Rubies",
+      "Korowa Cherry",
+      "Malvern Tigers Hodges",
+      "Malvern Tigers Jarry",
+      "Malvern Tigers Mitchell",
+      "Solway Rosellas"
+    ],
+    "Division 04": [
+      "Aintree Piranhas",
+      "Glen Iris Scorpions Gardiner",
+      "Lauriston Sparks",
+      "Maccabi Bucks",
+      "Maccabi Warriors",
+      "Malvern Tigers Lavey",
+      "Timberwolves Thunder",
+      "Willow Piranhas"
+    ],
+    "Division 05": [
+      "Ashy Lightning Green",
+      "Erica Piranhas",
+      "Korowa Grey",
+      "Maccabi Celtics",
+      "Maccabi Ducks",
+      "Malvern Tigers Burton",
+      "Malvern Tigers Smith",
+      "Toorak Talons"
+    ],
+    "Division 06": [
+      "Ashy Lightning White",
+      "Ashy Lightning Yellow",
+      "Lauriston Storm",
+      "Maccabi Eagles",
+      "Solway Lorikeets",
+      "Timberwolves Hurricanes",
+      "Timberwolves Pearls"
+    ],
+    "Division 07": [
+      "Arax",
+      "Creswick Piranhas",
+      "Lauriston Suns",
+      "Maccabi Falcons",
+      "Solway Wrens"
+    ]
+  },
+  "U14 Boys (W25)": {
+    "Division 01": [
+      "Golden Hawks Sky",
+      "Malvern Tigers Black",
+      "Malvern Tigers Red",
+      "Solway Samurais",
+      "Timberwolves Lions",
+      "Toorak Tyrants"
+    ],
+    "Division 02": [
+      "Elsternwick Piranhas",
+      "Glen Iris Scorpions Ferndale",
+      "Glen Iris Scorpions Gardiner",
+      "Maccabi Warriors",
+      "Solway Knights",
+      "Tennyson Piranhas",
+      "Toorak Toros"
+    ],
+    "Division 03": [
+      "Ashy Lightning Gold",
+      "Glen Iris Piranhas",
+      "Glen Iris Scorpions Nettleton",
+      "Malvern Tigers Yellow",
+      "Paxton Piranhas",
+      "Timberwolves Phoenix"
+    ],
+    "Division 04": [
+      "Ashy Lightning Green",
+      "Maccabi Bucks",
+      "Malvern Tigers White",
+      "Solway Crusaders",
+      "Solway Trojans",
+      "Timberwolves Celtics",
+      "Toorak Triple-Threat"
+    ],
+    "Division 05": [
+      "AlphaWolf Force",
+      "Comets Lightning",
+      "Glen Iris Scorpions Raven",
+      "Maccabi Celtics",
+      "Malvern Tigers Green",
+      "Solway Warriors",
+      "Timberwolves Dragons",
+      "Toorak Tomcats"
+    ],
+    "Division 06": [
+      "AlphaWolf Conquerors",
+      "Ashy Lightning Yellow",
+      "Malvern Tigers Orange",
+      "Timberwolves Ramblers",
+      "Timberwolves Stones",
+      "Timberwolves Terriers"
+    ],
+    "Division 07": [
+      "Glen Iris Scorpions Summerhill",
+      "Inkerman Piranhas",
+      "Maccabi Ducks",
+      "Malvern Tigers Blue",
+      "Solway Gladiators",
+      "Solway Vikings"
+    ],
+    "Division 08": [
+      "Arax",
+      "Comets Sharks",
+      "Malvern Tigers Purple",
+      "Prahran Piranhas",
+      "Solway Mavericks",
+      "Solway Ninjas",
+      "Toorak Tractors"
+    ],
+    "Division 09": [
+      "Ashy Lightning White",
+      "Golden Hawks Iron",
+      "Maccabi Eagles",
+      "Maccabi Falcons",
+      "Maccabi Giants",
+      "Malvern Tigers Maroon",
+      "Solway Spartans",
+      "SouthEast Venom Heat",
+      "Timberwolves Raptors"
+    ]
+  },
+  "U14 Girls (W25)": {
+    "Division 01/02": [
+      "Ashy Lightning Gold",
+      "Gardenvale Piranhas",
+      "Maccabi Warriors",
+      "Malvern Tigers Phillips",
+      "Malvern Tigers Taylor",
+      "Solway Rubies",
+      "Timberwolves Comets",
+      "Toorak TopGuns"
+    ],
+    "Division 03": [
+      "Ashy Lightning Green",
+      "Cato Park Piranhas",
+      "Glen Iris Scorpions Ferndale",
+      "Glen Iris Scorpions Gardiner",
+      "Malvern Tigers Hodges",
+      "Solway Jewels",
+      "Timberwolves Flames"
+    ],
+    "Division 04": [
+      "Golden Hawks Sky",
+      "Lauriston Liberty",
+      "Malvern Tigers Jarry",
+      "Malvern Tigers Lavey",
+      "Malvern Tigers Mitchell"
+    ],
+    "Division 05": [
+      "Arax",
+      "Ashy Lightning Yellow",
+      "Korowa Cherry",
+      "Maccabi Bucks",
+      "Malvern Tigers Burton",
+      "McArthur Park Piranhas",
+      "Ranfurlie Piranhas",
+      "Solway Emeralds"
+    ],
+    "Division 06": [
+      "Ashy Lightning White",
+      "Glen Iris Scorpions Nettleton",
+      "Lauriston Legacy",
+      "Maccabi Celtics",
+      "Maccabi Ducks",
+      "Toorak Titans"
+    ],
+    "Division 07": [
+      "Darling Park Piranhas",
+      "Lauriston Legends",
+      "Solway Sapphires",
+      "Timberwolves Sapphires"
+    ]
+  },
+  "U16 Boys (W25)": {
+    "Division 01": [
+      "Ashy Lightning Gold",
+      "Bayside Piranhas",
+      "Malvern Tigers Black",
+      "Solway Rockets",
+      "Timberwolves Hustlers",
+      "Timberwolves United",
+      "Toorak Tropics"
+    ],
+    "Division 02": [
+      "Arax",
+      "Bailey Reserve Piranhas",
+      "Maccabi Half Court Miracles",
+      "Malvern Tigers Red",
+      "Spring Park Piranhas",
+      "Timberwolves Nuggets",
+      "Timberwolves Raiders"
+    ],
+    "Division 03": [
+      "Glen Iris Scorpions Saints",
+      "Malvern Tigers Yellow",
+      "Solway Blazers",
+      "Solway Pistons",
+      "Solway Slammers",
+      "Timberwolves Cats",
+      "Timberwolves Taipans",
+      "Toorak Trackers"
+    ],
+    "Division 04": [
+      "Maccabi Warriors",
+      "Ripponlea Piranhas",
+      "Serrell Park Piranhas",
+      "Solway Super Sonics",
+      "Timberwolves Boulders",
+      "Timberwolves Magnum",
+      "Toorak Terminators",
+      "Toorak Tornadoes"
+    ],
+    "Division 05": [
+      "AlphaWolf Tornados",
+      "Glen Iris Scorpions Sixers",
+      "Maccabi Bucks",
+      "Malvern Tigers White",
+      "Timberwolves 36ers",
+      "Timberwolves Magic"
+    ],
+    "Division 06": [
+      "AlphaWolf Shadows",
+      "Ashy Lightning Green",
+      "Malvern Tigers Green",
+      "Ormond Piranhas",
+      "Solway Blades",
+      "Solway Rangers",
+      "Solway Storm"
+    ],
+    "Division 07": [
+      "Maccabi Celtics",
+      "Malvern Piranhas",
+      "Malvern Tigers Orange",
+      "Manning Piranhas",
+      "Solway Heat",
+      "Timberwolves Blaze"
+    ]
+  },
+  "U16 Girls (W25)": {
+    "Division 01/02": [
+      "Finch Piranhas",
+      "Glen Iris Scorpions Sixers",
+      "Malvern Tigers Rocci",
+      "Malvern Tigers Tolo",
+      "Solway Fever",
+      "Solway Marvels",
+      "Timberwolves Rockets"
+    ],
+    "Division 03": [
+      "Maccabi Warriors",
+      "Malvern Tigers Atwell",
+      "Malvern Tigers Wallace",
+      "Solway Angels",
+      "Solway Demons",
+      "Solway Phoenix",
+      "Timberwolves Emeralds"
+    ],
+    "Division 04": [
+      "Ashy Lightning Gold",
+      "Glen Iris Scorpions Saints",
+      "Harold Piranhas",
+      "Korowa Cherry",
+      "Korowa Grey",
+      "Malvern Tigers Nicholson",
+      "Timberwolves Storm"
+    ]
+  },
+  "U18 Boys (W25)": {
+    "Section 01": [
+      "Ashy Lightning Gold",
+      "Hazelwood Park Piranhas",
+      "Maccabi Warriors",
+      "Malvern Tigers Black",
+      "Solway Taipans",
+      "Southside Piranhas"
+    ],
+    "Section 02": [
+      "Glen Iris Scorpions Sixers",
+      "Glenbrook Piranhas",
+      "Maccabi Lightening",
+      "Solway Pistons",
+      "Tooronga Piranhas",
+      "Watson Park Piranhas"
+    ],
+    "Section 03": [
+      "Ferncroft Piranhas",
+      "Glen Iris Scorpions Saints",
+      "Maccabi Bucks",
+      "Maccabi Vipers",
+      "Solway Bullets",
+      "Solway Torpedoes",
+      "Timberwolves Wizards"
+    ],
+    "Section 04": [
+      "Comets Storm",
+      "Golden Hawks Sky",
+      "Malvern Tigers Red",
+      "Timberwolves Knights",
+      "Timberwolves Stars",
+      "Timberwolves Wildcats",
+      "Toorak Turbos"
+    ]
+  },
+  "U18 Girls (W25)": {
+    "Section 01": [
+      "Ashy Lightning Gold",
+      "Malvern Tigers Jackson",
+      "Malvern Tigers Reid",
+      "Solway Magic",
+      "Solway Suns",
+      "Timberwolves Panthers",
+      "Toorak Trailblazers"
+    ],
+    "Section 02": [
+      "Ashy Lightning Green",
+      "Glen Iris Scorpions Suns",
+      "Malvern Tigers Talbot",
+      "Solway Stellars",
+      "Summerhill Park Piranhas",
+      "Timberwolves Cheetahs"
+    ]
+  },
+  "U21 Mens (W25)": {
+    "Section 01": [
+      "Glen Iris Scorpions Pandas",
+      "Malvern Tigers Black",
+      "Solway Vipers",
+      "Timberwolves Lakers",
+      "Timberwolves Rizzly Bears"
+    ],
+    "Section 02": [
+      "Ashy Lightning Gold",
+      "Maccabi Le Boomers",
+      "Solway Cobras",
+      "Solway Pythons",
+      "Titans Larrys"
+    ]
+  },
+  "U21 Womens (W25)": {
+    "Section 01": [
+      "Glen Iris Scorpions Sixers",
+      "Malvern Tigers Black",
+      "Malvern Tigers George",
+      "Solway Dream",
+      "Solway Galaxy",
+      "Solway Saints"
+    ]
+  }
+};
+    const seasonSelect = document.getElementById('season');
+    const ageGroupSelect = document.getElementById('ageGroup');
+    const divisionSelect = document.getElementById('division');
+    const teamSelect = document.getElementById('team');
+    const linkContainer = document.getElementById('calendar-link');
+    const icsLink = document.getElementById('icsLink');
+
+    function clearSelect(select) {
+      select.innerHTML = '<option value="">Select</option>';
+    }
+
+    function populateSelect(select, options) {
+      clearSelect(select);
+      options.forEach(opt => {
+        const o = document.createElement('option');
+        o.value = opt;
+        o.textContent = opt;
+        select.appendChild(o);
+      });
+    }
+
+    seasonSelect.addEventListener('change', () => {
+      clearSelect(ageGroupSelect);
+      clearSelect(divisionSelect);
+      clearSelect(teamSelect);
+      linkContainer.style.display = 'none';
+      const ageGroups = Object.keys(data[seasonSelect.value] || {});
+      populateSelect(ageGroupSelect, ageGroups);
+    });
+
+    ageGroupSelect.addEventListener('change', () => {
+      clearSelect(divisionSelect);
+      clearSelect(teamSelect);
+      linkContainer.style.display = 'none';
+      const divisions = Object.keys(data[seasonSelect.value]?.[ageGroupSelect.value] || {});
+      populateSelect(divisionSelect, divisions);
+    });
+
+    divisionSelect.addEventListener('change', () => {
+      clearSelect(teamSelect);
+      linkContainer.style.display = 'none';
+      const teams = Object.keys(data[seasonSelect.value]?.[ageGroupSelect.value]?.[divisionSelect.value] || {});
+      populateSelect(teamSelect, teams);
+    });
+
+    teamSelect.addEventListener('change', () => {
+      const season = seasonSelect.value;
+      const age = ageGroupSelect.value;
+      const div = divisionSelect.value;
+      const team = teamSelect.value;
+      const link = data[season]?.[age]?.[div]?.[team];
+      if (link) {
+        icsLink.href = link;
+        icsLink.textContent = `📅 ${team} Calendar`;
+        linkContainer.style.display = 'block';
+      } else {
+        linkContainer.style.display = 'none';
+      }
+    });
+
+    window.onload = () => {
+      const seasons = Object.keys(data);
+      populateSelect(seasonSelect, seasons);
+    };
+  </script>
+</body>
+</html>
