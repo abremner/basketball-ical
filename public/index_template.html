@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,6 +19,32 @@
       border-radius: 4px;
     }
     .btn:hover { background: #005fa3; }
+    .btn-copy {
+      margin-left: 1rem;
+      background: #4caf50;
+    }
+    .btn-copy:hover {
+      background: #3b8f40;
+    }
+    details {
+      margin-top: 1rem;
+      padding: 1rem;
+      background: #fff;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+    }
+    summary {
+      font-weight: bold;
+      cursor: pointer;
+      margin-bottom: 0.5rem;
+    }
+    details[open] {
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    }
+    ol {
+      margin-left: 1.25rem;
+      padding-left: 0.5rem;
+    }
   </style>
 </head>
 <body>
@@ -34,9 +61,38 @@
   <select id="team"><option value="">Select Team</option></select>
 
   <div id="calendar-link">
-    <p><a id="icsLink" class="btn" href="#" target="_blank">📅 Subscribe</a></p>
+    <p>
+      <a id="icsLink" class="btn" href="#" target="_blank">📅 Subscribe</a>
+      <button id="copyBtn" class="btn btn-copy">📋 Copy Link</button>
+    </p>
     <p><a id="icsDownload" class="btn" href="#" download>⬇️ Download Calendar</a></p>
   </div>
+
+  <section>
+    <h2>📖 How to Subscribe</h2>
+    <details>
+      <summary>📱 iPhone / iOS</summary>
+      <ol>
+        <li>Tap the <strong>📋 Copy Link</strong> button above.</li>
+        <li>Open the <strong>Settings</strong> app.</li>
+        <li>Go to <strong>Calendar > Accounts > Add Account</strong>.</li>
+        <li>Select <strong>Other</strong> > <strong>Add Subscribed Calendar</strong>.</li>
+        <li>Paste the link into the Server field.</li>
+        <li>Tap <strong>Next</strong> and then <strong>Save</strong>.</li>
+      </ol>
+    </details>
+
+    <details>
+      <summary>💻 Mac / Google Calendar</summary>
+      <ol>
+        <li>Tap the <strong>📋 Copy Link</strong> button above.</li>
+        <li>Go to <a href="https://calendar.google.com" target="_blank">Google Calendar</a>.</li>
+        <li>On the left, click <strong>“+” next to Other calendars</strong>.</li>
+        <li>Select <strong>“From URL”</strong>.</li>
+        <li>Paste the link and click <strong>Add Calendar</strong>.</li>
+      </ol>
+    </details>
+  </section>
 
   <script>
     const data = DATA_PLACEHOLDER;
@@ -47,6 +103,7 @@
     const linkContainer = document.getElementById('calendar-link');
     const icsLink = document.getElementById('icsLink');
     const icsDownload = document.getElementById('icsDownload');
+    const copyBtn = document.getElementById('copyBtn');
 
     function clearSelect(select) {
       select.innerHTML = '<option value="">Select</option>';
@@ -64,8 +121,8 @@
 
     function sortAgeGroups(groups) {
       return groups.sort((a, b) => {
-        const ageA = parseInt(a.match(/\\d+/));
-        const ageB = parseInt(b.match(/\\d+/));
+        const ageA = parseInt(a.match(/\d+/));
+        const ageB = parseInt(b.match(/\d+/));
         return ageA - ageB;
       });
     }
@@ -99,9 +156,20 @@
         icsLink.textContent = `📅 ${team} Calendar`;
         icsDownload.href = link;
         icsDownload.download = `${team}.ics`;
+        copyBtn.setAttribute('data-link', link);
         linkContainer.style.display = 'block';
       } else {
         linkContainer.style.display = 'none';
+      }
+    });
+
+    copyBtn.addEventListener('click', () => {
+      const link = copyBtn.getAttribute('data-link');
+      if (link) {
+        navigator.clipboard.writeText(window.location.origin + '/' + link).then(() => {
+          copyBtn.textContent = '✅ Copied!';
+          setTimeout(() => copyBtn.textContent = '📋 Copy Link', 2000);
+        });
       }
     });
 
