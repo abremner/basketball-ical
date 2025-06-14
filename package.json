@@ -2,15 +2,22 @@
   "name": "waverley-fixture-scraper",
   "version": "1.0.0",
   "type": "module",
-  "main": "scraper.js",
+  "main":  "dist/scraper.js",
   "scripts": {
-    "start": "node scraper.js"
+    "build": "tsc",
+    "start": "node dist/scraper.js"
   },
   "dependencies": {
-    "cheerio": "^1.0.0-rc.12",
+    "@types/node": "^24.0.1",
+    "cheerio": "^1.1.0",
+    "fetch-cookie": "^3.1.0",
     "ical-generator": "^6.0.1",
     "node-fetch": "^3.3.2",
-    "fetch-cookie": "^3.1.0",
-    "tough-cookie": "^4.1.3"
+    "tough-cookie": "^4.1.4",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.35",
+    "@types/tough-cookie": "^4.0.5"
   }
 }

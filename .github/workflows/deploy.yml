@@ -1,10 +1,9 @@
 name: Deploy Calendar Files to GitHub Pages
 
 on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual run
+  schedule:
+    - cron: "0 17 * * *" # Runs daily at 17:00 UTC, which is 3:00 AEST (AEST is UTC+10)
 
 jobs:
   deploy:
@@ -15,13 +14,16 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: "20"
 
       - name: Install dependencies
         run: npm ci
 
-      - name: Run scraper to generate .ics files
-        run: npm start
+      - name: Build TypeScript
+        run: npm run build
+
+      - name: Run scraper
+        run: node dist/scraper.js
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3

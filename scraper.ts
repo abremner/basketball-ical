@@ -1,29 +1,56 @@
 import fetch from 'node-fetch';
-import * as cheerio from 'cheerio';
-import { CookieJar } from 'tough-cookie';
 import fetchCookie from 'fetch-cookie';
-import ical from 'ical-generator';
-import { writeFileSync, mkdirSync, writeFile } from 'fs';
-import path from 'path';
+import { CookieJar } from 'tough-cookie';
+import * as cheerio from 'cheerio';
+import * as path from 'path';
+import { mkdirSync, writeFileSync } from 'fs';
+import * as fs from 'fs/promises';
+import ical, { ICalCalendar } from 'ical-generator';
+
+interface Season {
+  id: string;
+  name: string;
+}
+
+interface Division {
+  id: string;
+  name: string;
+}
+
+interface Team {
+  id: string;
+  name: string;
+}
+
+interface FixtureMeta {
+  seasonDir: string;
+  division: string;
+  team: string;
+}
 
 const fetchWithCookies = fetchCookie(fetch, new CookieJar());
 
 const BASE_URL = 'https://www.waverleybasketball.com/fixtures.aspx';
 
-function sanitizeFilename(str) {
+function sanitizeFilename(str: string): string {
   return str.replace(/[<>:"/\\|?*]+/g, '').replace(/\s+/g, '_');
 }
 
-async function getInitialFormData() {
+async function getInitialFormData(): Promise<{
+  viewState: string;
+  viewStateGen: string;
+  eventValidation: string;
+  seasons: Season[];
+}> {
   const res = await fetchWithCookies(BASE_URL);
   const html = await res.text();
   const $ = cheerio.load(html);
 
-  const viewState = $('#__VIEWSTATE').val();
-  const viewStateGen = $('#__VIEWSTATEGENERATOR').val();
-  const eventValidation = $('#__EVENTVALIDATION').val();
+const viewState = String($('#__VIEWSTATE').val() ?? '');
+const viewStateGen = String($('#__VIEWSTATEGENERATOR').val() ?? '');
+const eventValidation = String($('#__EVENTVALIDATION').val() ?? '');
 
-  const seasons = [];
+  const seasons: Season[] = [];
   $('#season option').each((_, el) => {
     const id = $(el).attr('value');
     const name = $(el).text().trim();
@@ -33,7 +60,10 @@ async function getInitialFormData() {
   return { viewState, viewStateGen, eventValidation, seasons };
 }
 
-async function getDivisions(seasonId, formData) {
+async function getDivisions(
+  seasonId: string,
+  formData: { viewState: string; viewStateGen: string; eventValidation: string }
+): Promise<Division[]> {
   const body = new URLSearchParams({
     __VIEWSTATE: formData.viewState,
     __VIEWSTATEGENERATOR: formData.viewStateGen,
@@ -53,7 +83,7 @@ async function getDivisions(seasonId, formData) {
   const html = await res.text();
   const $ = cheerio.load(html);
 
-  const divisions = [];
+  const divisions: Division[] = [];
   $('#grades option').each((_, el) => {
     const id = $(el).attr('value');
     const name = $(el).text().trim();
@@ -63,12 +93,12 @@ async function getDivisions(seasonId, formData) {
   return divisions;
 }
 
-async function getTeams(divisionId) {
+async function getTeams(divisionId: string): Promise<Team[]> {
   const res = await fetchWithCookies(`${BASE_URL}?sgid2=${divisionId}`);
   const html = await res.text();
   const $ = cheerio.load(html);
 
-  const teams = [];
+  const teams: Team[] = [];
   $('#teams option').each((_, el) => {
     const id = $(el).attr('value');
     const name = $(el).text().trim();
@@ -78,13 +108,19 @@ async function getTeams(divisionId) {
   return teams;
 }
 
-async function getFixtures(seasonDir, division, team, divisionId, teamId) {
+async function getFixtures(
+  seasonDir: string,
+  division: string,
+  team: string,
+  divisionId: string,
+  teamId: string
+): Promise<void> {
   const res = await fetchWithCookies(`${BASE_URL}?sgid2=${divisionId}&tid=${teamId}`);
   const html = await res.text();
   const $ = cheerio.load(html);
 
   const rows = $('table tr').toArray();
-  const calendar = ical({ name: `${team} Fixtures` });
+  const calendar: ICalCalendar = ical({ name: `${team} Fixtures` });
 
   for (let i = 1; i < rows.length; i++) {
     const tds = $(rows[i]).find('td');
@@ -122,7 +158,7 @@ async function getFixtures(seasonDir, division, team, divisionId, teamId) {
   const { viewState, viewStateGen, eventValidation, seasons } = await getInitialFormData();
 
   // Collect fixture metadata for index
-  const fixtures = [];
+  const fixtures: FixtureMeta[] = [];
 
   // Only process seasons that start with "U08", "U10", "U12", etc.
   const ageGroupPattern = /^U\d{2}/;
@@ -158,8 +194,8 @@ async function getFixtures(seasonDir, division, team, divisionId, teamId) {
   await writeIndexFile(nested);
 })();
 
-function buildNestedFixtureIndex(fixtures) {
-  const nested = {};
+function buildNestedFixtureIndex(fixtures: FixtureMeta[]): Record<string, Record<string, string[]>> {
+  const nested: Record<string, Record<string, string[]>> = {};
   for (const { seasonDir, division, team } of fixtures) {
     if (!nested[seasonDir]) nested[seasonDir] = {};
     if (!nested[seasonDir][division]) nested[seasonDir][division] = [];
@@ -168,7 +204,7 @@ function buildNestedFixtureIndex(fixtures) {
   return nested;
 }
 
-async function writeIndexFile(nestedData) {
+async function writeIndexFile(nestedData: Record<string, Record<string, string[]>>): Promise<void>  {
   const html = `
 <!DOCTYPE html>
 <html lang="en">
@@ -272,5 +308,5 @@ async function writeIndexFile(nestedData) {
 </body>
 </html>
 `;
-  writeFile('public/index.html', html);
+  await fs.writeFile('public/index.html', html);
 }
