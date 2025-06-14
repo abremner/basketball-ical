@@ -122,7 +122,10 @@ async function getFixtures(
   const $ = cheerio.load(html);
 
   const rows = $('table tr').toArray();
-  const calendar: ICalCalendar = ical({ name: `${team} Fixtures`, timezone });
+  const calendar: ICalCalendar = ical({
+    name: `${team} Fixtures`,
+    timezone,
+  });
 
   for (let i = 1; i < rows.length; i++) {
     const tds = $(rows[i]).find('td');
@@ -137,33 +140,30 @@ async function getFixtures(
     const [venue, time] = venueTime.split(',').map(s => s.trim());
     const opponent = tds.eq(1).text().trim();
 
+    if (opponent.toLowerCase() === 'bye') {
+      console.log(`Skipping bye for ${team}`);
+      continue;
+    }
+
     const dt = DateTime.fromFormat(
       `${dateStr.trim()} ${time}`,
       'd LLL yyyy HH:mm',
       { zone: timezone }
     );
-    if (opponent.toLowerCase() === 'bye') {
-      console.log(`Skipping bye for ${team} vs ${opponent}`);
-      continue;
-    }
+
     if (!dt.isValid) {
-      console.warn(`Skipping invalid date: ${dateStr} ${time} for ${team} vs ${opponent}`);
+      console.warn(`Skipping invalid date: ${dateStr} ${time} for ${team}`);
       continue;
     }
 
     const ageAndGender = seasonDir.match(/^[^(]+/)?.[0].trim() || '';
 
-calendar.createEvent({
-  start: DateTime.fromFormat(`${dateStr} ${time}`, 'd LLL yyyy HH:mm', {
-    zone: 'Australia/Melbourne',
-  }),
-  end: DateTime.fromFormat(`${dateStr} ${time}`, 'd LLL yyyy HH:mm', {
-    zone: 'Australia/Melbourne',
-  }).plus({ hours: 1 }),
-  summary: `🏀 ${ageAndGender}: ${team} vs ${opponent}`,
-  location: venue,
-});
-    
+    calendar.createEvent({
+      start: dt,
+      end: dt.plus({ hours: 1 }),
+      summary: `🏀 ${ageAndGender}: ${team} vs ${opponent}`,
+      location: venue,
+    });
   }
 
   const outputPath = path.join('public', sanitizeFilename(seasonDir), sanitizeFilename(division));
