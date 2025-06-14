@@ -154,8 +154,8 @@ async function getFixtures(
     const ageAndGender = seasonDir.match(/^[^(]+/)?.[0].trim() || '';
 
     calendar.createEvent({
-      start: dt.toJSDate(),
-      end: dt.plus({ hours: 1 }).toJSDate(),
+      start: dt.toISO(),
+      end: dt.plus({ hours: 1 }).toISO(),
       summary: `🏀 ${ageAndGender}: ${team} vs ${opponent}`,
       location: venue,
       timezone
