@@ -1,0 +1,16 @@
+{
+  "name": "waverley-fixture-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "ical-generator": "^6.0.1",
+    "node-fetch": "^3.3.2",
+    "fetch-cookie": "^3.1.0",
+    "tough-cookie": "^4.1.3"
+  }
+}
