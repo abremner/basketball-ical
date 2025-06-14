@@ -72,7 +72,7 @@ async function getTeams(divisionId) {
   $('#teams option').each((_, el) => {
     const id = $(el).attr('value');
     const name = $(el).text().trim();
-    if (id && id !== '0') teams.push({ id, name });
+    if (id && id !== '0' && name !== 'Select...') teams.push({ id, name });
   });
 
   return teams;
@@ -86,28 +86,32 @@ async function getFixtures(seasonName, ageGroup, division, team, divisionId, tea
   const rows = $('table tr').toArray();
   const calendar = ical({ name: `${team} Fixtures` });
 
-  for (let i = 1; i < rows.length; i += 2) {
-    const dateInfo = $(rows[i]).find('td').eq(0).html()?.split('<br>') ?? [];
-    const opponent = $(rows[i + 1]).find('td').eq(0).text().trim();
+  for (let i = 1; i < rows.length; i++) { // start at 1 to skip header
+    const tds = $(rows[i]).find('td');
+    if (tds.length < 2) continue; // skip malformed rows
 
-    if (dateInfo.length >= 2) {
-      const dateStr = dateInfo[0].trim();
-      const [venue, time] = dateInfo[1].split(',').map(s => s.trim());
-      const startTime = new Date(`${dateStr} ${time}`);
+    const dateVenueHtml = tds.eq(0).html(); // e.g. "09 Aug 2025<br>ORC5, 08:45"
+    if (!dateVenueHtml || !dateVenueHtml.includes('<br>')) continue; // skip if not a fixture row
 
-      // Check for valid date
-      if (isNaN(startTime.getTime())) {
-        console.warn(`Skipping invalid date: ${dateStr} ${time} for ${team} vs ${opponent}`);
-        continue;
-      }
+    const [dateStr, venueTime] = dateVenueHtml.split('<br>');
+    if (!venueTime || !dateStr) continue;
 
-      calendar.createEvent({
-        start: startTime,
-        end: new Date(startTime.getTime() + 60 * 60 * 1000),
-        summary: `${team} vs ${opponent}`,
-        location: venue,
-      });
+    const [venue, time] = venueTime.split(',').map(s => s.trim());
+    const opponent = tds.eq(1).text().trim();
+
+    // Validate date
+    const startTime = new Date(`${dateStr.trim()} ${time}`);
+    if (isNaN(startTime.getTime())) {
+      console.warn(`Skipping invalid date: ${dateStr} ${time} for ${team} vs ${opponent}`);
+      continue;
     }
+
+    calendar.createEvent({
+      start: startTime,
+      end: new Date(startTime.getTime() + 60 * 60 * 1000),
+      summary: `${team} vs ${opponent}`,
+      location: venue,
+    });
   }
 
   const outputPath = path.join('public', sanitizeFilename(seasonName), sanitizeFilename(ageGroup), sanitizeFilename(division));
