@@ -4,7 +4,7 @@ import { CookieJar } from 'tough-cookie';
 import * as cheerio from 'cheerio';
 import * as path from 'path';
 import { mkdirSync, readFileSync, writeFileSync } from 'fs';
-import * as fs from 'fs/promises';
+import { DateTime } from 'luxon';
 import ical, { ICalCalendar } from 'ical-generator';
 
 interface Season {
@@ -30,6 +30,7 @@ interface FixtureMeta {
 
 const fetchWithCookies = fetchCookie(fetch, new CookieJar());
 const REPO_NAME = 'basketball-ical';
+const timezone = 'Australia/Melbourne';
 
 const BASE_URL = 'https://www.waverleybasketball.com/fixtures.aspx';
 
@@ -121,7 +122,7 @@ async function getFixtures(
   const $ = cheerio.load(html);
 
   const rows = $('table tr').toArray();
-  const calendar: ICalCalendar = ical({ name: `${team} Fixtures` });
+  const calendar: ICalCalendar = ical({ name: `${team} Fixtures`, timezone });
 
   for (let i = 1; i < rows.length; i++) {
     const tds = $(rows[i]).find('td');
@@ -136,8 +137,16 @@ async function getFixtures(
     const [venue, time] = venueTime.split(',').map(s => s.trim());
     const opponent = tds.eq(1).text().trim();
 
-    const startTime = new Date(`${dateStr.trim()} ${time}`);
-    if (isNaN(startTime.getTime())) {
+    const dt = DateTime.fromFormat(
+      `${dateStr.trim()} ${time}`,
+      'd LLL yyyy HH:mm',
+      { zone: timezone }
+    );
+    if (opponent.toLowerCase() === 'bye') {
+      console.log(`Skipping bye for ${team} vs ${opponent}`);
+      continue;
+    }
+    if (!dt.isValid) {
       console.warn(`Skipping invalid date: ${dateStr} ${time} for ${team} vs ${opponent}`);
       continue;
     }
@@ -145,10 +154,11 @@ async function getFixtures(
     const ageAndGender = seasonDir.match(/^[^(]+/)?.[0].trim() || '';
 
     calendar.createEvent({
-      start: startTime,
-      end: new Date(startTime.getTime() + 60 * 60 * 1000),
+      start: dt.toJSDate(),
+      end: dt.plus({ hours: 1 }).toJSDate(),
       summary: `🏀 ${ageAndGender}: ${team} vs ${opponent}`,
       location: venue,
+      timezone
     });
   }
 
