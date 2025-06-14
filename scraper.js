@@ -1,11 +1,9 @@
-
-// Required modules
 import fetch from 'node-fetch';
 import * as cheerio from 'cheerio';
 import { CookieJar } from 'tough-cookie';
 import fetchCookie from 'fetch-cookie';
 import ical from 'ical-generator';
-import { writeFileSync, mkdirSync } from 'fs';
+import { writeFileSync, mkdirSync, writeFile } from 'fs';
 import path from 'path';
 
 const fetchWithCookies = fetchCookie(fetch, new CookieJar());
@@ -97,6 +95,12 @@ async function getFixtures(seasonName, ageGroup, division, team, divisionId, tea
       const [venue, time] = dateInfo[1].split(',').map(s => s.trim());
       const startTime = new Date(`${dateStr} ${time}`);
 
+      // Check for valid date
+      if (isNaN(startTime.getTime())) {
+        console.warn(`Skipping invalid date: ${dateStr} ${time} for ${team} vs ${opponent}`);
+        continue;
+      }
+
       calendar.createEvent({
         start: startTime,
         end: new Date(startTime.getTime() + 60 * 60 * 1000),
@@ -114,9 +118,17 @@ async function getFixtures(seasonName, ageGroup, division, team, divisionId, tea
 (async () => {
   const { viewState, viewStateGen, eventValidation, seasons } = await getInitialFormData();
 
+  // Collect fixture metadata for index
+  const fixtures = [];
+
   for (const season of seasons) {
     const ageGroup = season.name.split(' (')[0];
-    const seasonLabel = season.name.match(/\((.*?)\)/)?.[1] ?? 'Unknown';
+    const seasonLabel = season.name.match(/\((.*?)\)/)?.[1];
+
+    if (!seasonLabel) {
+      console.error(`Skipping season "${season.name}" as it does not have a valid label.`);
+      continue;
+    }
 
     const divisions = await getDivisions(season.id, { viewState, viewStateGen, eventValidation });
 
@@ -125,13 +137,22 @@ async function getFixtures(seasonName, ageGroup, division, team, divisionId, tea
       for (const team of teams) {
         console.log(`Fetching: ${seasonLabel} / ${ageGroup} / ${division.name} / ${team.name}`);
         await getFixtures(seasonLabel, ageGroup, division.name, team.name, division.id, team.id);
+
+        // Collect for index
+        fixtures.push({
+          seasonLabel,
+          ageGroup,
+          division: division.name,
+          team: team.name,
+        });
       }
     }
   }
+
+  // Build and write index after all fixtures are processed
+  const nested = buildNestedFixtureIndex(fixtures);
+  await writeIndexFile(nested);
 })();
-
-
-import { writeFileSync as writeFile } from 'fs';
 
 function buildNestedFixtureIndex(fixtures) {
   const nested = {};
