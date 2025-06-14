@@ -144,7 +144,7 @@ async function getFixtures(
     calendar.createEvent({
       start: startTime,
       end: new Date(startTime.getTime() + 60 * 60 * 1000),
-      summary: `${team} vs ${opponent}`,
+      summary: `🏀 ${team} vs ${opponent}`,
       location: venue,
     });
   }
