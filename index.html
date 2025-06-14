@@ -3,6 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Waverley Basketball Fixtures</title>
   <style>
     body { font-family: sans-serif; padding: 2rem; background: #f9f9f9; }
@@ -19,13 +20,6 @@
       border-radius: 4px;
     }
     .btn:hover { background: #005fa3; }
-    .btn-copy {
-      margin-left: 1rem;
-      background: #4caf50;
-    }
-    .btn-copy:hover {
-      background: #3b8f40;
-    }
     details {
       margin-top: 1rem;
       padding: 1rem;
@@ -54,18 +48,16 @@
   <label for="ageGroup">Age Group:</label>
   <select id="ageGroup"><option value="">Select Age Group</option></select>
 
-  <label for="division">Division:</label>
-  <select id="division"><option value="">Select Division</option></select>
+  <label for="division" id="division-label" style="display:none;">Division:</label>
+  <select id="division" style="display:none;"><option value="">Select Division</option></select>
 
-  <label for="team">Team:</label>
-  <select id="team"><option value="">Select Team</option></select>
+  <label for="team" id="team-label" style="display:none;">Team:</label>
+  <select id="team" style="display:none;"><option value="">Select Team</option></select>
 
   <div id="calendar-link">
     <p>
-      <a id="icsLink" class="btn" href="#" target="_blank">📅 Subscribe</a>
-      <button id="copyBtn" class="btn btn-copy">📋 Copy Link</button>
+      <button id="copyBtn" class="btn">📋 Copy Link</button>
     </p>
-    <p><a id="icsDownload" class="btn" href="#" download>⬇️ Download Calendar</a></p>
   </div>
 
   <section>
@@ -74,23 +66,24 @@
       <summary>📱 iPhone / iOS</summary>
       <ol>
         <li>Tap the <strong>📋 Copy Link</strong> button above.</li>
-        <li>Open the <strong>Settings</strong> app.</li>
-        <li>Go to <strong>Calendar > Accounts > Add Account</strong>.</li>
+        <li>Open the <strong>Calendar</strong> app.</li>
+        <li>Go to <strong>Calendars > Add Calendar > Add Subscription Calendar</strong>.</li>
         <li>Select <strong>Other</strong> > <strong>Add Subscribed Calendar</strong>.</li>
-        <li>Paste the link into the Server field.</li>
-        <li>Tap <strong>Next</strong> and then <strong>Save</strong>.</li>
+        <li>Paste the link into the Subscription URL field.</li>
+        <li>Tap <strong>Subscribe</strong> and then <strong>Add</strong>.</li>
       </ol>
     </details>
 
     <details>
-      <summary>💻 Mac / Google Calendar</summary>
+      <summary>🤖 Android / Google Calendar</summary>
       <ol>
         <li>Tap the <strong>📋 Copy Link</strong> button above.</li>
-        <li>Go to <a href="https://calendar.google.com" target="_blank">Google Calendar</a>.</li>
+        <li>Go to <a href="https://calendar.google.com" target="_blank">Google Calendar</a> in your browser.</li>
         <li>On the left, click <strong>“+” next to Other calendars</strong>.</li>
         <li>Select <strong>“From URL”</strong>.</li>
         <li>Paste the link and click <strong>Add Calendar</strong>.</li>
       </ol>
+      <p><i>It may take several minutes to appear and sync, but once added, it will show up on all devices linked to that Google account — including Android.</i></p>
     </details>
   </section>
 
@@ -98,687 +91,687 @@
     const data = {
   "U08 Boys (W25)": {
     "Division 01": {
-      "AlphaWolf Tigers": "U08_Boys_(W25)/Division_01/AlphaWolf_Tigers.ics",
-      "Ashy Lightning Gold": "U08_Boys_(W25)/Division_01/Ashy_Lightning_Gold.ics",
-      "East Malvern Piranhas": "U08_Boys_(W25)/Division_01/East_Malvern_Piranhas.ics",
-      "Maccabi Bucks": "U08_Boys_(W25)/Division_01/Maccabi_Bucks.ics",
-      "Maccabi Warriors": "U08_Boys_(W25)/Division_01/Maccabi_Warriors.ics",
-      "Solway Colts": "U08_Boys_(W25)/Division_01/Solway_Colts.ics"
+      "AlphaWolf Tigers": "basketball-ical/U08_Boys_(W25)/Division_01/AlphaWolf_Tigers.ics",
+      "Ashy Lightning Gold": "basketball-ical/U08_Boys_(W25)/Division_01/Ashy_Lightning_Gold.ics",
+      "East Malvern Piranhas": "basketball-ical/U08_Boys_(W25)/Division_01/East_Malvern_Piranhas.ics",
+      "Maccabi Bucks": "basketball-ical/U08_Boys_(W25)/Division_01/Maccabi_Bucks.ics",
+      "Maccabi Warriors": "basketball-ical/U08_Boys_(W25)/Division_01/Maccabi_Warriors.ics",
+      "Solway Colts": "basketball-ical/U08_Boys_(W25)/Division_01/Solway_Colts.ics"
     },
     "Division 02": {
-      "AlphaWolf Magic": "U08_Boys_(W25)/Division_02/AlphaWolf_Magic.ics",
-      "Arax": "U08_Boys_(W25)/Division_02/Arax.ics",
-      "Bambra Piranhas": "U08_Boys_(W25)/Division_02/Bambra_Piranhas.ics",
-      "Glen Iris Scorpions Ferndale": "U08_Boys_(W25)/Division_02/Glen_Iris_Scorpions_Ferndale.ics",
-      "Glen Iris Scorpions Gardiner": "U08_Boys_(W25)/Division_02/Glen_Iris_Scorpions_Gardiner.ics",
-      "Malvern Tigers Daniels": "U08_Boys_(W25)/Division_02/Malvern_Tigers_Daniels.ics",
-      "Malvern Tigers Exum": "U08_Boys_(W25)/Division_02/Malvern_Tigers_Exum.ics",
-      "Timberwolves Blasters": "U08_Boys_(W25)/Division_02/Timberwolves_Blasters.ics"
+      "AlphaWolf Magic": "basketball-ical/U08_Boys_(W25)/Division_02/AlphaWolf_Magic.ics",
+      "Arax": "basketball-ical/U08_Boys_(W25)/Division_02/Arax.ics",
+      "Bambra Piranhas": "basketball-ical/U08_Boys_(W25)/Division_02/Bambra_Piranhas.ics",
+      "Glen Iris Scorpions Ferndale": "basketball-ical/U08_Boys_(W25)/Division_02/Glen_Iris_Scorpions_Ferndale.ics",
+      "Glen Iris Scorpions Gardiner": "basketball-ical/U08_Boys_(W25)/Division_02/Glen_Iris_Scorpions_Gardiner.ics",
+      "Malvern Tigers Daniels": "basketball-ical/U08_Boys_(W25)/Division_02/Malvern_Tigers_Daniels.ics",
+      "Malvern Tigers Exum": "basketball-ical/U08_Boys_(W25)/Division_02/Malvern_Tigers_Exum.ics",
+      "Timberwolves Blasters": "basketball-ical/U08_Boys_(W25)/Division_02/Timberwolves_Blasters.ics"
     },
     "Division 03": {
-      "Claremont Piranhas": "U08_Boys_(W25)/Division_03/Claremont_Piranhas.ics",
-      "Malvern Tigers Ingles": "U08_Boys_(W25)/Division_03/Malvern_Tigers_Ingles.ics",
-      "Packer Park Piranhas": "U08_Boys_(W25)/Division_03/Packer_Park_Piranhas.ics",
-      "Solway Brumbies": "U08_Boys_(W25)/Division_03/Solway_Brumbies.ics",
-      "Solway Chargers": "U08_Boys_(W25)/Division_03/Solway_Chargers.ics",
-      "Solway Mustangs": "U08_Boys_(W25)/Division_03/Solway_Mustangs.ics",
-      "Timberwolves Pythons": "U08_Boys_(W25)/Division_03/Timberwolves_Pythons.ics"
+      "Claremont Piranhas": "basketball-ical/U08_Boys_(W25)/Division_03/Claremont_Piranhas.ics",
+      "Malvern Tigers Ingles": "basketball-ical/U08_Boys_(W25)/Division_03/Malvern_Tigers_Ingles.ics",
+      "Packer Park Piranhas": "basketball-ical/U08_Boys_(W25)/Division_03/Packer_Park_Piranhas.ics",
+      "Solway Brumbies": "basketball-ical/U08_Boys_(W25)/Division_03/Solway_Brumbies.ics",
+      "Solway Chargers": "basketball-ical/U08_Boys_(W25)/Division_03/Solway_Chargers.ics",
+      "Solway Mustangs": "basketball-ical/U08_Boys_(W25)/Division_03/Solway_Mustangs.ics",
+      "Timberwolves Pythons": "basketball-ical/U08_Boys_(W25)/Division_03/Timberwolves_Pythons.ics"
     },
     "Division 04": {
-      "Ashy Lightning Green": "U08_Boys_(W25)/Division_04/Ashy_Lightning_Green.ics",
-      "Burnley Park Piranhas": "U08_Boys_(W25)/Division_04/Burnley_Park_Piranhas.ics",
-      "Maccabi Celtics": "U08_Boys_(W25)/Division_04/Maccabi_Celtics.ics",
-      "Malvern Tigers Giddey": "U08_Boys_(W25)/Division_04/Malvern_Tigers_Giddey.ics",
-      "Melbourne Wolves RBT Raptors": "U08_Boys_(W25)/Division_04/Melbourne_Wolves_RBT_Raptors.ics",
-      "Toorak Toucans": "U08_Boys_(W25)/Division_04/Toorak_Toucans.ics"
+      "Ashy Lightning Green": "basketball-ical/U08_Boys_(W25)/Division_04/Ashy_Lightning_Green.ics",
+      "Burnley Park Piranhas": "basketball-ical/U08_Boys_(W25)/Division_04/Burnley_Park_Piranhas.ics",
+      "Maccabi Celtics": "basketball-ical/U08_Boys_(W25)/Division_04/Maccabi_Celtics.ics",
+      "Malvern Tigers Giddey": "basketball-ical/U08_Boys_(W25)/Division_04/Malvern_Tigers_Giddey.ics",
+      "Melbourne Wolves RBT Raptors": "basketball-ical/U08_Boys_(W25)/Division_04/Melbourne_Wolves_RBT_Raptors.ics",
+      "Toorak Toucans": "basketball-ical/U08_Boys_(W25)/Division_04/Toorak_Toucans.ics"
     },
     "Division 05": {
-      "Dorrington Piranhas": "U08_Boys_(W25)/Division_05/Dorrington_Piranhas.ics",
-      "Golden Hawks Sky": "U08_Boys_(W25)/Division_05/Golden_Hawks_Sky.ics",
-      "Renwick Piranhas": "U08_Boys_(W25)/Division_05/Renwick_Piranhas.ics",
-      "Solway Stallions": "U08_Boys_(W25)/Division_05/Solway_Stallions.ics",
-      "Solway Steeds": "U08_Boys_(W25)/Division_05/Solway_Steeds.ics",
-      "Wattletree Piranhas": "U08_Boys_(W25)/Division_05/Wattletree_Piranhas.ics"
+      "Dorrington Piranhas": "basketball-ical/U08_Boys_(W25)/Division_05/Dorrington_Piranhas.ics",
+      "Golden Hawks Sky": "basketball-ical/U08_Boys_(W25)/Division_05/Golden_Hawks_Sky.ics",
+      "Renwick Piranhas": "basketball-ical/U08_Boys_(W25)/Division_05/Renwick_Piranhas.ics",
+      "Solway Stallions": "basketball-ical/U08_Boys_(W25)/Division_05/Solway_Stallions.ics",
+      "Solway Steeds": "basketball-ical/U08_Boys_(W25)/Division_05/Solway_Steeds.ics",
+      "Wattletree Piranhas": "basketball-ical/U08_Boys_(W25)/Division_05/Wattletree_Piranhas.ics"
     }
   },
   "U08 Girls (W25)": {
     "Division 01": {
-      "Ashy Lightning Gold": "U08_Girls_(W25)/Division_01/Ashy_Lightning_Gold.ics",
-      "Solway Blazes": "U08_Girls_(W25)/Division_01/Solway_Blazes.ics",
-      "Solway Fire": "U08_Girls_(W25)/Division_01/Solway_Fire.ics",
-      "Timberwolves Diamonds": "U08_Girls_(W25)/Division_01/Timberwolves_Diamonds.ics"
+      "Ashy Lightning Gold": "basketball-ical/U08_Girls_(W25)/Division_01/Ashy_Lightning_Gold.ics",
+      "Solway Blazes": "basketball-ical/U08_Girls_(W25)/Division_01/Solway_Blazes.ics",
+      "Solway Fire": "basketball-ical/U08_Girls_(W25)/Division_01/Solway_Fire.ics",
+      "Timberwolves Diamonds": "basketball-ical/U08_Girls_(W25)/Division_01/Timberwolves_Diamonds.ics"
     },
     "Division 02": {
-      "Arax": "U08_Girls_(W25)/Division_02/Arax.ics",
-      "Glen Iris Scorpions Ferndale": "U08_Girls_(W25)/Division_02/Glen_Iris_Scorpions_Ferndale.ics",
-      "Malvern Tigers Atwell": "U08_Girls_(W25)/Division_02/Malvern_Tigers_Atwell.ics",
-      "Malvern Tigers Wallace": "U08_Girls_(W25)/Division_02/Malvern_Tigers_Wallace.ics",
-      "Solway Comets": "U08_Girls_(W25)/Division_02/Solway_Comets.ics",
-      "Solway Stars": "U08_Girls_(W25)/Division_02/Solway_Stars.ics",
-      "Warley Piranhas": "U08_Girls_(W25)/Division_02/Warley_Piranhas.ics"
+      "Arax": "basketball-ical/U08_Girls_(W25)/Division_02/Arax.ics",
+      "Glen Iris Scorpions Ferndale": "basketball-ical/U08_Girls_(W25)/Division_02/Glen_Iris_Scorpions_Ferndale.ics",
+      "Malvern Tigers Atwell": "basketball-ical/U08_Girls_(W25)/Division_02/Malvern_Tigers_Atwell.ics",
+      "Malvern Tigers Wallace": "basketball-ical/U08_Girls_(W25)/Division_02/Malvern_Tigers_Wallace.ics",
+      "Solway Comets": "basketball-ical/U08_Girls_(W25)/Division_02/Solway_Comets.ics",
+      "Solway Stars": "basketball-ical/U08_Girls_(W25)/Division_02/Solway_Stars.ics",
+      "Warley Piranhas": "basketball-ical/U08_Girls_(W25)/Division_02/Warley_Piranhas.ics"
     },
     "Division 03": {
-      "Ashy Lightning Green": "U08_Girls_(W25)/Division_03/Ashy_Lightning_Green.ics",
-      "Maccabi Bucks": "U08_Girls_(W25)/Division_03/Maccabi_Bucks.ics",
-      "Maccabi Celtics": "U08_Girls_(W25)/Division_03/Maccabi_Celtics.ics",
-      "Maccabi Warriors": "U08_Girls_(W25)/Division_03/Maccabi_Warriors.ics",
-      "Solway Meteors": "U08_Girls_(W25)/Division_03/Solway_Meteors.ics",
-      "Solway Sparks": "U08_Girls_(W25)/Division_03/Solway_Sparks.ics"
+      "Ashy Lightning Green": "basketball-ical/U08_Girls_(W25)/Division_03/Ashy_Lightning_Green.ics",
+      "Maccabi Bucks": "basketball-ical/U08_Girls_(W25)/Division_03/Maccabi_Bucks.ics",
+      "Maccabi Celtics": "basketball-ical/U08_Girls_(W25)/Division_03/Maccabi_Celtics.ics",
+      "Maccabi Warriors": "basketball-ical/U08_Girls_(W25)/Division_03/Maccabi_Warriors.ics",
+      "Solway Meteors": "basketball-ical/U08_Girls_(W25)/Division_03/Solway_Meteors.ics",
+      "Solway Sparks": "basketball-ical/U08_Girls_(W25)/Division_03/Solway_Sparks.ics"
     },
     "Division 04": {
-      "Flowerdale Piranhas": "U08_Girls_(W25)/Division_04/Flowerdale_Piranhas.ics",
-      "Harleston Park Piranhas": "U08_Girls_(W25)/Division_04/Harleston_Park_Piranhas.ics",
-      "Korowa Cherry": "U08_Girls_(W25)/Division_04/Korowa_Cherry.ics",
-      "Maccabi Ducks": "U08_Girls_(W25)/Division_04/Maccabi_Ducks.ics"
+      "Flowerdale Piranhas": "basketball-ical/U08_Girls_(W25)/Division_04/Flowerdale_Piranhas.ics",
+      "Harleston Park Piranhas": "basketball-ical/U08_Girls_(W25)/Division_04/Harleston_Park_Piranhas.ics",
+      "Korowa Cherry": "basketball-ical/U08_Girls_(W25)/Division_04/Korowa_Cherry.ics",
+      "Maccabi Ducks": "basketball-ical/U08_Girls_(W25)/Division_04/Maccabi_Ducks.ics"
     }
   },
   "U10 Boys (W25)": {
     "Division 01/02": {
-      "AlphaWolf Dragons": "U10_Boys_(W25)/Division_0102/AlphaWolf_Dragons.ics",
-      "Maccabi Warriors": "U10_Boys_(W25)/Division_0102/Maccabi_Warriors.ics",
-      "Malvern Tigers  Red": "U10_Boys_(W25)/Division_0102/Malvern_Tigers_Red.ics",
-      "Malvern Tigers Black": "U10_Boys_(W25)/Division_0102/Malvern_Tigers_Black.ics",
-      "Solway Boomers": "U10_Boys_(W25)/Division_0102/Solway_Boomers.ics",
-      "Timberwolves Crusaders": "U10_Boys_(W25)/Division_0102/Timberwolves_Crusaders.ics",
-      "Timberwolves Pistols": "U10_Boys_(W25)/Division_0102/Timberwolves_Pistols.ics",
-      "Toorak Tigercats": "U10_Boys_(W25)/Division_0102/Toorak_Tigercats.ics"
+      "AlphaWolf Dragons": "basketball-ical/U10_Boys_(W25)/Division_0102/AlphaWolf_Dragons.ics",
+      "Maccabi Warriors": "basketball-ical/U10_Boys_(W25)/Division_0102/Maccabi_Warriors.ics",
+      "Malvern Tigers  Red": "basketball-ical/U10_Boys_(W25)/Division_0102/Malvern_Tigers_Red.ics",
+      "Malvern Tigers Black": "basketball-ical/U10_Boys_(W25)/Division_0102/Malvern_Tigers_Black.ics",
+      "Solway Boomers": "basketball-ical/U10_Boys_(W25)/Division_0102/Solway_Boomers.ics",
+      "Timberwolves Crusaders": "basketball-ical/U10_Boys_(W25)/Division_0102/Timberwolves_Crusaders.ics",
+      "Timberwolves Pistols": "basketball-ical/U10_Boys_(W25)/Division_0102/Timberwolves_Pistols.ics",
+      "Toorak Tigercats": "basketball-ical/U10_Boys_(W25)/Division_0102/Toorak_Tigercats.ics"
     },
     "Division 03": {
-      "Ashy Lightning Gold": "U10_Boys_(W25)/Division_03/Ashy_Lightning_Gold.ics",
-      "Glen Iris Scorpions Ferndale": "U10_Boys_(W25)/Division_03/Glen_Iris_Scorpions_Ferndale.ics",
-      "Maccabi Bucks": "U10_Boys_(W25)/Division_03/Maccabi_Bucks.ics",
-      "Malvern Tigers White": "U10_Boys_(W25)/Division_03/Malvern_Tigers_White.ics",
-      "Malvern Tigers Yellow": "U10_Boys_(W25)/Division_03/Malvern_Tigers_Yellow.ics",
-      "Melbourne Wolves RBT Vipers": "U10_Boys_(W25)/Division_03/Melbourne_Wolves_RBT_Vipers.ics"
+      "Ashy Lightning Gold": "basketball-ical/U10_Boys_(W25)/Division_03/Ashy_Lightning_Gold.ics",
+      "Glen Iris Scorpions Ferndale": "basketball-ical/U10_Boys_(W25)/Division_03/Glen_Iris_Scorpions_Ferndale.ics",
+      "Maccabi Bucks": "basketball-ical/U10_Boys_(W25)/Division_03/Maccabi_Bucks.ics",
+      "Malvern Tigers White": "basketball-ical/U10_Boys_(W25)/Division_03/Malvern_Tigers_White.ics",
+      "Malvern Tigers Yellow": "basketball-ical/U10_Boys_(W25)/Division_03/Malvern_Tigers_Yellow.ics",
+      "Melbourne Wolves RBT Vipers": "basketball-ical/U10_Boys_(W25)/Division_03/Melbourne_Wolves_RBT_Vipers.ics"
     },
     "Division 04": {
-      "Arax": "U10_Boys_(W25)/Division_04/Arax.ics",
-      "Armadale Piranhas": "U10_Boys_(W25)/Division_04/Armadale_Piranhas.ics",
-      "Ashy Lightning Green": "U10_Boys_(W25)/Division_04/Ashy_Lightning_Green.ics",
-      "Dendy Park Piranhas": "U10_Boys_(W25)/Division_04/Dendy_Park_Piranhas.ics",
-      "Maccabi Celtics": "U10_Boys_(W25)/Division_04/Maccabi_Celtics.ics",
-      "Malvern Tigers Green": "U10_Boys_(W25)/Division_04/Malvern_Tigers_Green.ics",
-      "Malvern Tigers Orange": "U10_Boys_(W25)/Division_04/Malvern_Tigers_Orange.ics",
-      "Solway Lakers": "U10_Boys_(W25)/Division_04/Solway_Lakers.ics",
-      "Toorak Tigersharks": "U10_Boys_(W25)/Division_04/Toorak_Tigersharks.ics"
+      "Arax": "basketball-ical/U10_Boys_(W25)/Division_04/Arax.ics",
+      "Armadale Piranhas": "basketball-ical/U10_Boys_(W25)/Division_04/Armadale_Piranhas.ics",
+      "Ashy Lightning Green": "basketball-ical/U10_Boys_(W25)/Division_04/Ashy_Lightning_Green.ics",
+      "Dendy Park Piranhas": "basketball-ical/U10_Boys_(W25)/Division_04/Dendy_Park_Piranhas.ics",
+      "Maccabi Celtics": "basketball-ical/U10_Boys_(W25)/Division_04/Maccabi_Celtics.ics",
+      "Malvern Tigers Green": "basketball-ical/U10_Boys_(W25)/Division_04/Malvern_Tigers_Green.ics",
+      "Malvern Tigers Orange": "basketball-ical/U10_Boys_(W25)/Division_04/Malvern_Tigers_Orange.ics",
+      "Solway Lakers": "basketball-ical/U10_Boys_(W25)/Division_04/Solway_Lakers.ics",
+      "Toorak Tigersharks": "basketball-ical/U10_Boys_(W25)/Division_04/Toorak_Tigersharks.ics"
     },
     "Division 05": {
-      "Hawksburn Piranhas": "U10_Boys_(W25)/Division_05/Hawksburn_Piranhas.ics",
-      "Hotham Piranhas": "U10_Boys_(W25)/Division_05/Hotham_Piranhas.ics",
-      "Malvern Tigers Blue": "U10_Boys_(W25)/Division_05/Malvern_Tigers_Blue.ics",
-      "Solway Celtics": "U10_Boys_(W25)/Division_05/Solway_Celtics.ics",
-      "Solway Hawks": "U10_Boys_(W25)/Division_05/Solway_Hawks.ics",
-      "Timberwolves Boomers": "U10_Boys_(W25)/Division_05/Timberwolves_Boomers.ics"
+      "Hawksburn Piranhas": "basketball-ical/U10_Boys_(W25)/Division_05/Hawksburn_Piranhas.ics",
+      "Hotham Piranhas": "basketball-ical/U10_Boys_(W25)/Division_05/Hotham_Piranhas.ics",
+      "Malvern Tigers Blue": "basketball-ical/U10_Boys_(W25)/Division_05/Malvern_Tigers_Blue.ics",
+      "Solway Celtics": "basketball-ical/U10_Boys_(W25)/Division_05/Solway_Celtics.ics",
+      "Solway Hawks": "basketball-ical/U10_Boys_(W25)/Division_05/Solway_Hawks.ics",
+      "Timberwolves Boomers": "basketball-ical/U10_Boys_(W25)/Division_05/Timberwolves_Boomers.ics"
     },
     "Division 06": {
-      "AlphaWolf Hunters": "U10_Boys_(W25)/Division_06/AlphaWolf_Hunters.ics",
-      "Glen Iris Scorpions Gardiner": "U10_Boys_(W25)/Division_06/Glen_Iris_Scorpions_Gardiner.ics",
-      "Glen Iris Scorpions Nettleton": "U10_Boys_(W25)/Division_06/Glen_Iris_Scorpions_Nettleton.ics",
-      "Maccabi Ducks": "U10_Boys_(W25)/Division_06/Maccabi_Ducks.ics",
-      "Solway Bucks": "U10_Boys_(W25)/Division_06/Solway_Bucks.ics",
-      "SouthEast Venom Rockets": "U10_Boys_(W25)/Division_06/SouthEast_Venom_Rockets.ics",
-      "Timberwolves Cubs": "U10_Boys_(W25)/Division_06/Timberwolves_Cubs.ics",
-      "Toorak Torpedoes": "U10_Boys_(W25)/Division_06/Toorak_Torpedoes.ics"
+      "AlphaWolf Hunters": "basketball-ical/U10_Boys_(W25)/Division_06/AlphaWolf_Hunters.ics",
+      "Glen Iris Scorpions Gardiner": "basketball-ical/U10_Boys_(W25)/Division_06/Glen_Iris_Scorpions_Gardiner.ics",
+      "Glen Iris Scorpions Nettleton": "basketball-ical/U10_Boys_(W25)/Division_06/Glen_Iris_Scorpions_Nettleton.ics",
+      "Maccabi Ducks": "basketball-ical/U10_Boys_(W25)/Division_06/Maccabi_Ducks.ics",
+      "Solway Bucks": "basketball-ical/U10_Boys_(W25)/Division_06/Solway_Bucks.ics",
+      "SouthEast Venom Rockets": "basketball-ical/U10_Boys_(W25)/Division_06/SouthEast_Venom_Rockets.ics",
+      "Timberwolves Cubs": "basketball-ical/U10_Boys_(W25)/Division_06/Timberwolves_Cubs.ics",
+      "Toorak Torpedoes": "basketball-ical/U10_Boys_(W25)/Division_06/Toorak_Torpedoes.ics"
     },
     "Division 07": {
-      "Golden Hawks Sky": "U10_Boys_(W25)/Division_07/Golden_Hawks_Sky.ics",
-      "Malvern Tigers  Brown": "U10_Boys_(W25)/Division_07/Malvern_Tigers_Brown.ics",
-      "Malvern Tigers  Purple": "U10_Boys_(W25)/Division_07/Malvern_Tigers_Purple.ics",
-      "Orrong Park Piranhas": "U10_Boys_(W25)/Division_07/Orrong_Park_Piranhas.ics",
-      "Penpraze Park Piranhas": "U10_Boys_(W25)/Division_07/Penpraze_Park_Piranhas.ics",
-      "Solway Bulls": "U10_Boys_(W25)/Division_07/Solway_Bulls.ics",
-      "Timberwolves Cobras": "U10_Boys_(W25)/Division_07/Timberwolves_Cobras.ics",
-      "Toorak Tycoons": "U10_Boys_(W25)/Division_07/Toorak_Tycoons.ics"
+      "Golden Hawks Sky": "basketball-ical/U10_Boys_(W25)/Division_07/Golden_Hawks_Sky.ics",
+      "Malvern Tigers  Brown": "basketball-ical/U10_Boys_(W25)/Division_07/Malvern_Tigers_Brown.ics",
+      "Malvern Tigers  Purple": "basketball-ical/U10_Boys_(W25)/Division_07/Malvern_Tigers_Purple.ics",
+      "Orrong Park Piranhas": "basketball-ical/U10_Boys_(W25)/Division_07/Orrong_Park_Piranhas.ics",
+      "Penpraze Park Piranhas": "basketball-ical/U10_Boys_(W25)/Division_07/Penpraze_Park_Piranhas.ics",
+      "Solway Bulls": "basketball-ical/U10_Boys_(W25)/Division_07/Solway_Bulls.ics",
+      "Timberwolves Cobras": "basketball-ical/U10_Boys_(W25)/Division_07/Timberwolves_Cobras.ics",
+      "Toorak Tycoons": "basketball-ical/U10_Boys_(W25)/Division_07/Toorak_Tycoons.ics"
     },
     "Division 08": {
-      "Comets Snake": "U10_Boys_(W25)/Division_08/Comets_Snake.ics",
-      "Glen Iris Scorpions Raven": "U10_Boys_(W25)/Division_08/Glen_Iris_Scorpions_Raven.ics",
-      "Maccabi Falcons": "U10_Boys_(W25)/Division_08/Maccabi_Falcons.ics",
-      "Phoenix Park Piranhas": "U10_Boys_(W25)/Division_08/Phoenix_Park_Piranhas.ics",
-      "Timberwolves Bucks": "U10_Boys_(W25)/Division_08/Timberwolves_Bucks.ics",
-      "Timberwolves Legends": "U10_Boys_(W25)/Division_08/Timberwolves_Legends.ics",
-      "Timberwolves Lightning": "U10_Boys_(W25)/Division_08/Timberwolves_Lightning.ics",
-      "Toorak Thunderbolts": "U10_Boys_(W25)/Division_08/Toorak_Thunderbolts.ics"
+      "Comets Snake": "basketball-ical/U10_Boys_(W25)/Division_08/Comets_Snake.ics",
+      "Glen Iris Scorpions Raven": "basketball-ical/U10_Boys_(W25)/Division_08/Glen_Iris_Scorpions_Raven.ics",
+      "Maccabi Falcons": "basketball-ical/U10_Boys_(W25)/Division_08/Maccabi_Falcons.ics",
+      "Phoenix Park Piranhas": "basketball-ical/U10_Boys_(W25)/Division_08/Phoenix_Park_Piranhas.ics",
+      "Timberwolves Bucks": "basketball-ical/U10_Boys_(W25)/Division_08/Timberwolves_Bucks.ics",
+      "Timberwolves Legends": "basketball-ical/U10_Boys_(W25)/Division_08/Timberwolves_Legends.ics",
+      "Timberwolves Lightning": "basketball-ical/U10_Boys_(W25)/Division_08/Timberwolves_Lightning.ics",
+      "Toorak Thunderbolts": "basketball-ical/U10_Boys_(W25)/Division_08/Toorak_Thunderbolts.ics"
     },
     "Division 09": {
-      "Glen Iris Scorpions Summerhill": "U10_Boys_(W25)/Division_09/Glen_Iris_Scorpions_Summerhill.ics",
-      "Golden Hawks Iron": "U10_Boys_(W25)/Division_09/Golden_Hawks_Iron.ics",
-      "Maccabi Eagles": "U10_Boys_(W25)/Division_09/Maccabi_Eagles.ics",
-      "Maccabi Hawks": "U10_Boys_(W25)/Division_09/Maccabi_Hawks.ics",
-      "Solway Nets": "U10_Boys_(W25)/Division_09/Solway_Nets.ics",
-      "Toorak Thrashers": "U10_Boys_(W25)/Division_09/Toorak_Thrashers.ics"
+      "Glen Iris Scorpions Summerhill": "basketball-ical/U10_Boys_(W25)/Division_09/Glen_Iris_Scorpions_Summerhill.ics",
+      "Golden Hawks Iron": "basketball-ical/U10_Boys_(W25)/Division_09/Golden_Hawks_Iron.ics",
+      "Maccabi Eagles": "basketball-ical/U10_Boys_(W25)/Division_09/Maccabi_Eagles.ics",
+      "Maccabi Hawks": "basketball-ical/U10_Boys_(W25)/Division_09/Maccabi_Hawks.ics",
+      "Solway Nets": "basketball-ical/U10_Boys_(W25)/Division_09/Solway_Nets.ics",
+      "Toorak Thrashers": "basketball-ical/U10_Boys_(W25)/Division_09/Toorak_Thrashers.ics"
     },
     "Division 10": {
-      "AlphaWolf Kings": "U10_Boys_(W25)/Division_10/AlphaWolf_Kings.ics",
-      "Maccabi Giants": "U10_Boys_(W25)/Division_10/Maccabi_Giants.ics",
-      "Malvern Tigers Grey": "U10_Boys_(W25)/Division_10/Malvern_Tigers_Grey.ics",
-      "Malvern Tigers Lime": "U10_Boys_(W25)/Division_10/Malvern_Tigers_Lime.ics",
-      "Malvern Tigers Maroon": "U10_Boys_(W25)/Division_10/Malvern_Tigers_Maroon.ics"
+      "AlphaWolf Kings": "basketball-ical/U10_Boys_(W25)/Division_10/AlphaWolf_Kings.ics",
+      "Maccabi Giants": "basketball-ical/U10_Boys_(W25)/Division_10/Maccabi_Giants.ics",
+      "Malvern Tigers Grey": "basketball-ical/U10_Boys_(W25)/Division_10/Malvern_Tigers_Grey.ics",
+      "Malvern Tigers Lime": "basketball-ical/U10_Boys_(W25)/Division_10/Malvern_Tigers_Lime.ics",
+      "Malvern Tigers Maroon": "basketball-ical/U10_Boys_(W25)/Division_10/Malvern_Tigers_Maroon.ics"
     },
     "Division 11": {
-      "Ashy Lightning Yellow": "U10_Boys_(W25)/Division_11/Ashy_Lightning_Yellow.ics",
-      "Koornang Piranhas": "U10_Boys_(W25)/Division_11/Koornang_Piranhas.ics",
-      "Maccabi Jaguars": "U10_Boys_(W25)/Division_11/Maccabi_Jaguars.ics",
-      "Solway Hornets": "U10_Boys_(W25)/Division_11/Solway_Hornets.ics",
-      "SouthEast Venom Magic": "U10_Boys_(W25)/Division_11/SouthEast_Venom_Magic.ics",
-      "Timberwolves Hawks": "U10_Boys_(W25)/Division_11/Timberwolves_Hawks.ics"
+      "Ashy Lightning Yellow": "basketball-ical/U10_Boys_(W25)/Division_11/Ashy_Lightning_Yellow.ics",
+      "Koornang Piranhas": "basketball-ical/U10_Boys_(W25)/Division_11/Koornang_Piranhas.ics",
+      "Maccabi Jaguars": "basketball-ical/U10_Boys_(W25)/Division_11/Maccabi_Jaguars.ics",
+      "Solway Hornets": "basketball-ical/U10_Boys_(W25)/Division_11/Solway_Hornets.ics",
+      "SouthEast Venom Magic": "basketball-ical/U10_Boys_(W25)/Division_11/SouthEast_Venom_Magic.ics",
+      "Timberwolves Hawks": "basketball-ical/U10_Boys_(W25)/Division_11/Timberwolves_Hawks.ics"
     }
   },
   "U10 Girls (W25)": {
     "Division 01": {
-      "Ashy Lightning Gold": "U10_Girls_(W25)/Division_01/Ashy_Lightning_Gold.ics",
-      "Halley Park Piranhas": "U10_Girls_(W25)/Division_01/Halley_Park_Piranhas.ics",
-      "Korowa Cherry": "U10_Girls_(W25)/Division_01/Korowa_Cherry.ics",
-      "Malvern Tigers Black": "U10_Girls_(W25)/Division_01/Malvern_Tigers_Black.ics",
-      "Solway Hurricanes": "U10_Girls_(W25)/Division_01/Solway_Hurricanes.ics",
-      "Timberwolves Sharks": "U10_Girls_(W25)/Division_01/Timberwolves_Sharks.ics",
-      "Toorak Troublemakers": "U10_Girls_(W25)/Division_01/Toorak_Troublemakers.ics"
+      "Ashy Lightning Gold": "basketball-ical/U10_Girls_(W25)/Division_01/Ashy_Lightning_Gold.ics",
+      "Halley Park Piranhas": "basketball-ical/U10_Girls_(W25)/Division_01/Halley_Park_Piranhas.ics",
+      "Korowa Cherry": "basketball-ical/U10_Girls_(W25)/Division_01/Korowa_Cherry.ics",
+      "Malvern Tigers Black": "basketball-ical/U10_Girls_(W25)/Division_01/Malvern_Tigers_Black.ics",
+      "Solway Hurricanes": "basketball-ical/U10_Girls_(W25)/Division_01/Solway_Hurricanes.ics",
+      "Timberwolves Sharks": "basketball-ical/U10_Girls_(W25)/Division_01/Timberwolves_Sharks.ics",
+      "Toorak Troublemakers": "basketball-ical/U10_Girls_(W25)/Division_01/Toorak_Troublemakers.ics"
     },
     "Division 02": {
-      "Erindale Piranhas": "U10_Girls_(W25)/Division_02/Erindale_Piranhas.ics",
-      "Maccabi Warriors": "U10_Girls_(W25)/Division_02/Maccabi_Warriors.ics",
-      "Malvern Tigers Red": "U10_Girls_(W25)/Division_02/Malvern_Tigers_Red.ics",
-      "Malvern Tigers Yellow": "U10_Girls_(W25)/Division_02/Malvern_Tigers_Yellow.ics",
-      "Solway Blizzards": "U10_Girls_(W25)/Division_02/Solway_Blizzards.ics",
-      "Solway Tornadoes": "U10_Girls_(W25)/Division_02/Solway_Tornadoes.ics",
-      "Timberwolves Warriors": "U10_Girls_(W25)/Division_02/Timberwolves_Warriors.ics",
-      "Toorak Tangos": "U10_Girls_(W25)/Division_02/Toorak_Tangos.ics"
+      "Erindale Piranhas": "basketball-ical/U10_Girls_(W25)/Division_02/Erindale_Piranhas.ics",
+      "Maccabi Warriors": "basketball-ical/U10_Girls_(W25)/Division_02/Maccabi_Warriors.ics",
+      "Malvern Tigers Red": "basketball-ical/U10_Girls_(W25)/Division_02/Malvern_Tigers_Red.ics",
+      "Malvern Tigers Yellow": "basketball-ical/U10_Girls_(W25)/Division_02/Malvern_Tigers_Yellow.ics",
+      "Solway Blizzards": "basketball-ical/U10_Girls_(W25)/Division_02/Solway_Blizzards.ics",
+      "Solway Tornadoes": "basketball-ical/U10_Girls_(W25)/Division_02/Solway_Tornadoes.ics",
+      "Timberwolves Warriors": "basketball-ical/U10_Girls_(W25)/Division_02/Timberwolves_Warriors.ics",
+      "Toorak Tangos": "basketball-ical/U10_Girls_(W25)/Division_02/Toorak_Tangos.ics"
     },
     "Division 03": {
-      "AlphaWolf Sparks": "U10_Girls_(W25)/Division_03/AlphaWolf_Sparks.ics",
-      "Dairy Park Piranhas": "U10_Girls_(W25)/Division_03/Dairy_Park_Piranhas.ics",
-      "Glen Iris Scorpions Ferndale": "U10_Girls_(W25)/Division_03/Glen_Iris_Scorpions_Ferndale.ics",
-      "Maccabi Bucks": "U10_Girls_(W25)/Division_03/Maccabi_Bucks.ics",
-      "Malvern Tigers Blue": "U10_Girls_(W25)/Division_03/Malvern_Tigers_Blue.ics",
-      "Malvern Tigers White": "U10_Girls_(W25)/Division_03/Malvern_Tigers_White.ics",
-      "Solway Mistrals": "U10_Girls_(W25)/Division_03/Solway_Mistrals.ics"
+      "AlphaWolf Sparks": "basketball-ical/U10_Girls_(W25)/Division_03/AlphaWolf_Sparks.ics",
+      "Dairy Park Piranhas": "basketball-ical/U10_Girls_(W25)/Division_03/Dairy_Park_Piranhas.ics",
+      "Glen Iris Scorpions Ferndale": "basketball-ical/U10_Girls_(W25)/Division_03/Glen_Iris_Scorpions_Ferndale.ics",
+      "Maccabi Bucks": "basketball-ical/U10_Girls_(W25)/Division_03/Maccabi_Bucks.ics",
+      "Malvern Tigers Blue": "basketball-ical/U10_Girls_(W25)/Division_03/Malvern_Tigers_Blue.ics",
+      "Malvern Tigers White": "basketball-ical/U10_Girls_(W25)/Division_03/Malvern_Tigers_White.ics",
+      "Solway Mistrals": "basketball-ical/U10_Girls_(W25)/Division_03/Solway_Mistrals.ics"
     },
     "Division 04": {
-      "Embling Piranhas": "U10_Girls_(W25)/Division_04/Embling_Piranhas.ics",
-      "Glen Iris Scorpions Gardiner": "U10_Girls_(W25)/Division_04/Glen_Iris_Scorpions_Gardiner.ics",
-      "Grace Park Piranhas": "U10_Girls_(W25)/Division_04/Grace_Park_Piranhas.ics",
-      "Lauriston Fire": "U10_Girls_(W25)/Division_04/Lauriston_Fire.ics",
-      "Maccabi Celtics": "U10_Girls_(W25)/Division_04/Maccabi_Celtics.ics",
-      "Malvern Tigers Green": "U10_Girls_(W25)/Division_04/Malvern_Tigers_Green.ics",
-      "Netherlee Piranhas": "U10_Girls_(W25)/Division_04/Netherlee_Piranhas.ics",
-      "Valentine Piranhas": "U10_Girls_(W25)/Division_04/Valentine_Piranhas.ics"
+      "Embling Piranhas": "basketball-ical/U10_Girls_(W25)/Division_04/Embling_Piranhas.ics",
+      "Glen Iris Scorpions Gardiner": "basketball-ical/U10_Girls_(W25)/Division_04/Glen_Iris_Scorpions_Gardiner.ics",
+      "Grace Park Piranhas": "basketball-ical/U10_Girls_(W25)/Division_04/Grace_Park_Piranhas.ics",
+      "Lauriston Fire": "basketball-ical/U10_Girls_(W25)/Division_04/Lauriston_Fire.ics",
+      "Maccabi Celtics": "basketball-ical/U10_Girls_(W25)/Division_04/Maccabi_Celtics.ics",
+      "Malvern Tigers Green": "basketball-ical/U10_Girls_(W25)/Division_04/Malvern_Tigers_Green.ics",
+      "Netherlee Piranhas": "basketball-ical/U10_Girls_(W25)/Division_04/Netherlee_Piranhas.ics",
+      "Valentine Piranhas": "basketball-ical/U10_Girls_(W25)/Division_04/Valentine_Piranhas.ics"
     },
     "Division 05": {
-      "AlphaWolf Blaze": "U10_Girls_(W25)/Division_05/AlphaWolf_Blaze.ics",
-      "Ashy Lightning Green": "U10_Girls_(W25)/Division_05/Ashy_Lightning_Green.ics",
-      "Korowa Grey": "U10_Girls_(W25)/Division_05/Korowa_Grey.ics",
-      "Maccabi Ducks": "U10_Girls_(W25)/Division_05/Maccabi_Ducks.ics",
-      "Maccabi Eagles": "U10_Girls_(W25)/Division_05/Maccabi_Eagles.ics",
-      "Malvern Tigers  Orange": "U10_Girls_(W25)/Division_05/Malvern_Tigers_Orange.ics",
-      "Malvern Tigers Brown": "U10_Girls_(W25)/Division_05/Malvern_Tigers_Brown.ics",
-      "Malvern Tigers Purple": "U10_Girls_(W25)/Division_05/Malvern_Tigers_Purple.ics",
-      "Timberwolves Gems": "U10_Girls_(W25)/Division_05/Timberwolves_Gems.ics"
+      "AlphaWolf Blaze": "basketball-ical/U10_Girls_(W25)/Division_05/AlphaWolf_Blaze.ics",
+      "Ashy Lightning Green": "basketball-ical/U10_Girls_(W25)/Division_05/Ashy_Lightning_Green.ics",
+      "Korowa Grey": "basketball-ical/U10_Girls_(W25)/Division_05/Korowa_Grey.ics",
+      "Maccabi Ducks": "basketball-ical/U10_Girls_(W25)/Division_05/Maccabi_Ducks.ics",
+      "Maccabi Eagles": "basketball-ical/U10_Girls_(W25)/Division_05/Maccabi_Eagles.ics",
+      "Malvern Tigers  Orange": "basketball-ical/U10_Girls_(W25)/Division_05/Malvern_Tigers_Orange.ics",
+      "Malvern Tigers Brown": "basketball-ical/U10_Girls_(W25)/Division_05/Malvern_Tigers_Brown.ics",
+      "Malvern Tigers Purple": "basketball-ical/U10_Girls_(W25)/Division_05/Malvern_Tigers_Purple.ics",
+      "Timberwolves Gems": "basketball-ical/U10_Girls_(W25)/Division_05/Timberwolves_Gems.ics"
     }
   },
   "U12 Boys (W25)": {
     "Division 01/02": {
-      "Ashy Lightning Gold": "U12_Boys_(W25)/Division_0102/Ashy_Lightning_Gold.ics",
-      "Glen Iris Scorpions Ferndale": "U12_Boys_(W25)/Division_0102/Glen_Iris_Scorpions_Ferndale.ics",
-      "Maccabi Warriors": "U12_Boys_(W25)/Division_0102/Maccabi_Warriors.ics",
-      "Malvern Tigers  Red": "U12_Boys_(W25)/Division_0102/Malvern_Tigers_Red.ics",
-      "Malvern Tigers Black": "U12_Boys_(W25)/Division_0102/Malvern_Tigers_Black.ics",
-      "Timberwolves Bullets": "U12_Boys_(W25)/Division_0102/Timberwolves_Bullets.ics",
-      "Timberwolves Rocks": "U12_Boys_(W25)/Division_0102/Timberwolves_Rocks.ics",
-      "Toorak Taipans": "U12_Boys_(W25)/Division_0102/Toorak_Taipans.ics"
+      "Ashy Lightning Gold": "basketball-ical/U12_Boys_(W25)/Division_0102/Ashy_Lightning_Gold.ics",
+      "Glen Iris Scorpions Ferndale": "basketball-ical/U12_Boys_(W25)/Division_0102/Glen_Iris_Scorpions_Ferndale.ics",
+      "Maccabi Warriors": "basketball-ical/U12_Boys_(W25)/Division_0102/Maccabi_Warriors.ics",
+      "Malvern Tigers  Red": "basketball-ical/U12_Boys_(W25)/Division_0102/Malvern_Tigers_Red.ics",
+      "Malvern Tigers Black": "basketball-ical/U12_Boys_(W25)/Division_0102/Malvern_Tigers_Black.ics",
+      "Timberwolves Bullets": "basketball-ical/U12_Boys_(W25)/Division_0102/Timberwolves_Bullets.ics",
+      "Timberwolves Rocks": "basketball-ical/U12_Boys_(W25)/Division_0102/Timberwolves_Rocks.ics",
+      "Toorak Taipans": "basketball-ical/U12_Boys_(W25)/Division_0102/Toorak_Taipans.ics"
     },
     "Division 03": {
-      "Golden Hawks Sky": "U12_Boys_(W25)/Division_03/Golden_Hawks_Sky.ics",
-      "Maccabi Bucks": "U12_Boys_(W25)/Division_03/Maccabi_Bucks.ics",
-      "Malvern Tigers Yellow": "U12_Boys_(W25)/Division_03/Malvern_Tigers_Yellow.ics",
-      "Windsor Piranhas": "U12_Boys_(W25)/Division_03/Windsor_Piranhas.ics",
-      "Yarra Park Piranhas": "U12_Boys_(W25)/Division_03/Yarra_Park_Piranhas.ics"
+      "Golden Hawks Sky": "basketball-ical/U12_Boys_(W25)/Division_03/Golden_Hawks_Sky.ics",
+      "Maccabi Bucks": "basketball-ical/U12_Boys_(W25)/Division_03/Maccabi_Bucks.ics",
+      "Malvern Tigers Yellow": "basketball-ical/U12_Boys_(W25)/Division_03/Malvern_Tigers_Yellow.ics",
+      "Windsor Piranhas": "basketball-ical/U12_Boys_(W25)/Division_03/Windsor_Piranhas.ics",
+      "Yarra Park Piranhas": "basketball-ical/U12_Boys_(W25)/Division_03/Yarra_Park_Piranhas.ics"
     },
     "Division 04": {
-      "AlphaWolf Legends": "U12_Boys_(W25)/Division_04/AlphaWolf_Legends.ics",
-      "Maccabi Celtics": "U12_Boys_(W25)/Division_04/Maccabi_Celtics.ics",
-      "Malvern Tigers White": "U12_Boys_(W25)/Division_04/Malvern_Tigers_White.ics",
-      "Solway Cubs": "U12_Boys_(W25)/Division_04/Solway_Cubs.ics",
-      "Timberwolves Colts": "U12_Boys_(W25)/Division_04/Timberwolves_Colts.ics",
-      "Toorak Tarantulas": "U12_Boys_(W25)/Division_04/Toorak_Tarantulas.ics"
+      "AlphaWolf Legends": "basketball-ical/U12_Boys_(W25)/Division_04/AlphaWolf_Legends.ics",
+      "Maccabi Celtics": "basketball-ical/U12_Boys_(W25)/Division_04/Maccabi_Celtics.ics",
+      "Malvern Tigers White": "basketball-ical/U12_Boys_(W25)/Division_04/Malvern_Tigers_White.ics",
+      "Solway Cubs": "basketball-ical/U12_Boys_(W25)/Division_04/Solway_Cubs.ics",
+      "Timberwolves Colts": "basketball-ical/U12_Boys_(W25)/Division_04/Timberwolves_Colts.ics",
+      "Toorak Tarantulas": "basketball-ical/U12_Boys_(W25)/Division_04/Toorak_Tarantulas.ics"
     },
     "Division 05": {
-      "Alma Park Piranhas": "U12_Boys_(W25)/Division_05/Alma_Park_Piranhas.ics",
-      "Malvern Tigers Green": "U12_Boys_(W25)/Division_05/Malvern_Tigers_Green.ics",
-      "Solway Lions": "U12_Boys_(W25)/Division_05/Solway_Lions.ics",
-      "Timberwolves Heat": "U12_Boys_(W25)/Division_05/Timberwolves_Heat.ics",
-      "Toorak Tigersnakes": "U12_Boys_(W25)/Division_05/Toorak_Tigersnakes.ics",
-      "Toorak Torchers": "U12_Boys_(W25)/Division_05/Toorak_Torchers.ics"
+      "Alma Park Piranhas": "basketball-ical/U12_Boys_(W25)/Division_05/Alma_Park_Piranhas.ics",
+      "Malvern Tigers Green": "basketball-ical/U12_Boys_(W25)/Division_05/Malvern_Tigers_Green.ics",
+      "Solway Lions": "basketball-ical/U12_Boys_(W25)/Division_05/Solway_Lions.ics",
+      "Timberwolves Heat": "basketball-ical/U12_Boys_(W25)/Division_05/Timberwolves_Heat.ics",
+      "Toorak Tigersnakes": "basketball-ical/U12_Boys_(W25)/Division_05/Toorak_Tigersnakes.ics",
+      "Toorak Torchers": "basketball-ical/U12_Boys_(W25)/Division_05/Toorak_Torchers.ics"
     },
     "Division 06": {
-      "Glen Iris Scorpions Gardiner": "U12_Boys_(W25)/Division_06/Glen_Iris_Scorpions_Gardiner.ics",
-      "Heywood Park Piranhas": "U12_Boys_(W25)/Division_06/Heywood_Park_Piranhas.ics",
-      "Maccabi Ducks": "U12_Boys_(W25)/Division_06/Maccabi_Ducks.ics",
-      "Malvern Tigers Orange": "U12_Boys_(W25)/Division_06/Malvern_Tigers_Orange.ics",
-      "Solway Wolverines": "U12_Boys_(W25)/Division_06/Solway_Wolverines.ics",
-      "Timberwolves Howlers": "U12_Boys_(W25)/Division_06/Timberwolves_Howlers.ics"
+      "Glen Iris Scorpions Gardiner": "basketball-ical/U12_Boys_(W25)/Division_06/Glen_Iris_Scorpions_Gardiner.ics",
+      "Heywood Park Piranhas": "basketball-ical/U12_Boys_(W25)/Division_06/Heywood_Park_Piranhas.ics",
+      "Maccabi Ducks": "basketball-ical/U12_Boys_(W25)/Division_06/Maccabi_Ducks.ics",
+      "Malvern Tigers Orange": "basketball-ical/U12_Boys_(W25)/Division_06/Malvern_Tigers_Orange.ics",
+      "Solway Wolverines": "basketball-ical/U12_Boys_(W25)/Division_06/Solway_Wolverines.ics",
+      "Timberwolves Howlers": "basketball-ical/U12_Boys_(W25)/Division_06/Timberwolves_Howlers.ics"
     },
     "Division 07": {
-      "AlphaWolf Lakers": "U12_Boys_(W25)/Division_07/AlphaWolf_Lakers.ics",
-      "AlphaWolf Spartans": "U12_Boys_(W25)/Division_07/AlphaWolf_Spartans.ics",
-      "Beckett Park Piranhas": "U12_Boys_(W25)/Division_07/Beckett_Park_Piranhas.ics",
-      "Central Park Piranhas": "U12_Boys_(W25)/Division_07/Central_Park_Piranhas.ics",
-      "Maccabi Eagles": "U12_Boys_(W25)/Division_07/Maccabi_Eagles.ics",
-      "Malvern Tigers  Brown": "U12_Boys_(W25)/Division_07/Malvern_Tigers_Brown.ics",
-      "Malvern Tigers Blue": "U12_Boys_(W25)/Division_07/Malvern_Tigers_Blue.ics"
+      "AlphaWolf Lakers": "basketball-ical/U12_Boys_(W25)/Division_07/AlphaWolf_Lakers.ics",
+      "AlphaWolf Spartans": "basketball-ical/U12_Boys_(W25)/Division_07/AlphaWolf_Spartans.ics",
+      "Beckett Park Piranhas": "basketball-ical/U12_Boys_(W25)/Division_07/Beckett_Park_Piranhas.ics",
+      "Central Park Piranhas": "basketball-ical/U12_Boys_(W25)/Division_07/Central_Park_Piranhas.ics",
+      "Maccabi Eagles": "basketball-ical/U12_Boys_(W25)/Division_07/Maccabi_Eagles.ics",
+      "Malvern Tigers  Brown": "basketball-ical/U12_Boys_(W25)/Division_07/Malvern_Tigers_Brown.ics",
+      "Malvern Tigers Blue": "basketball-ical/U12_Boys_(W25)/Division_07/Malvern_Tigers_Blue.ics"
     },
     "Division 08": {
-      "Ashy Lightning Green": "U12_Boys_(W25)/Division_08/Ashy_Lightning_Green.ics",
-      "Glen Iris Scorpions Summerhill": "U12_Boys_(W25)/Division_08/Glen_Iris_Scorpions_Summerhill.ics",
-      "Malvern Tigers Purple": "U12_Boys_(W25)/Division_08/Malvern_Tigers_Purple.ics",
-      "Solway Bobcats": "U12_Boys_(W25)/Division_08/Solway_Bobcats.ics",
-      "Timberwolves Chargers": "U12_Boys_(W25)/Division_08/Timberwolves_Chargers.ics",
-      "Timberwolves Stealers": "U12_Boys_(W25)/Division_08/Timberwolves_Stealers.ics"
+      "Ashy Lightning Green": "basketball-ical/U12_Boys_(W25)/Division_08/Ashy_Lightning_Green.ics",
+      "Glen Iris Scorpions Summerhill": "basketball-ical/U12_Boys_(W25)/Division_08/Glen_Iris_Scorpions_Summerhill.ics",
+      "Malvern Tigers Purple": "basketball-ical/U12_Boys_(W25)/Division_08/Malvern_Tigers_Purple.ics",
+      "Solway Bobcats": "basketball-ical/U12_Boys_(W25)/Division_08/Solway_Bobcats.ics",
+      "Timberwolves Chargers": "basketball-ical/U12_Boys_(W25)/Division_08/Timberwolves_Chargers.ics",
+      "Timberwolves Stealers": "basketball-ical/U12_Boys_(W25)/Division_08/Timberwolves_Stealers.ics"
     },
     "Division 09": {
-      "AlphaWolf Warriors": "U12_Boys_(W25)/Division_09/AlphaWolf_Warriors.ics",
-      "Golden Hawks Iron": "U12_Boys_(W25)/Division_09/Golden_Hawks_Iron.ics",
-      "Maccabi Falcons": "U12_Boys_(W25)/Division_09/Maccabi_Falcons.ics",
-      "Maccabi Giants": "U12_Boys_(W25)/Division_09/Maccabi_Giants.ics",
-      "Malvern Tigers Maroon": "U12_Boys_(W25)/Division_09/Malvern_Tigers_Maroon.ics",
-      "Warrawee Piranhas": "U12_Boys_(W25)/Division_09/Warrawee_Piranhas.ics"
+      "AlphaWolf Warriors": "basketball-ical/U12_Boys_(W25)/Division_09/AlphaWolf_Warriors.ics",
+      "Golden Hawks Iron": "basketball-ical/U12_Boys_(W25)/Division_09/Golden_Hawks_Iron.ics",
+      "Maccabi Falcons": "basketball-ical/U12_Boys_(W25)/Division_09/Maccabi_Falcons.ics",
+      "Maccabi Giants": "basketball-ical/U12_Boys_(W25)/Division_09/Maccabi_Giants.ics",
+      "Malvern Tigers Maroon": "basketball-ical/U12_Boys_(W25)/Division_09/Malvern_Tigers_Maroon.ics",
+      "Warrawee Piranhas": "basketball-ical/U12_Boys_(W25)/Division_09/Warrawee_Piranhas.ics"
     },
     "Division 10": {
-      "Comets Cyclones": "U12_Boys_(W25)/Division_10/Comets_Cyclones.ics",
-      "Comets Tigers": "U12_Boys_(W25)/Division_10/Comets_Tigers.ics",
-      "Malvern Tigers Grey": "U12_Boys_(W25)/Division_10/Malvern_Tigers_Grey.ics",
-      "Solway Panthers": "U12_Boys_(W25)/Division_10/Solway_Panthers.ics",
-      "Stonnington Piranhas": "U12_Boys_(W25)/Division_10/Stonnington_Piranhas.ics",
-      "Toorak Thunder": "U12_Boys_(W25)/Division_10/Toorak_Thunder.ics",
-      "Toorak Trouble": "U12_Boys_(W25)/Division_10/Toorak_Trouble.ics"
+      "Comets Cyclones": "basketball-ical/U12_Boys_(W25)/Division_10/Comets_Cyclones.ics",
+      "Comets Tigers": "basketball-ical/U12_Boys_(W25)/Division_10/Comets_Tigers.ics",
+      "Malvern Tigers Grey": "basketball-ical/U12_Boys_(W25)/Division_10/Malvern_Tigers_Grey.ics",
+      "Solway Panthers": "basketball-ical/U12_Boys_(W25)/Division_10/Solway_Panthers.ics",
+      "Stonnington Piranhas": "basketball-ical/U12_Boys_(W25)/Division_10/Stonnington_Piranhas.ics",
+      "Toorak Thunder": "basketball-ical/U12_Boys_(W25)/Division_10/Toorak_Thunder.ics",
+      "Toorak Trouble": "basketball-ical/U12_Boys_(W25)/Division_10/Toorak_Trouble.ics"
     },
     "Division 11": {
-      "Ardrie Park Piranhas": "U12_Boys_(W25)/Division_11/Ardrie_Park_Piranhas.ics",
-      "Ashy Lightning Yellow": "U12_Boys_(W25)/Division_11/Ashy_Lightning_Yellow.ics",
-      "Glen Iris Scorpions Nettleton": "U12_Boys_(W25)/Division_11/Glen_Iris_Scorpions_Nettleton.ics",
-      "Glen Iris Scorpions Raven": "U12_Boys_(W25)/Division_11/Glen_Iris_Scorpions_Raven.ics",
-      "Golden Hawks Blaze": "U12_Boys_(W25)/Division_11/Golden_Hawks_Blaze.ics",
-      "Maccabi Hawks": "U12_Boys_(W25)/Division_11/Maccabi_Hawks.ics",
-      "Maccabi Jaguars": "U12_Boys_(W25)/Division_11/Maccabi_Jaguars.ics",
-      "Maccabi Lakers": "U12_Boys_(W25)/Division_11/Maccabi_Lakers.ics",
-      "Timberwolves Cyclones": "U12_Boys_(W25)/Division_11/Timberwolves_Cyclones.ics"
+      "Ardrie Park Piranhas": "basketball-ical/U12_Boys_(W25)/Division_11/Ardrie_Park_Piranhas.ics",
+      "Ashy Lightning Yellow": "basketball-ical/U12_Boys_(W25)/Division_11/Ashy_Lightning_Yellow.ics",
+      "Glen Iris Scorpions Nettleton": "basketball-ical/U12_Boys_(W25)/Division_11/Glen_Iris_Scorpions_Nettleton.ics",
+      "Glen Iris Scorpions Raven": "basketball-ical/U12_Boys_(W25)/Division_11/Glen_Iris_Scorpions_Raven.ics",
+      "Golden Hawks Blaze": "basketball-ical/U12_Boys_(W25)/Division_11/Golden_Hawks_Blaze.ics",
+      "Maccabi Hawks": "basketball-ical/U12_Boys_(W25)/Division_11/Maccabi_Hawks.ics",
+      "Maccabi Jaguars": "basketball-ical/U12_Boys_(W25)/Division_11/Maccabi_Jaguars.ics",
+      "Maccabi Lakers": "basketball-ical/U12_Boys_(W25)/Division_11/Maccabi_Lakers.ics",
+      "Timberwolves Cyclones": "basketball-ical/U12_Boys_(W25)/Division_11/Timberwolves_Cyclones.ics"
     },
     "Division 12": {
-      "Balaclava Piranhas": "U12_Boys_(W25)/Division_12/Balaclava_Piranhas.ics",
-      "Maccabi Kings": "U12_Boys_(W25)/Division_12/Maccabi_Kings.ics",
-      "Malvern Tigers Aqua": "U12_Boys_(W25)/Division_12/Malvern_Tigers_Aqua.ics",
-      "Malvern Tigers Lime": "U12_Boys_(W25)/Division_12/Malvern_Tigers_Lime.ics",
-      "Malvern Tigers Tan": "U12_Boys_(W25)/Division_12/Malvern_Tigers_Tan.ics",
-      "Solway Crocodiles": "U12_Boys_(W25)/Division_12/Solway_Crocodiles.ics",
-      "Solway Dingoes": "U12_Boys_(W25)/Division_12/Solway_Dingoes.ics",
-      "Timberwolves Cavs": "U12_Boys_(W25)/Division_12/Timberwolves_Cavs.ics",
-      "Timberwolves Fury": "U12_Boys_(W25)/Division_12/Timberwolves_Fury.ics",
-      "Wilson Piranhas": "U12_Boys_(W25)/Division_12/Wilson_Piranhas.ics"
+      "Balaclava Piranhas": "basketball-ical/U12_Boys_(W25)/Division_12/Balaclava_Piranhas.ics",
+      "Maccabi Kings": "basketball-ical/U12_Boys_(W25)/Division_12/Maccabi_Kings.ics",
+      "Malvern Tigers Aqua": "basketball-ical/U12_Boys_(W25)/Division_12/Malvern_Tigers_Aqua.ics",
+      "Malvern Tigers Lime": "basketball-ical/U12_Boys_(W25)/Division_12/Malvern_Tigers_Lime.ics",
+      "Malvern Tigers Tan": "basketball-ical/U12_Boys_(W25)/Division_12/Malvern_Tigers_Tan.ics",
+      "Solway Crocodiles": "basketball-ical/U12_Boys_(W25)/Division_12/Solway_Crocodiles.ics",
+      "Solway Dingoes": "basketball-ical/U12_Boys_(W25)/Division_12/Solway_Dingoes.ics",
+      "Timberwolves Cavs": "basketball-ical/U12_Boys_(W25)/Division_12/Timberwolves_Cavs.ics",
+      "Timberwolves Fury": "basketball-ical/U12_Boys_(W25)/Division_12/Timberwolves_Fury.ics",
+      "Wilson Piranhas": "basketball-ical/U12_Boys_(W25)/Division_12/Wilson_Piranhas.ics"
     }
   },
   "U12 Girls (W25)": {
     "Division 01/02": {
-      "Glen Iris Scorpions Ferndale": "U12_Girls_(W25)/Division_0102/Glen_Iris_Scorpions_Ferndale.ics",
-      "Malvern Tigers Phillips": "U12_Girls_(W25)/Division_0102/Malvern_Tigers_Phillips.ics",
-      "Malvern Tigers Taylor": "U12_Girls_(W25)/Division_0102/Malvern_Tigers_Taylor.ics",
-      "Solway Bluebirds": "U12_Girls_(W25)/Division_0102/Solway_Bluebirds.ics",
-      "Solway Finches": "U12_Girls_(W25)/Division_0102/Solway_Finches.ics",
-      "Timberwolves Strikers": "U12_Girls_(W25)/Division_0102/Timberwolves_Strikers.ics",
-      "Toorak TopShots": "U12_Girls_(W25)/Division_0102/Toorak_TopShots.ics",
-      "Yanakie Piranhas": "U12_Girls_(W25)/Division_0102/Yanakie_Piranhas.ics"
+      "Glen Iris Scorpions Ferndale": "basketball-ical/U12_Girls_(W25)/Division_0102/Glen_Iris_Scorpions_Ferndale.ics",
+      "Malvern Tigers Phillips": "basketball-ical/U12_Girls_(W25)/Division_0102/Malvern_Tigers_Phillips.ics",
+      "Malvern Tigers Taylor": "basketball-ical/U12_Girls_(W25)/Division_0102/Malvern_Tigers_Taylor.ics",
+      "Solway Bluebirds": "basketball-ical/U12_Girls_(W25)/Division_0102/Solway_Bluebirds.ics",
+      "Solway Finches": "basketball-ical/U12_Girls_(W25)/Division_0102/Solway_Finches.ics",
+      "Timberwolves Strikers": "basketball-ical/U12_Girls_(W25)/Division_0102/Timberwolves_Strikers.ics",
+      "Toorak TopShots": "basketball-ical/U12_Girls_(W25)/Division_0102/Toorak_TopShots.ics",
+      "Yanakie Piranhas": "basketball-ical/U12_Girls_(W25)/Division_0102/Yanakie_Piranhas.ics"
     },
     "Division 03": {
-      "Ashy Lightning Gold": "U12_Girls_(W25)/Division_03/Ashy_Lightning_Gold.ics",
-      "Comets Rubies": "U12_Girls_(W25)/Division_03/Comets_Rubies.ics",
-      "Korowa Cherry": "U12_Girls_(W25)/Division_03/Korowa_Cherry.ics",
-      "Malvern Tigers Hodges": "U12_Girls_(W25)/Division_03/Malvern_Tigers_Hodges.ics",
-      "Malvern Tigers Jarry": "U12_Girls_(W25)/Division_03/Malvern_Tigers_Jarry.ics",
-      "Malvern Tigers Mitchell": "U12_Girls_(W25)/Division_03/Malvern_Tigers_Mitchell.ics",
-      "Solway Rosellas": "U12_Girls_(W25)/Division_03/Solway_Rosellas.ics"
+      "Ashy Lightning Gold": "basketball-ical/U12_Girls_(W25)/Division_03/Ashy_Lightning_Gold.ics",
+      "Comets Rubies": "basketball-ical/U12_Girls_(W25)/Division_03/Comets_Rubies.ics",
+      "Korowa Cherry": "basketball-ical/U12_Girls_(W25)/Division_03/Korowa_Cherry.ics",
+      "Malvern Tigers Hodges": "basketball-ical/U12_Girls_(W25)/Division_03/Malvern_Tigers_Hodges.ics",
+      "Malvern Tigers Jarry": "basketball-ical/U12_Girls_(W25)/Division_03/Malvern_Tigers_Jarry.ics",
+      "Malvern Tigers Mitchell": "basketball-ical/U12_Girls_(W25)/Division_03/Malvern_Tigers_Mitchell.ics",
+      "Solway Rosellas": "basketball-ical/U12_Girls_(W25)/Division_03/Solway_Rosellas.ics"
     },
     "Division 04": {
-      "Aintree Piranhas": "U12_Girls_(W25)/Division_04/Aintree_Piranhas.ics",
-      "Glen Iris Scorpions Gardiner": "U12_Girls_(W25)/Division_04/Glen_Iris_Scorpions_Gardiner.ics",
-      "Lauriston Sparks": "U12_Girls_(W25)/Division_04/Lauriston_Sparks.ics",
-      "Maccabi Bucks": "U12_Girls_(W25)/Division_04/Maccabi_Bucks.ics",
-      "Maccabi Warriors": "U12_Girls_(W25)/Division_04/Maccabi_Warriors.ics",
-      "Malvern Tigers Lavey": "U12_Girls_(W25)/Division_04/Malvern_Tigers_Lavey.ics",
-      "Timberwolves Thunder": "U12_Girls_(W25)/Division_04/Timberwolves_Thunder.ics",
-      "Willow Piranhas": "U12_Girls_(W25)/Division_04/Willow_Piranhas.ics"
+      "Aintree Piranhas": "basketball-ical/U12_Girls_(W25)/Division_04/Aintree_Piranhas.ics",
+      "Glen Iris Scorpions Gardiner": "basketball-ical/U12_Girls_(W25)/Division_04/Glen_Iris_Scorpions_Gardiner.ics",
+      "Lauriston Sparks": "basketball-ical/U12_Girls_(W25)/Division_04/Lauriston_Sparks.ics",
+      "Maccabi Bucks": "basketball-ical/U12_Girls_(W25)/Division_04/Maccabi_Bucks.ics",
+      "Maccabi Warriors": "basketball-ical/U12_Girls_(W25)/Division_04/Maccabi_Warriors.ics",
+      "Malvern Tigers Lavey": "basketball-ical/U12_Girls_(W25)/Division_04/Malvern_Tigers_Lavey.ics",
+      "Timberwolves Thunder": "basketball-ical/U12_Girls_(W25)/Division_04/Timberwolves_Thunder.ics",
+      "Willow Piranhas": "basketball-ical/U12_Girls_(W25)/Division_04/Willow_Piranhas.ics"
     },
     "Division 05": {
-      "Ashy Lightning Green": "U12_Girls_(W25)/Division_05/Ashy_Lightning_Green.ics",
-      "Erica Piranhas": "U12_Girls_(W25)/Division_05/Erica_Piranhas.ics",
-      "Korowa Grey": "U12_Girls_(W25)/Division_05/Korowa_Grey.ics",
-      "Maccabi Celtics": "U12_Girls_(W25)/Division_05/Maccabi_Celtics.ics",
-      "Maccabi Ducks": "U12_Girls_(W25)/Division_05/Maccabi_Ducks.ics",
-      "Malvern Tigers Burton": "U12_Girls_(W25)/Division_05/Malvern_Tigers_Burton.ics",
-      "Malvern Tigers Smith": "U12_Girls_(W25)/Division_05/Malvern_Tigers_Smith.ics",
-      "Toorak Talons": "U12_Girls_(W25)/Division_05/Toorak_Talons.ics"
+      "Ashy Lightning Green": "basketball-ical/U12_Girls_(W25)/Division_05/Ashy_Lightning_Green.ics",
+      "Erica Piranhas": "basketball-ical/U12_Girls_(W25)/Division_05/Erica_Piranhas.ics",
+      "Korowa Grey": "basketball-ical/U12_Girls_(W25)/Division_05/Korowa_Grey.ics",
+      "Maccabi Celtics": "basketball-ical/U12_Girls_(W25)/Division_05/Maccabi_Celtics.ics",
+      "Maccabi Ducks": "basketball-ical/U12_Girls_(W25)/Division_05/Maccabi_Ducks.ics",
+      "Malvern Tigers Burton": "basketball-ical/U12_Girls_(W25)/Division_05/Malvern_Tigers_Burton.ics",
+      "Malvern Tigers Smith": "basketball-ical/U12_Girls_(W25)/Division_05/Malvern_Tigers_Smith.ics",
+      "Toorak Talons": "basketball-ical/U12_Girls_(W25)/Division_05/Toorak_Talons.ics"
     },
     "Division 06": {
-      "Ashy Lightning White": "U12_Girls_(W25)/Division_06/Ashy_Lightning_White.ics",
-      "Ashy Lightning Yellow": "U12_Girls_(W25)/Division_06/Ashy_Lightning_Yellow.ics",
-      "Lauriston Storm": "U12_Girls_(W25)/Division_06/Lauriston_Storm.ics",
-      "Maccabi Eagles": "U12_Girls_(W25)/Division_06/Maccabi_Eagles.ics",
-      "Solway Lorikeets": "U12_Girls_(W25)/Division_06/Solway_Lorikeets.ics",
-      "Timberwolves Hurricanes": "U12_Girls_(W25)/Division_06/Timberwolves_Hurricanes.ics",
-      "Timberwolves Pearls": "U12_Girls_(W25)/Division_06/Timberwolves_Pearls.ics"
+      "Ashy Lightning White": "basketball-ical/U12_Girls_(W25)/Division_06/Ashy_Lightning_White.ics",
+      "Ashy Lightning Yellow": "basketball-ical/U12_Girls_(W25)/Division_06/Ashy_Lightning_Yellow.ics",
+      "Lauriston Storm": "basketball-ical/U12_Girls_(W25)/Division_06/Lauriston_Storm.ics",
+      "Maccabi Eagles": "basketball-ical/U12_Girls_(W25)/Division_06/Maccabi_Eagles.ics",
+      "Solway Lorikeets": "basketball-ical/U12_Girls_(W25)/Division_06/Solway_Lorikeets.ics",
+      "Timberwolves Hurricanes": "basketball-ical/U12_Girls_(W25)/Division_06/Timberwolves_Hurricanes.ics",
+      "Timberwolves Pearls": "basketball-ical/U12_Girls_(W25)/Division_06/Timberwolves_Pearls.ics"
     },
     "Division 07": {
-      "Arax": "U12_Girls_(W25)/Division_07/Arax.ics",
-      "Creswick Piranhas": "U12_Girls_(W25)/Division_07/Creswick_Piranhas.ics",
-      "Lauriston Suns": "U12_Girls_(W25)/Division_07/Lauriston_Suns.ics",
-      "Maccabi Falcons": "U12_Girls_(W25)/Division_07/Maccabi_Falcons.ics",
-      "Solway Wrens": "U12_Girls_(W25)/Division_07/Solway_Wrens.ics"
+      "Arax": "basketball-ical/U12_Girls_(W25)/Division_07/Arax.ics",
+      "Creswick Piranhas": "basketball-ical/U12_Girls_(W25)/Division_07/Creswick_Piranhas.ics",
+      "Lauriston Suns": "basketball-ical/U12_Girls_(W25)/Division_07/Lauriston_Suns.ics",
+      "Maccabi Falcons": "basketball-ical/U12_Girls_(W25)/Division_07/Maccabi_Falcons.ics",
+      "Solway Wrens": "basketball-ical/U12_Girls_(W25)/Division_07/Solway_Wrens.ics"
     }
   },
   "U14 Boys (W25)": {
     "Division 01": {
-      "Golden Hawks Sky": "U14_Boys_(W25)/Division_01/Golden_Hawks_Sky.ics",
-      "Malvern Tigers Black": "U14_Boys_(W25)/Division_01/Malvern_Tigers_Black.ics",
-      "Malvern Tigers Red": "U14_Boys_(W25)/Division_01/Malvern_Tigers_Red.ics",
-      "Solway Samurais": "U14_Boys_(W25)/Division_01/Solway_Samurais.ics",
-      "Timberwolves Lions": "U14_Boys_(W25)/Division_01/Timberwolves_Lions.ics",
-      "Toorak Tyrants": "U14_Boys_(W25)/Division_01/Toorak_Tyrants.ics"
+      "Golden Hawks Sky": "basketball-ical/U14_Boys_(W25)/Division_01/Golden_Hawks_Sky.ics",
+      "Malvern Tigers Black": "basketball-ical/U14_Boys_(W25)/Division_01/Malvern_Tigers_Black.ics",
+      "Malvern Tigers Red": "basketball-ical/U14_Boys_(W25)/Division_01/Malvern_Tigers_Red.ics",
+      "Solway Samurais": "basketball-ical/U14_Boys_(W25)/Division_01/Solway_Samurais.ics",
+      "Timberwolves Lions": "basketball-ical/U14_Boys_(W25)/Division_01/Timberwolves_Lions.ics",
+      "Toorak Tyrants": "basketball-ical/U14_Boys_(W25)/Division_01/Toorak_Tyrants.ics"
     },
     "Division 02": {
-      "Elsternwick Piranhas": "U14_Boys_(W25)/Division_02/Elsternwick_Piranhas.ics",
-      "Glen Iris Scorpions Ferndale": "U14_Boys_(W25)/Division_02/Glen_Iris_Scorpions_Ferndale.ics",
-      "Glen Iris Scorpions Gardiner": "U14_Boys_(W25)/Division_02/Glen_Iris_Scorpions_Gardiner.ics",
-      "Maccabi Warriors": "U14_Boys_(W25)/Division_02/Maccabi_Warriors.ics",
-      "Solway Knights": "U14_Boys_(W25)/Division_02/Solway_Knights.ics",
-      "Tennyson Piranhas": "U14_Boys_(W25)/Division_02/Tennyson_Piranhas.ics",
-      "Toorak Toros": "U14_Boys_(W25)/Division_02/Toorak_Toros.ics"
+      "Elsternwick Piranhas": "basketball-ical/U14_Boys_(W25)/Division_02/Elsternwick_Piranhas.ics",
+      "Glen Iris Scorpions Ferndale": "basketball-ical/U14_Boys_(W25)/Division_02/Glen_Iris_Scorpions_Ferndale.ics",
+      "Glen Iris Scorpions Gardiner": "basketball-ical/U14_Boys_(W25)/Division_02/Glen_Iris_Scorpions_Gardiner.ics",
+      "Maccabi Warriors": "basketball-ical/U14_Boys_(W25)/Division_02/Maccabi_Warriors.ics",
+      "Solway Knights": "basketball-ical/U14_Boys_(W25)/Division_02/Solway_Knights.ics",
+      "Tennyson Piranhas": "basketball-ical/U14_Boys_(W25)/Division_02/Tennyson_Piranhas.ics",
+      "Toorak Toros": "basketball-ical/U14_Boys_(W25)/Division_02/Toorak_Toros.ics"
     },
     "Division 03": {
-      "Ashy Lightning Gold": "U14_Boys_(W25)/Division_03/Ashy_Lightning_Gold.ics",
-      "Glen Iris Piranhas": "U14_Boys_(W25)/Division_03/Glen_Iris_Piranhas.ics",
-      "Glen Iris Scorpions Nettleton": "U14_Boys_(W25)/Division_03/Glen_Iris_Scorpions_Nettleton.ics",
-      "Malvern Tigers Yellow": "U14_Boys_(W25)/Division_03/Malvern_Tigers_Yellow.ics",
-      "Paxton Piranhas": "U14_Boys_(W25)/Division_03/Paxton_Piranhas.ics",
-      "Timberwolves Phoenix": "U14_Boys_(W25)/Division_03/Timberwolves_Phoenix.ics"
+      "Ashy Lightning Gold": "basketball-ical/U14_Boys_(W25)/Division_03/Ashy_Lightning_Gold.ics",
+      "Glen Iris Piranhas": "basketball-ical/U14_Boys_(W25)/Division_03/Glen_Iris_Piranhas.ics",
+      "Glen Iris Scorpions Nettleton": "basketball-ical/U14_Boys_(W25)/Division_03/Glen_Iris_Scorpions_Nettleton.ics",
+      "Malvern Tigers Yellow": "basketball-ical/U14_Boys_(W25)/Division_03/Malvern_Tigers_Yellow.ics",
+      "Paxton Piranhas": "basketball-ical/U14_Boys_(W25)/Division_03/Paxton_Piranhas.ics",
+      "Timberwolves Phoenix": "basketball-ical/U14_Boys_(W25)/Division_03/Timberwolves_Phoenix.ics"
     },
     "Division 04": {
-      "Ashy Lightning Green": "U14_Boys_(W25)/Division_04/Ashy_Lightning_Green.ics",
-      "Maccabi Bucks": "U14_Boys_(W25)/Division_04/Maccabi_Bucks.ics",
-      "Malvern Tigers White": "U14_Boys_(W25)/Division_04/Malvern_Tigers_White.ics",
-      "Solway Crusaders": "U14_Boys_(W25)/Division_04/Solway_Crusaders.ics",
-      "Solway Trojans": "U14_Boys_(W25)/Division_04/Solway_Trojans.ics",
-      "Timberwolves Celtics": "U14_Boys_(W25)/Division_04/Timberwolves_Celtics.ics",
-      "Toorak Triple-Threat": "U14_Boys_(W25)/Division_04/Toorak_Triple-Threat.ics"
+      "Ashy Lightning Green": "basketball-ical/U14_Boys_(W25)/Division_04/Ashy_Lightning_Green.ics",
+      "Maccabi Bucks": "basketball-ical/U14_Boys_(W25)/Division_04/Maccabi_Bucks.ics",
+      "Malvern Tigers White": "basketball-ical/U14_Boys_(W25)/Division_04/Malvern_Tigers_White.ics",
+      "Solway Crusaders": "basketball-ical/U14_Boys_(W25)/Division_04/Solway_Crusaders.ics",
+      "Solway Trojans": "basketball-ical/U14_Boys_(W25)/Division_04/Solway_Trojans.ics",
+      "Timberwolves Celtics": "basketball-ical/U14_Boys_(W25)/Division_04/Timberwolves_Celtics.ics",
+      "Toorak Triple-Threat": "basketball-ical/U14_Boys_(W25)/Division_04/Toorak_Triple-Threat.ics"
     },
     "Division 05": {
-      "AlphaWolf Force": "U14_Boys_(W25)/Division_05/AlphaWolf_Force.ics",
-      "Comets Lightning": "U14_Boys_(W25)/Division_05/Comets_Lightning.ics",
-      "Glen Iris Scorpions Raven": "U14_Boys_(W25)/Division_05/Glen_Iris_Scorpions_Raven.ics",
-      "Maccabi Celtics": "U14_Boys_(W25)/Division_05/Maccabi_Celtics.ics",
-      "Malvern Tigers Green": "U14_Boys_(W25)/Division_05/Malvern_Tigers_Green.ics",
-      "Solway Warriors": "U14_Boys_(W25)/Division_05/Solway_Warriors.ics",
-      "Timberwolves Dragons": "U14_Boys_(W25)/Division_05/Timberwolves_Dragons.ics",
-      "Toorak Tomcats": "U14_Boys_(W25)/Division_05/Toorak_Tomcats.ics"
+      "AlphaWolf Force": "basketball-ical/U14_Boys_(W25)/Division_05/AlphaWolf_Force.ics",
+      "Comets Lightning": "basketball-ical/U14_Boys_(W25)/Division_05/Comets_Lightning.ics",
+      "Glen Iris Scorpions Raven": "basketball-ical/U14_Boys_(W25)/Division_05/Glen_Iris_Scorpions_Raven.ics",
+      "Maccabi Celtics": "basketball-ical/U14_Boys_(W25)/Division_05/Maccabi_Celtics.ics",
+      "Malvern Tigers Green": "basketball-ical/U14_Boys_(W25)/Division_05/Malvern_Tigers_Green.ics",
+      "Solway Warriors": "basketball-ical/U14_Boys_(W25)/Division_05/Solway_Warriors.ics",
+      "Timberwolves Dragons": "basketball-ical/U14_Boys_(W25)/Division_05/Timberwolves_Dragons.ics",
+      "Toorak Tomcats": "basketball-ical/U14_Boys_(W25)/Division_05/Toorak_Tomcats.ics"
     },
     "Division 06": {
-      "AlphaWolf Conquerors": "U14_Boys_(W25)/Division_06/AlphaWolf_Conquerors.ics",
-      "Ashy Lightning Yellow": "U14_Boys_(W25)/Division_06/Ashy_Lightning_Yellow.ics",
-      "Malvern Tigers Orange": "U14_Boys_(W25)/Division_06/Malvern_Tigers_Orange.ics",
-      "Timberwolves Ramblers": "U14_Boys_(W25)/Division_06/Timberwolves_Ramblers.ics",
-      "Timberwolves Stones": "U14_Boys_(W25)/Division_06/Timberwolves_Stones.ics",
-      "Timberwolves Terriers": "U14_Boys_(W25)/Division_06/Timberwolves_Terriers.ics"
+      "AlphaWolf Conquerors": "basketball-ical/U14_Boys_(W25)/Division_06/AlphaWolf_Conquerors.ics",
+      "Ashy Lightning Yellow": "basketball-ical/U14_Boys_(W25)/Division_06/Ashy_Lightning_Yellow.ics",
+      "Malvern Tigers Orange": "basketball-ical/U14_Boys_(W25)/Division_06/Malvern_Tigers_Orange.ics",
+      "Timberwolves Ramblers": "basketball-ical/U14_Boys_(W25)/Division_06/Timberwolves_Ramblers.ics",
+      "Timberwolves Stones": "basketball-ical/U14_Boys_(W25)/Division_06/Timberwolves_Stones.ics",
+      "Timberwolves Terriers": "basketball-ical/U14_Boys_(W25)/Division_06/Timberwolves_Terriers.ics"
     },
     "Division 07": {
-      "Glen Iris Scorpions Summerhill": "U14_Boys_(W25)/Division_07/Glen_Iris_Scorpions_Summerhill.ics",
-      "Inkerman Piranhas": "U14_Boys_(W25)/Division_07/Inkerman_Piranhas.ics",
-      "Maccabi Ducks": "U14_Boys_(W25)/Division_07/Maccabi_Ducks.ics",
-      "Malvern Tigers Blue": "U14_Boys_(W25)/Division_07/Malvern_Tigers_Blue.ics",
-      "Solway Gladiators": "U14_Boys_(W25)/Division_07/Solway_Gladiators.ics",
-      "Solway Vikings": "U14_Boys_(W25)/Division_07/Solway_Vikings.ics"
+      "Glen Iris Scorpions Summerhill": "basketball-ical/U14_Boys_(W25)/Division_07/Glen_Iris_Scorpions_Summerhill.ics",
+      "Inkerman Piranhas": "basketball-ical/U14_Boys_(W25)/Division_07/Inkerman_Piranhas.ics",
+      "Maccabi Ducks": "basketball-ical/U14_Boys_(W25)/Division_07/Maccabi_Ducks.ics",
+      "Malvern Tigers Blue": "basketball-ical/U14_Boys_(W25)/Division_07/Malvern_Tigers_Blue.ics",
+      "Solway Gladiators": "basketball-ical/U14_Boys_(W25)/Division_07/Solway_Gladiators.ics",
+      "Solway Vikings": "basketball-ical/U14_Boys_(W25)/Division_07/Solway_Vikings.ics"
     },
     "Division 08": {
-      "Arax": "U14_Boys_(W25)/Division_08/Arax.ics",
-      "Comets Sharks": "U14_Boys_(W25)/Division_08/Comets_Sharks.ics",
-      "Malvern Tigers Purple": "U14_Boys_(W25)/Division_08/Malvern_Tigers_Purple.ics",
-      "Prahran Piranhas": "U14_Boys_(W25)/Division_08/Prahran_Piranhas.ics",
-      "Solway Mavericks": "U14_Boys_(W25)/Division_08/Solway_Mavericks.ics",
-      "Solway Ninjas": "U14_Boys_(W25)/Division_08/Solway_Ninjas.ics",
-      "Toorak Tractors": "U14_Boys_(W25)/Division_08/Toorak_Tractors.ics"
+      "Arax": "basketball-ical/U14_Boys_(W25)/Division_08/Arax.ics",
+      "Comets Sharks": "basketball-ical/U14_Boys_(W25)/Division_08/Comets_Sharks.ics",
+      "Malvern Tigers Purple": "basketball-ical/U14_Boys_(W25)/Division_08/Malvern_Tigers_Purple.ics",
+      "Prahran Piranhas": "basketball-ical/U14_Boys_(W25)/Division_08/Prahran_Piranhas.ics",
+      "Solway Mavericks": "basketball-ical/U14_Boys_(W25)/Division_08/Solway_Mavericks.ics",
+      "Solway Ninjas": "basketball-ical/U14_Boys_(W25)/Division_08/Solway_Ninjas.ics",
+      "Toorak Tractors": "basketball-ical/U14_Boys_(W25)/Division_08/Toorak_Tractors.ics"
     },
     "Division 09": {
-      "Ashy Lightning White": "U14_Boys_(W25)/Division_09/Ashy_Lightning_White.ics",
-      "Golden Hawks Iron": "U14_Boys_(W25)/Division_09/Golden_Hawks_Iron.ics",
-      "Maccabi Eagles": "U14_Boys_(W25)/Division_09/Maccabi_Eagles.ics",
-      "Maccabi Falcons": "U14_Boys_(W25)/Division_09/Maccabi_Falcons.ics",
-      "Maccabi Giants": "U14_Boys_(W25)/Division_09/Maccabi_Giants.ics",
-      "Malvern Tigers Maroon": "U14_Boys_(W25)/Division_09/Malvern_Tigers_Maroon.ics",
-      "Solway Spartans": "U14_Boys_(W25)/Division_09/Solway_Spartans.ics",
-      "SouthEast Venom Heat": "U14_Boys_(W25)/Division_09/SouthEast_Venom_Heat.ics",
-      "Timberwolves Raptors": "U14_Boys_(W25)/Division_09/Timberwolves_Raptors.ics"
+      "Ashy Lightning White": "basketball-ical/U14_Boys_(W25)/Division_09/Ashy_Lightning_White.ics",
+      "Golden Hawks Iron": "basketball-ical/U14_Boys_(W25)/Division_09/Golden_Hawks_Iron.ics",
+      "Maccabi Eagles": "basketball-ical/U14_Boys_(W25)/Division_09/Maccabi_Eagles.ics",
+      "Maccabi Falcons": "basketball-ical/U14_Boys_(W25)/Division_09/Maccabi_Falcons.ics",
+      "Maccabi Giants": "basketball-ical/U14_Boys_(W25)/Division_09/Maccabi_Giants.ics",
+      "Malvern Tigers Maroon": "basketball-ical/U14_Boys_(W25)/Division_09/Malvern_Tigers_Maroon.ics",
+      "Solway Spartans": "basketball-ical/U14_Boys_(W25)/Division_09/Solway_Spartans.ics",
+      "SouthEast Venom Heat": "basketball-ical/U14_Boys_(W25)/Division_09/SouthEast_Venom_Heat.ics",
+      "Timberwolves Raptors": "basketball-ical/U14_Boys_(W25)/Division_09/Timberwolves_Raptors.ics"
     }
   },
   "U14 Girls (W25)": {
     "Division 01/02": {
-      "Ashy Lightning Gold": "U14_Girls_(W25)/Division_0102/Ashy_Lightning_Gold.ics",
-      "Gardenvale Piranhas": "U14_Girls_(W25)/Division_0102/Gardenvale_Piranhas.ics",
-      "Maccabi Warriors": "U14_Girls_(W25)/Division_0102/Maccabi_Warriors.ics",
-      "Malvern Tigers Phillips": "U14_Girls_(W25)/Division_0102/Malvern_Tigers_Phillips.ics",
-      "Malvern Tigers Taylor": "U14_Girls_(W25)/Division_0102/Malvern_Tigers_Taylor.ics",
-      "Solway Rubies": "U14_Girls_(W25)/Division_0102/Solway_Rubies.ics",
-      "Timberwolves Comets": "U14_Girls_(W25)/Division_0102/Timberwolves_Comets.ics",
-      "Toorak TopGuns": "U14_Girls_(W25)/Division_0102/Toorak_TopGuns.ics"
+      "Ashy Lightning Gold": "basketball-ical/U14_Girls_(W25)/Division_0102/Ashy_Lightning_Gold.ics",
+      "Gardenvale Piranhas": "basketball-ical/U14_Girls_(W25)/Division_0102/Gardenvale_Piranhas.ics",
+      "Maccabi Warriors": "basketball-ical/U14_Girls_(W25)/Division_0102/Maccabi_Warriors.ics",
+      "Malvern Tigers Phillips": "basketball-ical/U14_Girls_(W25)/Division_0102/Malvern_Tigers_Phillips.ics",
+      "Malvern Tigers Taylor": "basketball-ical/U14_Girls_(W25)/Division_0102/Malvern_Tigers_Taylor.ics",
+      "Solway Rubies": "basketball-ical/U14_Girls_(W25)/Division_0102/Solway_Rubies.ics",
+      "Timberwolves Comets": "basketball-ical/U14_Girls_(W25)/Division_0102/Timberwolves_Comets.ics",
+      "Toorak TopGuns": "basketball-ical/U14_Girls_(W25)/Division_0102/Toorak_TopGuns.ics"
     },
     "Division 03": {
-      "Ashy Lightning Green": "U14_Girls_(W25)/Division_03/Ashy_Lightning_Green.ics",
-      "Cato Park Piranhas": "U14_Girls_(W25)/Division_03/Cato_Park_Piranhas.ics",
-      "Glen Iris Scorpions Ferndale": "U14_Girls_(W25)/Division_03/Glen_Iris_Scorpions_Ferndale.ics",
-      "Glen Iris Scorpions Gardiner": "U14_Girls_(W25)/Division_03/Glen_Iris_Scorpions_Gardiner.ics",
-      "Malvern Tigers Hodges": "U14_Girls_(W25)/Division_03/Malvern_Tigers_Hodges.ics",
-      "Solway Jewels": "U14_Girls_(W25)/Division_03/Solway_Jewels.ics",
-      "Timberwolves Flames": "U14_Girls_(W25)/Division_03/Timberwolves_Flames.ics"
+      "Ashy Lightning Green": "basketball-ical/U14_Girls_(W25)/Division_03/Ashy_Lightning_Green.ics",
+      "Cato Park Piranhas": "basketball-ical/U14_Girls_(W25)/Division_03/Cato_Park_Piranhas.ics",
+      "Glen Iris Scorpions Ferndale": "basketball-ical/U14_Girls_(W25)/Division_03/Glen_Iris_Scorpions_Ferndale.ics",
+      "Glen Iris Scorpions Gardiner": "basketball-ical/U14_Girls_(W25)/Division_03/Glen_Iris_Scorpions_Gardiner.ics",
+      "Malvern Tigers Hodges": "basketball-ical/U14_Girls_(W25)/Division_03/Malvern_Tigers_Hodges.ics",
+      "Solway Jewels": "basketball-ical/U14_Girls_(W25)/Division_03/Solway_Jewels.ics",
+      "Timberwolves Flames": "basketball-ical/U14_Girls_(W25)/Division_03/Timberwolves_Flames.ics"
     },
     "Division 04": {
-      "Golden Hawks Sky": "U14_Girls_(W25)/Division_04/Golden_Hawks_Sky.ics",
-      "Lauriston Liberty": "U14_Girls_(W25)/Division_04/Lauriston_Liberty.ics",
-      "Malvern Tigers Jarry": "U14_Girls_(W25)/Division_04/Malvern_Tigers_Jarry.ics",
-      "Malvern Tigers Lavey": "U14_Girls_(W25)/Division_04/Malvern_Tigers_Lavey.ics",
-      "Malvern Tigers Mitchell": "U14_Girls_(W25)/Division_04/Malvern_Tigers_Mitchell.ics"
+      "Golden Hawks Sky": "basketball-ical/U14_Girls_(W25)/Division_04/Golden_Hawks_Sky.ics",
+      "Lauriston Liberty": "basketball-ical/U14_Girls_(W25)/Division_04/Lauriston_Liberty.ics",
+      "Malvern Tigers Jarry": "basketball-ical/U14_Girls_(W25)/Division_04/Malvern_Tigers_Jarry.ics",
+      "Malvern Tigers Lavey": "basketball-ical/U14_Girls_(W25)/Division_04/Malvern_Tigers_Lavey.ics",
+      "Malvern Tigers Mitchell": "basketball-ical/U14_Girls_(W25)/Division_04/Malvern_Tigers_Mitchell.ics"
     },
     "Division 05": {
-      "Arax": "U14_Girls_(W25)/Division_05/Arax.ics",
-      "Ashy Lightning Yellow": "U14_Girls_(W25)/Division_05/Ashy_Lightning_Yellow.ics",
-      "Korowa Cherry": "U14_Girls_(W25)/Division_05/Korowa_Cherry.ics",
-      "Maccabi Bucks": "U14_Girls_(W25)/Division_05/Maccabi_Bucks.ics",
-      "Malvern Tigers Burton": "U14_Girls_(W25)/Division_05/Malvern_Tigers_Burton.ics",
-      "McArthur Park Piranhas": "U14_Girls_(W25)/Division_05/McArthur_Park_Piranhas.ics",
-      "Ranfurlie Piranhas": "U14_Girls_(W25)/Division_05/Ranfurlie_Piranhas.ics",
-      "Solway Emeralds": "U14_Girls_(W25)/Division_05/Solway_Emeralds.ics"
+      "Arax": "basketball-ical/U14_Girls_(W25)/Division_05/Arax.ics",
+      "Ashy Lightning Yellow": "basketball-ical/U14_Girls_(W25)/Division_05/Ashy_Lightning_Yellow.ics",
+      "Korowa Cherry": "basketball-ical/U14_Girls_(W25)/Division_05/Korowa_Cherry.ics",
+      "Maccabi Bucks": "basketball-ical/U14_Girls_(W25)/Division_05/Maccabi_Bucks.ics",
+      "Malvern Tigers Burton": "basketball-ical/U14_Girls_(W25)/Division_05/Malvern_Tigers_Burton.ics",
+      "McArthur Park Piranhas": "basketball-ical/U14_Girls_(W25)/Division_05/McArthur_Park_Piranhas.ics",
+      "Ranfurlie Piranhas": "basketball-ical/U14_Girls_(W25)/Division_05/Ranfurlie_Piranhas.ics",
+      "Solway Emeralds": "basketball-ical/U14_Girls_(W25)/Division_05/Solway_Emeralds.ics"
     },
     "Division 06": {
-      "Ashy Lightning White": "U14_Girls_(W25)/Division_06/Ashy_Lightning_White.ics",
-      "Glen Iris Scorpions Nettleton": "U14_Girls_(W25)/Division_06/Glen_Iris_Scorpions_Nettleton.ics",
-      "Lauriston Legacy": "U14_Girls_(W25)/Division_06/Lauriston_Legacy.ics",
-      "Maccabi Celtics": "U14_Girls_(W25)/Division_06/Maccabi_Celtics.ics",
-      "Maccabi Ducks": "U14_Girls_(W25)/Division_06/Maccabi_Ducks.ics",
-      "Toorak Titans": "U14_Girls_(W25)/Division_06/Toorak_Titans.ics"
+      "Ashy Lightning White": "basketball-ical/U14_Girls_(W25)/Division_06/Ashy_Lightning_White.ics",
+      "Glen Iris Scorpions Nettleton": "basketball-ical/U14_Girls_(W25)/Division_06/Glen_Iris_Scorpions_Nettleton.ics",
+      "Lauriston Legacy": "basketball-ical/U14_Girls_(W25)/Division_06/Lauriston_Legacy.ics",
+      "Maccabi Celtics": "basketball-ical/U14_Girls_(W25)/Division_06/Maccabi_Celtics.ics",
+      "Maccabi Ducks": "basketball-ical/U14_Girls_(W25)/Division_06/Maccabi_Ducks.ics",
+      "Toorak Titans": "basketball-ical/U14_Girls_(W25)/Division_06/Toorak_Titans.ics"
     },
     "Division 07": {
-      "Darling Park Piranhas": "U14_Girls_(W25)/Division_07/Darling_Park_Piranhas.ics",
-      "Lauriston Legends": "U14_Girls_(W25)/Division_07/Lauriston_Legends.ics",
-      "Solway Sapphires": "U14_Girls_(W25)/Division_07/Solway_Sapphires.ics",
-      "Timberwolves Sapphires": "U14_Girls_(W25)/Division_07/Timberwolves_Sapphires.ics"
+      "Darling Park Piranhas": "basketball-ical/U14_Girls_(W25)/Division_07/Darling_Park_Piranhas.ics",
+      "Lauriston Legends": "basketball-ical/U14_Girls_(W25)/Division_07/Lauriston_Legends.ics",
+      "Solway Sapphires": "basketball-ical/U14_Girls_(W25)/Division_07/Solway_Sapphires.ics",
+      "Timberwolves Sapphires": "basketball-ical/U14_Girls_(W25)/Division_07/Timberwolves_Sapphires.ics"
     }
   },
   "U16 Boys (W25)": {
     "Division 01": {
-      "Ashy Lightning Gold": "U16_Boys_(W25)/Division_01/Ashy_Lightning_Gold.ics",
-      "Bayside Piranhas": "U16_Boys_(W25)/Division_01/Bayside_Piranhas.ics",
-      "Malvern Tigers Black": "U16_Boys_(W25)/Division_01/Malvern_Tigers_Black.ics",
-      "Solway Rockets": "U16_Boys_(W25)/Division_01/Solway_Rockets.ics",
-      "Timberwolves Hustlers": "U16_Boys_(W25)/Division_01/Timberwolves_Hustlers.ics",
-      "Timberwolves United": "U16_Boys_(W25)/Division_01/Timberwolves_United.ics",
-      "Toorak Tropics": "U16_Boys_(W25)/Division_01/Toorak_Tropics.ics"
+      "Ashy Lightning Gold": "basketball-ical/U16_Boys_(W25)/Division_01/Ashy_Lightning_Gold.ics",
+      "Bayside Piranhas": "basketball-ical/U16_Boys_(W25)/Division_01/Bayside_Piranhas.ics",
+      "Malvern Tigers Black": "basketball-ical/U16_Boys_(W25)/Division_01/Malvern_Tigers_Black.ics",
+      "Solway Rockets": "basketball-ical/U16_Boys_(W25)/Division_01/Solway_Rockets.ics",
+      "Timberwolves Hustlers": "basketball-ical/U16_Boys_(W25)/Division_01/Timberwolves_Hustlers.ics",
+      "Timberwolves United": "basketball-ical/U16_Boys_(W25)/Division_01/Timberwolves_United.ics",
+      "Toorak Tropics": "basketball-ical/U16_Boys_(W25)/Division_01/Toorak_Tropics.ics"
     },
     "Division 02": {
-      "Arax": "U16_Boys_(W25)/Division_02/Arax.ics",
-      "Bailey Reserve Piranhas": "U16_Boys_(W25)/Division_02/Bailey_Reserve_Piranhas.ics",
-      "Maccabi Half Court Miracles": "U16_Boys_(W25)/Division_02/Maccabi_Half_Court_Miracles.ics",
-      "Malvern Tigers Red": "U16_Boys_(W25)/Division_02/Malvern_Tigers_Red.ics",
-      "Spring Park Piranhas": "U16_Boys_(W25)/Division_02/Spring_Park_Piranhas.ics",
-      "Timberwolves Nuggets": "U16_Boys_(W25)/Division_02/Timberwolves_Nuggets.ics",
-      "Timberwolves Raiders": "U16_Boys_(W25)/Division_02/Timberwolves_Raiders.ics"
+      "Arax": "basketball-ical/U16_Boys_(W25)/Division_02/Arax.ics",
+      "Bailey Reserve Piranhas": "basketball-ical/U16_Boys_(W25)/Division_02/Bailey_Reserve_Piranhas.ics",
+      "Maccabi Half Court Miracles": "basketball-ical/U16_Boys_(W25)/Division_02/Maccabi_Half_Court_Miracles.ics",
+      "Malvern Tigers Red": "basketball-ical/U16_Boys_(W25)/Division_02/Malvern_Tigers_Red.ics",
+      "Spring Park Piranhas": "basketball-ical/U16_Boys_(W25)/Division_02/Spring_Park_Piranhas.ics",
+      "Timberwolves Nuggets": "basketball-ical/U16_Boys_(W25)/Division_02/Timberwolves_Nuggets.ics",
+      "Timberwolves Raiders": "basketball-ical/U16_Boys_(W25)/Division_02/Timberwolves_Raiders.ics"
     },
     "Division 03": {
-      "Glen Iris Scorpions Saints": "U16_Boys_(W25)/Division_03/Glen_Iris_Scorpions_Saints.ics",
-      "Malvern Tigers Yellow": "U16_Boys_(W25)/Division_03/Malvern_Tigers_Yellow.ics",
-      "Solway Blazers": "U16_Boys_(W25)/Division_03/Solway_Blazers.ics",
-      "Solway Pistons": "U16_Boys_(W25)/Division_03/Solway_Pistons.ics",
-      "Solway Slammers": "U16_Boys_(W25)/Division_03/Solway_Slammers.ics",
-      "Timberwolves Cats": "U16_Boys_(W25)/Division_03/Timberwolves_Cats.ics",
-      "Timberwolves Taipans": "U16_Boys_(W25)/Division_03/Timberwolves_Taipans.ics",
-      "Toorak Trackers": "U16_Boys_(W25)/Division_03/Toorak_Trackers.ics"
+      "Glen Iris Scorpions Saints": "basketball-ical/U16_Boys_(W25)/Division_03/Glen_Iris_Scorpions_Saints.ics",
+      "Malvern Tigers Yellow": "basketball-ical/U16_Boys_(W25)/Division_03/Malvern_Tigers_Yellow.ics",
+      "Solway Blazers": "basketball-ical/U16_Boys_(W25)/Division_03/Solway_Blazers.ics",
+      "Solway Pistons": "basketball-ical/U16_Boys_(W25)/Division_03/Solway_Pistons.ics",
+      "Solway Slammers": "basketball-ical/U16_Boys_(W25)/Division_03/Solway_Slammers.ics",
+      "Timberwolves Cats": "basketball-ical/U16_Boys_(W25)/Division_03/Timberwolves_Cats.ics",
+      "Timberwolves Taipans": "basketball-ical/U16_Boys_(W25)/Division_03/Timberwolves_Taipans.ics",
+      "Toorak Trackers": "basketball-ical/U16_Boys_(W25)/Division_03/Toorak_Trackers.ics"
     },
     "Division 04": {
-      "Maccabi Warriors": "U16_Boys_(W25)/Division_04/Maccabi_Warriors.ics",
-      "Ripponlea Piranhas": "U16_Boys_(W25)/Division_04/Ripponlea_Piranhas.ics",
-      "Serrell Park Piranhas": "U16_Boys_(W25)/Division_04/Serrell_Park_Piranhas.ics",
-      "Solway Super Sonics": "U16_Boys_(W25)/Division_04/Solway_Super_Sonics.ics",
-      "Timberwolves Boulders": "U16_Boys_(W25)/Division_04/Timberwolves_Boulders.ics",
-      "Timberwolves Magnum": "U16_Boys_(W25)/Division_04/Timberwolves_Magnum.ics",
-      "Toorak Terminators": "U16_Boys_(W25)/Division_04/Toorak_Terminators.ics",
-      "Toorak Tornadoes": "U16_Boys_(W25)/Division_04/Toorak_Tornadoes.ics"
+      "Maccabi Warriors": "basketball-ical/U16_Boys_(W25)/Division_04/Maccabi_Warriors.ics",
+      "Ripponlea Piranhas": "basketball-ical/U16_Boys_(W25)/Division_04/Ripponlea_Piranhas.ics",
+      "Serrell Park Piranhas": "basketball-ical/U16_Boys_(W25)/Division_04/Serrell_Park_Piranhas.ics",
+      "Solway Super Sonics": "basketball-ical/U16_Boys_(W25)/Division_04/Solway_Super_Sonics.ics",
+      "Timberwolves Boulders": "basketball-ical/U16_Boys_(W25)/Division_04/Timberwolves_Boulders.ics",
+      "Timberwolves Magnum": "basketball-ical/U16_Boys_(W25)/Division_04/Timberwolves_Magnum.ics",
+      "Toorak Terminators": "basketball-ical/U16_Boys_(W25)/Division_04/Toorak_Terminators.ics",
+      "Toorak Tornadoes": "basketball-ical/U16_Boys_(W25)/Division_04/Toorak_Tornadoes.ics"
     },
     "Division 05": {
-      "AlphaWolf Tornados": "U16_Boys_(W25)/Division_05/AlphaWolf_Tornados.ics",
-      "Glen Iris Scorpions Sixers": "U16_Boys_(W25)/Division_05/Glen_Iris_Scorpions_Sixers.ics",
-      "Maccabi Bucks": "U16_Boys_(W25)/Division_05/Maccabi_Bucks.ics",
-      "Malvern Tigers White": "U16_Boys_(W25)/Division_05/Malvern_Tigers_White.ics",
-      "Timberwolves 36ers": "U16_Boys_(W25)/Division_05/Timberwolves_36ers.ics",
-      "Timberwolves Magic": "U16_Boys_(W25)/Division_05/Timberwolves_Magic.ics"
+      "AlphaWolf Tornados": "basketball-ical/U16_Boys_(W25)/Division_05/AlphaWolf_Tornados.ics",
+      "Glen Iris Scorpions Sixers": "basketball-ical/U16_Boys_(W25)/Division_05/Glen_Iris_Scorpions_Sixers.ics",
+      "Maccabi Bucks": "basketball-ical/U16_Boys_(W25)/Division_05/Maccabi_Bucks.ics",
+      "Malvern Tigers White": "basketball-ical/U16_Boys_(W25)/Division_05/Malvern_Tigers_White.ics",
+      "Timberwolves 36ers": "basketball-ical/U16_Boys_(W25)/Division_05/Timberwolves_36ers.ics",
+      "Timberwolves Magic": "basketball-ical/U16_Boys_(W25)/Division_05/Timberwolves_Magic.ics"
     },
     "Division 06": {
-      "AlphaWolf Shadows": "U16_Boys_(W25)/Division_06/AlphaWolf_Shadows.ics",
-      "Ashy Lightning Green": "U16_Boys_(W25)/Division_06/Ashy_Lightning_Green.ics",
-      "Malvern Tigers Green": "U16_Boys_(W25)/Division_06/Malvern_Tigers_Green.ics",
-      "Ormond Piranhas": "U16_Boys_(W25)/Division_06/Ormond_Piranhas.ics",
-      "Solway Blades": "U16_Boys_(W25)/Division_06/Solway_Blades.ics",
-      "Solway Rangers": "U16_Boys_(W25)/Division_06/Solway_Rangers.ics",
-      "Solway Storm": "U16_Boys_(W25)/Division_06/Solway_Storm.ics"
+      "AlphaWolf Shadows": "basketball-ical/U16_Boys_(W25)/Division_06/AlphaWolf_Shadows.ics",
+      "Ashy Lightning Green": "basketball-ical/U16_Boys_(W25)/Division_06/Ashy_Lightning_Green.ics",
+      "Malvern Tigers Green": "basketball-ical/U16_Boys_(W25)/Division_06/Malvern_Tigers_Green.ics",
+      "Ormond Piranhas": "basketball-ical/U16_Boys_(W25)/Division_06/Ormond_Piranhas.ics",
+      "Solway Blades": "basketball-ical/U16_Boys_(W25)/Division_06/Solway_Blades.ics",
+      "Solway Rangers": "basketball-ical/U16_Boys_(W25)/Division_06/Solway_Rangers.ics",
+      "Solway Storm": "basketball-ical/U16_Boys_(W25)/Division_06/Solway_Storm.ics"
     },
     "Division 07": {
-      "Maccabi Celtics": "U16_Boys_(W25)/Division_07/Maccabi_Celtics.ics",
-      "Malvern Piranhas": "U16_Boys_(W25)/Division_07/Malvern_Piranhas.ics",
-      "Malvern Tigers Orange": "U16_Boys_(W25)/Division_07/Malvern_Tigers_Orange.ics",
-      "Manning Piranhas": "U16_Boys_(W25)/Division_07/Manning_Piranhas.ics",
-      "Solway Heat": "U16_Boys_(W25)/Division_07/Solway_Heat.ics",
-      "Timberwolves Blaze": "U16_Boys_(W25)/Division_07/Timberwolves_Blaze.ics"
+      "Maccabi Celtics": "basketball-ical/U16_Boys_(W25)/Division_07/Maccabi_Celtics.ics",
+      "Malvern Piranhas": "basketball-ical/U16_Boys_(W25)/Division_07/Malvern_Piranhas.ics",
+      "Malvern Tigers Orange": "basketball-ical/U16_Boys_(W25)/Division_07/Malvern_Tigers_Orange.ics",
+      "Manning Piranhas": "basketball-ical/U16_Boys_(W25)/Division_07/Manning_Piranhas.ics",
+      "Solway Heat": "basketball-ical/U16_Boys_(W25)/Division_07/Solway_Heat.ics",
+      "Timberwolves Blaze": "basketball-ical/U16_Boys_(W25)/Division_07/Timberwolves_Blaze.ics"
     }
   },
   "U16 Girls (W25)": {
     "Division 01/02": {
-      "Finch Piranhas": "U16_Girls_(W25)/Division_0102/Finch_Piranhas.ics",
-      "Glen Iris Scorpions Sixers": "U16_Girls_(W25)/Division_0102/Glen_Iris_Scorpions_Sixers.ics",
-      "Malvern Tigers Rocci": "U16_Girls_(W25)/Division_0102/Malvern_Tigers_Rocci.ics",
-      "Malvern Tigers Tolo": "U16_Girls_(W25)/Division_0102/Malvern_Tigers_Tolo.ics",
-      "Solway Fever": "U16_Girls_(W25)/Division_0102/Solway_Fever.ics",
-      "Solway Marvels": "U16_Girls_(W25)/Division_0102/Solway_Marvels.ics",
-      "Timberwolves Rockets": "U16_Girls_(W25)/Division_0102/Timberwolves_Rockets.ics"
+      "Finch Piranhas": "basketball-ical/U16_Girls_(W25)/Division_0102/Finch_Piranhas.ics",
+      "Glen Iris Scorpions Sixers": "basketball-ical/U16_Girls_(W25)/Division_0102/Glen_Iris_Scorpions_Sixers.ics",
+      "Malvern Tigers Rocci": "basketball-ical/U16_Girls_(W25)/Division_0102/Malvern_Tigers_Rocci.ics",
+      "Malvern Tigers Tolo": "basketball-ical/U16_Girls_(W25)/Division_0102/Malvern_Tigers_Tolo.ics",
+      "Solway Fever": "basketball-ical/U16_Girls_(W25)/Division_0102/Solway_Fever.ics",
+      "Solway Marvels": "basketball-ical/U16_Girls_(W25)/Division_0102/Solway_Marvels.ics",
+      "Timberwolves Rockets": "basketball-ical/U16_Girls_(W25)/Division_0102/Timberwolves_Rockets.ics"
     },
     "Division 03": {
-      "Maccabi Warriors": "U16_Girls_(W25)/Division_03/Maccabi_Warriors.ics",
-      "Malvern Tigers Atwell": "U16_Girls_(W25)/Division_03/Malvern_Tigers_Atwell.ics",
-      "Malvern Tigers Wallace": "U16_Girls_(W25)/Division_03/Malvern_Tigers_Wallace.ics",
-      "Solway Angels": "U16_Girls_(W25)/Division_03/Solway_Angels.ics",
-      "Solway Demons": "U16_Girls_(W25)/Division_03/Solway_Demons.ics",
-      "Solway Phoenix": "U16_Girls_(W25)/Division_03/Solway_Phoenix.ics",
-      "Timberwolves Emeralds": "U16_Girls_(W25)/Division_03/Timberwolves_Emeralds.ics"
+      "Maccabi Warriors": "basketball-ical/U16_Girls_(W25)/Division_03/Maccabi_Warriors.ics",
+      "Malvern Tigers Atwell": "basketball-ical/U16_Girls_(W25)/Division_03/Malvern_Tigers_Atwell.ics",
+      "Malvern Tigers Wallace": "basketball-ical/U16_Girls_(W25)/Division_03/Malvern_Tigers_Wallace.ics",
+      "Solway Angels": "basketball-ical/U16_Girls_(W25)/Division_03/Solway_Angels.ics",
+      "Solway Demons": "basketball-ical/U16_Girls_(W25)/Division_03/Solway_Demons.ics",
+      "Solway Phoenix": "basketball-ical/U16_Girls_(W25)/Division_03/Solway_Phoenix.ics",
+      "Timberwolves Emeralds": "basketball-ical/U16_Girls_(W25)/Division_03/Timberwolves_Emeralds.ics"
     },
     "Division 04": {
-      "Ashy Lightning Gold": "U16_Girls_(W25)/Division_04/Ashy_Lightning_Gold.ics",
-      "Glen Iris Scorpions Saints": "U16_Girls_(W25)/Division_04/Glen_Iris_Scorpions_Saints.ics",
-      "Harold Piranhas": "U16_Girls_(W25)/Division_04/Harold_Piranhas.ics",
-      "Korowa Cherry": "U16_Girls_(W25)/Division_04/Korowa_Cherry.ics",
-      "Korowa Grey": "U16_Girls_(W25)/Division_04/Korowa_Grey.ics",
-      "Malvern Tigers Nicholson": "U16_Girls_(W25)/Division_04/Malvern_Tigers_Nicholson.ics",
-      "Timberwolves Storm": "U16_Girls_(W25)/Division_04/Timberwolves_Storm.ics"
+      "Ashy Lightning Gold": "basketball-ical/U16_Girls_(W25)/Division_04/Ashy_Lightning_Gold.ics",
+      "Glen Iris Scorpions Saints": "basketball-ical/U16_Girls_(W25)/Division_04/Glen_Iris_Scorpions_Saints.ics",
+      "Harold Piranhas": "basketball-ical/U16_Girls_(W25)/Division_04/Harold_Piranhas.ics",
+      "Korowa Cherry": "basketball-ical/U16_Girls_(W25)/Division_04/Korowa_Cherry.ics",
+      "Korowa Grey": "basketball-ical/U16_Girls_(W25)/Division_04/Korowa_Grey.ics",
+      "Malvern Tigers Nicholson": "basketball-ical/U16_Girls_(W25)/Division_04/Malvern_Tigers_Nicholson.ics",
+      "Timberwolves Storm": "basketball-ical/U16_Girls_(W25)/Division_04/Timberwolves_Storm.ics"
     }
   },
   "U18 Boys (W25)": {
     "Section 01": {
-      "Ashy Lightning Gold": "U18_Boys_(W25)/Section_01/Ashy_Lightning_Gold.ics",
-      "Hazelwood Park Piranhas": "U18_Boys_(W25)/Section_01/Hazelwood_Park_Piranhas.ics",
-      "Maccabi Warriors": "U18_Boys_(W25)/Section_01/Maccabi_Warriors.ics",
-      "Malvern Tigers Black": "U18_Boys_(W25)/Section_01/Malvern_Tigers_Black.ics",
-      "Solway Taipans": "U18_Boys_(W25)/Section_01/Solway_Taipans.ics",
-      "Southside Piranhas": "U18_Boys_(W25)/Section_01/Southside_Piranhas.ics"
+      "Ashy Lightning Gold": "basketball-ical/U18_Boys_(W25)/Section_01/Ashy_Lightning_Gold.ics",
+      "Hazelwood Park Piranhas": "basketball-ical/U18_Boys_(W25)/Section_01/Hazelwood_Park_Piranhas.ics",
+      "Maccabi Warriors": "basketball-ical/U18_Boys_(W25)/Section_01/Maccabi_Warriors.ics",
+      "Malvern Tigers Black": "basketball-ical/U18_Boys_(W25)/Section_01/Malvern_Tigers_Black.ics",
+      "Solway Taipans": "basketball-ical/U18_Boys_(W25)/Section_01/Solway_Taipans.ics",
+      "Southside Piranhas": "basketball-ical/U18_Boys_(W25)/Section_01/Southside_Piranhas.ics"
     },
     "Section 02": {
-      "Glen Iris Scorpions Sixers": "U18_Boys_(W25)/Section_02/Glen_Iris_Scorpions_Sixers.ics",
-      "Glenbrook Piranhas": "U18_Boys_(W25)/Section_02/Glenbrook_Piranhas.ics",
-      "Maccabi Lightening": "U18_Boys_(W25)/Section_02/Maccabi_Lightening.ics",
-      "Solway Pistons": "U18_Boys_(W25)/Section_02/Solway_Pistons.ics",
-      "Tooronga Piranhas": "U18_Boys_(W25)/Section_02/Tooronga_Piranhas.ics",
-      "Watson Park Piranhas": "U18_Boys_(W25)/Section_02/Watson_Park_Piranhas.ics"
+      "Glen Iris Scorpions Sixers": "basketball-ical/U18_Boys_(W25)/Section_02/Glen_Iris_Scorpions_Sixers.ics",
+      "Glenbrook Piranhas": "basketball-ical/U18_Boys_(W25)/Section_02/Glenbrook_Piranhas.ics",
+      "Maccabi Lightening": "basketball-ical/U18_Boys_(W25)/Section_02/Maccabi_Lightening.ics",
+      "Solway Pistons": "basketball-ical/U18_Boys_(W25)/Section_02/Solway_Pistons.ics",
+      "Tooronga Piranhas": "basketball-ical/U18_Boys_(W25)/Section_02/Tooronga_Piranhas.ics",
+      "Watson Park Piranhas": "basketball-ical/U18_Boys_(W25)/Section_02/Watson_Park_Piranhas.ics"
     },
     "Section 03": {
-      "Ferncroft Piranhas": "U18_Boys_(W25)/Section_03/Ferncroft_Piranhas.ics",
-      "Glen Iris Scorpions Saints": "U18_Boys_(W25)/Section_03/Glen_Iris_Scorpions_Saints.ics",
-      "Maccabi Bucks": "U18_Boys_(W25)/Section_03/Maccabi_Bucks.ics",
-      "Maccabi Vipers": "U18_Boys_(W25)/Section_03/Maccabi_Vipers.ics",
-      "Solway Bullets": "U18_Boys_(W25)/Section_03/Solway_Bullets.ics",
-      "Solway Torpedoes": "U18_Boys_(W25)/Section_03/Solway_Torpedoes.ics",
-      "Timberwolves Wizards": "U18_Boys_(W25)/Section_03/Timberwolves_Wizards.ics"
+      "Ferncroft Piranhas": "basketball-ical/U18_Boys_(W25)/Section_03/Ferncroft_Piranhas.ics",
+      "Glen Iris Scorpions Saints": "basketball-ical/U18_Boys_(W25)/Section_03/Glen_Iris_Scorpions_Saints.ics",
+      "Maccabi Bucks": "basketball-ical/U18_Boys_(W25)/Section_03/Maccabi_Bucks.ics",
+      "Maccabi Vipers": "basketball-ical/U18_Boys_(W25)/Section_03/Maccabi_Vipers.ics",
+      "Solway Bullets": "basketball-ical/U18_Boys_(W25)/Section_03/Solway_Bullets.ics",
+      "Solway Torpedoes": "basketball-ical/U18_Boys_(W25)/Section_03/Solway_Torpedoes.ics",
+      "Timberwolves Wizards": "basketball-ical/U18_Boys_(W25)/Section_03/Timberwolves_Wizards.ics"
     },
     "Section 04": {
-      "Comets Storm": "U18_Boys_(W25)/Section_04/Comets_Storm.ics",
-      "Golden Hawks Sky": "U18_Boys_(W25)/Section_04/Golden_Hawks_Sky.ics",
-      "Malvern Tigers Red": "U18_Boys_(W25)/Section_04/Malvern_Tigers_Red.ics",
-      "Timberwolves Knights": "U18_Boys_(W25)/Section_04/Timberwolves_Knights.ics",
-      "Timberwolves Stars": "U18_Boys_(W25)/Section_04/Timberwolves_Stars.ics",
-      "Timberwolves Wildcats": "U18_Boys_(W25)/Section_04/Timberwolves_Wildcats.ics",
-      "Toorak Turbos": "U18_Boys_(W25)/Section_04/Toorak_Turbos.ics"
+      "Comets Storm": "basketball-ical/U18_Boys_(W25)/Section_04/Comets_Storm.ics",
+      "Golden Hawks Sky": "basketball-ical/U18_Boys_(W25)/Section_04/Golden_Hawks_Sky.ics",
+      "Malvern Tigers Red": "basketball-ical/U18_Boys_(W25)/Section_04/Malvern_Tigers_Red.ics",
+      "Timberwolves Knights": "basketball-ical/U18_Boys_(W25)/Section_04/Timberwolves_Knights.ics",
+      "Timberwolves Stars": "basketball-ical/U18_Boys_(W25)/Section_04/Timberwolves_Stars.ics",
+      "Timberwolves Wildcats": "basketball-ical/U18_Boys_(W25)/Section_04/Timberwolves_Wildcats.ics",
+      "Toorak Turbos": "basketball-ical/U18_Boys_(W25)/Section_04/Toorak_Turbos.ics"
     }
   },
   "U18 Girls (W25)": {
     "Section 01": {
-      "Ashy Lightning Gold": "U18_Girls_(W25)/Section_01/Ashy_Lightning_Gold.ics",
-      "Malvern Tigers Jackson": "U18_Girls_(W25)/Section_01/Malvern_Tigers_Jackson.ics",
-      "Malvern Tigers Reid": "U18_Girls_(W25)/Section_01/Malvern_Tigers_Reid.ics",
-      "Solway Magic": "U18_Girls_(W25)/Section_01/Solway_Magic.ics",
-      "Solway Suns": "U18_Girls_(W25)/Section_01/Solway_Suns.ics",
-      "Timberwolves Panthers": "U18_Girls_(W25)/Section_01/Timberwolves_Panthers.ics",
-      "Toorak Trailblazers": "U18_Girls_(W25)/Section_01/Toorak_Trailblazers.ics"
+      "Ashy Lightning Gold": "basketball-ical/U18_Girls_(W25)/Section_01/Ashy_Lightning_Gold.ics",
+      "Malvern Tigers Jackson": "basketball-ical/U18_Girls_(W25)/Section_01/Malvern_Tigers_Jackson.ics",
+      "Malvern Tigers Reid": "basketball-ical/U18_Girls_(W25)/Section_01/Malvern_Tigers_Reid.ics",
+      "Solway Magic": "basketball-ical/U18_Girls_(W25)/Section_01/Solway_Magic.ics",
+      "Solway Suns": "basketball-ical/U18_Girls_(W25)/Section_01/Solway_Suns.ics",
+      "Timberwolves Panthers": "basketball-ical/U18_Girls_(W25)/Section_01/Timberwolves_Panthers.ics",
+      "Toorak Trailblazers": "basketball-ical/U18_Girls_(W25)/Section_01/Toorak_Trailblazers.ics"
     },
     "Section 02": {
-      "Ashy Lightning Green": "U18_Girls_(W25)/Section_02/Ashy_Lightning_Green.ics",
-      "Glen Iris Scorpions Suns": "U18_Girls_(W25)/Section_02/Glen_Iris_Scorpions_Suns.ics",
-      "Malvern Tigers Talbot": "U18_Girls_(W25)/Section_02/Malvern_Tigers_Talbot.ics",
-      "Solway Stellars": "U18_Girls_(W25)/Section_02/Solway_Stellars.ics",
-      "Summerhill Park Piranhas": "U18_Girls_(W25)/Section_02/Summerhill_Park_Piranhas.ics",
-      "Timberwolves Cheetahs": "U18_Girls_(W25)/Section_02/Timberwolves_Cheetahs.ics"
+      "Ashy Lightning Green": "basketball-ical/U18_Girls_(W25)/Section_02/Ashy_Lightning_Green.ics",
+      "Glen Iris Scorpions Suns": "basketball-ical/U18_Girls_(W25)/Section_02/Glen_Iris_Scorpions_Suns.ics",
+      "Malvern Tigers Talbot": "basketball-ical/U18_Girls_(W25)/Section_02/Malvern_Tigers_Talbot.ics",
+      "Solway Stellars": "basketball-ical/U18_Girls_(W25)/Section_02/Solway_Stellars.ics",
+      "Summerhill Park Piranhas": "basketball-ical/U18_Girls_(W25)/Section_02/Summerhill_Park_Piranhas.ics",
+      "Timberwolves Cheetahs": "basketball-ical/U18_Girls_(W25)/Section_02/Timberwolves_Cheetahs.ics"
     }
   },
   "U21 Mens (W25)": {
     "Section 01": {
-      "Glen Iris Scorpions Pandas": "U21_Mens_(W25)/Section_01/Glen_Iris_Scorpions_Pandas.ics",
-      "Malvern Tigers Black": "U21_Mens_(W25)/Section_01/Malvern_Tigers_Black.ics",
-      "Solway Vipers": "U21_Mens_(W25)/Section_01/Solway_Vipers.ics",
-      "Timberwolves Lakers": "U21_Mens_(W25)/Section_01/Timberwolves_Lakers.ics",
-      "Timberwolves Rizzly Bears": "U21_Mens_(W25)/Section_01/Timberwolves_Rizzly_Bears.ics"
+      "Glen Iris Scorpions Pandas": "basketball-ical/U21_Mens_(W25)/Section_01/Glen_Iris_Scorpions_Pandas.ics",
+      "Malvern Tigers Black": "basketball-ical/U21_Mens_(W25)/Section_01/Malvern_Tigers_Black.ics",
+      "Solway Vipers": "basketball-ical/U21_Mens_(W25)/Section_01/Solway_Vipers.ics",
+      "Timberwolves Lakers": "basketball-ical/U21_Mens_(W25)/Section_01/Timberwolves_Lakers.ics",
+      "Timberwolves Rizzly Bears": "basketball-ical/U21_Mens_(W25)/Section_01/Timberwolves_Rizzly_Bears.ics"
     },
     "Section 02": {
-      "Ashy Lightning Gold": "U21_Mens_(W25)/Section_02/Ashy_Lightning_Gold.ics",
-      "Maccabi Le Boomers": "U21_Mens_(W25)/Section_02/Maccabi_Le_Boomers.ics",
-      "Solway Cobras": "U21_Mens_(W25)/Section_02/Solway_Cobras.ics",
-      "Solway Pythons": "U21_Mens_(W25)/Section_02/Solway_Pythons.ics",
-      "Titans Larrys": "U21_Mens_(W25)/Section_02/Titans_Larrys.ics"
+      "Ashy Lightning Gold": "basketball-ical/U21_Mens_(W25)/Section_02/Ashy_Lightning_Gold.ics",
+      "Maccabi Le Boomers": "basketball-ical/U21_Mens_(W25)/Section_02/Maccabi_Le_Boomers.ics",
+      "Solway Cobras": "basketball-ical/U21_Mens_(W25)/Section_02/Solway_Cobras.ics",
+      "Solway Pythons": "basketball-ical/U21_Mens_(W25)/Section_02/Solway_Pythons.ics",
+      "Titans Larrys": "basketball-ical/U21_Mens_(W25)/Section_02/Titans_Larrys.ics"
     }
   },
   "U21 Womens (W25)": {
     "Section 01": {
-      "Glen Iris Scorpions Sixers": "U21_Womens_(W25)/Section_01/Glen_Iris_Scorpions_Sixers.ics",
-      "Malvern Tigers Black": "U21_Womens_(W25)/Section_01/Malvern_Tigers_Black.ics",
-      "Malvern Tigers George": "U21_Womens_(W25)/Section_01/Malvern_Tigers_George.ics",
-      "Solway Dream": "U21_Womens_(W25)/Section_01/Solway_Dream.ics",
-      "Solway Galaxy": "U21_Womens_(W25)/Section_01/Solway_Galaxy.ics",
-      "Solway Saints": "U21_Womens_(W25)/Section_01/Solway_Saints.ics"
+      "Glen Iris Scorpions Sixers": "basketball-ical/U21_Womens_(W25)/Section_01/Glen_Iris_Scorpions_Sixers.ics",
+      "Malvern Tigers Black": "basketball-ical/U21_Womens_(W25)/Section_01/Malvern_Tigers_Black.ics",
+      "Malvern Tigers George": "basketball-ical/U21_Womens_(W25)/Section_01/Malvern_Tigers_George.ics",
+      "Solway Dream": "basketball-ical/U21_Womens_(W25)/Section_01/Solway_Dream.ics",
+      "Solway Galaxy": "basketball-ical/U21_Womens_(W25)/Section_01/Solway_Galaxy.ics",
+      "Solway Saints": "basketball-ical/U21_Womens_(W25)/Section_01/Solway_Saints.ics"
     }
   }
 };
@@ -786,9 +779,9 @@
     const ageGroupSelect = document.getElementById('ageGroup');
     const divisionSelect = document.getElementById('division');
     const teamSelect = document.getElementById('team');
+    const divisionLabel = document.getElementById('division-label');
+    const teamLabel = document.getElementById('team-label');
     const linkContainer = document.getElementById('calendar-link');
-    const icsLink = document.getElementById('icsLink');
-    const icsDownload = document.getElementById('icsDownload');
     const copyBtn = document.getElementById('copyBtn');
 
     function clearSelect(select) {
@@ -820,6 +813,10 @@
     ageGroupSelect.addEventListener('change', () => {
       clearSelect(divisionSelect);
       clearSelect(teamSelect);
+      divisionSelect.style.display = 'inline-block';
+      divisionLabel.style.display = 'inline-block';
+      teamSelect.style.display = 'none';
+      teamLabel.style.display = 'none';
       linkContainer.style.display = 'none';
       const divisions = Object.keys(data[ageGroupSelect.value] || {});
       populateSelect(divisionSelect, sortAlpha(divisions));
@@ -827,6 +824,8 @@
 
     divisionSelect.addEventListener('change', () => {
       clearSelect(teamSelect);
+      teamSelect.style.display = 'inline-block';
+      teamLabel.style.display = 'inline-block';
       linkContainer.style.display = 'none';
       const teams = Object.keys(data[ageGroupSelect.value]?.[divisionSelect.value] || {});
       populateSelect(teamSelect, sortAlpha(teams));
@@ -838,10 +837,6 @@
       const team = teamSelect.value;
       const link = data[age]?.[div]?.[team];
       if (link) {
-        icsLink.href = link;
-        icsLink.textContent = `📅 ${team} Calendar`;
-        icsDownload.href = link;
-        icsDownload.download = `${team}.ics`;
         copyBtn.setAttribute('data-link', link);
         linkContainer.style.display = 'block';
       } else {
