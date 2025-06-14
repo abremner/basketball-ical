@@ -78,7 +78,7 @@ async function getTeams(divisionId) {
   return teams;
 }
 
-async function getFixtures(seasonName, ageGroup, division, team, divisionId, teamId) {
+async function getFixtures(seasonDir, division, team, divisionId, teamId) {
   const res = await fetchWithCookies(`${BASE_URL}?sgid2=${divisionId}&tid=${teamId}`);
   const html = await res.text();
   const $ = cheerio.load(html);
@@ -86,12 +86,12 @@ async function getFixtures(seasonName, ageGroup, division, team, divisionId, tea
   const rows = $('table tr').toArray();
   const calendar = ical({ name: `${team} Fixtures` });
 
-  for (let i = 1; i < rows.length; i++) { // start at 1 to skip header
+  for (let i = 1; i < rows.length; i++) {
     const tds = $(rows[i]).find('td');
-    if (tds.length < 2) continue; // skip malformed rows
+    if (tds.length < 2) continue;
 
-    const dateVenueHtml = tds.eq(0).html(); // e.g. "09 Aug 2025<br>ORC5, 08:45"
-    if (!dateVenueHtml || !dateVenueHtml.includes('<br>')) continue; // skip if not a fixture row
+    const dateVenueHtml = tds.eq(0).html();
+    if (!dateVenueHtml || !dateVenueHtml.includes('<br>')) continue;
 
     const [dateStr, venueTime] = dateVenueHtml.split('<br>');
     if (!venueTime || !dateStr) continue;
@@ -99,7 +99,6 @@ async function getFixtures(seasonName, ageGroup, division, team, divisionId, tea
     const [venue, time] = venueTime.split(',').map(s => s.trim());
     const opponent = tds.eq(1).text().trim();
 
-    // Validate date
     const startTime = new Date(`${dateStr.trim()} ${time}`);
     if (isNaN(startTime.getTime())) {
       console.warn(`Skipping invalid date: ${dateStr} ${time} for ${team} vs ${opponent}`);
@@ -114,7 +113,7 @@ async function getFixtures(seasonName, ageGroup, division, team, divisionId, tea
     });
   }
 
-  const outputPath = path.join('public', sanitizeFilename(seasonName), sanitizeFilename(ageGroup), sanitizeFilename(division));
+  const outputPath = path.join('public', sanitizeFilename(seasonDir), sanitizeFilename(division));
   mkdirSync(outputPath, { recursive: true });
   writeFileSync(path.join(outputPath, `${sanitizeFilename(team)}.ics`), calendar.toString());
 }
@@ -125,27 +124,28 @@ async function getFixtures(seasonName, ageGroup, division, team, divisionId, tea
   // Collect fixture metadata for index
   const fixtures = [];
 
-  for (const season of seasons) {
-    const ageGroup = season.name.split(' (')[0];
-    const seasonLabel = season.name.match(/\((.*?)\)/)?.[1];
+  // Only process seasons that start with "U08", "U10", "U12", etc.
+  const ageGroupPattern = /^U\d{2}/;
 
-    if (!seasonLabel) {
-      console.error(`Skipping season "${season.name}" as it does not have a valid label.`);
+  for (const season of seasons) {
+    if (!ageGroupPattern.test(season.name)) {
+      console.log(`Skipping season "${season.name}" (does not start with age group)`);
       continue;
     }
+
+    const seasonDir = season.name;
 
     const divisions = await getDivisions(season.id, { viewState, viewStateGen, eventValidation });
 
     for (const division of divisions) {
       const teams = await getTeams(division.id);
       for (const team of teams) {
-        console.log(`Fetching: ${seasonLabel} / ${ageGroup} / ${division.name} / ${team.name}`);
-        await getFixtures(seasonLabel, ageGroup, division.name, team.name, division.id, team.id);
+        console.log(`Fetching: ${seasonDir} / ${division.name} / ${team.name}`);
+        await getFixtures(seasonDir, division.name, team.name, division.id, team.id);
 
         // Collect for index
         fixtures.push({
-          seasonLabel,
-          ageGroup,
+          seasonDir,
           division: division.name,
           team: team.name,
         });
@@ -160,12 +160,10 @@ async function getFixtures(seasonName, ageGroup, division, team, divisionId, tea
 
 function buildNestedFixtureIndex(fixtures) {
   const nested = {};
-  for (const { seasonLabel, ageGroup, division, team } of fixtures) {
-    nested[seasonLabel] ||= {};
-    nested[seasonLabel][ageGroup] ||= {};
-    nested[seasonLabel][ageGroup][division] ||= {};
-    nested[seasonLabel][ageGroup][division][team] =
-      `${sanitizeFilename(seasonLabel)}/${sanitizeFilename(ageGroup)}/${sanitizeFilename(division)}/${sanitizeFilename(team)}.ics`;
+  for (const { seasonDir, division, team } of fixtures) {
+    if (!nested[seasonDir]) nested[seasonDir] = {};
+    if (!nested[seasonDir][division]) nested[seasonDir][division] = [];
+    nested[seasonDir][division].push(team);
   }
   return nested;
 }
