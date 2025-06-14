@@ -198,12 +198,18 @@ async function getFixtures(
   writeFileSync('public/index.html', filled);
 })();
 
-function buildNestedFixtureIndex(fixtures: FixtureMeta[]): Record<string, Record<string, string[]>> {
-  const nested: Record<string, Record<string, string[]>> = {};
+function buildNestedFixtureIndex(
+  fixtures: FixtureMeta[]
+): Record<string, Record<string, Record<string, string>>> {
+  const nested: Record<string, Record<string, Record<string, string>>> = {};
+
   for (const { seasonDir, division, team } of fixtures) {
     if (!nested[seasonDir]) nested[seasonDir] = {};
-    if (!nested[seasonDir][division]) nested[seasonDir][division] = [];
-    nested[seasonDir][division].push(team);
+    if (!nested[seasonDir][division]) nested[seasonDir][division] = {};
+
+    const filepath = `${sanitizeFilename(seasonDir)}/${sanitizeFilename(division)}/${sanitizeFilename(team)}.ics`;
+    nested[seasonDir][division][team] = filepath;
   }
+
   return nested;
 }
