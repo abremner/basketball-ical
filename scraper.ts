@@ -141,10 +141,12 @@ async function getFixtures(
       continue;
     }
 
+    const ageAndGender = seasonDir.match(/^[^(]+/)?.[0].trim() || '';
+
     calendar.createEvent({
       start: startTime,
       end: new Date(startTime.getTime() + 60 * 60 * 1000),
-      summary: `🏀 ${team} vs ${opponent}`,
+      summary: `🏀 ${ageAndGender}: ${team} vs ${opponent}`,
       location: venue,
     });
   }
