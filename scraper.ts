@@ -153,12 +153,17 @@ async function getFixtures(
 
     const ageAndGender = seasonDir.match(/^[^(]+/)?.[0].trim() || '';
 
-    calendar.createEvent({
-      start: dt.toJSDate(),
-      end: dt.plus({ hours: 1 }).toJSDate(),
-      summary: `🏀 ${ageAndGender}: ${team} vs ${opponent}`,
-      location: venue
-    });
+calendar.createEvent({
+  start: DateTime.fromFormat(`${dateStr} ${time}`, 'd LLL yyyy HH:mm', {
+    zone: 'Australia/Melbourne',
+  }),
+  end: DateTime.fromFormat(`${dateStr} ${time}`, 'd LLL yyyy HH:mm', {
+    zone: 'Australia/Melbourne',
+  }).plus({ hours: 1 }),
+  summary: `🏀 ${ageAndGender}: ${team} vs ${opponent}`,
+  location: venue,
+});
+    
   }
 
   const outputPath = path.join('public', sanitizeFilename(seasonDir), sanitizeFilename(division));
