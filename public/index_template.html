@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,10 +24,7 @@
   <h1>Waverley Basketball Fixture Calendars</h1>
   <p>Select your team to view or subscribe to their calendar:</p>
 
-  <label for="season">Season:</label>
-  <select id="season"><option value="">Select Season</option></select>
-
-  <label for="ageGroup">Age Group:</label>
+  <label for="ageGroup">Age Group (e.g. U10 Girls W25):</label>
   <select id="ageGroup"><option value="">Select Age Group</option></select>
 
   <label for="division">Division:</label>
@@ -45,7 +41,6 @@
   <script>
     const data = DATA_PLACEHOLDER;
 
-    const seasonSelect = document.getElementById('season');
     const ageGroupSelect = document.getElementById('ageGroup');
     const divisionSelect = document.getElementById('division');
     const teamSelect = document.getElementById('team');
@@ -69,8 +64,8 @@
 
     function sortAgeGroups(groups) {
       return groups.sort((a, b) => {
-        const ageA = parseInt(a.match(/\d+/));
-        const ageB = parseInt(b.match(/\d+/));
+        const ageA = parseInt(a.match(/\\d+/));
+        const ageB = parseInt(b.match(/\\d+/));
         return ageA - ageB;
       });
     }
@@ -79,36 +74,26 @@
       return arr.sort((a, b) => a.localeCompare(b));
     }
 
-    seasonSelect.addEventListener('change', () => {
-      clearSelect(ageGroupSelect);
-      clearSelect(divisionSelect);
-      clearSelect(teamSelect);
-      linkContainer.style.display = 'none';
-      const ageGroups = Object.keys(data[seasonSelect.value] || {});
-      populateSelect(ageGroupSelect, sortAgeGroups(ageGroups));
-    });
-
     ageGroupSelect.addEventListener('change', () => {
       clearSelect(divisionSelect);
       clearSelect(teamSelect);
       linkContainer.style.display = 'none';
-      const divisions = Object.keys(data[seasonSelect.value]?.[ageGroupSelect.value] || {});
+      const divisions = Object.keys(data[ageGroupSelect.value] || {});
       populateSelect(divisionSelect, sortAlpha(divisions));
     });
 
     divisionSelect.addEventListener('change', () => {
       clearSelect(teamSelect);
       linkContainer.style.display = 'none';
-      const teams = Object.keys(data[seasonSelect.value]?.[ageGroupSelect.value]?.[divisionSelect.value] || {});
+      const teams = Object.keys(data[ageGroupSelect.value]?.[divisionSelect.value] || {});
       populateSelect(teamSelect, sortAlpha(teams));
     });
 
     teamSelect.addEventListener('change', () => {
-      const season = seasonSelect.value;
       const age = ageGroupSelect.value;
       const div = divisionSelect.value;
       const team = teamSelect.value;
-      const link = data[season]?.[age]?.[div]?.[team];
+      const link = data[age]?.[div]?.[team];
       if (link) {
         icsLink.href = link;
         icsLink.textContent = `📅 ${team} Calendar`;
@@ -121,8 +106,8 @@
     });
 
     window.onload = () => {
-      const seasons = Object.keys(data);
-      populateSelect(seasonSelect, sortAlpha(seasons));
+      const ageGroups = Object.keys(data);
+      populateSelect(ageGroupSelect, sortAgeGroups(ageGroups));
     };
   </script>
 </body>
