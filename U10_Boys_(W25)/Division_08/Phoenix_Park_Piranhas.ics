@@ -6,9 +6,9 @@ X-WR-CALNAME:Phoenix Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:548f9df4-1a78-4f3e-96f8-e178e83b1abc
+UID:02d79737-a5a0-4a44-9cae-174d697d76bf
 SEQUENCE:0
-DTSTAMP:20250615T102224
+DTSTAMP:20250615T104556
 DTSTART:20250621T110000
 DTEND:20250621T114500
 SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Timberwolves Lightning
@@ -17,45 +17,42 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Lightning\nArriv
  e 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5b85da36-4393-48eb-88cc-366898512a38
+UID:c41e1b4c-7e24-428f-b4a8-a5b41f681250
 SEQUENCE:0
-DTSTAMP:20250615T102224
+DTSTAMP:20250615T104556
 DTSTART:20250628T080000
 DTEND:20250628T084500
 SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Maccabi Falcons
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3ace30ba-28b1-4e3d-b91f-3ad22f7bda1d
+UID:35eceac3-7e76-4047-a1c4-cc680034a4c0
 SEQUENCE:0
-DTSTAMP:20250615T102224
+DTSTAMP:20250615T104556
 DTSTART:20250726T084500
 DTEND:20250726T093000
 SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Toorak Thunderbolts
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
   Thunderbolts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d015b3cb-7a9b-4714-bfd5-bc0dbb301c2e
+UID:15524f03-9ead-4c86-8865-22cfcb534307
 SEQUENCE:0
-DTSTAMP:20250615T102224
+DTSTAMP:20250615T104556
 DTSTART:20250802T084500
 DTEND:20250802T093000
 SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Timberwolves Bucks
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:20a138d1-d274-486d-9886-381584af50c2
+UID:faeae66e-1ea8-4913-8f8e-47c0d62d667e
 SEQUENCE:0
-DTSTAMP:20250615T102224
+DTSTAMP:20250615T104556
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Comets Snake
@@ -64,38 +61,35 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Comets Snake\nArrive 15 mins
  early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d196ae39-9ff8-463e-9e6e-810977725ddb
+UID:ded03145-070d-452c-aa74-73f7ec36ba81
 SEQUENCE:0
-DTSTAMP:20250615T102224
+DTSTAMP:20250615T104556
 DTSTART:20250816T084500
 DTEND:20250816T093000
 SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Glen Iris Scorpions Raven
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:41b27ba8-ee37-4eb4-a49a-995541f52cba
+UID:48f22b1f-ae99-4c08-8b65-37b009ea7247
 SEQUENCE:0
-DTSTAMP:20250615T102224
+DTSTAMP:20250615T104556
 DTSTART:20250823T080000
 DTEND:20250823T084500
 SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Timberwolves Legends
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Legends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dd7958ed-6b55-4f6e-a85d-80792593962d
+UID:b3947ba0-c216-433d-8ae4-3159fa9477b1
 SEQUENCE:0
-DTSTAMP:20250615T102224
+DTSTAMP:20250615T104556
 DTSTART:20250830T084500
 DTEND:20250830T093000
 SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Timberwolves Lightning
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Lightning\nArrive 15 mins early for warm-up
 END:VEVENT

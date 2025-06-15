@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0e214bc6-58c5-4dfd-9db8-3ebbef82d694
+UID:701725df-c324-41ec-95fa-e25776834a19
 SEQUENCE:0
-DTSTAMP:20250615T102340
+DTSTAMP:20250615T104704
 DTSTART:20250621T140000
 DTEND:20250621T144500
 SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Korowa Grey
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Korowa
  Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2b3219ef-eab8-4e1d-a6de-634684926a43
+UID:4dc78964-6d51-4f7b-b047-1e3e602098e0
 SEQUENCE:0
-DTSTAMP:20250615T102340
+DTSTAMP:20250615T104704
 DTSTART:20250628T140000
 DTEND:20250628T144500
 SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Ashy Lightning Green
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8f99f6b3-38dd-4a64-a8f5-a680e19e7666
+UID:38c1078e-5a40-4490-abba-090751e72ad6
 SEQUENCE:0
-DTSTAMP:20250615T102340
+DTSTAMP:20250615T104704
 DTSTART:20250726T131500
 DTEND:20250726T140000
 SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Malvern Tigers Burton
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Burton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fad99109-914f-4ce4-942f-62f7ceeb1755
+UID:4fc7595a-fca4-486d-8a46-40a30fd7a2de
 SEQUENCE:0
-DTSTAMP:20250615T102340
+DTSTAMP:20250615T104704
 DTSTART:20250802T140000
 DTEND:20250802T144500
 SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Toorak Talons
@@ -50,21 +50,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Toorak
  Talons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ee085136-87f0-45f8-8cbc-7935807d210b
+UID:b7b91cdb-bbdf-47ba-9c01-a844fe712884
 SEQUENCE:0
-DTSTAMP:20250615T102340
+DTSTAMP:20250615T104704
 DTSTART:20250809T140000
 DTEND:20250809T144500
 SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Erica Piranhas
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Erica 
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d26572f2-ec88-4499-b032-c33ffbaee2e1
+UID:6762eec4-07e1-404b-b263-8a84a06579c4
 SEQUENCE:0
-DTSTAMP:20250615T102340
+DTSTAMP:20250615T104704
 DTSTART:20250816T140000
 DTEND:20250816T144500
 SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Malvern Tigers Smith
@@ -73,21 +72,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Smith\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:63fd88e7-9257-406e-bb34-00a4ab67e8e0
+UID:6eab2df3-83e7-4b44-b94d-07c5c6cc64ae
 SEQUENCE:0
-DTSTAMP:20250615T102340
+DTSTAMP:20250615T104704
 DTSTART:20250823T140000
 DTEND:20250823T144500
 SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Maccabi Celtics
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a2748421-6bb2-43b9-ad27-b6ef149475e0
+UID:5875d332-4cfd-4469-96ab-e69c3bcfa028
 SEQUENCE:0
-DTSTAMP:20250615T102340
+DTSTAMP:20250615T104704
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Korowa Grey

@@ -6,21 +6,20 @@ X-WR-CALNAME:Malvern Tigers Red Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:515364ab-9a4a-4c4b-ad29-13b3e6b1f61a
+UID:e4fe1cb4-c0cd-48a4-a598-3c752676e4cf
 SEQUENCE:0
-DTSTAMP:20250615T102239
+DTSTAMP:20250615T104609
 DTSTART:20250621T101500
 DTEND:20250621T110000
 SUMMARY:🏀 U10 Girls: Malvern Tigers Red vs Erindale Piranhas
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Erinda
  le Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:94e1d9b7-c0d7-454c-a84e-0bae1d432210
+UID:8a572aba-6da2-4f75-a504-28ff4eedb655
 SEQUENCE:0
-DTSTAMP:20250615T102239
+DTSTAMP:20250615T104609
 DTSTART:20250628T110000
 DTEND:20250628T114500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Red vs Timberwolves Warriors
@@ -29,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
  olves Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b5a2aaa9-9943-46f8-b548-5f784d131c14
+UID:412d466d-6424-4776-9576-fb66214d7443
 SEQUENCE:0
-DTSTAMP:20250615T102239
+DTSTAMP:20250615T104609
 DTSTART:20250726T110000
 DTEND:20250726T114500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Red vs Malvern Tigers Yellow
@@ -40,21 +39,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b7e4d247-a5c8-41be-b409-407c2dcde47e
+UID:1dbaf60f-dcc2-4d77-8081-7a02d176af0d
 SEQUENCE:0
-DTSTAMP:20250615T102239
+DTSTAMP:20250615T104609
 DTSTART:20250802T101500
 DTEND:20250802T110000
 SUMMARY:🏀 U10 Girls: Malvern Tigers Red vs Solway Blizzards
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Blizzards\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0fa8301b-f064-42c0-b668-95ac4f6005de
+UID:b9898757-0f5d-43fc-9d11-af20546f5a06
 SEQUENCE:0
-DTSTAMP:20250615T102239
+DTSTAMP:20250615T104609
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Red vs Solway Tornadoes
@@ -63,38 +61,35 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Tornadoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f1b9a239-faad-43a0-afda-e94230efdc0d
+UID:620ea4f0-61e3-432b-a3bb-13384605de3f
 SEQUENCE:0
-DTSTAMP:20250615T102239
+DTSTAMP:20250615T104609
 DTSTART:20250816T101500
 DTEND:20250816T110000
 SUMMARY:🏀 U10 Girls: Malvern Tigers Red vs Maccabi Warriors
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c04593dc-6c80-4e9c-b3e2-45f9cf99332c
+UID:61840e7d-18f0-4ed9-bba8-5c2cb6c68351
 SEQUENCE:0
-DTSTAMP:20250615T102239
+DTSTAMP:20250615T104609
 DTSTART:20250823T101500
 DTEND:20250823T110000
 SUMMARY:🏀 U10 Girls: Malvern Tigers Red vs Toorak Tangos
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
   Tangos\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e5522e18-1b5e-403f-9b55-7fd758c97d89
+UID:0dfcbcc7-2db5-4428-9fd9-dffc866b7629
 SEQUENCE:0
-DTSTAMP:20250615T102239
+DTSTAMP:20250615T104609
 DTSTART:20250830T101500
 DTEND:20250830T110000
 SUMMARY:🏀 U10 Girls: Malvern Tigers Red vs Erindale Piranhas
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Erinda
  le Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT

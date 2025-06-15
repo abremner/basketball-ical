@@ -6,21 +6,20 @@ X-WR-CALNAME:Toorak Trouble Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9b63a56f-7528-426d-a3db-95739c9a8d6b
+UID:6f7e94bd-a402-4a30-b518-0a322d90077d
 SEQUENCE:0
-DTSTAMP:20250615T102318
+DTSTAMP:20250615T104644
 DTSTART:20250621T114500
 DTEND:20250621T123000
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Toorak Thunder
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6192e11b-61b2-40d7-a0b3-2a129568b81e
+UID:46b6705c-4378-4a03-a2f8-12e452da2f66
 SEQUENCE:0
-DTSTAMP:20250615T102318
+DTSTAMP:20250615T104644
 DTSTART:20250628T123000
 DTEND:20250628T131500
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Comets Cyclones
@@ -29,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Comets
  Cyclones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:31c61a6f-b582-46d2-9ba8-2ad06d66a711
+UID:fc813e93-2758-4968-b63d-c1db8fcdfa5b
 SEQUENCE:0
-DTSTAMP:20250615T102318
+DTSTAMP:20250615T104644
 DTSTART:20250726T123000
 DTEND:20250726T131500
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Stonnington Piranhas
@@ -40,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Stonnin
  gton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3650eeff-6f5c-4bbe-b4a1-fade85783597
+UID:9a18f84d-dd76-4dbc-af6f-d27e3429df1f
 SEQUENCE:0
-DTSTAMP:20250615T102318
+DTSTAMP:20250615T104644
 DTSTART:20250802T131500
 DTEND:20250802T140000
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Malvern Tigers Grey
@@ -51,33 +50,31 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a827cd5b-faec-4656-9e3f-afcca948e855
+UID:e67930c2-07e3-4080-ac6c-65b32574d844
 SEQUENCE:0
-DTSTAMP:20250615T102318
+DTSTAMP:20250615T104644
 DTSTART:20250809T114500
 DTEND:20250809T123000
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Comets Tigers
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
   Tigers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f254bab8-f2e6-4795-b39b-5435aa9d3e93
+UID:7afca3e6-b85f-4eee-bbe3-784318b0dbf6
 SEQUENCE:0
-DTSTAMP:20250615T102318
+DTSTAMP:20250615T104644
 DTSTART:20250823T114500
 DTEND:20250823T123000
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Solway Panthers
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Panthers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:81f51f62-f563-4a6a-a29d-328b07537d9c
+UID:bbe4712b-458b-4393-8309-67e4386e2c23
 SEQUENCE:0
-DTSTAMP:20250615T102318
+DTSTAMP:20250615T104644
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Toorak Thunder

@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Celtics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:51a22630-9f93-4d2a-9099-56b0116a8f81
+UID:efa8be83-7b5a-4fd0-9115-0755eac6af7f
 SEQUENCE:0
-DTSTAMP:20250615T102211
+DTSTAMP:20250615T104545
 DTSTART:20250621T110000
 DTEND:20250621T114500
 SUMMARY:🏀 U10 Boys: Maccabi Celtics vs Armadale Piranhas
@@ -17,21 +17,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Armadal
  e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3e5d3063-a703-4536-8ed5-166a580fa9cd
+UID:3e3408d2-87a6-40b4-a322-0b588cca3679
 SEQUENCE:0
-DTSTAMP:20250615T102211
+DTSTAMP:20250615T104545
 DTSTART:20250628T131500
 DTEND:20250628T140000
 SUMMARY:🏀 U10 Boys: Maccabi Celtics vs Arax
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ef69823f-d96e-4db5-9a0d-41b8e1d83ef1
+UID:df67a910-b551-4db8-a074-8339641a58f6
 SEQUENCE:0
-DTSTAMP:20250615T102211
+DTSTAMP:20250615T104545
 DTSTART:20250726T110000
 DTEND:20250726T114500
 SUMMARY:🏀 U10 Boys: Maccabi Celtics vs Toorak Tigersharks
@@ -40,21 +39,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak
  Tigersharks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d80d6728-e953-4c17-b808-2cdd4f2ea7eb
+UID:e840d270-1714-41ba-9b6a-3efd66260eec
 SEQUENCE:0
-DTSTAMP:20250615T102211
+DTSTAMP:20250615T104545
 DTSTART:20250802T110000
 DTEND:20250802T114500
 SUMMARY:🏀 U10 Boys: Maccabi Celtics vs Dendy Park Piranhas
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Dendy 
  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7471cd63-6a78-4553-ac8f-8dc56c099ab3
+UID:cd4af238-fc02-4aaf-b4b0-27720f632145
 SEQUENCE:0
-DTSTAMP:20250615T102211
+DTSTAMP:20250615T104545
 DTSTART:20250816T110000
 DTEND:20250816T114500
 SUMMARY:🏀 U10 Boys: Maccabi Celtics vs Solway Lakers
@@ -63,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Lakers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:44e29890-aa05-46d8-871c-00c802cb3653
+UID:0585dcc8-ddcf-4ceb-974e-c46a499cf653
 SEQUENCE:0
-DTSTAMP:20250615T102211
+DTSTAMP:20250615T104545
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Boys: Maccabi Celtics vs Ashy Lightning Green
@@ -74,14 +72,13 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f0ac5a52-9b1e-4fcf-b35f-bf2054c60a07
+UID:7a46fd5f-654a-47cf-89d3-41f99d55baf3
 SEQUENCE:0
-DTSTAMP:20250615T102211
+DTSTAMP:20250615T104545
 DTSTART:20250830T093000
 DTEND:20250830T101500
 SUMMARY:🏀 U10 Boys: Maccabi Celtics vs Malvern Tigers Green
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT

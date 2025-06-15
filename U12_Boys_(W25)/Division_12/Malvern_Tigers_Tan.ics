@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Tan Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b8eec39e-e9c4-4518-8b08-0c6074061e3b
+UID:cbc2eb95-ec97-4159-9deb-0d7bc2f7a4a1
 SEQUENCE:0
-DTSTAMP:20250615T102325
+DTSTAMP:20250615T104651
 DTSTART:20250621T114500
 DTEND:20250621T123000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Tan vs Solway Dingoes
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Dingoes\nArrive 15 min
  s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7180a38e-a48c-4a9f-8ec6-c23e610f699d
+UID:86b3975a-c406-4c09-9aed-a394eaf3fa8d
 SEQUENCE:0
-DTSTAMP:20250615T102325
+DTSTAMP:20250615T104651
 DTSTART:20250628T114500
 DTEND:20250628T123000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Tan vs Malvern Tigers Lime
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Lime\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:15d2cedd-b171-48f1-b8da-819e09534eb9
+UID:d415c1fd-9e76-4190-ae6d-295c1b7f9786
 SEQUENCE:0
-DTSTAMP:20250615T102325
+DTSTAMP:20250615T104651
 DTSTART:20250726T114500
 DTEND:20250726T123000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Tan vs Timberwolves Cavs
@@ -39,21 +39,20 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Cavs\nArrive 15
  mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ff8fe1c2-b3f0-4af0-b563-0ecf820bfac9
+UID:d0bcf6a3-03eb-40ac-9ae8-c99eaae5c2c0
 SEQUENCE:0
-DTSTAMP:20250615T102325
+DTSTAMP:20250615T104651
 DTSTART:20250802T123000
 DTEND:20250802T131500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Tan vs Timberwolves Fury
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Fury\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9af03ac5-ee9b-4da4-b594-e6a25cd881c5
+UID:5992e47d-031a-466c-85f6-d913adfcf076
 SEQUENCE:0
-DTSTAMP:20250615T102325
+DTSTAMP:20250615T104651
 DTSTART:20250809T144500
 DTEND:20250809T153000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Tan vs Wilson Piranhas
@@ -62,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Wilson
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:27c94e6a-1bde-4294-85bc-b0e34b0d7ff2
+UID:78a07fe7-239b-47f7-ab2d-9723f24417eb
 SEQUENCE:0
-DTSTAMP:20250615T102325
+DTSTAMP:20250615T104651
 DTSTART:20250816T114500
 DTEND:20250816T123000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Tan vs Solway Crocodiles
@@ -73,26 +72,24 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Crocodiles\nArrive 15
  mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a09372c8-bd0c-447b-b6c7-408fcade088b
+UID:abe7bfc7-2885-402f-a45f-efc8f8cf26c2
 SEQUENCE:0
-DTSTAMP:20250615T102325
+DTSTAMP:20250615T104651
 DTSTART:20250823T123000
 DTEND:20250823T131500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Tan vs Maccabi Kings
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Kings\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:66e1cac5-4189-433f-a9f4-8822ea8aa25b
+UID:f7331f76-5332-4f83-8ab4-2629b398333d
 SEQUENCE:0
-DTSTAMP:20250615T102325
+DTSTAMP:20250615T104651
 DTSTART:20250830T123000
 DTEND:20250830T131500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Tan vs Balaclava Piranhas
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Balacl
  ava Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT

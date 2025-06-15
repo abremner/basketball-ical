@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c3b011fc-4b94-4c13-b599-05a20038e570
+UID:396094c7-63f3-421a-9430-ee854172c8bf
 SEQUENCE:0
-DTSTAMP:20250615T102218
+DTSTAMP:20250615T104550
 DTSTART:20250621T110000
 DTEND:20250621T114500
 SUMMARY:🏀 U10 Boys: Solway Bucks vs Glen Iris Scorpions Gardiner
@@ -17,21 +17,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cb270f18-b8bb-4623-b2c2-e90c9801c9ea
+UID:205f8418-5876-40a6-87ea-2f4a1a77f259
 SEQUENCE:0
-DTSTAMP:20250615T102218
+DTSTAMP:20250615T104550
 DTSTART:20250628T093000
 DTEND:20250628T101500
 SUMMARY:🏀 U10 Boys: Solway Bucks vs SouthEast Venom Rockets
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: SouthE
  ast Venom Rockets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b59af4bb-63ae-49dc-b342-7a752d6b174d
+UID:c10b5d9d-8b88-4ee6-89b7-c53631dfee86
 SEQUENCE:0
-DTSTAMP:20250615T102218
+DTSTAMP:20250615T104550
 DTSTART:20250726T110000
 DTEND:20250726T114500
 SUMMARY:🏀 U10 Boys: Solway Bucks vs AlphaWolf Hunters
@@ -40,45 +39,42 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: AlphaWo
  lf Hunters\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1dc32e6b-9ad1-41ca-b4bb-45749dc07251
+UID:36fe8ef9-4f62-4ca1-ab92-fef6741a0e6f
 SEQUENCE:0
-DTSTAMP:20250615T102218
+DTSTAMP:20250615T104550
 DTSTART:20250802T101500
 DTEND:20250802T110000
 SUMMARY:🏀 U10 Boys: Solway Bucks vs Timberwolves Cubs
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Cubs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bab8a8a4-98d6-4265-a601-2e35cbd4a037
+UID:f428fc5b-4f57-4615-b7e6-1a8ab56b013a
 SEQUENCE:0
-DTSTAMP:20250615T102218
+DTSTAMP:20250615T104550
 DTSTART:20250809T093000
 DTEND:20250809T101500
 SUMMARY:🏀 U10 Boys: Solway Bucks vs Glen Iris Scorpions Nettleton
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bba3c6b0-bbb8-471c-871f-db75925f21ed
+UID:cb3db129-6ac9-4e95-8b59-7fed05142287
 SEQUENCE:0
-DTSTAMP:20250615T102218
+DTSTAMP:20250615T104550
 DTSTART:20250816T101500
 DTEND:20250816T110000
 SUMMARY:🏀 U10 Boys: Solway Bucks vs Toorak Torpedoes
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Torpedoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7dc0d5a4-5cf1-4714-a39c-339104891f95
+UID:e68aeeaf-e62f-41af-94f3-8b3c803e21df
 SEQUENCE:0
-DTSTAMP:20250615T102218
+DTSTAMP:20250615T104550
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Boys: Solway Bucks vs Maccabi Ducks
@@ -87,14 +83,13 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e2b1c36a-3950-4e80-acb7-53b009948392
+UID:a89bd69f-99df-4486-aff0-793ae3ce8a54
 SEQUENCE:0
-DTSTAMP:20250615T102218
+DTSTAMP:20250615T104550
 DTSTART:20250830T101500
 DTEND:20250830T110000
 SUMMARY:🏀 U10 Boys: Solway Bucks vs Glen Iris Scorpions Gardiner
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT

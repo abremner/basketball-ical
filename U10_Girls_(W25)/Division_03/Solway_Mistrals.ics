@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Mistrals Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c2c66bb9-e844-448f-9dfd-ea7125a7f494
+UID:54e94b32-5336-47c8-8482-094158bb0c06
 SEQUENCE:0
-DTSTAMP:20250615T102244
+DTSTAMP:20250615T104613
 DTSTART:20250628T123000
 DTEND:20250628T131500
 SUMMARY:🏀 U10 Girls: Solway Mistrals vs AlphaWolf Sparks
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: AlphaWolf S
  parks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:46dcf926-7afd-478d-82ca-03d8a07363e0
+UID:69fb501e-f629-4ff3-b544-966f296c8848
 SEQUENCE:0
-DTSTAMP:20250615T102244
+DTSTAMP:20250615T104613
 DTSTART:20250726T123000
 DTEND:20250726T131500
 SUMMARY:🏀 U10 Girls: Solway Mistrals vs Maccabi Bucks
@@ -28,33 +28,31 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Buc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8d10d3ee-2e3a-4c5f-ac90-5ebed4de4b82
+UID:5d273771-e81b-4232-a9d3-71f47e65928e
 SEQUENCE:0
-DTSTAMP:20250615T102244
+DTSTAMP:20250615T104613
 DTSTART:20250802T110000
 DTEND:20250802T114500
 SUMMARY:🏀 U10 Girls: Solway Mistrals vs Glen Iris Scorpions Ferndale
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:30c3d383-8279-4eea-8b57-2f5cd6ca7fa6
+UID:2502bc29-d633-4ed4-9039-c9e944ffb9d0
 SEQUENCE:0
-DTSTAMP:20250615T102244
+DTSTAMP:20250615T104613
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Girls: Solway Mistrals vs Dairy Park Piranhas
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Dairy 
  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0d815cd1-6b22-4b6e-9a5e-ff8e0c5b2e56
+UID:91b46e40-4f94-4924-a07c-a93c817811cc
 SEQUENCE:0
-DTSTAMP:20250615T102244
+DTSTAMP:20250615T104613
 DTSTART:20250816T123000
 DTEND:20250816T131500
 SUMMARY:🏀 U10 Girls: Solway Mistrals vs Malvern Tigers Blue
@@ -63,9 +61,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3469b4a6-85a1-4db3-96a1-0c962e612dad
+UID:904a218d-7bd8-48ac-9f2b-ebb4a6b92fe3
 SEQUENCE:0
-DTSTAMP:20250615T102244
+DTSTAMP:20250615T104613
 DTSTART:20250823T123000
 DTEND:20250823T131500
 SUMMARY:🏀 U10 Girls: Solway Mistrals vs Malvern Tigers White

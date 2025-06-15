@@ -6,9 +6,9 @@ X-WR-CALNAME:Glen Iris Scorpions Gardiner Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:bb1875b4-ec33-460c-8957-45b2f0719d3a
+UID:ec30c6cf-3b90-48a6-8516-390cb237ba24
 SEQUENCE:0
-DTSTAMP:20250615T102245
+DTSTAMP:20250615T104614
 DTSTART:20250621T114500
 DTEND:20250621T123000
 SUMMARY:🏀 U10 Girls: Glen Iris Scorpions Gardiner vs Grace Park Piranha
@@ -18,9 +18,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Grace Park
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5beff247-2ac0-4093-860f-1540e540a514
+UID:48887348-590d-4ab0-bb2f-19b96b30186b
 SEQUENCE:0
-DTSTAMP:20250615T102245
+DTSTAMP:20250615T104614
 DTSTART:20250628T114500
 DTEND:20250628T123000
 SUMMARY:🏀 U10 Girls: Glen Iris Scorpions Gardiner vs Valentine Piranhas
@@ -29,9 +29,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Valentine P
  iranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e1dce0de-6a14-4676-9707-65a3c1800ff1
+UID:304d85b2-f5d9-4f6f-a80b-be77be40b413
 SEQUENCE:0
-DTSTAMP:20250615T102245
+DTSTAMP:20250615T104614
 DTSTART:20250726T114500
 DTEND:20250726T123000
 SUMMARY:🏀 U10 Girls: Glen Iris Scorpions Gardiner vs Malvern Tigers Gre
@@ -41,9 +41,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fcab1351-26fb-4efd-86aa-78d9f8898adb
+UID:066d5b01-587f-4948-b6b4-b27d30948b10
 SEQUENCE:0
-DTSTAMP:20250615T102245
+DTSTAMP:20250615T104614
 DTSTART:20250802T114500
 DTEND:20250802T123000
 SUMMARY:🏀 U10 Girls: Glen Iris Scorpions Gardiner vs Embling Piranhas
@@ -52,9 +52,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Embling Pir
  anhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:560e902b-aff2-4e35-ab55-0c35d4bc40c1
+UID:4c9c0e4f-db3f-428b-a00c-e0a35607fc43
 SEQUENCE:0
-DTSTAMP:20250615T102245
+DTSTAMP:20250615T104614
 DTSTART:20250809T114500
 DTEND:20250809T123000
 SUMMARY:🏀 U10 Girls: Glen Iris Scorpions Gardiner vs Lauriston Fire
@@ -63,21 +63,20 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston F
  ire\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:86b61657-6be2-4e53-87df-1b940a976691
+UID:662b5f50-b82a-4676-9fb4-16905ce7489d
 SEQUENCE:0
-DTSTAMP:20250615T102245
+DTSTAMP:20250615T104614
 DTSTART:20250816T093000
 DTEND:20250816T101500
 SUMMARY:🏀 U10 Girls: Glen Iris Scorpions Gardiner vs Netherlee Piranhas
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Nether
  lee Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1aeff930-3c93-44fd-b973-4556d44079fd
+UID:c1ace9bc-d37c-4dd3-99f2-d882ea357b3c
 SEQUENCE:0
-DTSTAMP:20250615T102245
+DTSTAMP:20250615T104614
 DTSTART:20250823T114500
 DTEND:20250823T123000
 SUMMARY:🏀 U10 Girls: Glen Iris Scorpions Gardiner vs Maccabi Celtics
@@ -86,15 +85,14 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Cel
  tics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3a7ce14c-c31b-4790-9066-43e07763e1d5
+UID:a439fc44-cde8-4edc-b822-13a4de58ddc9
 SEQUENCE:0
-DTSTAMP:20250615T102245
+DTSTAMP:20250615T104614
 DTSTART:20250830T084500
 DTEND:20250830T093000
 SUMMARY:🏀 U10 Girls: Glen Iris Scorpions Gardiner vs Grace Park Piranha
  s
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Grace 
  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT

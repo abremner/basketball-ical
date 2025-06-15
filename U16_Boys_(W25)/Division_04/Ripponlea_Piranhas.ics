@@ -6,9 +6,9 @@ X-WR-CALNAME:Ripponlea Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:67077c61-9f02-4e07-9878-ce7ef6391140
+UID:565d9f2e-a447-4aa7-9f0e-d54f7325402a
 SEQUENCE:0
-DTSTAMP:20250615T102445
+DTSTAMP:20250615T104801
 DTSTART:20250621T191500
 DTEND:20250621T200000
 SUMMARY:🏀 U16 Boys: Ripponlea Piranhas vs Toorak Tornadoes
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak
  Tornadoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:351b519a-b0fe-403f-915b-a367bd8f526f
+UID:29fa305e-70b7-4b33-b288-a3ba29dff49e
 SEQUENCE:0
-DTSTAMP:20250615T102445
+DTSTAMP:20250615T104801
 DTSTART:20250628T191500
 DTEND:20250628T200000
 SUMMARY:🏀 U16 Boys: Ripponlea Piranhas vs Maccabi Warriors
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
   Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ba25a19b-07c1-4245-a5f2-d3e82ecacf14
+UID:3a93e2da-249a-4fe6-b21c-0dd5b4c9e94c
 SEQUENCE:0
-DTSTAMP:20250615T102445
+DTSTAMP:20250615T104801
 DTSTART:20250726T183000
 DTEND:20250726T191500
 SUMMARY:🏀 U16 Boys: Ripponlea Piranhas vs Timberwolves Magnum
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Magnum\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ffcf585f-43a9-422e-8b06-90807f3d3975
+UID:f025ffe6-8073-428e-a5aa-17dd196cebb3
 SEQUENCE:0
-DTSTAMP:20250615T102445
+DTSTAMP:20250615T104801
 DTSTART:20250802T183000
 DTEND:20250802T191500
 SUMMARY:🏀 U16 Boys: Ripponlea Piranhas vs Timberwolves Boulders
@@ -50,33 +50,31 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Boulders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2d043506-63ff-4d34-a1d1-5fa09beb6d4b
+UID:4d0fd0f3-b899-4dc9-b6e4-242e6693435c
 SEQUENCE:0
-DTSTAMP:20250615T102445
+DTSTAMP:20250615T104801
 DTSTART:20250809T183000
 DTEND:20250809T191500
 SUMMARY:🏀 U16 Boys: Ripponlea Piranhas vs Serrell Park Piranhas
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Serrel
  l Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:680994f5-29e1-4ea6-8b40-4fec25583017
+UID:0ec6ac75-096f-493f-8b8d-42e2f640b6d9
 SEQUENCE:0
-DTSTAMP:20250615T102445
+DTSTAMP:20250615T104801
 DTSTART:20250816T183000
 DTEND:20250816T191500
 SUMMARY:🏀 U16 Boys: Ripponlea Piranhas vs Toorak Terminators
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Terminators\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e500dfb7-69c8-4a32-b7c2-40d8bcbb7d94
+UID:8193c494-0a84-4b93-9c29-3167cf10b82f
 SEQUENCE:0
-DTSTAMP:20250615T102445
+DTSTAMP:20250615T104801
 DTSTART:20250823T191500
 DTEND:20250823T200000
 SUMMARY:🏀 U16 Boys: Ripponlea Piranhas vs Solway Super Sonics
@@ -85,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Super Sonics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ccb1b614-6414-4cf4-9936-3e6f108b1db9
+UID:5d0476f8-30f9-41f9-b605-79cb639cd6d0
 SEQUENCE:0
-DTSTAMP:20250615T102445
+DTSTAMP:20250615T104801
 DTSTART:20250830T183000
 DTEND:20250830T191500
 SUMMARY:🏀 U16 Boys: Ripponlea Piranhas vs Toorak Tornadoes

@@ -6,21 +6,20 @@ X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c723850e-6ed8-4d45-af96-65da96820d8b
+UID:e472a181-39ef-407d-a683-a333c4036bdf
 SEQUENCE:0
-DTSTAMP:20250615T102207
+DTSTAMP:20250615T104542
 DTSTART:20250621T101500
 DTEND:20250621T110000
 SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Malvern Tigers White
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e30012fd-bc0a-43bd-a710-02508a143d35
+UID:ca39bf2b-3d93-45bc-b44f-d3a831e05cf2
 SEQUENCE:0
-DTSTAMP:20250615T102207
+DTSTAMP:20250615T104542
 DTSTART:20250628T110000
 DTEND:20250628T114500
 SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Ashy Lightning Gold
@@ -29,33 +28,31 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
  ghtning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ed7f62be-9a1d-46f1-9566-29b101a695be
+UID:d6343b7c-549a-4cc0-9035-79cf5e51511d
 SEQUENCE:0
-DTSTAMP:20250615T102207
+DTSTAMP:20250615T104542
 DTSTART:20250726T101500
 DTEND:20250726T110000
 SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Malvern Tigers Yellow
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cd978a12-da95-4125-98d8-b9512c549aca
+UID:87285e1c-01a0-49a7-ad27-0630d28099c0
 SEQUENCE:0
-DTSTAMP:20250615T102207
+DTSTAMP:20250615T104542
 DTSTART:20250802T110000
 DTEND:20250802T114500
 SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Melbourne Wolves RBT Vipers
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Melbou
  rne Wolves RBT Vipers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c428d4a1-c68e-4dea-9a4e-31f0c03a0441
+UID:550bc508-4b2a-45a4-8ff7-cf61433649f7
 SEQUENCE:0
-DTSTAMP:20250615T102207
+DTSTAMP:20250615T104542
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Glen Iris Scorpions Ferndale
@@ -64,21 +61,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
  is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fea7ca45-4488-43d9-aed2-448b5ee585c0
+UID:96f73f4a-b51e-4b05-b25a-470359b36af3
 SEQUENCE:0
-DTSTAMP:20250615T102207
+DTSTAMP:20250615T104542
 DTSTART:20250816T110000
 DTEND:20250816T114500
 SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Malvern Tigers White
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:931153ae-3d3a-44e6-aa4a-8d5d4a6491b3
+UID:f3280683-cb59-4cd8-9f1a-0a719e7410d5
 SEQUENCE:0
-DTSTAMP:20250615T102207
+DTSTAMP:20250615T104542
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Ashy Lightning Gold
@@ -87,14 +83,13 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
  ghtning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6da4cd84-0a70-42af-9641-39c0d745d3a5
+UID:6b67e35b-39bb-4fc7-8ab2-ddd0c229250a
 SEQUENCE:0
-DTSTAMP:20250615T102207
+DTSTAMP:20250615T104542
 DTSTART:20250830T101500
 DTEND:20250830T110000
 SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Malvern Tigers Yellow
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT

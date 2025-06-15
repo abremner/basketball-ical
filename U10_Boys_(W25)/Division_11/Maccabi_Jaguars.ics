@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Jaguars Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:5feeed0e-d695-4dd1-ab64-a580331680f4
+UID:9d44ddec-dc32-435a-8cc4-0c5addba9ef3
 SEQUENCE:0
-DTSTAMP:20250615T102232
+DTSTAMP:20250615T104603
 DTSTART:20250621T084500
 DTEND:20250621T093000
 SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Solway Hornets
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Hornets\nArrive 15 min
  s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4fea2f89-9180-4385-9d13-4533edf8ffab
+UID:fb1b44ca-0dba-4ea0-9ac2-3544c81f3d79
 SEQUENCE:0
-DTSTAMP:20250615T102232
+DTSTAMP:20250615T104603
 DTSTART:20250628T084500
 DTEND:20250628T093000
 SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Ashy Lightning Yellow
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Ashy Lightning Yellow\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c73c4b40-59ee-4ecc-a0ba-befedecaedda
+UID:12b049e8-aa8b-44b7-a33a-8bc9f91363b6
 SEQUENCE:0
-DTSTAMP:20250615T102232
+DTSTAMP:20250615T104603
 DTSTART:20250726T084500
 DTEND:20250726T093000
 SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs SouthEast Venom Magic
@@ -39,45 +39,42 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: SouthEast Venom Magic\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2b83f92c-6ed9-42e8-b928-7db99aa188e9
+UID:53492c1d-e507-416e-b6d6-a42f2ad7f631
 SEQUENCE:0
-DTSTAMP:20250615T102232
+DTSTAMP:20250615T104603
 DTSTART:20250802T084500
 DTEND:20250802T093000
 SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Koornang Piranhas
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Koorna
  ng Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:451c4379-54d3-4fed-9947-c9f6714796da
+UID:7ef60e43-a853-4a44-a7de-c6dce1d10ec1
 SEQUENCE:0
-DTSTAMP:20250615T102232
+DTSTAMP:20250615T104603
 DTSTART:20250809T084500
 DTEND:20250809T093000
 SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Timberwolves Hawks
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Hawks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ff1925a0-99fa-443e-af29-53d40361a451
+UID:306d8fb4-8936-4636-871b-171b3e6e814e
 SEQUENCE:0
-DTSTAMP:20250615T102232
+DTSTAMP:20250615T104603
 DTSTART:20250816T080000
 DTEND:20250816T084500
 SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Solway Hornets
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Hornets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:916013a2-6b7d-48f9-9a58-7b2ed4504b8f
+UID:6fd6a9f6-8ad4-4d8f-bfad-75e16ab4b971
 SEQUENCE:0
-DTSTAMP:20250615T102232
+DTSTAMP:20250615T104603
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Ashy Lightning Yellow
@@ -86,9 +83,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Ashy Lightning Yellow\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:314b286b-eba8-4ed6-808d-4c7a15b80563
+UID:7e761487-aad5-41d3-8e56-f7eebccc985a
 SEQUENCE:0
-DTSTAMP:20250615T102232
+DTSTAMP:20250615T104603
 DTSTART:20250830T084500
 DTEND:20250830T093000
 SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs SouthEast Venom Magic

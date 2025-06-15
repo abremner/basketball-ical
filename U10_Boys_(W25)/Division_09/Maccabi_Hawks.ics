@@ -6,21 +6,20 @@ X-WR-CALNAME:Maccabi Hawks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b0cd8ed6-c468-40c8-93c9-490baca7595d
+UID:bbf99c10-bef6-4499-ad6f-6c79a9e8f4cf
 SEQUENCE:0
-DTSTAMP:20250615T102228
+DTSTAMP:20250615T104559
 DTSTART:20250621T093000
 DTEND:20250621T101500
 SUMMARY:🏀 U10 Boys: Maccabi Hawks vs Golden Hawks Iron
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Golden
   Hawks Iron\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:157ebc76-c1f0-476c-804d-77a0097131f9
+UID:76969ad1-7ffb-4175-987c-1815a9c8acd9
 SEQUENCE:0
-DTSTAMP:20250615T102228
+DTSTAMP:20250615T104559
 DTSTART:20250628T101500
 DTEND:20250628T110000
 SUMMARY:🏀 U10 Boys: Maccabi Hawks vs Toorak Thrashers
@@ -29,33 +28,31 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Toorak Thrashers\nArrive 15 m
  ins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ef240924-bd37-453a-be54-3e330b4c35e7
+UID:b0ab8788-c10e-4986-8518-4e3577c0783c
 SEQUENCE:0
-DTSTAMP:20250615T102228
+DTSTAMP:20250615T104559
 DTSTART:20250726T080000
 DTEND:20250726T084500
 SUMMARY:🏀 U10 Boys: Maccabi Hawks vs Maccabi Eagles
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0233b53e-1b1f-4fd9-9c02-a119c5de909b
+UID:2e3836b5-19af-4522-8691-76157ce36ca4
 SEQUENCE:0
-DTSTAMP:20250615T102228
+DTSTAMP:20250615T104559
 DTSTART:20250802T093000
 DTEND:20250802T101500
 SUMMARY:🏀 U10 Boys: Maccabi Hawks vs Solway Nets
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Nets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:45e53f5c-faa0-46f6-a58d-4b030cba681e
+UID:a08fb0d5-683f-44c3-b3cb-dd0b12284f47
 SEQUENCE:0
-DTSTAMP:20250615T102228
+DTSTAMP:20250615T104559
 DTSTART:20250809T101500
 DTEND:20250809T110000
 SUMMARY:🏀 U10 Boys: Maccabi Hawks vs Glen Iris Scorpions Summerhill
@@ -64,9 +61,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Glen Iris Scorpions Summerhil
  l\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:20dd2e02-c32c-4400-a81b-bc60f4315c3e
+UID:d6075045-6adb-4419-bd28-20d83ebbe16a
 SEQUENCE:0
-DTSTAMP:20250615T102228
+DTSTAMP:20250615T104559
 DTSTART:20250816T101500
 DTEND:20250816T110000
 SUMMARY:🏀 U10 Boys: Maccabi Hawks vs Golden Hawks Iron
@@ -75,26 +72,24 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Golden Hawks Iron\nArrive 15
  mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1d32d8e7-cc54-475a-a32b-7931b8143df6
+UID:1b6504f1-f3ec-4003-b771-9e2a19b88eac
 SEQUENCE:0
-DTSTAMP:20250615T102228
+DTSTAMP:20250615T104559
 DTSTART:20250823T093000
 DTEND:20250823T101500
 SUMMARY:🏀 U10 Boys: Maccabi Hawks vs Toorak Thrashers
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
   Thrashers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:346717a7-d2c1-42ff-8314-c31cc243b220
+UID:3dc85fc1-7cc5-4555-a40d-8f630d9fb139
 SEQUENCE:0
-DTSTAMP:20250615T102228
+DTSTAMP:20250615T104559
 DTSTART:20250830T080000
 DTEND:20250830T084500
 SUMMARY:🏀 U10 Boys: Maccabi Hawks vs Maccabi Eagles
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Eagles\nArrive 15 mins early for warm-up
 END:VEVENT

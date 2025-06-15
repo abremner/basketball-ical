@@ -6,33 +6,31 @@ X-WR-CALNAME:Comets Snake Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:708bf4b9-44a8-4c2c-b887-b75648c563e7
+UID:c1af06e7-993c-4a99-a8fe-96a26afcb180
 SEQUENCE:0
-DTSTAMP:20250615T102223
+DTSTAMP:20250615T104555
 DTSTART:20250621T084500
 DTEND:20250621T093000
 SUMMARY:🏀 U10 Boys: Comets Snake vs Glen Iris Scorpions Raven
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
  ris Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7991a2b4-b9f7-4494-be0e-6315d530ad36
+UID:296070dc-3490-406b-b58f-d445de87d42e
 SEQUENCE:0
-DTSTAMP:20250615T102223
+DTSTAMP:20250615T104555
 DTSTART:20250628T084500
 DTEND:20250628T093000
 SUMMARY:🏀 U10 Boys: Comets Snake vs Timberwolves Legends
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Legends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:551aa068-c1fd-4684-a084-5a29238055bb
+UID:325661db-a62d-4bef-a6ad-dcc39fd47084
 SEQUENCE:0
-DTSTAMP:20250615T102223
+DTSTAMP:20250615T104555
 DTSTART:20250726T110000
 DTEND:20250726T114500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Timberwolves Lightning
@@ -41,9 +39,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Lightning\nArriv
  e 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5d8dad2f-00b5-441d-8b60-64d89fba213a
+UID:94214ca1-0aa4-490b-b1d4-a2b0e77382e7
 SEQUENCE:0
-DTSTAMP:20250615T102223
+DTSTAMP:20250615T104555
 DTSTART:20250802T110000
 DTEND:20250802T114500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Maccabi Falcons
@@ -52,9 +50,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Falcons\nArrive 15 mi
  ns early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:557d5057-4e6b-431e-af26-99387c44ee48
+UID:63e67861-84f3-42ce-870a-b0df2c6cff94
 SEQUENCE:0
-DTSTAMP:20250615T102223
+DTSTAMP:20250615T104555
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Phoenix Park Piranhas
@@ -63,38 +61,35 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Phoenix Park Piranhas\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e67a74f6-f154-496a-a906-3172a61e876a
+UID:bc9cb163-6eaa-483e-b330-4d979f81adaa
 SEQUENCE:0
-DTSTAMP:20250615T102223
+DTSTAMP:20250615T104555
 DTSTART:20250816T080000
 DTEND:20250816T084500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Toorak Thunderbolts
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Thunderbolts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:44bed5a4-5f7d-4d19-8df0-ce9dab661edc
+UID:4fca3696-c30d-4252-8897-f7b41e6d8ec6
 SEQUENCE:0
-DTSTAMP:20250615T102223
+DTSTAMP:20250615T104555
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U10 Boys: Comets Snake vs Timberwolves Bucks
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c420ed8c-b7fe-49ec-ba46-0c555c9cf26b
+UID:0d8f0afc-733e-457e-8ca1-4f31c6770dd0
 SEQUENCE:0
-DTSTAMP:20250615T102223
+DTSTAMP:20250615T104555
 DTSTART:20250830T080000
 DTEND:20250830T084500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Glen Iris Scorpions Raven
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT

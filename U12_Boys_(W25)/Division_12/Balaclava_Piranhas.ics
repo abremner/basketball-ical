@@ -6,9 +6,9 @@ X-WR-CALNAME:Balaclava Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:58475aeb-80a5-4f0d-ba41-cd83d7adffa4
+UID:287fa01a-2a6b-4997-826c-000cf7f5b907
 SEQUENCE:0
-DTSTAMP:20250615T102323
+DTSTAMP:20250615T104649
 DTSTART:20250621T144500
 DTEND:20250621T153000
 SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Wilson Piranhas
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Wilson
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:08255d62-358f-4bd1-8a48-403d40fd01bc
+UID:2763f3b7-328b-4679-bc32-0b083daeec2f
 SEQUENCE:0
-DTSTAMP:20250615T102323
+DTSTAMP:20250615T104649
 DTSTART:20250628T114500
 DTEND:20250628T123000
 SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Malvern Tigers Aqua
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Aqua\nArrive 1
  5 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:63d0be00-f32b-47e3-bdb6-d82fc2ce9c01
+UID:8376a000-7350-4cf1-b915-1b8f7ffdeffc
 SEQUENCE:0
-DTSTAMP:20250615T102323
+DTSTAMP:20250615T104649
 DTSTART:20250726T114500
 DTEND:20250726T123000
 SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Solway Crocodiles
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Crocodiles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f8ad66f6-cf7b-481f-b985-937f04fd43f9
+UID:eedd9102-9500-4e73-b6b4-9607c14617ca
 SEQUENCE:0
-DTSTAMP:20250615T102323
+DTSTAMP:20250615T104649
 DTSTART:20250802T123000
 DTEND:20250802T131500
 SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Malvern Tigers Lime
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Lime\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9c080240-797e-4a35-8195-eae1968695a4
+UID:0aa9c5e2-35a1-419d-8c7e-42fb5694ab5c
 SEQUENCE:0
-DTSTAMP:20250615T102323
+DTSTAMP:20250615T104649
 DTSTART:20250809T123000
 DTEND:20250809T131500
 SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Solway Dingoes
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
  Dingoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0908276a-3f93-445b-a09f-4ca528e02f80
+UID:b3a4f4aa-24ab-4878-98e0-7fee0833a757
 SEQUENCE:0
-DTSTAMP:20250615T102323
+DTSTAMP:20250615T104649
 DTSTART:20250816T114500
 DTEND:20250816T123000
 SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Timberwolves Fury
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Fury\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:90cfb6d4-9e31-4359-bd02-cfa130446db5
+UID:84004387-4e99-4ecb-aade-91cc10ab05c4
 SEQUENCE:0
-DTSTAMP:20250615T102323
+DTSTAMP:20250615T104649
 DTSTART:20250823T123000
 DTEND:20250823T131500
 SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Timberwolves Cavs
@@ -83,14 +83,13 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Cavs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:02777167-1d53-4553-804d-a39fe7b96c96
+UID:a971ee0c-fc43-458a-aafa-1debdbad8d30
 SEQUENCE:0
-DTSTAMP:20250615T102323
+DTSTAMP:20250615T104649
 DTSTART:20250830T123000
 DTEND:20250830T131500
 SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Malvern Tigers Tan
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Tan\nArrive 15 mins early for warm-up
 END:VEVENT

@@ -6,21 +6,20 @@ X-WR-CALNAME:Malvern Tigers Aqua Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:7dc9e0c7-410c-4c14-a57b-5cead089d150
+UID:62347693-abaf-4558-94d9-b3c573ce6710
 SEQUENCE:0
-DTSTAMP:20250615T102324
+DTSTAMP:20250615T104650
 DTSTART:20250621T123000
 DTEND:20250621T131500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Malvern Tigers Lime
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Lime\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:10d88c02-cdbf-4fe9-9e83-36465eeb8976
+UID:fb3a98ca-ff55-49d3-913a-c63bf99b8137
 SEQUENCE:0
-DTSTAMP:20250615T102324
+DTSTAMP:20250615T104650
 DTSTART:20250628T114500
 DTEND:20250628T123000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Balaclava Piranhas
@@ -29,9 +28,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Balaclava Piranhas\nArrive 15
   mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:19c45bd5-c505-4dd0-a030-f24d64c4c29b
+UID:c11cd015-2f69-47c2-9a61-b43c64981d56
 SEQUENCE:0
-DTSTAMP:20250615T102324
+DTSTAMP:20250615T104650
 DTSTART:20250726T144500
 DTEND:20250726T153000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Wilson Piranhas
@@ -40,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Wilson
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9336ce87-5ccf-4495-bafc-d5a1fb8bf271
+UID:bbea4e3b-7cc8-4f21-a62c-a061dcb22a05
 SEQUENCE:0
-DTSTAMP:20250615T102324
+DTSTAMP:20250615T104650
 DTSTART:20250802T114500
 DTEND:20250802T123000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Solway Dingoes
@@ -51,33 +50,31 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Dingoes\nArrive 15 min
  s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:210d602e-915a-4b83-8a1a-30e19b3b47ed
+UID:b23b5a35-dfc7-4379-9bc7-3b3640c58249
 SEQUENCE:0
-DTSTAMP:20250615T102324
+DTSTAMP:20250615T104650
 DTSTART:20250809T123000
 DTEND:20250809T131500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Maccabi Kings
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Kings\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6e743db1-c066-4427-85ef-3f1e641d7e77
+UID:748812db-6089-4a12-91ca-1441f05f4b06
 SEQUENCE:0
-DTSTAMP:20250615T102324
+DTSTAMP:20250615T104650
 DTSTART:20250816T123000
 DTEND:20250816T131500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Timberwolves Cavs
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Cavs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:88c156bc-fea9-4618-bbbf-71354a6dca33
+UID:612494c9-a929-42f2-88e4-7729ddb7d5af
 SEQUENCE:0
-DTSTAMP:20250615T102324
+DTSTAMP:20250615T104650
 DTSTART:20250823T114500
 DTEND:20250823T123000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Timberwolves Fury
@@ -86,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Fury\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f9f00f61-7c61-47c3-a94a-6c41d0b613b0
+UID:d9ea32d3-c7ca-42e7-94ba-fad6907a5d57
 SEQUENCE:0
-DTSTAMP:20250615T102324
+DTSTAMP:20250615T104650
 DTSTART:20250830T123000
 DTEND:20250830T131500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Solway Crocodiles

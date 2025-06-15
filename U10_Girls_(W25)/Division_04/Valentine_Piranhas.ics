@@ -6,21 +6,20 @@ X-WR-CALNAME:Valentine Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:efd898b8-618c-418c-85c4-ee76833d23a5
+UID:3772f82c-eb3d-4d91-9ade-7f64045f078a
 SEQUENCE:0
-DTSTAMP:20250615T102248
+DTSTAMP:20250615T104616
 DTSTART:20250621T084500
 DTEND:20250621T093000
 SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Malvern Tigers Green
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f8bc0835-5f5d-460e-97cf-0c3b0556a8f2
+UID:628ebd79-2565-4896-a215-00732ab1f987
 SEQUENCE:0
-DTSTAMP:20250615T102248
+DTSTAMP:20250615T104616
 DTSTART:20250628T114500
 DTEND:20250628T123000
 SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Glen Iris Scorpions Gardiner
@@ -29,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
  corpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e9f1a77f-389e-4193-b3d9-40763d70da68
+UID:9797fe80-558b-4f7f-b76d-998bd7063f23
 SEQUENCE:0
-DTSTAMP:20250615T102248
+DTSTAMP:20250615T104616
 DTSTART:20250726T114500
 DTEND:20250726T123000
 SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Lauriston Fire
@@ -40,33 +39,31 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston F
  ire\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:01aa4cd6-833c-4d76-a979-8dacf7854410
+UID:b3def632-b381-4aad-8517-ac5bba5ff2eb
 SEQUENCE:0
-DTSTAMP:20250615T102248
+DTSTAMP:20250615T104616
 DTSTART:20250802T093000
 DTEND:20250802T101500
 SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Netherlee Piranhas
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Nether
  lee Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5f0dc1cf-07b1-4c8e-865f-91303cb497ad
+UID:90093dd2-fca1-48f5-af44-b1081f7d8797
 SEQUENCE:0
-DTSTAMP:20250615T102248
+DTSTAMP:20250615T104616
 DTSTART:20250809T093000
 DTEND:20250809T101500
 SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Maccabi Celtics
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:02da39ae-fdbe-4fea-9bc8-9d70736aad7a
+UID:1f0cc572-a770-400d-8f7f-07d38a7879a9
 SEQUENCE:0
-DTSTAMP:20250615T102248
+DTSTAMP:20250615T104616
 DTSTART:20250816T114500
 DTEND:20250816T123000
 SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Grace Park Piranhas
@@ -75,26 +72,24 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Grace Park
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6eb091e0-f8ac-4629-baf3-6ee1ec7ddc3e
+UID:27265ef8-0b49-4567-bb38-c5a43f11991b
 SEQUENCE:0
-DTSTAMP:20250615T102248
+DTSTAMP:20250615T104616
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Embling Piranhas
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Emblin
  g Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:395cb8bf-2a21-49f3-9210-98b27c076ada
+UID:f98e27ba-a084-4277-a8b0-d16a2dcf8298
 SEQUENCE:0
-DTSTAMP:20250615T102248
+DTSTAMP:20250615T104616
 DTSTART:20250830T093000
 DTEND:20250830T101500
 SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Malvern Tigers Green
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT

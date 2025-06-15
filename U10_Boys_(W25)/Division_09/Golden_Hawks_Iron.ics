@@ -6,33 +6,31 @@ X-WR-CALNAME:Golden Hawks Iron Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:ed0bd5bf-aa82-44c8-9de3-4dc085b018f9
+UID:00ed0c99-0c0d-453f-85fe-7f725c5cacf4
 SEQUENCE:0
-DTSTAMP:20250615T102227
+DTSTAMP:20250615T104558
 DTSTART:20250621T093000
 DTEND:20250621T101500
 SUMMARY:🏀 U10 Boys: Golden Hawks Iron vs Maccabi Hawks
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Hawks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ff7f3ae6-3962-4794-87a4-6909473e1556
+UID:0add8a3d-989c-414a-b7f4-b36b9bcf7be0
 SEQUENCE:0
-DTSTAMP:20250615T102227
+DTSTAMP:20250615T104558
 DTSTART:20250628T080000
 DTEND:20250628T084500
 SUMMARY:🏀 U10 Boys: Golden Hawks Iron vs Glen Iris Scorpions Summerhill
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
  ris Scorpions Summerhill\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e22a32ef-4a25-4346-a0c6-cd77205d7622
+UID:6f940d3a-faa8-4ca3-b221-46f8664bfff7
 SEQUENCE:0
-DTSTAMP:20250615T102227
+DTSTAMP:20250615T104558
 DTSTART:20250726T101500
 DTEND:20250726T110000
 SUMMARY:🏀 U10 Boys: Golden Hawks Iron vs Toorak Thrashers
@@ -41,9 +39,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Toorak Thrashers\nArrive 15 m
  ins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:babb5117-d9ea-4ea4-8021-03ecaafa91d3
+UID:be108fe9-88a0-4969-a946-4b95a68a6753
 SEQUENCE:0
-DTSTAMP:20250615T102227
+DTSTAMP:20250615T104558
 DTSTART:20250802T101500
 DTEND:20250802T110000
 SUMMARY:🏀 U10 Boys: Golden Hawks Iron vs Maccabi Eagles
@@ -52,21 +50,20 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Eagles\nArrive 15 min
  s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:40d1a5bf-3924-47fb-b492-e458ea3c48ac
+UID:d07bb315-b819-4cbd-9b40-01d2ff0be32b
 SEQUENCE:0
-DTSTAMP:20250615T102227
+DTSTAMP:20250615T104558
 DTSTART:20250809T093000
 DTEND:20250809T101500
 SUMMARY:🏀 U10 Boys: Golden Hawks Iron vs Solway Nets
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Nets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c9a6fb0f-bd06-41b3-8f5d-4873f212ec31
+UID:2dff3673-cef6-4d42-9be9-6c3ad6408530
 SEQUENCE:0
-DTSTAMP:20250615T102227
+DTSTAMP:20250615T104558
 DTSTART:20250816T101500
 DTEND:20250816T110000
 SUMMARY:🏀 U10 Boys: Golden Hawks Iron vs Maccabi Hawks
@@ -75,26 +72,24 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Hawks\nArrive 15 mins
   early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:60e53c42-1ebc-46f6-9ac2-2e0b111a8b9e
+UID:092b56bf-15e4-4474-a02d-896732901754
 SEQUENCE:0
-DTSTAMP:20250615T102227
+DTSTAMP:20250615T104558
 DTSTART:20250823T080000
 DTEND:20250823T084500
 SUMMARY:🏀 U10 Boys: Golden Hawks Iron vs Glen Iris Scorpions Summerhill
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
  ris Scorpions Summerhill\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:63c23fd9-2061-4ee3-8b89-60970aa77b55
+UID:dcf8820c-6a29-41af-ba13-323b5ddfddc0
 SEQUENCE:0
-DTSTAMP:20250615T102227
+DTSTAMP:20250615T104558
 DTSTART:20250830T093000
 DTEND:20250830T101500
 SUMMARY:🏀 U10 Boys: Golden Hawks Iron vs Toorak Thrashers
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
   Thrashers\nArrive 15 mins early for warm-up
 END:VEVENT

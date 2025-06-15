@@ -6,9 +6,9 @@ X-WR-CALNAME:Creswick Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:ca860567-2909-489a-ba4b-379496695b7a
+UID:7afcc349-ac29-4b27-988d-f5cce8d9d443
 SEQUENCE:0
-DTSTAMP:20250615T102345
+DTSTAMP:20250615T104709
 DTSTART:20250621T140000
 DTEND:20250621T144500
 SUMMARY:🏀 U12 Girls: Creswick Piranhas vs Lauriston Suns
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston S
  uns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e7945736-f392-4b06-9d24-0ae27db34b2a
+UID:fc44b410-3c0d-44b4-b8ea-431378745dfb
 SEQUENCE:0
-DTSTAMP:20250615T102345
+DTSTAMP:20250615T104709
 DTSTART:20250628T140000
 DTEND:20250628T144500
 SUMMARY:🏀 U12 Girls: Creswick Piranhas vs Solway Wrens
@@ -28,21 +28,20 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Wren
  s\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:861e22a6-1c68-4516-b479-161196a7798f
+UID:e4652c68-e7b1-49cd-a3b5-9f9eda0a97ad
 SEQUENCE:0
-DTSTAMP:20250615T102345
+DTSTAMP:20250615T104709
 DTSTART:20250726T131500
 DTEND:20250726T140000
 SUMMARY:🏀 U12 Girls: Creswick Piranhas vs Arax
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9ad9d40a-3f42-4b9f-8cd2-fe3931b7885a
+UID:cad6908e-ec08-46d7-9bb6-4af38fbb5e87
 SEQUENCE:0
-DTSTAMP:20250615T102345
+DTSTAMP:20250615T104709
 DTSTART:20250802T140000
 DTEND:20250802T144500
 SUMMARY:🏀 U12 Girls: Creswick Piranhas vs Maccabi Falcons
@@ -51,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Fal
  cons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5292a7bb-2116-49c9-9d8d-fc63dac1c859
+UID:2a4f9e8a-f7c8-4727-87b5-c16ecc702509
 SEQUENCE:0
-DTSTAMP:20250615T102345
+DTSTAMP:20250615T104709
 DTSTART:20250816T140000
 DTEND:20250816T144500
 SUMMARY:🏀 U12 Girls: Creswick Piranhas vs Lauriston Suns
@@ -62,9 +61,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston S
  uns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bf3dff6c-a072-4565-ba9e-64f4fd357d6c
+UID:322115e6-31c6-40c4-bc23-153a065603a1
 SEQUENCE:0
-DTSTAMP:20250615T102345
+DTSTAMP:20250615T104709
 DTSTART:20250823T140000
 DTEND:20250823T144500
 SUMMARY:🏀 U12 Girls: Creswick Piranhas vs Solway Wrens
@@ -73,14 +72,13 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Wren
  s\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:aece88d9-a6f3-46ab-9b17-f49fb9b330b1
+UID:c1cdb377-4296-4818-a35d-84e4540c59dc
 SEQUENCE:0
-DTSTAMP:20250615T102345
+DTSTAMP:20250615T104709
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U12 Girls: Creswick Piranhas vs Arax
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT

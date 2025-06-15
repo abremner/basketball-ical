@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Finches Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:3ab24555-8197-451d-8376-d1f670a40c49
+UID:ad1da051-8c46-4675-95aa-87863f998dff
 SEQUENCE:0
-DTSTAMP:20250615T102330
+DTSTAMP:20250615T104655
 DTSTART:20250621T153000
 DTEND:20250621T161500
 SUMMARY:🏀 U12 Girls: Solway Finches vs Malvern Tigers Taylor
@@ -17,21 +17,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Taylor\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:83b18fe6-6058-4780-adf7-1cad72247b96
+UID:9e850b5e-5e00-414a-9436-2e4bd1c4bb88
 SEQUENCE:0
-DTSTAMP:20250615T102330
+DTSTAMP:20250615T104655
 DTSTART:20250628T144500
 DTEND:20250628T153000
 SUMMARY:🏀 U12 Girls: Solway Finches vs Toorak TopShots
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
   TopShots\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d1606689-b6a1-4187-a021-85475738783f
+UID:3f45746b-b6b5-46da-a13f-79243dfd2a61
 SEQUENCE:0
-DTSTAMP:20250615T102330
+DTSTAMP:20250615T104655
 DTSTART:20250726T153000
 DTEND:20250726T161500
 SUMMARY:🏀 U12 Girls: Solway Finches vs Malvern Tigers Phillips
@@ -40,33 +39,31 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Phillips\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:35843541-d9b6-4eb5-9953-3ca76d7b27b4
+UID:ed672317-dec1-49de-b0f2-51686353d92b
 SEQUENCE:0
-DTSTAMP:20250615T102330
+DTSTAMP:20250615T104655
 DTSTART:20250802T144500
 DTEND:20250802T153000
 SUMMARY:🏀 U12 Girls: Solway Finches vs Timberwolves Strikers
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Strikers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a7e71968-c8fb-4464-9c51-4949a2c050b2
+UID:8cd5f37a-b402-48c9-88db-77a19b380c16
 SEQUENCE:0
-DTSTAMP:20250615T102330
+DTSTAMP:20250615T104655
 DTSTART:20250809T144500
 DTEND:20250809T153000
 SUMMARY:🏀 U12 Girls: Solway Finches vs Yanakie Piranhas
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Yanaki
  e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e5613b41-050b-4111-b8a0-31a37f9dcfb8
+UID:1b88b195-0f70-4341-8d90-d11c03f90a55
 SEQUENCE:0
-DTSTAMP:20250615T102330
+DTSTAMP:20250615T104655
 DTSTART:20250816T153000
 DTEND:20250816T161500
 SUMMARY:🏀 U12 Girls: Solway Finches vs Glen Iris Scorpions Ferndale
@@ -75,26 +72,24 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a37c7a0d-77d0-4f3a-86fd-47d1882016f6
+UID:00146679-ab1d-486c-a174-4ca958599ac7
 SEQUENCE:0
-DTSTAMP:20250615T102330
+DTSTAMP:20250615T104655
 DTSTART:20250823T144500
 DTEND:20250823T153000
 SUMMARY:🏀 U12 Girls: Solway Finches vs Solway Bluebirds
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Bluebirds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f7b4c7b4-454e-4bea-8761-8d49f341f281
+UID:e63b3df8-8f94-416b-b653-1e62ce123f9f
 SEQUENCE:0
-DTSTAMP:20250615T102330
+DTSTAMP:20250615T104655
 DTSTART:20250830T140000
 DTEND:20250830T144500
 SUMMARY:🏀 U12 Girls: Solway Finches vs Malvern Tigers Taylor
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Taylor\nArrive 15 mins early for warm-up
 END:VEVENT

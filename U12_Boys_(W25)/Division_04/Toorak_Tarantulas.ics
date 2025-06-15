@@ -6,9 +6,9 @@ X-WR-CALNAME:Toorak Tarantulas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:6f324c19-ac57-4fe4-972e-f485d84b77bc
+UID:0d95129e-264c-4e9e-8066-e2df06e97625
 SEQUENCE:0
-DTSTAMP:20250615T102301
+DTSTAMP:20250615T104628
 DTSTART:20250621T144500
 DTEND:20250621T153000
 SUMMARY:🏀 U12 Boys: Toorak Tarantulas vs Solway Cubs
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Cubs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5eae9658-ff8a-4526-ae14-923428c1ac57
+UID:04710b3e-6358-4db0-9839-cbb73a330a4d
 SEQUENCE:0
-DTSTAMP:20250615T102301
+DTSTAMP:20250615T104628
 DTSTART:20250628T140000
 DTEND:20250628T144500
 SUMMARY:🏀 U12 Boys: Toorak Tarantulas vs Malvern Tigers White
@@ -28,21 +28,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f41d0c65-a301-4bc2-b6ed-d4138a869ca7
+UID:21fe89ae-0055-432d-98d7-5a1bdddbd740
 SEQUENCE:0
-DTSTAMP:20250615T102301
+DTSTAMP:20250615T104628
 DTSTART:20250726T140000
 DTEND:20250726T144500
 SUMMARY:🏀 U12 Boys: Toorak Tarantulas vs Timberwolves Colts
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Colts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:808c195e-7f12-411c-aa93-9b29472d828d
+UID:ee622108-620f-48aa-ac97-9b06b3774923
 SEQUENCE:0
-DTSTAMP:20250615T102301
+DTSTAMP:20250615T104628
 DTSTART:20250802T144500
 DTEND:20250802T153000
 SUMMARY:🏀 U12 Boys: Toorak Tarantulas vs Maccabi Celtics
@@ -51,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cc68e296-1f1e-4dfc-998e-2a9524049cfb
+UID:0cebf588-1728-4a4a-a0a2-cec9a3779a6a
 SEQUENCE:0
-DTSTAMP:20250615T102301
+DTSTAMP:20250615T104628
 DTSTART:20250809T140000
 DTEND:20250809T144500
 SUMMARY:🏀 U12 Boys: Toorak Tarantulas vs AlphaWolf Legends
@@ -62,33 +61,31 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: AlphaWo
  lf Legends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:75dbbc11-e789-4c71-8e60-ab027fb3ad09
+UID:0d24aa24-9af5-4fdb-9eb5-cab36575bf0c
 SEQUENCE:0
-DTSTAMP:20250615T102301
+DTSTAMP:20250615T104628
 DTSTART:20250816T140000
 DTEND:20250816T144500
 SUMMARY:🏀 U12 Boys: Toorak Tarantulas vs Solway Cubs
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Cubs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c0215fe7-7495-4fc1-9d38-d869d78ac29f
+UID:12484149-de0b-449c-b887-70e84cea4d10
 SEQUENCE:0
-DTSTAMP:20250615T102301
+DTSTAMP:20250615T104628
 DTSTART:20250823T140000
 DTEND:20250823T144500
 SUMMARY:🏀 U12 Boys: Toorak Tarantulas vs Malvern Tigers White
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d1cbaa5c-0cfd-4da3-9951-71824a2bc2ce
+UID:2798a189-cca6-4d43-9bf6-4b2eaf9a4fee
 SEQUENCE:0
-DTSTAMP:20250615T102301
+DTSTAMP:20250615T104628
 DTSTART:20250830T144500
 DTEND:20250830T153000
 SUMMARY:🏀 U12 Boys: Toorak Tarantulas vs Timberwolves Colts

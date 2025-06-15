@@ -6,9 +6,9 @@ X-WR-CALNAME:Ranfurlie Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:66b09ac2-ad43-4426-a92c-23c9c8f304c1
+UID:c03a1a56-de11-4b40-b080-faace9c512be
 SEQUENCE:0
-DTSTAMP:20250615T102428
+DTSTAMP:20250615T104746
 DTSTART:20250621T144500
 DTEND:20250621T153000
 SUMMARY:🏀 U14 Girls: Ranfurlie Piranhas vs Malvern Tigers Burton
@@ -17,33 +17,31 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Burton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:88fbc51e-7949-4d48-afcd-f31977a4420f
+UID:ec5a1dc3-7f63-43f0-942a-652ecaefc730
 SEQUENCE:0
-DTSTAMP:20250615T102428
+DTSTAMP:20250615T104746
 DTSTART:20250628T131500
 DTEND:20250628T140000
 SUMMARY:🏀 U14 Girls: Ranfurlie Piranhas vs Arax
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:22c5022e-dfc9-4338-8dd0-286e05dcc21d
+UID:485ecf85-5bd9-4dcc-b7eb-b69fc417f2b3
 SEQUENCE:0
-DTSTAMP:20250615T102428
+DTSTAMP:20250615T104746
 DTSTART:20250726T153000
 DTEND:20250726T161500
 SUMMARY:🏀 U14 Girls: Ranfurlie Piranhas vs Ashy Lightning Yellow
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
  ightning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c86db415-2060-40fe-8b7d-6720a9d7ce76
+UID:cd5bedc0-eba4-4131-8dd1-20d175592942
 SEQUENCE:0
-DTSTAMP:20250615T102428
+DTSTAMP:20250615T104746
 DTSTART:20250802T144500
 DTEND:20250802T153000
 SUMMARY:🏀 U14 Girls: Ranfurlie Piranhas vs Solway Emeralds
@@ -52,33 +50,31 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Emeralds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3c96629b-08aa-4e04-87c2-1491fac8ccae
+UID:0d4106de-73b7-4fb4-b5d1-06bdb4f0aee4
 SEQUENCE:0
-DTSTAMP:20250615T102428
+DTSTAMP:20250615T104746
 DTSTART:20250809T161500
 DTEND:20250809T170000
 SUMMARY:🏀 U14 Girls: Ranfurlie Piranhas vs Maccabi Bucks
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
  i Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cdb1d467-7476-4d2d-a5b1-e0b78e97462e
+UID:5cabbdc8-1401-4ee0-8efe-3fb0f61a4a8f
 SEQUENCE:0
-DTSTAMP:20250615T102428
+DTSTAMP:20250615T104746
 DTSTART:20250816T161500
 DTEND:20250816T170000
 SUMMARY:🏀 U14 Girls: Ranfurlie Piranhas vs McArthur Park Piranhas
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: McArth
  ur Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1d9672eb-ae26-4bf8-aad4-c6c409a3e7d9
+UID:655369b9-ac4c-4b87-a969-79f92328ad13
 SEQUENCE:0
-DTSTAMP:20250615T102428
+DTSTAMP:20250615T104746
 DTSTART:20250823T144500
 DTEND:20250823T153000
 SUMMARY:🏀 U14 Girls: Ranfurlie Piranhas vs Korowa Cherry
@@ -87,14 +83,13 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Korowa
  Cherry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:661a2db1-8a49-4012-a361-a6422b015181
+UID:caf3357a-0896-4182-b462-dde78e5e018a
 SEQUENCE:0
-DTSTAMP:20250615T102428
+DTSTAMP:20250615T104746
 DTSTART:20250830T153000
 DTEND:20250830T161500
 SUMMARY:🏀 U14 Girls: Ranfurlie Piranhas vs Malvern Tigers Burton
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Burton\nArrive 15 mins early for warm-up
 END:VEVENT

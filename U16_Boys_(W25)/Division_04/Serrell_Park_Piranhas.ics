@@ -6,9 +6,9 @@ X-WR-CALNAME:Serrell Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b912fc32-5326-438e-9bb6-34364775f8f0
+UID:2d953f72-236f-417a-9aa0-1ef12b0fa6c5
 SEQUENCE:0
-DTSTAMP:20250615T102445
+DTSTAMP:20250615T104801
 DTSTART:20250621T183000
 DTEND:20250621T191500
 SUMMARY:🏀 U16 Boys: Serrell Park Piranhas vs Solway Super Sonics
@@ -17,33 +17,31 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Super Sonics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f39f01d7-ea61-45f1-834f-635609b1d171
+UID:440783f1-9742-4f34-afe1-49e0eb31e69a
 SEQUENCE:0
-DTSTAMP:20250615T102445
+DTSTAMP:20250615T104801
 DTSTART:20250628T183000
 DTEND:20250628T191500
 SUMMARY:🏀 U16 Boys: Serrell Park Piranhas vs Timberwolves Boulders
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Boulders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a17860db-38b6-4fed-be50-b2b21fa47a9c
+UID:c90c8f70-dd02-414c-af27-90ced5da09fb
 SEQUENCE:0
-DTSTAMP:20250615T102445
+DTSTAMP:20250615T104801
 DTSTART:20250726T183000
 DTEND:20250726T191500
 SUMMARY:🏀 U16 Boys: Serrell Park Piranhas vs Toorak Terminators
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Terminators\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6cb34efb-9c40-4297-94a4-063ddaf1adba
+UID:72029aa9-d00d-4b17-84f4-20ca24033b48
 SEQUENCE:0
-DTSTAMP:20250615T102445
+DTSTAMP:20250615T104801
 DTSTART:20250802T191500
 DTEND:20250802T200000
 SUMMARY:🏀 U16 Boys: Serrell Park Piranhas vs Timberwolves Magnum
@@ -52,21 +50,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Magnum\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:aac01538-f591-4bc5-95fb-e0803eea17d6
+UID:8f1c2739-3d73-48ac-82e2-49cbec014fa7
 SEQUENCE:0
-DTSTAMP:20250615T102445
+DTSTAMP:20250615T104801
 DTSTART:20250809T183000
 DTEND:20250809T191500
 SUMMARY:🏀 U16 Boys: Serrell Park Piranhas vs Ripponlea Piranhas
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Rippon
  lea Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2199b515-1fdb-40ec-832e-1fe4b32da382
+UID:7a6e5531-b870-4eb7-8346-5567dec7e151
 SEQUENCE:0
-DTSTAMP:20250615T102445
+DTSTAMP:20250615T104801
 DTSTART:20250816T191500
 DTEND:20250816T200000
 SUMMARY:🏀 U16 Boys: Serrell Park Piranhas vs Toorak Tornadoes
@@ -75,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak
  Tornadoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:70fcb9ee-447f-4514-b12d-bbe94725f13b
+UID:72dea73b-10da-48a1-8dc3-9473fb4f32e8
 SEQUENCE:0
-DTSTAMP:20250615T102445
+DTSTAMP:20250615T104801
 DTSTART:20250823T191500
 DTEND:20250823T200000
 SUMMARY:🏀 U16 Boys: Serrell Park Piranhas vs Maccabi Warriors
@@ -86,14 +83,13 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b96d73f1-d7b0-4c0b-8623-bbce9c1bd330
+UID:1978d338-8624-4ed3-95ab-e30a4a1c06c0
 SEQUENCE:0
-DTSTAMP:20250615T102445
+DTSTAMP:20250615T104801
 DTSTART:20250830T183000
 DTEND:20250830T191500
 SUMMARY:🏀 U16 Boys: Serrell Park Piranhas vs Solway Super Sonics
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Super Sonics\nArrive 15 mins early for warm-up
 END:VEVENT

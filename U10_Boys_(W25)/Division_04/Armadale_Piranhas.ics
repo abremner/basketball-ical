@@ -6,9 +6,9 @@ X-WR-CALNAME:Armadale Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9d5d3efd-d0db-4275-8492-fb6e0e05e677
+UID:827b47cf-d3fe-4b25-8ea4-ddd59b1f7c48
 SEQUENCE:0
-DTSTAMP:20250615T102209
+DTSTAMP:20250615T104544
 DTSTART:20250621T110000
 DTEND:20250621T114500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Maccabi Celtics
@@ -17,33 +17,31 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ee4a9caf-83db-44c4-9bb9-35a5663dda67
+UID:5db34cf4-5fd7-4c40-a5b1-c3dc38738f21
 SEQUENCE:0
-DTSTAMP:20250615T102209
+DTSTAMP:20250615T104544
 DTSTART:20250628T093000
 DTEND:20250628T101500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Toorak Tigersharks
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
   Tigersharks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6738dcee-3c88-4c7d-9808-857ba5df441a
+UID:c1fc5117-7998-4b17-af2d-f9dbfaa26f1f
 SEQUENCE:0
-DTSTAMP:20250615T102209
+DTSTAMP:20250615T104544
 DTSTART:20250726T110000
 DTEND:20250726T114500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Solway Lakers
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Lakers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e5859f59-45f2-41c6-ade3-35d3f373aee4
+UID:2e6986fa-80cd-4451-8269-b754b91fa5b5
 SEQUENCE:0
-DTSTAMP:20250615T102209
+DTSTAMP:20250615T104544
 DTSTART:20250802T110000
 DTEND:20250802T114500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Ashy Lightning Green
@@ -52,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:870cee05-9d6c-4d43-ac9c-35570427d7a1
+UID:c34baec1-fcc9-4d9d-a86f-93d7da5f0eb3
 SEQUENCE:0
-DTSTAMP:20250615T102209
+DTSTAMP:20250615T104544
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Dendy Park Piranhas
@@ -63,26 +61,24 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Dendy P
  ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:db96fa8d-c00b-4536-94a8-4fa740cd9915
+UID:978d646b-08af-4753-a68b-47b0a571069c
 SEQUENCE:0
-DTSTAMP:20250615T102209
+DTSTAMP:20250615T104544
 DTSTART:20250816T110000
 DTEND:20250816T114500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Malvern Tigers Green
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5126d16f-b00e-40e9-aa1f-636122a3be5b
+UID:96209ad1-56ba-4832-b20b-b624fafd526c
 SEQUENCE:0
-DTSTAMP:20250615T102209
+DTSTAMP:20250615T104544
 DTSTART:20250823T093000
 DTEND:20250823T101500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Malvern Tigers Orange
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Orange\nArrive 15 mins early for warm-up
 END:VEVENT

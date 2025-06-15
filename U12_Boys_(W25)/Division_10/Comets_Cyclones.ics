@@ -6,9 +6,9 @@ X-WR-CALNAME:Comets Cyclones Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:52c67e9f-2135-4c8e-ab9a-3c00eae491c2
+UID:59c59e4e-2e99-4b73-98d8-aa1cbdee9aa5
 SEQUENCE:0
-DTSTAMP:20250615T102316
+DTSTAMP:20250615T104642
 DTSTART:20250621T131500
 DTEND:20250621T140000
 SUMMARY:🏀 U12 Boys: Comets Cyclones vs Stonnington Piranhas
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Stonnin
  gton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:edce30ed-c09a-4868-9c19-78a410e2617d
+UID:e8b7ee8f-69eb-4c2a-9c22-2ef31d94d173
 SEQUENCE:0
-DTSTAMP:20250615T102316
+DTSTAMP:20250615T104642
 DTSTART:20250628T123000
 DTEND:20250628T131500
 SUMMARY:🏀 U12 Boys: Comets Cyclones vs Toorak Trouble
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak
  Trouble\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:719a5c81-debf-40ba-8b41-92659721d8b2
+UID:abb926b2-2424-47b6-840e-0814d0af3407
 SEQUENCE:0
-DTSTAMP:20250615T102316
+DTSTAMP:20250615T104642
 DTSTART:20250726T131500
 DTEND:20250726T140000
 SUMMARY:🏀 U12 Boys: Comets Cyclones vs Malvern Tigers Grey
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c9d81b5a-3c7e-4044-95f1-f4e74fef30f3
+UID:cb065ca2-d419-4a86-8365-35e7d52fbae1
 SEQUENCE:0
-DTSTAMP:20250615T102316
+DTSTAMP:20250615T104642
 DTSTART:20250809T123000
 DTEND:20250809T131500
 SUMMARY:🏀 U12 Boys: Comets Cyclones vs Solway Panthers
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Panthers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4e179685-e388-4425-8e23-3325fdb1c678
+UID:9a6ca7a8-23dd-44e7-a3d2-21063117398c
 SEQUENCE:0
-DTSTAMP:20250615T102316
+DTSTAMP:20250615T104642
 DTSTART:20250816T123000
 DTEND:20250816T131500
 SUMMARY:🏀 U12 Boys: Comets Cyclones vs Comets Tigers
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Comets
  Tigers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a294aefa-ebcd-40a1-8f4b-3a1196b9275b
+UID:dfe89aed-9501-4c5e-a2bc-7a1381f910e2
 SEQUENCE:0
-DTSTAMP:20250615T102316
+DTSTAMP:20250615T104642
 DTSTART:20250823T123000
 DTEND:20250823T131500
 SUMMARY:🏀 U12 Boys: Comets Cyclones vs Toorak Thunder
@@ -72,14 +72,13 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak
  Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0779105f-ab31-4a66-a9be-3f18e4faca1a
+UID:5b88316b-e644-4c73-976a-d45f48383bec
 SEQUENCE:0
-DTSTAMP:20250615T102316
+DTSTAMP:20250615T104642
 DTSTART:20250830T114500
 DTEND:20250830T123000
 SUMMARY:🏀 U12 Boys: Comets Cyclones vs Stonnington Piranhas
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Stonni
  ngton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT

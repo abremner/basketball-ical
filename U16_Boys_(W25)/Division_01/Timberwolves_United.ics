@@ -6,9 +6,9 @@ X-WR-CALNAME:Timberwolves United Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e563b565-8e49-466f-ba26-4a2d3e57efc0
+UID:4dc9ebb0-ac11-4cbf-8271-c7aed2cf5462
 SEQUENCE:0
-DTSTAMP:20250615T102437
+DTSTAMP:20250615T104754
 DTSTART:20250621T200000
 DTEND:20250621T204500
 SUMMARY:🏀 U16 Boys: Timberwolves United vs Timberwolves Hustlers
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Hustlers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e6f896d7-6859-4f13-9d10-6a0c74fd3ad0
+UID:ba9cdb09-3e9a-434f-91a8-bec0f1554a06
 SEQUENCE:0
-DTSTAMP:20250615T102437
+DTSTAMP:20250615T104754
 DTSTART:20250628T200000
 DTEND:20250628T204500
 SUMMARY:🏀 U16 Boys: Timberwolves United vs Solway Rockets
@@ -28,62 +28,57 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Rockets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b9e63cbd-5fa8-4ff8-aa93-53cb20f200dd
+UID:8938aa11-bb44-422f-a8aa-cf555ae9e581
 SEQUENCE:0
-DTSTAMP:20250615T102437
+DTSTAMP:20250615T104754
 DTSTART:20250726T191500
 DTEND:20250726T200000
 SUMMARY:🏀 U16 Boys: Timberwolves United vs Toorak Tropics
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
   Tropics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9b07e60d-e596-4b17-a94b-7f2dd42d86d2
+UID:0cb9fde5-c0dc-461a-9721-fe7f075654cb
 SEQUENCE:0
-DTSTAMP:20250615T102437
+DTSTAMP:20250615T104754
 DTSTART:20250802T183000
 DTEND:20250802T191500
 SUMMARY:🏀 U16 Boys: Timberwolves United vs Bayside Piranhas
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Baysid
  e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a32ca12e-c88f-423d-a1a9-5e558274f3cd
+UID:5127bf05-55d4-4d12-abf9-f960e73a2a67
 SEQUENCE:0
-DTSTAMP:20250615T102437
+DTSTAMP:20250615T104754
 DTSTART:20250809T191500
 DTEND:20250809T200000
 SUMMARY:🏀 U16 Boys: Timberwolves United vs Malvern Tigers Black
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:25de4d1e-84ed-4115-966f-248ff07c2d47
+UID:da4980f2-122f-4429-aa46-646485617a60
 SEQUENCE:0
-DTSTAMP:20250615T102437
+DTSTAMP:20250615T104754
 DTSTART:20250816T191500
 DTEND:20250816T200000
 SUMMARY:🏀 U16 Boys: Timberwolves United vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4d76034f-a9d7-4547-a1c7-48272116bb22
+UID:14628c3e-ae9a-4596-8434-60a731888602
 SEQUENCE:0
-DTSTAMP:20250615T102437
+DTSTAMP:20250615T104754
 DTSTART:20250830T183000
 DTEND:20250830T191500
 SUMMARY:🏀 U16 Boys: Timberwolves United vs Timberwolves Hustlers
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Hustlers\nArrive 15 mins early for warm-up
 END:VEVENT

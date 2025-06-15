@@ -6,9 +6,9 @@ X-WR-CALNAME:AlphaWolf Lakers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:de517e21-664d-4ec1-834d-ad5b2eab2d18
+UID:c18b2e18-1fa1-4693-9f3c-20902fc2d849
 SEQUENCE:0
-DTSTAMP:20250615T102307
+DTSTAMP:20250615T104633
 DTSTART:20250628T131500
 DTEND:20250628T140000
 SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs Malvern Tigers  Brown
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers  Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3b67ab00-ee71-4574-a80e-9ca46a8993f4
+UID:2e58f402-f21d-46f5-af7d-76049b9cb0e5
 SEQUENCE:0
-DTSTAMP:20250615T102307
+DTSTAMP:20250615T104633
 DTSTART:20250726T131500
 DTEND:20250726T140000
 SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs Maccabi Eagles
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:144a1743-4704-4fe5-8660-0e2f2a2a473b
+UID:d74a579c-e0d6-4053-b267-90d21aaf1d13
 SEQUENCE:0
-DTSTAMP:20250615T102307
+DTSTAMP:20250615T104633
 DTSTART:20250802T123000
 DTEND:20250802T131500
 SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs Beckett Park Piranhas
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Beckett
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:58825849-4ab4-42ba-9a26-31bb159232bd
+UID:a2686786-7df2-4327-9fe4-3b70f95855f0
 SEQUENCE:0
-DTSTAMP:20250615T102307
+DTSTAMP:20250615T104633
 DTSTART:20250809T123000
 DTEND:20250809T131500
 SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs Malvern Tigers Blue
@@ -50,21 +50,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f0268b5f-0cc3-471d-bdf6-f2f4e7674930
+UID:3cc108ea-a35c-45c2-92f9-0cabf301e358
 SEQUENCE:0
-DTSTAMP:20250615T102307
+DTSTAMP:20250615T104633
 DTSTART:20250816T114500
 DTEND:20250816T123000
 SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs AlphaWolf Spartans
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AlphaW
  olf Spartans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:de9a17db-d0ea-4361-9e64-3c369531aecc
+UID:3d265b17-8dde-47cb-9475-e74cfda608ff
 SEQUENCE:0
-DTSTAMP:20250615T102307
+DTSTAMP:20250615T104633
 DTSTART:20250823T123000
 DTEND:20250823T131500
 SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs Central Park Piranhas

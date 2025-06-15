@@ -6,21 +6,20 @@ X-WR-CALNAME:Malvern Tigers Green Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:40b2dc73-0704-4726-ae89-464ef8a02293
+UID:52ada552-6ab2-413b-b122-92624f7523c4
 SEQUENCE:0
-DTSTAMP:20250615T102402
+DTSTAMP:20250615T104723
 DTSTART:20250621T153000
 DTEND:20250621T161500
 SUMMARY:🏀 U14 Boys: Malvern Tigers Green vs Toorak Tomcats
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
   Tomcats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:30e70a98-1c9b-4c29-983b-3643d0939e76
+UID:7bd923e5-b2b5-4989-94c1-4f2ebabf826a
 SEQUENCE:0
-DTSTAMP:20250615T102402
+DTSTAMP:20250615T104723
 DTSTART:20250628T161500
 DTEND:20250628T170000
 SUMMARY:🏀 U14 Boys: Malvern Tigers Green vs Glen Iris Scorpions Raven
@@ -29,45 +28,42 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
  is Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c965dfa3-2741-4d42-828b-30690ecce6ec
+UID:e031cf97-16af-49fd-af42-8d3b8ac05ebf
 SEQUENCE:0
-DTSTAMP:20250615T102402
+DTSTAMP:20250615T104723
 DTSTART:20250726T161500
 DTEND:20250726T170000
 SUMMARY:🏀 U14 Boys: Malvern Tigers Green vs AlphaWolf Force
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: AlphaW
  olf Force\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4c1c919f-8db3-4fef-8e04-7fb2edd73f36
+UID:0d09f481-4930-43b7-b416-0dd0f8bd12ba
 SEQUENCE:0
-DTSTAMP:20250615T102402
+DTSTAMP:20250615T104723
 DTSTART:20250802T140000
 DTEND:20250802T144500
 SUMMARY:🏀 U14 Boys: Malvern Tigers Green vs Comets Lightning
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
   Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:31865c26-6d0d-4611-aec0-1bf42ee54e91
+UID:269b804d-8b9a-40b3-a984-54ef642bc9c1
 SEQUENCE:0
-DTSTAMP:20250615T102402
+DTSTAMP:20250615T104723
 DTSTART:20250809T161500
 DTEND:20250809T170000
 SUMMARY:🏀 U14 Boys: Malvern Tigers Green vs Maccabi Celtics
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:66d85237-84a0-4f4f-aa5e-0e59b525b6d3
+UID:705be5a8-81f3-45d3-a6c5-c93050f6e367
 SEQUENCE:0
-DTSTAMP:20250615T102402
+DTSTAMP:20250615T104723
 DTSTART:20250816T161500
 DTEND:20250816T170000
 SUMMARY:🏀 U14 Boys: Malvern Tigers Green vs Solway Warriors
@@ -76,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:21b2a1a1-7828-4a92-b392-992e19a830fa
+UID:9226d92b-dd38-4ea3-a141-d08d36c1dace
 SEQUENCE:0
-DTSTAMP:20250615T102402
+DTSTAMP:20250615T104723
 DTSTART:20250823T161500
 DTEND:20250823T170000
 SUMMARY:🏀 U14 Boys: Malvern Tigers Green vs Timberwolves Dragons
@@ -87,14 +83,13 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Dragons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ef229c7b-c42f-414a-b983-cdf44c6cc0d0
+UID:d7796231-4f1b-4e87-baad-fdb6868966ea
 SEQUENCE:0
-DTSTAMP:20250615T102402
+DTSTAMP:20250615T104723
 DTSTART:20250830T140000
 DTEND:20250830T144500
 SUMMARY:🏀 U14 Boys: Malvern Tigers Green vs Toorak Tomcats
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
   Tomcats\nArrive 15 mins early for warm-up
 END:VEVENT

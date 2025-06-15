@@ -6,21 +6,20 @@ X-WR-CALNAME:AlphaWolf Legends Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:a92b979b-87ad-4cc5-bcc3-a8616b81dc85
+UID:4f13e32d-8ec8-40b0-9090-1ad432bb2d3a
 SEQUENCE:0
-DTSTAMP:20250615T102259
+DTSTAMP:20250615T104626
 DTSTART:20250621T140000
 DTEND:20250621T144500
 SUMMARY:🏀 U12 Boys: AlphaWolf Legends vs Timberwolves Colts
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Colts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:19bc0c69-04ed-4bb5-9437-66be81158709
+UID:5dad5c03-bd3b-4a7f-bd40-d9e1bed12290
 SEQUENCE:0
-DTSTAMP:20250615T102259
+DTSTAMP:20250615T104626
 DTSTART:20250628T144500
 DTEND:20250628T153000
 SUMMARY:🏀 U12 Boys: AlphaWolf Legends vs Solway Cubs
@@ -29,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Cubs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:af3778bc-6395-475b-8f36-149794876887
+UID:7c25184c-7901-4086-9345-a0fadb60c1d1
 SEQUENCE:0
-DTSTAMP:20250615T102259
+DTSTAMP:20250615T104626
 DTSTART:20250726T144500
 DTEND:20250726T153000
 SUMMARY:🏀 U12 Boys: AlphaWolf Legends vs Maccabi Celtics
@@ -40,21 +39,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:27a3ae15-9e0a-466d-b5e3-ecdf60ca011f
+UID:27493e59-2ef3-4170-92b1-8f7e9a31b524
 SEQUENCE:0
-DTSTAMP:20250615T102259
+DTSTAMP:20250615T104626
 DTSTART:20250802T140000
 DTEND:20250802T144500
 SUMMARY:🏀 U12 Boys: AlphaWolf Legends vs Malvern Tigers White
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9d8c0ca1-b31f-42e7-b294-e60324e0612e
+UID:0cc7a8de-be27-4aae-9f8a-ef62c96d5467
 SEQUENCE:0
-DTSTAMP:20250615T102259
+DTSTAMP:20250615T104626
 DTSTART:20250809T140000
 DTEND:20250809T144500
 SUMMARY:🏀 U12 Boys: AlphaWolf Legends vs Toorak Tarantulas
@@ -63,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak
  Tarantulas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8ccae0a8-3b23-46d5-a322-a37a21693cff
+UID:2bf73733-0a74-48fb-a8e2-9b1ce1d56cfb
 SEQUENCE:0
-DTSTAMP:20250615T102259
+DTSTAMP:20250615T104626
 DTSTART:20250816T140000
 DTEND:20250816T144500
 SUMMARY:🏀 U12 Boys: AlphaWolf Legends vs Timberwolves Colts
@@ -74,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
  olves Colts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:88ec4971-a525-467b-81fb-f0a3ee0b9ac8
+UID:09bb3df1-ea26-445f-b561-bb2b21d61348
 SEQUENCE:0
-DTSTAMP:20250615T102259
+DTSTAMP:20250615T104626
 DTSTART:20250823T144500
 DTEND:20250823T153000
 SUMMARY:🏀 U12 Boys: AlphaWolf Legends vs Solway Cubs
@@ -85,14 +83,13 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Cubs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2f50b725-58aa-4ed0-a600-c74ecaa39f41
+UID:bd88beef-69a0-4d25-a30e-9be77a8a13a5
 SEQUENCE:0
-DTSTAMP:20250615T102259
+DTSTAMP:20250615T104626
 DTSTART:20250830T140000
 DTEND:20250830T144500
 SUMMARY:🏀 U12 Boys: AlphaWolf Legends vs Maccabi Celtics
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT

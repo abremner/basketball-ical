@@ -6,21 +6,20 @@ X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9aa34317-fda7-49c9-a7eb-34a45d39fb99
+UID:2e0428b5-090a-49d9-ba7c-0eafda9a582a
 SEQUENCE:0
-DTSTAMP:20250615T102257
+DTSTAMP:20250615T104624
 DTSTART:20250621T144500
 DTEND:20250621T153000
 SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Golden Hawks Sky
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Golden
   Hawks Sky\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:96c63e1c-3c92-4500-9707-eb7c6a1a8779
+UID:15989723-f787-42a1-b043-645445bb496b
 SEQUENCE:0
-DTSTAMP:20250615T102257
+DTSTAMP:20250615T104624
 DTSTART:20250628T140000
 DTEND:20250628T144500
 SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Malvern Tigers Yellow
@@ -29,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6d3a6541-5400-4992-8337-325b44850729
+UID:9660c0f3-c356-4125-a657-0ad4a9e25655
 SEQUENCE:0
-DTSTAMP:20250615T102257
+DTSTAMP:20250615T104624
 DTSTART:20250726T140000
 DTEND:20250726T144500
 SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Windsor Piranhas
@@ -40,33 +39,31 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Windsor
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:59d89c5d-9f1a-4661-9b35-a3c34df9a767
+UID:2161a85d-375e-469d-ac6b-52d106780212
 SEQUENCE:0
-DTSTAMP:20250615T102257
+DTSTAMP:20250615T104624
 DTSTART:20250809T144500
 DTEND:20250809T153000
 SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Yarra Park Piranhas
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Yarra 
  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:53bc43db-5e74-4e89-8765-d90384c70438
+UID:4ef0171d-b2ef-417a-af6f-3c4d046bb743
 SEQUENCE:0
-DTSTAMP:20250615T102257
+DTSTAMP:20250615T104624
 DTSTART:20250816T144500
 DTEND:20250816T153000
 SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Golden Hawks Sky
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Golden
   Hawks Sky\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ef05ce2a-d6f0-4ea7-8a9c-b2ead21fc8f1
+UID:7393a0da-9550-45d4-8ab8-f7880720cc9b
 SEQUENCE:0
-DTSTAMP:20250615T102257
+DTSTAMP:20250615T104624
 DTSTART:20250823T140000
 DTEND:20250823T144500
 SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Malvern Tigers Yellow
@@ -75,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:480b15c0-b9da-486f-abd8-4abf92ea4881
+UID:05b8b3b2-bfc7-4a02-88c0-314937c8f2ac
 SEQUENCE:0
-DTSTAMP:20250615T102257
+DTSTAMP:20250615T104624
 DTSTART:20250830T140000
 DTEND:20250830T144500
 SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Windsor Piranhas

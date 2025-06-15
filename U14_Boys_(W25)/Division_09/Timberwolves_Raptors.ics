@@ -6,33 +6,31 @@ X-WR-CALNAME:Timberwolves Raptors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2a8fe908-52f5-4037-ba61-3881501fab08
+UID:26c1dd48-6b57-4337-b2f7-7c2d23f9c6a6
 SEQUENCE:0
-DTSTAMP:20250615T102416
+DTSTAMP:20250615T104735
 DTSTART:20250621T153000
 DTEND:20250621T161500
 SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Golden Hawks Iron
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Golden
   Hawks Iron\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:51dd9582-548d-414b-b686-8dcb8fa03ffc
+UID:095ea73d-a455-4aa2-9f42-a08103b43729
 SEQUENCE:0
-DTSTAMP:20250615T102416
+DTSTAMP:20250615T104735
 DTSTART:20250628T161500
 DTEND:20250628T170000
 SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Maccabi Eagles
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d7a27fa9-4ab6-4e5f-b1a2-022b414c4530
+UID:fae7fed4-4b3f-4e3e-9215-69d154663b1d
 SEQUENCE:0
-DTSTAMP:20250615T102416
+DTSTAMP:20250615T104735
 DTSTART:20250726T144500
 DTEND:20250726T153000
 SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Malvern Tigers Maroon
@@ -41,9 +39,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Maroon\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b6787677-e508-47b0-a83a-8f4968e0186b
+UID:4b5c12d8-6d67-455b-8dbd-06af9e760285
 SEQUENCE:0
-DTSTAMP:20250615T102416
+DTSTAMP:20250615T104735
 DTSTART:20250802T153000
 DTEND:20250802T161500
 SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Maccabi Falcons
@@ -52,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:80389412-8afe-44a5-b71d-4536abb90768
+UID:ce17d1d9-b71b-49b1-a1af-c658aa4aa241
 SEQUENCE:0
-DTSTAMP:20250615T102416
+DTSTAMP:20250615T104735
 DTSTART:20250816T144500
 DTEND:20250816T153000
 SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs SouthEast Venom Heat
@@ -63,9 +61,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: SouthEast Venom Heat\nArrive
  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fbba8b82-5fd7-4d8a-9c93-2d823ef74eff
+UID:94fe2fa5-4480-4535-93fc-4a30ab7fc567
 SEQUENCE:0
-DTSTAMP:20250615T102416
+DTSTAMP:20250615T104735
 DTSTART:20250823T153000
 DTEND:20250823T161500
 SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Solway Spartans
@@ -74,14 +72,13 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
  Spartans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e7b28a9f-1b7a-4051-9c0f-4a62f19bc94c
+UID:e969335a-9ae1-4a94-af2f-2debdec7a698
 SEQUENCE:0
-DTSTAMP:20250615T102416
+DTSTAMP:20250615T104735
 DTSTART:20250830T153000
 DTEND:20250830T161500
 SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Maccabi Giants
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Giants\nArrive 15 mins early for warm-up
 END:VEVENT

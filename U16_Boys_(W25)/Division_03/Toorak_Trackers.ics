@@ -6,9 +6,9 @@ X-WR-CALNAME:Toorak Trackers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c6a64bf9-0125-417b-a6a1-0a4f6b7af953
+UID:00cad18d-275b-4453-8185-565227479d44
 SEQUENCE:0
-DTSTAMP:20250615T102444
+DTSTAMP:20250615T104800
 DTSTART:20250621T191500
 DTEND:20250621T200000
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Timberwolves Cats
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
  olves Cats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ac9cb4b4-49a6-4033-8712-2010999c61d8
+UID:e985345f-aa7b-4eee-aa10-8724004c11a6
 SEQUENCE:0
-DTSTAMP:20250615T102444
+DTSTAMP:20250615T104800
 DTSTART:20250628T191500
 DTEND:20250628T200000
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Glen Iris Scorpions Saints
@@ -28,74 +28,68 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
  is Scorpions Saints\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:23ce297a-98dd-49ff-bc6b-b691be0d5c1f
+UID:d46b5790-5d6f-4dc0-aca1-6114bbbc73fc
 SEQUENCE:0
-DTSTAMP:20250615T102444
+DTSTAMP:20250615T104800
 DTSTART:20250726T183000
 DTEND:20250726T191500
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Malvern Tigers Yellow
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:470b79ab-2c50-4a47-86a8-570be809315d
+UID:a49393f9-1ca2-499a-b885-6753802628f7
 SEQUENCE:0
-DTSTAMP:20250615T102444
+DTSTAMP:20250615T104800
 DTSTART:20250802T183000
 DTEND:20250802T191500
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Solway Blazers
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Blazers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8085392a-d50b-444b-b620-3399168fc4b0
+UID:370f7514-ead4-4e5b-ab59-c5e4aa7cfe35
 SEQUENCE:0
-DTSTAMP:20250615T102444
+DTSTAMP:20250615T104800
 DTSTART:20250809T183000
 DTEND:20250809T191500
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Solway Pistons
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Pistons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:58df3253-c54e-4591-94d5-6ab248869e2c
+UID:403b78ff-66c4-4e0c-8033-701b507afc48
 SEQUENCE:0
-DTSTAMP:20250615T102444
+DTSTAMP:20250615T104800
 DTSTART:20250816T191500
 DTEND:20250816T200000
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Timberwolves Taipans
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Taipans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:921bbe80-9df7-48a4-bc16-f87cf02d69f8
+UID:e1aba66b-c16a-478d-ba00-a647dc7d0ce7
 SEQUENCE:0
-DTSTAMP:20250615T102444
+DTSTAMP:20250615T104800
 DTSTART:20250823T183000
 DTEND:20250823T191500
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Solway Slammers
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Slammers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b5b4e6e4-97ce-439a-a655-3a745caba520
+UID:a8dc2c04-cc9f-48ce-87d2-e0ba7413a50a
 SEQUENCE:0
-DTSTAMP:20250615T102444
+DTSTAMP:20250615T104800
 DTSTART:20250830T183000
 DTEND:20250830T191500
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Timberwolves Cats
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Cats\nArrive 15 mins early for warm-up
 END:VEVENT

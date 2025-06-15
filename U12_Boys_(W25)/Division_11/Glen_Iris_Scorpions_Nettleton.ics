@@ -6,21 +6,20 @@ X-WR-CALNAME:Glen Iris Scorpions Nettleton Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:44707878-c52f-416c-baa9-8a7f6883354d
+UID:cf71a437-093b-4b8b-84a4-d5f74d18e7c2
 SEQUENCE:0
-DTSTAMP:20250615T102320
+DTSTAMP:20250615T104646
 DTSTART:20250621T123000
 DTEND:20250621T131500
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Nettleton vs Maccabi Jaguars
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Jaguars\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:75922505-95df-452a-a648-083f56a90571
+UID:ad04eba4-642a-4cb3-9d2c-ab253673e1d7
 SEQUENCE:0
-DTSTAMP:20250615T102320
+DTSTAMP:20250615T104646
 DTSTART:20250628T114500
 DTEND:20250628T123000
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Nettleton vs Ardrie Park Piranh
@@ -30,22 +29,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ardrie
  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4783b2f1-c03a-4e79-b8d9-7d5d50e3fe07
+UID:abc154bc-0c9a-452d-a339-176feec60446
 SEQUENCE:0
-DTSTAMP:20250615T102320
+DTSTAMP:20250615T104646
 DTSTART:20250726T123000
 DTEND:20250726T131500
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Nettleton vs Ashy Lightning Yel
  low
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
  ightning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f8ab82e7-5eee-4e53-a8f5-e3726adce40d
+UID:82f7dea1-3d7e-4b22-96cb-9553988a22ec
 SEQUENCE:0
-DTSTAMP:20250615T102320
+DTSTAMP:20250615T104646
 DTSTART:20250802T123000
 DTEND:20250802T131500
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Nettleton vs Timberwolves Cyclo
@@ -55,9 +53,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Cyclones\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1ecaca68-88dc-44c6-9623-76a89934d8fb
+UID:a4429c46-a3e8-49ca-bc63-3d079040bf4a
 SEQUENCE:0
-DTSTAMP:20250615T102320
+DTSTAMP:20250615T104646
 DTSTART:20250809T123000
 DTEND:20250809T131500
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Nettleton vs Maccabi Lakers
@@ -66,9 +64,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Lakers\nArrive 15 min
  s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0e76415d-84ca-4373-a234-daa74d02c561
+UID:d5c9ec54-5bf3-46b9-86ce-1acc7691e87c
 SEQUENCE:0
-DTSTAMP:20250615T102320
+DTSTAMP:20250615T104646
 DTSTART:20250816T114500
 DTEND:20250816T123000
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Nettleton vs Maccabi Hawks
@@ -77,27 +75,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Hawks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:528c6e4b-c6d4-4a0d-ba92-4b8366992cbe
+UID:b6b7eb4e-7d49-4d42-bbb6-db9e0a75072d
 SEQUENCE:0
-DTSTAMP:20250615T102320
+DTSTAMP:20250615T104646
 DTSTART:20250823T114500
 DTEND:20250823T123000
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Nettleton vs Glen Iris Scorpion
  s Raven
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
  ris Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7d6dcb08-e84c-4631-8249-18027c470bc0
+UID:48c4e6b3-dedc-454b-b209-11515613cace
 SEQUENCE:0
-DTSTAMP:20250615T102320
+DTSTAMP:20250615T104646
 DTSTART:20250830T114500
 DTEND:20250830T123000
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Nettleton vs Golden Hawks Blaze
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Golden
   Hawks Blaze\nArrive 15 mins early for warm-up
 END:VEVENT

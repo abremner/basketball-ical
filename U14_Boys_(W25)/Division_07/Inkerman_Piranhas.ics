@@ -6,9 +6,9 @@ X-WR-CALNAME:Inkerman Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:8a2fe420-7f16-41d0-9424-be79a4e0def2
+UID:b83b5919-bdf1-4c06-a4d9-a0c568337618
 SEQUENCE:0
-DTSTAMP:20250615T102407
+DTSTAMP:20250615T104728
 DTSTART:20250621T161500
 DTEND:20250621T170000
 SUMMARY:🏀 U14 Boys: Inkerman Piranhas vs Solway Gladiators
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
  Gladiators\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:197d0a67-f50d-4c29-98b6-50c4d3c6ef83
+UID:3101ae98-df36-48c9-b0bc-28111b91bc77
 SEQUENCE:0
-DTSTAMP:20250615T102407
+DTSTAMP:20250615T104728
 DTSTART:20250628T153000
 DTEND:20250628T161500
 SUMMARY:🏀 U14 Boys: Inkerman Piranhas vs Malvern Tigers Blue
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:95748024-9111-4d01-a0e7-388836d4bedd
+UID:07e3534e-3781-45c2-ac26-1d04935463e3
 SEQUENCE:0
-DTSTAMP:20250615T102407
+DTSTAMP:20250615T104728
 DTSTART:20250726T161500
 DTEND:20250726T170000
 SUMMARY:🏀 U14 Boys: Inkerman Piranhas vs Glen Iris Scorpions Summerhill
@@ -39,21 +39,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
  is Scorpions Summerhill\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e7e2222b-230b-46b0-a323-7d6c69a75e50
+UID:99924b6d-a586-4baf-830d-594a2b75a73b
 SEQUENCE:0
-DTSTAMP:20250615T102407
+DTSTAMP:20250615T104728
 DTSTART:20250802T153000
 DTEND:20250802T161500
 SUMMARY:🏀 U14 Boys: Inkerman Piranhas vs Solway Vikings
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Vikings\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2c418475-e7bf-4698-80da-a8e0ae914259
+UID:289340e2-2535-4c29-a9ec-e6b0cf5180db
 SEQUENCE:0
-DTSTAMP:20250615T102407
+DTSTAMP:20250615T104728
 DTSTART:20250809T153000
 DTEND:20250809T161500
 SUMMARY:🏀 U14 Boys: Inkerman Piranhas vs Maccabi Ducks
@@ -62,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:28a032b8-5986-4574-887d-79773f3aaec3
+UID:c1cc4ad2-f90f-43e8-98f4-13e97848eb0d
 SEQUENCE:0
-DTSTAMP:20250615T102407
+DTSTAMP:20250615T104728
 DTSTART:20250816T153000
 DTEND:20250816T161500
 SUMMARY:🏀 U14 Boys: Inkerman Piranhas vs Solway Gladiators
@@ -73,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Gladiators\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7df9299e-d46e-4429-a5e3-e409f61d2644
+UID:44203654-b967-4ecb-8d46-6bdf4c4e4596
 SEQUENCE:0
-DTSTAMP:20250615T102407
+DTSTAMP:20250615T104728
 DTSTART:20250823T161500
 DTEND:20250823T170000
 SUMMARY:🏀 U14 Boys: Inkerman Piranhas vs Malvern Tigers Blue
@@ -84,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:832f1ea6-1d80-472a-b616-723b27d58515
+UID:c7648644-ebc6-4db3-a7f2-f3f56aaba7ae
 SEQUENCE:0
-DTSTAMP:20250615T102407
+DTSTAMP:20250615T104728
 DTSTART:20250830T153000
 DTEND:20250830T161500
 SUMMARY:🏀 U14 Boys: Inkerman Piranhas vs Glen Iris Scorpions Summerhill

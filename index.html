@@ -856,7 +856,7 @@
       if (link) {
         navigator.clipboard.writeText(window.location.origin + '/' + link).then(() => {
           copyBtn.textContent = '✅ Copied!';
-          setTimeout(() => copyBtn.textContent = '📋 Copy Link', 2000);
+          setTimeout(() => copyBtn.textContent = '📋 Copy Calendar Link', 2000);
         });
       }
     });

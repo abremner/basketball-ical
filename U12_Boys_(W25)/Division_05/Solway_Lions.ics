@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Lions Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:38b36948-df4b-4027-8d2b-8dd2d522b341
+UID:3a7543fe-9b98-4327-8c7c-a1648572879d
 SEQUENCE:0
-DTSTAMP:20250615T102303
+DTSTAMP:20250615T104629
 DTSTART:20250621T144500
 DTEND:20250621T153000
 SUMMARY:🏀 U12 Boys: Solway Lions vs Alma Park Piranhas
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Alma Pa
  rk Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:345756a6-bd32-4166-a9f2-2044a352a5d6
+UID:72bf0b8d-8ec5-4e02-9e57-bdcb756e6ade
 SEQUENCE:0
-DTSTAMP:20250615T102303
+DTSTAMP:20250615T104629
 DTSTART:20250628T144500
 DTEND:20250628T153000
 SUMMARY:🏀 U12 Boys: Solway Lions vs Toorak Tigersnakes
@@ -28,21 +28,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak
  Tigersnakes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:41f41e36-c0ff-4529-9a28-8d8d9651e7f7
+UID:538188cb-c09b-4d69-924e-8f699b021b77
 SEQUENCE:0
-DTSTAMP:20250615T102303
+DTSTAMP:20250615T104629
 DTSTART:20250726T131500
 DTEND:20250726T140000
 SUMMARY:🏀 U12 Boys: Solway Lions vs Timberwolves Heat
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Heat\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f5a4a26e-1aa8-4381-8cd8-f6c8377bfab0
+UID:92cdab69-ef8e-45a0-8023-bb73dfb18e71
 SEQUENCE:0
-DTSTAMP:20250615T102303
+DTSTAMP:20250615T104629
 DTSTART:20250802T144500
 DTEND:20250802T153000
 SUMMARY:🏀 U12 Boys: Solway Lions vs Malvern Tigers Green
@@ -51,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:905b58df-26ab-4aaa-9141-056e79aa959f
+UID:a2d8d488-4e7e-4d84-b4e1-9f33e78b6df6
 SEQUENCE:0
-DTSTAMP:20250615T102303
+DTSTAMP:20250615T104629
 DTSTART:20250809T144500
 DTEND:20250809T153000
 SUMMARY:🏀 U12 Boys: Solway Lions vs Toorak Torchers
@@ -62,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak
  Torchers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:81ccf535-081a-49b4-a868-35abc6be5ace
+UID:c7edb4c8-f082-44f8-a1b5-de77cad572c0
 SEQUENCE:0
-DTSTAMP:20250615T102303
+DTSTAMP:20250615T104629
 DTSTART:20250816T140000
 DTEND:20250816T144500
 SUMMARY:🏀 U12 Boys: Solway Lions vs Alma Park Piranhas
@@ -73,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Alma Pa
  rk Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cc8ecc85-9e05-4ae3-9082-19a4fdb574ed
+UID:885b3889-a75b-42d8-b4f3-621a6419bf59
 SEQUENCE:0
-DTSTAMP:20250615T102303
+DTSTAMP:20250615T104629
 DTSTART:20250823T140000
 DTEND:20250823T144500
 SUMMARY:🏀 U12 Boys: Solway Lions vs Toorak Tigersnakes
@@ -84,14 +83,13 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak
  Tigersnakes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:449ae782-bfdd-4473-977f-3c85c0111988
+UID:cd5593c4-4ac3-4ad3-83bf-b2a7d7a12621
 SEQUENCE:0
-DTSTAMP:20250615T102303
+DTSTAMP:20250615T104629
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U12 Boys: Solway Lions vs Timberwolves Heat
-LOCATION:Waverley Basketball Stadium
-GEO:-37.8769973;145.0992765
+LOCATION:Waverley Basketball Stadium\n98 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Heat\nArrive 15 mins early for warm-up
 END:VEVENT
