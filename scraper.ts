@@ -28,12 +28,12 @@ interface FixtureMeta {
   team: string;
 }
 
-const venueLookup: Record<string, { name: string; lat: number; lon: number, address: string }> = {
-  WAV: { name: 'Waverley Basketball Stadium', lat: -37.8766559, lon: 145.0995998, address: 'Corner Batesford Road &, Power Ave, Chadstone VIC 3148' },
-  LGS: { name: 'Lauriston Girls School', lat: -37.8516419, lon: 145.0255673, address: '38 Huntingtower Rd, Armadale VIC 3143' },
-  OCR: { name: 'Oakleigh Recreation Centre', lat: -37.893203653527316, lon: 145.09685068095854, address: '2A Park Rd, Oakleigh VIC 3166' },
-  ORR: { name: 'Orrong-Romanis Recreation Centre', lat: -37.8497179, lon: 145.0074251, address: '2 Molesworth St, Prahran VIC 3181' },
-  APS: { name: 'Ashburton Primary School', lat: -37.86247815557414, lon: 145.08443949822575, address: '10A Fakenham Rd, Ashburton VIC 3147' },
+const venueLookup: Record<string, { name: string; address: string }> = {
+  WAV: { name: 'Waverley Basketball Stadium', address: '98 Batesford Rd, Chadstone VIC 3148' },
+  LGS: { name: 'Lauriston Girls School', address: '38 Huntingtower Rd, Armadale VIC 3143' },
+  ORC: { name: 'Oakleigh Recreation Centre', address: '2C Park Rd, Oakleigh VIC 3166' },
+  ORR: { name: 'Orrong-Romanis Recreation Centre', address: '2 Molesworth St, Prahran VIC 3181' },
+  APS: { name: 'Ashburton Primary School', address: '10 Fakenham Rd, Ashburton VIC 3147' },
 };
 
 const fetchWithCookies = fetchCookie(fetch, new CookieJar());
@@ -176,7 +176,6 @@ async function getFixtures(
       location: {
         title: venueInfo ? `${venueInfo.name}, Court ${court}` : venue,
         address: venueInfo ? venueInfo.address : undefined,
-        geo: venueInfo ? { lat: venueInfo.lat, lon: venueInfo.lon } : undefined,
       }
     });
   }
