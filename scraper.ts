@@ -171,7 +171,7 @@ async function getFixtures(
 
     calendar.createEvent({
       start: dt,
-      end: dt.plus({ hours: 1 }),
+      end: dt.plus({ minutes: 45 }),
       summary: `🏀 ${ageAndGender}: ${team} vs ${opponent}`,
       location: {
         title: venueInfo ? `${venueInfo.name}, Court ${court}` : venue,
