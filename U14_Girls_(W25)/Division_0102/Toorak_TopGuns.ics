@@ -6,9 +6,9 @@ X-WR-CALNAME:Toorak TopGuns Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:43d3687a-f593-4656-8999-000b02230e50
+UID:7361df99-6690-486b-9998-a34016ae63a0
 SEQUENCE:0
-DTSTAMP:20250615T071421
+DTSTAMP:20250615T102420
 DTSTART:20250621T161500
 DTEND:20250621T170000
 SUMMARY:🏀 U14 Girls: Toorak TopGuns vs Malvern Tigers Phillips
@@ -17,42 +17,45 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Phillips\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e8f79a17-7ec9-4d22-be88-e1993fa64fd3
+UID:0da267cc-366a-4daf-9b4d-60242a25e408
 SEQUENCE:0
-DTSTAMP:20250615T071421
+DTSTAMP:20250615T102420
 DTSTART:20250628T170000
 DTEND:20250628T174500
 SUMMARY:🏀 U14 Girls: Toorak TopGuns vs Gardenvale Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Garden
  vale Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:66a39ef0-d6dd-499a-aa0e-4af13fa4e68a
+UID:15061c90-c5e5-4b57-aa1e-6ce08366dfe4
 SEQUENCE:0
-DTSTAMP:20250615T071421
+DTSTAMP:20250615T102420
 DTSTART:20250726T174500
 DTEND:20250726T183000
 SUMMARY:🏀 U14 Girls: Toorak TopGuns vs Maccabi Warriors
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:54319168-2ad4-491f-9b81-0724148dd5fb
+UID:81e3faf2-93f7-4c68-83dd-ee3ba995756f
 SEQUENCE:0
-DTSTAMP:20250615T071421
+DTSTAMP:20250615T102420
 DTSTART:20250802T174500
 DTEND:20250802T183000
 SUMMARY:🏀 U14 Girls: Toorak TopGuns vs Timberwolves Comets
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Comets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d0576f12-522f-4f6b-a858-93e17be2f470
+UID:35941e25-ac8d-48ce-99f3-c58b34c07844
 SEQUENCE:0
-DTSTAMP:20250615T071421
+DTSTAMP:20250615T102420
 DTSTART:20250809T161500
 DTEND:20250809T170000
 SUMMARY:🏀 U14 Girls: Toorak TopGuns vs Malvern Tigers Taylor
@@ -61,31 +64,33 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Taylor\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7056e827-35ef-4500-811e-1fe036e849b7
+UID:e0245c08-ad11-495d-b060-efd48099bdb7
 SEQUENCE:0
-DTSTAMP:20250615T071421
+DTSTAMP:20250615T102420
 DTSTART:20250816T170000
 DTEND:20250816T174500
 SUMMARY:🏀 U14 Girls: Toorak TopGuns vs Solway Rubies
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Rubies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b01b0b96-2082-4595-92b3-b1d7567ca77a
+UID:4a70b7ee-e511-417c-a676-17338171ab3f
 SEQUENCE:0
-DTSTAMP:20250615T071421
+DTSTAMP:20250615T102420
 DTSTART:20250823T174500
 DTEND:20250823T183000
 SUMMARY:🏀 U14 Girls: Toorak TopGuns vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fd4b29e6-dcb6-40bb-a170-1c7dbb48b44a
+UID:7927e38a-5b22-453f-bed0-3680c6469871
 SEQUENCE:0
-DTSTAMP:20250615T071421
+DTSTAMP:20250615T102420
 DTSTART:20250830T161500
 DTEND:20250830T170000
 SUMMARY:🏀 U14 Girls: Toorak TopGuns vs Malvern Tigers Phillips

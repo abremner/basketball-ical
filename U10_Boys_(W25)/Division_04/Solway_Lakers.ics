@@ -6,64 +6,69 @@ X-WR-CALNAME:Solway Lakers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0b296cfc-a746-4594-9dd2-63537719d471
+UID:b240ee86-f70b-4e91-b07f-35fd9ac91a15
 SEQUENCE:0
-DTSTAMP:20250615T071217
+DTSTAMP:20250615T102212
 DTSTART:20250621T131500
 DTEND:20250621T140000
 SUMMARY:🏀 U10 Boys: Solway Lakers vs Ashy Lightning Green
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4e71fa46-f6fe-42c0-af82-b3f66f4e2e71
+UID:2aa35c37-07b8-4a43-87f1-20d07e72c38b
 SEQUENCE:0
-DTSTAMP:20250615T071217
+DTSTAMP:20250615T102212
 DTSTART:20250628T110000
 DTEND:20250628T114500
 SUMMARY:🏀 U10 Boys: Solway Lakers vs Malvern Tigers Green
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d75f9531-b525-4b7f-b733-12a2bd69b6a7
+UID:b98cb104-96f6-4cf8-a35e-321d6ab3dd4c
 SEQUENCE:0
-DTSTAMP:20250615T071217
+DTSTAMP:20250615T102212
 DTSTART:20250726T110000
 DTEND:20250726T114500
 SUMMARY:🏀 U10 Boys: Solway Lakers vs Armadale Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Armada
  le Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d6bb8d9c-292e-4b33-a212-64d2ed902ed1
+UID:c236e336-7d7b-48fa-a5cb-096d56341ca8
 SEQUENCE:0
-DTSTAMP:20250615T071217
+DTSTAMP:20250615T102212
 DTSTART:20250802T131500
 DTEND:20250802T140000
 SUMMARY:🏀 U10 Boys: Solway Lakers vs Arax
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0e159922-f1b4-4bae-8f7f-4c3ef43b34b8
+UID:d3e12a64-8681-4cee-9650-2addab386ddb
 SEQUENCE:0
-DTSTAMP:20250615T071217
+DTSTAMP:20250615T102212
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Boys: Solway Lakers vs Malvern Tigers Orange
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d685c59e-dc1e-448b-9d91-fd98c1770f85
+UID:52dc5564-62da-4b8c-9166-2803e01200b1
 SEQUENCE:0
-DTSTAMP:20250615T071217
+DTSTAMP:20250615T102212
 DTSTART:20250816T110000
 DTEND:20250816T114500
 SUMMARY:🏀 U10 Boys: Solway Lakers vs Maccabi Celtics
@@ -72,20 +77,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1b94cdb9-6eec-4d03-9835-bd8b3fb58445
+UID:6abeb7da-6fa5-411f-8956-c3344e0e991b
 SEQUENCE:0
-DTSTAMP:20250615T071217
+DTSTAMP:20250615T102212
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Boys: Solway Lakers vs Toorak Tigersharks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Tigersharks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cb4eda28-609a-4936-814e-a44eefce46e2
+UID:413e1861-e376-452b-9834-dd5304b38d62
 SEQUENCE:0
-DTSTAMP:20250615T071217
+DTSTAMP:20250615T102212
 DTSTART:20250830T110000
 DTEND:20250830T114500
 SUMMARY:🏀 U10 Boys: Solway Lakers vs Dendy Park Piranhas

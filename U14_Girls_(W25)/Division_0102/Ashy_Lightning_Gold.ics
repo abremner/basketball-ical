@@ -6,31 +6,33 @@ X-WR-CALNAME:Ashy Lightning Gold Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e313e0ad-0a95-43ba-8adb-de1ea0e6c8f8
+UID:46751732-3e0a-4e9f-a2dc-fa8ddcae7d45
 SEQUENCE:0
-DTSTAMP:20250615T071418
+DTSTAMP:20250615T102417
 DTSTART:20250621T174500
 DTEND:20250621T183000
 SUMMARY:🏀 U14 Girls: Ashy Lightning Gold vs Solway Rubies
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Rubies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c3963138-2e41-47b3-9e47-6689c88800e3
+UID:c9656661-c563-47f2-80c1-caaa5115a409
 SEQUENCE:0
-DTSTAMP:20250615T071418
+DTSTAMP:20250615T102417
 DTSTART:20250628T174500
 DTEND:20250628T183000
 SUMMARY:🏀 U14 Girls: Ashy Lightning Gold vs Maccabi Warriors
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4c87564d-3ecc-4674-8b5f-564d387a90db
+UID:ba0f0c57-265f-42ee-80fc-c220204da41c
 SEQUENCE:0
-DTSTAMP:20250615T071418
+DTSTAMP:20250615T102417
 DTSTART:20250726T161500
 DTEND:20250726T170000
 SUMMARY:🏀 U14 Girls: Ashy Lightning Gold vs Malvern Tigers Taylor
@@ -39,9 +41,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Taylor\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a23da58f-d62b-4e7d-afe1-2ff20c9e5371
+UID:1789ab74-71e2-43ea-8b49-6c3c97646d71
 SEQUENCE:0
-DTSTAMP:20250615T071418
+DTSTAMP:20250615T102417
 DTSTART:20250802T161500
 DTEND:20250802T170000
 SUMMARY:🏀 U14 Girls: Ashy Lightning Gold vs Malvern Tigers Phillips
@@ -50,20 +52,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Phillips\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:92d6c5d1-0122-4395-8fd9-c4dd1e21f43b
+UID:9618629a-71c1-441a-9336-bd71689071e7
 SEQUENCE:0
-DTSTAMP:20250615T071418
+DTSTAMP:20250615T102417
 DTSTART:20250809T174500
 DTEND:20250809T183000
 SUMMARY:🏀 U14 Girls: Ashy Lightning Gold vs Gardenvale Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Garden
  vale Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:32b8dbe8-1afe-433d-ab09-2c88be3c42ee
+UID:744cb6eb-a66e-4f6f-b616-728678de855f
 SEQUENCE:0
-DTSTAMP:20250615T071418
+DTSTAMP:20250615T102417
 DTSTART:20250816T161500
 DTEND:20250816T170000
 SUMMARY:🏀 U14 Girls: Ashy Lightning Gold vs Timberwolves Comets
@@ -72,24 +75,26 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Comets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:362c0f4a-704b-481b-9798-9f3dedbfbd8d
+UID:09bdb4cc-d954-4918-8df8-495b9913e402
 SEQUENCE:0
-DTSTAMP:20250615T071418
+DTSTAMP:20250615T102417
 DTSTART:20250823T174500
 DTEND:20250823T183000
 SUMMARY:🏀 U14 Girls: Ashy Lightning Gold vs Toorak TopGuns
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   TopGuns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7a9ca101-65a7-40af-8079-44785c6f6dea
+UID:e3354ccf-03dd-445f-9828-4475e4480e31
 SEQUENCE:0
-DTSTAMP:20250615T071418
+DTSTAMP:20250615T102417
 DTSTART:20250830T174500
 DTEND:20250830T183000
 SUMMARY:🏀 U14 Girls: Ashy Lightning Gold vs Solway Rubies
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Rubies\nArrive 15 mins early for warm-up
 END:VEVENT

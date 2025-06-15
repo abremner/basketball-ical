@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Celtics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:93b84099-d780-4f98-a167-8ce25d0613fd
+UID:7bc9e51c-ce11-4468-9c0e-66b4e43bbec1
 SEQUENCE:0
-DTSTAMP:20250615T071402
+DTSTAMP:20250615T102401
 DTSTART:20250621T161500
 DTEND:20250621T170000
 SUMMARY:🏀 U14 Boys: Maccabi Celtics vs Solway Warriors
@@ -17,31 +17,33 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:91a4651d-255a-4399-acf2-09153a53f637
+UID:7ae4983e-ba8c-4281-bb23-7c38c8e6d4dd
 SEQUENCE:0
-DTSTAMP:20250615T071402
+DTSTAMP:20250615T102401
 DTSTART:20250628T140000
 DTEND:20250628T144500
 SUMMARY:🏀 U14 Boys: Maccabi Celtics vs Comets Lightning
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
   Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5cb22ed1-8f5c-4dda-8d3f-c81041a2f559
+UID:d8bed9de-82bd-48ed-801b-1b6384728daa
 SEQUENCE:0
-DTSTAMP:20250615T071402
+DTSTAMP:20250615T102401
 DTSTART:20250726T153000
 DTEND:20250726T161500
 SUMMARY:🏀 U14 Boys: Maccabi Celtics vs Toorak Tomcats
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
   Tomcats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6c1356bb-d67e-40d6-b210-ce3f3795d4df
+UID:40028a19-f2b4-4c1c-8764-bb6b466e3e39
 SEQUENCE:0
-DTSTAMP:20250615T071402
+DTSTAMP:20250615T102401
 DTSTART:20250802T161500
 DTEND:20250802T170000
 SUMMARY:🏀 U14 Boys: Maccabi Celtics vs Timberwolves Dragons
@@ -50,46 +52,50 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Dragons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9fa9d98a-dadd-4bfb-a3ac-3ef2675b0855
+UID:b3609dc1-281a-4a3c-97e6-f57bd46356cc
 SEQUENCE:0
-DTSTAMP:20250615T071402
+DTSTAMP:20250615T102401
 DTSTART:20250809T161500
 DTEND:20250809T170000
 SUMMARY:🏀 U14 Boys: Maccabi Celtics vs Malvern Tigers Green
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ddf7da16-24c0-4f9e-acd4-afead07edfc4
+UID:705627da-b49e-435f-8874-1cb84eede955
 SEQUENCE:0
-DTSTAMP:20250615T071402
+DTSTAMP:20250615T102401
 DTSTART:20250816T161500
 DTEND:20250816T170000
 SUMMARY:🏀 U14 Boys: Maccabi Celtics vs AlphaWolf Force
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: AlphaW
  olf Force\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:92a3f1ea-f62f-48e2-8d13-33ac850679d2
+UID:8a836fa2-3139-4f99-b818-1ccbc201697c
 SEQUENCE:0
-DTSTAMP:20250615T071402
+DTSTAMP:20250615T102401
 DTSTART:20250823T153000
 DTEND:20250823T161500
 SUMMARY:🏀 U14 Boys: Maccabi Celtics vs Glen Iris Scorpions Raven
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
  ris Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3bb990ed-3ed3-4f55-9461-42389801d2b1
+UID:609f683e-b177-48b3-90d6-faa1ecaf1e2b
 SEQUENCE:0
-DTSTAMP:20250615T071402
+DTSTAMP:20250615T102401
 DTSTART:20250830T161500
 DTEND:20250830T170000
 SUMMARY:🏀 U14 Boys: Maccabi Celtics vs Solway Warriors
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Warriors\nArrive 15 mins early for warm-up
 END:VEVENT

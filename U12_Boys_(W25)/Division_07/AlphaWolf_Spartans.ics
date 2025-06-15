@@ -6,9 +6,9 @@ X-WR-CALNAME:AlphaWolf Spartans Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0a023da3-a8c6-488d-8508-c4dc13f9c96c
+UID:f190f811-2ae3-4559-a3ce-bcfeb7e0996d
 SEQUENCE:0
-DTSTAMP:20250615T071311
+DTSTAMP:20250615T102308
 DTSTART:20250621T131500
 DTEND:20250621T140000
 SUMMARY:🏀 U12 Boys: AlphaWolf Spartans vs Malvern Tigers Blue
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6411fb4d-8203-40dc-9514-acce6982c6fd
+UID:92cc181a-d4bc-42ed-858e-835187f74d4e
 SEQUENCE:0
-DTSTAMP:20250615T071311
+DTSTAMP:20250615T102308
 DTSTART:20250628T123000
 DTEND:20250628T131500
 SUMMARY:🏀 U12 Boys: AlphaWolf Spartans vs Beckett Park Piranhas
@@ -28,53 +28,57 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Beckett
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5fc7cff0-900e-4fc0-adcb-729d383f15e4
+UID:2f8e4b8b-22f5-462c-8705-dafde6c3201a
 SEQUENCE:0
-DTSTAMP:20250615T071311
+DTSTAMP:20250615T102308
 DTSTART:20250802T114500
 DTEND:20250802T123000
 SUMMARY:🏀 U12 Boys: AlphaWolf Spartans vs Central Park Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Centra
  l Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f6ea6d39-427d-44c7-9dc2-305ddaebe282
+UID:9d7a5851-7b0a-47d0-84a7-5ece3665eb65
 SEQUENCE:0
-DTSTAMP:20250615T071311
+DTSTAMP:20250615T102308
 DTSTART:20250809T114500
 DTEND:20250809T123000
 SUMMARY:🏀 U12 Boys: AlphaWolf Spartans vs Malvern Tigers  Brown
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers  Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d995fdb9-1b3c-45de-8e9e-866cadef9f85
+UID:1b703f99-fc84-4754-a53e-4d6bc97d6372
 SEQUENCE:0
-DTSTAMP:20250615T071311
+DTSTAMP:20250615T102308
 DTSTART:20250816T114500
 DTEND:20250816T123000
 SUMMARY:🏀 U12 Boys: AlphaWolf Spartans vs AlphaWolf Lakers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AlphaW
  olf Lakers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:00d41e35-10f1-4d50-9d5d-cf54c33488f8
+UID:fc089761-c4e0-4b88-b9ab-24c62676ebaf
 SEQUENCE:0
-DTSTAMP:20250615T071311
+DTSTAMP:20250615T102308
 DTSTART:20250823T114500
 DTEND:20250823T123000
 SUMMARY:🏀 U12 Boys: AlphaWolf Spartans vs Maccabi Eagles
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
  i Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:747f3217-5c83-4445-aa4d-1f744ef0d2d3
+UID:2f5e7b32-3791-43b5-80aa-f5a567c2d15f
 SEQUENCE:0
-DTSTAMP:20250615T071311
+DTSTAMP:20250615T102308
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U12 Boys: AlphaWolf Spartans vs Malvern Tigers Blue

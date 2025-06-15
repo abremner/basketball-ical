@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Orange Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:305cb6f3-330a-43a7-9db4-d481e15c3211
+UID:47678849-9b27-4395-92e1-0cb885a7464f
 SEQUENCE:0
-DTSTAMP:20250615T071406
+DTSTAMP:20250615T102404
 DTSTART:20250621T170000
 DTEND:20250621T174500
 SUMMARY:🏀 U14 Boys: Malvern Tigers Orange vs Ashy Lightning Yellow
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
  ghtning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0abbc94e-179f-4dd7-b25e-3515424b914b
+UID:a3f1fa23-e477-4117-a085-b82b06557544
 SEQUENCE:0
-DTSTAMP:20250615T071406
+DTSTAMP:20250615T102404
 DTSTART:20250628T153000
 DTEND:20250628T161500
 SUMMARY:🏀 U14 Boys: Malvern Tigers Orange vs Timberwolves Terriers
@@ -28,20 +28,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Terriers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:afcc30e1-d9b3-4f2f-b81e-1b3d03b2b380
+UID:df48f2ed-331c-473e-844d-312ffec00a95
 SEQUENCE:0
-DTSTAMP:20250615T071406
+DTSTAMP:20250615T102404
 DTSTART:20250726T161500
 DTEND:20250726T170000
 SUMMARY:🏀 U14 Boys: Malvern Tigers Orange vs AlphaWolf Conquerors
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AlphaW
  olf Conquerors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bbc41dae-7467-4411-8159-769e54e40905
+UID:1d75e095-ef4f-4959-ad02-1dd0065a3509
 SEQUENCE:0
-DTSTAMP:20250615T071406
+DTSTAMP:20250615T102404
 DTSTART:20250802T170000
 DTEND:20250802T174500
 SUMMARY:🏀 U14 Boys: Malvern Tigers Orange vs Timberwolves Stones
@@ -50,9 +51,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
  olves Stones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7d654f67-0c6e-4781-af4f-20b1a3e416a0
+UID:06a34726-9e64-4d77-9011-2de956ae4b5f
 SEQUENCE:0
-DTSTAMP:20250615T071406
+DTSTAMP:20250615T102404
 DTSTART:20250809T170000
 DTEND:20250809T174500
 SUMMARY:🏀 U14 Boys: Malvern Tigers Orange vs Timberwolves Ramblers
@@ -61,31 +62,33 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
  olves Ramblers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c5390b87-9c63-40ee-acbc-c264ad21d331
+UID:1ac8e06f-42db-49f3-87cd-c5ed86b32f1a
 SEQUENCE:0
-DTSTAMP:20250615T071406
+DTSTAMP:20250615T102404
 DTSTART:20250816T161500
 DTEND:20250816T170000
 SUMMARY:🏀 U14 Boys: Malvern Tigers Orange vs Ashy Lightning Yellow
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
  ightning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5075776a-b5bd-4678-87e0-2fe0011dc98c
+UID:d90a6631-c71b-421a-9540-06d72075aa3d
 SEQUENCE:0
-DTSTAMP:20250615T071406
+DTSTAMP:20250615T102404
 DTSTART:20250823T161500
 DTEND:20250823T170000
 SUMMARY:🏀 U14 Boys: Malvern Tigers Orange vs Timberwolves Terriers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Terriers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:98023bcb-c0e9-4dd5-ac66-3105a1d11925
+UID:a7c105d2-fcb0-4f8a-9960-c9a91b36fc13
 SEQUENCE:0
-DTSTAMP:20250615T071406
+DTSTAMP:20250615T102404
 DTSTART:20250830T153000
 DTEND:20250830T161500
 SUMMARY:🏀 U14 Boys: Malvern Tigers Orange vs AlphaWolf Conquerors

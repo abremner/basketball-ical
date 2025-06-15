@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Rockets Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:18b06f1a-875b-42d5-a286-d7abfa26d02a
+UID:3d7b422f-43f5-4d14-b353-01c906cfa6e4
 SEQUENCE:0
-DTSTAMP:20250615T071437
+DTSTAMP:20250615T102436
 DTSTART:20250628T200000
 DTEND:20250628T204500
 SUMMARY:🏀 U16 Boys: Solway Rockets vs Timberwolves United
@@ -17,57 +17,62 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves United\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4cebc5f5-156c-4edd-8e59-f27cdfc41362
+UID:0ecf5237-0950-441f-ba83-1410fbe73a9a
 SEQUENCE:0
-DTSTAMP:20250615T071437
+DTSTAMP:20250615T102436
 DTSTART:20250726T183000
 DTEND:20250726T191500
 SUMMARY:🏀 U16 Boys: Solway Rockets vs Timberwolves Hustlers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Hustlers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a887bf25-4df1-4428-9bcd-b2affa80cbe2
+UID:dcd50ac5-7a0c-4207-9408-9229dccd2157
 SEQUENCE:0
-DTSTAMP:20250615T071437
+DTSTAMP:20250615T102436
 DTSTART:20250802T183000
 DTEND:20250802T191500
 SUMMARY:🏀 U16 Boys: Solway Rockets vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0f1c7b8b-10cb-4e7b-927f-90b945e96950
+UID:81cafbff-0867-49cf-9bac-87c30afea0ee
 SEQUENCE:0
-DTSTAMP:20250615T071437
+DTSTAMP:20250615T102436
 DTSTART:20250809T183000
 DTEND:20250809T191500
 SUMMARY:🏀 U16 Boys: Solway Rockets vs Bayside Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Baysid
  e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:55ebfd3f-8f92-408f-bb90-fc48acd36fad
+UID:98a8cad6-fe2e-4f19-bec4-592330daebda
 SEQUENCE:0
-DTSTAMP:20250615T071437
+DTSTAMP:20250615T102436
 DTSTART:20250816T183000
 DTEND:20250816T191500
 SUMMARY:🏀 U16 Boys: Solway Rockets vs Toorak Tropics
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
   Tropics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b92c842a-be7f-42c6-9d98-2b1075542fa4
+UID:a9efebef-2a89-4e47-b967-f1fc610b1d7d
 SEQUENCE:0
-DTSTAMP:20250615T071437
+DTSTAMP:20250615T102436
 DTSTART:20250823T183000
 DTEND:20250823T191500
 SUMMARY:🏀 U16 Boys: Solway Rockets vs Malvern Tigers Black
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT

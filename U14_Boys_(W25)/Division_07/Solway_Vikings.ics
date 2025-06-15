@@ -6,31 +6,33 @@ X-WR-CALNAME:Solway Vikings Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d60f83d7-4984-4dfa-8896-42b05e2e4306
+UID:535bf93c-2417-4522-91d6-0f18d48fdea4
 SEQUENCE:0
-DTSTAMP:20250615T071410
+DTSTAMP:20250615T102408
 DTSTART:20250621T153000
 DTEND:20250621T161500
 SUMMARY:🏀 U14 Boys: Solway Vikings vs Glen Iris Scorpions Summerhill
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glen I
  ris Scorpions Summerhill\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:65648bb8-e43f-4715-82d2-f687dae67c8f
+UID:122035e2-0fd4-4f45-a66b-2dfe361fb491
 SEQUENCE:0
-DTSTAMP:20250615T071410
+DTSTAMP:20250615T102408
 DTSTART:20250628T153000
 DTEND:20250628T161500
 SUMMARY:🏀 U14 Boys: Solway Vikings vs Solway Gladiators
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Gladiators\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:59458e35-d8eb-49d8-b670-dd1a7416af18
+UID:6b4a441f-8dd0-41ca-925c-b820aa76cefe
 SEQUENCE:0
-DTSTAMP:20250615T071410
+DTSTAMP:20250615T102408
 DTSTART:20250726T153000
 DTEND:20250726T161500
 SUMMARY:🏀 U14 Boys: Solway Vikings vs Maccabi Ducks
@@ -39,42 +41,45 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:eea14df0-255d-4aba-818c-a8eca1c1715b
+UID:c90fa046-e0dc-4699-8c3d-04abcaa01032
 SEQUENCE:0
-DTSTAMP:20250615T071410
+DTSTAMP:20250615T102408
 DTSTART:20250802T153000
 DTEND:20250802T161500
 SUMMARY:🏀 U14 Boys: Solway Vikings vs Inkerman Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Inkerm
  an Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6824cab3-2e5c-4487-ad05-c1b3abf43209
+UID:33219bdf-d4a9-4832-afa1-bda1a821d73c
 SEQUENCE:0
-DTSTAMP:20250615T071410
+DTSTAMP:20250615T102408
 DTSTART:20250809T153000
 DTEND:20250809T161500
 SUMMARY:🏀 U14 Boys: Solway Vikings vs Malvern Tigers Blue
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:93c3851f-212b-4c85-b179-64ba70be68ae
+UID:7d4c2465-f490-43c8-b8f6-07b46c3a976d
 SEQUENCE:0
-DTSTAMP:20250615T071410
+DTSTAMP:20250615T102408
 DTSTART:20250816T153000
 DTEND:20250816T161500
 SUMMARY:🏀 U14 Boys: Solway Vikings vs Glen Iris Scorpions Summerhill
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glen I
  ris Scorpions Summerhill\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7e91868b-27be-4f04-a861-51393d3362df
+UID:397ef7c3-4c0c-4e22-936a-049f32cc8d5f
 SEQUENCE:0
-DTSTAMP:20250615T071410
+DTSTAMP:20250615T102408
 DTSTART:20250823T153000
 DTEND:20250823T161500
 SUMMARY:🏀 U14 Boys: Solway Vikings vs Solway Gladiators
@@ -83,13 +88,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Gladiators\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0f50bb6e-3909-4104-8cf8-d3eec23771ae
+UID:01bebdbc-3017-46d6-bb1c-37e6d641d9d9
 SEQUENCE:0
-DTSTAMP:20250615T071410
+DTSTAMP:20250615T102408
 DTSTART:20250830T153000
 DTEND:20250830T161500
 SUMMARY:🏀 U14 Boys: Solway Vikings vs Maccabi Ducks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
  i Ducks\nArrive 15 mins early for warm-up
 END:VEVENT

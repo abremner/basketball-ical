@@ -6,32 +6,34 @@ X-WR-CALNAME:Dairy Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b85bda00-58b9-4b79-8e57-4a839c71b34a
+UID:d74d8975-a033-4606-af10-09c79d5d7514
 SEQUENCE:0
-DTSTAMP:20250615T071246
+DTSTAMP:20250615T102242
 DTSTART:20250621T110000
 DTEND:20250621T114500
 SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Malvern Tigers Blue
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b29dc731-40de-4e6d-8fdb-1d4780334f81
+UID:a8032c27-7a5f-4da7-9ad8-a256dc821bbf
 SEQUENCE:0
-DTSTAMP:20250615T071246
+DTSTAMP:20250615T102242
 DTSTART:20250628T110000
 DTEND:20250628T114500
 SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Glen Iris Scorpions Ferndal
  e
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:751982c8-75d1-4e05-a14d-df752b9948bb
+UID:15816a64-5d09-450a-b776-81d8fa8ad70b
 SEQUENCE:0
-DTSTAMP:20250615T071246
+DTSTAMP:20250615T102242
 DTSTART:20250802T123000
 DTEND:20250802T131500
 SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Malvern Tigers White
@@ -40,20 +42,21 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6f8db80c-4605-48e1-a2ff-69797ebc23b0
+UID:045ad056-d031-4623-94db-d7eef829e62e
 SEQUENCE:0
-DTSTAMP:20250615T071246
+DTSTAMP:20250615T102242
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Solway Mistrals
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Mistrals\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a768780e-0d5f-4b65-8429-fbd008af6867
+UID:aabf3e81-da47-482d-850e-6a5485eab9b2
 SEQUENCE:0
-DTSTAMP:20250615T071246
+DTSTAMP:20250615T102242
 DTSTART:20250816T123000
 DTEND:20250816T131500
 SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs AlphaWolf Sparks
@@ -62,9 +65,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: AlphaWolf S
  parks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fd1ebfcd-d5c4-4ce0-8297-bf55ab266c78
+UID:c9f091d5-9798-4cdb-9d33-5498b0731d49
 SEQUENCE:0
-DTSTAMP:20250615T071246
+DTSTAMP:20250615T102242
 DTSTART:20250823T123000
 DTEND:20250823T131500
 SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Maccabi Bucks
@@ -73,9 +76,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Buc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:406e0cec-5776-4f2a-8576-145b0902fe37
+UID:d3f7b8ed-daf1-4625-ba02-d9b613ede795
 SEQUENCE:0
-DTSTAMP:20250615T071246
+DTSTAMP:20250615T102242
 DTSTART:20250830T123000
 DTEND:20250830T131500
 SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Malvern Tigers Blue

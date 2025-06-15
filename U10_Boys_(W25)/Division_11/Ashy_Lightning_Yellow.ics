@@ -6,20 +6,21 @@ X-WR-CALNAME:Ashy Lightning Yellow Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:af2e2e05-e1c5-4c6f-adf8-404f88790d2d
+UID:d58a9061-b5ac-41f1-b736-f2f9333ebee6
 SEQUENCE:0
-DTSTAMP:20250615T071236
+DTSTAMP:20250615T102231
 DTSTART:20250621T084500
 DTEND:20250621T093000
 SUMMARY:🏀 U10 Boys: Ashy Lightning Yellow vs SouthEast Venom Magic
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: SouthE
  ast Venom Magic\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:742f64a7-86ba-44a2-8445-c3877b5c4bf8
+UID:4eb52557-fcaa-4138-b165-bf320c02b98e
 SEQUENCE:0
-DTSTAMP:20250615T071236
+DTSTAMP:20250615T102231
 DTSTART:20250628T084500
 DTEND:20250628T093000
 SUMMARY:🏀 U10 Boys: Ashy Lightning Yellow vs Maccabi Jaguars
@@ -28,20 +29,21 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Jaguars\nArrive 15 mi
  ns early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c042a9e2-fe60-4336-803d-51b3aa49f404
+UID:157fc2b2-c59f-41f0-8e46-9c3582814dfa
 SEQUENCE:0
-DTSTAMP:20250615T071236
+DTSTAMP:20250615T102231
 DTSTART:20250726T084500
 DTEND:20250726T093000
 SUMMARY:🏀 U10 Boys: Ashy Lightning Yellow vs Timberwolves Hawks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Hawks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bc607bee-fb74-4df9-97d5-80f28ad21a9e
+UID:4b80706b-58d5-4b3a-96ee-6604802e3aa9
 SEQUENCE:0
-DTSTAMP:20250615T071236
+DTSTAMP:20250615T102231
 DTSTART:20250802T084500
 DTEND:20250802T093000
 SUMMARY:🏀 U10 Boys: Ashy Lightning Yellow vs Solway Hornets
@@ -50,31 +52,33 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Hornets\nArrive 15 min
  s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:698660e5-9aad-4ac9-ab92-8674ed1162ee
+UID:a3bfa59c-1bdc-416c-b89d-244fa4d073ac
 SEQUENCE:0
-DTSTAMP:20250615T071236
+DTSTAMP:20250615T102231
 DTSTART:20250809T080000
 DTEND:20250809T084500
 SUMMARY:🏀 U10 Boys: Ashy Lightning Yellow vs Koornang Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Koorna
  ng Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ee03e576-b399-41c2-befa-bd0e71a89300
+UID:6d4582bb-6983-4bd1-a8c4-431a13d8c588
 SEQUENCE:0
-DTSTAMP:20250615T071236
+DTSTAMP:20250615T102231
 DTSTART:20250816T084500
 DTEND:20250816T093000
 SUMMARY:🏀 U10 Boys: Ashy Lightning Yellow vs SouthEast Venom Magic
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: SouthE
  ast Venom Magic\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2d96f167-98c5-4702-9ce1-fa9076cdd2db
+UID:561a5aa9-bf52-4429-9ab5-aa97f04319cb
 SEQUENCE:0
-DTSTAMP:20250615T071236
+DTSTAMP:20250615T102231
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U10 Boys: Ashy Lightning Yellow vs Maccabi Jaguars
@@ -83,13 +87,14 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Jaguars\nArrive 15 mi
  ns early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a4e5cc7c-f664-4b8c-8f61-64f7db2b7680
+UID:5ba554a0-b1c7-4f71-b682-63ac06965cd6
 SEQUENCE:0
-DTSTAMP:20250615T071236
+DTSTAMP:20250615T102231
 DTSTART:20250830T080000
 DTEND:20250830T084500
 SUMMARY:🏀 U10 Boys: Ashy Lightning Yellow vs Timberwolves Hawks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Hawks\nArrive 15 mins early for warm-up
 END:VEVENT

@@ -6,9 +6,9 @@ X-WR-CALNAME:Glen Iris Scorpions Gardiner Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:896adbd4-386e-4e27-9409-3f08d8593ba3
+UID:3a3dae6d-d2f9-4d96-8968-4361abc89d97
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250621T140000
 DTEND:20250621T144500
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Gardiner vs Maccabi Ducks
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Ducks\nArrive 15 mins
   early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:01369899-b83f-4482-923d-7ce8e32ef217
+UID:42696963-4891-4819-bdc0-f89dbb4db4e9
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250628T144500
 DTEND:20250628T153000
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Gardiner vs Heywood Park Piranh
@@ -29,9 +29,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Heywood
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:eac43f00-a73e-4c2f-9502-31b5c2d98a41
+UID:74b9c822-4196-47aa-bc5c-010ac4f2f0dc
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250726T140000
 DTEND:20250726T144500
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Gardiner vs Solway Wolverines
@@ -40,21 +40,22 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Wolverines\nArrive 15
  mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b63485bf-da7d-4ccf-ac09-107136330626
+UID:a290c5f1-b5ee-452c-8a20-de112991fb4a
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250802T131500
 DTEND:20250802T140000
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Gardiner vs Timberwolves Howler
  s
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Howlers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6a7de2d9-2902-48b7-b83d-2925eabbe05e
+UID:9640d354-4ef6-456b-9adf-7cfd4469ea4b
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250809T144500
 DTEND:20250809T153000
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Gardiner vs Malvern Tigers Oran
@@ -64,9 +65,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:63fc1f5e-79f6-4aec-93e3-6335cb4ffd2b
+UID:df49b18e-5a72-4e6b-b18f-0d36202edef0
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250816T144500
 DTEND:20250816T153000
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Gardiner vs Maccabi Ducks
@@ -75,9 +76,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b5d42cce-cad3-4466-92ed-73751e3cdd35
+UID:3866f033-3cf8-41e9-9aff-9f84c695a5a7
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250823T140000
 DTEND:20250823T144500
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Gardiner vs Heywood Park Piranh
@@ -87,9 +88,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Heywood Park Piranhas\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:488c5a4a-7392-4e07-a4d5-169742ea8f9e
+UID:2c9501cd-6662-4cfa-84c9-5257da1a2a85
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250830T144500
 DTEND:20250830T153000
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Gardiner vs Solway Wolverines

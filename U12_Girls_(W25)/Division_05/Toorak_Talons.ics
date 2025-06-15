@@ -6,9 +6,9 @@ X-WR-CALNAME:Toorak Talons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0c9b6162-e7c4-408e-a43f-f45eb6c74e91
+UID:8fe177a3-7a4d-47de-a64e-955868a8f203
 SEQUENCE:0
-DTSTAMP:20250615T071343
+DTSTAMP:20250615T102341
 DTSTART:20250621T131500
 DTEND:20250621T140000
 SUMMARY:🏀 U12 Girls: Toorak Talons vs Malvern Tigers Burton
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Burton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d6a3ec03-2764-4fa0-a693-6847a64b0fae
+UID:43baf4e9-1877-4cdc-a082-fbbd4690cea7
 SEQUENCE:0
-DTSTAMP:20250615T071343
+DTSTAMP:20250615T102341
 DTSTART:20250628T131500
 DTEND:20250628T140000
 SUMMARY:🏀 U12 Girls: Toorak Talons vs Korowa Grey
@@ -28,20 +28,21 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Korowa Grey
  \nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:275e1ba8-3b02-4088-bd0a-68a0b7e8bc10
+UID:eb378e56-7e11-4f5c-90e1-ba70cf96c27a
 SEQUENCE:0
-DTSTAMP:20250615T071343
+DTSTAMP:20250615T102341
 DTSTART:20250726T140000
 DTEND:20250726T144500
 SUMMARY:🏀 U12 Girls: Toorak Talons vs Erica Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Erica 
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:38764b45-59fc-4486-a620-8aefbeb04896
+UID:721a2c54-d06c-470e-8d7a-3c0653eee100
 SEQUENCE:0
-DTSTAMP:20250615T071343
+DTSTAMP:20250615T102341
 DTSTART:20250802T140000
 DTEND:20250802T144500
 SUMMARY:🏀 U12 Girls: Toorak Talons vs Maccabi Ducks
@@ -50,9 +51,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d9a730a8-39fb-4a7c-a580-db7f66b1da8d
+UID:88e14b52-d8de-4f2d-b44b-cd3a2aeb4452
 SEQUENCE:0
-DTSTAMP:20250615T071343
+DTSTAMP:20250615T102341
 DTSTART:20250809T131500
 DTEND:20250809T140000
 SUMMARY:🏀 U12 Girls: Toorak Talons vs Malvern Tigers Smith
@@ -61,20 +62,21 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Smith\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d9049243-abbb-4355-9fb6-5059e485031a
+UID:9c511072-07c7-4289-ba99-30d6042d48b7
 SEQUENCE:0
-DTSTAMP:20250615T071343
+DTSTAMP:20250615T102341
 DTSTART:20250816T140000
 DTEND:20250816T144500
 SUMMARY:🏀 U12 Girls: Toorak Talons vs Maccabi Celtics
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3c6152b9-99bf-4846-9cbc-f9c3728ee58a
+UID:75b2578a-a5ad-4f8f-aad7-89f47cafa310
 SEQUENCE:0
-DTSTAMP:20250615T071343
+DTSTAMP:20250615T102341
 DTSTART:20250823T131500
 DTEND:20250823T140000
 SUMMARY:🏀 U12 Girls: Toorak Talons vs Ashy Lightning Green
@@ -83,9 +85,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Ashy Lightn
  ing Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:123ff19d-a217-47f6-a40c-bab2ead5b40b
+UID:ac42a90d-5a2c-4912-8b72-1927161cb59d
 SEQUENCE:0
-DTSTAMP:20250615T071343
+DTSTAMP:20250615T102341
 DTSTART:20250830T140000
 DTEND:20250830T144500
 SUMMARY:🏀 U12 Girls: Toorak Talons vs Malvern Tigers Burton

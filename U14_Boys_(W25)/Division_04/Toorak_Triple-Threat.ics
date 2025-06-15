@@ -6,9 +6,9 @@ X-WR-CALNAME:Toorak Triple-Threat Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:db395f3a-a536-445b-a2c7-e0562c1cb16a
+UID:22d7255a-857a-4e3f-a4c9-2c4e3259ffec
 SEQUENCE:0
-DTSTAMP:20250615T071400
+DTSTAMP:20250615T102359
 DTSTART:20250628T161500
 DTEND:20250628T170000
 SUMMARY:🏀 U14 Boys: Toorak Triple-Threat vs Solway Trojans
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Trojans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bbb2854a-fa55-46c2-befc-d35c0eca7f9b
+UID:84c05aca-0d7c-42fe-8626-ee457220ce15
 SEQUENCE:0
-DTSTAMP:20250615T071400
+DTSTAMP:20250615T102359
 DTSTART:20250726T161500
 DTEND:20250726T170000
 SUMMARY:🏀 U14 Boys: Toorak Triple-Threat vs Solway Crusaders
@@ -28,20 +28,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Crusaders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7e21d1a1-6401-468d-85db-ef1d7b606481
+UID:6367ffbf-acaf-4cd6-9a06-384c93e9f76c
 SEQUENCE:0
-DTSTAMP:20250615T071400
+DTSTAMP:20250615T102359
 DTSTART:20250802T170000
 DTEND:20250802T174500
 SUMMARY:🏀 U14 Boys: Toorak Triple-Threat vs Timberwolves Celtics
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d2399a38-52d6-4987-9e3f-2422f12ad02a
+UID:b987df52-a392-4910-8504-e96ccd5b72fa
 SEQUENCE:0
-DTSTAMP:20250615T071400
+DTSTAMP:20250615T102359
 DTSTART:20250809T161500
 DTEND:20250809T170000
 SUMMARY:🏀 U14 Boys: Toorak Triple-Threat vs Malvern Tigers White
@@ -50,9 +51,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:28147cfc-3984-4d56-b75b-28708f87861c
+UID:75192da2-1a08-4bce-87c3-d826009432db
 SEQUENCE:0
-DTSTAMP:20250615T071400
+DTSTAMP:20250615T102359
 DTSTART:20250816T161500
 DTEND:20250816T170000
 SUMMARY:🏀 U14 Boys: Toorak Triple-Threat vs Maccabi Bucks
@@ -61,13 +62,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:af61a34a-55d9-4d56-a5c6-f45bfe6f88c3
+UID:3566b09b-5a2c-4d2b-94e2-96a773d347fc
 SEQUENCE:0
-DTSTAMP:20250615T071400
+DTSTAMP:20250615T102359
 DTSTART:20250823T170000
 DTEND:20250823T174500
 SUMMARY:🏀 U14 Boys: Toorak Triple-Threat vs Ashy Lightning Green
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT

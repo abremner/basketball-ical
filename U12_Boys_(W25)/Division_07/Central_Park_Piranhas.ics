@@ -6,31 +6,33 @@ X-WR-CALNAME:Central Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:cbc442e6-784b-464e-a099-688b4d4e3a34
+UID:9dce2042-99b5-4873-b248-122c306ea2df
 SEQUENCE:0
-DTSTAMP:20250615T071311
+DTSTAMP:20250615T102309
 DTSTART:20250621T114500
 DTEND:20250621T123000
 SUMMARY:🏀 U12 Boys: Central Park Piranhas vs Beckett Park Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Becket
  t Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7847df5a-6f33-448b-9dd1-d07a7484dbd9
+UID:aac743b0-941d-4f4c-9edc-137d2faacff5
 SEQUENCE:0
-DTSTAMP:20250615T071311
+DTSTAMP:20250615T102309
 DTSTART:20250628T114500
 DTEND:20250628T123000
 SUMMARY:🏀 U12 Boys: Central Park Piranhas vs Maccabi Eagles
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
  i Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a6b34ec0-a924-4cd0-9a22-a1a982bfd024
+UID:95f9f6cc-b7c6-44d8-bab6-5e41c8806968
 SEQUENCE:0
-DTSTAMP:20250615T071311
+DTSTAMP:20250615T102309
 DTSTART:20250726T123000
 DTEND:20250726T131500
 SUMMARY:🏀 U12 Boys: Central Park Piranhas vs Malvern Tigers Blue
@@ -39,20 +41,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2ba970eb-9824-4174-a572-44f3b6d01c84
+UID:0a0b33a6-6991-4f95-b658-2fe427d05e5c
 SEQUENCE:0
-DTSTAMP:20250615T071311
+DTSTAMP:20250615T102309
 DTSTART:20250802T114500
 DTEND:20250802T123000
 SUMMARY:🏀 U12 Boys: Central Park Piranhas vs AlphaWolf Spartans
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AlphaW
  olf Spartans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d08f5539-a08b-49bb-9981-4f17e974f52c
+UID:ffae171c-f15d-4dd2-a441-971f69cdb3fc
 SEQUENCE:0
-DTSTAMP:20250615T071311
+DTSTAMP:20250615T102309
 DTSTART:20250816T131500
 DTEND:20250816T140000
 SUMMARY:🏀 U12 Boys: Central Park Piranhas vs Malvern Tigers  Brown
@@ -61,9 +64,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers  Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:43024186-4e5f-4aaf-a5da-63241465ffb5
+UID:3265e8d3-6040-43a1-a7be-b96cdab92ff9
 SEQUENCE:0
-DTSTAMP:20250615T071311
+DTSTAMP:20250615T102309
 DTSTART:20250823T123000
 DTEND:20250823T131500
 SUMMARY:🏀 U12 Boys: Central Park Piranhas vs AlphaWolf Lakers
@@ -72,13 +75,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: AlphaWo
  lf Lakers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8c03ad08-b4d6-4517-bf5d-7352afa4fb32
+UID:3bad5178-b442-4f0a-bb31-dbb5d189a467
 SEQUENCE:0
-DTSTAMP:20250615T071311
+DTSTAMP:20250615T102309
 DTSTART:20250830T114500
 DTEND:20250830T123000
 SUMMARY:🏀 U12 Boys: Central Park Piranhas vs Beckett Park Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Becket
  t Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT

@@ -6,31 +6,33 @@ X-WR-CALNAME:Timberwolves Flames Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:4d95d239-829f-465a-ad50-6af128a4f40d
+UID:ed0a6340-4d3d-4e89-85cf-2b1a2c7260f9
 SEQUENCE:0
-DTSTAMP:20250615T071424
+DTSTAMP:20250615T102423
 DTSTART:20250621T170000
 DTEND:20250621T174500
 SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Ashy Lightning Green
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b7a2685b-06d6-4a0b-bc5f-192751d4f8dd
+UID:3f1d7c6f-3ca1-4ec1-9d7d-0a38579a0689
 SEQUENCE:0
-DTSTAMP:20250615T071424
+DTSTAMP:20250615T102423
 DTSTART:20250628T161500
 DTEND:20250628T170000
 SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Solway Jewels
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Jewels\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2f696f22-baa0-45c8-af8e-6bee741598df
+UID:39d4fb98-118d-44e5-8b7f-794b8c9090ad
 SEQUENCE:0
-DTSTAMP:20250615T071424
+DTSTAMP:20250615T102423
 DTSTART:20250726T170000
 DTEND:20250726T174500
 SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Malvern Tigers Hodges
@@ -39,9 +41,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Hodges\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:72dddf18-1e38-4f3b-bca8-36ef90090b19
+UID:7e457e3c-d54b-4f27-98e5-0a9e1e09a922
 SEQUENCE:0
-DTSTAMP:20250615T071424
+DTSTAMP:20250615T102423
 DTSTART:20250802T170000
 DTEND:20250802T174500
 SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Glen Iris Scorpions Ferndal
@@ -51,36 +53,39 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
  is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6af2dfe4-3555-49d7-81b0-b1fd6afcf634
+UID:f3b9f27e-d3fd-422d-b827-26e53e1bb1d1
 SEQUENCE:0
-DTSTAMP:20250615T071424
+DTSTAMP:20250615T102423
 DTSTART:20250809T170000
 DTEND:20250809T174500
 SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Cato Park Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Cato P
  ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2b124602-8ff5-4a79-b395-95700f08c045
+UID:d7914352-4e16-4795-91ce-eca4a325c34b
 SEQUENCE:0
-DTSTAMP:20250615T071424
+DTSTAMP:20250615T102423
 DTSTART:20250823T161500
 DTEND:20250823T170000
 SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Glen Iris Scorpions Gardine
  r
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
  ris Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:927a9374-6d5c-451a-afdd-119dbad1c7eb
+UID:bb206edd-60a8-4652-b906-b9ac9fe93cb4
 SEQUENCE:0
-DTSTAMP:20250615T071424
+DTSTAMP:20250615T102423
 DTSTART:20250830T170000
 DTEND:20250830T174500
 SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Ashy Lightning Green
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT

@@ -6,9 +6,9 @@ X-WR-CALNAME:Stonnington Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:43de2894-e302-41a8-b232-d9930e364d57
+UID:73429ed8-36fb-442d-9c92-b2e23beec095
 SEQUENCE:0
-DTSTAMP:20250615T071320
+DTSTAMP:20250615T102318
 DTSTART:20250621T131500
 DTEND:20250621T140000
 SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Comets Cyclones
@@ -17,20 +17,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Comets
  Cyclones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:18cb102e-5b5c-485d-91ab-4ddb9abdd272
+UID:ff09aa76-ff95-4c25-b487-0d0493d6ca57
 SEQUENCE:0
-DTSTAMP:20250615T071320
+DTSTAMP:20250615T102318
 DTSTART:20250628T114500
 DTEND:20250628T123000
 SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Solway Panthers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Panthers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:71433be9-87c3-4547-8a5a-f2c90dd2e8bd
+UID:88d1b76a-786e-45f8-b88c-4573c161db5a
 SEQUENCE:0
-DTSTAMP:20250615T071320
+DTSTAMP:20250615T102318
 DTSTART:20250726T123000
 DTEND:20250726T131500
 SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Toorak Trouble
@@ -39,9 +40,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak
  Trouble\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:43bc54b7-76c2-45fb-bf32-7433fc6814f8
+UID:3781792a-31e8-415d-b54e-7f10bde28ad6
 SEQUENCE:0
-DTSTAMP:20250615T071320
+DTSTAMP:20250615T102318
 DTSTART:20250802T123000
 DTEND:20250802T131500
 SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Comets Tigers
@@ -50,20 +51,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Comets
  Tigers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:32f98a57-ee13-42e4-895f-5b4a721d736a
+UID:951a8ec7-f4b6-40e0-aedc-3038e7722e8d
 SEQUENCE:0
-DTSTAMP:20250615T071320
+DTSTAMP:20250615T102318
 DTSTART:20250816T114500
 DTEND:20250816T123000
 SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Toorak Thunder
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2d871b22-607d-430d-9faf-360cbd601632
+UID:f5820841-46f7-431c-bf88-7a254ac58847
 SEQUENCE:0
-DTSTAMP:20250615T071320
+DTSTAMP:20250615T102318
 DTSTART:20250823T131500
 DTEND:20250823T140000
 SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Malvern Tigers Grey
@@ -72,13 +74,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3c57072d-04e9-4ad0-9996-8a58cc4a9a08
+UID:0583da63-8f4f-43f2-b6da-06f2d39d8c20
 SEQUENCE:0
-DTSTAMP:20250615T071320
+DTSTAMP:20250615T102318
 DTSTART:20250830T114500
 DTEND:20250830T123000
 SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Comets Cyclones
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
   Cyclones\nArrive 15 mins early for warm-up
 END:VEVENT

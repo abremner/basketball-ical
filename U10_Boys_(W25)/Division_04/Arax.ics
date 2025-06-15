@@ -6,79 +6,86 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:654f228d-6122-425d-97ba-04891188388f
+UID:ef3a0a41-e28c-4019-9ff7-8ca5b54741b6
 SEQUENCE:0
-DTSTAMP:20250615T071215
+DTSTAMP:20250615T102209
 DTSTART:20250628T131500
 DTEND:20250628T140000
 SUMMARY:🏀 U10 Boys: Arax vs Maccabi Celtics
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cac5debf-3019-4645-9d0c-3c3668b819c3
+UID:b80523b9-6217-42ce-a1a7-85ef37899e2b
 SEQUENCE:0
-DTSTAMP:20250615T071215
+DTSTAMP:20250615T102209
 DTSTART:20250726T131500
 DTEND:20250726T140000
 SUMMARY:🏀 U10 Boys: Arax vs Dendy Park Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Dendy 
  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6112736a-2a16-4c98-855d-af71b86f9e73
+UID:4e0abdc2-1ca0-4fa1-9762-6c570d59debd
 SEQUENCE:0
-DTSTAMP:20250615T071215
+DTSTAMP:20250615T102209
 DTSTART:20250802T131500
 DTEND:20250802T140000
 SUMMARY:🏀 U10 Boys: Arax vs Solway Lakers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Lakers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:040aa75e-ed06-45ca-8bf3-a7d7030048a0
+UID:d40c0bd4-695c-451f-bec8-36bebd7d1d4b
 SEQUENCE:0
-DTSTAMP:20250615T071215
+DTSTAMP:20250615T102209
 DTSTART:20250809T131500
 DTEND:20250809T140000
 SUMMARY:🏀 U10 Boys: Arax vs Toorak Tigersharks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Tigersharks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8aa38d63-4686-4f65-8ba0-58eff5ed43e3
+UID:f03574be-f189-47e0-9eaa-e0bb494335ff
 SEQUENCE:0
-DTSTAMP:20250615T071215
+DTSTAMP:20250615T102209
 DTSTART:20250816T131500
 DTEND:20250816T140000
 SUMMARY:🏀 U10 Boys: Arax vs Ashy Lightning Green
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:218f866b-75da-44e7-81da-169198067493
+UID:63b4cd51-7256-46ae-84ec-0d4e63179595
 SEQUENCE:0
-DTSTAMP:20250615T071215
+DTSTAMP:20250615T102209
 DTSTART:20250823T131500
 DTEND:20250823T140000
 SUMMARY:🏀 U10 Boys: Arax vs Malvern Tigers Green
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:386ff1b4-9574-439f-8a73-b3f77140c043
+UID:00f9513c-f8b3-4329-9c2e-cc33e799b406
 SEQUENCE:0
-DTSTAMP:20250615T071215
+DTSTAMP:20250615T102209
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U10 Boys: Arax vs Malvern Tigers Orange
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Orange\nArrive 15 mins early for warm-up
 END:VEVENT

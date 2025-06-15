@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Orange Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c267d5de-68b6-4799-8573-3987eac58b75
+UID:40c1e71f-2766-407c-924d-6b790599e57b
 SEQUENCE:0
-DTSTAMP:20250615T071309
+DTSTAMP:20250615T102306
 DTSTART:20250621T144500
 DTEND:20250621T153000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Orange vs Timberwolves Howlers
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
  olves Howlers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8f414d21-ae22-40b5-9c7a-e0894c4fa09f
+UID:803f9e4f-d211-4af0-8a07-f66cf12fb9cb
 SEQUENCE:0
-DTSTAMP:20250615T071309
+DTSTAMP:20250615T102306
 DTSTART:20250628T140000
 DTEND:20250628T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Orange vs Maccabi Ducks
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Ducks\nArrive 15 mins
   early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e387142a-591e-4e28-a304-278a3edc2f6f
+UID:b742a66a-f5c9-4301-a42a-5f16172987a3
 SEQUENCE:0
-DTSTAMP:20250615T071309
+DTSTAMP:20250615T102306
 DTSTART:20250726T144500
 DTEND:20250726T153000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Orange vs Heywood Park Piranhas
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Heywood
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9c053580-0309-4c5b-a901-37ae72573793
+UID:a93f123b-ca89-448e-ab48-a2c70591fe77
 SEQUENCE:0
-DTSTAMP:20250615T071309
+DTSTAMP:20250615T102306
 DTSTART:20250802T140000
 DTEND:20250802T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Orange vs Solway Wolverines
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Wolverines\nArrive 15
  mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:387ec29d-4ffa-4ad8-a4ce-c704b16e5746
+UID:5be7a409-572c-4f9f-8b90-065eabfc7579
 SEQUENCE:0
-DTSTAMP:20250615T071309
+DTSTAMP:20250615T102306
 DTSTART:20250809T144500
 DTEND:20250809T153000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Orange vs Glen Iris Scorpions Gardin
@@ -62,35 +62,38 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ce253926-5569-487a-8584-75603da6501b
+UID:868811f0-a75d-4e7a-a0c8-0482550991f0
 SEQUENCE:0
-DTSTAMP:20250615T071309
+DTSTAMP:20250615T102306
 DTSTART:20250816T131500
 DTEND:20250816T140000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Orange vs Timberwolves Howlers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Howlers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7b9b1de9-6f70-4377-bd31-7ab8fd1c409b
+UID:091a7806-2801-4cae-8bed-0a4ddf1d6166
 SEQUENCE:0
-DTSTAMP:20250615T071309
+DTSTAMP:20250615T102306
 DTSTART:20250823T131500
 DTEND:20250823T140000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Orange vs Maccabi Ducks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
  i Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:34ba2ff5-8723-47f0-b891-cbc2709df776
+UID:7e60334e-f151-4976-b00f-3a66d9c0eaac
 SEQUENCE:0
-DTSTAMP:20250615T071309
+DTSTAMP:20250615T102306
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Orange vs Heywood Park Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Heywoo
  d Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT

@@ -6,75 +6,81 @@ X-WR-CALNAME:Solway Nets Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f3d25c48-790b-421a-826e-62962fd423ec
+UID:4e6c225f-c969-458a-8ab8-16fba939f929
 SEQUENCE:0
-DTSTAMP:20250615T071233
+DTSTAMP:20250615T102228
 DTSTART:20250621T080000
 DTEND:20250621T084500
 SUMMARY:🏀 U10 Boys: Solway Nets vs Toorak Thrashers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
   Thrashers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:52f3d530-6ed6-400b-9152-67f2977d4e05
+UID:859abb31-79e5-47e9-8f04-8758944796dc
 SEQUENCE:0
-DTSTAMP:20250615T071233
+DTSTAMP:20250615T102228
 DTSTART:20250628T093000
 DTEND:20250628T101500
 SUMMARY:🏀 U10 Boys: Solway Nets vs Maccabi Eagles
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:06797acb-a658-4b67-96f5-1d1c84ff580c
+UID:57d7e293-aa48-41f4-b7a2-b24e6f400201
 SEQUENCE:0
-DTSTAMP:20250615T071233
+DTSTAMP:20250615T102228
 DTSTART:20250726T093000
 DTEND:20250726T101500
 SUMMARY:🏀 U10 Boys: Solway Nets vs Glen Iris Scorpions Summerhill
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
  ris Scorpions Summerhill\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:acdb2534-257a-44f7-8c6d-63db10588c4f
+UID:e8b1dc46-958a-4468-83de-755d036d0a89
 SEQUENCE:0
-DTSTAMP:20250615T071233
+DTSTAMP:20250615T102228
 DTSTART:20250802T093000
 DTEND:20250802T101500
 SUMMARY:🏀 U10 Boys: Solway Nets vs Maccabi Hawks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Hawks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:70c9e234-0353-4ce1-9cea-07d887341466
+UID:3b7c76d5-ba69-43a9-9ff8-eb6742e898f0
 SEQUENCE:0
-DTSTAMP:20250615T071233
+DTSTAMP:20250615T102228
 DTSTART:20250809T093000
 DTEND:20250809T101500
 SUMMARY:🏀 U10 Boys: Solway Nets vs Golden Hawks Iron
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Golden
   Hawks Iron\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5f6e8b95-b7a0-4d8e-b5bd-0c9e6b07478b
+UID:e6524d62-49ff-4ab5-a827-d3b0d575040f
 SEQUENCE:0
-DTSTAMP:20250615T071233
+DTSTAMP:20250615T102228
 DTSTART:20250816T080000
 DTEND:20250816T084500
 SUMMARY:🏀 U10 Boys: Solway Nets vs Toorak Thrashers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
   Thrashers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:52482954-a3b2-4a72-a679-ea27cf2bfd91
+UID:8d6ee980-170b-4b5b-a3c7-5298877d4062
 SEQUENCE:0
-DTSTAMP:20250615T071233
+DTSTAMP:20250615T102228
 DTSTART:20250823T101500
 DTEND:20250823T110000
 SUMMARY:🏀 U10 Boys: Solway Nets vs Maccabi Eagles
@@ -83,9 +89,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Eagles\nArrive 15 min
  s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6ca34810-4294-4862-aa78-0ea113c60e96
+UID:3421115d-4d0a-4e47-94fa-e24b54e5d71f
 SEQUENCE:0
-DTSTAMP:20250615T071233
+DTSTAMP:20250615T102228
 DTSTART:20250830T101500
 DTEND:20250830T110000
 SUMMARY:🏀 U10 Boys: Solway Nets vs Glen Iris Scorpions Summerhill

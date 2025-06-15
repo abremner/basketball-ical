@@ -6,9 +6,9 @@ X-WR-CALNAME:Korowa Grey Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:a61b3854-4958-4d04-8e3c-71caeada61ab
+UID:59a2bcbe-4f34-407f-a16e-1993b2f42604
 SEQUENCE:0
-DTSTAMP:20250615T071341
+DTSTAMP:20250615T102339
 DTSTART:20250621T140000
 DTEND:20250621T144500
 SUMMARY:🏀 U12 Girls: Korowa Grey vs Maccabi Ducks
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3dde19e1-1bd8-4b6d-90be-2d88c57e4dff
+UID:51a4c2df-0f5e-41ff-ac74-f2bfd18f6bec
 SEQUENCE:0
-DTSTAMP:20250615T071341
+DTSTAMP:20250615T102339
 DTSTART:20250628T131500
 DTEND:20250628T140000
 SUMMARY:🏀 U12 Girls: Korowa Grey vs Toorak Talons
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Toorak Talo
  ns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:925cd81c-d285-4383-9418-48ee439cced3
+UID:83bf7bf8-e6c6-4321-829b-dc92f20e0757
 SEQUENCE:0
-DTSTAMP:20250615T071341
+DTSTAMP:20250615T102339
 DTSTART:20250726T131500
 DTEND:20250726T140000
 SUMMARY:🏀 U12 Girls: Korowa Grey vs Maccabi Celtics
@@ -39,20 +39,21 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Cel
  tics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:337e06e9-faab-42ed-975b-f51e872e28a6
+UID:8b041354-911f-4935-bc61-c2d6a75671c5
 SEQUENCE:0
-DTSTAMP:20250615T071341
+DTSTAMP:20250615T102339
 DTSTART:20250802T140000
 DTEND:20250802T144500
 SUMMARY:🏀 U12 Girls: Korowa Grey vs Malvern Tigers Smith
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Smith\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:80ee5778-d773-4c04-a529-cd38db0e1b37
+UID:2a545268-654e-413b-a99e-fed881e1f1e2
 SEQUENCE:0
-DTSTAMP:20250615T071341
+DTSTAMP:20250615T102339
 DTSTART:20250809T131500
 DTEND:20250809T140000
 SUMMARY:🏀 U12 Girls: Korowa Grey vs Malvern Tigers Burton
@@ -61,9 +62,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Burton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2c589707-a6e8-4eec-b3e0-d5fe7b4cb902
+UID:3523fa0d-d18d-48b4-a1f7-34b226291f0d
 SEQUENCE:0
-DTSTAMP:20250615T071341
+DTSTAMP:20250615T102339
 DTSTART:20250816T131500
 DTEND:20250816T140000
 SUMMARY:🏀 U12 Girls: Korowa Grey vs Ashy Lightning Green
@@ -72,9 +73,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Ashy Lightn
  ing Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9f31301d-1322-4cbc-b990-a5e029a4667e
+UID:cee3c7bd-b82b-4957-8215-d6639e868433
 SEQUENCE:0
-DTSTAMP:20250615T071341
+DTSTAMP:20250615T102339
 DTSTART:20250823T131500
 DTEND:20250823T140000
 SUMMARY:🏀 U12 Girls: Korowa Grey vs Erica Piranhas
@@ -83,9 +84,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Erica Piran
  has\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b1f87c0f-7157-45d0-a6f8-aa3d0eea03d9
+UID:5c25d198-f766-4237-b84b-d02d720775cc
 SEQUENCE:0
-DTSTAMP:20250615T071341
+DTSTAMP:20250615T102339
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U12 Girls: Korowa Grey vs Maccabi Ducks

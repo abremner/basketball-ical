@@ -6,9 +6,9 @@ X-WR-CALNAME:Korowa Grey Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9f94baf6-31ef-4878-8b89-48e63d594526
+UID:f4dceaa1-a1f6-4aef-b072-6ad0edce498c
 SEQUENCE:0
-DTSTAMP:20250615T071253
+DTSTAMP:20250615T102249
 DTSTART:20250621T110000
 DTEND:20250621T114500
 SUMMARY:🏀 U10 Girls: Korowa Grey vs Malvern Tigers Brown
@@ -17,53 +17,57 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5424182b-0678-42fa-afba-495a64cc2309
+UID:84684761-8b87-45c2-97ec-05d0e31c1c14
 SEQUENCE:0
-DTSTAMP:20250615T071253
+DTSTAMP:20250615T102249
 DTSTART:20250628T080000
 DTEND:20250628T084500
 SUMMARY:🏀 U10 Girls: Korowa Grey vs AlphaWolf Blaze
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AlphaW
  olf Blaze\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1fdac5d2-d59f-4958-be5f-4ded7cd958e6
+UID:02f8004b-2e60-4c8f-b1ac-ad3164994a2d
 SEQUENCE:0
-DTSTAMP:20250615T071253
+DTSTAMP:20250615T102249
 DTSTART:20250726T080000
 DTEND:20250726T084500
 SUMMARY:🏀 U10 Girls: Korowa Grey vs Maccabi Ducks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:30f550f3-6492-4d39-b6da-d8b7b43ad110
+UID:a85d4a7c-da60-4243-8589-07334451c4a6
 SEQUENCE:0
-DTSTAMP:20250615T071253
+DTSTAMP:20250615T102249
 DTSTART:20250802T084500
 DTEND:20250802T093000
 SUMMARY:🏀 U10 Girls: Korowa Grey vs Maccabi Eagles
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
  i Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3918afc7-89a2-463b-a3f7-50135a322fea
+UID:621b9bc8-e3af-42c9-9b44-fb14bba4fe24
 SEQUENCE:0
-DTSTAMP:20250615T071253
+DTSTAMP:20250615T102249
 DTSTART:20250809T080000
 DTEND:20250809T084500
 SUMMARY:🏀 U10 Girls: Korowa Grey vs Ashy Lightning Green
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4be5cb44-7aa3-473f-b111-239550f1cb5b
+UID:ebd1bb40-17f3-45a6-b2be-a5b0d5609528
 SEQUENCE:0
-DTSTAMP:20250615T071253
+DTSTAMP:20250615T102249
 DTSTART:20250816T110000
 DTEND:20250816T114500
 SUMMARY:🏀 U10 Girls: Korowa Grey vs Malvern Tigers  Orange
@@ -72,13 +76,14 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers  Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:26e75191-a12d-450d-a15d-5bbcbb06cbae
+UID:16bc1e57-8930-4e92-8ffb-7e9cc04a9997
 SEQUENCE:0
-DTSTAMP:20250615T071253
+DTSTAMP:20250615T102249
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U10 Girls: Korowa Grey vs Timberwolves Gems
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Gems\nArrive 15 mins early for warm-up
 END:VEVENT

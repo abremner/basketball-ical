@@ -6,79 +6,86 @@ X-WR-CALNAME:Solway Cobras Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:de4bcf42-410d-441c-9e3f-a7dcc8a5409a
+UID:99fb0a2d-c241-45d1-b504-088775fe4823
 SEQUENCE:0
-DTSTAMP:20250615T071531
+DTSTAMP:20250615T102529
 DTSTART:20250615T194500
 DTEND:20250615T203000
 SUMMARY:🏀 U21 Mens: Solway Cobras vs Maccabi Le Boomers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Le Boomers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7a36b888-a846-44c9-b338-9c7999baa1f5
+UID:bca906fa-77fc-4b02-9303-8a78dbec1086
 SEQUENCE:0
-DTSTAMP:20250615T071531
+DTSTAMP:20250615T102529
 DTSTART:20250622T190000
 DTEND:20250622T194500
 SUMMARY:🏀 U21 Mens: Solway Cobras vs Solway Pythons
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Pythons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:39cee4fc-1054-4699-a7de-70905b91e007
+UID:9ec00d51-fc84-4efa-8210-cee62c6b50e9
 SEQUENCE:0
-DTSTAMP:20250615T071531
+DTSTAMP:20250615T102529
 DTSTART:20250727T190000
 DTEND:20250727T194500
 SUMMARY:🏀 U21 Mens: Solway Cobras vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1154590a-9f80-4b6c-a26b-10c8cdea7d9c
+UID:569405d2-e172-4e08-ae54-2abe690da139
 SEQUENCE:0
-DTSTAMP:20250615T071531
+DTSTAMP:20250615T102529
 DTSTART:20250803T194500
 DTEND:20250803T203000
 SUMMARY:🏀 U21 Mens: Solway Cobras vs Titans Larrys
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Titans
   Larrys\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6a5356a7-a626-4bcf-8e9d-40500393bed6
+UID:85ba402f-42f5-4a22-bf8f-b1a77db802a1
 SEQUENCE:0
-DTSTAMP:20250615T071531
+DTSTAMP:20250615T102529
 DTSTART:20250810T194500
 DTEND:20250810T203000
 SUMMARY:🏀 U21 Mens: Solway Cobras vs Maccabi Le Boomers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Le Boomers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0d87e0ff-5360-478c-9219-f34e782e84a3
+UID:d3f1cfe9-c3a1-443a-a3a0-879500614852
 SEQUENCE:0
-DTSTAMP:20250615T071531
+DTSTAMP:20250615T102529
 DTSTART:20250817T190000
 DTEND:20250817T194500
 SUMMARY:🏀 U21 Mens: Solway Cobras vs Solway Pythons
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Pythons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1535e5ad-869e-4486-ab4f-15d53c92be7d
+UID:8976b7b6-c29c-468d-b5e8-24402ecba2fc
 SEQUENCE:0
-DTSTAMP:20250615T071531
+DTSTAMP:20250615T102529
 DTSTART:20250831T190000
 DTEND:20250831T194500
 SUMMARY:🏀 U21 Mens: Solway Cobras vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT

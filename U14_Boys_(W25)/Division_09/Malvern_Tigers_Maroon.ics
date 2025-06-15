@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Maroon Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f7d5b27a-2e0b-4a59-9f4a-cd5c86b41e8b
+UID:dc4204e7-bda9-45c2-8c89-d501f4ae8237
 SEQUENCE:0
-DTSTAMP:20250615T071416
+DTSTAMP:20250615T102414
 DTSTART:20250621T153000
 DTEND:20250621T161500
 SUMMARY:🏀 U14 Boys: Malvern Tigers Maroon vs Maccabi Giants
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Giants\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:917b19ce-f574-42e6-9526-87b82d23bca9
+UID:a210438c-0538-4a1c-9ee7-510f43db8481
 SEQUENCE:0
-DTSTAMP:20250615T071416
+DTSTAMP:20250615T102414
 DTSTART:20250628T144500
 DTEND:20250628T153000
 SUMMARY:🏀 U14 Boys: Malvern Tigers Maroon vs Ashy Lightning White
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Ashy Lightning White\nArrive
  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:43a0ab53-604c-4c86-9664-331a6a75ea90
+UID:c0784d49-d228-49c3-a779-3e26211f0f23
 SEQUENCE:0
-DTSTAMP:20250615T071416
+DTSTAMP:20250615T102414
 DTSTART:20250726T144500
 DTEND:20250726T153000
 SUMMARY:🏀 U14 Boys: Malvern Tigers Maroon vs Timberwolves Raptors
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Raptors\nArrive
  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:42795f35-327f-4f19-8ba5-3a3332e74a9a
+UID:f38ad42c-3051-4a40-8677-507a81f82933
 SEQUENCE:0
-DTSTAMP:20250615T071416
+DTSTAMP:20250615T102414
 DTSTART:20250802T144500
 DTEND:20250802T153000
 SUMMARY:🏀 U14 Boys: Malvern Tigers Maroon vs Golden Hawks Iron
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Golden Hawks Iron\nArrive 15
  mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ecf17da2-f435-46f4-8689-679e997f069d
+UID:237334a1-2188-44b9-8f79-fa311d9b3e80
 SEQUENCE:0
-DTSTAMP:20250615T071416
+DTSTAMP:20250615T102414
 DTSTART:20250809T153000
 DTEND:20250809T161500
 SUMMARY:🏀 U14 Boys: Malvern Tigers Maroon vs Maccabi Falcons
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:978e8150-28a1-4002-813d-23460726170a
+UID:329401a4-53ab-4117-a8fd-cd9db1c28abb
 SEQUENCE:0
-DTSTAMP:20250615T071416
+DTSTAMP:20250615T102414
 DTSTART:20250816T153000
 DTEND:20250816T161500
 SUMMARY:🏀 U14 Boys: Malvern Tigers Maroon vs Maccabi Eagles
@@ -72,24 +72,26 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:45302b26-84e8-4286-808d-c4bb4d8cd454
+UID:251295e1-862e-4202-b740-07cc8333ed57
 SEQUENCE:0
-DTSTAMP:20250615T071416
+DTSTAMP:20250615T102414
 DTSTART:20250823T153000
 DTEND:20250823T161500
 SUMMARY:🏀 U14 Boys: Malvern Tigers Maroon vs SouthEast Venom Heat
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: SouthE
  ast Venom Heat\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c8c6d6a0-1307-45a1-9c65-4505145d8c62
+UID:183c4f9f-f3a7-473c-bba6-242835aa7a59
 SEQUENCE:0
-DTSTAMP:20250615T071416
+DTSTAMP:20250615T102414
 DTSTART:20250830T161500
 DTEND:20250830T170000
 SUMMARY:🏀 U14 Boys: Malvern Tigers Maroon vs Solway Spartans
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Spartans\nArrive 15 mins early for warm-up
 END:VEVENT

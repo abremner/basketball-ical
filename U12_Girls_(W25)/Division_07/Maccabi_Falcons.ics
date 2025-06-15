@@ -6,20 +6,21 @@ X-WR-CALNAME:Maccabi Falcons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:47881c25-170d-4045-acda-2ab40bc1e650
+UID:fea6467b-60a0-42cb-9ad9-d723dda7f4f4
 SEQUENCE:0
-DTSTAMP:20250615T071348
+DTSTAMP:20250615T102346
 DTSTART:20250621T131500
 DTEND:20250621T140000
 SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Solway Wrens
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Wrens\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:41b4ca1c-fbc1-4e6e-bdad-7d7a72f6a62b
+UID:b912107c-1eb8-458d-a9b3-bca5efa44ece
 SEQUENCE:0
-DTSTAMP:20250615T071348
+DTSTAMP:20250615T102346
 DTSTART:20250726T140000
 DTEND:20250726T144500
 SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Lauriston Suns
@@ -28,9 +29,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston S
  uns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d303f87e-2bd7-43fb-8a38-160d5182dec8
+UID:7ac12577-54ac-4079-a71f-9bfe4d8da8d9
 SEQUENCE:0
-DTSTAMP:20250615T071348
+DTSTAMP:20250615T102346
 DTSTART:20250802T140000
 DTEND:20250802T144500
 SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Creswick Piranhas
@@ -39,31 +40,33 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Creswick Pi
  ranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:76f04bc9-7d33-4301-b0c2-43cee4e1e7e1
+UID:96a45843-0a6a-4016-aa2d-4feb27d79a46
 SEQUENCE:0
-DTSTAMP:20250615T071348
+DTSTAMP:20250615T102346
 DTSTART:20250809T131500
 DTEND:20250809T140000
 SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Arax
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:57d59566-981c-497a-aeb2-f226f458bec5
+UID:18624f3d-4468-4024-83d9-c8c9a197559c
 SEQUENCE:0
-DTSTAMP:20250615T071348
+DTSTAMP:20250615T102346
 DTSTART:20250816T131500
 DTEND:20250816T140000
 SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Solway Wrens
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Wrens\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:efdc698d-3cdb-44b0-b558-fce6dbef6d09
+UID:549c939f-1d61-444f-836f-b63c67a61773
 SEQUENCE:0
-DTSTAMP:20250615T071348
+DTSTAMP:20250615T102346
 DTSTART:20250830T140000
 DTEND:20250830T144500
 SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Lauriston Suns

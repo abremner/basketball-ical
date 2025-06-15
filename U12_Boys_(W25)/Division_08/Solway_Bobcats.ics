@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Bobcats Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:93fc78e0-3ef1-4fe6-a3fb-6e4bf54d0086
+UID:886e9a50-1d53-4681-8ff9-9c27a3f1e71e
 SEQUENCE:0
-DTSTAMP:20250615T071314
+DTSTAMP:20250615T102312
 DTSTART:20250621T131500
 DTEND:20250621T140000
 SUMMARY:🏀 U12 Boys: Solway Bobcats vs Glen Iris Scorpions Summerhill
@@ -17,20 +17,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
  is Scorpions Summerhill\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e294a337-d81b-4150-94a1-29231cbed333
+UID:cef51a9b-4a9c-49f8-b66c-1e9ab466a6bd
 SEQUENCE:0
-DTSTAMP:20250615T071314
+DTSTAMP:20250615T102312
 DTSTART:20250628T114500
 DTEND:20250628T123000
 SUMMARY:🏀 U12 Boys: Solway Bobcats vs Ashy Lightning Green
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4ca8980c-f532-4c09-8a75-2e4a2d389716
+UID:c869b7e7-8194-4fc4-9cef-4f7bc538e84b
 SEQUENCE:0
-DTSTAMP:20250615T071314
+DTSTAMP:20250615T102312
 DTSTART:20250726T131500
 DTEND:20250726T140000
 SUMMARY:🏀 U12 Boys: Solway Bobcats vs Timberwolves Stealers
@@ -39,20 +40,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Stealers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d6dc0123-cfca-4bbc-aa1f-6c5a36ee05d9
+UID:58a58c0e-b585-4ed6-b05e-c8234e2f17a3
 SEQUENCE:0
-DTSTAMP:20250615T071314
+DTSTAMP:20250615T102312
 DTSTART:20250802T114500
 DTEND:20250802T123000
 SUMMARY:🏀 U12 Boys: Solway Bobcats vs Timberwolves Chargers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Chargers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d21b45f9-2728-4a23-86b0-796a9b87a8a5
+UID:db6e5487-d5fd-4911-a670-5d5abbdc0b0c
 SEQUENCE:0
-DTSTAMP:20250615T071314
+DTSTAMP:20250615T102312
 DTSTART:20250809T123000
 DTEND:20250809T131500
 SUMMARY:🏀 U12 Boys: Solway Bobcats vs Malvern Tigers Purple
@@ -61,35 +63,38 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Purple\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:76a07226-9921-4df3-9d3e-4e92ede449f0
+UID:21862ecf-b19e-4e81-b786-0776670e8a6d
 SEQUENCE:0
-DTSTAMP:20250615T071314
+DTSTAMP:20250615T102312
 DTSTART:20250816T114500
 DTEND:20250816T123000
 SUMMARY:🏀 U12 Boys: Solway Bobcats vs Glen Iris Scorpions Summerhill
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Summerhill\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c60bc2a6-3fcc-4f4e-b26c-6b7baeda1dde
+UID:7f27a8d6-f831-42bb-9e1a-d5673ad65311
 SEQUENCE:0
-DTSTAMP:20250615T071314
+DTSTAMP:20250615T102312
 DTSTART:20250823T114500
 DTEND:20250823T123000
 SUMMARY:🏀 U12 Boys: Solway Bobcats vs Ashy Lightning Green
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b665d3c8-19df-4890-ad6d-df885ce6efcc
+UID:9c48ee59-ec19-473f-846c-7dc76f29733e
 SEQUENCE:0
-DTSTAMP:20250615T071314
+DTSTAMP:20250615T102312
 DTSTART:20250830T114500
 DTEND:20250830T123000
 SUMMARY:🏀 U12 Boys: Solway Bobcats vs Timberwolves Stealers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Stealers\nArrive 15 mins early for warm-up
 END:VEVENT

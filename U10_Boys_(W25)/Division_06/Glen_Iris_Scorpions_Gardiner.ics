@@ -6,9 +6,9 @@ X-WR-CALNAME:Glen Iris Scorpions Gardiner Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:07fa159a-004a-4318-92c3-2c69d99ce764
+UID:4a7743e2-2414-4506-af7f-1502e049e291
 SEQUENCE:0
-DTSTAMP:20250615T071221
+DTSTAMP:20250615T102216
 DTSTART:20250621T110000
 DTEND:20250621T114500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Gardiner vs Solway Bucks
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
  Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e960092e-fd12-4a87-a9aa-c4b2c177817a
+UID:b5da6227-97aa-4fa5-9650-5085945dffcc
 SEQUENCE:0
-DTSTAMP:20250615T071221
+DTSTAMP:20250615T102216
 DTSTART:20250628T110000
 DTEND:20250628T114500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Gardiner vs Toorak Torpedoes
@@ -28,21 +28,22 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Torpedoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3ab12264-7b2e-4bcd-bea3-09337717ade6
+UID:d3bb27b3-add6-442f-be57-a6a5b53c04fb
 SEQUENCE:0
-DTSTAMP:20250615T071221
+DTSTAMP:20250615T102216
 DTSTART:20250726T101500
 DTEND:20250726T110000
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Gardiner vs SouthEast Venom Roc
  kets
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: SouthE
  ast Venom Rockets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ced1e795-2cf6-4c64-9c67-7654a91ce088
+UID:23fe6440-c0d2-49b5-9140-24a73c03cecf
 SEQUENCE:0
-DTSTAMP:20250615T071221
+DTSTAMP:20250615T102216
 DTSTART:20250802T110000
 DTEND:20250802T114500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Gardiner vs Maccabi Ducks
@@ -51,9 +52,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e1cee368-f0e1-4dd4-8c71-c8d518202c44
+UID:2eb955ed-00b2-4ef3-839d-c1b3bc0fe243
 SEQUENCE:0
-DTSTAMP:20250615T071221
+DTSTAMP:20250615T102216
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Gardiner vs AlphaWolf Hunters
@@ -62,9 +63,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
  lf Hunters\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:71858f41-cead-49c6-a58d-007cc55b480e
+UID:4cebffc6-7d05-49c8-b6fd-878fa8c9dca9
 SEQUENCE:0
-DTSTAMP:20250615T071221
+DTSTAMP:20250615T102216
 DTSTART:20250816T110000
 DTEND:20250816T114500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Gardiner vs Timberwolves Cubs
@@ -73,9 +74,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Cubs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8c6dfd68-34fe-4b5d-818a-27b158ff03d7
+UID:46e58635-3678-4d59-a99d-a97874762f91
 SEQUENCE:0
-DTSTAMP:20250615T071221
+DTSTAMP:20250615T102216
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Gardiner vs Glen Iris Scorpions
@@ -85,13 +86,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
  is Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:10e7655b-9b3f-469b-a2d8-af6a1657d5e2
+UID:ce115ba0-39af-4e6a-8754-992237d0afdc
 SEQUENCE:0
-DTSTAMP:20250615T071221
+DTSTAMP:20250615T102216
 DTSTART:20250830T101500
 DTEND:20250830T110000
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Gardiner vs Solway Bucks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT

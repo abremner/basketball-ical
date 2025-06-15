@@ -6,53 +6,57 @@ X-WR-CALNAME:Comets Sharks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:6aaaf2a8-2cfc-47cb-8cfa-a8fe1b99344f
+UID:8afc3b03-1c32-45c0-8ba8-53a913706e1c
 SEQUENCE:0
-DTSTAMP:20250615T071411
+DTSTAMP:20250615T102410
 DTSTART:20250628T131500
 DTEND:20250628T140000
 SUMMARY:🏀 U14 Boys: Comets Sharks vs Prahran Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Prahra
  n Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1cb016e8-0f24-4ced-a885-146a1a28c71a
+UID:5c02afc1-9606-49cf-a7c7-ebb84933e5bb
 SEQUENCE:0
-DTSTAMP:20250615T071411
+DTSTAMP:20250615T102410
 DTSTART:20250726T131500
 DTEND:20250726T140000
 SUMMARY:🏀 U14 Boys: Comets Sharks vs Arax
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9492da3c-de03-4065-82a4-72d666cabcee
+UID:e348cf51-5447-434a-8527-1b8b0f463807
 SEQUENCE:0
-DTSTAMP:20250615T071411
+DTSTAMP:20250615T102410
 DTSTART:20250802T161500
 DTEND:20250802T170000
 SUMMARY:🏀 U14 Boys: Comets Sharks vs Toorak Tractors
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Tractors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:197783e8-2e79-4de6-99ca-576b87a22c8a
+UID:0ce2da50-cf47-4531-a276-2131c3c5464f
 SEQUENCE:0
-DTSTAMP:20250615T071411
+DTSTAMP:20250615T102410
 DTSTART:20250809T161500
 DTEND:20250809T170000
 SUMMARY:🏀 U14 Boys: Comets Sharks vs Solway Mavericks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Mavericks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2e6ca12a-e39f-40fa-ba63-03e87e733ea6
+UID:917ed33d-e03f-4e1f-8321-c5a661b434af
 SEQUENCE:0
-DTSTAMP:20250615T071411
+DTSTAMP:20250615T102410
 DTSTART:20250816T153000
 DTEND:20250816T161500
 SUMMARY:🏀 U14 Boys: Comets Sharks vs Malvern Tigers Purple
@@ -61,9 +65,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Purple\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2387eb16-85c7-41f6-a405-56c33265878d
+UID:ab4c9d7c-8bf2-4173-9629-c570321d9e37
 SEQUENCE:0
-DTSTAMP:20250615T071411
+DTSTAMP:20250615T102410
 DTSTART:20250823T153000
 DTEND:20250823T161500
 SUMMARY:🏀 U14 Boys: Comets Sharks vs Solway Ninjas

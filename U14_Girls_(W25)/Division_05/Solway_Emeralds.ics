@@ -6,42 +6,45 @@ X-WR-CALNAME:Solway Emeralds Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:cfa6929e-4b77-488e-84dc-483d615ed737
+UID:0b52b24f-56ff-4b00-a41c-0c6f054e45b1
 SEQUENCE:0
-DTSTAMP:20250615T071430
+DTSTAMP:20250615T102429
 DTSTART:20250621T131500
 DTEND:20250621T140000
 SUMMARY:🏀 U14 Girls: Solway Emeralds vs Arax
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2b3371fb-8d1c-4506-8965-3aa911610fed
+UID:acd0854e-3c19-4e95-b472-6abe047198c4
 SEQUENCE:0
-DTSTAMP:20250615T071430
+DTSTAMP:20250615T102429
 DTSTART:20250628T161500
 DTEND:20250628T170000
 SUMMARY:🏀 U14 Girls: Solway Emeralds vs Ashy Lightning Yellow
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
  ightning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7d59d126-c293-4b8d-b844-898dd9c8e3a5
+UID:f70c19df-b7ea-4bf6-8eea-6dde553876a2
 SEQUENCE:0
-DTSTAMP:20250615T071430
+DTSTAMP:20250615T102429
 DTSTART:20250726T161500
 DTEND:20250726T170000
 SUMMARY:🏀 U14 Girls: Solway Emeralds vs Korowa Cherry
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Korowa
   Cherry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:00097839-808e-4045-9d38-4a5d8de3b5b1
+UID:cdfc5c19-8b97-4d5e-9645-353cffcf9dac
 SEQUENCE:0
-DTSTAMP:20250615T071430
+DTSTAMP:20250615T102429
 DTSTART:20250802T144500
 DTEND:20250802T153000
 SUMMARY:🏀 U14 Girls: Solway Emeralds vs Ranfurlie Piranhas
@@ -50,20 +53,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ranfurl
  ie Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:72f6737e-b03f-4c9e-abce-baad278a74a5
+UID:41836274-87f2-4b6a-9291-13ed3b34dc15
 SEQUENCE:0
-DTSTAMP:20250615T071430
+DTSTAMP:20250615T102429
 DTSTART:20250809T153000
 DTEND:20250809T161500
 SUMMARY:🏀 U14 Girls: Solway Emeralds vs McArthur Park Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: McArth
  ur Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dbd1a9bf-2c5e-40c2-be06-381394647778
+UID:f5f0a2b7-373c-49c9-b544-c4854342d3ea
 SEQUENCE:0
-DTSTAMP:20250615T071430
+DTSTAMP:20250615T102429
 DTSTART:20250816T144500
 DTEND:20250816T153000
 SUMMARY:🏀 U14 Girls: Solway Emeralds vs Malvern Tigers Burton
@@ -72,24 +76,26 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Burton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f6a09fad-234e-4a0c-b9f6-d56ebb7ecdef
+UID:61ee2b48-547c-4c2d-9f16-1241ae757091
 SEQUENCE:0
-DTSTAMP:20250615T071430
+DTSTAMP:20250615T102429
 DTSTART:20250823T153000
 DTEND:20250823T161500
 SUMMARY:🏀 U14 Girls: Solway Emeralds vs Maccabi Bucks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5f3750bd-8edb-49b6-9830-b603dab19bb2
+UID:ddc38724-a54e-4600-b273-65bab8f40a92
 SEQUENCE:0
-DTSTAMP:20250615T071430
+DTSTAMP:20250615T102429
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U14 Girls: Solway Emeralds vs Arax
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT

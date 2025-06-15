@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Black Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:3140110d-a625-402c-a2b8-a9b7019e4307
+UID:1c542063-5e9f-42de-8cee-56f4f55066e7
 SEQUENCE:0
-DTSTAMP:20250615T071437
+DTSTAMP:20250615T102436
 DTSTART:20250621T200000
 DTEND:20250621T204500
 SUMMARY:🏀 U16 Boys: Malvern Tigers Black vs Toorak Tropics
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak
  Tropics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1d40a191-1169-40a7-898c-5ee7d7ec62be
+UID:57ee2eb6-2944-4b93-a429-54251985b3a4
 SEQUENCE:0
-DTSTAMP:20250615T071437
+DTSTAMP:20250615T102436
 DTSTART:20250628T200000
 DTEND:20250628T204500
 SUMMARY:🏀 U16 Boys: Malvern Tigers Black vs Timberwolves Hustlers
@@ -28,57 +28,62 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
  olves Hustlers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e9e27778-5870-4424-b7e6-e712c218460b
+UID:7e37ccd0-5040-43c2-b2bf-48f224f1d58f
 SEQUENCE:0
-DTSTAMP:20250615T071437
+DTSTAMP:20250615T102436
 DTSTART:20250726T183000
 DTEND:20250726T191500
 SUMMARY:🏀 U16 Boys: Malvern Tigers Black vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:11310e79-6f28-43ff-8788-ea8ea25f6e75
+UID:9c453e1a-ac99-4eb0-9e5a-cf09c3b0ed00
 SEQUENCE:0
-DTSTAMP:20250615T071437
+DTSTAMP:20250615T102436
 DTSTART:20250809T191500
 DTEND:20250809T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers Black vs Timberwolves United
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves United\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8d365c0a-54e4-4ac4-819f-11dd80a8e41f
+UID:35c36315-ee97-492c-ba11-5d012d0272f9
 SEQUENCE:0
-DTSTAMP:20250615T071437
+DTSTAMP:20250615T102436
 DTSTART:20250816T183000
 DTEND:20250816T191500
 SUMMARY:🏀 U16 Boys: Malvern Tigers Black vs Bayside Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Baysid
  e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:442d8679-3f54-4608-8ea5-7439600a89b0
+UID:2f164d00-43e5-4a1d-9ef5-7a93199793d9
 SEQUENCE:0
-DTSTAMP:20250615T071437
+DTSTAMP:20250615T102436
 DTSTART:20250823T183000
 DTEND:20250823T191500
 SUMMARY:🏀 U16 Boys: Malvern Tigers Black vs Solway Rockets
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Rockets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ac11a462-8022-4370-8526-09ef72784b29
+UID:574cfe51-a65c-44f5-a7a3-d754faaba3b7
 SEQUENCE:0
-DTSTAMP:20250615T071437
+DTSTAMP:20250615T102436
 DTSTART:20250830T191500
 DTEND:20250830T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers Black vs Toorak Tropics
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
   Tropics\nArrive 15 mins early for warm-up
 END:VEVENT

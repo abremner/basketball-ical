@@ -6,9 +6,9 @@ X-WR-CALNAME:Ashy Lightning Yellow Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:1839ecd5-d5ed-45ec-8c66-b025167cee93
+UID:efee7642-aa24-41d3-af0a-6f9c5200cfc0
 SEQUENCE:0
-DTSTAMP:20250615T071322
+DTSTAMP:20250615T102319
 DTSTART:20250628T123000
 DTEND:20250628T131500
 SUMMARY:🏀 U12 Boys: Ashy Lightning Yellow vs Glen Iris Scorpions Raven
@@ -17,32 +17,34 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Glen Iris Scorpions Raven\nAr
  rive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:aaac69d1-5903-4ad6-9a99-0c1df28253ad
+UID:b1b41d1f-1ce6-4f81-924d-390bf27c95e7
 SEQUENCE:0
-DTSTAMP:20250615T071322
+DTSTAMP:20250615T102319
 DTSTART:20250726T123000
 DTEND:20250726T131500
 SUMMARY:🏀 U12 Boys: Ashy Lightning Yellow vs Glen Iris Scorpions Nettle
  ton
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cdd69907-e29a-4c79-8354-15022eaa8309
+UID:4b21a555-9359-447a-a1d3-8ac2a2c7a44d
 SEQUENCE:0
-DTSTAMP:20250615T071322
+DTSTAMP:20250615T102319
 DTSTART:20250802T114500
 DTEND:20250802T123000
 SUMMARY:🏀 U12 Boys: Ashy Lightning Yellow vs Ardrie Park Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ardrie
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:101dd59b-7dee-4241-855f-93019f8f15e2
+UID:9834f7df-ea4b-48c3-956b-25161aa7836e
 SEQUENCE:0
-DTSTAMP:20250615T071322
+DTSTAMP:20250615T102319
 DTSTART:20250809T114500
 DTEND:20250809T123000
 SUMMARY:🏀 U12 Boys: Ashy Lightning Yellow vs Golden Hawks Blaze
@@ -51,20 +53,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Golden
  Hawks Blaze\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:83f65e38-06c5-4c45-a9ed-c208e4df9900
+UID:396df8dc-4919-4b02-af0b-b3db9fca3af8
 SEQUENCE:0
-DTSTAMP:20250615T071322
+DTSTAMP:20250615T102319
 DTSTART:20250816T114500
 DTEND:20250816T123000
 SUMMARY:🏀 U12 Boys: Ashy Lightning Yellow vs Maccabi Lakers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Lakers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:28260efb-453c-41fd-91cf-27b95255f3ef
+UID:488119b6-70df-4c33-892e-59cfd3abb124
 SEQUENCE:0
-DTSTAMP:20250615T071322
+DTSTAMP:20250615T102319
 DTSTART:20250823T114500
 DTEND:20250823T123000
 SUMMARY:🏀 U12 Boys: Ashy Lightning Yellow vs Timberwolves Cyclones
@@ -73,9 +76,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Cyclones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a345873f-c669-4ce3-8b71-4506e2291ae9
+UID:1a8870e3-975a-46ee-af2b-b56cecdaeca4
 SEQUENCE:0
-DTSTAMP:20250615T071322
+DTSTAMP:20250615T102319
 DTSTART:20250830T123000
 DTEND:20250830T131500
 SUMMARY:🏀 U12 Boys: Ashy Lightning Yellow vs Maccabi Hawks

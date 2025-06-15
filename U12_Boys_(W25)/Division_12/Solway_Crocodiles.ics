@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Crocodiles Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b4a2e21a-762c-4906-b458-c1cd942b7155
+UID:c0235110-cfc1-4763-9c2b-75766efdad9a
 SEQUENCE:0
-DTSTAMP:20250615T071327
+DTSTAMP:20250615T102325
 DTSTART:20250621T123000
 DTEND:20250621T131500
 SUMMARY:🏀 U12 Boys: Solway Crocodiles vs Timberwolves Fury
@@ -17,20 +17,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Fury\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:da56605a-7523-4c44-a24a-c26f633c18f9
+UID:4590f420-7e9f-475a-822f-a7965806c6c7
 SEQUENCE:0
-DTSTAMP:20250615T071327
+DTSTAMP:20250615T102325
 DTSTART:20250628T123000
 DTEND:20250628T131500
 SUMMARY:🏀 U12 Boys: Solway Crocodiles vs Solway Dingoes
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Dingoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6bc01ce2-7142-4a89-a094-35cbea523e3c
+UID:90721f06-5c88-413f-916d-01cb351f719c
 SEQUENCE:0
-DTSTAMP:20250615T071327
+DTSTAMP:20250615T102325
 DTSTART:20250726T114500
 DTEND:20250726T123000
 SUMMARY:🏀 U12 Boys: Solway Crocodiles vs Balaclava Piranhas
@@ -39,9 +40,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Balacla
  va Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:71233300-2842-4378-8643-b7504d50f202
+UID:8f91138b-c468-418d-b8f9-10150002b485
 SEQUENCE:0
-DTSTAMP:20250615T071327
+DTSTAMP:20250615T102325
 DTSTART:20250802T114500
 DTEND:20250802T123000
 SUMMARY:🏀 U12 Boys: Solway Crocodiles vs Maccabi Kings
@@ -50,9 +51,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Kings\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:87bf96ea-14fb-47c5-ae01-3f771ea2bd25
+UID:fd4cd3b0-0ec4-4ac1-a47c-28507946de4a
 SEQUENCE:0
-DTSTAMP:20250615T071327
+DTSTAMP:20250615T102325
 DTSTART:20250809T114500
 DTEND:20250809T123000
 SUMMARY:🏀 U12 Boys: Solway Crocodiles vs Timberwolves Cavs
@@ -61,9 +62,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Cavs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:368a5479-7d8f-4fb2-afb2-2306a3553b9d
+UID:6ef5583b-c928-4069-b97a-dd54261bda5d
 SEQUENCE:0
-DTSTAMP:20250615T071327
+DTSTAMP:20250615T102325
 DTSTART:20250816T114500
 DTEND:20250816T123000
 SUMMARY:🏀 U12 Boys: Solway Crocodiles vs Malvern Tigers Tan
@@ -72,9 +73,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Tan\nArrive 15
   mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d61e0e5f-47c6-4bb7-b10a-c92135a20d5e
+UID:0a547db0-bd6f-4c8c-9c67-0d14799ceac4
 SEQUENCE:0
-DTSTAMP:20250615T071327
+DTSTAMP:20250615T102325
 DTSTART:20250823T144500
 DTEND:20250823T153000
 SUMMARY:🏀 U12 Boys: Solway Crocodiles vs Wilson Piranhas
@@ -83,9 +84,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Wilson
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:48372832-b41f-401a-99fa-90a4367cb0ba
+UID:3407f0c9-5765-4db6-bb2b-088ae0ed6ee1
 SEQUENCE:0
-DTSTAMP:20250615T071327
+DTSTAMP:20250615T102325
 DTSTART:20250830T123000
 DTEND:20250830T131500
 SUMMARY:🏀 U12 Boys: Solway Crocodiles vs Malvern Tigers Aqua

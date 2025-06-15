@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Burton Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:5e02ba54-463e-41cb-ba01-6ba2115b177e
+UID:394ef145-a240-4630-80ee-e659a5bc7401
 SEQUENCE:0
-DTSTAMP:20250615T071429
+DTSTAMP:20250615T102428
 DTSTART:20250621T144500
 DTEND:20250621T153000
 SUMMARY:🏀 U14 Girls: Malvern Tigers Burton vs Ranfurlie Piranhas
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ranfurl
  ie Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:565343de-761a-42b0-b722-0dbc6a40f292
+UID:52ea99ca-792e-4063-b998-380bd75ceef1
 SEQUENCE:0
-DTSTAMP:20250615T071429
+DTSTAMP:20250615T102428
 DTSTART:20250628T144500
 DTEND:20250628T153000
 SUMMARY:🏀 U14 Girls: Malvern Tigers Burton vs McArthur Park Piranhas
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: McArthu
  r Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cb9f4ad8-ff6a-4dcd-bc8d-c35ee6f47045
+UID:ecf1f372-bea4-44fa-aca5-e31f515f5049
 SEQUENCE:0
-DTSTAMP:20250615T071429
+DTSTAMP:20250615T102428
 DTSTART:20250726T144500
 DTEND:20250726T153000
 SUMMARY:🏀 U14 Girls: Malvern Tigers Burton vs Maccabi Bucks
@@ -39,20 +39,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1ff11e6a-e526-4990-aaf4-9599be706c1b
+UID:c6b87f24-2e20-4177-a7e5-daed177ea44d
 SEQUENCE:0
-DTSTAMP:20250615T071429
+DTSTAMP:20250615T102428
 DTSTART:20250802T161500
 DTEND:20250802T170000
 SUMMARY:🏀 U14 Girls: Malvern Tigers Burton vs Ashy Lightning Yellow
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
  ightning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b9fbeed1-4402-4a68-b4ca-59b9a0dd7c12
+UID:2a70db05-79cb-4b41-91ce-1f6315b5cac8
 SEQUENCE:0
-DTSTAMP:20250615T071429
+DTSTAMP:20250615T102428
 DTSTART:20250809T144500
 DTEND:20250809T153000
 SUMMARY:🏀 U14 Girls: Malvern Tigers Burton vs Korowa Cherry
@@ -61,9 +62,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Korowa
  Cherry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f30df253-1614-4449-990b-7de6184f6f7f
+UID:297a4f74-351a-4bc9-9197-1263144be9ed
 SEQUENCE:0
-DTSTAMP:20250615T071429
+DTSTAMP:20250615T102428
 DTSTART:20250816T144500
 DTEND:20250816T153000
 SUMMARY:🏀 U14 Girls: Malvern Tigers Burton vs Solway Emeralds
@@ -72,24 +73,26 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Emeralds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3c206ef0-ac00-414a-b080-4e8e7733a69c
+UID:07d73d78-9c18-46e9-a721-4d71a767c169
 SEQUENCE:0
-DTSTAMP:20250615T071429
+DTSTAMP:20250615T102428
 DTSTART:20250823T131500
 DTEND:20250823T140000
 SUMMARY:🏀 U14 Girls: Malvern Tigers Burton vs Arax
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4fbdc6cb-c4cc-45c0-bb97-259c16355ae5
+UID:6346afd1-c2b5-4c27-b672-31e70b73a299
 SEQUENCE:0
-DTSTAMP:20250615T071429
+DTSTAMP:20250615T102428
 DTSTART:20250830T153000
 DTEND:20250830T161500
 SUMMARY:🏀 U14 Girls: Malvern Tigers Burton vs Ranfurlie Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ranfur
  lie Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT

@@ -6,20 +6,21 @@ X-WR-CALNAME:Timberwolves Gems Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:8d779b29-f6aa-4ac6-be95-34c9104d9328
+UID:7f1007ab-351d-447c-b328-4d71c3539bce
 SEQUENCE:0
-DTSTAMP:20250615T071255
+DTSTAMP:20250615T102252
 DTSTART:20250621T080000
 DTEND:20250621T084500
 SUMMARY:🏀 U10 Girls: Timberwolves Gems vs AlphaWolf Blaze
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AlphaW
  olf Blaze\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f40de88b-cb28-452b-85cd-56e88a8cd344
+UID:fe5108dd-8774-49ad-be9a-f399d521f213
 SEQUENCE:0
-DTSTAMP:20250615T071255
+DTSTAMP:20250615T102252
 DTSTART:20250628T110000
 DTEND:20250628T114500
 SUMMARY:🏀 U10 Girls: Timberwolves Gems vs Ashy Lightning Green
@@ -28,9 +29,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Ashy Lightn
  ing Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6a2c7104-5168-469c-b4af-9d809c9db439
+UID:f45b26ef-ff96-4ad8-9c04-398eb39bebad
 SEQUENCE:0
-DTSTAMP:20250615T071255
+DTSTAMP:20250615T102252
 DTSTART:20250726T110000
 DTEND:20250726T114500
 SUMMARY:🏀 U10 Girls: Timberwolves Gems vs Malvern Tigers  Orange
@@ -39,9 +40,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers  Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3404f3b0-6dbd-4061-9a6d-7354d952167b
+UID:c096eda7-801e-4c00-be07-b2a25f59b341
 SEQUENCE:0
-DTSTAMP:20250615T071255
+DTSTAMP:20250615T102252
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Girls: Timberwolves Gems vs Malvern Tigers Brown
@@ -50,31 +51,33 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2a764ebe-332a-41d6-a03f-6a744e4e6d61
+UID:419ea479-7ea6-4f9e-a424-a615df7e872b
 SEQUENCE:0
-DTSTAMP:20250615T071255
+DTSTAMP:20250615T102252
 DTSTART:20250816T080000
 DTEND:20250816T084500
 SUMMARY:🏀 U10 Girls: Timberwolves Gems vs Malvern Tigers Purple
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Purple\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:027a73d7-ce87-4c72-b653-72bbc382f659
+UID:b4ab88ad-2abe-4266-98c9-0247f43e481a
 SEQUENCE:0
-DTSTAMP:20250615T071255
+DTSTAMP:20250615T102252
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U10 Girls: Timberwolves Gems vs Korowa Grey
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Korowa
   Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8bf3d7dd-108b-466f-8d69-ff5a4c98eeaa
+UID:1da94634-5009-42e0-bc43-c5ee315092d9
 SEQUENCE:0
-DTSTAMP:20250615T071255
+DTSTAMP:20250615T102252
 DTSTART:20250830T110000
 DTEND:20250830T114500
 SUMMARY:🏀 U10 Girls: Timberwolves Gems vs Maccabi Eagles

@@ -6,31 +6,33 @@ X-WR-CALNAME:Malvern Tigers White Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2cf58642-ecd9-4052-b543-23d20eb5cc82
+UID:a237014d-fbf1-4841-9e02-d5aa474ebb5f
 SEQUENCE:0
-DTSTAMP:20250615T071359
+DTSTAMP:20250615T102358
 DTSTART:20250621T170000
 DTEND:20250621T174500
 SUMMARY:🏀 U14 Boys: Malvern Tigers White vs Solway Crusaders
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Crusaders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:af238f2c-5f3a-4325-bbd5-f7323ab02ea6
+UID:ebe5d1bb-a26e-42ba-aa40-5e50bd3e2591
 SEQUENCE:0
-DTSTAMP:20250615T071359
+DTSTAMP:20250615T102358
 DTSTART:20250628T170000
 DTEND:20250628T174500
 SUMMARY:🏀 U14 Boys: Malvern Tigers White vs Maccabi Bucks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a2c79078-0ac0-4a3c-906f-cd71d69dbdaa
+UID:da281d1d-31cc-4263-bbd9-794fef0228e0
 SEQUENCE:0
-DTSTAMP:20250615T071359
+DTSTAMP:20250615T102358
 DTSTART:20250726T161500
 DTEND:20250726T170000
 SUMMARY:🏀 U14 Boys: Malvern Tigers White vs Timberwolves Celtics
@@ -39,9 +41,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
  olves Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4587510f-2ea0-45fc-8876-48bee008b468
+UID:ec8594c6-4607-487d-9665-e6d5ff3be9f7
 SEQUENCE:0
-DTSTAMP:20250615T071359
+DTSTAMP:20250615T102358
 DTSTART:20250802T161500
 DTEND:20250802T170000
 SUMMARY:🏀 U14 Boys: Malvern Tigers White vs Solway Trojans
@@ -50,9 +52,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Trojans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:16357f9b-f87c-4751-9a63-a2a05e65b299
+UID:dd1cbca5-71e7-4600-a05e-454ccba344bc
 SEQUENCE:0
-DTSTAMP:20250615T071359
+DTSTAMP:20250615T102358
 DTSTART:20250809T161500
 DTEND:20250809T170000
 SUMMARY:🏀 U14 Boys: Malvern Tigers White vs Toorak Triple-Threat
@@ -61,9 +63,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak
  Triple-Threat\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e1c3cfba-45d6-4f8c-a130-7046f67f2103
+UID:470114c3-f68b-4a95-a2ce-4da3fb3ebd18
 SEQUENCE:0
-DTSTAMP:20250615T071359
+DTSTAMP:20250615T102358
 DTSTART:20250816T161500
 DTEND:20250816T170000
 SUMMARY:🏀 U14 Boys: Malvern Tigers White vs Ashy Lightning Green
@@ -72,13 +74,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9781b465-b0db-4b81-992c-63fd31a3809e
+UID:e1437801-a928-4644-a5d5-7731dff996c5
 SEQUENCE:0
-DTSTAMP:20250615T071359
+DTSTAMP:20250615T102358
 DTSTART:20250830T170000
 DTEND:20250830T174500
 SUMMARY:🏀 U14 Boys: Malvern Tigers White vs Solway Crusaders
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Crusaders\nArrive 15 mins early for warm-up
 END:VEVENT

@@ -6,20 +6,21 @@ X-WR-CALNAME:Timberwolves Stealers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e7f6990b-9d2c-46b9-bfd0-486407975a49
+UID:65e222e3-73d1-4913-9527-9fa7ce2b3e95
 SEQUENCE:0
-DTSTAMP:20250615T071315
+DTSTAMP:20250615T102313
 DTSTART:20250621T114500
 DTEND:20250621T123000
 SUMMARY:🏀 U12 Boys: Timberwolves Stealers vs Timberwolves Chargers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Chargers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d417e424-71a6-4638-8358-7497818b74e7
+UID:941da291-f998-48ae-bbe6-def751d9f7ed
 SEQUENCE:0
-DTSTAMP:20250615T071315
+DTSTAMP:20250615T102313
 DTSTART:20250628T123000
 DTEND:20250628T131500
 SUMMARY:🏀 U12 Boys: Timberwolves Stealers vs Glen Iris Scorpions Summer
@@ -29,9 +30,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
  is Scorpions Summerhill\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f091e969-9797-4bf4-ae13-5f323b1b7bbc
+UID:7534f657-7093-4217-94f2-99da6b95aacd
 SEQUENCE:0
-DTSTAMP:20250615T071315
+DTSTAMP:20250615T102313
 DTSTART:20250726T131500
 DTEND:20250726T140000
 SUMMARY:🏀 U12 Boys: Timberwolves Stealers vs Solway Bobcats
@@ -40,9 +41,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
  Bobcats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:213a1097-9267-4764-aa31-0fe3fe7074ad
+UID:e888fae9-4b62-4f43-8940-0416bffe45a1
 SEQUENCE:0
-DTSTAMP:20250615T071315
+DTSTAMP:20250615T102313
 DTSTART:20250802T123000
 DTEND:20250802T131500
 SUMMARY:🏀 U12 Boys: Timberwolves Stealers vs Malvern Tigers Purple
@@ -51,20 +52,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Purple\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:70dca397-dbc3-42d1-bdc4-f3375db1cd89
+UID:52e0cb1e-0a10-47ed-84f6-de4e30feb0f2
 SEQUENCE:0
-DTSTAMP:20250615T071315
+DTSTAMP:20250615T102313
 DTSTART:20250809T114500
 DTEND:20250809T123000
 SUMMARY:🏀 U12 Boys: Timberwolves Stealers vs Ashy Lightning Green
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e11905dd-268e-42f6-8fc4-a2778abc2291
+UID:5ce5a4a8-5347-4719-b117-7316fb0522fa
 SEQUENCE:0
-DTSTAMP:20250615T071315
+DTSTAMP:20250615T102313
 DTSTART:20250816T131500
 DTEND:20250816T140000
 SUMMARY:🏀 U12 Boys: Timberwolves Stealers vs Timberwolves Chargers
@@ -73,9 +75,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Chargers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fc18e99d-c749-4522-9d98-78b20b249936
+UID:9381c428-e97f-4d58-b287-9f2a4740e6e4
 SEQUENCE:0
-DTSTAMP:20250615T071315
+DTSTAMP:20250615T102313
 DTSTART:20250823T123000
 DTEND:20250823T131500
 SUMMARY:🏀 U12 Boys: Timberwolves Stealers vs Glen Iris Scorpions Summer
@@ -85,13 +87,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
  is Scorpions Summerhill\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:82748e9d-d524-41f7-bad0-7775e70ad662
+UID:d02c0f35-4185-4422-965b-5f3bfca2804b
 SEQUENCE:0
-DTSTAMP:20250615T071315
+DTSTAMP:20250615T102313
 DTSTART:20250830T114500
 DTEND:20250830T123000
 SUMMARY:🏀 U12 Boys: Timberwolves Stealers vs Solway Bobcats
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Bobcats\nArrive 15 mins early for warm-up
 END:VEVENT

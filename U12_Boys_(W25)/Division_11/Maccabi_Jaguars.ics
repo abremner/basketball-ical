@@ -6,31 +6,33 @@ X-WR-CALNAME:Maccabi Jaguars Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:4cdac7a8-0ffd-4757-975e-961c1405aaa4
+UID:ded4ed37-40cd-4094-ac10-468e97b8a5ab
 SEQUENCE:0
-DTSTAMP:20250615T071324
+DTSTAMP:20250615T102321
 DTSTART:20250621T123000
 DTEND:20250621T131500
 SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Glen Iris Scorpions Nettleton
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:987d04d3-c34c-46c4-998a-b228d6bb852e
+UID:1e9ab740-1de4-48dc-b879-486e75680a0e
 SEQUENCE:0
-DTSTAMP:20250615T071324
+DTSTAMP:20250615T102321
 DTSTART:20250628T114500
 DTEND:20250628T123000
 SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Timberwolves Cyclones
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Cyclones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c8cbc1d1-3b5c-4f9c-8527-cf60abc41951
+UID:5fef9169-f60d-4c4e-bc91-4bea3bc48705
 SEQUENCE:0
-DTSTAMP:20250615T071324
+DTSTAMP:20250615T102321
 DTSTART:20250802T114500
 DTEND:20250802T123000
 SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Glen Iris Scorpions Raven
@@ -39,20 +41,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
  is Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f7ed4f25-087a-4f4f-88c9-a83bfc30cc1d
+UID:d135f5fc-77f9-4428-9534-30fca7be4222
 SEQUENCE:0
-DTSTAMP:20250615T071324
+DTSTAMP:20250615T102321
 DTSTART:20250809T114500
 DTEND:20250809T123000
 SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Maccabi Hawks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Hawks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:180d66bd-ef1c-4fa0-a9a8-35529273867b
+UID:77e0392d-5247-4128-91a2-1d60abd2e7ee
 SEQUENCE:0
-DTSTAMP:20250615T071324
+DTSTAMP:20250615T102321
 DTSTART:20250816T123000
 DTEND:20250816T131500
 SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Golden Hawks Blaze
@@ -61,9 +64,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Golden Hawks Blaze\nArrive 15
   mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:64badb68-343c-49c0-bf11-6533e6b41933
+UID:fc65097d-9797-4222-b286-7d027bd0b35d
 SEQUENCE:0
-DTSTAMP:20250615T071324
+DTSTAMP:20250615T102321
 DTSTART:20250823T123000
 DTEND:20250823T131500
 SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Ardrie Park Piranhas
@@ -72,9 +75,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Ardrie Park Piranhas\nArrive
  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f813607d-78bf-4e49-9a72-f0ff9947e693
+UID:5ae8f847-6d38-45e5-971b-92436ce7af17
 SEQUENCE:0
-DTSTAMP:20250615T071324
+DTSTAMP:20250615T102321
 DTSTART:20250830T114500
 DTEND:20250830T123000
 SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Maccabi Lakers

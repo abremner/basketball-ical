@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d5396f89-9feb-47a9-999d-b57cc6bf5f80
+UID:66c3fe60-5145-4464-a39b-ea88898ff5de
 SEQUENCE:0
-DTSTAMP:20250615T071247
+DTSTAMP:20250615T102243
 DTSTART:20250621T123000
 DTEND:20250621T131500
 SUMMARY:🏀 U10 Girls: Maccabi Bucks vs AlphaWolf Sparks
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: AlphaWolf S
  parks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0c164459-f813-478d-996a-f5bf56d22e28
+UID:dfbac544-116a-4042-98c3-3abeda6b9189
 SEQUENCE:0
-DTSTAMP:20250615T071247
+DTSTAMP:20250615T102243
 DTSTART:20250628T123000
 DTEND:20250628T131500
 SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Malvern Tigers White
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:91b15cb3-3603-4138-9afc-3c85ceac89c8
+UID:40684895-41e7-45b1-af0b-5762572f782a
 SEQUENCE:0
-DTSTAMP:20250615T071247
+DTSTAMP:20250615T102243
 DTSTART:20250726T123000
 DTEND:20250726T131500
 SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Solway Mistrals
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Mist
  rals\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:213a29ce-7836-4899-8616-22f58ffe1256
+UID:96b37973-a315-4d82-ae76-ec97a096dd9c
 SEQUENCE:0
-DTSTAMP:20250615T071247
+DTSTAMP:20250615T102243
 DTSTART:20250809T123000
 DTEND:20250809T131500
 SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Malvern Tigers Blue
@@ -50,20 +50,21 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:430a5c50-53e3-4067-aca9-aa5da2c11412
+UID:3237fdce-53c3-4176-8f9e-9ce1511dbf4c
 SEQUENCE:0
-DTSTAMP:20250615T071247
+DTSTAMP:20250615T102243
 DTSTART:20250816T110000
 DTEND:20250816T114500
 SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Glen Iris Scorpions Ferndale
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:545b4142-12f6-47ca-9a5b-0fdcef78a27c
+UID:5571acd8-140a-4f2c-a59d-b9cccfdd2df3
 SEQUENCE:0
-DTSTAMP:20250615T071247
+DTSTAMP:20250615T102243
 DTSTART:20250823T123000
 DTEND:20250823T131500
 SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Dairy Park Piranhas
@@ -72,13 +73,14 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Dairy Park
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:380a460b-bdda-4151-b4ce-2c18916c1ad9
+UID:8a77dd76-9a25-4dbd-96e2-9d5d35e2e86a
 SEQUENCE:0
-DTSTAMP:20250615T071247
+DTSTAMP:20250615T102243
 DTSTART:20250830T110000
 DTEND:20250830T114500
 SUMMARY:🏀 U10 Girls: Maccabi Bucks vs AlphaWolf Sparks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AlphaW
  olf Sparks\nArrive 15 mins early for warm-up
 END:VEVENT

@@ -6,20 +6,21 @@ X-WR-CALNAME:Valentine Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:3b082b5e-f202-4021-8b6b-7728dbdbe63c
+UID:efd898b8-618c-418c-85c4-ee76833d23a5
 SEQUENCE:0
-DTSTAMP:20250615T071251
+DTSTAMP:20250615T102248
 DTSTART:20250621T084500
 DTEND:20250621T093000
 SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Malvern Tigers Green
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fa48d6af-8836-4f1e-bac7-f269c56f2f8d
+UID:f8bc0835-5f5d-460e-97cf-0c3b0556a8f2
 SEQUENCE:0
-DTSTAMP:20250615T071251
+DTSTAMP:20250615T102248
 DTSTART:20250628T114500
 DTEND:20250628T123000
 SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Glen Iris Scorpions Gardiner
@@ -28,9 +29,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
  corpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d99b2a6d-6993-4263-8f19-a3e7ea175c49
+UID:e9f1a77f-389e-4193-b3d9-40763d70da68
 SEQUENCE:0
-DTSTAMP:20250615T071251
+DTSTAMP:20250615T102248
 DTSTART:20250726T114500
 DTEND:20250726T123000
 SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Lauriston Fire
@@ -39,31 +40,33 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston F
  ire\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c31ed2ca-461a-4710-a2e4-0c5b10543041
+UID:01aa4cd6-833c-4d76-a979-8dacf7854410
 SEQUENCE:0
-DTSTAMP:20250615T071251
+DTSTAMP:20250615T102248
 DTSTART:20250802T093000
 DTEND:20250802T101500
 SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Netherlee Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Nether
  lee Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:303b8dc3-05d1-424b-84a8-40865313e2f3
+UID:5f0dc1cf-07b1-4c8e-865f-91303cb497ad
 SEQUENCE:0
-DTSTAMP:20250615T071251
+DTSTAMP:20250615T102248
 DTSTART:20250809T093000
 DTEND:20250809T101500
 SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Maccabi Celtics
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d51ab94c-247c-41eb-8c9c-6b88f0cd606b
+UID:02da39ae-fdbe-4fea-9bc8-9d70736aad7a
 SEQUENCE:0
-DTSTAMP:20250615T071251
+DTSTAMP:20250615T102248
 DTSTART:20250816T114500
 DTEND:20250816T123000
 SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Grace Park Piranhas
@@ -72,24 +75,26 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Grace Park
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c186ede0-4344-4aea-80a1-dacd36e2e0a3
+UID:6eb091e0-f8ac-4629-baf3-6ee1ec7ddc3e
 SEQUENCE:0
-DTSTAMP:20250615T071251
+DTSTAMP:20250615T102248
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Embling Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Emblin
  g Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1371c1f4-2d6e-41ac-a5c9-d5139c01de09
+UID:395cb8bf-2a21-49f3-9210-98b27c076ada
 SEQUENCE:0
-DTSTAMP:20250615T071251
+DTSTAMP:20250615T102248
 DTSTART:20250830T093000
 DTEND:20250830T101500
 SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Malvern Tigers Green
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT

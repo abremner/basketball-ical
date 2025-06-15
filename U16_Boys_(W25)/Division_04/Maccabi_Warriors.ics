@@ -6,20 +6,21 @@ X-WR-CALNAME:Maccabi Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:4635fe61-723d-42bd-989a-af0207b7f316
+UID:dd27c6d6-daff-46af-b3ea-4e2e5d6a311f
 SEQUENCE:0
-DTSTAMP:20250615T071446
+DTSTAMP:20250615T102445
 DTSTART:20250621T183000
 DTEND:20250621T191500
 SUMMARY:🏀 U16 Boys: Maccabi Warriors vs Timberwolves Magnum
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Magnum\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1215ea10-5113-4244-9d35-0144f0fd12f1
+UID:0e8503c1-9c8b-4b61-b6f8-50d02323b52c
 SEQUENCE:0
-DTSTAMP:20250615T071446
+DTSTAMP:20250615T102445
 DTSTART:20250628T191500
 DTEND:20250628T200000
 SUMMARY:🏀 U16 Boys: Maccabi Warriors vs Ripponlea Piranhas
@@ -28,9 +29,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ripponl
  ea Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:59ba8527-a925-47fd-863b-33f8630ee8c9
+UID:f64bff40-9fc0-4519-815d-579537fe6177
 SEQUENCE:0
-DTSTAMP:20250615T071446
+DTSTAMP:20250615T102445
 DTSTART:20250726T191500
 DTEND:20250726T200000
 SUMMARY:🏀 U16 Boys: Maccabi Warriors vs Timberwolves Boulders
@@ -39,20 +40,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
  olves Boulders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:98f58d36-6b92-4ba5-86ba-7b3cd74b89b2
+UID:bf0938ea-74c4-4f2d-a0a3-276373485597
 SEQUENCE:0
-DTSTAMP:20250615T071446
+DTSTAMP:20250615T102445
 DTSTART:20250802T183000
 DTEND:20250802T191500
 SUMMARY:🏀 U16 Boys: Maccabi Warriors vs Toorak Tornadoes
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Tornadoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:15848c81-3586-4bbe-9828-85fdf30d10ce
+UID:d179ffb7-8191-4c25-8109-3d398d425b65
 SEQUENCE:0
-DTSTAMP:20250615T071446
+DTSTAMP:20250615T102445
 DTSTART:20250809T183000
 DTEND:20250809T191500
 SUMMARY:🏀 U16 Boys: Maccabi Warriors vs Toorak Terminators
@@ -61,9 +63,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Terminators\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ee5cb527-ba60-42a2-b8f6-65273a40ae1b
+UID:cf727cf0-d976-4d16-9176-6481b2aef2f8
 SEQUENCE:0
-DTSTAMP:20250615T071446
+DTSTAMP:20250615T102445
 DTSTART:20250816T191500
 DTEND:20250816T200000
 SUMMARY:🏀 U16 Boys: Maccabi Warriors vs Solway Super Sonics
@@ -72,9 +74,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Super Sonics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1156fdae-9f23-4ff9-b887-c05da161cbcb
+UID:1a03cf00-e980-4293-8538-2dbaf04e5d23
 SEQUENCE:0
-DTSTAMP:20250615T071446
+DTSTAMP:20250615T102445
 DTSTART:20250823T191500
 DTEND:20250823T200000
 SUMMARY:🏀 U16 Boys: Maccabi Warriors vs Serrell Park Piranhas
@@ -83,9 +85,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Serrell
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:785e4096-4afb-45e3-92a5-3531ed3d5020
+UID:631fca11-2c3d-4c0c-a689-f2707997131c
 SEQUENCE:0
-DTSTAMP:20250615T071446
+DTSTAMP:20250615T102445
 DTSTART:20250830T191500
 DTEND:20250830T200000
 SUMMARY:🏀 U16 Boys: Maccabi Warriors vs Timberwolves Magnum

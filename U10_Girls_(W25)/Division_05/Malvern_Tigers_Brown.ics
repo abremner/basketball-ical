@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Brown Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b98b28a0-7dcd-4831-b94f-2d5747323e9d
+UID:48a5b198-5ca9-47b7-8af0-03db1045f111
 SEQUENCE:0
-DTSTAMP:20250615T071254
+DTSTAMP:20250615T102251
 DTSTART:20250621T110000
 DTEND:20250621T114500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Brown vs Korowa Grey
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Korowa Grey
  \nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:67c87000-1f3b-4811-a065-0b6728e65e27
+UID:ea9e80c2-4ff3-483c-9a9b-2a5f7bb704bc
 SEQUENCE:0
-DTSTAMP:20250615T071254
+DTSTAMP:20250615T102251
 DTSTART:20250628T110000
 DTEND:20250628T114500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Brown vs Maccabi Eagles
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Eag
  les\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4355963b-2f14-40f6-89c6-d1e822843866
+UID:cc3807a2-f7d1-49b3-991f-258c5dae232b
 SEQUENCE:0
-DTSTAMP:20250615T071254
+DTSTAMP:20250615T102251
 DTSTART:20250802T110000
 DTEND:20250802T114500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Brown vs Maccabi Ducks
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Duc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cc47063a-7136-42ca-b29f-2f445e92fce3
+UID:7a465907-8d70-48a4-862c-0e660d4ab5b9
 SEQUENCE:0
-DTSTAMP:20250615T071254
+DTSTAMP:20250615T102251
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Brown vs Timberwolves Gems
@@ -50,20 +50,21 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Timberwolve
  s Gems\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f7fe2185-1802-4d0f-81da-de29b69cd2c2
+UID:db639eaa-00b3-4275-8de2-bad18a4498ed
 SEQUENCE:0
-DTSTAMP:20250615T071254
+DTSTAMP:20250615T102251
 DTSTART:20250816T084500
 DTEND:20250816T093000
 SUMMARY:🏀 U10 Girls: Malvern Tigers Brown vs AlphaWolf Blaze
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AlphaW
  olf Blaze\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:baf0f72e-109e-4310-94e0-3537438112d2
+UID:dc60bdc1-c4b3-4c59-80a9-1bc880847e27
 SEQUENCE:0
-DTSTAMP:20250615T071254
+DTSTAMP:20250615T102251
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Brown vs Malvern Tigers  Orange
@@ -72,13 +73,14 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers  Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9aaf1235-8678-4133-b949-257b864a9ae5
+UID:c51ff9c9-09c3-40bc-8bf2-39a31f5df969
 SEQUENCE:0
-DTSTAMP:20250615T071254
+DTSTAMP:20250615T102251
 DTSTART:20250830T080000
 DTEND:20250830T084500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Brown vs Malvern Tigers Purple
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Purple\nArrive 15 mins early for warm-up
 END:VEVENT

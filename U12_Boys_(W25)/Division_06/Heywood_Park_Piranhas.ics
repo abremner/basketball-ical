@@ -6,20 +6,21 @@ X-WR-CALNAME:Heywood Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:075b6379-a5b8-498b-8f17-bf0112340e2e
+UID:660c4ca3-0f26-42a5-9e72-6754743a2b08
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250621T131500
 DTEND:20250621T140000
 SUMMARY:🏀 U12 Boys: Heywood Park Piranhas vs Solway Wolverines
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Wolverines\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9a14bf8d-8e95-4d15-826e-524e16f654af
+UID:f56117e7-0549-4473-980c-df5442e9bb64
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250628T144500
 DTEND:20250628T153000
 SUMMARY:🏀 U12 Boys: Heywood Park Piranhas vs Glen Iris Scorpions Gardin
@@ -29,9 +30,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5b87564b-d74d-47d6-86a7-8c194b91871f
+UID:c8eaf811-7ab1-4178-bbae-2e77e0afe6b3
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250726T144500
 DTEND:20250726T153000
 SUMMARY:🏀 U12 Boys: Heywood Park Piranhas vs Malvern Tigers Orange
@@ -40,9 +41,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d5b0b5f3-005d-47e1-b3e4-a7b24c52f8e8
+UID:9a88473a-8e06-40b9-be5d-819fb040c877
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250802T144500
 DTEND:20250802T153000
 SUMMARY:🏀 U12 Boys: Heywood Park Piranhas vs Maccabi Ducks
@@ -51,9 +52,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cd32337a-0343-4ba1-bc29-0ffe805bca5b
+UID:5c1dc5dc-0e67-4bea-83e1-a3229d134e31
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250809T140000
 DTEND:20250809T144500
 SUMMARY:🏀 U12 Boys: Heywood Park Piranhas vs Timberwolves Howlers
@@ -62,9 +63,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Howlers\nArrive
  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:80b1db6b-6f0c-4d60-bd50-c4d5068ca649
+UID:1a8c8619-97df-4295-9a82-54bb87d7b51e
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250816T140000
 DTEND:20250816T144500
 SUMMARY:🏀 U12 Boys: Heywood Park Piranhas vs Solway Wolverines
@@ -73,9 +74,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Wolverines\nArrive 15
  mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:26bc0394-b125-4ded-99dd-8ac25d9cbdd7
+UID:eac222a4-15b2-4429-9900-c32cfdc34873
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250823T140000
 DTEND:20250823T144500
 SUMMARY:🏀 U12 Boys: Heywood Park Piranhas vs Glen Iris Scorpions Gardin
@@ -85,13 +86,14 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Glen Iris Scorpions Gardiner\
  nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:64a4027a-ae3f-4d7b-a45c-45fcd1b2e6f4
+UID:c16a3abd-0031-4f19-b18b-9ae23f38cec6
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U12 Boys: Heywood Park Piranhas vs Malvern Tigers Orange
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Orange\nArrive 15 mins early for warm-up
 END:VEVENT

@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Cubs Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c9ae373d-2b55-433f-98e5-dabcebf8e122
+UID:9f9ca024-863c-4363-91e5-04113d4e507f
 SEQUENCE:0
-DTSTAMP:20250615T071304
+DTSTAMP:20250615T102300
 DTSTART:20250621T144500
 DTEND:20250621T153000
 SUMMARY:🏀 U12 Boys: Solway Cubs vs Toorak Tarantulas
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Tarantulas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:87fb3e8c-9ad8-4dac-9712-0e151e09eed8
+UID:dd3fb898-75b3-499c-ba43-59e83f63dd48
 SEQUENCE:0
-DTSTAMP:20250615T071304
+DTSTAMP:20250615T102300
 DTSTART:20250628T144500
 DTEND:20250628T153000
 SUMMARY:🏀 U12 Boys: Solway Cubs vs AlphaWolf Legends
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
  lf Legends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3a2acd8d-0d13-4d31-b65d-24326bd5aad1
+UID:0cad1de6-9eb6-4f49-9f1b-16c946451b71
 SEQUENCE:0
-DTSTAMP:20250615T071304
+DTSTAMP:20250615T102300
 DTSTART:20250726T140000
 DTEND:20250726T144500
 SUMMARY:🏀 U12 Boys: Solway Cubs vs Malvern Tigers White
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:04a82a7e-ee6d-4de7-86ee-1c697912ecf4
+UID:ea5e0a38-b937-45ba-bac5-db6f94489601
 SEQUENCE:0
-DTSTAMP:20250615T071304
+DTSTAMP:20250615T102300
 DTSTART:20250802T140000
 DTEND:20250802T144500
 SUMMARY:🏀 U12 Boys: Solway Cubs vs Timberwolves Colts
@@ -50,31 +50,33 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
  olves Colts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:394348b8-c9e0-421f-9605-3ad836e52f51
+UID:a6236318-a426-4e3e-9cca-9807be0bdbd7
 SEQUENCE:0
-DTSTAMP:20250615T071304
+DTSTAMP:20250615T102300
 DTSTART:20250809T140000
 DTEND:20250809T144500
 SUMMARY:🏀 U12 Boys: Solway Cubs vs Maccabi Celtics
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ca29ae4f-283c-476d-ad79-1b46aa612738
+UID:bc7a85c3-5ffc-426f-8f4c-4d8810bf94af
 SEQUENCE:0
-DTSTAMP:20250615T071304
+DTSTAMP:20250615T102300
 DTSTART:20250816T140000
 DTEND:20250816T144500
 SUMMARY:🏀 U12 Boys: Solway Cubs vs Toorak Tarantulas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Tarantulas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d89aae39-2149-4a63-bc89-cd597310bbcc
+UID:3a63503c-6ea8-4637-b3bc-526100d8a1d5
 SEQUENCE:0
-DTSTAMP:20250615T071304
+DTSTAMP:20250615T102300
 DTSTART:20250823T144500
 DTEND:20250823T153000
 SUMMARY:🏀 U12 Boys: Solway Cubs vs AlphaWolf Legends
@@ -83,9 +85,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
  lf Legends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2b58b067-bf21-488b-b05b-6995a0bb35df
+UID:9dbe4566-ed8e-4451-a9d8-3a10f29e0ad4
 SEQUENCE:0
-DTSTAMP:20250615T071304
+DTSTAMP:20250615T102300
 DTSTART:20250830T140000
 DTEND:20250830T144500
 SUMMARY:🏀 U12 Boys: Solway Cubs vs Malvern Tigers White

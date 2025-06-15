@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Red Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d9f0f2ed-7bc0-4d0f-b27c-46897e7db5a4
+UID:f243d41b-3d34-4a42-8b14-bef3762613e1
 SEQUENCE:0
-DTSTAMP:20250615T071440
+DTSTAMP:20250615T102439
 DTSTART:20250621T191500
 DTEND:20250621T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs Timberwolves Raiders
@@ -17,68 +17,74 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Raiders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f94fb2b5-f103-43ce-b6d3-c41bebb2a9aa
+UID:b216a79e-53d0-454b-bf7a-77ca9d746e56
 SEQUENCE:0
-DTSTAMP:20250615T071440
+DTSTAMP:20250615T102439
 DTSTART:20250726T191500
 DTEND:20250726T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs Bailey Reserve Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Bailey
   Reserve Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ab47a9ca-2200-4613-8f30-62af3fd6a639
+UID:dad36c92-4785-4977-a588-6548e1c2a3e9
 SEQUENCE:0
-DTSTAMP:20250615T071440
+DTSTAMP:20250615T102439
 DTSTART:20250802T183000
 DTEND:20250802T191500
 SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs Maccabi Half Court Miracles
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
  i Half Court Miracles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c9423b0e-1b76-4293-b719-c328c387f1f3
+UID:7d6a1cb0-b332-4da7-906a-32a1d6fc1215
 SEQUENCE:0
-DTSTAMP:20250615T071440
+DTSTAMP:20250615T102439
 DTSTART:20250809T191500
 DTEND:20250809T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs Spring Park Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Spring
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:57cbdbfd-ece9-46cd-936c-1e10c63992f3
+UID:f8b1871c-9340-4919-bbc9-720d85764c5c
 SEQUENCE:0
-DTSTAMP:20250615T071440
+DTSTAMP:20250615T102439
 DTSTART:20250816T191500
 DTEND:20250816T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs Timberwolves Nuggets
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Nuggets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:28aaf94b-44c0-4aac-9a58-ec0d95894880
+UID:9a285a9b-7f58-4bd8-9e15-c581cd00a4ca
 SEQUENCE:0
-DTSTAMP:20250615T071440
+DTSTAMP:20250615T102439
 DTSTART:20250823T191500
 DTEND:20250823T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs Arax
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:72bf6f55-53c1-40ca-a93d-ab189faed6e9
+UID:9d29b66c-779c-4af7-a815-35c38a1b7317
 SEQUENCE:0
-DTSTAMP:20250615T071440
+DTSTAMP:20250615T102439
 DTSTART:20250830T191500
 DTEND:20250830T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs Timberwolves Raiders
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Raiders\nArrive 15 mins early for warm-up
 END:VEVENT

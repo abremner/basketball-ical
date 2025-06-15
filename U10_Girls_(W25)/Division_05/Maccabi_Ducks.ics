@@ -6,31 +6,33 @@ X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:46cd6c1b-6488-464f-b43d-b82cb49478a2
+UID:cb55cabc-c32b-41ae-bdae-2c379f9fe8be
 SEQUENCE:0
-DTSTAMP:20250615T071253
+DTSTAMP:20250615T102250
 DTSTART:20250621T084500
 DTEND:20250621T093000
 SUMMARY:🏀 U10 Girls: Maccabi Ducks vs Malvern Tigers Purple
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Purple\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7bb49f18-c942-49ee-934a-70342acefc69
+UID:f0738812-02cb-45e0-b89d-e20ccccc56a3
 SEQUENCE:0
-DTSTAMP:20250615T071253
+DTSTAMP:20250615T102250
 DTSTART:20250726T080000
 DTEND:20250726T084500
 SUMMARY:🏀 U10 Girls: Maccabi Ducks vs Korowa Grey
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Korowa
   Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:31337c67-9fda-49f5-95cb-5cf8182b1554
+UID:8ddc96bc-306a-4daf-9070-41cbb92b4bc4
 SEQUENCE:0
-DTSTAMP:20250615T071253
+DTSTAMP:20250615T102250
 DTSTART:20250802T110000
 DTEND:20250802T114500
 SUMMARY:🏀 U10 Girls: Maccabi Ducks vs Malvern Tigers Brown
@@ -39,20 +41,21 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:43b04f91-ca50-47a2-a0eb-9d2cde77afeb
+UID:8da62fbc-ba4f-46f2-827e-80c691511a5b
 SEQUENCE:0
-DTSTAMP:20250615T071253
+DTSTAMP:20250615T102250
 DTSTART:20250809T084500
 DTEND:20250809T093000
 SUMMARY:🏀 U10 Girls: Maccabi Ducks vs Malvern Tigers  Orange
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers  Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0c3bfde1-0e70-4558-bc9a-e22de9b60122
+UID:c42718d5-b120-4d15-a702-6a5fb5567562
 SEQUENCE:0
-DTSTAMP:20250615T071253
+DTSTAMP:20250615T102250
 DTSTART:20250816T110000
 DTEND:20250816T114500
 SUMMARY:🏀 U10 Girls: Maccabi Ducks vs Maccabi Eagles
@@ -61,20 +64,21 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Eag
  les\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d10e4408-9b05-4df2-91b6-c7ada50aa920
+UID:b5ffd0ab-ad0a-444c-8479-885d18e9de40
 SEQUENCE:0
-DTSTAMP:20250615T071253
+DTSTAMP:20250615T102250
 DTSTART:20250823T080000
 DTEND:20250823T084500
 SUMMARY:🏀 U10 Girls: Maccabi Ducks vs AlphaWolf Blaze
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AlphaW
  olf Blaze\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3e54c58b-2ee4-41c8-8366-e0090c1f189a
+UID:b480e818-9a30-4b64-8c37-b7fa19317e11
 SEQUENCE:0
-DTSTAMP:20250615T071253
+DTSTAMP:20250615T102250
 DTSTART:20250830T110000
 DTEND:20250830T114500
 SUMMARY:🏀 U10 Girls: Maccabi Ducks vs Ashy Lightning Green

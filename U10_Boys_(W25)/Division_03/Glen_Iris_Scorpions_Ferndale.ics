@@ -6,9 +6,9 @@ X-WR-CALNAME:Glen Iris Scorpions Ferndale Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:66c6dc44-170f-422a-ac67-b4f41e5caeb6
+UID:0152b1a8-4019-49fe-8938-eef0ba5edcf7
 SEQUENCE:0
-DTSTAMP:20250615T071212
+DTSTAMP:20250615T102207
 DTSTART:20250621T110000
 DTEND:20250621T114500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Ferndale vs Ashy Lightning Gold
@@ -17,33 +17,35 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
  ghtning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:200a8e70-3ebb-479e-acfe-e0f140d199d0
+UID:a707709a-1727-406b-a3ed-cfa77a538775
 SEQUENCE:0
-DTSTAMP:20250615T071212
+DTSTAMP:20250615T102207
 DTSTART:20250628T101500
 DTEND:20250628T110000
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Ferndale vs Melbourne Wolves RB
  T Vipers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Melbou
  rne Wolves RBT Vipers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7e235f8e-2892-431a-a14b-74fc71cac171
+UID:759907fa-d4bc-4e75-9da0-485b48065e3d
 SEQUENCE:0
-DTSTAMP:20250615T071212
+DTSTAMP:20250615T102207
 DTSTART:20250726T110000
 DTEND:20250726T114500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Ferndale vs Malvern Tigers Whit
  e
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:27e6002e-a697-4680-99ff-fa151ba15e6c
+UID:25400cae-5631-4545-844e-bf56bf034309
 SEQUENCE:0
-DTSTAMP:20250615T071212
+DTSTAMP:20250615T102207
 DTSTART:20250802T110000
 DTEND:20250802T114500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Ferndale vs Malvern Tigers Yell
@@ -53,9 +55,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a4e98196-9f38-4a2d-873d-1fed0256ceef
+UID:79cb1e02-9b73-4266-88ce-9fd8958dadb3
 SEQUENCE:0
-DTSTAMP:20250615T071212
+DTSTAMP:20250615T102207
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Ferndale vs Maccabi Bucks
@@ -64,9 +66,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:647a16b6-4a9d-4c9a-9bee-f7f2909fe713
+UID:2b95dacd-1adf-4f7e-9f08-bfa49ff28512
 SEQUENCE:0
-DTSTAMP:20250615T071212
+DTSTAMP:20250615T102207
 DTSTART:20250816T110000
 DTEND:20250816T114500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Ferndale vs Ashy Lightning Gold
@@ -75,21 +77,22 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
  ghtning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:778a1598-4f22-4048-8823-3d8b867e12ab
+UID:65ef5ed1-de68-4a73-a4e2-55b721132e4b
 SEQUENCE:0
-DTSTAMP:20250615T071212
+DTSTAMP:20250615T102207
 DTSTART:20250823T101500
 DTEND:20250823T110000
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Ferndale vs Melbourne Wolves RB
  T Vipers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Melbou
  rne Wolves RBT Vipers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b909f8aa-a87c-44d2-b135-d216cb80ee58
+UID:a307bfb5-1f86-4f56-a227-4f5a19edf8ec
 SEQUENCE:0
-DTSTAMP:20250615T071212
+DTSTAMP:20250615T102207
 DTSTART:20250830T110000
 DTEND:20250830T114500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Ferndale vs Malvern Tigers Whit

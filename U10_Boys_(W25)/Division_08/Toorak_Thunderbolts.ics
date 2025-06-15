@@ -6,20 +6,21 @@ X-WR-CALNAME:Toorak Thunderbolts Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e2d4aef6-f207-40c6-b9f1-3501852b709b
+UID:625fb7f9-3e0a-49a2-89bc-4be032bfe66b
 SEQUENCE:0
-DTSTAMP:20250615T071231
+DTSTAMP:20250615T102226
 DTSTART:20250621T084500
 DTEND:20250621T093000
 SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Maccabi Falcons
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6dfcd942-858a-4320-ad55-542ab4e6a958
+UID:f3cd3377-000a-4390-a716-c9ce884b361c
 SEQUENCE:0
-DTSTAMP:20250615T071231
+DTSTAMP:20250615T102226
 DTSTART:20250628T110000
 DTEND:20250628T114500
 SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Glen Iris Scorpions Raven
@@ -28,64 +29,69 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Glen Iris Scorpions Raven\nAr
  rive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f526b2dd-fdb7-41f4-9e5d-65156979a179
+UID:ecc8d6cc-738d-48f8-8d2a-bf731ba99bec
 SEQUENCE:0
-DTSTAMP:20250615T071231
+DTSTAMP:20250615T102226
 DTSTART:20250726T084500
 DTEND:20250726T093000
 SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Phoenix Park Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Phoeni
  x Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:40f77bdd-c1a3-47d8-a045-cb72eec856d8
+UID:f8d0f3c9-9bcb-40c2-a0fc-b387eae258b6
 SEQUENCE:0
-DTSTAMP:20250615T071231
+DTSTAMP:20250615T102226
 DTSTART:20250802T084500
 DTEND:20250802T093000
 SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Timberwolves Legends
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Legends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e5994f6e-0306-40a5-a814-d11b6755b65c
+UID:cc820844-f895-435a-838b-8a57dd2ea0d1
 SEQUENCE:0
-DTSTAMP:20250615T071231
+DTSTAMP:20250615T102226
 DTSTART:20250809T080000
 DTEND:20250809T084500
 SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Timberwolves Bucks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:597a6648-07f1-4968-9a6e-16ab773f1044
+UID:54af4207-e881-4fb2-8a6c-5d05e4333701
 SEQUENCE:0
-DTSTAMP:20250615T071231
+DTSTAMP:20250615T102226
 DTSTART:20250816T080000
 DTEND:20250816T084500
 SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Comets Snake
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
   Snake\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:eaa050b8-47e3-4966-bbb3-0c3b7a7cc5d8
+UID:5d64c5ac-7423-414e-945a-9b9a8a481644
 SEQUENCE:0
-DTSTAMP:20250615T071231
+DTSTAMP:20250615T102226
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Timberwolves Lightning
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4a015124-8345-4782-aa7a-536378fb270f
+UID:ff42f5c4-b794-4244-83ec-235853c2ddc8
 SEQUENCE:0
-DTSTAMP:20250615T071231
+DTSTAMP:20250615T102226
 DTSTART:20250830T110000
 DTEND:20250830T114500
 SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Maccabi Falcons

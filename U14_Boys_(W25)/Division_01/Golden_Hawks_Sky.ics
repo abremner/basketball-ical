@@ -6,20 +6,21 @@ X-WR-CALNAME:Golden Hawks Sky Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:5f62446d-803f-46ff-af6a-9c716ad19dfe
+UID:ebaaf92d-b8b9-41ba-b8e0-2bcdd30c7a0a
 SEQUENCE:0
-DTSTAMP:20250615T071349
+DTSTAMP:20250615T102348
 DTSTART:20250621T174500
 DTEND:20250621T183000
 SUMMARY:🏀 U14 Boys: Golden Hawks Sky vs Malvern Tigers Red
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:34910083-6dc1-4222-93e7-f21ac4f07ac1
+UID:12ba0656-d889-4d31-b4fa-2641c1b4eeb8
 SEQUENCE:0
-DTSTAMP:20250615T071349
+DTSTAMP:20250615T102348
 DTSTART:20250628T174500
 DTEND:20250628T183000
 SUMMARY:🏀 U14 Boys: Golden Hawks Sky vs Toorak Tyrants
@@ -28,42 +29,45 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Tyrants\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0b707116-4033-42c3-a9cb-3ee5a8345104
+UID:214b9b79-be87-47e1-ba85-badf0491f475
 SEQUENCE:0
-DTSTAMP:20250615T071349
+DTSTAMP:20250615T102348
 DTSTART:20250726T170000
 DTEND:20250726T174500
 SUMMARY:🏀 U14 Boys: Golden Hawks Sky vs Solway Samurais
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Samurais\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1855dcb6-f3de-4b22-9f3f-7d093825eac7
+UID:e5e2f3df-d3fb-40e3-b762-3230ef45ffb3
 SEQUENCE:0
-DTSTAMP:20250615T071349
+DTSTAMP:20250615T102348
 DTSTART:20250802T170000
 DTEND:20250802T174500
 SUMMARY:🏀 U14 Boys: Golden Hawks Sky vs Timberwolves Lions
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Lions\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4ceccdcd-f9a0-42a9-8dbd-a89eb9c2cc42
+UID:9041c471-38d3-4041-9bfd-57aea571b268
 SEQUENCE:0
-DTSTAMP:20250615T071349
+DTSTAMP:20250615T102348
 DTSTART:20250809T174500
 DTEND:20250809T183000
 SUMMARY:🏀 U14 Boys: Golden Hawks Sky vs Malvern Tigers Black
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:57919e3e-de5d-4e60-8e1b-8ad44d251ada
+UID:73812d78-3bb5-4aab-b480-e2ca50349306
 SEQUENCE:0
-DTSTAMP:20250615T071349
+DTSTAMP:20250615T102348
 DTSTART:20250816T174500
 DTEND:20250816T183000
 SUMMARY:🏀 U14 Boys: Golden Hawks Sky vs Malvern Tigers Red
@@ -72,20 +76,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c53dfb1e-8088-48f0-a733-c5519f930182
+UID:60314402-afce-4e3a-b185-b1945c172473
 SEQUENCE:0
-DTSTAMP:20250615T071349
+DTSTAMP:20250615T102348
 DTSTART:20250823T170000
 DTEND:20250823T174500
 SUMMARY:🏀 U14 Boys: Golden Hawks Sky vs Toorak Tyrants
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
   Tyrants\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:66c34957-5ed1-43c4-ab97-b87caa8adbcb
+UID:1fdd646b-ce0e-453b-952b-d3e0a1de6a74
 SEQUENCE:0
-DTSTAMP:20250615T071349
+DTSTAMP:20250615T102348
 DTSTART:20250830T174500
 DTEND:20250830T183000
 SUMMARY:🏀 U14 Boys: Golden Hawks Sky vs Solway Samurais

@@ -6,42 +6,45 @@ X-WR-CALNAME:AlphaWolf Blaze Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:4b951406-b044-434c-a5bd-1a94344f8962
+UID:4a91545f-1ab4-4a40-81a4-360870af6241
 SEQUENCE:0
-DTSTAMP:20250615T071252
+DTSTAMP:20250615T102249
 DTSTART:20250621T080000
 DTEND:20250621T084500
 SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Timberwolves Gems
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Gems\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c3178a91-d063-4f09-9fce-f5116fa06ecd
+UID:6e738af9-a9c1-4592-a65c-c938073b26fa
 SEQUENCE:0
-DTSTAMP:20250615T071252
+DTSTAMP:20250615T102249
 DTSTART:20250628T080000
 DTEND:20250628T084500
 SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Korowa Grey
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Korowa
   Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2f7f016c-c5f5-4965-9d3c-cc9b53d528a8
+UID:af9514d2-1527-4087-babe-be70525e0b30
 SEQUENCE:0
-DTSTAMP:20250615T071252
+DTSTAMP:20250615T102249
 DTSTART:20250726T084500
 DTEND:20250726T093000
 SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Ashy Lightning Green
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:34a6c27b-b351-444a-83c1-d3296797b826
+UID:1c2b70ca-0397-419e-aead-26f9c70fca64
 SEQUENCE:0
-DTSTAMP:20250615T071252
+DTSTAMP:20250615T102249
 DTSTART:20250802T110000
 DTEND:20250802T114500
 SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Malvern Tigers Purple
@@ -50,9 +53,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Purple\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3776f5b4-657c-4507-a26b-df43b9a55b99
+UID:34b85427-8535-46ca-8d2e-b4673c7875c5
 SEQUENCE:0
-DTSTAMP:20250615T071252
+DTSTAMP:20250615T102249
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Maccabi Eagles
@@ -61,35 +64,38 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Eag
  les\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8ac0fcba-1bd9-4f89-ac06-8a9bc1d6dfe2
+UID:2950fa5d-bea3-4ee5-b157-75e36fac27a2
 SEQUENCE:0
-DTSTAMP:20250615T071252
+DTSTAMP:20250615T102249
 DTSTART:20250816T084500
 DTEND:20250816T093000
 SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Malvern Tigers Brown
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9571833b-a871-4f6f-904c-b117ad8dc531
+UID:2a76d9c9-20f2-452b-8249-fb50c02604ea
 SEQUENCE:0
-DTSTAMP:20250615T071252
+DTSTAMP:20250615T102249
 DTSTART:20250823T080000
 DTEND:20250823T084500
 SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Maccabi Ducks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4de8e5ac-8429-4924-9a7e-9174df28dc93
+UID:5f904dba-cc1c-408d-b254-fb96df54bd7e
 SEQUENCE:0
-DTSTAMP:20250615T071252
+DTSTAMP:20250615T102249
 DTSTART:20250830T084500
 DTEND:20250830T093000
 SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Malvern Tigers  Orange
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers  Orange\nArrive 15 mins early for warm-up
 END:VEVENT

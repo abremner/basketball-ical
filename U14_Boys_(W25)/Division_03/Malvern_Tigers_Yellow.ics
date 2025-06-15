@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Yellow Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:5a85d8d3-9ec1-42ff-ad46-ff5d234e4eff
+UID:b1056727-9653-46fb-9851-56b2f1c1ac7b
 SEQUENCE:0
-DTSTAMP:20250615T071357
+DTSTAMP:20250615T102355
 DTSTART:20250621T170000
 DTEND:20250621T174500
 SUMMARY:🏀 U14 Boys: Malvern Tigers Yellow vs Paxton Piranhas
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Paxton
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:89a777bb-12e3-483e-ad33-2d6544b17098
+UID:d7414b1a-e002-4a4c-a753-7434b699672a
 SEQUENCE:0
-DTSTAMP:20250615T071357
+DTSTAMP:20250615T102355
 DTSTART:20250628T170000
 DTEND:20250628T174500
 SUMMARY:🏀 U14 Boys: Malvern Tigers Yellow vs Glen Iris Piranhas
@@ -28,31 +28,33 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7707d699-d881-41ca-b00a-b635f70ab926
+UID:49a42edc-1e87-4e96-a6db-7d25023351dd
 SEQUENCE:0
-DTSTAMP:20250615T071357
+DTSTAMP:20250615T102355
 DTSTART:20250726T174500
 DTEND:20250726T183000
 SUMMARY:🏀 U14 Boys: Malvern Tigers Yellow vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7b8e4c89-9279-484d-b7aa-e976c59d04fd
+UID:c7f51dd1-9f25-4157-a1eb-75faf05b52ee
 SEQUENCE:0
-DTSTAMP:20250615T071357
+DTSTAMP:20250615T102355
 DTSTART:20250802T170000
 DTEND:20250802T174500
 SUMMARY:🏀 U14 Boys: Malvern Tigers Yellow vs Timberwolves Phoenix
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Phoenix\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b21d2330-8e91-4716-b561-3c89fb088276
+UID:a16ed0c5-2653-4e43-b838-59b8f4a7d47a
 SEQUENCE:0
-DTSTAMP:20250615T071357
+DTSTAMP:20250615T102355
 DTSTART:20250809T170000
 DTEND:20250809T174500
 SUMMARY:🏀 U14 Boys: Malvern Tigers Yellow vs Glen Iris Scorpions Nettle
@@ -62,9 +64,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d2ddd41f-3328-485c-8e24-7bd3dbfdd51c
+UID:4e7da569-2cbf-4669-a4d9-2466a3b205cc
 SEQUENCE:0
-DTSTAMP:20250615T071357
+DTSTAMP:20250615T102355
 DTSTART:20250816T170000
 DTEND:20250816T174500
 SUMMARY:🏀 U14 Boys: Malvern Tigers Yellow vs Paxton Piranhas
@@ -73,24 +75,26 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Paxton
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:987ed38e-5590-430c-a398-dada27360568
+UID:637045ec-768c-4c79-87c1-47f2ed71c65e
 SEQUENCE:0
-DTSTAMP:20250615T071357
+DTSTAMP:20250615T102355
 DTSTART:20250823T170000
 DTEND:20250823T174500
 SUMMARY:🏀 U14 Boys: Malvern Tigers Yellow vs Glen Iris Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:17dfdbfc-8fa5-4f22-8f79-5329d15a5993
+UID:f997d5f8-713a-447e-b83b-f47ddd9419f0
 SEQUENCE:0
-DTSTAMP:20250615T071357
+DTSTAMP:20250615T102355
 DTSTART:20250830T174500
 DTEND:20250830T183000
 SUMMARY:🏀 U14 Boys: Malvern Tigers Yellow vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT

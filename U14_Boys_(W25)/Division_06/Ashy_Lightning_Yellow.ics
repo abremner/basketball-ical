@@ -6,9 +6,9 @@ X-WR-CALNAME:Ashy Lightning Yellow Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d2979cde-ffbd-4fe1-aacc-dc7a139f4bb6
+UID:1ff3de09-34de-4a9c-8586-03b71f5fc304
 SEQUENCE:0
-DTSTAMP:20250615T071405
+DTSTAMP:20250615T102404
 DTSTART:20250621T170000
 DTEND:20250621T174500
 SUMMARY:🏀 U14 Boys: Ashy Lightning Yellow vs Malvern Tigers Orange
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e5f4a50b-c0e0-4863-a99a-c81bbcdbc6a6
+UID:c6ad2a28-776e-4cb9-b98d-d7418312f449
 SEQUENCE:0
-DTSTAMP:20250615T071405
+DTSTAMP:20250615T102404
 DTSTART:20250628T170000
 DTEND:20250628T174500
 SUMMARY:🏀 U14 Boys: Ashy Lightning Yellow vs Timberwolves Stones
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
  olves Stones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:25dacfa0-d3f4-4e4d-a055-2928c66fd408
+UID:a5f6544c-6ee5-47e7-84dd-8e17d5f5d720
 SEQUENCE:0
-DTSTAMP:20250615T071405
+DTSTAMP:20250615T102404
 DTSTART:20250726T170000
 DTEND:20250726T174500
 SUMMARY:🏀 U14 Boys: Ashy Lightning Yellow vs Timberwolves Ramblers
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
  olves Ramblers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a3c9f620-f3e3-4346-a05d-7868fd635750
+UID:8cb136f4-5bb1-422d-aa8e-93e3b4278921
 SEQUENCE:0
-DTSTAMP:20250615T071405
+DTSTAMP:20250615T102404
 DTSTART:20250802T153000
 DTEND:20250802T161500
 SUMMARY:🏀 U14 Boys: Ashy Lightning Yellow vs AlphaWolf Conquerors
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: AlphaWo
  lf Conquerors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3004936c-1572-4c98-958e-308ce3a343f8
+UID:48da5cc0-3fed-4a67-b2f2-2781e71e46be
 SEQUENCE:0
-DTSTAMP:20250615T071405
+DTSTAMP:20250615T102404
 DTSTART:20250809T153000
 DTEND:20250809T161500
 SUMMARY:🏀 U14 Boys: Ashy Lightning Yellow vs Timberwolves Terriers
@@ -61,20 +61,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Terriers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e76eb5b5-7a8d-4173-b440-ceabfb78b0bb
+UID:f86767a7-6d82-4295-b034-29f935bc2e50
 SEQUENCE:0
-DTSTAMP:20250615T071405
+DTSTAMP:20250615T102404
 DTSTART:20250816T161500
 DTEND:20250816T170000
 SUMMARY:🏀 U14 Boys: Ashy Lightning Yellow vs Malvern Tigers Orange
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7cf3661f-ca28-4f98-9095-4b6ad66ceb11
+UID:ab101e92-e39e-4214-b1dc-338494c3cb6d
 SEQUENCE:0
-DTSTAMP:20250615T071405
+DTSTAMP:20250615T102404
 DTSTART:20250823T170000
 DTEND:20250823T174500
 SUMMARY:🏀 U14 Boys: Ashy Lightning Yellow vs Timberwolves Stones
@@ -83,9 +84,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
  olves Stones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a2eef0a1-69d3-4c84-b5b6-6862649eda38
+UID:4d8361e2-b185-4b90-aa06-9841e02dc2d6
 SEQUENCE:0
-DTSTAMP:20250615T071405
+DTSTAMP:20250615T102404
 DTSTART:20250830T170000
 DTEND:20250830T174500
 SUMMARY:🏀 U14 Boys: Ashy Lightning Yellow vs Timberwolves Ramblers

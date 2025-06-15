@@ -6,20 +6,21 @@ X-WR-CALNAME:Toorak Thrashers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:7e3642da-653d-46a3-a056-4f4b7e149999
+UID:af555d8f-5d47-4711-9a75-bffe126c0f93
 SEQUENCE:0
-DTSTAMP:20250615T071233
+DTSTAMP:20250615T102228
 DTSTART:20250621T080000
 DTEND:20250621T084500
 SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Solway Nets
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Nets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:468b546c-af44-46f3-937e-269f964d8f26
+UID:fbc979bd-1d81-4482-9f4a-2073bfb3e21f
 SEQUENCE:0
-DTSTAMP:20250615T071233
+DTSTAMP:20250615T102228
 DTSTART:20250628T101500
 DTEND:20250628T110000
 SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Maccabi Hawks
@@ -28,9 +29,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Hawks\nArrive 15 mins
   early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4c327669-0d93-44e4-b8ed-96a4fdb8111c
+UID:2522e9af-679e-478d-85e4-c8164eb03670
 SEQUENCE:0
-DTSTAMP:20250615T071233
+DTSTAMP:20250615T102228
 DTSTART:20250726T101500
 DTEND:20250726T110000
 SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Golden Hawks Iron
@@ -39,57 +40,62 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Golden Hawks Iron\nArrive 15
  mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:34118d83-bb65-4219-a360-0a7b5a60cf6b
+UID:d4520e66-e7f5-44d3-9164-0ce3fe5ca3ff
 SEQUENCE:0
-DTSTAMP:20250615T071233
+DTSTAMP:20250615T102228
 DTSTART:20250802T080000
 DTEND:20250802T084500
 SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Glen Iris Scorpions Summerhill
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
  ris Scorpions Summerhill\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b753eb62-3d5c-404d-a531-1440d69ffc68
+UID:e891ea26-8fa4-42dd-bc05-11f0be1ef937
 SEQUENCE:0
-DTSTAMP:20250615T071233
+DTSTAMP:20250615T102228
 DTSTART:20250809T080000
 DTEND:20250809T084500
 SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Maccabi Eagles
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:850a52f7-2d24-4651-91fc-8e7b99ee452a
+UID:9f6a6a8e-16fc-4458-a4c0-07d3c2029920
 SEQUENCE:0
-DTSTAMP:20250615T071233
+DTSTAMP:20250615T102228
 DTSTART:20250816T080000
 DTEND:20250816T084500
 SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Solway Nets
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Nets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a57189a5-a346-408e-9a0f-89bba6c1e766
+UID:08a45ae3-a7be-4540-88c2-bee9d45381fa
 SEQUENCE:0
-DTSTAMP:20250615T071233
+DTSTAMP:20250615T102228
 DTSTART:20250823T093000
 DTEND:20250823T101500
 SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Maccabi Hawks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Hawks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3e1fd1ce-258d-4a5e-aede-47539c16556f
+UID:cb68023f-bc63-4907-9b85-6ab41ac39329
 SEQUENCE:0
-DTSTAMP:20250615T071233
+DTSTAMP:20250615T102228
 DTSTART:20250830T093000
 DTEND:20250830T101500
 SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Golden Hawks Iron
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Golden
   Hawks Iron\nArrive 15 mins early for warm-up
 END:VEVENT

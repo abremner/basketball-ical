@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Smith Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:30f41f31-fae4-44bc-8a25-f39580467dd5
+UID:a3428531-5eb4-41cf-8926-68a276745c3b
 SEQUENCE:0
-DTSTAMP:20250615T071342
+DTSTAMP:20250615T102341
 DTSTART:20250621T131500
 DTEND:20250621T140000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Smith vs Maccabi Celtics
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Cel
  tics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a085ce56-66a1-412d-b8d1-b4fa246730f1
+UID:c42f3362-efb8-4d66-9863-5cf2c671007b
 SEQUENCE:0
-DTSTAMP:20250615T071342
+DTSTAMP:20250615T102341
 DTSTART:20250628T131500
 DTEND:20250628T140000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Smith vs Erica Piranhas
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Erica Piran
  has\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2181b354-9962-4c2a-be31-b845176ca975
+UID:286685b4-8290-44b1-8394-6146cc2ffb5a
 SEQUENCE:0
-DTSTAMP:20250615T071342
+DTSTAMP:20250615T102341
 DTSTART:20250726T140000
 DTEND:20250726T144500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Smith vs Ashy Lightning Green
@@ -39,20 +39,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ba25be22-e1e7-4e45-bd95-6c689b11d8a1
+UID:726381f0-a677-418d-925c-a590f88a57d7
 SEQUENCE:0
-DTSTAMP:20250615T071342
+DTSTAMP:20250615T102341
 DTSTART:20250802T140000
 DTEND:20250802T144500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Smith vs Korowa Grey
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Korowa
   Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2c3d660d-cad9-47d4-a775-6bcd06797fa2
+UID:9dbade89-c6ef-4441-b004-753fd2fdfaa0
 SEQUENCE:0
-DTSTAMP:20250615T071342
+DTSTAMP:20250615T102341
 DTSTART:20250809T131500
 DTEND:20250809T140000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Smith vs Toorak Talons
@@ -61,9 +62,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Toorak Talo
  ns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a18f8246-3c18-467b-b397-0bc22024f808
+UID:8cf9f789-d2a0-4eb4-a025-b03b6b754c3c
 SEQUENCE:0
-DTSTAMP:20250615T071342
+DTSTAMP:20250615T102341
 DTSTART:20250816T140000
 DTEND:20250816T144500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Smith vs Maccabi Ducks
@@ -72,9 +73,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4d277e49-d734-4083-aa2d-2ceee48fd07c
+UID:52551bfd-9030-4e1f-800a-e0b333707a0e
 SEQUENCE:0
-DTSTAMP:20250615T071342
+DTSTAMP:20250615T102341
 DTSTART:20250823T140000
 DTEND:20250823T144500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Smith vs Malvern Tigers Burton
@@ -83,13 +84,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Burton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a3d71d5d-232a-4bbe-bb81-e2cd26e39c45
+UID:f348de13-f4c2-4e78-9e66-618b4627f2b0
 SEQUENCE:0
-DTSTAMP:20250615T071342
+DTSTAMP:20250615T102341
 DTSTART:20250830T140000
 DTEND:20250830T144500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Smith vs Maccabi Celtics
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT

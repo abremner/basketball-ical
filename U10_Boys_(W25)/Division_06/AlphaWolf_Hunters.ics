@@ -6,31 +6,33 @@ X-WR-CALNAME:AlphaWolf Hunters Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:4925ec96-6522-4410-9c82-4985546e0cee
+UID:b7421051-b423-4707-93fa-43480c66918c
 SEQUENCE:0
-DTSTAMP:20250615T071221
+DTSTAMP:20250615T102216
 DTSTART:20250621T093000
 DTEND:20250621T101500
 SUMMARY:🏀 U10 Boys: AlphaWolf Hunters vs Timberwolves Cubs
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Cubs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:04ed3004-c546-4183-9811-0d1ead859323
+UID:abb11cf1-596c-490d-9d36-48110bccce54
 SEQUENCE:0
-DTSTAMP:20250615T071221
+DTSTAMP:20250615T102216
 DTSTART:20250628T101500
 DTEND:20250628T110000
 SUMMARY:🏀 U10 Boys: AlphaWolf Hunters vs Maccabi Ducks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3996106e-9bc7-402a-a368-3fc34e4b0911
+UID:d07f5dd2-e7d1-45d7-824b-40414989e0b6
 SEQUENCE:0
-DTSTAMP:20250615T071221
+DTSTAMP:20250615T102216
 DTSTART:20250726T110000
 DTEND:20250726T114500
 SUMMARY:🏀 U10 Boys: AlphaWolf Hunters vs Solway Bucks
@@ -39,20 +41,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
  Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:91c3f4e2-a44f-429c-bbf3-05f3f41bce0e
+UID:69690a7c-a59b-4f44-a646-13a20607f574
 SEQUENCE:0
-DTSTAMP:20250615T071221
+DTSTAMP:20250615T102216
 DTSTART:20250802T093000
 DTEND:20250802T101500
 SUMMARY:🏀 U10 Boys: AlphaWolf Hunters vs Glen Iris Scorpions Nettleton
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7387a927-3f6a-49b0-9573-5def4b7e9aaf
+UID:36080f2d-7fc0-4c2d-9405-6f22478ac665
 SEQUENCE:0
-DTSTAMP:20250615T071221
+DTSTAMP:20250615T102216
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Boys: AlphaWolf Hunters vs Glen Iris Scorpions Gardiner
@@ -61,31 +64,33 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6b30567e-84c5-4f81-9d0d-da7247128d70
+UID:4229b4d7-a16e-4782-9529-9c1c308c5d90
 SEQUENCE:0
-DTSTAMP:20250615T071221
+DTSTAMP:20250615T102216
 DTSTART:20250816T093000
 DTEND:20250816T101500
 SUMMARY:🏀 U10 Boys: AlphaWolf Hunters vs SouthEast Venom Rockets
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: SouthE
  ast Venom Rockets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:370c3321-7999-426e-8bae-8ce62486fc36
+UID:f40f916d-477d-4355-bf7f-ebbf395a8182
 SEQUENCE:0
-DTSTAMP:20250615T071221
+DTSTAMP:20250615T102216
 DTSTART:20250823T101500
 DTEND:20250823T110000
 SUMMARY:🏀 U10 Boys: AlphaWolf Hunters vs Toorak Torpedoes
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Torpedoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5166782d-d6c6-40b0-b8f2-fe394be9fbd2
+UID:9ee3a12a-c2fe-4750-83d0-1bac06626825
 SEQUENCE:0
-DTSTAMP:20250615T071221
+DTSTAMP:20250615T102216
 DTSTART:20250830T110000
 DTEND:20250830T114500
 SUMMARY:🏀 U10 Boys: AlphaWolf Hunters vs Timberwolves Cubs

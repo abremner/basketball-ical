@@ -6,42 +6,45 @@ X-WR-CALNAME:Solway Ninjas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:74f65ce3-b1f7-43ba-adbc-788d9210cd44
+UID:6d59ffdf-b662-4800-bbc7-e1222eb88a8b
 SEQUENCE:0
-DTSTAMP:20250615T071412
+DTSTAMP:20250615T102411
 DTSTART:20250621T161500
 DTEND:20250621T170000
 SUMMARY:🏀 U14 Boys: Solway Ninjas vs Solway Mavericks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Mavericks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dd5e0d29-4e9f-4406-a3f4-52558356ab70
+UID:23d99cfd-99ef-4c4d-81e0-3ec727904da9
 SEQUENCE:0
-DTSTAMP:20250615T071412
+DTSTAMP:20250615T102411
 DTSTART:20250628T161500
 DTEND:20250628T170000
 SUMMARY:🏀 U14 Boys: Solway Ninjas vs Toorak Tractors
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Tractors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c342ee5d-2d17-4f4e-9d8f-2617117fc747
+UID:0b15a5fe-45df-4e10-ba54-c41974629e17
 SEQUENCE:0
-DTSTAMP:20250615T071412
+DTSTAMP:20250615T102411
 DTSTART:20250802T131500
 DTEND:20250802T140000
 SUMMARY:🏀 U14 Boys: Solway Ninjas vs Arax
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:519f94b2-7241-47fd-8b1e-68aa0a28630b
+UID:7a3adfc1-b5e8-4ff0-9232-cb62d9ea6054
 SEQUENCE:0
-DTSTAMP:20250615T071412
+DTSTAMP:20250615T102411
 DTSTART:20250809T153000
 DTEND:20250809T161500
 SUMMARY:🏀 U14 Boys: Solway Ninjas vs Malvern Tigers Purple
@@ -50,20 +53,21 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Purple\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2042e155-ee6d-43b2-9991-0c0eff231afa
+UID:d53d518a-8a1e-4970-827d-95df77a3cd98
 SEQUENCE:0
-DTSTAMP:20250615T071412
+DTSTAMP:20250615T102411
 DTSTART:20250816T161500
 DTEND:20250816T170000
 SUMMARY:🏀 U14 Boys: Solway Ninjas vs Prahran Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Prahra
  n Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:45e6ac93-918d-4a60-b1a4-ad9f1820af93
+UID:66e17bf1-32fe-4f37-b6dd-81fcf8742e95
 SEQUENCE:0
-DTSTAMP:20250615T071412
+DTSTAMP:20250615T102411
 DTSTART:20250823T153000
 DTEND:20250823T161500
 SUMMARY:🏀 U14 Boys: Solway Ninjas vs Comets Sharks
@@ -72,13 +76,14 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Comets Sharks\nArrive 15 mins
   early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cc4f4aee-6932-4aa8-b3cf-c22f32949824
+UID:5289c10e-5129-4cf5-a397-98490676d44d
 SEQUENCE:0
-DTSTAMP:20250615T071412
+DTSTAMP:20250615T102411
 DTSTART:20250830T161500
 DTEND:20250830T170000
 SUMMARY:🏀 U14 Boys: Solway Ninjas vs Solway Mavericks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Mavericks\nArrive 15 mins early for warm-up
 END:VEVENT

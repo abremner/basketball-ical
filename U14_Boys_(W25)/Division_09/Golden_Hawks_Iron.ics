@@ -6,20 +6,21 @@ X-WR-CALNAME:Golden Hawks Iron Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:ed36a286-cb08-44f0-95e5-018e3fd6b0e2
+UID:d32e23d7-3815-40ef-9544-ec1e9be29674
 SEQUENCE:0
-DTSTAMP:20250615T071414
+DTSTAMP:20250615T102413
 DTSTART:20250621T153000
 DTEND:20250621T161500
 SUMMARY:🏀 U14 Boys: Golden Hawks Iron vs Timberwolves Raptors
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Raptors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:182e5ca1-eb7b-4a7a-b0c8-b1343330b144
+UID:b9bc23ad-cc49-4b72-8979-953cc3545d0e
 SEQUENCE:0
-DTSTAMP:20250615T071414
+DTSTAMP:20250615T102413
 DTSTART:20250628T153000
 DTEND:20250628T161500
 SUMMARY:🏀 U14 Boys: Golden Hawks Iron vs Solway Spartans
@@ -28,20 +29,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
  Spartans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ba333a90-a8ab-4291-b5eb-f90a545ad3bc
+UID:6e6ceb9d-6bf4-4b45-b8fb-2a9c41388fcc
 SEQUENCE:0
-DTSTAMP:20250615T071414
+DTSTAMP:20250615T102413
 DTSTART:20250726T161500
 DTEND:20250726T170000
 SUMMARY:🏀 U14 Boys: Golden Hawks Iron vs Maccabi Eagles
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:58ecb0b5-0204-416b-b51c-e9768afcb3c7
+UID:affa7244-881f-4804-b9ee-94001a3565fd
 SEQUENCE:0
-DTSTAMP:20250615T071414
+DTSTAMP:20250615T102413
 DTSTART:20250802T144500
 DTEND:20250802T153000
 SUMMARY:🏀 U14 Boys: Golden Hawks Iron vs Malvern Tigers Maroon
@@ -50,9 +52,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Maroon\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c211a937-7a82-4a5d-a647-f478706a8680
+UID:3f126a1c-0be2-497a-bd03-874a697e8788
 SEQUENCE:0
-DTSTAMP:20250615T071414
+DTSTAMP:20250615T102413
 DTSTART:20250809T144500
 DTEND:20250809T153000
 SUMMARY:🏀 U14 Boys: Golden Hawks Iron vs Ashy Lightning White
@@ -61,20 +63,21 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Ashy Lightning White\nArrive
  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1dc87435-1a7b-4a93-a7c0-9449551fbbab
+UID:687d365a-0b55-4ebf-b21a-9ac401eca27b
 SEQUENCE:0
-DTSTAMP:20250615T071414
+DTSTAMP:20250615T102413
 DTSTART:20250816T161500
 DTEND:20250816T170000
 SUMMARY:🏀 U14 Boys: Golden Hawks Iron vs Maccabi Giants
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Giants\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5c1eb0a4-1acd-42de-add4-eea9a1652729
+UID:9d0bc930-b087-45f3-aa53-03d7721fc43e
 SEQUENCE:0
-DTSTAMP:20250615T071414
+DTSTAMP:20250615T102413
 DTSTART:20250830T144500
 DTEND:20250830T153000
 SUMMARY:🏀 U14 Boys: Golden Hawks Iron vs Maccabi Falcons

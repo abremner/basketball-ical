@@ -6,42 +6,45 @@ X-WR-CALNAME:Embling Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d4dc44d1-baf8-409a-9e83-e3177ec64ff1
+UID:180df2af-b243-48ae-b21f-ddc5b8ab1603
 SEQUENCE:0
-DTSTAMP:20250615T071249
+DTSTAMP:20250615T102245
 DTSTART:20250621T093000
 DTEND:20250621T101500
 SUMMARY:🏀 U10 Girls: Embling Piranhas vs Netherlee Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Nether
  lee Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a3239075-33b9-482f-a30a-be6885079cb3
+UID:03fb093a-e7ad-4f3f-bd1f-f1152e40b7a0
 SEQUENCE:0
-DTSTAMP:20250615T071249
+DTSTAMP:20250615T102245
 DTSTART:20250628T084500
 DTEND:20250628T093000
 SUMMARY:🏀 U10 Girls: Embling Piranhas vs Malvern Tigers Green
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:acc2f65f-9818-46b6-a559-b2df3a2d6641
+UID:77e14434-045d-4e42-84c8-3bdd529b0782
 SEQUENCE:0
-DTSTAMP:20250615T071249
+DTSTAMP:20250615T102245
 DTSTART:20250726T093000
 DTEND:20250726T101500
 SUMMARY:🏀 U10 Girls: Embling Piranhas vs Maccabi Celtics
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:72828e3a-7313-4408-97e4-8d97bc6c4b6b
+UID:9fd62161-62f9-43be-90e7-bfc081b1871f
 SEQUENCE:0
-DTSTAMP:20250615T071249
+DTSTAMP:20250615T102245
 DTSTART:20250802T114500
 DTEND:20250802T123000
 SUMMARY:🏀 U10 Girls: Embling Piranhas vs Glen Iris Scorpions Gardiner
@@ -50,20 +53,21 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
  corpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b225a18d-d228-4ae2-bc89-655c756c93d8
+UID:26c94a53-a5e0-48ae-ba1b-074a8d5deb73
 SEQUENCE:0
-DTSTAMP:20250615T071249
+DTSTAMP:20250615T102245
 DTSTART:20250809T084500
 DTEND:20250809T093000
 SUMMARY:🏀 U10 Girls: Embling Piranhas vs Grace Park Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Grace 
  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1413a82f-0ab8-43d8-ad8d-3c2fa16c6421
+UID:58a3ccfa-616c-4776-b50b-77eee52dcf80
 SEQUENCE:0
-DTSTAMP:20250615T071249
+DTSTAMP:20250615T102245
 DTSTART:20250816T114500
 DTEND:20250816T123000
 SUMMARY:🏀 U10 Girls: Embling Piranhas vs Lauriston Fire
@@ -72,20 +76,21 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston F
  ire\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:95a95a7d-c9ba-4fcd-9731-594efd9d6e2a
+UID:349c6c93-ddef-479c-b8c9-ed83148354ea
 SEQUENCE:0
-DTSTAMP:20250615T071249
+DTSTAMP:20250615T102245
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U10 Girls: Embling Piranhas vs Valentine Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Valent
  ine Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a7d398db-a49b-48ae-bcba-6cda8196f8eb
+UID:63095e7f-77df-4a83-bcdd-16864b49d794
 SEQUENCE:0
-DTSTAMP:20250615T071249
+DTSTAMP:20250615T102245
 DTSTART:20250830T114500
 DTEND:20250830T123000
 SUMMARY:🏀 U10 Girls: Embling Piranhas vs Netherlee Piranhas

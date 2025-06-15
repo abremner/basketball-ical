@@ -6,20 +6,21 @@ X-WR-CALNAME:Malvern Tigers Purple Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2f97892f-3ea5-4fd9-b8eb-bc387009b6d0
+UID:f1129814-e2c5-42b4-ad74-d2b5d982f6bc
 SEQUENCE:0
-DTSTAMP:20250615T071411
+DTSTAMP:20250615T102410
 DTSTART:20250621T131500
 DTEND:20250621T140000
 SUMMARY:🏀 U14 Boys: Malvern Tigers Purple vs Arax
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cc7ff1f0-4d2f-4d69-ada8-5d77adef29dd
+UID:0f2fc2b6-c4fc-4477-a4f7-e7b065bc05c6
 SEQUENCE:0
-DTSTAMP:20250615T071411
+DTSTAMP:20250615T102410
 DTSTART:20250628T153000
 DTEND:20250628T161500
 SUMMARY:🏀 U14 Boys: Malvern Tigers Purple vs Solway Mavericks
@@ -28,20 +29,21 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Mavericks\nArrive 15 m
  ins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:69361480-5520-4c44-b00b-9ad40ba67c89
+UID:c8c9d916-ee9a-4fdd-ad52-44a5e4db24ad
 SEQUENCE:0
-DTSTAMP:20250615T071411
+DTSTAMP:20250615T102410
 DTSTART:20250726T161500
 DTEND:20250726T170000
 SUMMARY:🏀 U14 Boys: Malvern Tigers Purple vs Prahran Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Prahra
  n Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:87d225d4-7bbb-4caf-b340-9fa2c072b0ce
+UID:d64a2a4c-cb9e-4793-946f-103ca6febe77
 SEQUENCE:0
-DTSTAMP:20250615T071411
+DTSTAMP:20250615T102410
 DTSTART:20250809T153000
 DTEND:20250809T161500
 SUMMARY:🏀 U14 Boys: Malvern Tigers Purple vs Solway Ninjas
@@ -50,9 +52,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Ninjas\nArrive 15 mins
   early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:46ffdae8-5b2a-475a-a328-32b1e59ac0e9
+UID:c0827218-42be-4fc8-ad92-13c82eb003e8
 SEQUENCE:0
-DTSTAMP:20250615T071411
+DTSTAMP:20250615T102410
 DTSTART:20250816T153000
 DTEND:20250816T161500
 SUMMARY:🏀 U14 Boys: Malvern Tigers Purple vs Comets Sharks
@@ -61,24 +63,26 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Comets Sharks\nArrive 15 mins
   early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d422e66f-f0d3-4ab1-b832-c96534d4dc6b
+UID:93b2e558-9f70-4a24-a57c-6b572b749e4d
 SEQUENCE:0
-DTSTAMP:20250615T071411
+DTSTAMP:20250615T102410
 DTSTART:20250823T161500
 DTEND:20250823T170000
 SUMMARY:🏀 U14 Boys: Malvern Tigers Purple vs Toorak Tractors
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Tractors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b55d2370-62aa-4881-885a-7b523a99f82c
+UID:96ac47e6-3635-4372-a767-2b747ef671dd
 SEQUENCE:0
-DTSTAMP:20250615T071411
+DTSTAMP:20250615T102410
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U14 Boys: Malvern Tigers Purple vs Arax
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT

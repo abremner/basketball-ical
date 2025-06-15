@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0bc9eb83-e7e3-45f7-bc39-22cb7386ff91
+UID:8d731d93-4b52-423c-9c54-609db1959499
 SEQUENCE:0
-DTSTAMP:20250615T071403
+DTSTAMP:20250615T102402
 DTSTART:20250621T161500
 DTEND:20250621T170000
 SUMMARY:🏀 U14 Boys: Solway Warriors vs Maccabi Celtics
@@ -17,20 +17,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4887ecd1-0e69-444c-a934-e83382b3b793
+UID:d9a23789-c68b-4542-9d1d-98807c4cb84a
 SEQUENCE:0
-DTSTAMP:20250615T071403
+DTSTAMP:20250615T102402
 DTSTART:20250628T161500
 DTEND:20250628T170000
 SUMMARY:🏀 U14 Boys: Solway Warriors vs Toorak Tomcats
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
   Tomcats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c19155c8-6cad-4c2d-84c6-024f592b1d6b
+UID:b9579d99-cd72-4b59-aac4-a4a1b3bfb02b
 SEQUENCE:0
-DTSTAMP:20250615T071403
+DTSTAMP:20250615T102402
 DTSTART:20250726T161500
 DTEND:20250726T170000
 SUMMARY:🏀 U14 Boys: Solway Warriors vs Glen Iris Scorpions Raven
@@ -39,20 +40,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
  is Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:97acab14-9845-43e2-b327-9254b7ee1b00
+UID:b22511d9-a9f3-4911-8d76-e877e9ef5cd5
 SEQUENCE:0
-DTSTAMP:20250615T071403
+DTSTAMP:20250615T102402
 DTSTART:20250802T153000
 DTEND:20250802T161500
 SUMMARY:🏀 U14 Boys: Solway Warriors vs AlphaWolf Force
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AlphaW
  olf Force\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e2d702a1-06ba-48f5-816d-092e9e3db128
+UID:e97624a6-5852-4575-83dd-acd48508433b
 SEQUENCE:0
-DTSTAMP:20250615T071403
+DTSTAMP:20250615T102402
 DTSTART:20250809T161500
 DTEND:20250809T170000
 SUMMARY:🏀 U14 Boys: Solway Warriors vs Timberwolves Dragons
@@ -61,9 +63,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Dragons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4bda2dab-b6a0-4ef5-b629-ef0c8364ebe6
+UID:d7ac516a-17a0-49f1-a27c-6076664899e7
 SEQUENCE:0
-DTSTAMP:20250615T071403
+DTSTAMP:20250615T102402
 DTSTART:20250816T161500
 DTEND:20250816T170000
 SUMMARY:🏀 U14 Boys: Solway Warriors vs Malvern Tigers Green
@@ -72,24 +74,26 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f85cfa41-b394-41e7-9f5e-fbc531267834
+UID:27934fb9-e9d3-4cf2-acb1-510afb7c66fb
 SEQUENCE:0
-DTSTAMP:20250615T071403
+DTSTAMP:20250615T102402
 DTSTART:20250823T140000
 DTEND:20250823T144500
 SUMMARY:🏀 U14 Boys: Solway Warriors vs Comets Lightning
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
   Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d836404a-c511-420e-a17e-6207d17fe58d
+UID:a5a1b329-c97f-4d7e-b9d3-449334fee40d
 SEQUENCE:0
-DTSTAMP:20250615T071403
+DTSTAMP:20250615T102402
 DTSTART:20250830T161500
 DTEND:20250830T170000
 SUMMARY:🏀 U14 Boys: Solway Warriors vs Maccabi Celtics
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT

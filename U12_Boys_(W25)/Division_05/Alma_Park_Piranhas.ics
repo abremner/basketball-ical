@@ -6,9 +6,9 @@ X-WR-CALNAME:Alma Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:ae5fa7a3-b9a0-4dd4-b5e8-3901fe29072c
+UID:296d0960-e511-437d-87e8-6961867d880c
 SEQUENCE:0
-DTSTAMP:20250615T071305
+DTSTAMP:20250615T102302
 DTSTART:20250621T144500
 DTEND:20250621T153000
 SUMMARY:🏀 U12 Boys: Alma Park Piranhas vs Solway Lions
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Lions\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6d08170a-0908-46f5-82a6-c1fb5be8ff38
+UID:3b9b80d5-b443-4ebe-afad-0fb6946b9085
 SEQUENCE:0
-DTSTAMP:20250615T071305
+DTSTAMP:20250615T102302
 DTSTART:20250628T140000
 DTEND:20250628T144500
 SUMMARY:🏀 U12 Boys: Alma Park Piranhas vs Toorak Torchers
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak
  Torchers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:280c9ed8-54f8-4d93-a8f7-49361f720171
+UID:9cae4d3f-dc4f-4ed5-a6df-3756d60afb18
 SEQUENCE:0
-DTSTAMP:20250615T071305
+DTSTAMP:20250615T102302
 DTSTART:20250726T140000
 DTEND:20250726T144500
 SUMMARY:🏀 U12 Boys: Alma Park Piranhas vs Malvern Tigers Green
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2030056d-5400-45c7-8bee-ac8ab803feb9
+UID:54079872-7174-44a3-bfd8-21fc4394d1e7
 SEQUENCE:0
-DTSTAMP:20250615T071305
+DTSTAMP:20250615T102302
 DTSTART:20250802T140000
 DTEND:20250802T144500
 SUMMARY:🏀 U12 Boys: Alma Park Piranhas vs Toorak Tigersnakes
@@ -50,20 +50,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak
  Tigersnakes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:baf89d6f-3ef5-49e2-ba4c-01acde66fcc0
+UID:4bd9602e-cf6c-481e-afb3-edca4f74de97
 SEQUENCE:0
-DTSTAMP:20250615T071305
+DTSTAMP:20250615T102302
 DTSTART:20250809T131500
 DTEND:20250809T140000
 SUMMARY:🏀 U12 Boys: Alma Park Piranhas vs Timberwolves Heat
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Heat\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fc742347-023a-4bd1-8ca8-a824843266db
+UID:8e1119e8-ada6-42d8-a5a1-73c175ccea2c
 SEQUENCE:0
-DTSTAMP:20250615T071305
+DTSTAMP:20250615T102302
 DTSTART:20250816T140000
 DTEND:20250816T144500
 SUMMARY:🏀 U12 Boys: Alma Park Piranhas vs Solway Lions
@@ -72,9 +73,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Lions\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:059fb77e-d8c4-4ec6-b73a-05e1237b5a9a
+UID:2a66ea7e-e532-4590-a146-abb5fbd19c80
 SEQUENCE:0
-DTSTAMP:20250615T071305
+DTSTAMP:20250615T102302
 DTSTART:20250823T144500
 DTEND:20250823T153000
 SUMMARY:🏀 U12 Boys: Alma Park Piranhas vs Toorak Torchers
@@ -83,9 +84,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak
  Torchers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5639232b-5bed-4524-a226-b2d4e5c0c199
+UID:94d5696a-b431-47a8-8a1c-3dc09bbe973b
 SEQUENCE:0
-DTSTAMP:20250615T071305
+DTSTAMP:20250615T102302
 DTSTART:20250830T140000
 DTEND:20250830T144500
 SUMMARY:🏀 U12 Boys: Alma Park Piranhas vs Malvern Tigers Green

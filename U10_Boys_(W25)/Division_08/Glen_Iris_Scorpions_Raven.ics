@@ -6,20 +6,21 @@ X-WR-CALNAME:Glen Iris Scorpions Raven Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f1948656-9ba1-4185-82b3-257945f498a5
+UID:deb9e52a-600e-4751-8785-06b3773fc1bc
 SEQUENCE:0
-DTSTAMP:20250615T071228
+DTSTAMP:20250615T102223
 DTSTART:20250621T084500
 DTEND:20250621T093000
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Comets Snake
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Comets
   Snake\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:20113212-0f33-475b-b99a-1544d60a5f86
+UID:57980e0b-1a55-47cd-bbcf-7c8a53b98a38
 SEQUENCE:0
-DTSTAMP:20250615T071228
+DTSTAMP:20250615T102223
 DTSTART:20250628T110000
 DTEND:20250628T114500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Toorak Thunderbolts
@@ -28,53 +29,57 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Toorak Thunderbolts\nArrive 1
  5 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:aeaa55b5-ea54-4f4d-b36a-ff14fdb3d4aa
+UID:a60d93ad-2373-4fea-a5f0-124804c35d70
 SEQUENCE:0
-DTSTAMP:20250615T071228
+DTSTAMP:20250615T102223
 DTSTART:20250726T080000
 DTEND:20250726T084500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Timberwolves Bucks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7966d67a-1dc6-42b9-94b0-ab73f94bb093
+UID:31b32adb-0176-4810-a0bb-4fc5c84c8f67
 SEQUENCE:0
-DTSTAMP:20250615T071228
+DTSTAMP:20250615T102223
 DTSTART:20250802T080000
 DTEND:20250802T084500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Timberwolves Lightning
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:23f2a05a-97f8-4cd5-a9fd-e66e6970ac08
+UID:ff0963a4-afa2-4363-96bc-97acb729712a
 SEQUENCE:0
-DTSTAMP:20250615T071228
+DTSTAMP:20250615T102223
 DTSTART:20250809T084500
 DTEND:20250809T093000
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Timberwolves Legends
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Legends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f294d255-c292-413f-848e-f72c26627b9f
+UID:f3baddd5-72ae-4e64-97a7-84917a3fb09f
 SEQUENCE:0
-DTSTAMP:20250615T071228
+DTSTAMP:20250615T102223
 DTSTART:20250816T084500
 DTEND:20250816T093000
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Phoenix Park Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Phoeni
  x Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8a4f5a34-4f4b-49ae-b9a4-b00d16c44bd9
+UID:8408463d-6ef7-4ff0-b885-2dd91f6845c5
 SEQUENCE:0
-DTSTAMP:20250615T071228
+DTSTAMP:20250615T102223
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Maccabi Falcons
@@ -83,13 +88,14 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Falcons\nArrive 15 mi
  ns early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:aa5721d6-f0e6-45f3-b5be-7b4d2661620f
+UID:381a698c-d396-4db0-b9e5-69f2e5bd08e3
 SEQUENCE:0
-DTSTAMP:20250615T071228
+DTSTAMP:20250615T102223
 DTSTART:20250830T080000
 DTEND:20250830T084500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Comets Snake
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
   Snake\nArrive 15 mins early for warm-up
 END:VEVENT

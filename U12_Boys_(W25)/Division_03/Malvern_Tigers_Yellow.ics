@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Yellow Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:45caeaf7-865f-496e-9cda-4fa3f2436867
+UID:6d34b2de-501e-46b0-bbdf-bfb2dccda361
 SEQUENCE:0
-DTSTAMP:20250615T071301
+DTSTAMP:20250615T102258
 DTSTART:20250621T140000
 DTEND:20250621T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Yellow vs Yarra Park Piranhas
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Yarra P
  ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7a490f08-790a-4aaf-86ee-2287aa1b3d44
+UID:1c10a76f-09b0-4ea7-bbeb-885e2580de09
 SEQUENCE:0
-DTSTAMP:20250615T071301
+DTSTAMP:20250615T102258
 DTSTART:20250628T140000
 DTEND:20250628T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Yellow vs Maccabi Bucks
@@ -28,31 +28,33 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b2652f9d-b95a-4f70-9c2c-8ec812c9a9e9
+UID:3ec0bc4f-bdb5-4bad-bf68-f63a6bb43841
 SEQUENCE:0
-DTSTAMP:20250615T071301
+DTSTAMP:20250615T102258
 DTSTART:20250726T144500
 DTEND:20250726T153000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Yellow vs Golden Hawks Sky
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Golden
   Hawks Sky\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b8c8ee55-3185-44cd-bb7b-6364818633fa
+UID:574b23c9-adb4-4ec5-98fc-840019b2e6dc
 SEQUENCE:0
-DTSTAMP:20250615T071301
+DTSTAMP:20250615T102258
 DTSTART:20250802T144500
 DTEND:20250802T153000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Yellow vs Windsor Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Windso
  r Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:233ff53b-3d38-44ac-9a75-9ea54b3ae26c
+UID:dc94f73a-9e3a-429c-9acd-741ed5ca8b45
 SEQUENCE:0
-DTSTAMP:20250615T071301
+DTSTAMP:20250615T102258
 DTSTART:20250816T140000
 DTEND:20250816T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Yellow vs Yarra Park Piranhas
@@ -61,9 +63,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Yarra P
  ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ffb89076-9f62-42f9-b707-7bf8699a2fdc
+UID:81d5a8a4-813c-4f0c-be88-77762745584b
 SEQUENCE:0
-DTSTAMP:20250615T071301
+DTSTAMP:20250615T102258
 DTSTART:20250823T140000
 DTEND:20250823T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Yellow vs Maccabi Bucks
@@ -72,13 +74,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1ec80888-67ae-47ca-91fe-377c278fccb9
+UID:8916d8b9-4ce7-40e2-a4ec-b77d1bac18e9
 SEQUENCE:0
-DTSTAMP:20250615T071301
+DTSTAMP:20250615T102258
 DTSTART:20250830T144500
 DTEND:20250830T153000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Yellow vs Golden Hawks Sky
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Golden
   Hawks Sky\nArrive 15 mins early for warm-up
 END:VEVENT

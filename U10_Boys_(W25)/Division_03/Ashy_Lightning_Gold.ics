@@ -6,9 +6,9 @@ X-WR-CALNAME:Ashy Lightning Gold Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:7ab2829f-eac2-42a2-af0d-0553d78eda8e
+UID:1c0af0f9-fac1-4685-b595-08996378718e
 SEQUENCE:0
-DTSTAMP:20250615T071212
+DTSTAMP:20250615T102206
 DTSTART:20250621T110000
 DTEND:20250621T114500
 SUMMARY:🏀 U10 Boys: Ashy Lightning Gold vs Glen Iris Scorpions Ferndale
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
  is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5d924852-6e11-44e7-945b-d3efc4b1e0b7
+UID:fa1aa784-f2de-4f4e-8475-d1fc4b2f7a43
 SEQUENCE:0
-DTSTAMP:20250615T071212
+DTSTAMP:20250615T102206
 DTSTART:20250628T110000
 DTEND:20250628T114500
 SUMMARY:🏀 U10 Boys: Ashy Lightning Gold vs Maccabi Bucks
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:74bceb80-f781-4d0e-a267-6ea8d3b0d663
+UID:b8bc7f9a-1d16-4c58-96fa-e932e5fcdb67
 SEQUENCE:0
-DTSTAMP:20250615T071212
+DTSTAMP:20250615T102206
 DTSTART:20250726T110000
 DTEND:20250726T114500
 SUMMARY:🏀 U10 Boys: Ashy Lightning Gold vs Melbourne Wolves RBT Vipers
@@ -39,31 +39,33 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Melbour
  ne Wolves RBT Vipers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c1d80502-fbca-4204-96d7-a74ef69f13b4
+UID:4cc4dbfe-bb87-4452-b9a7-2bc37b3c3aca
 SEQUENCE:0
-DTSTAMP:20250615T071212
+DTSTAMP:20250615T102206
 DTSTART:20250802T101500
 DTEND:20250802T110000
 SUMMARY:🏀 U10 Boys: Ashy Lightning Gold vs Malvern Tigers White
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6348609d-3c29-491e-bc8c-666b464d7ac4
+UID:24bfed47-66de-4818-ba98-a835dbf7bb8e
 SEQUENCE:0
-DTSTAMP:20250615T071212
+DTSTAMP:20250615T102206
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Boys: Ashy Lightning Gold vs Malvern Tigers Yellow
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3084591d-6188-46cc-a779-5a9f4e2a672a
+UID:c7d42f1c-d26e-4bcc-bac3-1c6eba50a70d
 SEQUENCE:0
-DTSTAMP:20250615T071212
+DTSTAMP:20250615T102206
 DTSTART:20250816T110000
 DTEND:20250816T114500
 SUMMARY:🏀 U10 Boys: Ashy Lightning Gold vs Glen Iris Scorpions Ferndale
@@ -72,9 +74,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
  is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5dc62381-54c8-41a1-bb5c-d4f63f6d7ed8
+UID:8501003d-523c-4213-8145-6c6105d76b7f
 SEQUENCE:0
-DTSTAMP:20250615T071212
+DTSTAMP:20250615T102206
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Boys: Ashy Lightning Gold vs Maccabi Bucks
@@ -83,13 +85,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6b79ec59-98de-4040-ba2b-58d580484165
+UID:d1cb41ef-9ae6-4f7d-94b5-9a00b1d29456
 SEQUENCE:0
-DTSTAMP:20250615T071212
+DTSTAMP:20250615T102206
 DTSTART:20250830T110000
 DTEND:20250830T114500
 SUMMARY:🏀 U10 Boys: Ashy Lightning Gold vs Melbourne Wolves RBT Vipers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Melbou
  rne Wolves RBT Vipers\nArrive 15 mins early for warm-up
 END:VEVENT

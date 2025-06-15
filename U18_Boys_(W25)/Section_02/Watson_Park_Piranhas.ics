@@ -6,101 +6,110 @@ X-WR-CALNAME:Watson Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0950c61a-222e-40de-8899-edd72016d629
+UID:f591453d-7b78-4f45-909c-e9e6a75a9e78
 SEQUENCE:0
-DTSTAMP:20250615T071514
+DTSTAMP:20250615T102512
 DTSTART:20250615T181500
 DTEND:20250615T190000
 SUMMARY:🏀 U18 Boys: Watson Park Piranhas vs Maccabi Lightening
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Lightening\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b145014f-5854-48db-b51c-9979674bcc51
+UID:bfdc67df-c67e-45a7-8641-46f063734a1a
 SEQUENCE:0
-DTSTAMP:20250615T071514
+DTSTAMP:20250615T102512
 DTSTART:20250622T181500
 DTEND:20250622T190000
 SUMMARY:🏀 U18 Boys: Watson Park Piranhas vs Solway Pistons
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Pistons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:31356d44-6557-483d-af14-ebe864ff4996
+UID:41f51515-69c6-4511-aa23-c33169a6dafe
 SEQUENCE:0
-DTSTAMP:20250615T071514
+DTSTAMP:20250615T102512
 DTSTART:20250629T190000
 DTEND:20250629T194500
 SUMMARY:🏀 U18 Boys: Watson Park Piranhas vs Glenbrook Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glenbr
  ook Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e970c000-590b-44ea-99f4-8b14b085e64e
+UID:a7c86a1c-3c36-4a25-b4c6-76e4319a4cb3
 SEQUENCE:0
-DTSTAMP:20250615T071514
+DTSTAMP:20250615T102512
 DTSTART:20250727T190000
 DTEND:20250727T194500
 SUMMARY:🏀 U18 Boys: Watson Park Piranhas vs Glen Iris Scorpions Sixers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Sixers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7416fd5a-8fc0-4320-b85d-02b503c74b34
+UID:807dafaf-08f6-4912-bc32-cd58012de63f
 SEQUENCE:0
-DTSTAMP:20250615T071514
+DTSTAMP:20250615T102512
 DTSTART:20250803T181500
 DTEND:20250803T190000
 SUMMARY:🏀 U18 Boys: Watson Park Piranhas vs Tooronga Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Tooron
  ga Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e4038b20-b234-4c9c-8355-d9891b9d10bd
+UID:6b0e13dc-944a-414f-be7b-9f5d70057926
 SEQUENCE:0
-DTSTAMP:20250615T071514
+DTSTAMP:20250615T102512
 DTSTART:20250810T173000
 DTEND:20250810T181500
 SUMMARY:🏀 U18 Boys: Watson Park Piranhas vs Maccabi Lightening
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Lightening\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bdb4d443-4b63-4ca9-9f75-ae3ca8d16ece
+UID:28fd257d-75a6-41cb-9397-680dacfda5f5
 SEQUENCE:0
-DTSTAMP:20250615T071514
+DTSTAMP:20250615T102512
 DTSTART:20250817T190000
 DTEND:20250817T194500
 SUMMARY:🏀 U18 Boys: Watson Park Piranhas vs Solway Pistons
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Pistons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2e49d2f1-1e7e-4162-8b0b-9d1a5691f9a4
+UID:c4c5009a-4188-4ac0-85de-0563c5bd8fb1
 SEQUENCE:0
-DTSTAMP:20250615T071514
+DTSTAMP:20250615T102512
 DTSTART:20250824T181500
 DTEND:20250824T190000
 SUMMARY:🏀 U18 Boys: Watson Park Piranhas vs Glenbrook Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glenbr
  ook Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:15493aed-a830-4832-9645-89a5717d1353
+UID:2716acf6-4a14-420e-bc28-c098d46488bc
 SEQUENCE:0
-DTSTAMP:20250615T071514
+DTSTAMP:20250615T102512
 DTSTART:20250831T173000
 DTEND:20250831T181500
 SUMMARY:🏀 U18 Boys: Watson Park Piranhas vs Glen Iris Scorpions Sixers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
  ris Scorpions Sixers\nArrive 15 mins early for warm-up
 END:VEVENT

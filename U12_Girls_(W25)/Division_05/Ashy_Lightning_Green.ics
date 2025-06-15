@@ -6,20 +6,21 @@ X-WR-CALNAME:Ashy Lightning Green Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e3911c3c-80a7-43c5-972e-40ac0ac7ce6e
+UID:8b07dcd7-8a32-4dde-b6d0-fd9b22076b48
 SEQUENCE:0
-DTSTAMP:20250615T071340
+DTSTAMP:20250615T102338
 DTSTART:20250621T140000
 DTEND:20250621T144500
 SUMMARY:🏀 U12 Girls: Ashy Lightning Green vs Erica Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Erica 
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b303a603-251d-4faa-9a56-33a24c50fd89
+UID:e89222af-13f9-4484-ba90-60bafabeebc4
 SEQUENCE:0
-DTSTAMP:20250615T071340
+DTSTAMP:20250615T102338
 DTSTART:20250628T140000
 DTEND:20250628T144500
 SUMMARY:🏀 U12 Girls: Ashy Lightning Green vs Maccabi Ducks
@@ -28,9 +29,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e58c0fcd-cb9a-4cd7-b161-87cdb1fc5c0c
+UID:5b2cb7fc-018d-493c-8c47-13b13a2fda3f
 SEQUENCE:0
-DTSTAMP:20250615T071340
+DTSTAMP:20250615T102338
 DTSTART:20250726T140000
 DTEND:20250726T144500
 SUMMARY:🏀 U12 Girls: Ashy Lightning Green vs Malvern Tigers Smith
@@ -39,9 +40,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Smith\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9b7ea060-f3e7-42a7-8e03-5c9a9033f119
+UID:576e444f-105d-40c3-bddd-989bd0a7c9dc
 SEQUENCE:0
-DTSTAMP:20250615T071340
+DTSTAMP:20250615T102338
 DTSTART:20250802T131500
 DTEND:20250802T140000
 SUMMARY:🏀 U12 Girls: Ashy Lightning Green vs Malvern Tigers Burton
@@ -50,9 +51,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Burton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7bf34bf2-ec1c-4c7c-be9b-9475a98cd1bd
+UID:c62a0f81-b58a-4264-958e-8ff8024fd092
 SEQUENCE:0
-DTSTAMP:20250615T071340
+DTSTAMP:20250615T102338
 DTSTART:20250809T140000
 DTEND:20250809T144500
 SUMMARY:🏀 U12 Girls: Ashy Lightning Green vs Maccabi Celtics
@@ -61,9 +62,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:03a61daf-6b6a-4513-a104-0fab4a863aae
+UID:65d5b813-ce82-4f6a-b208-0a0066f169de
 SEQUENCE:0
-DTSTAMP:20250615T071340
+DTSTAMP:20250615T102338
 DTSTART:20250816T131500
 DTEND:20250816T140000
 SUMMARY:🏀 U12 Girls: Ashy Lightning Green vs Korowa Grey
@@ -72,9 +73,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Korowa Grey
  \nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7cbff1a0-ef8f-47dd-8279-f9f34972a8b2
+UID:9616be4f-966e-4b9b-8ab3-ec29a911ff50
 SEQUENCE:0
-DTSTAMP:20250615T071340
+DTSTAMP:20250615T102338
 DTSTART:20250823T131500
 DTEND:20250823T140000
 SUMMARY:🏀 U12 Girls: Ashy Lightning Green vs Toorak Talons
@@ -83,9 +84,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Toorak Talo
  ns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0d88b081-c8d0-4e9c-aeb8-bf13c9db3836
+UID:10703231-4577-4060-8c3d-4f129554aa1e
 SEQUENCE:0
-DTSTAMP:20250615T071340
+DTSTAMP:20250615T102338
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U12 Girls: Ashy Lightning Green vs Erica Piranhas

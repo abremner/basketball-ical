@@ -6,64 +6,69 @@ X-WR-CALNAME:Koornang Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f03e3bee-1941-477b-9978-e6ec2fc0428a
+UID:1fe1e2a6-5207-486f-bc7d-011c2c8ce90f
 SEQUENCE:0
-DTSTAMP:20250615T071237
+DTSTAMP:20250615T102232
 DTSTART:20250621T080000
 DTEND:20250621T084500
 SUMMARY:🏀 U10 Boys: Koornang Piranhas vs Timberwolves Hawks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Hawks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e6402556-cc73-47bb-9738-8c712295488b
+UID:fa38db21-a569-487c-85f6-c83d56dc0cd7
 SEQUENCE:0
-DTSTAMP:20250615T071237
+DTSTAMP:20250615T102232
 DTSTART:20250628T080000
 DTEND:20250628T084500
 SUMMARY:🏀 U10 Boys: Koornang Piranhas vs SouthEast Venom Magic
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: SouthE
  ast Venom Magic\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:52c58783-2dcf-477b-800e-fc71bb8f4c03
+UID:0e6dca73-69c1-4c7e-9d2b-3f18cf92e600
 SEQUENCE:0
-DTSTAMP:20250615T071237
+DTSTAMP:20250615T102232
 DTSTART:20250726T080000
 DTEND:20250726T084500
 SUMMARY:🏀 U10 Boys: Koornang Piranhas vs Solway Hornets
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Hornets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b0a0dccb-c2f0-4030-b3dd-09667c2d009e
+UID:61e9251a-dd92-4d32-9a09-212d7e3a2911
 SEQUENCE:0
-DTSTAMP:20250615T071237
+DTSTAMP:20250615T102232
 DTSTART:20250802T084500
 DTEND:20250802T093000
 SUMMARY:🏀 U10 Boys: Koornang Piranhas vs Maccabi Jaguars
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Jaguars\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d751e942-b36e-40ed-830e-a2c815b78471
+UID:8ec623ca-23eb-4e20-b9d8-0b3d2bb106e7
 SEQUENCE:0
-DTSTAMP:20250615T071237
+DTSTAMP:20250615T102232
 DTSTART:20250809T080000
 DTEND:20250809T084500
 SUMMARY:🏀 U10 Boys: Koornang Piranhas vs Ashy Lightning Yellow
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ashy L
  ightning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5727fb9e-d892-4f5c-ad5a-f3068ef19aca
+UID:c81f3d0b-dd8b-4724-a9cf-a3ce2211860c
 SEQUENCE:0
-DTSTAMP:20250615T071237
+DTSTAMP:20250615T102232
 DTSTART:20250816T084500
 DTEND:20250816T093000
 SUMMARY:🏀 U10 Boys: Koornang Piranhas vs Timberwolves Hawks
@@ -72,24 +77,26 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Hawks\nArrive 15
   mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a845d538-27a3-444e-b51b-a9fe421f02e2
+UID:031a94f5-c632-4d14-badc-bc7477086b09
 SEQUENCE:0
-DTSTAMP:20250615T071237
+DTSTAMP:20250615T102232
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U10 Boys: Koornang Piranhas vs SouthEast Venom Magic
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: SouthE
  ast Venom Magic\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:efdabc19-8cc3-4978-8c8f-fbaf1855c695
+UID:d77804cc-58cc-4e63-9e2b-7ab44873950f
 SEQUENCE:0
-DTSTAMP:20250615T071237
+DTSTAMP:20250615T102232
 DTSTART:20250830T084500
 DTEND:20250830T093000
 SUMMARY:🏀 U10 Boys: Koornang Piranhas vs Solway Hornets
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Hornets\nArrive 15 mins early for warm-up
 END:VEVENT

@@ -6,9 +6,9 @@ X-WR-CALNAME:Golden Hawks Blaze Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:140b4979-990d-4f27-9ea4-38a646d5b942
+UID:2cea38b2-386b-47aa-96d4-be1c68186f06
 SEQUENCE:0
-DTSTAMP:20250615T071323
+DTSTAMP:20250615T102321
 DTSTART:20250621T123000
 DTEND:20250621T131500
 SUMMARY:🏀 U12 Boys: Golden Hawks Blaze vs Timberwolves Cyclones
@@ -17,31 +17,33 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Cyclones\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1b548dae-922d-40b0-b5db-a6d356016591
+UID:0a73b10d-eb8d-4817-921f-c3b25d9e9411
 SEQUENCE:0
-DTSTAMP:20250615T071323
+DTSTAMP:20250615T102321
 DTSTART:20250726T114500
 DTEND:20250726T123000
 SUMMARY:🏀 U12 Boys: Golden Hawks Blaze vs Ardrie Park Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ardrie
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:072626de-f650-41ef-af51-4bc412b9323b
+UID:df847acb-76df-4387-8707-800a5160b581
 SEQUENCE:0
-DTSTAMP:20250615T071323
+DTSTAMP:20250615T102321
 DTSTART:20250802T123000
 DTEND:20250802T131500
 SUMMARY:🏀 U12 Boys: Golden Hawks Blaze vs Maccabi Lakers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Lakers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c79fe181-2e50-47ea-9e97-fc32547d15b8
+UID:ada67c4a-4d8b-490f-8bc0-2fe5a3b5d6a0
 SEQUENCE:0
-DTSTAMP:20250615T071323
+DTSTAMP:20250615T102321
 DTSTART:20250809T114500
 DTEND:20250809T123000
 SUMMARY:🏀 U12 Boys: Golden Hawks Blaze vs Ashy Lightning Yellow
@@ -50,9 +52,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
  ghtning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f14ff54c-0442-415b-a530-4c56568df40c
+UID:819da90d-d060-4e28-900b-b48dac127942
 SEQUENCE:0
-DTSTAMP:20250615T071323
+DTSTAMP:20250615T102321
 DTSTART:20250816T123000
 DTEND:20250816T131500
 SUMMARY:🏀 U12 Boys: Golden Hawks Blaze vs Maccabi Jaguars
@@ -61,24 +63,26 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Jaguars\nArrive 15 mi
  ns early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e62b890b-0a63-47ec-bba0-32cfa318e6b5
+UID:7cb8338c-4c74-450e-a5be-f52ccba9ac7c
 SEQUENCE:0
-DTSTAMP:20250615T071323
+DTSTAMP:20250615T102321
 DTSTART:20250823T123000
 DTEND:20250823T131500
 SUMMARY:🏀 U12 Boys: Golden Hawks Blaze vs Maccabi Hawks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Hawks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5280d0b4-165f-4c3e-b869-661e1f7e3815
+UID:83e90170-5aed-4ad1-bfac-d15baec87b9a
 SEQUENCE:0
-DTSTAMP:20250615T071323
+DTSTAMP:20250615T102321
 DTSTART:20250830T114500
 DTEND:20250830T123000
 SUMMARY:🏀 U12 Boys: Golden Hawks Blaze vs Glen Iris Scorpions Nettleton
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT

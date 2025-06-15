@@ -6,9 +6,9 @@ X-WR-CALNAME:Ashy Lightning Green Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2ab5c094-88d5-490b-8422-922d0521d16e
+UID:2eba88de-9fd2-4d6d-a8e7-6114d584abcd
 SEQUENCE:0
-DTSTAMP:20250615T071358
+DTSTAMP:20250615T102357
 DTSTART:20250621T161500
 DTEND:20250621T170000
 SUMMARY:🏀 U14 Boys: Ashy Lightning Green vs Timberwolves Celtics
@@ -17,20 +17,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
  olves Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9dfafbca-fefa-4a06-8de1-1c223e72dcda
+UID:52194a0d-b98b-42e7-899a-a0f9395020c8
 SEQUENCE:0
-DTSTAMP:20250615T071358
+DTSTAMP:20250615T102357
 DTSTART:20250726T170000
 DTEND:20250726T174500
 SUMMARY:🏀 U14 Boys: Ashy Lightning Green vs Solway Trojans
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Trojans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:650ad9e5-990b-4f91-bd40-263afbe08d7b
+UID:4cff85a4-0273-411b-8783-ace113626dcc
 SEQUENCE:0
-DTSTAMP:20250615T071358
+DTSTAMP:20250615T102357
 DTSTART:20250802T161500
 DTEND:20250802T170000
 SUMMARY:🏀 U14 Boys: Ashy Lightning Green vs Maccabi Bucks
@@ -39,9 +40,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f56fc4a0-dc42-49e6-8d27-13178810f1a4
+UID:32558f5b-55e6-4869-8964-88cccb1e8c73
 SEQUENCE:0
-DTSTAMP:20250615T071358
+DTSTAMP:20250615T102357
 DTSTART:20250809T161500
 DTEND:20250809T170000
 SUMMARY:🏀 U14 Boys: Ashy Lightning Green vs Solway Crusaders
@@ -50,9 +51,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Crusaders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7bb75312-d673-44b4-bc0d-fd56473e96fa
+UID:0465b8ea-2432-4101-9ae4-f70a8364f0b6
 SEQUENCE:0
-DTSTAMP:20250615T071358
+DTSTAMP:20250615T102357
 DTSTART:20250816T161500
 DTEND:20250816T170000
 SUMMARY:🏀 U14 Boys: Ashy Lightning Green vs Malvern Tigers White
@@ -61,20 +62,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fd679104-4ad5-42a7-993d-2c13db594d38
+UID:47ff045b-f1c0-4e79-9d9d-c3e1844a5f9a
 SEQUENCE:0
-DTSTAMP:20250615T071358
+DTSTAMP:20250615T102357
 DTSTART:20250823T170000
 DTEND:20250823T174500
 SUMMARY:🏀 U14 Boys: Ashy Lightning Green vs Toorak Triple-Threat
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Triple-Threat\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fb17d322-c0ee-4b4b-981d-87db4017378a
+UID:97900f4b-06f2-4046-91cf-c542c55942e5
 SEQUENCE:0
-DTSTAMP:20250615T071358
+DTSTAMP:20250615T102357
 DTSTART:20250830T161500
 DTEND:20250830T170000
 SUMMARY:🏀 U14 Boys: Ashy Lightning Green vs Timberwolves Celtics

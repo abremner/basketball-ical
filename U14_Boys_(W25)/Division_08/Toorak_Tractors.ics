@@ -6,9 +6,9 @@ X-WR-CALNAME:Toorak Tractors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2d027704-d87b-41a3-862e-d4feaf400d7a
+UID:066cb863-af83-42c4-b375-6d6cbd11dd09
 SEQUENCE:0
-DTSTAMP:20250615T071413
+DTSTAMP:20250615T102412
 DTSTART:20250621T153000
 DTEND:20250621T161500
 SUMMARY:🏀 U14 Boys: Toorak Tractors vs Prahran Piranhas
@@ -17,20 +17,21 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Prahran Piranhas\nArrive 15 m
  ins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:497851dc-f84c-4e69-862f-24188d651bfc
+UID:8180f7b3-b466-4fd4-ab79-4f21012fe59c
 SEQUENCE:0
-DTSTAMP:20250615T071413
+DTSTAMP:20250615T102412
 DTSTART:20250628T161500
 DTEND:20250628T170000
 SUMMARY:🏀 U14 Boys: Toorak Tractors vs Solway Ninjas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Ninjas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e0405230-b856-4b81-80b1-e21254e720f9
+UID:a92f4de5-2e9a-4868-9625-d1d5a9ac1a2a
 SEQUENCE:0
-DTSTAMP:20250615T071413
+DTSTAMP:20250615T102412
 DTSTART:20250726T153000
 DTEND:20250726T161500
 SUMMARY:🏀 U14 Boys: Toorak Tractors vs Solway Mavericks
@@ -39,42 +40,45 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Mavericks\nArrive 15 m
  ins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d044d656-649e-4ccc-8760-45eb1cccb858
+UID:5f6b9e4b-c643-4d1a-8952-6b22b79604f6
 SEQUENCE:0
-DTSTAMP:20250615T071413
+DTSTAMP:20250615T102412
 DTSTART:20250802T161500
 DTEND:20250802T170000
 SUMMARY:🏀 U14 Boys: Toorak Tractors vs Comets Sharks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
   Sharks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7b1de946-2bdb-47a6-b9a0-26158b9cff9f
+UID:71d8af37-abe3-4f93-ae62-ff22a433b8c4
 SEQUENCE:0
-DTSTAMP:20250615T071413
+DTSTAMP:20250615T102412
 DTSTART:20250816T131500
 DTEND:20250816T140000
 SUMMARY:🏀 U14 Boys: Toorak Tractors vs Arax
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7d7171e3-f3de-4cac-a27e-c6c7c515e5dc
+UID:b737caac-b056-434d-aefd-154c76742ec7
 SEQUENCE:0
-DTSTAMP:20250615T071413
+DTSTAMP:20250615T102412
 DTSTART:20250823T161500
 DTEND:20250823T170000
 SUMMARY:🏀 U14 Boys: Toorak Tractors vs Malvern Tigers Purple
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Purple\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:90fb11b5-6f9e-426c-b565-0a6519707317
+UID:52966a46-e07a-4896-b957-036b7d14069f
 SEQUENCE:0
-DTSTAMP:20250615T071413
+DTSTAMP:20250615T102412
 DTSTART:20250830T153000
 DTEND:20250830T161500
 SUMMARY:🏀 U14 Boys: Toorak Tractors vs Prahran Piranhas

@@ -6,9 +6,9 @@ X-WR-CALNAME:Timberwolves Ramblers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9964451e-870d-46c7-97a3-db65eb6099bc
+UID:eb0ce688-7342-4266-9a68-07b1b4c49299
 SEQUENCE:0
-DTSTAMP:20250615T071406
+DTSTAMP:20250615T102405
 DTSTART:20250621T153000
 DTEND:20250621T161500
 SUMMARY:🏀 U14 Boys: Timberwolves Ramblers vs Timberwolves Stones
@@ -17,20 +17,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Stones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a2e6c47f-9d3b-41be-902a-7a0e53f3e9ca
+UID:f2b5aba7-9d8d-49b8-932a-8841d9b5fb1e
 SEQUENCE:0
-DTSTAMP:20250615T071406
+DTSTAMP:20250615T102405
 DTSTART:20250628T161500
 DTEND:20250628T170000
 SUMMARY:🏀 U14 Boys: Timberwolves Ramblers vs AlphaWolf Conquerors
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AlphaW
  olf Conquerors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:825c3a37-500c-40d5-ac75-efd1e5c7585d
+UID:cb469ead-f026-4749-81e5-cef0c95dbfed
 SEQUENCE:0
-DTSTAMP:20250615T071406
+DTSTAMP:20250615T102405
 DTSTART:20250726T170000
 DTEND:20250726T174500
 SUMMARY:🏀 U14 Boys: Timberwolves Ramblers vs Ashy Lightning Yellow
@@ -39,20 +40,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
  ghtning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:55024a6c-dafe-4e8d-aee8-2854eb592aed
+UID:62b329c0-ece1-4cac-9b99-66e4109a00ff
 SEQUENCE:0
-DTSTAMP:20250615T071406
+DTSTAMP:20250615T102405
 DTSTART:20250802T161500
 DTEND:20250802T170000
 SUMMARY:🏀 U14 Boys: Timberwolves Ramblers vs Timberwolves Terriers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Terriers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7c266f5e-ed73-4571-b4b6-eb3efc4cc6a3
+UID:4a1e0305-a81c-4e66-8c50-ae829125fdf9
 SEQUENCE:0
-DTSTAMP:20250615T071406
+DTSTAMP:20250615T102405
 DTSTART:20250809T170000
 DTEND:20250809T174500
 SUMMARY:🏀 U14 Boys: Timberwolves Ramblers vs Malvern Tigers Orange
@@ -61,9 +63,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6bedea1f-fa60-4cea-a94e-313861679092
+UID:6176f349-05a9-4327-ab5f-a87e57a47cf8
 SEQUENCE:0
-DTSTAMP:20250615T071406
+DTSTAMP:20250615T102405
 DTSTART:20250816T153000
 DTEND:20250816T161500
 SUMMARY:🏀 U14 Boys: Timberwolves Ramblers vs Timberwolves Stones
@@ -72,9 +74,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Stones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:483340e4-90e5-4e1d-b28f-766d60990f34
+UID:2cfa9449-bc30-4f91-8e66-329cd69becc8
 SEQUENCE:0
-DTSTAMP:20250615T071406
+DTSTAMP:20250615T102405
 DTSTART:20250823T153000
 DTEND:20250823T161500
 SUMMARY:🏀 U14 Boys: Timberwolves Ramblers vs AlphaWolf Conquerors
@@ -83,9 +85,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: AlphaWo
  lf Conquerors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6b75001f-a290-4eaf-a6d4-2b33b1576be2
+UID:91cbe230-97a3-4dd3-aafc-bf4126241a10
 SEQUENCE:0
-DTSTAMP:20250615T071406
+DTSTAMP:20250615T102405
 DTSTART:20250830T170000
 DTEND:20250830T174500
 SUMMARY:🏀 U14 Boys: Timberwolves Ramblers vs Ashy Lightning Yellow

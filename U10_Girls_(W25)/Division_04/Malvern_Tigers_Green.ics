@@ -6,31 +6,33 @@ X-WR-CALNAME:Malvern Tigers Green Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:dc319d65-ffd1-4d19-aecd-68211d961588
+UID:79c4729f-8d54-4b1c-9b00-aa0f812b8776
 SEQUENCE:0
-DTSTAMP:20250615T071251
+DTSTAMP:20250615T102247
 DTSTART:20250621T084500
 DTEND:20250621T093000
 SUMMARY:🏀 U10 Girls: Malvern Tigers Green vs Valentine Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Valent
  ine Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:88cca9b6-2611-43b7-806e-20154999b2f4
+UID:5191b01f-d6ea-4ed7-8658-00dcfb43dd0e
 SEQUENCE:0
-DTSTAMP:20250615T071251
+DTSTAMP:20250615T102247
 DTSTART:20250628T084500
 DTEND:20250628T093000
 SUMMARY:🏀 U10 Girls: Malvern Tigers Green vs Embling Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Emblin
  g Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8ebad83b-c2ab-42c5-a933-f2886b6cb710
+UID:d46e0298-d179-4e8b-8637-ec9cf8808d4f
 SEQUENCE:0
-DTSTAMP:20250615T071251
+DTSTAMP:20250615T102247
 DTSTART:20250726T114500
 DTEND:20250726T123000
 SUMMARY:🏀 U10 Girls: Malvern Tigers Green vs Glen Iris Scorpions Gardin
@@ -40,9 +42,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
  corpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d20b9778-ff3d-48ff-8727-465d1a34dc16
+UID:fe3eb469-fdb9-4dd8-9225-8117c06b571c
 SEQUENCE:0
-DTSTAMP:20250615T071251
+DTSTAMP:20250615T102247
 DTSTART:20250802T114500
 DTEND:20250802T123000
 SUMMARY:🏀 U10 Girls: Malvern Tigers Green vs Lauriston Fire
@@ -51,9 +53,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston F
  ire\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:65b18372-897d-4ca5-a68b-a8b6f0cf485e
+UID:3f6d0158-c5af-4fea-8540-db36ef54b8a2
 SEQUENCE:0
-DTSTAMP:20250615T071251
+DTSTAMP:20250615T102247
 DTSTART:20250809T114500
 DTEND:20250809T123000
 SUMMARY:🏀 U10 Girls: Malvern Tigers Green vs Netherlee Piranhas
@@ -62,35 +64,38 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Netherlee P
  iranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f7604488-0928-40bd-9598-d73159cb5c8a
+UID:3008fcc5-7b4d-4448-99fe-627a37c8f39f
 SEQUENCE:0
-DTSTAMP:20250615T071251
+DTSTAMP:20250615T102247
 DTSTART:20250816T084500
 DTEND:20250816T093000
 SUMMARY:🏀 U10 Girls: Malvern Tigers Green vs Maccabi Celtics
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8862e715-a397-4b43-b625-b828e593f901
+UID:ec047d32-eca5-4054-a3a2-95af366d4ea6
 SEQUENCE:0
-DTSTAMP:20250615T071251
+DTSTAMP:20250615T102247
 DTSTART:20250823T093000
 DTEND:20250823T101500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Green vs Grace Park Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Grace 
  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5c2a6f9a-f1c9-40ce-9906-177f7173391a
+UID:91a46584-ede4-4b9f-8125-571a811b59c2
 SEQUENCE:0
-DTSTAMP:20250615T071251
+DTSTAMP:20250615T102247
 DTSTART:20250830T093000
 DTEND:20250830T101500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Green vs Valentine Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Valent
  ine Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT

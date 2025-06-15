@@ -6,9 +6,9 @@ X-WR-CALNAME:Comets Tigers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2749f637-eb69-4f89-bcf4-e03568be9f66
+UID:32649b85-e3f8-4ef1-85ce-ea060bbc9897
 SEQUENCE:0
-DTSTAMP:20250615T071319
+DTSTAMP:20250615T102316
 DTSTART:20250621T123000
 DTEND:20250621T131500
 SUMMARY:🏀 U12 Boys: Comets Tigers vs Solway Panthers
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Panthers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3e14817a-a6e2-4370-8bfd-92c150948ced
+UID:d02d683e-6c15-4852-b574-2f4280e39c54
 SEQUENCE:0
-DTSTAMP:20250615T071319
+DTSTAMP:20250615T102316
 DTSTART:20250628T131500
 DTEND:20250628T140000
 SUMMARY:🏀 U12 Boys: Comets Tigers vs Malvern Tigers Grey
@@ -28,20 +28,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f6ed9aa4-bd0c-4e44-95e9-98535aa1923d
+UID:700ca327-72e1-4bf3-b4a6-df8db74df7f3
 SEQUENCE:0
-DTSTAMP:20250615T071319
+DTSTAMP:20250615T102316
 DTSTART:20250726T114500
 DTEND:20250726T123000
 SUMMARY:🏀 U12 Boys: Comets Tigers vs Toorak Thunder
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:210afa02-bf4f-4295-8042-a7acfad4e3b7
+UID:2ebd343c-999f-4d48-a268-2ac84af654eb
 SEQUENCE:0
-DTSTAMP:20250615T071319
+DTSTAMP:20250615T102316
 DTSTART:20250802T123000
 DTEND:20250802T131500
 SUMMARY:🏀 U12 Boys: Comets Tigers vs Stonnington Piranhas
@@ -50,20 +51,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Stonnin
  gton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1447516a-36d3-4cf9-a2a6-06a31aedc288
+UID:167e842e-f6aa-4390-adaf-15eb83db6c5e
 SEQUENCE:0
-DTSTAMP:20250615T071319
+DTSTAMP:20250615T102316
 DTSTART:20250809T114500
 DTEND:20250809T123000
 SUMMARY:🏀 U12 Boys: Comets Tigers vs Toorak Trouble
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Trouble\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2f17f4d9-ef15-4a23-9a67-d882b1419fd8
+UID:6c6daf47-3426-498e-81cf-bc357208bbfc
 SEQUENCE:0
-DTSTAMP:20250615T071319
+DTSTAMP:20250615T102316
 DTSTART:20250816T123000
 DTEND:20250816T131500
 SUMMARY:🏀 U12 Boys: Comets Tigers vs Comets Cyclones
@@ -72,9 +74,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Comets
  Cyclones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7acf0cd0-43ad-411c-a7c7-a2f4b8c828f7
+UID:2b7b58af-8e5b-4a14-ac14-daca1f192d1d
 SEQUENCE:0
-DTSTAMP:20250615T071319
+DTSTAMP:20250615T102316
 DTSTART:20250830T123000
 DTEND:20250830T131500
 SUMMARY:🏀 U12 Boys: Comets Tigers vs Solway Panthers

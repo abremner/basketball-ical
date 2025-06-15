@@ -6,20 +6,21 @@ X-WR-CALNAME:Glen Iris Scorpions Saints Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:8860dd88-8677-420a-95d6-e7f61e6fe608
+UID:3736b14a-ea53-4e03-b1c9-59422bdf27d2
 SEQUENCE:0
-DTSTAMP:20250615T071442
+DTSTAMP:20250615T102441
 DTSTART:20250621T183000
 DTEND:20250621T191500
 SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Saints vs Timberwolves Taipans
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Taipans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:083b421f-20c8-4084-9395-2b045a3a193f
+UID:83e2dd78-0c7f-4121-810f-09c5eb812d58
 SEQUENCE:0
-DTSTAMP:20250615T071442
+DTSTAMP:20250615T102441
 DTSTART:20250628T191500
 DTEND:20250628T200000
 SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Saints vs Toorak Trackers
@@ -28,68 +29,74 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak
  Trackers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c7d91cd1-c95b-419d-a4d1-0c5ea4882c7c
+UID:77ef0d4d-965d-482d-b174-f9ee22792d43
 SEQUENCE:0
-DTSTAMP:20250615T071442
+DTSTAMP:20250615T102441
 DTSTART:20250726T174500
 DTEND:20250726T183000
 SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Saints vs Timberwolves Cats
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Cats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e2309126-8df5-40ec-9cca-b6debf6b5b57
+UID:529497a9-3bbb-4c88-9625-303f7f5a691a
 SEQUENCE:0
-DTSTAMP:20250615T071442
+DTSTAMP:20250615T102441
 DTSTART:20250802T183000
 DTEND:20250802T191500
 SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Saints vs Solway Pistons
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Pistons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:de55f174-f532-48ae-a796-cd5c1a245738
+UID:ae491e35-24ac-4d37-81ae-c72fd1855c04
 SEQUENCE:0
-DTSTAMP:20250615T071442
+DTSTAMP:20250615T102441
 DTSTART:20250809T174500
 DTEND:20250809T183000
 SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Saints vs Solway Slammers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Slammers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1e402669-a889-4ea7-8874-ad3348e208e9
+UID:de7ca71c-95af-4ccd-b69c-c90d30e564a7
 SEQUENCE:0
-DTSTAMP:20250615T071442
+DTSTAMP:20250615T102441
 DTSTART:20250816T183000
 DTEND:20250816T191500
 SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Saints vs Malvern Tigers Yellow
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d85c2de7-3db9-4e80-b9d7-197e2453405f
+UID:c6b32569-7b86-4c65-867d-9ad41effc6af
 SEQUENCE:0
-DTSTAMP:20250615T071442
+DTSTAMP:20250615T102441
 DTSTART:20250823T191500
 DTEND:20250823T200000
 SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Saints vs Solway Blazers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Blazers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:45a6e070-50fd-44d6-8be6-51ec8a2d3181
+UID:653fb8d2-5157-460d-8685-b8a4883ea5bd
 SEQUENCE:0
-DTSTAMP:20250615T071442
+DTSTAMP:20250615T102441
 DTSTART:20250830T183000
 DTEND:20250830T191500
 SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Saints vs Timberwolves Taipans
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Taipans\nArrive 15 mins early for warm-up
 END:VEVENT

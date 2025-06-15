@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Trojans Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:111e8fc2-5539-4453-bf69-5d0c9852ed5e
+UID:e800ef7d-7514-4793-936f-e320efd6542c
 SEQUENCE:0
-DTSTAMP:20250615T071400
+DTSTAMP:20250615T102359
 DTSTART:20250621T161500
 DTEND:20250621T170000
 SUMMARY:🏀 U14 Boys: Solway Trojans vs Maccabi Bucks
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:21580b32-7788-4e5b-898d-7783d91a7043
+UID:b81b21d7-c5bb-4839-80e6-849473e8a454
 SEQUENCE:0
-DTSTAMP:20250615T071400
+DTSTAMP:20250615T102359
 DTSTART:20250628T161500
 DTEND:20250628T170000
 SUMMARY:🏀 U14 Boys: Solway Trojans vs Toorak Triple-Threat
@@ -28,20 +28,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak
  Triple-Threat\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c7aa349d-7b9e-4de1-856c-20e9f105ab41
+UID:8f1a0642-befb-4baf-98ba-083b169aabc6
 SEQUENCE:0
-DTSTAMP:20250615T071400
+DTSTAMP:20250615T102359
 DTSTART:20250726T170000
 DTEND:20250726T174500
 SUMMARY:🏀 U14 Boys: Solway Trojans vs Ashy Lightning Green
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d4ca9428-903e-4215-9c57-09e2e979628f
+UID:b40629e7-3c35-4dfe-a460-59cc767c51d8
 SEQUENCE:0
-DTSTAMP:20250615T071400
+DTSTAMP:20250615T102359
 DTSTART:20250802T161500
 DTEND:20250802T170000
 SUMMARY:🏀 U14 Boys: Solway Trojans vs Malvern Tigers White
@@ -50,20 +51,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:acaaf4cd-b735-4b0c-84c7-b3128564ade4
+UID:825a7d25-3e77-498e-b732-bbc4cbf9d554
 SEQUENCE:0
-DTSTAMP:20250615T071400
+DTSTAMP:20250615T102359
 DTSTART:20250816T170000
 DTEND:20250816T174500
 SUMMARY:🏀 U14 Boys: Solway Trojans vs Solway Crusaders
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Crusaders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:08a9f355-aceb-4086-a5cd-7e56058ae398
+UID:e79ab41f-d1c1-4a0b-a0bc-40f17bd95dd5
 SEQUENCE:0
-DTSTAMP:20250615T071400
+DTSTAMP:20250615T102359
 DTSTART:20250823T161500
 DTEND:20250823T170000
 SUMMARY:🏀 U14 Boys: Solway Trojans vs Timberwolves Celtics
@@ -72,9 +74,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
  olves Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:18f0a6d8-3757-4e2d-96fa-6c514ce6a767
+UID:3e699bd1-6377-4c5c-8850-0b4b6b78c170
 SEQUENCE:0
-DTSTAMP:20250615T071400
+DTSTAMP:20250615T102359
 DTSTART:20250830T161500
 DTEND:20250830T170000
 SUMMARY:🏀 U14 Boys: Solway Trojans vs Maccabi Bucks

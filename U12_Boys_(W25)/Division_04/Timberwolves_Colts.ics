@@ -6,42 +6,45 @@ X-WR-CALNAME:Timberwolves Colts Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2ec72adb-dcdc-45d7-a7d4-9c4a3ff2657f
+UID:da150c3c-7d50-49a2-91d0-fd6ac08e10ac
 SEQUENCE:0
-DTSTAMP:20250615T071304
+DTSTAMP:20250615T102301
 DTSTART:20250621T140000
 DTEND:20250621T144500
 SUMMARY:🏀 U12 Boys: Timberwolves Colts vs AlphaWolf Legends
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
  olf Legends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:33f089df-5626-4e85-8a78-957371df6d3f
+UID:957be077-697f-4d39-84cc-f74c63be9bc3
 SEQUENCE:0
-DTSTAMP:20250615T071304
+DTSTAMP:20250615T102301
 DTSTART:20250628T140000
 DTEND:20250628T144500
 SUMMARY:🏀 U12 Boys: Timberwolves Colts vs Maccabi Celtics
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cc4ae279-a577-4c34-8bd0-b391676a08d7
+UID:6d7fd6fe-44c7-45e0-a4c3-328ecd34323f
 SEQUENCE:0
-DTSTAMP:20250615T071304
+DTSTAMP:20250615T102301
 DTSTART:20250726T140000
 DTEND:20250726T144500
 SUMMARY:🏀 U12 Boys: Timberwolves Colts vs Toorak Tarantulas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Tarantulas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c2a446a3-649c-4a6e-9269-025fee196c4e
+UID:ea83c5bb-f2f4-4ba7-8fb7-e4d45e707b97
 SEQUENCE:0
-DTSTAMP:20250615T071304
+DTSTAMP:20250615T102301
 DTSTART:20250802T140000
 DTEND:20250802T144500
 SUMMARY:🏀 U12 Boys: Timberwolves Colts vs Solway Cubs
@@ -50,9 +53,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Cubs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e770fd25-f205-45bc-8b5a-7ccc9cd43bb7
+UID:bc92cce5-0db8-4240-8d15-167c9d825a2a
 SEQUENCE:0
-DTSTAMP:20250615T071304
+DTSTAMP:20250615T102301
 DTSTART:20250809T144500
 DTEND:20250809T153000
 SUMMARY:🏀 U12 Boys: Timberwolves Colts vs Malvern Tigers White
@@ -61,9 +64,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:24ca5780-3d2e-4ead-9511-839dc8f978e6
+UID:a3e4c51a-8a0d-401d-9d18-a70f4864f8c7
 SEQUENCE:0
-DTSTAMP:20250615T071304
+DTSTAMP:20250615T102301
 DTSTART:20250816T140000
 DTEND:20250816T144500
 SUMMARY:🏀 U12 Boys: Timberwolves Colts vs AlphaWolf Legends
@@ -72,9 +75,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: AlphaWo
  lf Legends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f53223a7-4901-4e60-b01f-d5216449365c
+UID:ea27c340-0207-4974-ab60-d8bdca1d5e2c
 SEQUENCE:0
-DTSTAMP:20250615T071304
+DTSTAMP:20250615T102301
 DTSTART:20250823T140000
 DTEND:20250823T144500
 SUMMARY:🏀 U12 Boys: Timberwolves Colts vs Maccabi Celtics
@@ -83,9 +86,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4c1fa677-8d3d-49c3-8350-10e351c444d8
+UID:72b98cc7-c65d-45ca-91b1-aaa514b45cb0
 SEQUENCE:0
-DTSTAMP:20250615T071304
+DTSTAMP:20250615T102301
 DTSTART:20250830T144500
 DTEND:20250830T153000
 SUMMARY:🏀 U12 Boys: Timberwolves Colts vs Toorak Tarantulas

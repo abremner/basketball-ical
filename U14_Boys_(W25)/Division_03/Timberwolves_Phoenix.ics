@@ -6,77 +6,83 @@ X-WR-CALNAME:Timberwolves Phoenix Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9a56e095-3286-4e42-a96a-44578e25eb53
+UID:a5c69e61-24d5-45ce-87c0-b4daa27d41dc
 SEQUENCE:0
-DTSTAMP:20250615T071357
+DTSTAMP:20250615T102356
 DTSTART:20250621T174500
 DTEND:20250621T183000
 SUMMARY:🏀 U14 Boys: Timberwolves Phoenix vs Glen Iris Scorpions Nettlet
  on
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8f9482a3-c554-4064-b2a2-f741cbd7e0e0
+UID:cf6360e6-93c4-481a-86aa-b0117e629cee
 SEQUENCE:0
-DTSTAMP:20250615T071357
+DTSTAMP:20250615T102356
 DTSTART:20250629T164500
 DTEND:20250629T173000
 SUMMARY:🏀 U14 Boys: Timberwolves Phoenix vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:45609d5a-3ad9-457d-9c13-15bc954685ae
+UID:d2820e8a-cafb-44ca-98a4-dd373c1bb1b8
 SEQUENCE:0
-DTSTAMP:20250615T071357
+DTSTAMP:20250615T102356
 DTSTART:20250726T170000
 DTEND:20250726T174500
 SUMMARY:🏀 U14 Boys: Timberwolves Phoenix vs Paxton Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Paxton
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:45d9fba9-8ff2-47a1-98b1-090003891a9b
+UID:2fde927e-485f-4072-b117-04de3482bebd
 SEQUENCE:0
-DTSTAMP:20250615T071357
+DTSTAMP:20250615T102356
 DTSTART:20250802T170000
 DTEND:20250802T174500
 SUMMARY:🏀 U14 Boys: Timberwolves Phoenix vs Malvern Tigers Yellow
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b76df031-dc1f-4627-9711-c3ce9c5ca611
+UID:f8603fdc-5935-4c8a-a589-2b59491edca8
 SEQUENCE:0
-DTSTAMP:20250615T071357
+DTSTAMP:20250615T102356
 DTSTART:20250809T170000
 DTEND:20250809T174500
 SUMMARY:🏀 U14 Boys: Timberwolves Phoenix vs Glen Iris Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:235efdee-0538-4691-94b8-d4375eb89570
+UID:fe77284a-3c95-44be-898b-9b2406bb4ca4
 SEQUENCE:0
-DTSTAMP:20250615T071357
+DTSTAMP:20250615T102356
 DTSTART:20250816T174500
 DTEND:20250816T183000
 SUMMARY:🏀 U14 Boys: Timberwolves Phoenix vs Glen Iris Scorpions Nettlet
  on
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7e0e794a-2660-4a48-b458-0e0a31c51f2d
+UID:2c3e4c1e-3577-4cf0-9118-7d480eef0650
 SEQUENCE:0
-DTSTAMP:20250615T071357
+DTSTAMP:20250615T102356
 DTSTART:20250823T170000
 DTEND:20250823T174500
 SUMMARY:🏀 U14 Boys: Timberwolves Phoenix vs Ashy Lightning Gold
@@ -85,13 +91,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
  ghtning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ee4635c0-1b88-4fbf-8f9f-773ed9b3c5ce
+UID:c041fe3d-5a25-47c5-8b62-a1ac2f3ee209
 SEQUENCE:0
-DTSTAMP:20250615T071357
+DTSTAMP:20250615T102356
 DTSTART:20250830T170000
 DTEND:20250830T174500
 SUMMARY:🏀 U14 Boys: Timberwolves Phoenix vs Paxton Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Paxton
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT

@@ -6,9 +6,9 @@ X-WR-CALNAME:Timberwolves Boulders Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:08621520-4cd8-44c9-a8a8-900e5c683fbb
+UID:1296c87d-29a0-4ff6-8c5d-dd4621450695
 SEQUENCE:0
-DTSTAMP:20250615T071448
+DTSTAMP:20250615T102446
 DTSTART:20250621T191500
 DTEND:20250621T200000
 SUMMARY:🏀 U16 Boys: Timberwolves Boulders vs Toorak Terminators
@@ -17,20 +17,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Terminators\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c95f58b2-af01-43ea-8d61-fbfc0b6ece3e
+UID:f11dc22c-36e6-44a5-ac7a-367264a4652f
 SEQUENCE:0
-DTSTAMP:20250615T071448
+DTSTAMP:20250615T102446
 DTSTART:20250628T183000
 DTEND:20250628T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Boulders vs Serrell Park Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Serrel
  l Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1dc6b92a-03d6-423c-9592-23a1e46df7c9
+UID:9f78108e-db72-44f0-8465-851ed5f61cfd
 SEQUENCE:0
-DTSTAMP:20250615T071448
+DTSTAMP:20250615T102446
 DTSTART:20250726T191500
 DTEND:20250726T200000
 SUMMARY:🏀 U16 Boys: Timberwolves Boulders vs Maccabi Warriors
@@ -39,9 +40,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a86d18bf-32c8-46af-8812-52d62dd96864
+UID:eb867dd5-8cd3-4e6b-af60-b2d4968c7152
 SEQUENCE:0
-DTSTAMP:20250615T071448
+DTSTAMP:20250615T102446
 DTSTART:20250802T183000
 DTEND:20250802T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Boulders vs Ripponlea Piranhas
@@ -50,9 +51,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ripponl
  ea Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8ea43b29-00f5-46a8-99b0-4e543a95c131
+UID:d6d14c51-1329-42db-b111-f288cd9850a1
 SEQUENCE:0
-DTSTAMP:20250615T071448
+DTSTAMP:20250615T102446
 DTSTART:20250809T191500
 DTEND:20250809T200000
 SUMMARY:🏀 U16 Boys: Timberwolves Boulders vs Solway Super Sonics
@@ -61,9 +62,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Super Sonics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0ba62be4-228c-40c2-8990-af6796d79be3
+UID:b7deed0d-1f3d-49fd-bad9-8437fede7cb3
 SEQUENCE:0
-DTSTAMP:20250615T071448
+DTSTAMP:20250615T102446
 DTSTART:20250816T183000
 DTEND:20250816T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Boulders vs Timberwolves Magnum
@@ -72,20 +73,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Magnum\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9d86a28f-b426-4b49-97ec-db02f667e6d8
+UID:de87eb87-f376-44a0-920e-6e1da8475ce5
 SEQUENCE:0
-DTSTAMP:20250615T071448
+DTSTAMP:20250615T102446
 DTSTART:20250823T183000
 DTEND:20250823T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Boulders vs Toorak Tornadoes
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Tornadoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9e7c2625-7395-4c04-852d-6b1e8504f057
+UID:17a8d37c-119b-46ba-a3db-73b2765797b7
 SEQUENCE:0
-DTSTAMP:20250615T071448
+DTSTAMP:20250615T102446
 DTSTART:20250830T191500
 DTEND:20250830T200000
 SUMMARY:🏀 U16 Boys: Timberwolves Boulders vs Toorak Terminators

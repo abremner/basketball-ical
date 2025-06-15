@@ -6,20 +6,21 @@ X-WR-CALNAME:Glen Iris Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:bb4fa465-98d9-41a0-8e33-147a18f0baae
+UID:16a72233-25f8-4cdf-b2bc-cee6c98025a2
 SEQUENCE:0
-DTSTAMP:20250615T071356
+DTSTAMP:20250615T102355
 DTSTART:20250622T164500
 DTEND:20250622T173000
 SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6aeaf492-5725-44af-ab51-2e936cc1524d
+UID:7274cd32-4b76-45ee-91ad-83c6ce6063cd
 SEQUENCE:0
-DTSTAMP:20250615T071356
+DTSTAMP:20250615T102355
 DTSTART:20250628T170000
 DTEND:20250628T174500
 SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Malvern Tigers Yellow
@@ -28,9 +29,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1084fbf5-d3e0-4d49-8afb-f666839ed88a
+UID:4e09b1ca-8ed9-497f-b3ca-b721a3e3adf7
 SEQUENCE:0
-DTSTAMP:20250615T071356
+DTSTAMP:20250615T102355
 DTSTART:20250726T170000
 DTEND:20250726T174500
 SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Glen Iris Scorpions Nettleton
@@ -39,53 +40,57 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5562eac0-1a21-477e-9d08-57b76b20a662
+UID:29296e4c-7998-47cb-947e-03ce5810c231
 SEQUENCE:0
-DTSTAMP:20250615T071356
+DTSTAMP:20250615T102355
 DTSTART:20250802T174500
 DTEND:20250802T183000
 SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ad56514e-19d2-49e3-87fb-71588b46eb4d
+UID:362570df-c2bf-4f82-a2bf-9a89d4e81242
 SEQUENCE:0
-DTSTAMP:20250615T071356
+DTSTAMP:20250615T102355
 DTSTART:20250809T170000
 DTEND:20250809T174500
 SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Timberwolves Phoenix
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Phoenix\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:70062ea1-d0c3-415f-8e10-a04798343ed5
+UID:964d6a3c-fffe-43f1-9437-109d40e95673
 SEQUENCE:0
-DTSTAMP:20250615T071356
+DTSTAMP:20250615T102355
 DTSTART:20250816T170000
 DTEND:20250816T174500
 SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9ebc507b-4a7e-4dc4-a938-4c7931a974a7
+UID:7a9e21c9-ca7d-4a3e-ba33-b26148c80442
 SEQUENCE:0
-DTSTAMP:20250615T071356
+DTSTAMP:20250615T102355
 DTSTART:20250823T170000
 DTEND:20250823T174500
 SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Malvern Tigers Yellow
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:786ba84f-d907-46ee-a285-6db3f94e2a94
+UID:953b9561-4806-46ae-b9f1-fdc362e5d1ff
 SEQUENCE:0
-DTSTAMP:20250615T071356
+DTSTAMP:20250615T102355
 DTSTART:20250830T170000
 DTEND:20250830T174500
 SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Glen Iris Scorpions Nettleton

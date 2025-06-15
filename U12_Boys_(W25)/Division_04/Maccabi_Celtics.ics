@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Celtics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:bba6792e-0beb-4ba8-89b0-929b5bea3850
+UID:1a5420da-e62e-4fba-8427-1a67eb760a59
 SEQUENCE:0
-DTSTAMP:20250615T071303
+DTSTAMP:20250615T102300
 DTSTART:20250621T140000
 DTEND:20250621T144500
 SUMMARY:🏀 U12 Boys: Maccabi Celtics vs Malvern Tigers White
@@ -17,20 +17,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e273660b-273a-4241-b5a5-5ce8024722b4
+UID:213a2134-9a0d-4987-8d93-3e138f25dcb0
 SEQUENCE:0
-DTSTAMP:20250615T071303
+DTSTAMP:20250615T102300
 DTSTART:20250628T140000
 DTEND:20250628T144500
 SUMMARY:🏀 U12 Boys: Maccabi Celtics vs Timberwolves Colts
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Colts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5a4cef07-c2f1-4b38-a4cb-78fe74553a7b
+UID:b9064887-083f-4887-923b-187df20157e7
 SEQUENCE:0
-DTSTAMP:20250615T071303
+DTSTAMP:20250615T102300
 DTSTART:20250726T144500
 DTEND:20250726T153000
 SUMMARY:🏀 U12 Boys: Maccabi Celtics vs AlphaWolf Legends
@@ -39,9 +40,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
  lf Legends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8a22f2eb-523d-41ab-81a2-764a4bfbd778
+UID:511f0288-b20c-4113-a855-6b9bc897e0c1
 SEQUENCE:0
-DTSTAMP:20250615T071303
+DTSTAMP:20250615T102300
 DTSTART:20250802T144500
 DTEND:20250802T153000
 SUMMARY:🏀 U12 Boys: Maccabi Celtics vs Toorak Tarantulas
@@ -50,20 +51,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Tarantulas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4834e042-82dd-446a-a0a9-2f3de7eabf84
+UID:9ef4d969-2ba2-4700-881c-519376136045
 SEQUENCE:0
-DTSTAMP:20250615T071303
+DTSTAMP:20250615T102300
 DTSTART:20250809T140000
 DTEND:20250809T144500
 SUMMARY:🏀 U12 Boys: Maccabi Celtics vs Solway Cubs
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Cubs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b50d5020-ef8f-40a6-adf9-f14cef667de3
+UID:7d6cb18c-3f85-49b2-ba4a-e958d48f89c2
 SEQUENCE:0
-DTSTAMP:20250615T071303
+DTSTAMP:20250615T102300
 DTSTART:20250816T144500
 DTEND:20250816T153000
 SUMMARY:🏀 U12 Boys: Maccabi Celtics vs Malvern Tigers White
@@ -72,9 +74,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d481dace-f383-4161-9b80-c8466f7c839a
+UID:07717f77-bd34-4e01-b00a-a958e09c6b19
 SEQUENCE:0
-DTSTAMP:20250615T071303
+DTSTAMP:20250615T102300
 DTSTART:20250823T140000
 DTEND:20250823T144500
 SUMMARY:🏀 U12 Boys: Maccabi Celtics vs Timberwolves Colts
@@ -83,13 +85,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
  olves Colts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2bcbc4b8-0513-42ce-9fd6-a65dc1e36fb1
+UID:0d7c4ccf-2851-45c1-b8cb-7a14f13c1da6
 SEQUENCE:0
-DTSTAMP:20250615T071303
+DTSTAMP:20250615T102300
 DTSTART:20250830T140000
 DTEND:20250830T144500
 SUMMARY:🏀 U12 Boys: Maccabi Celtics vs AlphaWolf Legends
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
  olf Legends\nArrive 15 mins early for warm-up
 END:VEVENT

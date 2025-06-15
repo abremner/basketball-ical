@@ -6,9 +6,9 @@ X-WR-CALNAME:Timberwolves Lightning Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:12f71899-ad25-466e-8c17-ca6ca804e445
+UID:e8579b3f-2654-46d4-aa18-2b8d805df7c5
 SEQUENCE:0
-DTSTAMP:20250615T071230
+DTSTAMP:20250615T102225
 DTSTART:20250621T110000
 DTEND:20250621T114500
 SUMMARY:🏀 U10 Boys: Timberwolves Lightning vs Phoenix Park Piranhas
@@ -17,20 +17,21 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Phoenix Park Piranhas\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:41b1654a-b2e0-42ae-a415-abed1ed38630
+UID:e9c3f2af-1085-41ca-95f6-d3411c18b431
 SEQUENCE:0
-DTSTAMP:20250615T071230
+DTSTAMP:20250615T102225
 DTSTART:20250628T084500
 DTEND:20250628T093000
 SUMMARY:🏀 U10 Boys: Timberwolves Lightning vs Timberwolves Bucks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0b017853-09c3-4a60-bdc4-cc1f7db211f5
+UID:0f2c755e-bfbe-4043-a4ed-7f50848a9d2b
 SEQUENCE:0
-DTSTAMP:20250615T071230
+DTSTAMP:20250615T102225
 DTSTART:20250726T110000
 DTEND:20250726T114500
 SUMMARY:🏀 U10 Boys: Timberwolves Lightning vs Comets Snake
@@ -39,57 +40,62 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Comets Snake\nArrive 15 mins
  early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ec60b423-de13-4c4e-a19d-96551c4e4ed6
+UID:d1df9799-87b7-4336-b5a4-a40e8f9bce02
 SEQUENCE:0
-DTSTAMP:20250615T071230
+DTSTAMP:20250615T102225
 DTSTART:20250802T080000
 DTEND:20250802T084500
 SUMMARY:🏀 U10 Boys: Timberwolves Lightning vs Glen Iris Scorpions Raven
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:685fc192-0c33-480c-9c03-8a3243bda075
+UID:6d284b74-8c74-4313-8db4-c94ff454f064
 SEQUENCE:0
-DTSTAMP:20250615T071230
+DTSTAMP:20250615T102225
 DTSTART:20250809T084500
 DTEND:20250809T093000
 SUMMARY:🏀 U10 Boys: Timberwolves Lightning vs Maccabi Falcons
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4bf34710-c791-4f54-9a8e-3262d959924a
+UID:ac1d5b08-ab83-4ada-a2ff-d2e6957a6782
 SEQUENCE:0
-DTSTAMP:20250615T071230
+DTSTAMP:20250615T102225
 DTSTART:20250816T084500
 DTEND:20250816T093000
 SUMMARY:🏀 U10 Boys: Timberwolves Lightning vs Timberwolves Legends
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Legends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:50f74243-2b3f-455f-a770-d76a80c9fe25
+UID:7a525563-bfad-4d7f-ab2d-b3990304a697
 SEQUENCE:0
-DTSTAMP:20250615T071230
+DTSTAMP:20250615T102225
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U10 Boys: Timberwolves Lightning vs Toorak Thunderbolts
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Thunderbolts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:edf552bd-a86b-4ce5-9deb-91e3eaa5e320
+UID:4f85252d-61c6-4c6e-95e6-dedc19817bb3
 SEQUENCE:0
-DTSTAMP:20250615T071230
+DTSTAMP:20250615T102225
 DTSTART:20250830T084500
 DTEND:20250830T093000
 SUMMARY:🏀 U10 Boys: Timberwolves Lightning vs Phoenix Park Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Phoeni
  x Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT

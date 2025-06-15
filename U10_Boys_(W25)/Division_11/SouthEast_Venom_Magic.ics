@@ -6,31 +6,33 @@ X-WR-CALNAME:SouthEast Venom Magic Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:4919d846-9902-45f1-8830-dad23b3fc7e4
+UID:c96f02a9-f0de-42f2-b3de-be28b307ffc1
 SEQUENCE:0
-DTSTAMP:20250615T071238
+DTSTAMP:20250615T102233
 DTSTART:20250621T084500
 DTEND:20250621T093000
 SUMMARY:🏀 U10 Boys: SouthEast Venom Magic vs Ashy Lightning Yellow
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
  ightning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b17da5fd-1c00-42e6-bac6-e7fce79c4a5f
+UID:c1d2fd02-b471-4915-bb49-d651c26137ae
 SEQUENCE:0
-DTSTAMP:20250615T071238
+DTSTAMP:20250615T102233
 DTSTART:20250628T080000
 DTEND:20250628T084500
 SUMMARY:🏀 U10 Boys: SouthEast Venom Magic vs Koornang Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Koorna
  ng Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dedc63df-d46f-44d4-80bb-65e733e031fe
+UID:66701e6d-1818-4bcd-bb9f-b6f53cf8e40b
 SEQUENCE:0
-DTSTAMP:20250615T071238
+DTSTAMP:20250615T102233
 DTSTART:20250726T084500
 DTEND:20250726T093000
 SUMMARY:🏀 U10 Boys: SouthEast Venom Magic vs Maccabi Jaguars
@@ -39,20 +41,21 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Jaguars\nArrive 15 mi
  ns early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3a663dee-ee06-49c8-b01e-e97edbd59e6a
+UID:4479dbc1-6bcd-41b9-8a42-e9f8a6364f9e
 SEQUENCE:0
-DTSTAMP:20250615T071238
+DTSTAMP:20250615T102233
 DTSTART:20250802T080000
 DTEND:20250802T084500
 SUMMARY:🏀 U10 Boys: SouthEast Venom Magic vs Timberwolves Hawks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Hawks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a9945e88-7766-4db5-b8ce-023caff1ed1b
+UID:0ac07911-fec6-4863-9d21-8d2674285126
 SEQUENCE:0
-DTSTAMP:20250615T071238
+DTSTAMP:20250615T102233
 DTSTART:20250809T084500
 DTEND:20250809T093000
 SUMMARY:🏀 U10 Boys: SouthEast Venom Magic vs Solway Hornets
@@ -61,31 +64,33 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Hornets\nArrive 15 min
  s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:38daf2cb-afd2-4b5f-aeda-69400bcc1b0f
+UID:0d950a29-905d-4d73-85ad-2f537178bcad
 SEQUENCE:0
-DTSTAMP:20250615T071238
+DTSTAMP:20250615T102233
 DTSTART:20250816T084500
 DTEND:20250816T093000
 SUMMARY:🏀 U10 Boys: SouthEast Venom Magic vs Ashy Lightning Yellow
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
  ightning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b99ca573-19ce-4101-9e6f-170748d049af
+UID:6f9f8d3d-b3e8-4f41-8aa0-8b0a3da93a61
 SEQUENCE:0
-DTSTAMP:20250615T071238
+DTSTAMP:20250615T102233
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U10 Boys: SouthEast Venom Magic vs Koornang Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Koorna
  ng Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a2af7864-6586-4bb7-900f-b4287562d067
+UID:bd1367b3-cef4-42b1-b79b-06c6d41070a9
 SEQUENCE:0
-DTSTAMP:20250615T071238
+DTSTAMP:20250615T102233
 DTSTART:20250830T084500
 DTEND:20250830T093000
 SUMMARY:🏀 U10 Boys: SouthEast Venom Magic vs Maccabi Jaguars

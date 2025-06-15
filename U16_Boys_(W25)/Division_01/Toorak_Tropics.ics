@@ -6,9 +6,9 @@ X-WR-CALNAME:Toorak Tropics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:ac893774-3bb3-4b24-a23f-2a4033eeabcd
+UID:ea85a105-3811-4427-b085-059ee49763d1
 SEQUENCE:0
-DTSTAMP:20250615T071439
+DTSTAMP:20250615T102437
 DTSTART:20250621T200000
 DTEND:20250621T204500
 SUMMARY:🏀 U16 Boys: Toorak Tropics vs Malvern Tigers Black
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e18688b7-8396-4ecb-9c41-c93fc17527ee
+UID:f1e55bc8-3456-4b73-a7b3-95f155adb8eb
 SEQUENCE:0
-DTSTAMP:20250615T071439
+DTSTAMP:20250615T102437
 DTSTART:20250628T200000
 DTEND:20250628T204500
 SUMMARY:🏀 U16 Boys: Toorak Tropics vs Bayside Piranhas
@@ -28,57 +28,62 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Bayside
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:50c8231a-dcbd-4d9c-a424-2867cac0e997
+UID:e8a9c696-cdaf-490a-8dfa-2f0bb40e30d9
 SEQUENCE:0
-DTSTAMP:20250615T071439
+DTSTAMP:20250615T102437
 DTSTART:20250726T191500
 DTEND:20250726T200000
 SUMMARY:🏀 U16 Boys: Toorak Tropics vs Timberwolves United
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves United\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:372f412f-4157-402e-b3dd-fbb2a5566f05
+UID:34988f38-eef3-41fa-9417-0b4b5ab4ab82
 SEQUENCE:0
-DTSTAMP:20250615T071439
+DTSTAMP:20250615T102437
 DTSTART:20250802T191500
 DTEND:20250802T200000
 SUMMARY:🏀 U16 Boys: Toorak Tropics vs Timberwolves Hustlers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Hustlers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4058b10b-6a96-4dbe-9f95-6978cfbed491
+UID:178ec075-7bae-410c-90f3-5dec3287892a
 SEQUENCE:0
-DTSTAMP:20250615T071439
+DTSTAMP:20250615T102437
 DTSTART:20250816T183000
 DTEND:20250816T191500
 SUMMARY:🏀 U16 Boys: Toorak Tropics vs Solway Rockets
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Rockets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:16d6c9e7-e283-46d4-aae1-6d48d635217f
+UID:bde12283-5dce-4a45-bd9a-69d34650b661
 SEQUENCE:0
-DTSTAMP:20250615T071439
+DTSTAMP:20250615T102437
 DTSTART:20250823T191500
 DTEND:20250823T200000
 SUMMARY:🏀 U16 Boys: Toorak Tropics vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d91a7f28-47c7-4ead-8f1e-4ae59b0ff2cc
+UID:6fa0715b-0456-494f-9a66-a993fe2ca650
 SEQUENCE:0
-DTSTAMP:20250615T071439
+DTSTAMP:20250615T102437
 DTSTART:20250830T191500
 DTEND:20250830T200000
 SUMMARY:🏀 U16 Boys: Toorak Tropics vs Malvern Tigers Black
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT

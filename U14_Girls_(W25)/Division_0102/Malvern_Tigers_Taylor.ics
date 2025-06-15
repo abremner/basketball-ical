@@ -6,20 +6,21 @@ X-WR-CALNAME:Malvern Tigers Taylor Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:213adb73-10f5-432b-b84a-913874dd9d27
+UID:f946993e-512c-4835-840f-b16ddbc5c0db
 SEQUENCE:0
-DTSTAMP:20250615T071420
+DTSTAMP:20250615T102419
 DTSTART:20250621T170000
 DTEND:20250621T174500
 SUMMARY:🏀 U14 Girls: Malvern Tigers Taylor vs Gardenvale Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Garden
  vale Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8723e3fd-6884-4e28-95cf-bc150f46bd70
+UID:86a5c3ff-521a-4cd6-8061-e05242f1ae00
 SEQUENCE:0
-DTSTAMP:20250615T071420
+DTSTAMP:20250615T102419
 DTSTART:20250628T161500
 DTEND:20250628T170000
 SUMMARY:🏀 U14 Girls: Malvern Tigers Taylor vs Timberwolves Comets
@@ -28,9 +29,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Comets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9b4aca8e-29cb-40bf-a0ca-83c84f660624
+UID:ef7015b6-05db-4fae-ab79-9c47691d47d7
 SEQUENCE:0
-DTSTAMP:20250615T071420
+DTSTAMP:20250615T102419
 DTSTART:20250726T161500
 DTEND:20250726T170000
 SUMMARY:🏀 U14 Girls: Malvern Tigers Taylor vs Ashy Lightning Gold
@@ -39,20 +40,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
  ghtning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9577c753-6512-4dcf-bbc7-ac5ae6604223
+UID:6c2df67f-460d-4514-86e3-062a4e6ba8c8
 SEQUENCE:0
-DTSTAMP:20250615T071420
+DTSTAMP:20250615T102419
 DTSTART:20250802T170000
 DTEND:20250802T174500
 SUMMARY:🏀 U14 Girls: Malvern Tigers Taylor vs Maccabi Warriors
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:29a8990c-7969-49ff-ab24-5535d64be6bb
+UID:76d6468c-77bd-4169-b852-d37269fa5b59
 SEQUENCE:0
-DTSTAMP:20250615T071420
+DTSTAMP:20250615T102419
 DTSTART:20250809T161500
 DTEND:20250809T170000
 SUMMARY:🏀 U14 Girls: Malvern Tigers Taylor vs Toorak TopGuns
@@ -61,20 +63,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  TopGuns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e08f6d1c-a2b1-42c5-ad01-6d1c7b499831
+UID:fa3f5863-d9f4-4519-a5dd-bf3e1592000f
 SEQUENCE:0
-DTSTAMP:20250615T071420
+DTSTAMP:20250615T102419
 DTSTART:20250816T174500
 DTEND:20250816T183000
 SUMMARY:🏀 U14 Girls: Malvern Tigers Taylor vs Malvern Tigers Phillips
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Phillips\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d243ea78-b9e7-4dd9-b85a-cfb72a5f708f
+UID:073b79f3-c382-4e65-9841-d0142efd85a1
 SEQUENCE:0
-DTSTAMP:20250615T071420
+DTSTAMP:20250615T102419
 DTSTART:20250823T161500
 DTEND:20250823T170000
 SUMMARY:🏀 U14 Girls: Malvern Tigers Taylor vs Solway Rubies
@@ -83,13 +86,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Rubies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:18709cf3-63bc-43f7-9858-f1ff2a93877d
+UID:ba2dabd8-4e42-4ce6-80e4-bc32fcbf6546
 SEQUENCE:0
-DTSTAMP:20250615T071420
+DTSTAMP:20250615T102419
 DTSTART:20250830T170000
 DTEND:20250830T174500
 SUMMARY:🏀 U14 Girls: Malvern Tigers Taylor vs Gardenvale Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Garden
  vale Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT

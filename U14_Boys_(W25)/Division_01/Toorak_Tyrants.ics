@@ -6,20 +6,21 @@ X-WR-CALNAME:Toorak Tyrants Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:779fc761-8d7f-4d51-8a53-d46801a5b42c
+UID:46a591bd-3d5b-4e8d-b5de-5dfa6365209f
 SEQUENCE:0
-DTSTAMP:20250615T071351
+DTSTAMP:20250615T102350
 DTSTART:20250622T164500
 DTEND:20250622T173000
 SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Solway Samurais
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Samurais\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:39847485-f647-4eb4-9805-6c8f996a51af
+UID:485c5868-07aa-4fc6-a3b1-cd65f971651c
 SEQUENCE:0
-DTSTAMP:20250615T071351
+DTSTAMP:20250615T102350
 DTSTART:20250628T174500
 DTEND:20250628T183000
 SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Golden Hawks Sky
@@ -28,31 +29,33 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Golden
  Hawks Sky\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:35aa22c0-336d-4dcd-8c90-9a56b3a280ea
+UID:9f476b21-108c-4400-a466-8d4a930328de
 SEQUENCE:0
-DTSTAMP:20250615T071351
+DTSTAMP:20250615T102350
 DTSTART:20250726T174500
 DTEND:20250726T183000
 SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Malvern Tigers Black
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:163c206d-6e06-4117-8c51-b04325fc0a1b
+UID:429dd03c-4bdf-4e70-a78a-4857b609d65f
 SEQUENCE:0
-DTSTAMP:20250615T071351
+DTSTAMP:20250615T102350
 DTSTART:20250802T174500
 DTEND:20250802T183000
 SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Malvern Tigers Red
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:63fb781e-aded-4b10-8f84-bdaa389748b3
+UID:f51891bc-2f50-4718-b0d8-eff183e83829
 SEQUENCE:0
-DTSTAMP:20250615T071351
+DTSTAMP:20250615T102350
 DTSTART:20250809T174500
 DTEND:20250809T183000
 SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Timberwolves Lions
@@ -61,35 +64,38 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Lions\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:73d24d5a-8d9c-4de1-a4ef-a423abf6d18f
+UID:e5fd9ac7-c03e-43ca-8800-d45dcc06cc0a
 SEQUENCE:0
-DTSTAMP:20250615T071351
+DTSTAMP:20250615T102350
 DTSTART:20250816T174500
 DTEND:20250816T183000
 SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Solway Samurais
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Samurais\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:45fd3bcf-1028-4804-834b-bf665e2f44d6
+UID:ebe2819f-3c77-4550-926a-b0c96d2a9103
 SEQUENCE:0
-DTSTAMP:20250615T071351
+DTSTAMP:20250615T102350
 DTSTART:20250823T170000
 DTEND:20250823T174500
 SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Golden Hawks Sky
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Golden
   Hawks Sky\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6092bbfd-8f3b-4ddc-b774-46d7a4d4a91c
+UID:a6d10772-966d-44fe-97e1-15f4ce2cf2d5
 SEQUENCE:0
-DTSTAMP:20250615T071351
+DTSTAMP:20250615T102350
 DTSTART:20250830T174500
 DTEND:20250830T183000
 SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Malvern Tigers Black
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT

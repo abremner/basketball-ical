@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Taylor Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:248e7dee-fcad-4cc3-850c-5bc19027d006
+UID:ca645727-1e92-4f13-b179-8cf38db98794
 SEQUENCE:0
-DTSTAMP:20250615T071331
+DTSTAMP:20250615T102329
 DTSTART:20250621T153000
 DTEND:20250621T161500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Taylor vs Solway Finches
@@ -17,43 +17,46 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Finches\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b9b01448-f51f-415b-9cb2-5166867f4541
+UID:345364d7-1585-40ea-85a2-529c984d5427
 SEQUENCE:0
-DTSTAMP:20250615T071331
+DTSTAMP:20250615T102329
 DTSTART:20250628T144500
 DTEND:20250628T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Taylor vs Malvern Tigers Phillips
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Phillips\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:48d2e0a9-d9a6-41dc-831b-fe52374f3feb
+UID:04ee9fa4-7ba6-40ec-b540-35b087535e6d
 SEQUENCE:0
-DTSTAMP:20250615T071331
+DTSTAMP:20250615T102329
 DTSTART:20250726T144500
 DTEND:20250726T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Taylor vs Solway Bluebirds
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Bluebirds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:550eb314-4825-4e17-a6c9-b2127c5e3930
+UID:62edd9d4-1c56-49a5-855b-5ca9054296e9
 SEQUENCE:0
-DTSTAMP:20250615T071331
+DTSTAMP:20250615T102329
 DTSTART:20250802T144500
 DTEND:20250802T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Taylor vs Glen Iris Scorpions Fernd
  ale
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
  ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:996e98db-b2f6-4deb-815e-e53655d9074c
+UID:e5753be6-4123-4488-9fb9-9129965cacdd
 SEQUENCE:0
-DTSTAMP:20250615T071331
+DTSTAMP:20250615T102329
 DTSTART:20250809T153000
 DTEND:20250809T161500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Taylor vs Timberwolves Strikers
@@ -62,35 +65,38 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Strikers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c3e68224-700f-49b7-ace9-440c85fac41d
+UID:fc61ba9f-a63a-4b85-b43c-2e67c898308a
 SEQUENCE:0
-DTSTAMP:20250615T071331
+DTSTAMP:20250615T102329
 DTSTART:20250816T140000
 DTEND:20250816T144500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Taylor vs Toorak TopShots
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
   TopShots\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:adcc68c8-c572-45c4-b1dc-db582ec29bab
+UID:d5928ccc-f2c4-4346-a933-96ffebb7c02e
 SEQUENCE:0
-DTSTAMP:20250615T071331
+DTSTAMP:20250615T102329
 DTSTART:20250823T140000
 DTEND:20250823T144500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Taylor vs Yanakie Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Yanaki
  e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:08cc65c5-2aa7-4899-9232-cb0b2b4ad015
+UID:f774fea9-44d0-4fcf-809b-0331dfeba66f
 SEQUENCE:0
-DTSTAMP:20250615T071331
+DTSTAMP:20250615T102329
 DTSTART:20250830T140000
 DTEND:20250830T144500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Taylor vs Solway Finches
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Finches\nArrive 15 mins early for warm-up
 END:VEVENT

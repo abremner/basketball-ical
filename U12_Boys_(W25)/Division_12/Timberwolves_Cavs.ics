@@ -6,9 +6,9 @@ X-WR-CALNAME:Timberwolves Cavs Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f1b409db-4e21-44aa-b4e1-3ef6fb6f9513
+UID:59147ad1-ad1e-4acf-94ab-53cff0dabc36
 SEQUENCE:0
-DTSTAMP:20250615T071328
+DTSTAMP:20250615T102326
 DTSTART:20250621T114500
 DTEND:20250621T123000
 SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Maccabi Kings
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Kings\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a73b63da-2548-4a98-a966-73c80884686c
+UID:7dfe6c02-85c6-4857-84d0-9c6bba3716cc
 SEQUENCE:0
-DTSTAMP:20250615T071328
+DTSTAMP:20250615T102326
 DTSTART:20250628T123000
 DTEND:20250628T131500
 SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Timberwolves Fury
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Fury\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a67c6def-f791-4e20-851b-60387b00e518
+UID:42d23e3a-9452-441b-9f06-758a42cc1544
 SEQUENCE:0
-DTSTAMP:20250615T071328
+DTSTAMP:20250615T102326
 DTSTART:20250726T114500
 DTEND:20250726T123000
 SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Malvern Tigers Tan
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Tan\nArrive 15
   mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9f5571a9-19ca-44f2-8950-0f3435a54674
+UID:286ca02a-57ba-4ba5-a810-38843dd2baf2
 SEQUENCE:0
-DTSTAMP:20250615T071328
+DTSTAMP:20250615T102326
 DTSTART:20250802T144500
 DTEND:20250802T153000
 SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Wilson Piranhas
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Wilson
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4afa290c-655f-427a-baa3-8498e8bbab4b
+UID:f9030822-1622-4c17-8f2a-c5b2ceecaf37
 SEQUENCE:0
-DTSTAMP:20250615T071328
+DTSTAMP:20250615T102326
 DTSTART:20250809T114500
 DTEND:20250809T123000
 SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Solway Crocodiles
@@ -61,20 +61,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Crocodiles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2c6720ee-aa17-4799-bf97-1019762fafe2
+UID:720646c5-10bc-45cc-8d91-f73df69a9b4c
 SEQUENCE:0
-DTSTAMP:20250615T071328
+DTSTAMP:20250615T102326
 DTSTART:20250816T123000
 DTEND:20250816T131500
 SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Malvern Tigers Aqua
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Aqua\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1419000d-3e20-4f3d-9216-71479c00e206
+UID:30fcb959-1fbc-4a08-85fe-7d5f8afc9b94
 SEQUENCE:0
-DTSTAMP:20250615T071328
+DTSTAMP:20250615T102326
 DTSTART:20250823T123000
 DTEND:20250823T131500
 SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Balaclava Piranhas
@@ -83,9 +84,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Balacla
  va Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1ee530a7-5eac-499e-8fd7-38d5908eea67
+UID:27a1a9dd-86f2-4fe9-9356-0c48fa3057b0
 SEQUENCE:0
-DTSTAMP:20250615T071328
+DTSTAMP:20250615T102326
 DTSTART:20250830T114500
 DTEND:20250830T123000
 SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Malvern Tigers Lime

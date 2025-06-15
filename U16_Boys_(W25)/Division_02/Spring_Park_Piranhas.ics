@@ -6,9 +6,9 @@ X-WR-CALNAME:Spring Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:5aed4834-33d7-4682-ad17-045e32f7751d
+UID:16d71bef-93c6-4e59-94b9-bc1a21de1b11
 SEQUENCE:0
-DTSTAMP:20250615T071441
+DTSTAMP:20250615T102440
 DTSTART:20250628T191500
 DTEND:20250628T200000
 SUMMARY:🏀 U16 Boys: Spring Park Piranhas vs Bailey Reserve Piranhas
@@ -17,57 +17,62 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Bailey
  Reserve Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9311aae0-b4a8-43e7-b007-8d5cbafc16bc
+UID:081cc707-e90d-4386-b26b-6eff9e3c9752
 SEQUENCE:0
-DTSTAMP:20250615T071441
+DTSTAMP:20250615T102440
 DTSTART:20250726T183000
 DTEND:20250726T191500
 SUMMARY:🏀 U16 Boys: Spring Park Piranhas vs Timberwolves Nuggets
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Nuggets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2bbbe0c3-eb18-45dc-842a-702a32fec498
+UID:80dc0087-1d7d-4cea-a4af-a469bfcd9690
 SEQUENCE:0
-DTSTAMP:20250615T071441
+DTSTAMP:20250615T102440
 DTSTART:20250802T191500
 DTEND:20250802T200000
 SUMMARY:🏀 U16 Boys: Spring Park Piranhas vs Arax
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:83e38477-65d6-45d2-9e1e-32a1dd572594
+UID:0c556cdc-e643-4366-a55e-2a38309bbb11
 SEQUENCE:0
-DTSTAMP:20250615T071441
+DTSTAMP:20250615T102440
 DTSTART:20250809T191500
 DTEND:20250809T200000
 SUMMARY:🏀 U16 Boys: Spring Park Piranhas vs Malvern Tigers Red
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:301b6f27-4186-42fa-8ced-cd1888c1f545
+UID:c1f65419-dd33-4c6a-924c-9edc08ebf348
 SEQUENCE:0
-DTSTAMP:20250615T071441
+DTSTAMP:20250615T102440
 DTSTART:20250816T183000
 DTEND:20250816T191500
 SUMMARY:🏀 U16 Boys: Spring Park Piranhas vs Maccabi Half Court Miracles
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
  i Half Court Miracles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f7ffab7c-b7dd-4134-8683-7423eaae373e
+UID:7e1be83e-b9ee-4ddc-ba8d-e52ac15d20f6
 SEQUENCE:0
-DTSTAMP:20250615T071441
+DTSTAMP:20250615T102440
 DTSTART:20250823T191500
 DTEND:20250823T200000
 SUMMARY:🏀 U16 Boys: Spring Park Piranhas vs Timberwolves Raiders
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Raiders\nArrive 15 mins early for warm-up
 END:VEVENT

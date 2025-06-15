@@ -6,9 +6,9 @@ X-WR-CALNAME:Timberwolves Celtics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:4f15866c-5547-4498-a346-3ebcb31f858d
+UID:b3fcb3f4-be79-419b-93d1-5f9cabde4ea3
 SEQUENCE:0
-DTSTAMP:20250615T071400
+DTSTAMP:20250615T102359
 DTSTART:20250621T161500
 DTEND:20250621T170000
 SUMMARY:🏀 U14 Boys: Timberwolves Celtics vs Ashy Lightning Green
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a22b2abd-2eb8-4ec5-bbb6-df8d92a53cf6
+UID:966c350f-3dfc-4444-9171-10fa19e3a68d
 SEQUENCE:0
-DTSTAMP:20250615T071400
+DTSTAMP:20250615T102359
 DTSTART:20250628T161500
 DTEND:20250628T170000
 SUMMARY:🏀 U14 Boys: Timberwolves Celtics vs Solway Crusaders
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Crusaders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:137db918-c8ec-4abc-bf26-ca7b7adacc03
+UID:6b661e69-dd8d-41bc-a09b-d39e7c215396
 SEQUENCE:0
-DTSTAMP:20250615T071400
+DTSTAMP:20250615T102359
 DTSTART:20250726T161500
 DTEND:20250726T170000
 SUMMARY:🏀 U14 Boys: Timberwolves Celtics vs Malvern Tigers White
@@ -39,31 +39,33 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:510d98b6-9e50-4144-ab96-528f62aeccde
+UID:416313e3-564e-4906-853a-fe5c78075856
 SEQUENCE:0
-DTSTAMP:20250615T071400
+DTSTAMP:20250615T102359
 DTSTART:20250802T170000
 DTEND:20250802T174500
 SUMMARY:🏀 U14 Boys: Timberwolves Celtics vs Toorak Triple-Threat
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Triple-Threat\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5d45b84f-d899-4877-85f1-5c2e0b7156ba
+UID:ddbd7323-0d45-46cd-97b3-09eb91df0cf5
 SEQUENCE:0
-DTSTAMP:20250615T071400
+DTSTAMP:20250615T102359
 DTSTART:20250809T170000
 DTEND:20250809T174500
 SUMMARY:🏀 U14 Boys: Timberwolves Celtics vs Maccabi Bucks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1843af99-5dd0-47e7-87e7-bf450866f1a8
+UID:e026b609-69ee-4aaa-98f0-962895dc8e85
 SEQUENCE:0
-DTSTAMP:20250615T071400
+DTSTAMP:20250615T102359
 DTSTART:20250823T161500
 DTEND:20250823T170000
 SUMMARY:🏀 U14 Boys: Timberwolves Celtics vs Solway Trojans
@@ -72,9 +74,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Trojans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:616b026e-1aa9-4ba7-9d24-6417dab4727c
+UID:a0e73561-51a6-4c26-9cc8-28ac009cd3e6
 SEQUENCE:0
-DTSTAMP:20250615T071400
+DTSTAMP:20250615T102359
 DTSTART:20250830T161500
 DTEND:20250830T170000
 SUMMARY:🏀 U14 Boys: Timberwolves Celtics vs Ashy Lightning Green

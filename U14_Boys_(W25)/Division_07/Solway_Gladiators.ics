@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Gladiators Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:64d54e25-bfd1-4041-ad58-b1a55564ecd1
+UID:51fa45e2-e278-4e20-972c-569422785e07
 SEQUENCE:0
-DTSTAMP:20250615T071409
+DTSTAMP:20250615T102408
 DTSTART:20250621T161500
 DTEND:20250621T170000
 SUMMARY:🏀 U14 Boys: Solway Gladiators vs Inkerman Piranhas
@@ -17,31 +17,33 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Inkerma
  n Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6e859b08-db1c-4f9c-8353-c1d949a5d364
+UID:6d647840-3c12-4063-a69a-948b5c526a26
 SEQUENCE:0
-DTSTAMP:20250615T071409
+DTSTAMP:20250615T102408
 DTSTART:20250628T153000
 DTEND:20250628T161500
 SUMMARY:🏀 U14 Boys: Solway Gladiators vs Solway Vikings
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Vikings\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b3d390fe-f286-47a3-b882-65a4b5bd75ab
+UID:31f4cf46-7aeb-4be1-aeb6-faa2520735da
 SEQUENCE:0
-DTSTAMP:20250615T071409
+DTSTAMP:20250615T102408
 DTSTART:20250726T153000
 DTEND:20250726T161500
 SUMMARY:🏀 U14 Boys: Solway Gladiators vs Malvern Tigers Blue
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f5535b0b-2c1b-47a6-b6bd-1ca2e155788a
+UID:3bf40c5b-2ae4-4e0c-a695-7f49fd4d6e2c
 SEQUENCE:0
-DTSTAMP:20250615T071409
+DTSTAMP:20250615T102408
 DTSTART:20250802T153000
 DTEND:20250802T161500
 SUMMARY:🏀 U14 Boys: Solway Gladiators vs Maccabi Ducks
@@ -50,9 +52,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b48a6c4c-bf00-48ab-ab5e-76758d85710a
+UID:2f4c531e-cf02-4cdc-bf22-4042a7f8f000
 SEQUENCE:0
-DTSTAMP:20250615T071409
+DTSTAMP:20250615T102408
 DTSTART:20250809T161500
 DTEND:20250809T170000
 SUMMARY:🏀 U14 Boys: Solway Gladiators vs Glen Iris Scorpions Summerhill
@@ -61,9 +63,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
  is Scorpions Summerhill\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:33c84b3e-bdfb-407b-920d-69e9bf0e1be3
+UID:c4173cfb-7553-4789-a0c0-2e07986d3462
 SEQUENCE:0
-DTSTAMP:20250615T071409
+DTSTAMP:20250615T102408
 DTSTART:20250816T153000
 DTEND:20250816T161500
 SUMMARY:🏀 U14 Boys: Solway Gladiators vs Inkerman Piranhas
@@ -72,9 +74,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Inkerma
  n Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:87b35571-18c7-4789-9f0f-bc878cb6ae13
+UID:c8770baa-b4a3-4b0f-b895-ae1ff3daccfa
 SEQUENCE:0
-DTSTAMP:20250615T071409
+DTSTAMP:20250615T102408
 DTSTART:20250823T153000
 DTEND:20250823T161500
 SUMMARY:🏀 U14 Boys: Solway Gladiators vs Solway Vikings
@@ -83,9 +85,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Vikings\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f4cf941b-214b-436f-a368-c8416e04507f
+UID:fb87ebb9-10c2-46a9-b003-448957dab40a
 SEQUENCE:0
-DTSTAMP:20250615T071409
+DTSTAMP:20250615T102408
 DTSTART:20250830T161500
 DTEND:20250830T170000
 SUMMARY:🏀 U14 Boys: Solway Gladiators vs Malvern Tigers Blue

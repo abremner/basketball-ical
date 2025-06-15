@@ -6,9 +6,9 @@ X-WR-CALNAME:Timberwolves Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:8bf60921-d498-42de-a820-693766dc6812
+UID:5fc7de71-bff6-4e10-a644-1e534d9f6841
 SEQUENCE:0
-DTSTAMP:20250615T071245
+DTSTAMP:20250615T102241
 DTSTART:20250621T110000
 DTEND:20250621T114500
 SUMMARY:🏀 U10 Girls: Timberwolves Warriors vs Solway Tornadoes
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Tornadoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:42d01438-05cd-43de-aea4-efa8637d4362
+UID:b3b52669-99e2-43dc-8b61-e486a38960f8
 SEQUENCE:0
-DTSTAMP:20250615T071245
+DTSTAMP:20250615T102241
 DTSTART:20250628T110000
 DTEND:20250628T114500
 SUMMARY:🏀 U10 Girls: Timberwolves Warriors vs Malvern Tigers Red
@@ -28,68 +28,74 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8dac2906-ba7a-4c77-94f1-058ff70ee0bd
+UID:3990b249-1e3b-4d5e-8a69-078577c9b294
 SEQUENCE:0
-DTSTAMP:20250615T071245
+DTSTAMP:20250615T102241
 DTSTART:20250726T101500
 DTEND:20250726T110000
 SUMMARY:🏀 U10 Girls: Timberwolves Warriors vs Solway Blizzards
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Blizzards\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:efc7c600-9c76-425d-82db-755cfb2a72a8
+UID:7aa9e07b-486b-46d5-bc7d-7d3264b053a8
 SEQUENCE:0
-DTSTAMP:20250615T071245
+DTSTAMP:20250615T102241
 DTSTART:20250802T110000
 DTEND:20250802T114500
 SUMMARY:🏀 U10 Girls: Timberwolves Warriors vs Toorak Tangos
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
   Tangos\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2f660275-512e-4e86-a0a9-face3503569f
+UID:60af262a-a796-4033-b736-b68bd60e3eb9
 SEQUENCE:0
-DTSTAMP:20250615T071245
+DTSTAMP:20250615T102241
 DTSTART:20250809T101500
 DTEND:20250809T110000
 SUMMARY:🏀 U10 Girls: Timberwolves Warriors vs Malvern Tigers Yellow
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:833d0143-d870-4fe5-978f-94a1d97c912a
+UID:69828552-ecc9-4aea-8ead-fc4e674e099d
 SEQUENCE:0
-DTSTAMP:20250615T071245
+DTSTAMP:20250615T102241
 DTSTART:20250816T110000
 DTEND:20250816T114500
 SUMMARY:🏀 U10 Girls: Timberwolves Warriors vs Erindale Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Erinda
  le Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7d426138-4e3d-4e47-a946-81dbc8bf17fb
+UID:1e71a4d7-9ae5-439b-8c6c-80d3a0a0d28b
 SEQUENCE:0
-DTSTAMP:20250615T071245
+DTSTAMP:20250615T102241
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Girls: Timberwolves Warriors vs Maccabi Warriors
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5cca0882-09da-41fa-b080-0d4b8bd22cd3
+UID:ae966d34-5fed-4f74-b5c2-197450618bc4
 SEQUENCE:0
-DTSTAMP:20250615T071245
+DTSTAMP:20250615T102241
 DTSTART:20250830T110000
 DTEND:20250830T114500
 SUMMARY:🏀 U10 Girls: Timberwolves Warriors vs Solway Tornadoes
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Tornadoes\nArrive 15 mins early for warm-up
 END:VEVENT

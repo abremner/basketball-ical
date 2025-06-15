@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Giants Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:35b14fb5-bf26-4e60-addd-33b570a9406f
+UID:bf96f994-e52b-44b5-8a63-4964df79551c
 SEQUENCE:0
-DTSTAMP:20250615T071415
+DTSTAMP:20250615T102414
 DTSTART:20250621T153000
 DTEND:20250621T161500
 SUMMARY:🏀 U14 Boys: Maccabi Giants vs Malvern Tigers Maroon
@@ -17,68 +17,74 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Maroon\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8d3126b2-c26b-4bb9-be0e-e71aa6c8780d
+UID:7a1b84dc-2490-4fc1-bbd1-5537833e1df5
 SEQUENCE:0
-DTSTAMP:20250615T071415
+DTSTAMP:20250615T102414
 DTSTART:20250726T153000
 DTEND:20250726T161500
 SUMMARY:🏀 U14 Boys: Maccabi Giants vs SouthEast Venom Heat
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: SouthE
  ast Venom Heat\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bdc3d6c3-a80c-40ce-b487-906d79b450ac
+UID:7c07f193-34f7-4c4b-99b3-52f32629bd56
 SEQUENCE:0
-DTSTAMP:20250615T071415
+DTSTAMP:20250615T102414
 DTSTART:20250802T161500
 DTEND:20250802T170000
 SUMMARY:🏀 U14 Boys: Maccabi Giants vs Ashy Lightning White
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
  ightning White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a0cd6c04-3965-4e33-bbfa-e12fb75dab48
+UID:b0fdaa1b-6a90-46ac-90f9-55a49a60f0f6
 SEQUENCE:0
-DTSTAMP:20250615T071415
+DTSTAMP:20250615T102414
 DTSTART:20250809T161500
 DTEND:20250809T170000
 SUMMARY:🏀 U14 Boys: Maccabi Giants vs Maccabi Eagles
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:36b6399b-656b-4e81-aadb-32d93c20ffa2
+UID:4671d6ca-428a-4135-aaae-b3735373c192
 SEQUENCE:0
-DTSTAMP:20250615T071415
+DTSTAMP:20250615T102414
 DTSTART:20250816T161500
 DTEND:20250816T170000
 SUMMARY:🏀 U14 Boys: Maccabi Giants vs Golden Hawks Iron
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Golden
   Hawks Iron\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:aeb5a61d-d7a6-46d4-9b88-05842ab62954
+UID:54d851d6-0a94-46f5-a8a5-60785fcbec0a
 SEQUENCE:0
-DTSTAMP:20250615T071415
+DTSTAMP:20250615T102414
 DTSTART:20250823T161500
 DTEND:20250823T170000
 SUMMARY:🏀 U14 Boys: Maccabi Giants vs Maccabi Falcons
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e8ce11da-a3ff-4292-8ca2-c36a5bc6cd97
+UID:98bbd049-7215-4a28-8a03-91046fe0f8f3
 SEQUENCE:0
-DTSTAMP:20250615T071415
+DTSTAMP:20250615T102414
 DTSTART:20250830T153000
 DTEND:20250830T161500
 SUMMARY:🏀 U14 Boys: Maccabi Giants vs Timberwolves Raptors
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Raptors\nArrive 15 mins early for warm-up
 END:VEVENT

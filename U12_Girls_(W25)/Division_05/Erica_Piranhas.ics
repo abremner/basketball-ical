@@ -6,20 +6,21 @@ X-WR-CALNAME:Erica Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:7692bde2-63ce-45a6-8154-7a394e0be2d8
+UID:b230641e-108d-46e1-955a-ba1824f1f5c5
 SEQUENCE:0
-DTSTAMP:20250615T071340
+DTSTAMP:20250615T102339
 DTSTART:20250621T140000
 DTEND:20250621T144500
 SUMMARY:🏀 U12 Girls: Erica Piranhas vs Ashy Lightning Green
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5277489d-db89-40e4-9f4e-d7f92c2fe64b
+UID:31729e82-90e2-42cb-81c0-0f590e7d8328
 SEQUENCE:0
-DTSTAMP:20250615T071340
+DTSTAMP:20250615T102339
 DTSTART:20250628T131500
 DTEND:20250628T140000
 SUMMARY:🏀 U12 Girls: Erica Piranhas vs Malvern Tigers Smith
@@ -28,20 +29,21 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Smith\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bc674a90-f346-46b2-808c-bd48f8525bb6
+UID:4752c526-41bf-40b7-8b88-9b02c138c2da
 SEQUENCE:0
-DTSTAMP:20250615T071340
+DTSTAMP:20250615T102339
 DTSTART:20250726T140000
 DTEND:20250726T144500
 SUMMARY:🏀 U12 Girls: Erica Piranhas vs Toorak Talons
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Talons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1b99817d-da4e-4e68-a6b7-61b09d185dc9
+UID:a916fcf8-051f-47e0-810a-1a0a3eb06afd
 SEQUENCE:0
-DTSTAMP:20250615T071340
+DTSTAMP:20250615T102339
 DTSTART:20250802T131500
 DTEND:20250802T140000
 SUMMARY:🏀 U12 Girls: Erica Piranhas vs Maccabi Celtics
@@ -50,20 +52,21 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Cel
  tics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b1b414a6-4b45-4356-a335-a916f5162649
+UID:682abef9-145a-4b1f-a0f1-749e5356d264
 SEQUENCE:0
-DTSTAMP:20250615T071340
+DTSTAMP:20250615T102339
 DTSTART:20250809T140000
 DTEND:20250809T144500
 SUMMARY:🏀 U12 Girls: Erica Piranhas vs Maccabi Ducks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:11ea3cb9-ebb2-49eb-bc4c-ccec67013732
+UID:ebb96aa5-fa11-4951-8923-34e8c54a94a5
 SEQUENCE:0
-DTSTAMP:20250615T071340
+DTSTAMP:20250615T102339
 DTSTART:20250816T131500
 DTEND:20250816T140000
 SUMMARY:🏀 U12 Girls: Erica Piranhas vs Malvern Tigers Burton
@@ -72,9 +75,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Burton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1e8d1b14-6c1c-4f9b-97f0-61f1f31fb8b2
+UID:bcfba1b4-a4ad-4319-acfe-7e15b725f0db
 SEQUENCE:0
-DTSTAMP:20250615T071340
+DTSTAMP:20250615T102339
 DTSTART:20250823T131500
 DTEND:20250823T140000
 SUMMARY:🏀 U12 Girls: Erica Piranhas vs Korowa Grey
@@ -83,9 +86,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Korowa Grey
  \nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:acd41906-b6ec-4b79-ba97-aca24c7f7220
+UID:d3006723-db6a-4571-b94b-cd093cbf2156
 SEQUENCE:0
-DTSTAMP:20250615T071340
+DTSTAMP:20250615T102339
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U12 Girls: Erica Piranhas vs Ashy Lightning Green

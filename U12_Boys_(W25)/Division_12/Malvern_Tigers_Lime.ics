@@ -6,20 +6,21 @@ X-WR-CALNAME:Malvern Tigers Lime Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:4048182c-6058-4eaf-9d58-49502c9e36a1
+UID:a8a79967-4136-4317-ada5-cefcc63dce4c
 SEQUENCE:0
-DTSTAMP:20250615T071327
+DTSTAMP:20250615T102324
 DTSTART:20250621T123000
 DTEND:20250621T131500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Lime vs Malvern Tigers Aqua
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Aqua\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:494491f7-225f-42e7-ab32-77e901f486e9
+UID:a72becfd-ed23-4802-b9dd-820c0d56ffdc
 SEQUENCE:0
-DTSTAMP:20250615T071327
+DTSTAMP:20250615T102324
 DTSTART:20250628T114500
 DTEND:20250628T123000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Lime vs Malvern Tigers Tan
@@ -28,9 +29,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Tan\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8c021bb3-41ec-40c2-a74f-66bf17543c3b
+UID:153836fc-f72a-4438-8a9f-c0ce07668448
 SEQUENCE:0
-DTSTAMP:20250615T071327
+DTSTAMP:20250615T102324
 DTSTART:20250726T123000
 DTEND:20250726T131500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Lime vs Maccabi Kings
@@ -39,9 +40,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Kings\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:554cbedb-0c24-4a87-bc8e-4db335dc7a29
+UID:e2c6c624-a621-4357-ab9f-41757cac3689
 SEQUENCE:0
-DTSTAMP:20250615T071327
+DTSTAMP:20250615T102324
 DTSTART:20250802T123000
 DTEND:20250802T131500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Lime vs Balaclava Piranhas
@@ -50,9 +51,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Balacla
  va Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e692b7ab-85a4-484a-8927-badc7bcc1339
+UID:200ff80b-bd50-4cd7-a048-f54601a912f0
 SEQUENCE:0
-DTSTAMP:20250615T071327
+DTSTAMP:20250615T102324
 DTSTART:20250809T114500
 DTEND:20250809T123000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Lime vs Timberwolves Fury
@@ -61,9 +62,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Fury\nArrive 15
  mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2833f5f0-cd79-4843-b6d6-0f0680691709
+UID:24050edb-9489-489a-adfb-f7ef578d1033
 SEQUENCE:0
-DTSTAMP:20250615T071327
+DTSTAMP:20250615T102324
 DTSTART:20250816T144500
 DTEND:20250816T153000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Lime vs Wilson Piranhas
@@ -72,9 +73,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Wilson
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e79a9b2d-5777-4780-af99-6ac25b4ce36f
+UID:4b2f5270-ae23-45e1-bfa8-ea2e61f4844e
 SEQUENCE:0
-DTSTAMP:20250615T071327
+DTSTAMP:20250615T102324
 DTSTART:20250823T114500
 DTEND:20250823T123000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Lime vs Solway Dingoes
@@ -83,9 +84,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Dingoes\nArrive 15 min
  s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b117e2d1-56af-4751-a236-72bf11f1937e
+UID:d60955ee-67ff-4bc7-b531-0b73302ed1f1
 SEQUENCE:0
-DTSTAMP:20250615T071327
+DTSTAMP:20250615T102324
 DTSTART:20250830T114500
 DTEND:20250830T123000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Lime vs Timberwolves Cavs

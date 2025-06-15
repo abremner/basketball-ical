@@ -6,9 +6,9 @@ X-WR-CALNAME:Golden Hawks Iron Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:3d94b660-438d-45e1-8fdb-0e9c99176796
+UID:9df6f882-caef-4dba-a448-78c03cc67a11
 SEQUENCE:0
-DTSTAMP:20250615T071316
+DTSTAMP:20250615T102314
 DTSTART:20250621T131500
 DTEND:20250621T140000
 SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Malvern Tigers Maroon
@@ -17,20 +17,21 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Maroon\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0174ac11-0bb1-4766-b7fb-1063826cbebd
+UID:56f1efc7-cba9-4907-a8f7-12a36158ac98
 SEQUENCE:0
-DTSTAMP:20250615T071316
+DTSTAMP:20250615T102314
 DTSTART:20250628T123000
 DTEND:20250628T131500
 SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Warrawee Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Warraw
  ee Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:73a92491-b8f6-4df4-882e-bab35031a3e5
+UID:4f6bfa00-dd91-476e-a3dd-455cb34730cd
 SEQUENCE:0
-DTSTAMP:20250615T071316
+DTSTAMP:20250615T102314
 DTSTART:20250726T114500
 DTEND:20250726T123000
 SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs AlphaWolf Warriors
@@ -39,9 +40,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: AlphaWo
  lf Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3732c6bb-6320-44fe-9a01-beebc0bd0591
+UID:7b779c3c-8af3-4d33-a1d8-bd1668e6d45d
 SEQUENCE:0
-DTSTAMP:20250615T071316
+DTSTAMP:20250615T102314
 DTSTART:20250802T131500
 DTEND:20250802T140000
 SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Maccabi Giants
@@ -50,31 +51,33 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Giants\nArrive 15 min
  s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:32ee0f08-e2e9-4656-8fb2-4d2b132a5028
+UID:751463b8-b435-4504-8484-49f6c156ef13
 SEQUENCE:0
-DTSTAMP:20250615T071316
+DTSTAMP:20250615T102314
 DTSTART:20250809T123000
 DTEND:20250809T131500
 SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Maccabi Falcons
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ca89d497-5d90-47b4-80fa-53ba3c7ea89f
+UID:8f237088-64d0-42fa-b54d-59fed8d56529
 SEQUENCE:0
-DTSTAMP:20250615T071316
+DTSTAMP:20250615T102314
 DTSTART:20250816T123000
 DTEND:20250816T131500
 SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Malvern Tigers Maroon
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Maroon\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c13528c7-7813-46e9-a258-d801eafbd0d6
+UID:9962c863-5bc8-4ac1-a1a1-84f4cd45df06
 SEQUENCE:0
-DTSTAMP:20250615T071316
+DTSTAMP:20250615T102314
 DTSTART:20250823T131500
 DTEND:20250823T140000
 SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Warrawee Piranhas
@@ -83,9 +86,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Warrawee Piranhas\nArrive 15
  mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3d2d0054-435c-4f61-8b54-b6f0b52f9399
+UID:cd246780-9443-4c1b-a43f-b5d43e9baba4
 SEQUENCE:0
-DTSTAMP:20250615T071316
+DTSTAMP:20250615T102314
 DTSTART:20250830T114500
 DTEND:20250830T123000
 SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs AlphaWolf Warriors

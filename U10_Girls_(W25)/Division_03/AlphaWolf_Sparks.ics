@@ -6,9 +6,9 @@ X-WR-CALNAME:AlphaWolf Sparks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f2bd3ecf-ed6f-482c-b010-2f2e82c2a642
+UID:6450bef0-bfdb-4c75-9097-2f968cb8f32e
 SEQUENCE:0
-DTSTAMP:20250615T071246
+DTSTAMP:20250615T102242
 DTSTART:20250621T123000
 DTEND:20250621T131500
 SUMMARY:🏀 U10 Girls: AlphaWolf Sparks vs Maccabi Bucks
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Buc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bb3ce3aa-7063-4b22-a084-067392f18940
+UID:4e7b53fd-c9e8-422c-845b-78125b7fb924
 SEQUENCE:0
-DTSTAMP:20250615T071246
+DTSTAMP:20250615T102242
 DTSTART:20250628T123000
 DTEND:20250628T131500
 SUMMARY:🏀 U10 Girls: AlphaWolf Sparks vs Solway Mistrals
@@ -28,20 +28,21 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Mist
  rals\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:04736538-d6fb-4baf-96dd-79ba168c714e
+UID:f18a9c35-5092-4f14-a713-321e902876ed
 SEQUENCE:0
-DTSTAMP:20250615T071246
+DTSTAMP:20250615T102242
 DTSTART:20250726T110000
 DTEND:20250726T114500
 SUMMARY:🏀 U10 Girls: AlphaWolf Sparks vs Glen Iris Scorpions Ferndale
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9b89df0a-52b2-41d5-a205-f90cc3e1c263
+UID:b25640f8-3e9b-47ab-8a22-3558484579d4
 SEQUENCE:0
-DTSTAMP:20250615T071246
+DTSTAMP:20250615T102242
 DTSTART:20250802T123000
 DTEND:20250802T131500
 SUMMARY:🏀 U10 Girls: AlphaWolf Sparks vs Malvern Tigers Blue
@@ -50,9 +51,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:764c3c8a-30f0-420f-9ba3-09ab19f8ef76
+UID:41e337ad-df69-4dfe-ac88-e415bf7ca962
 SEQUENCE:0
-DTSTAMP:20250615T071246
+DTSTAMP:20250615T102242
 DTSTART:20250809T123000
 DTEND:20250809T131500
 SUMMARY:🏀 U10 Girls: AlphaWolf Sparks vs Malvern Tigers White
@@ -61,9 +62,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:378a26d5-b8b3-4039-96be-f591eca358c3
+UID:3a9aab0c-f490-430d-891f-4f2cc5808585
 SEQUENCE:0
-DTSTAMP:20250615T071246
+DTSTAMP:20250615T102242
 DTSTART:20250816T123000
 DTEND:20250816T131500
 SUMMARY:🏀 U10 Girls: AlphaWolf Sparks vs Dairy Park Piranhas
@@ -72,13 +73,14 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Dairy Park
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7b0fb465-45e2-4052-91de-d1c4c91b2bdb
+UID:e777cfd2-d563-4bfd-8c1f-d0fdb3ea107c
 SEQUENCE:0
-DTSTAMP:20250615T071246
+DTSTAMP:20250615T102242
 DTSTART:20250830T110000
 DTEND:20250830T114500
 SUMMARY:🏀 U10 Girls: AlphaWolf Sparks vs Maccabi Bucks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Bucks\nArrive 15 mins early for warm-up
 END:VEVENT

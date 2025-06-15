@@ -6,42 +6,45 @@ X-WR-CALNAME:Maccabi Falcons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b336da0b-7420-481a-9bb8-99cc262cca39
+UID:acfbd993-85c3-4298-b5f0-955316ad3a12
 SEQUENCE:0
-DTSTAMP:20250615T071229
+DTSTAMP:20250615T102224
 DTSTART:20250621T084500
 DTEND:20250621T093000
 SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Toorak Thunderbolts
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Thunderbolts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3c81f223-c5f7-4b46-bee5-ded3b2669fa4
+UID:94551ff9-837c-4202-8b2c-246871cb5887
 SEQUENCE:0
-DTSTAMP:20250615T071229
+DTSTAMP:20250615T102224
 DTSTART:20250628T080000
 DTEND:20250628T084500
 SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Phoenix Park Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Phoeni
  x Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:609a3dd5-9309-4f3b-962b-1c9f2372e50b
+UID:c6480e65-047d-439b-be5d-e5d8a9ff2288
 SEQUENCE:0
-DTSTAMP:20250615T071229
+DTSTAMP:20250615T102224
 DTSTART:20250726T084500
 DTEND:20250726T093000
 SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Timberwolves Legends
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Legends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:72b74ae8-e386-458a-9b32-4f7fd40a5540
+UID:0685a168-e011-42e5-a8eb-ab546c16cc16
 SEQUENCE:0
-DTSTAMP:20250615T071229
+DTSTAMP:20250615T102224
 DTSTART:20250802T110000
 DTEND:20250802T114500
 SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Comets Snake
@@ -50,20 +53,21 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Comets Snake\nArrive 15 mins
  early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3bdf7374-8013-47a9-a178-8a6d3b3c01fd
+UID:e449644f-2358-4625-99d7-a13de29f4ca3
 SEQUENCE:0
-DTSTAMP:20250615T071229
+DTSTAMP:20250615T102224
 DTSTART:20250809T084500
 DTEND:20250809T093000
 SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Timberwolves Lightning
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3bd5af45-3d53-4417-9f8b-720a43661bfe
+UID:5d56bb8c-0a13-4303-a49c-3d0e49dbf237
 SEQUENCE:0
-DTSTAMP:20250615T071229
+DTSTAMP:20250615T102224
 DTSTART:20250816T110000
 DTEND:20250816T114500
 SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Timberwolves Bucks
@@ -72,9 +76,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Bucks\nArrive 15
   mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:20aaef31-219a-4c37-916e-f1db932f2a76
+UID:9e6d044c-de57-437c-a1a6-cb3fa7cdee07
 SEQUENCE:0
-DTSTAMP:20250615T071229
+DTSTAMP:20250615T102224
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Glen Iris Scorpions Raven
@@ -83,9 +87,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Glen Iris Scorpions Raven\nAr
  rive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9dd3c7e0-7848-4ee9-abc3-b27551a5dbdf
+UID:fb005072-9b4a-4cd0-a51b-27992ce25839
 SEQUENCE:0
-DTSTAMP:20250615T071229
+DTSTAMP:20250615T102224
 DTSTART:20250830T110000
 DTEND:20250830T114500
 SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Toorak Thunderbolts

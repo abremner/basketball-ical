@@ -6,31 +6,33 @@ X-WR-CALNAME:Malvern Tigers Phillips Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:61fd3cec-1289-4cd8-83bc-c0fee05c6b5b
+UID:fadb3127-f394-4b77-bc16-a674b9442a1b
 SEQUENCE:0
-DTSTAMP:20250615T071331
+DTSTAMP:20250615T102328
 DTSTART:20250621T144500
 DTEND:20250621T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Phillips vs Yanakie Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Yanaki
  e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:39fca005-897d-4a91-8f12-2e11e37e36a5
+UID:c2a8afb7-bc8b-46aa-94a0-24f9b44bec9a
 SEQUENCE:0
-DTSTAMP:20250615T071331
+DTSTAMP:20250615T102328
 DTSTART:20250628T144500
 DTEND:20250628T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Phillips vs Malvern Tigers Taylor
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Taylor\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cd2d9391-572f-4e2a-8f47-248496ec2b06
+UID:471d9560-5280-4be2-9f51-38b040aa2950
 SEQUENCE:0
-DTSTAMP:20250615T071331
+DTSTAMP:20250615T102328
 DTSTART:20250726T153000
 DTEND:20250726T161500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Phillips vs Solway Finches
@@ -39,9 +41,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Finches\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c626b2e3-634e-4123-9aa9-35e903f3a77f
+UID:af055508-baba-4fbf-ae8a-a4d886780adc
 SEQUENCE:0
-DTSTAMP:20250615T071331
+DTSTAMP:20250615T102328
 DTSTART:20250802T153000
 DTEND:20250802T161500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Phillips vs Solway Bluebirds
@@ -50,32 +52,34 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Bluebirds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dfcb0447-6ed1-4bf0-9552-0854d42ff18d
+UID:59aee37b-fd6f-4f61-901e-3d5dd467b152
 SEQUENCE:0
-DTSTAMP:20250615T071331
+DTSTAMP:20250615T102328
 DTSTART:20250809T140000
 DTEND:20250809T144500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Phillips vs Glen Iris Scorpions Fer
  ndale
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
  ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:17742b02-c968-4b01-99d7-3a8120efe198
+UID:9d19ad72-1a87-4960-a527-b39131a5faa5
 SEQUENCE:0
-DTSTAMP:20250615T071331
+DTSTAMP:20250615T102328
 DTSTART:20250816T144500
 DTEND:20250816T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Phillips vs Timberwolves Strikers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Strikers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:735cf7a9-8755-4f22-ab77-3f4637fc7dea
+UID:9c3cecd6-e007-464c-805d-c6a810c0a46a
 SEQUENCE:0
-DTSTAMP:20250615T071331
+DTSTAMP:20250615T102328
 DTSTART:20250823T153000
 DTEND:20250823T161500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Phillips vs Toorak TopShots
@@ -84,13 +88,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  TopShots\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:40a97660-75af-4fbc-afca-5273f920655a
+UID:1cc3cba9-2d1d-47a9-b455-9247dcb1156f
 SEQUENCE:0
-DTSTAMP:20250615T071331
+DTSTAMP:20250615T102328
 DTSTART:20250830T144500
 DTEND:20250830T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Phillips vs Yanakie Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Yanaki
  e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT

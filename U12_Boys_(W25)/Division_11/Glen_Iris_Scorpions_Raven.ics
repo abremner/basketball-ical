@@ -6,20 +6,21 @@ X-WR-CALNAME:Glen Iris Scorpions Raven Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9407ba71-21cd-4160-a730-c8bdd860b947
+UID:23e96bfd-b9d3-414e-bd35-f566414a35df
 SEQUENCE:0
-DTSTAMP:20250615T071323
+DTSTAMP:20250615T102320
 DTSTART:20250621T114500
 DTEND:20250621T123000
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Raven vs Maccabi Hawks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Hawks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3d018880-6a3f-446c-b4ac-2ed21287f61e
+UID:a1cc572b-5bd4-429f-b5f9-319861809c18
 SEQUENCE:0
-DTSTAMP:20250615T071323
+DTSTAMP:20250615T102320
 DTSTART:20250628T123000
 DTEND:20250628T131500
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Raven vs Ashy Lightning Yellow
@@ -28,9 +29,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Ashy Lightning Yellow\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1800747c-585e-4333-af42-6306f478944d
+UID:09dcf2e3-8fe7-4469-8478-e523f6baa92d
 SEQUENCE:0
-DTSTAMP:20250615T071323
+DTSTAMP:20250615T102320
 DTSTART:20250726T123000
 DTEND:20250726T131500
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Raven vs Maccabi Lakers
@@ -39,9 +40,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Lakers\nArrive 15 min
  s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bfc1566d-77f3-441d-bdb0-49fec2aa5191
+UID:c1b70f5d-0aee-4860-bb03-3ae8e79f1860
 SEQUENCE:0
-DTSTAMP:20250615T071323
+DTSTAMP:20250615T102320
 DTSTART:20250802T114500
 DTEND:20250802T123000
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Raven vs Maccabi Jaguars
@@ -50,36 +51,39 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Jaguars\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b9d72b9f-c055-43a8-81d0-1eb545eeaeeb
+UID:f523a71a-40c4-4253-bff2-c41e7f513440
 SEQUENCE:0
-DTSTAMP:20250615T071323
+DTSTAMP:20250615T102320
 DTSTART:20250809T123000
 DTEND:20250809T131500
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Raven vs Timberwolves Cyclones
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Cyclones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9a9d182f-b704-41b2-b1e1-70836fcae3bc
+UID:5017cdb4-fcd2-4be5-aa9f-e3e453ab12c9
 SEQUENCE:0
-DTSTAMP:20250615T071323
+DTSTAMP:20250615T102320
 DTSTART:20250823T114500
 DTEND:20250823T123000
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Raven vs Glen Iris Scorpions Ne
  ttleton
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bdb91f7b-3abb-4ec2-ac99-41f1120714ae
+UID:29bdb393-f677-4a87-9f27-567a85485923
 SEQUENCE:0
-DTSTAMP:20250615T071323
+DTSTAMP:20250615T102320
 DTSTART:20250830T123000
 DTEND:20250830T131500
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Raven vs Ardrie Park Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ardrie
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT

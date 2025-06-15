@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Burton Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b4a09b00-09a3-4f2d-bdfe-9f4805eb8842
+UID:4972fd1e-edce-448a-98f3-9047fb038a02
 SEQUENCE:0
-DTSTAMP:20250615T071342
+DTSTAMP:20250615T102340
 DTSTART:20250621T131500
 DTEND:20250621T140000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Burton vs Toorak Talons
@@ -17,20 +17,21 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Toorak Talo
  ns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8334c2d6-2a71-42ad-b517-9da3ad879b70
+UID:d5e02270-464f-4eac-b036-881bd18c0dc3
 SEQUENCE:0
-DTSTAMP:20250615T071342
+DTSTAMP:20250615T102340
 DTSTART:20250628T140000
 DTEND:20250628T144500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Burton vs Maccabi Celtics
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5cdbb8b5-1085-467e-8ba2-3e78bf06e7ab
+UID:9d07043c-c785-476e-b745-a9cc72fd6709
 SEQUENCE:0
-DTSTAMP:20250615T071342
+DTSTAMP:20250615T102340
 DTSTART:20250726T131500
 DTEND:20250726T140000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Burton vs Maccabi Ducks
@@ -39,9 +40,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Duc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:92e19ba6-f2f1-4bdf-9878-3d32ce3093ec
+UID:7e004d0b-9651-459e-b359-94430dfe41a5
 SEQUENCE:0
-DTSTAMP:20250615T071342
+DTSTAMP:20250615T102340
 DTSTART:20250802T131500
 DTEND:20250802T140000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Burton vs Ashy Lightning Green
@@ -50,9 +51,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
  ing Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b1718ddc-125a-430e-8d1b-9f1dcf783498
+UID:c4f728a6-5389-494e-a5a5-06ba4668f336
 SEQUENCE:0
-DTSTAMP:20250615T071342
+DTSTAMP:20250615T102340
 DTSTART:20250809T131500
 DTEND:20250809T140000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Burton vs Korowa Grey
@@ -61,9 +62,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Korowa Grey
  \nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:785fbf51-eff9-404c-9ab8-292347ace5dd
+UID:8c52001f-40f3-451d-8a2f-3e15156c7751
 SEQUENCE:0
-DTSTAMP:20250615T071342
+DTSTAMP:20250615T102340
 DTSTART:20250816T131500
 DTEND:20250816T140000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Burton vs Erica Piranhas
@@ -72,9 +73,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Erica Piran
  has\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:35c3484f-8807-4257-ba6c-b166d9b46aa3
+UID:271a4387-b39b-4e0f-aec7-e02d453c891d
 SEQUENCE:0
-DTSTAMP:20250615T071342
+DTSTAMP:20250615T102340
 DTSTART:20250823T140000
 DTEND:20250823T144500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Burton vs Malvern Tigers Smith
@@ -83,9 +84,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Smith\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fcb0b529-cbab-46a8-a93c-01fcee1c3226
+UID:48a2eee8-ff94-48f8-84b4-6c57f7c5c2b2
 SEQUENCE:0
-DTSTAMP:20250615T071342
+DTSTAMP:20250615T102340
 DTSTART:20250830T140000
 DTEND:20250830T144500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Burton vs Toorak Talons

@@ -6,9 +6,9 @@ X-WR-CALNAME:Timberwolves Lions Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:20e3218c-7004-466b-bcd3-f93cc24b4802
+UID:f58df1ba-a763-4c23-8bdf-365db738fa05
 SEQUENCE:0
-DTSTAMP:20250615T071351
+DTSTAMP:20250615T102350
 DTSTART:20250621T174500
 DTEND:20250621T183000
 SUMMARY:🏀 U14 Boys: Timberwolves Lions vs Malvern Tigers Black
@@ -17,20 +17,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d9d2d32d-c604-43d6-b3e9-4bc1595f7250
+UID:e3f611a2-c433-4c3c-83f6-4e028ae2e212
 SEQUENCE:0
-DTSTAMP:20250615T071351
+DTSTAMP:20250615T102350
 DTSTART:20250628T174500
 DTEND:20250628T183000
 SUMMARY:🏀 U14 Boys: Timberwolves Lions vs Solway Samurais
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Samurais\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8155587a-c8bb-46e9-939a-bc2964858ee6
+UID:5f444f29-2f47-4347-bb07-7187361fdd39
 SEQUENCE:0
-DTSTAMP:20250615T071351
+DTSTAMP:20250615T102350
 DTSTART:20250726T174500
 DTEND:20250726T183000
 SUMMARY:🏀 U14 Boys: Timberwolves Lions vs Malvern Tigers Red
@@ -39,20 +40,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cb4b201c-5827-4e9e-977b-7360b9a75ba7
+UID:dc6e0687-d1a4-4be9-8641-dcaf27436828
 SEQUENCE:0
-DTSTAMP:20250615T071351
+DTSTAMP:20250615T102350
 DTSTART:20250802T170000
 DTEND:20250802T174500
 SUMMARY:🏀 U14 Boys: Timberwolves Lions vs Golden Hawks Sky
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Golden
   Hawks Sky\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:15ab53ec-cb58-4ae1-94e4-7b4ca33865dc
+UID:1f56158a-3349-4c99-8881-974f66a6468f
 SEQUENCE:0
-DTSTAMP:20250615T071351
+DTSTAMP:20250615T102350
 DTSTART:20250809T174500
 DTEND:20250809T183000
 SUMMARY:🏀 U14 Boys: Timberwolves Lions vs Toorak Tyrants
@@ -61,35 +63,38 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Tyrants\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:065dd011-cf80-4a26-8ba2-62051343f9bd
+UID:b166967a-97ea-4dbf-b7d9-ffe4ffb5f9a6
 SEQUENCE:0
-DTSTAMP:20250615T071351
+DTSTAMP:20250615T102350
 DTSTART:20250816T170000
 DTEND:20250816T174500
 SUMMARY:🏀 U14 Boys: Timberwolves Lions vs Malvern Tigers Black
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3c650e63-70bb-49ac-a84b-18510d668388
+UID:4937dc80-d34c-4d24-acb0-d8f86db254dc
 SEQUENCE:0
-DTSTAMP:20250615T071351
+DTSTAMP:20250615T102350
 DTSTART:20250823T174500
 DTEND:20250823T183000
 SUMMARY:🏀 U14 Boys: Timberwolves Lions vs Solway Samurais
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Samurais\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f84bd5b0-8336-4a9a-8fce-2df0687e09a3
+UID:24849df8-382d-4b53-b832-8bc95a9840b3
 SEQUENCE:0
-DTSTAMP:20250615T071351
+DTSTAMP:20250615T102350
 DTSTART:20250830T170000
 DTEND:20250830T174500
 SUMMARY:🏀 U14 Boys: Timberwolves Lions vs Malvern Tigers Red
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT

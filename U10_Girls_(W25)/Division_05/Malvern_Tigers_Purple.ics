@@ -6,31 +6,33 @@ X-WR-CALNAME:Malvern Tigers Purple Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:1c9c1539-6b6e-49e7-ba68-61ef53bb4e89
+UID:1ae7cede-5439-4e9e-a1e6-352d3427d6fa
 SEQUENCE:0
-DTSTAMP:20250615T071255
+DTSTAMP:20250615T102251
 DTSTART:20250621T084500
 DTEND:20250621T093000
 SUMMARY:🏀 U10 Girls: Malvern Tigers Purple vs Maccabi Ducks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
  i Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cb79b83a-f186-43db-ac1f-4c88130dab74
+UID:f7180c8d-89e8-4a80-9624-bf5c399a8e0f
 SEQUENCE:0
-DTSTAMP:20250615T071255
+DTSTAMP:20250615T102251
 DTSTART:20250628T084500
 DTEND:20250628T093000
 SUMMARY:🏀 U10 Girls: Malvern Tigers Purple vs Malvern Tigers  Orange
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers  Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:afede6be-bcbf-4a11-bc27-1613ef50b30f
+UID:38ae4e43-b961-489e-bcad-f2c4c3e8c95d
 SEQUENCE:0
-DTSTAMP:20250615T071255
+DTSTAMP:20250615T102251
 DTSTART:20250726T110000
 DTEND:20250726T114500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Purple vs Maccabi Eagles
@@ -39,9 +41,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Eag
  les\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f75e68e3-5d1f-4e2d-9404-07bda40e852b
+UID:33533a37-8c99-469e-b2e5-183bfd6cbc68
 SEQUENCE:0
-DTSTAMP:20250615T071255
+DTSTAMP:20250615T102251
 DTSTART:20250802T110000
 DTEND:20250802T114500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Purple vs AlphaWolf Blaze
@@ -50,20 +52,21 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: AlphaWolf B
  laze\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4077b8c9-eba8-4a4d-90ee-4bc2d7078691
+UID:7d53bcb5-b4a2-44b0-ade6-ac7ffc7ea86f
 SEQUENCE:0
-DTSTAMP:20250615T071255
+DTSTAMP:20250615T102251
 DTSTART:20250816T080000
 DTEND:20250816T084500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Purple vs Timberwolves Gems
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Gems\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fec709ba-00a7-478d-907e-54ffb8a3788a
+UID:a583ed4b-72d9-47ba-bfa1-3aa6abe396e4
 SEQUENCE:0
-DTSTAMP:20250615T071255
+DTSTAMP:20250615T102251
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Purple vs Ashy Lightning Green
@@ -72,13 +75,14 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Ashy Lightn
  ing Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:22858f85-3042-4b5e-a77a-71d3d1e32773
+UID:249e57ff-4160-4b22-b261-243ff82cd967
 SEQUENCE:0
-DTSTAMP:20250615T071255
+DTSTAMP:20250615T102251
 DTSTART:20250830T080000
 DTEND:20250830T084500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Purple vs Malvern Tigers Brown
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Brown\nArrive 15 mins early for warm-up
 END:VEVENT

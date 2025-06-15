@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:31713e31-6942-4511-8a76-95cba49a750b
+UID:24b275ad-22e4-483b-a087-e228096805bd
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250621T140000
 DTEND:20250621T144500
 SUMMARY:🏀 U12 Boys: Maccabi Ducks vs Glen Iris Scorpions Gardiner
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Glen Iris Scorpions Gardiner\
  nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ed4ac783-e9c6-413e-acc5-1ce68bd4a5f3
+UID:01cec956-c78f-4dac-a002-3209e58cf3f3
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250628T140000
 DTEND:20250628T144500
 SUMMARY:🏀 U12 Boys: Maccabi Ducks vs Malvern Tigers Orange
@@ -28,20 +28,21 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Orange\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bea4a100-bd52-4674-9d49-01ccd032cb08
+UID:45c1d16e-768a-4deb-a8d5-18114273fbc9
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250726T131500
 DTEND:20250726T140000
 SUMMARY:🏀 U12 Boys: Maccabi Ducks vs Timberwolves Howlers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Howlers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:22602c7a-a6ef-4113-9c9d-8ce2690c7056
+UID:19e267d9-dd10-4a7c-8fb4-cad7a84b8041
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250802T144500
 DTEND:20250802T153000
 SUMMARY:🏀 U12 Boys: Maccabi Ducks vs Heywood Park Piranhas
@@ -50,20 +51,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Heywood
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:40616720-7b88-4936-9ca9-109b3a8839f4
+UID:0db60d33-5c6a-443a-9e33-165551a230d1
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250809T131500
 DTEND:20250809T140000
 SUMMARY:🏀 U12 Boys: Maccabi Ducks vs Solway Wolverines
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Wolverines\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d39ff0ce-fe1c-4c6b-a5f4-ca10ed8a6e77
+UID:c5f0f127-4c9e-49ed-9666-c7a3d382be2f
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250816T144500
 DTEND:20250816T153000
 SUMMARY:🏀 U12 Boys: Maccabi Ducks vs Glen Iris Scorpions Gardiner
@@ -72,20 +74,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:970d02fe-1dcf-408a-a6f8-e1db72269ea4
+UID:5ad549ff-c3eb-49cf-a2ba-bc5a6910ea91
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250823T131500
 DTEND:20250823T140000
 SUMMARY:🏀 U12 Boys: Maccabi Ducks vs Malvern Tigers Orange
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ff9b108a-b2a6-4158-b652-f78f71e353a1
+UID:fe841fcc-b645-439d-8576-be3fa35fd464
 SEQUENCE:0
-DTSTAMP:20250615T071308
+DTSTAMP:20250615T102305
 DTSTART:20250830T140000
 DTEND:20250830T144500
 SUMMARY:🏀 U12 Boys: Maccabi Ducks vs Timberwolves Howlers

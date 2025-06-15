@@ -6,44 +6,47 @@ X-WR-CALNAME:SouthEast Venom Rockets Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:da077421-c235-4e03-a266-35c4baa24da7
+UID:2f709a7e-5526-467d-b097-c34d2ad5c5e8
 SEQUENCE:0
-DTSTAMP:20250615T071223
+DTSTAMP:20250615T102218
 DTSTART:20250621T101500
 DTEND:20250621T110000
 SUMMARY:🏀 U10 Boys: SouthEast Venom Rockets vs Glen Iris Scorpions Nett
  leton
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d39e64ff-fd33-4508-9bf7-4e7a722b3044
+UID:e9635ad5-0cbd-49c7-a174-7b8dee768d31
 SEQUENCE:0
-DTSTAMP:20250615T071223
+DTSTAMP:20250615T102218
 DTSTART:20250628T093000
 DTEND:20250628T101500
 SUMMARY:🏀 U10 Boys: SouthEast Venom Rockets vs Solway Bucks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:94cee031-34c5-42a3-a667-4b873ca66d8a
+UID:110caf64-2a24-49d8-8632-97abea70c3cd
 SEQUENCE:0
-DTSTAMP:20250615T071223
+DTSTAMP:20250615T102218
 DTSTART:20250726T101500
 DTEND:20250726T110000
 SUMMARY:🏀 U10 Boys: SouthEast Venom Rockets vs Glen Iris Scorpions Gard
  iner
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:35be467b-6b26-49c4-bcf0-b4236b7507ba
+UID:554ae82d-6dc8-41de-b698-88ec378bfc12
 SEQUENCE:0
-DTSTAMP:20250615T071223
+DTSTAMP:20250615T102218
 DTSTART:20250802T110000
 DTEND:20250802T114500
 SUMMARY:🏀 U10 Boys: SouthEast Venom Rockets vs Toorak Torpedoes
@@ -52,9 +55,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Toorak
  Torpedoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1368026d-28ef-4b81-bc80-8e2d5e13ec47
+UID:28c2ec1a-5acc-47bf-8652-d7854ffdccda
 SEQUENCE:0
-DTSTAMP:20250615T071223
+DTSTAMP:20250615T102218
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Boys: SouthEast Venom Rockets vs Maccabi Ducks
@@ -63,31 +66,33 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4a0c8c15-351c-4202-a4f2-f9061e981715
+UID:eacacf67-9e14-40c0-8259-0d91dd9c79f0
 SEQUENCE:0
-DTSTAMP:20250615T071223
+DTSTAMP:20250615T102218
 DTSTART:20250816T093000
 DTEND:20250816T101500
 SUMMARY:🏀 U10 Boys: SouthEast Venom Rockets vs AlphaWolf Hunters
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
  olf Hunters\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:07c94850-2002-4e6a-9871-01d845b0db99
+UID:3f23b705-a1a0-47e1-b4e3-48f5c8d13740
 SEQUENCE:0
-DTSTAMP:20250615T071223
+DTSTAMP:20250615T102218
 DTSTART:20250823T093000
 DTEND:20250823T101500
 SUMMARY:🏀 U10 Boys: SouthEast Venom Rockets vs Timberwolves Cubs
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Cubs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1bc7a569-861a-4560-8603-cb115d36b9d6
+UID:54263f5f-a56b-48c6-8d9e-d678b802a227
 SEQUENCE:0
-DTSTAMP:20250615T071223
+DTSTAMP:20250615T102218
 DTSTART:20250830T110000
 DTEND:20250830T114500
 SUMMARY:🏀 U10 Boys: SouthEast Venom Rockets vs Glen Iris Scorpions Nett

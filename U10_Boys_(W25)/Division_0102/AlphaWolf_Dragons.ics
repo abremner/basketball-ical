@@ -6,31 +6,33 @@ X-WR-CALNAME:AlphaWolf Dragons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0a958cef-a60c-4890-95fd-f0955a496607
+UID:3be163fe-8b1d-4961-8521-d7b01e41c505
 SEQUENCE:0
-DTSTAMP:20250615T071209
+DTSTAMP:20250615T102203
 DTSTART:20250621T110000
 DTEND:20250621T114500
 SUMMARY:🏀 U10 Boys: AlphaWolf Dragons vs Timberwolves Crusaders
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Crusaders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:feb8344f-69a4-477b-b5f4-4192a6896fec
+UID:faef67d9-24c9-409b-8b3a-8f168ae6199f
 SEQUENCE:0
-DTSTAMP:20250615T071209
+DTSTAMP:20250615T102203
 DTSTART:20250628T114500
 DTEND:20250628T123000
 SUMMARY:🏀 U10 Boys: AlphaWolf Dragons vs Malvern Tigers  Red
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers  Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b5952c35-5133-4efa-8695-1b2331e30ad4
+UID:fd8561ed-b74e-48a1-aabf-07623b5215c3
 SEQUENCE:0
-DTSTAMP:20250615T071209
+DTSTAMP:20250615T102203
 DTSTART:20250726T114500
 DTEND:20250726T123000
 SUMMARY:🏀 U10 Boys: AlphaWolf Dragons vs Timberwolves Pistols
@@ -39,53 +41,57 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Pistols\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a06ad842-c974-4902-a618-58303d0c993c
+UID:13972374-3965-4538-8f38-03cec46ded42
 SEQUENCE:0
-DTSTAMP:20250615T071209
+DTSTAMP:20250615T102203
 DTSTART:20250802T123000
 DTEND:20250802T131500
 SUMMARY:🏀 U10 Boys: AlphaWolf Dragons vs Toorak Tigercats
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
   Tigercats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:95976b6a-4a46-4276-84aa-55e457a68c34
+UID:6b681961-d51b-4950-961a-84091d6048d6
 SEQUENCE:0
-DTSTAMP:20250615T071209
+DTSTAMP:20250615T102203
 DTSTART:20250809T123000
 DTEND:20250809T131500
 SUMMARY:🏀 U10 Boys: AlphaWolf Dragons vs Solway Boomers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Boomers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c4165818-c627-4391-920a-8c73f52a299a
+UID:324a127e-93cf-4343-bf2e-2166453951b3
 SEQUENCE:0
-DTSTAMP:20250615T071209
+DTSTAMP:20250615T102203
 DTSTART:20250816T110000
 DTEND:20250816T114500
 SUMMARY:🏀 U10 Boys: AlphaWolf Dragons vs Malvern Tigers Black
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4bc029f2-2a7c-47b1-aaa4-827b34c16d3c
+UID:07c30ea9-e9fe-47d9-8436-08f535114fb3
 SEQUENCE:0
-DTSTAMP:20250615T071209
+DTSTAMP:20250615T102203
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Boys: AlphaWolf Dragons vs Maccabi Warriors
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:43eb1eee-a664-479f-ae6d-e75d85d16301
+UID:891e14bf-b418-49ad-bbde-979859557844
 SEQUENCE:0
-DTSTAMP:20250615T071209
+DTSTAMP:20250615T102203
 DTSTART:20250830T114500
 DTEND:20250830T123000
 SUMMARY:🏀 U10 Boys: AlphaWolf Dragons vs Timberwolves Crusaders

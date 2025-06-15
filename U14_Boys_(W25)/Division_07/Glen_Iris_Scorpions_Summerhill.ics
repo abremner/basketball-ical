@@ -6,20 +6,21 @@ X-WR-CALNAME:Glen Iris Scorpions Summerhill Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:60eb9207-5291-4db3-a69d-833a454707a4
+UID:4ebc89df-b83f-4416-a1f6-047850d397ba
 SEQUENCE:0
-DTSTAMP:20250615T071408
+DTSTAMP:20250615T102406
 DTSTART:20250621T153000
 DTEND:20250621T161500
 SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Summerhill vs Solway Vikings
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Vikings\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:09490e54-8f26-488b-945b-4c5310f3cba2
+UID:2ac4c4d2-da4a-497d-b44b-726d50c9feb6
 SEQUENCE:0
-DTSTAMP:20250615T071408
+DTSTAMP:20250615T102406
 DTSTART:20250628T161500
 DTEND:20250628T170000
 SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Summerhill vs Maccabi Ducks
@@ -28,9 +29,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:91d510ce-4d90-446c-ae0d-e33aec6314b8
+UID:6f377e01-3e29-40d0-a8b7-bcb74ce73616
 SEQUENCE:0
-DTSTAMP:20250615T071408
+DTSTAMP:20250615T102406
 DTSTART:20250726T161500
 DTEND:20250726T170000
 SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Summerhill vs Inkerman Piranhas
@@ -39,9 +40,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Inkerma
  n Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:94294a00-edeb-4d99-8be1-c6a4d53cacd1
+UID:0fc849b4-f375-4127-83ba-0c0fcb5b3b97
 SEQUENCE:0
-DTSTAMP:20250615T071408
+DTSTAMP:20250615T102406
 DTSTART:20250802T161500
 DTEND:20250802T170000
 SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Summerhill vs Malvern Tigers Bl
@@ -51,9 +52,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e35cf932-dc88-4322-a346-7da36e655378
+UID:a3771811-04cd-4a3e-9f70-f9a16424aa2b
 SEQUENCE:0
-DTSTAMP:20250615T071408
+DTSTAMP:20250615T102406
 DTSTART:20250809T161500
 DTEND:20250809T170000
 SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Summerhill vs Solway Gladiators
@@ -62,31 +63,33 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
  Gladiators\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:46973d64-8f79-4df3-84f2-192e05b97751
+UID:29fd05aa-a302-4f3b-bc97-ea20e079b953
 SEQUENCE:0
-DTSTAMP:20250615T071408
+DTSTAMP:20250615T102406
 DTSTART:20250816T153000
 DTEND:20250816T161500
 SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Summerhill vs Solway Vikings
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Vikings\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:641d8abc-1963-4836-9814-6013a34836d7
+UID:8d1d5f61-468a-4104-a303-21fae8ac1b54
 SEQUENCE:0
-DTSTAMP:20250615T071408
+DTSTAMP:20250615T102406
 DTSTART:20250823T153000
 DTEND:20250823T161500
 SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Summerhill vs Maccabi Ducks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
  i Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7866d6e1-2b4f-4db2-948b-68cf82b7c978
+UID:9a4660e8-b9d1-4bdd-969e-ff03a0c0f68b
 SEQUENCE:0
-DTSTAMP:20250615T071408
+DTSTAMP:20250615T102406
 DTSTART:20250830T153000
 DTEND:20250830T161500
 SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Summerhill vs Inkerman Piranhas

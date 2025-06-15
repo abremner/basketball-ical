@@ -6,9 +6,9 @@ X-WR-CALNAME:Ardrie Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:466c6855-f3b5-460c-9c2b-f40aaaf84bce
+UID:9e24be39-7c9a-40dc-ae12-0dcb9c8187a2
 SEQUENCE:0
-DTSTAMP:20250615T071322
+DTSTAMP:20250615T102319
 DTSTART:20250621T114500
 DTEND:20250621T123000
 SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Maccabi Lakers
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Lakers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:445828fe-e2a1-4409-9607-42f6caabcbf1
+UID:569b56ec-a67b-421b-8989-6252f5812dd6
 SEQUENCE:0
-DTSTAMP:20250615T071322
+DTSTAMP:20250615T102319
 DTSTART:20250628T114500
 DTEND:20250628T123000
 SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Glen Iris Scorpions Nettlet
@@ -29,42 +29,45 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
  is Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dc5e3205-c182-4c64-b413-e67eaaa1bad9
+UID:03fee0de-9bb1-4e9a-88c5-f68b11a5c3ab
 SEQUENCE:0
-DTSTAMP:20250615T071322
+DTSTAMP:20250615T102319
 DTSTART:20250726T114500
 DTEND:20250726T123000
 SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Golden Hawks Blaze
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Golden
   Hawks Blaze\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f9fc50b7-1a61-4db4-98b0-96cb42a3a5e6
+UID:0bdcb500-63b1-4ce5-aee2-16f2735a6276
 SEQUENCE:0
-DTSTAMP:20250615T071322
+DTSTAMP:20250615T102319
 DTSTART:20250802T114500
 DTEND:20250802T123000
 SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Ashy Lightning Yellow
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
  ightning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:13af3f76-4ea0-46b1-969e-f2f6e10da225
+UID:054cc1a3-ce58-4395-8084-c0edde29b6b2
 SEQUENCE:0
-DTSTAMP:20250615T071322
+DTSTAMP:20250615T102319
 DTSTART:20250816T123000
 DTEND:20250816T131500
 SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Timberwolves Cyclones
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Cyclones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fc90de21-1d85-41a9-bd86-9730dc7febca
+UID:f6846e80-f90b-42a9-821c-7463fbd33e70
 SEQUENCE:0
-DTSTAMP:20250615T071322
+DTSTAMP:20250615T102319
 DTSTART:20250823T123000
 DTEND:20250823T131500
 SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Maccabi Jaguars
@@ -73,13 +76,14 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Jaguars\nArrive 15 mi
  ns early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ae730d12-15f4-46fd-b20e-2021b8818206
+UID:fc48eca4-9a67-40d5-a34a-ab78f8e68ef4
 SEQUENCE:0
-DTSTAMP:20250615T071322
+DTSTAMP:20250615T102319
 DTSTART:20250830T123000
 DTEND:20250830T131500
 SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Glen Iris Scorpions Raven
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT

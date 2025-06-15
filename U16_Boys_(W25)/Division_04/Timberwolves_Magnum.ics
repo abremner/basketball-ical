@@ -6,20 +6,21 @@ X-WR-CALNAME:Timberwolves Magnum Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:8223d3e7-1e22-4d67-a174-35c7768fe1c7
+UID:b11ec6fe-b613-4de0-9bef-a6a49fa0b013
 SEQUENCE:0
-DTSTAMP:20250615T071448
+DTSTAMP:20250615T102447
 DTSTART:20250621T183000
 DTEND:20250621T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs Maccabi Warriors
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d1389b56-17a5-419a-81b4-6e4d24281808
+UID:73d1e640-90a9-4357-b163-a3df17dd97d5
 SEQUENCE:0
-DTSTAMP:20250615T071448
+DTSTAMP:20250615T102447
 DTSTART:20250628T191500
 DTEND:20250628T200000
 SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs Solway Super Sonics
@@ -28,9 +29,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Super Sonics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:625ed62a-c5b8-4bd8-afc4-bfbec87bc5f5
+UID:c2b35fbc-a65b-4a66-88eb-cb3f23d3bb9c
 SEQUENCE:0
-DTSTAMP:20250615T071448
+DTSTAMP:20250615T102447
 DTSTART:20250726T183000
 DTEND:20250726T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs Ripponlea Piranhas
@@ -39,9 +40,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ripponl
  ea Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3e9aa992-cdae-4f02-b360-a0022803310d
+UID:f3289333-313a-4cd0-ad64-0cb736d8876d
 SEQUENCE:0
-DTSTAMP:20250615T071448
+DTSTAMP:20250615T102447
 DTSTART:20250802T191500
 DTEND:20250802T200000
 SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs Serrell Park Piranhas
@@ -50,9 +51,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Serrell
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:815dd256-3cda-4478-b870-2dc85e335d83
+UID:1abd558b-d8f0-4f44-a1bf-4bfc2bba0bf2
 SEQUENCE:0
-DTSTAMP:20250615T071448
+DTSTAMP:20250615T102447
 DTSTART:20250809T191500
 DTEND:20250809T200000
 SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs Toorak Tornadoes
@@ -61,9 +62,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Tornadoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fae59818-e76b-49ca-955f-aec31c68d9fe
+UID:386a1ae6-fe9a-413c-bdeb-00da5e810912
 SEQUENCE:0
-DTSTAMP:20250615T071448
+DTSTAMP:20250615T102447
 DTSTART:20250816T183000
 DTEND:20250816T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs Timberwolves Boulders
@@ -72,9 +73,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Boulders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:92c0f6dc-6da7-4954-8ec0-597dd830e7a4
+UID:0f5963c5-ce4a-4377-820b-55ae088ca47d
 SEQUENCE:0
-DTSTAMP:20250615T071448
+DTSTAMP:20250615T102447
 DTSTART:20250823T183000
 DTEND:20250823T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs Toorak Terminators
@@ -83,9 +84,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Terminators\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cbe2126c-71dc-4ca4-b3be-342b1c333f44
+UID:1f22ff6b-aa94-4cc9-b8db-f7c8a41375cd
 SEQUENCE:0
-DTSTAMP:20250615T071448
+DTSTAMP:20250615T102447
 DTSTART:20250830T191500
 DTEND:20250830T200000
 SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs Maccabi Warriors

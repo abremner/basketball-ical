@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Eagles Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c25941df-3948-4394-902e-c75c9ee3553c
+UID:3182dc48-cab3-4e43-bdb1-627a48acb1b1
 SEQUENCE:0
-DTSTAMP:20250615T071254
+DTSTAMP:20250615T102250
 DTSTART:20250621T110000
 DTEND:20250621T114500
 SUMMARY:🏀 U10 Girls: Maccabi Eagles vs Ashy Lightning Green
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
  ing Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:53ee2156-0ef0-414d-8d35-085a43967582
+UID:9295c612-97f2-4284-9ed1-1ee0b70fa0ea
 SEQUENCE:0
-DTSTAMP:20250615T071254
+DTSTAMP:20250615T102250
 DTSTART:20250628T110000
 DTEND:20250628T114500
 SUMMARY:🏀 U10 Girls: Maccabi Eagles vs Malvern Tigers Brown
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d6102083-bead-4cac-ba7f-563797b6f3c4
+UID:e58a8d62-9521-4af8-803d-a4766d4b2a5a
 SEQUENCE:0
-DTSTAMP:20250615T071254
+DTSTAMP:20250615T102250
 DTSTART:20250726T110000
 DTEND:20250726T114500
 SUMMARY:🏀 U10 Girls: Maccabi Eagles vs Malvern Tigers Purple
@@ -39,20 +39,21 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Purple\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6842c360-6711-4668-9fd6-aca3ed1a1304
+UID:d61633df-ab70-44a9-b88e-a9894e2787c1
 SEQUENCE:0
-DTSTAMP:20250615T071254
+DTSTAMP:20250615T102250
 DTSTART:20250802T084500
 DTEND:20250802T093000
 SUMMARY:🏀 U10 Girls: Maccabi Eagles vs Korowa Grey
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Korowa
   Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c825cd38-6462-4ca5-bedb-8e098abf5e6e
+UID:dde2a6d3-4122-4dec-a51d-b7bb8b75ffc0
 SEQUENCE:0
-DTSTAMP:20250615T071254
+DTSTAMP:20250615T102250
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Girls: Maccabi Eagles vs AlphaWolf Blaze
@@ -61,9 +62,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: AlphaWolf B
  laze\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0aa2afb0-ede8-4a5b-9256-16c153013bb5
+UID:42641244-d41f-4195-9816-41e39e01002a
 SEQUENCE:0
-DTSTAMP:20250615T071254
+DTSTAMP:20250615T102250
 DTSTART:20250816T110000
 DTEND:20250816T114500
 SUMMARY:🏀 U10 Girls: Maccabi Eagles vs Maccabi Ducks
@@ -72,9 +73,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Duc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1138a1c2-239f-405c-a297-2bc6356bcf06
+UID:684f957f-0e5b-485d-898d-06be1ed573b2
 SEQUENCE:0
-DTSTAMP:20250615T071254
+DTSTAMP:20250615T102250
 DTSTART:20250830T110000
 DTEND:20250830T114500
 SUMMARY:🏀 U10 Girls: Maccabi Eagles vs Timberwolves Gems

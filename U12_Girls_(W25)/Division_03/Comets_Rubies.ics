@@ -6,9 +6,9 @@ X-WR-CALNAME:Comets Rubies Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0c923493-4946-4fa2-a89c-88899c6c1002
+UID:da4be3c9-aef2-4311-b4f9-19347332174b
 SEQUENCE:0
-DTSTAMP:20250615T071334
+DTSTAMP:20250615T102332
 DTSTART:20250621T140000
 DTEND:20250621T144500
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Malvern Tigers Mitchell
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Mitchell\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:14db8530-55d8-40d0-95ea-ad2f94d5e438
+UID:90b04451-2c45-42d0-bc89-f038bdcb7eb5
 SEQUENCE:0
-DTSTAMP:20250615T071334
+DTSTAMP:20250615T102332
 DTSTART:20250628T140000
 DTEND:20250628T144500
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Solway Rosellas
@@ -28,53 +28,57 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Rosellas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b8d3c0cc-4c0f-4895-818e-a039d68d1e6e
+UID:c32f42b7-00c6-4fbc-9ba4-548bbee21ec9
 SEQUENCE:0
-DTSTAMP:20250615T071334
+DTSTAMP:20250615T102332
 DTSTART:20250726T140000
 DTEND:20250726T144500
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8d6bdb81-50f9-4a8a-9ba8-11c5225dfca9
+UID:464785dd-5911-4299-9272-366b10102f02
 SEQUENCE:0
-DTSTAMP:20250615T071334
+DTSTAMP:20250615T102332
 DTSTART:20250802T140000
 DTEND:20250802T144500
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Malvern Tigers Jarry
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Jarry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f81e8aac-3cdd-49a7-8b04-01b9833a302a
+UID:3e2e0c12-d8d1-46e9-96ff-56640110a9a5
 SEQUENCE:0
-DTSTAMP:20250615T071334
+DTSTAMP:20250615T102332
 DTSTART:20250809T144500
 DTEND:20250809T153000
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Malvern Tigers Hodges
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Hodges\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f4f8afaf-2bae-4501-9041-27c4deeca2de
+UID:4c1b5db9-6eea-434b-b613-217e5b59992b
 SEQUENCE:0
-DTSTAMP:20250615T071334
+DTSTAMP:20250615T102332
 DTSTART:20250823T144500
 DTEND:20250823T153000
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Korowa Cherry
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Korowa
   Cherry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a2b7f311-ddb4-4b95-92da-fe5300dec502
+UID:2ad2e47e-57a4-4eb7-9065-ab0ddbc00355
 SEQUENCE:0
-DTSTAMP:20250615T071334
+DTSTAMP:20250615T102332
 DTSTART:20250830T140000
 DTEND:20250830T144500
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Malvern Tigers Mitchell

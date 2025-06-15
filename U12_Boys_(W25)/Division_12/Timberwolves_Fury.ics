@@ -6,9 +6,9 @@ X-WR-CALNAME:Timberwolves Fury Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:dbec5397-52bb-488c-99c0-d21215ec178e
+UID:41384e7f-df2f-4e81-a475-6c54e10d2107
 SEQUENCE:0
-DTSTAMP:20250615T071328
+DTSTAMP:20250615T102326
 DTSTART:20250621T123000
 DTEND:20250621T131500
 SUMMARY:🏀 U12 Boys: Timberwolves Fury vs Solway Crocodiles
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
  Crocodiles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e85d668a-0313-4f51-b4a2-1501a3973406
+UID:9f242756-bee8-42a5-a804-937ee194fd06
 SEQUENCE:0
-DTSTAMP:20250615T071328
+DTSTAMP:20250615T102326
 DTSTART:20250628T123000
 DTEND:20250628T131500
 SUMMARY:🏀 U12 Boys: Timberwolves Fury vs Timberwolves Cavs
@@ -28,31 +28,33 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Cavs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7c75c909-1fdc-45d6-a901-43db52497f16
+UID:9654be0e-d994-42f0-a2ee-23dc95df878e
 SEQUENCE:0
-DTSTAMP:20250615T071328
+DTSTAMP:20250615T102326
 DTSTART:20250726T123000
 DTEND:20250726T131500
 SUMMARY:🏀 U12 Boys: Timberwolves Fury vs Solway Dingoes
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Dingoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:703cdeb6-69b9-443b-bb39-07da71203cc0
+UID:22053a96-78bf-49a8-8f07-6e74ebc21f6a
 SEQUENCE:0
-DTSTAMP:20250615T071328
+DTSTAMP:20250615T102326
 DTSTART:20250802T123000
 DTEND:20250802T131500
 SUMMARY:🏀 U12 Boys: Timberwolves Fury vs Malvern Tigers Tan
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Tan\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dd7b3dd6-c0dc-4b7e-8457-4e39f8ae2efa
+UID:3c1e4553-afc5-4baf-b8b6-624d58a31cc8
 SEQUENCE:0
-DTSTAMP:20250615T071328
+DTSTAMP:20250615T102326
 DTSTART:20250809T114500
 DTEND:20250809T123000
 SUMMARY:🏀 U12 Boys: Timberwolves Fury vs Malvern Tigers Lime
@@ -61,9 +63,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Lime\nArrive 1
  5 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:729e4235-ff9b-42c1-9aaa-1599e1cf99e3
+UID:5257d9f4-f680-4e0a-a604-8c8d6395d531
 SEQUENCE:0
-DTSTAMP:20250615T071328
+DTSTAMP:20250615T102326
 DTSTART:20250816T114500
 DTEND:20250816T123000
 SUMMARY:🏀 U12 Boys: Timberwolves Fury vs Balaclava Piranhas
@@ -72,9 +74,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Balacla
  va Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:91624216-710b-47a1-9620-c6340fea2758
+UID:ec0bc055-810e-454d-92e7-6b34f11041fc
 SEQUENCE:0
-DTSTAMP:20250615T071328
+DTSTAMP:20250615T102326
 DTSTART:20250823T114500
 DTEND:20250823T123000
 SUMMARY:🏀 U12 Boys: Timberwolves Fury vs Malvern Tigers Aqua
@@ -83,9 +85,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Aqua\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4f6c38d2-a865-414b-8add-05e6b4074a03
+UID:6a1b3d03-7665-4581-9501-2bba13288698
 SEQUENCE:0
-DTSTAMP:20250615T071328
+DTSTAMP:20250615T102326
 DTSTART:20250830T114500
 DTEND:20250830T123000
 SUMMARY:🏀 U12 Boys: Timberwolves Fury vs Maccabi Kings

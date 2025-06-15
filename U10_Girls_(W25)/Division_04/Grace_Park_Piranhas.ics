@@ -6,9 +6,9 @@ X-WR-CALNAME:Grace Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c2a9add0-5933-4cc3-9a86-608f83869186
+UID:9bd01023-dc58-48a5-8f39-218249bda336
 SEQUENCE:0
-DTSTAMP:20250615T071249
+DTSTAMP:20250615T102246
 DTSTART:20250621T114500
 DTEND:20250621T123000
 SUMMARY:🏀 U10 Girls: Grace Park Piranhas vs Glen Iris Scorpions Gardine
@@ -18,9 +18,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Glen Iris S
  corpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9ead2483-5c8a-4bc6-a89c-13f17e57aec2
+UID:816f27bf-d9b5-4017-8616-9051130381c1
 SEQUENCE:0
-DTSTAMP:20250615T071249
+DTSTAMP:20250615T102246
 DTSTART:20250628T114500
 DTEND:20250628T123000
 SUMMARY:🏀 U10 Girls: Grace Park Piranhas vs Lauriston Fire
@@ -29,42 +29,45 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston F
  ire\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4a11d5d9-fa19-4f51-b170-4355995ef6e0
+UID:9fcc6c1e-46de-4fcb-89f6-f4ee553ac137
 SEQUENCE:0
-DTSTAMP:20250615T071249
+DTSTAMP:20250615T102246
 DTSTART:20250726T084500
 DTEND:20250726T093000
 SUMMARY:🏀 U10 Girls: Grace Park Piranhas vs Netherlee Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Nether
  lee Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8cedcc15-1618-41e1-afa5-db033330d2aa
+UID:5b5c1c85-de90-4345-a124-a3af7fec80df
 SEQUENCE:0
-DTSTAMP:20250615T071249
+DTSTAMP:20250615T102246
 DTSTART:20250802T084500
 DTEND:20250802T093000
 SUMMARY:🏀 U10 Girls: Grace Park Piranhas vs Maccabi Celtics
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:461d7073-2e5a-4cec-b5cd-039a334659e3
+UID:7ebcedd6-bdfb-4bf2-8cb3-964fa4a6b018
 SEQUENCE:0
-DTSTAMP:20250615T071249
+DTSTAMP:20250615T102246
 DTSTART:20250809T084500
 DTEND:20250809T093000
 SUMMARY:🏀 U10 Girls: Grace Park Piranhas vs Embling Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Emblin
  g Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0220eca0-04f5-456f-a092-616594a6e78a
+UID:00a2e716-bdc9-474d-be9a-b5822ffbcf97
 SEQUENCE:0
-DTSTAMP:20250615T071249
+DTSTAMP:20250615T102246
 DTSTART:20250816T114500
 DTEND:20250816T123000
 SUMMARY:🏀 U10 Girls: Grace Park Piranhas vs Valentine Piranhas
@@ -73,25 +76,27 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Valentine P
  iranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c5d8986f-d597-4243-add5-a431321c58b8
+UID:58570dca-a897-4d92-8ad5-e9d17d334263
 SEQUENCE:0
-DTSTAMP:20250615T071249
+DTSTAMP:20250615T102246
 DTSTART:20250823T093000
 DTEND:20250823T101500
 SUMMARY:🏀 U10 Girls: Grace Park Piranhas vs Malvern Tigers Green
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:57bfa826-0e3a-433a-9aa0-ace9b446f3aa
+UID:f3cd0d43-c6e4-48cc-a5e4-1c540f43a547
 SEQUENCE:0
-DTSTAMP:20250615T071249
+DTSTAMP:20250615T102246
 DTSTART:20250830T084500
 DTEND:20250830T093000
 SUMMARY:🏀 U10 Girls: Grace Park Piranhas vs Glen Iris Scorpions Gardine
  r
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
  ris Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT

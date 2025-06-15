@@ -6,20 +6,21 @@ X-WR-CALNAME:Timberwolves Pistols Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:04ca22df-672d-46c6-b84e-585824ec1071
+UID:ef00cedd-f4d3-4f48-bd7e-923c006741f1
 SEQUENCE:0
-DTSTAMP:20250615T071211
+DTSTAMP:20250615T102205
 DTSTART:20250621T114500
 DTEND:20250621T123000
 SUMMARY:🏀 U10 Boys: Timberwolves Pistols vs Malvern Tigers  Red
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers  Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3693e78c-982a-4c65-abf8-9c774b6a5e4c
+UID:deb3f40b-493a-40d6-9b5d-db1b237fec0a
 SEQUENCE:0
-DTSTAMP:20250615T071211
+DTSTAMP:20250615T102205
 DTSTART:20250628T114500
 DTEND:20250628T123000
 SUMMARY:🏀 U10 Boys: Timberwolves Pistols vs Malvern Tigers Black
@@ -28,9 +29,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:60067527-d7ff-4aea-a84d-bb77f035559c
+UID:8871eb46-5ca7-41d4-b758-761542111e7a
 SEQUENCE:0
-DTSTAMP:20250615T071211
+DTSTAMP:20250615T102205
 DTSTART:20250726T114500
 DTEND:20250726T123000
 SUMMARY:🏀 U10 Boys: Timberwolves Pistols vs AlphaWolf Dragons
@@ -39,20 +40,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
  lf Dragons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d1646bf8-746f-4aa3-b49e-46656a23cd7f
+UID:ada871fe-76b5-4518-b612-736f3ece5481
 SEQUENCE:0
-DTSTAMP:20250615T071211
+DTSTAMP:20250615T102205
 DTSTART:20250802T114500
 DTEND:20250802T123000
 SUMMARY:🏀 U10 Boys: Timberwolves Pistols vs Maccabi Warriors
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:db894acf-339e-4f3a-8629-1cc255d3318b
+UID:ee3c834a-93f2-4617-b6f3-388554b71cf5
 SEQUENCE:0
-DTSTAMP:20250615T071211
+DTSTAMP:20250615T102205
 DTSTART:20250809T114500
 DTEND:20250809T123000
 SUMMARY:🏀 U10 Boys: Timberwolves Pistols vs Toorak Tigercats
@@ -61,20 +63,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Tigercats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:15c5711b-de29-4820-a647-61dfd5eb1bee
+UID:b8edd165-cbd6-4fbb-bf2a-7f42f0e561d7
 SEQUENCE:0
-DTSTAMP:20250615T071211
+DTSTAMP:20250615T102205
 DTSTART:20250816T114500
 DTEND:20250816T123000
 SUMMARY:🏀 U10 Boys: Timberwolves Pistols vs Solway Boomers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Boomers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a7479cf2-230a-46c8-aec4-ec89c3773101
+UID:09dd04a9-d76f-46b9-b77b-5e693e99e470
 SEQUENCE:0
-DTSTAMP:20250615T071211
+DTSTAMP:20250615T102205
 DTSTART:20250823T114500
 DTEND:20250823T123000
 SUMMARY:🏀 U10 Boys: Timberwolves Pistols vs Timberwolves Crusaders
@@ -83,13 +86,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Crusaders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ed460e27-11c0-490c-8811-9dc766a0f0c7
+UID:f2564378-fb40-4683-a96c-90772e77403f
 SEQUENCE:0
-DTSTAMP:20250615T071211
+DTSTAMP:20250615T102205
 DTSTART:20250830T114500
 DTEND:20250830T123000
 SUMMARY:🏀 U10 Boys: Timberwolves Pistols vs Malvern Tigers  Red
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers  Red\nArrive 15 mins early for warm-up
 END:VEVENT

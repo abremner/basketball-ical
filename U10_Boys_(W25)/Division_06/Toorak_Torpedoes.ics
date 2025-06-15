@@ -6,9 +6,9 @@ X-WR-CALNAME:Toorak Torpedoes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:52e5bbeb-514f-431d-96d4-e0fe3a40bb69
+UID:4776de0b-0ea1-47af-a1b0-946d56dfebe0
 SEQUENCE:0
-DTSTAMP:20250615T071224
+DTSTAMP:20250615T102219
 DTSTART:20250621T110000
 DTEND:20250621T114500
 SUMMARY:🏀 U10 Boys: Toorak Torpedoes vs Maccabi Ducks
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c2005ad1-dad5-4637-acff-efef2f436027
+UID:df5840e5-15e7-4615-8870-8a397eab8893
 SEQUENCE:0
-DTSTAMP:20250615T071224
+DTSTAMP:20250615T102219
 DTSTART:20250628T110000
 DTEND:20250628T114500
 SUMMARY:🏀 U10 Boys: Toorak Torpedoes vs Glen Iris Scorpions Gardiner
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:62c965f0-3924-476a-9989-51b571597125
+UID:bfbab0c8-c495-47e9-91b2-0bf2ea7472ce
 SEQUENCE:0
-DTSTAMP:20250615T071224
+DTSTAMP:20250615T102219
 DTSTART:20250726T110000
 DTEND:20250726T114500
 SUMMARY:🏀 U10 Boys: Toorak Torpedoes vs Glen Iris Scorpions Nettleton
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:65f69130-da0a-489f-a84f-3c50e93943e9
+UID:adcfef37-2ec0-401e-bcb1-b6e0d892b873
 SEQUENCE:0
-DTSTAMP:20250615T071224
+DTSTAMP:20250615T102219
 DTSTART:20250802T110000
 DTEND:20250802T114500
 SUMMARY:🏀 U10 Boys: Toorak Torpedoes vs SouthEast Venom Rockets
@@ -50,46 +50,50 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: SouthEa
  st Venom Rockets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cf48cc18-f8d8-41bd-abb6-bb04bbd554d5
+UID:cca8e287-7b1e-4ee8-bda7-845d8722c1e0
 SEQUENCE:0
-DTSTAMP:20250615T071224
+DTSTAMP:20250615T102219
 DTSTART:20250809T101500
 DTEND:20250809T110000
 SUMMARY:🏀 U10 Boys: Toorak Torpedoes vs Timberwolves Cubs
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Cubs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1e72b084-3924-4f8f-a1d7-d7c02a863831
+UID:26ea2bdd-b561-4003-82b2-e895af9b2e22
 SEQUENCE:0
-DTSTAMP:20250615T071224
+DTSTAMP:20250615T102219
 DTSTART:20250816T101500
 DTEND:20250816T110000
 SUMMARY:🏀 U10 Boys: Toorak Torpedoes vs Solway Bucks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:14856195-daa9-4299-b4b2-34c097a90df9
+UID:e0786bed-2eb5-40f8-bd14-e6496a4e5536
 SEQUENCE:0
-DTSTAMP:20250615T071224
+DTSTAMP:20250615T102219
 DTSTART:20250823T101500
 DTEND:20250823T110000
 SUMMARY:🏀 U10 Boys: Toorak Torpedoes vs AlphaWolf Hunters
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AlphaW
  olf Hunters\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0f975e75-d9b0-4a0c-aa8b-593542c8c593
+UID:40bdd7ba-95cb-4b71-9760-3a70975391f4
 SEQUENCE:0
-DTSTAMP:20250615T071224
+DTSTAMP:20250615T102219
 DTSTART:20250830T093000
 DTEND:20250830T101500
 SUMMARY:🏀 U10 Boys: Toorak Torpedoes vs Maccabi Ducks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Ducks\nArrive 15 mins early for warm-up
 END:VEVENT

@@ -6,79 +6,86 @@ X-WR-CALNAME:Toorak Toros Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f36e8dd9-d94b-420f-885a-bb0a12f614e8
+UID:7b76af71-832b-487f-9b5d-a8268d3284ba
 SEQUENCE:0
-DTSTAMP:20250615T071355
+DTSTAMP:20250615T102353
 DTSTART:20250622T164500
 DTEND:20250622T173000
 SUMMARY:🏀 U14 Boys: Toorak Toros vs Tennyson Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Tennys
  on Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:68511473-6833-4d11-b00c-236a4f405c71
+UID:c5778218-d822-4788-8099-97c61335f017
 SEQUENCE:0
-DTSTAMP:20250615T071355
+DTSTAMP:20250615T102353
 DTSTART:20250629T164500
 DTEND:20250629T173000
 SUMMARY:🏀 U14 Boys: Toorak Toros vs Elsternwick Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Elster
  nwick Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5b1d2510-170f-4197-86ce-5e2b17aaa779
+UID:55c2f077-f3f8-4968-8a38-4a6d55f75801
 SEQUENCE:0
-DTSTAMP:20250615T071355
+DTSTAMP:20250615T102353
 DTSTART:20250726T153000
 DTEND:20250726T161500
 SUMMARY:🏀 U14 Boys: Toorak Toros vs Maccabi Warriors
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:784868c0-a9e3-452c-a8d4-ce19b3ae580d
+UID:1b64533a-b35d-4222-b7e9-753e12d8ebac
 SEQUENCE:0
-DTSTAMP:20250615T071355
+DTSTAMP:20250615T102353
 DTSTART:20250802T174500
 DTEND:20250802T183000
 SUMMARY:🏀 U14 Boys: Toorak Toros vs Solway Knights
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Knights\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d675cbf5-c0bf-419f-a5e9-6ea21b220829
+UID:65887a6f-5682-4072-91c2-9e548088d5a4
 SEQUENCE:0
-DTSTAMP:20250615T071355
+DTSTAMP:20250615T102353
 DTSTART:20250816T170000
 DTEND:20250816T174500
 SUMMARY:🏀 U14 Boys: Toorak Toros vs Glen Iris Scorpions Gardiner
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glen I
  ris Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0dc59f10-2416-4fba-9015-63c930ee9d81
+UID:d7328c47-0a5f-4985-ac9d-795407a03b33
 SEQUENCE:0
-DTSTAMP:20250615T071355
+DTSTAMP:20250615T102353
 DTSTART:20250823T174500
 DTEND:20250823T183000
 SUMMARY:🏀 U14 Boys: Toorak Toros vs Glen Iris Scorpions Ferndale
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b08c1c8d-2b28-4529-8de0-7ea8548a2cbc
+UID:dbe00f7a-de85-4cc3-8a16-73bd6132f41a
 SEQUENCE:0
-DTSTAMP:20250615T071355
+DTSTAMP:20250615T102353
 DTSTART:20250830T153000
 DTEND:20250830T161500
 SUMMARY:🏀 U14 Boys: Toorak Toros vs Tennyson Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Tennys
  on Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT

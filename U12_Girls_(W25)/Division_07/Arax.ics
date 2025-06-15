@@ -6,68 +6,74 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2f718c12-4fe3-4df9-9a3e-64f412fb9fd0
+UID:85e1ab16-d856-4467-a60e-7be88acd71ea
 SEQUENCE:0
-DTSTAMP:20250615T071346
+DTSTAMP:20250615T102345
 DTSTART:20250628T131500
 DTEND:20250628T140000
 SUMMARY:🏀 U12 Girls: Arax vs Lauriston Suns
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Lauris
  ton Suns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:92b2b522-aa3e-4e28-86a0-3131a6b14a26
+UID:2cfae3ee-61ba-441c-b799-a8af479f624e
 SEQUENCE:0
-DTSTAMP:20250615T071346
+DTSTAMP:20250615T102345
 DTSTART:20250726T131500
 DTEND:20250726T140000
 SUMMARY:🏀 U12 Girls: Arax vs Creswick Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Creswi
  ck Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8fa1a696-9bc4-432c-bec7-758c96ec5e0a
+UID:4fcce693-c825-45ec-95bd-8ccf3543f409
 SEQUENCE:0
-DTSTAMP:20250615T071346
+DTSTAMP:20250615T102345
 DTSTART:20250802T131500
 DTEND:20250802T140000
 SUMMARY:🏀 U12 Girls: Arax vs Solway Wrens
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Wrens\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bbbdd004-c8eb-47fa-963c-d90b1aa1609f
+UID:f780be1a-1595-4bb2-aa8f-6aafd9fe510b
 SEQUENCE:0
-DTSTAMP:20250615T071346
+DTSTAMP:20250615T102345
 DTSTART:20250809T131500
 DTEND:20250809T140000
 SUMMARY:🏀 U12 Girls: Arax vs Maccabi Falcons
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:114742a1-0550-4e45-a957-3df11be98926
+UID:848dc1b9-00fc-4317-922b-e0f775f28992
 SEQUENCE:0
-DTSTAMP:20250615T071346
+DTSTAMP:20250615T102345
 DTSTART:20250823T131500
 DTEND:20250823T140000
 SUMMARY:🏀 U12 Girls: Arax vs Lauriston Suns
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Lauris
  ton Suns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7aa57f0f-f61c-4e98-8711-e6806819582e
+UID:aff7e41d-1ead-46ce-a155-98ea5c9314e7
 SEQUENCE:0
-DTSTAMP:20250615T071346
+DTSTAMP:20250615T102345
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U12 Girls: Arax vs Creswick Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Creswi
  ck Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT

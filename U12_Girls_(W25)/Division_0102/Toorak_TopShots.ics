@@ -6,75 +6,81 @@ X-WR-CALNAME:Toorak TopShots Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:40fd3f7a-5154-44f1-adea-3202f05a24e4
+UID:ae8538d3-1281-4143-af3c-4856a13bd93c
 SEQUENCE:0
-DTSTAMP:20250615T071332
+DTSTAMP:20250615T102331
 DTSTART:20250621T140000
 DTEND:20250621T144500
 SUMMARY:🏀 U12 Girls: Toorak TopShots vs Timberwolves Strikers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Strikers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b7d74694-6aa5-4ac6-a8ba-7bad00df43d5
+UID:404a63f4-8bf1-42f3-9a62-7533a3dc5c5b
 SEQUENCE:0
-DTSTAMP:20250615T071332
+DTSTAMP:20250615T102331
 DTSTART:20250628T144500
 DTEND:20250628T153000
 SUMMARY:🏀 U12 Girls: Toorak TopShots vs Solway Finches
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Finches\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d9f6f719-f208-4b69-8a27-8a5f1fdf66e7
+UID:0ee3bfba-c524-4d50-a9a7-c0c56c6d6136
 SEQUENCE:0
-DTSTAMP:20250615T071332
+DTSTAMP:20250615T102331
 DTSTART:20250726T144500
 DTEND:20250726T153000
 SUMMARY:🏀 U12 Girls: Toorak TopShots vs Glen Iris Scorpions Ferndale
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:98216c5d-b3c2-49e3-a19b-f3f840b68591
+UID:105c29a8-3070-44ae-8fdb-610674da39c1
 SEQUENCE:0
-DTSTAMP:20250615T071332
+DTSTAMP:20250615T102331
 DTSTART:20250802T140000
 DTEND:20250802T144500
 SUMMARY:🏀 U12 Girls: Toorak TopShots vs Yanakie Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Yanaki
  e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0beef760-a5ca-4b11-878b-c8a1f92740bf
+UID:32c9a189-d9ca-47d9-b2b8-2a5c1d13a811
 SEQUENCE:0
-DTSTAMP:20250615T071332
+DTSTAMP:20250615T102331
 DTSTART:20250809T144500
 DTEND:20250809T153000
 SUMMARY:🏀 U12 Girls: Toorak TopShots vs Solway Bluebirds
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Bluebirds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:897ef2a5-8fa0-44df-ae01-e4d235367559
+UID:bef5cab2-33d5-4aad-849e-74293bad8b4a
 SEQUENCE:0
-DTSTAMP:20250615T071332
+DTSTAMP:20250615T102331
 DTSTART:20250816T140000
 DTEND:20250816T144500
 SUMMARY:🏀 U12 Girls: Toorak TopShots vs Malvern Tigers Taylor
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Taylor\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:793fddf3-30ad-4f4f-b4f3-9bce0be7250f
+UID:e815e091-9348-4849-9fd2-fe096f04ac9d
 SEQUENCE:0
-DTSTAMP:20250615T071332
+DTSTAMP:20250615T102331
 DTSTART:20250823T153000
 DTEND:20250823T161500
 SUMMARY:🏀 U12 Girls: Toorak TopShots vs Malvern Tigers Phillips
@@ -83,9 +89,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Phillips\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:35fcf2dc-e51a-441c-8708-e818b69dddef
+UID:b7180262-846d-42b2-acac-3b7441dc507c
 SEQUENCE:0
-DTSTAMP:20250615T071332
+DTSTAMP:20250615T102331
 DTSTART:20250830T153000
 DTEND:20250830T161500
 SUMMARY:🏀 U12 Girls: Toorak TopShots vs Timberwolves Strikers

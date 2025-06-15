@@ -6,20 +6,21 @@ X-WR-CALNAME:Glen Iris Scorpions Ferndale Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c7e11fbf-07d0-45be-b2e4-338d2d1c7f37
+UID:ea02486d-b90c-4c71-b8d1-f9839012b994
 SEQUENCE:0
-DTSTAMP:20250615T071330
+DTSTAMP:20250615T102328
 DTSTART:20250621T144500
 DTEND:20250621T153000
 SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Ferndale vs Solway Bluebirds
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Bluebirds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:76b6360e-61b5-4ecd-9b54-b1ccb7ed1f5d
+UID:656d6a28-6f86-4105-b811-db53f5c973b4
 SEQUENCE:0
-DTSTAMP:20250615T071330
+DTSTAMP:20250615T102328
 DTSTART:20250628T153000
 DTEND:20250628T161500
 SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Ferndale vs Yanakie Piranhas
@@ -28,44 +29,47 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Yanakie
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1e123e2d-c524-482d-85ad-0937798e3de3
+UID:9171e8da-0c6e-441c-b902-07924a4c3810
 SEQUENCE:0
-DTSTAMP:20250615T071330
+DTSTAMP:20250615T102328
 DTSTART:20250726T144500
 DTEND:20250726T153000
 SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Ferndale vs Toorak TopShots
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   TopShots\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:286d4657-1d9c-4579-b495-cdb0692fb003
+UID:c977b967-c121-4377-95d5-b5460e857d13
 SEQUENCE:0
-DTSTAMP:20250615T071330
+DTSTAMP:20250615T102328
 DTSTART:20250802T144500
 DTEND:20250802T153000
 SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Ferndale vs Malvern Tigers Tay
  lor
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Taylor\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7c3164cb-f062-4e18-96dc-9ac3c732570a
+UID:fbdeb607-667e-4e88-9389-1041a4efc546
 SEQUENCE:0
-DTSTAMP:20250615T071330
+DTSTAMP:20250615T102328
 DTSTART:20250809T140000
 DTEND:20250809T144500
 SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Ferndale vs Malvern Tigers Phi
  llips
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Phillips\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b8544a5c-fa06-445e-8b7f-d8b9dace971d
+UID:3f2d1643-7944-4df0-8dd4-3580dc0d01f8
 SEQUENCE:0
-DTSTAMP:20250615T071330
+DTSTAMP:20250615T102328
 DTSTART:20250816T153000
 DTEND:20250816T161500
 SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Ferndale vs Solway Finches
@@ -74,25 +78,27 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Finches\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2d75b7cc-9660-42a4-a6d2-5944b133f2f6
+UID:1a0de35e-f6b3-47ab-8e91-fcf90ee124c8
 SEQUENCE:0
-DTSTAMP:20250615T071330
+DTSTAMP:20250615T102328
 DTSTART:20250823T144500
 DTEND:20250823T153000
 SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Ferndale vs Timberwolves Strik
  ers
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Strikers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b9ffdffd-5963-4271-9927-6aa849c01c1a
+UID:76db0712-e8d7-4ec3-9c48-d7df3a5dfb33
 SEQUENCE:0
-DTSTAMP:20250615T071330
+DTSTAMP:20250615T102328
 DTSTART:20250830T144500
 DTEND:20250830T153000
 SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Ferndale vs Solway Bluebirds
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Bluebirds\nArrive 15 mins early for warm-up
 END:VEVENT

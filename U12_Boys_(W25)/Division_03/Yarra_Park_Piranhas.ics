@@ -6,9 +6,9 @@ X-WR-CALNAME:Yarra Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2e986679-2449-4aa6-9b2d-31d01e0a27eb
+UID:89dfb206-849f-4804-bedd-8a748b7d4885
 SEQUENCE:0
-DTSTAMP:20250615T071302
+DTSTAMP:20250615T102258
 DTSTART:20250621T140000
 DTEND:20250621T144500
 SUMMARY:🏀 U12 Boys: Yarra Park Piranhas vs Malvern Tigers Yellow
@@ -17,20 +17,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e628b123-0649-4955-9979-6ba9b0c52af4
+UID:413cfef3-b5be-4668-8ce0-a0574a2d096c
 SEQUENCE:0
-DTSTAMP:20250615T071302
+DTSTAMP:20250615T102258
 DTSTART:20250628T144500
 DTEND:20250628T153000
 SUMMARY:🏀 U12 Boys: Yarra Park Piranhas vs Windsor Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Windso
  r Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4488389e-95b5-4620-aeab-f8a83e1c3e79
+UID:1d2ad311-6fae-4eb4-a011-18634675e78c
 SEQUENCE:0
-DTSTAMP:20250615T071302
+DTSTAMP:20250615T102258
 DTSTART:20250802T140000
 DTEND:20250802T144500
 SUMMARY:🏀 U12 Boys: Yarra Park Piranhas vs Golden Hawks Sky
@@ -39,20 +40,21 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Golden
  Hawks Sky\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:80245aa2-2f34-4639-912f-a9f22994e97e
+UID:bbd8fea4-2fd2-4112-8cde-f99f403f8d15
 SEQUENCE:0
-DTSTAMP:20250615T071302
+DTSTAMP:20250615T102258
 DTSTART:20250809T144500
 DTEND:20250809T153000
 SUMMARY:🏀 U12 Boys: Yarra Park Piranhas vs Maccabi Bucks
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
  i Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c5a38fc2-1aea-4c96-a315-61eea5eb8123
+UID:47f22990-1f2d-4d2b-94e8-eca3010c3dac
 SEQUENCE:0
-DTSTAMP:20250615T071302
+DTSTAMP:20250615T102258
 DTSTART:20250816T140000
 DTEND:20250816T144500
 SUMMARY:🏀 U12 Boys: Yarra Park Piranhas vs Malvern Tigers Yellow
@@ -61,13 +63,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ce4c0d82-c627-4891-a123-bda2609ab907
+UID:01d7c119-21fb-4206-a5c2-2884f306b8a9
 SEQUENCE:0
-DTSTAMP:20250615T071302
+DTSTAMP:20250615T102258
 DTSTART:20250823T144500
 DTEND:20250823T153000
 SUMMARY:🏀 U12 Boys: Yarra Park Piranhas vs Windsor Piranhas
-LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium
+GEO:-37.8769973;145.0992765
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Windso
  r Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
