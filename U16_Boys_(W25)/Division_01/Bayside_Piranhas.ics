@@ -6,73 +6,85 @@ X-WR-CALNAME:Bayside Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:811ddc4a-4929-4cb2-ac77-cbc70352ae63
+UID:ed5dcff2-0cf5-49eb-b9b4-6649167d343c
 SEQUENCE:0
-DTSTAMP:20250615T060933
+DTSTAMP:20250615T065603
 DTSTART:20250621T200000
 DTEND:20250621T204500
 SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Ashy Lightning Gold
-LOCATION:Oakleigh Recreation Centre\, Court 2\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
+ ghtning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4bcb863d-dfa1-4ac4-9d5d-4b2a655a35f7
+UID:5950dc8a-30d7-4aa9-8939-afcc8e3137ac
 SEQUENCE:0
-DTSTAMP:20250615T060933
+DTSTAMP:20250615T065603
 DTSTART:20250628T200000
 DTEND:20250628T204500
 SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Toorak Tropics
-LOCATION:Oakleigh Recreation Centre\, Court 1\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Tropics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:73eba2d5-33cc-41b6-b988-fffdedc95cef
+UID:744fac9d-3a33-41b5-b1d6-cf66dc5b1a6b
 SEQUENCE:0
-DTSTAMP:20250615T060933
+DTSTAMP:20250615T065603
 DTSTART:20250802T183000
 DTEND:20250802T191500
 SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Timberwolves United
-LOCATION:Waverley Basketball Stadium\, Court 1\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves United\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:98463ee1-d39f-466b-aae9-4a831d701bd9
+UID:40f44589-6826-4435-a5e3-89ac2c64f86b
 SEQUENCE:0
-DTSTAMP:20250615T060933
+DTSTAMP:20250615T065603
 DTSTART:20250809T183000
 DTEND:20250809T191500
 SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Solway Rockets
-LOCATION:Waverley Basketball Stadium\, Court 2\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Rockets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b241214f-dfb6-4be6-aeb0-d4b7a94ff119
+UID:1f40bd61-d812-4e3b-89af-71c65f244fce
 SEQUENCE:0
-DTSTAMP:20250615T060933
+DTSTAMP:20250615T065603
 DTSTART:20250816T183000
 DTEND:20250816T191500
 SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Malvern Tigers Black
-LOCATION:Waverley Basketball Stadium\, Court 2\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b3f60371-3eb5-46a9-9901-d627cad58b5f
+UID:bd25509a-8cdb-45e5-a3bb-9af7b341566e
 SEQUENCE:0
-DTSTAMP:20250615T060933
+DTSTAMP:20250615T065603
 DTSTART:20250823T183000
 DTEND:20250823T191500
 SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Timberwolves Hustlers
-LOCATION:Waverley Basketball Stadium\, Court 2\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Hustlers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cd7a5a5f-27e5-443a-9fd9-ef71a3980a59
+UID:f74a18d6-963b-4df0-8371-2ab33feaea41
 SEQUENCE:0
-DTSTAMP:20250615T060933
+DTSTAMP:20250615T065603
 DTSTART:20250830T183000
 DTEND:20250830T191500
 SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium\, Court 2\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

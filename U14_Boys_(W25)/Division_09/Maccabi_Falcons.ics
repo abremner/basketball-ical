@@ -6,72 +6,83 @@ X-WR-CALNAME:Maccabi Falcons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:91d13254-4f5c-481a-9c14-f75a5eef30f1
+UID:42423547-9a61-4f5a-a5e5-cf103909fe81
 SEQUENCE:0
-DTSTAMP:20250615T060910
+DTSTAMP:20250615T065542
 DTSTART:20250628T153000
 DTEND:20250628T161500
 SUMMARY:🏀 U14 Boys: Maccabi Falcons vs SouthEast Venom Heat
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: SouthE
+ ast Venom Heat\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7613d3b0-736b-4d1b-82e7-abedea91af25
+UID:7979ee63-2626-46fa-95dc-f95bae6fd58c
 SEQUENCE:0
-DTSTAMP:20250615T060910
+DTSTAMP:20250615T065542
 DTSTART:20250726T153000
 DTEND:20250726T161500
 SUMMARY:🏀 U14 Boys: Maccabi Falcons vs Ashy Lightning White
-LOCATION:Oakleigh Recreation Centre\, Court 5\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
+ ghtning White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4dc94fe5-f314-4b69-97a2-97c5761fde72
+UID:05e12177-0002-4b1f-a61f-61b055e00237
 SEQUENCE:0
-DTSTAMP:20250615T060910
+DTSTAMP:20250615T065542
 DTSTART:20250802T153000
 DTEND:20250802T161500
 SUMMARY:🏀 U14 Boys: Maccabi Falcons vs Timberwolves Raptors
-LOCATION:Oakleigh Recreation Centre\, Court 5\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Raptors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2d448bb5-c72e-4413-83ae-943fc4df618b
+UID:eb783408-23ef-42fa-be77-a17a356ca722
 SEQUENCE:0
-DTSTAMP:20250615T060910
+DTSTAMP:20250615T065542
 DTSTART:20250809T153000
 DTEND:20250809T161500
 SUMMARY:🏀 U14 Boys: Maccabi Falcons vs Malvern Tigers Maroon
-LOCATION:Oakleigh Recreation Centre\, Court 5\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Maroon\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:05f6bf08-f838-4f92-adf1-6ef40d903ea0
+UID:1c08e94d-6904-4040-b1d2-a995095944c6
 SEQUENCE:0
-DTSTAMP:20250615T060910
+DTSTAMP:20250615T065542
 DTSTART:20250816T153000
 DTEND:20250816T161500
 SUMMARY:🏀 U14 Boys: Maccabi Falcons vs Solway Spartans
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Spartans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b259d08d-cd7c-46de-9886-7cbae30378c5
+UID:07833d30-64d8-4c48-bdda-6f52c613f81c
 SEQUENCE:0
-DTSTAMP:20250615T060910
+DTSTAMP:20250615T065542
 DTSTART:20250823T161500
 DTEND:20250823T170000
 SUMMARY:🏀 U14 Boys: Maccabi Falcons vs Maccabi Giants
-LOCATION:Waverley Basketball Stadium\, Court 4\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Giants\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5d4ead10-80fc-42d5-a5b6-22fe36c0f80b
+UID:ee3e8216-48a4-4e6d-bbdb-d5d18ab04a2c
 SEQUENCE:0
-DTSTAMP:20250615T060910
+DTSTAMP:20250615T065542
 DTSTART:20250830T144500
 DTEND:20250830T153000
 SUMMARY:🏀 U14 Boys: Maccabi Falcons vs Golden Hawks Iron
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Golden Hawks Iron\nArrive 15 
+ mins early for warm-up
 END:VEVENT
 END:VCALENDAR

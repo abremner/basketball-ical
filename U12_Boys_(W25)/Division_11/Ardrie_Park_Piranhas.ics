@@ -6,73 +6,85 @@ X-WR-CALNAME:Ardrie Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e2c0bbc7-3be0-4cfc-a950-97b44de3aa59
+UID:e9496124-3cc8-456e-96ba-faf16aff79a8
 SEQUENCE:0
-DTSTAMP:20250615T060815
+DTSTAMP:20250615T065449
 DTSTART:20250621T114500
 DTEND:20250621T123000
 SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Maccabi Lakers
-LOCATION:Oakleigh Recreation Centre\, Court 5\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Lakers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:36ba412b-c730-44e1-8df3-591665164f95
+UID:a17b7736-ea94-49de-8eac-6e75b4ec0579
 SEQUENCE:0
-DTSTAMP:20250615T060815
+DTSTAMP:20250615T065449
 DTSTART:20250628T114500
 DTEND:20250628T123000
 SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Glen Iris Scorpions Nettlet
  on
-LOCATION:Oakleigh Recreation Centre\, Court 5\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
+ is Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f92efbd2-1547-4e74-bf99-94beea1412e6
+UID:61e5944b-2850-4ec0-98ba-d529b6d31e91
 SEQUENCE:0
-DTSTAMP:20250615T060815
+DTSTAMP:20250615T065449
 DTSTART:20250726T114500
 DTEND:20250726T123000
 SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Golden Hawks Blaze
-LOCATION:Waverley Basketball Stadium\, Court 4\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Golden
+  Hawks Blaze\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6ab9b196-af69-4320-9d96-4d0f7ccabbd2
+UID:24a11502-7bfb-495d-a8cb-6f4059b38bc5
 SEQUENCE:0
-DTSTAMP:20250615T060815
+DTSTAMP:20250615T065449
 DTSTART:20250802T114500
 DTEND:20250802T123000
 SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Ashy Lightning Yellow
-LOCATION:Waverley Basketball Stadium\, Court 4\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+ ightning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4fa87c8d-da31-471b-971f-5f3962e6b877
+UID:6cc615f3-fec5-445f-a9dc-7a5ffa6a4af4
 SEQUENCE:0
-DTSTAMP:20250615T060815
+DTSTAMP:20250615T065449
 DTSTART:20250816T123000
 DTEND:20250816T131500
 SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Timberwolves Cyclones
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Cyclones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c6bace8d-febc-4bf3-83a7-1b485a77a93a
+UID:463658d2-2a38-4742-965f-ccbba5e160ff
 SEQUENCE:0
-DTSTAMP:20250615T060815
+DTSTAMP:20250615T065449
 DTSTART:20250823T123000
 DTEND:20250823T131500
 SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Maccabi Jaguars
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Jaguars\nArrive 15 mi
+ ns early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8785ae72-0d00-44e7-8192-0d3e87a69f80
+UID:be2346c6-2830-444e-adc8-16a518e26714
 SEQUENCE:0
-DTSTAMP:20250615T060815
+DTSTAMP:20250615T065449
 DTSTART:20250830T123000
 DTEND:20250830T131500
 SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Glen Iris Scorpions Raven
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

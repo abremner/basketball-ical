@@ -6,73 +6,84 @@ X-WR-CALNAME:Armadale Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c4867fe2-e7a4-4f90-b756-e74376478932
+UID:8bdee8b0-baa3-48bc-b22b-6e92885bcf3a
 SEQUENCE:0
-DTSTAMP:20250615T060703
+DTSTAMP:20250615T065341
 DTSTART:20250621T110000
 DTEND:20250621T114500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Maccabi Celtics
-LOCATION:Oakleigh Recreation Centre\, Court 2\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:62741515-5dc4-4f8f-893f-6391d058c122
+UID:62fbb1ab-4a50-4d06-9bf8-b9c3f8d69cc5
 SEQUENCE:0
-DTSTAMP:20250615T060703
+DTSTAMP:20250615T065341
 DTSTART:20250628T093000
 DTEND:20250628T101500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Toorak Tigersharks
-LOCATION:Waverley Basketball Stadium\, Court 1\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
+  Tigersharks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6756a75b-eaa6-44a0-aad6-485a3e77fce9
+UID:f0c32cdf-f776-4554-a661-bf55e5ed266a
 SEQUENCE:0
-DTSTAMP:20250615T060703
+DTSTAMP:20250615T065341
 DTSTART:20250726T110000
 DTEND:20250726T114500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Solway Lakers
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Lakers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b8c16532-9f62-4bdd-a714-6df1898370b2
+UID:a486095d-700e-44ee-a620-678a12b70c7c
 SEQUENCE:0
-DTSTAMP:20250615T060703
+DTSTAMP:20250615T065341
 DTSTART:20250802T110000
 DTEND:20250802T114500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Ashy Lightning Green
-LOCATION:Oakleigh Recreation Centre\, Court 2\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5ae8a68b-e12e-4a56-ad10-e2daa00cfd65
+UID:c0443965-80dd-4eea-9029-f26208e8a28a
 SEQUENCE:0
-DTSTAMP:20250615T060703
+DTSTAMP:20250615T065341
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Dendy Park Piranhas
-LOCATION:Oakleigh Recreation Centre\, Court 2\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Dendy P
+ ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e4ad54b4-6553-4a20-abb1-a14c205cf1a0
+UID:62300686-1973-40eb-989a-bafb7ff9296e
 SEQUENCE:0
-DTSTAMP:20250615T060703
+DTSTAMP:20250615T065341
 DTSTART:20250816T110000
 DTEND:20250816T114500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Malvern Tigers Green
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1254dc37-27f9-401d-a5db-6e3f5a6110c3
+UID:df181d86-9c81-496b-8418-d603e5cb2efd
 SEQUENCE:0
-DTSTAMP:20250615T060703
+DTSTAMP:20250615T065341
 DTSTART:20250823T093000
 DTEND:20250823T101500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Malvern Tigers Orange
-LOCATION:Waverley Basketball Stadium\, Court 1\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

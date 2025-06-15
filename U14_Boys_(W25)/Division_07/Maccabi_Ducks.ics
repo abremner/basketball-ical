@@ -6,83 +6,93 @@ X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:8164188a-f1e4-40ea-9cfb-07d4585d96a7
+UID:618cf0f3-8479-44bc-aac8-205c2d11a11a
 SEQUENCE:0
-DTSTAMP:20250615T060904
+DTSTAMP:20250615T065536
 DTSTART:20250621T153000
 DTEND:20250621T161500
 SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Malvern Tigers Blue
-LOCATION:Oakleigh Recreation Centre\, Court 4\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cf70d8ac-7f3b-4021-aa77-edd461fed95b
+UID:d5c8a2c1-d143-4628-a9dd-c4e0345a0461
 SEQUENCE:0
-DTSTAMP:20250615T060904
+DTSTAMP:20250615T065536
 DTSTART:20250628T161500
 DTEND:20250628T170000
 SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Glen Iris Scorpions Summerhill
-LOCATION:Oakleigh Recreation Centre\, Court 5\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
+ is Scorpions Summerhill\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7e5563d1-3d31-461e-b9cb-f0d12e468c66
+UID:e003ef5b-8ac1-465b-a910-c854936ddbd7
 SEQUENCE:0
-DTSTAMP:20250615T060904
+DTSTAMP:20250615T065536
 DTSTART:20250726T153000
 DTEND:20250726T161500
 SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Solway Vikings
-LOCATION:Oakleigh Recreation Centre\, Court 4\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Vikings\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:061da640-ae85-4be2-86fc-bdb92f2c4b2a
+UID:a80359b8-1b9f-4243-acb2-66f7883cf76d
 SEQUENCE:0
-DTSTAMP:20250615T060904
+DTSTAMP:20250615T065536
 DTSTART:20250802T153000
 DTEND:20250802T161500
 SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Solway Gladiators
-LOCATION:Oakleigh Recreation Centre\, Court 4\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Gladiators\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7c23c98b-3609-4216-89b1-9b25a751f479
+UID:42e8081e-2788-4126-b3a6-c15b5738cc36
 SEQUENCE:0
-DTSTAMP:20250615T060904
+DTSTAMP:20250615T065536
 DTSTART:20250809T153000
 DTEND:20250809T161500
 SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Inkerman Piranhas
-LOCATION:Oakleigh Recreation Centre\, Court 4\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Inkerma
+ n Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9399a39e-6592-411a-b0b9-30f53c33a79c
+UID:a16b3899-da0d-47a4-9d0b-9e2cad936541
 SEQUENCE:0
-DTSTAMP:20250615T060904
+DTSTAMP:20250615T065536
 DTSTART:20250816T161500
 DTEND:20250816T170000
 SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Malvern Tigers Blue
-LOCATION:Oakleigh Recreation Centre\, Court 5\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a67f2380-5a07-437a-b41c-6ccd9449d0a0
+UID:bbcbe9ea-5852-4e8c-a586-f6250039aaf2
 SEQUENCE:0
-DTSTAMP:20250615T060904
+DTSTAMP:20250615T065536
 DTSTART:20250823T153000
 DTEND:20250823T161500
 SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Glen Iris Scorpions Summerhill
-LOCATION:Waverley Basketball Stadium\, Court 2\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glen I
+ ris Scorpions Summerhill\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:019b5c25-c7ff-4052-87e1-56546a0ef73e
+UID:e386de8d-f5bb-47f3-af0e-19f655da015e
 SEQUENCE:0
-DTSTAMP:20250615T060904
+DTSTAMP:20250615T065536
 DTSTART:20250830T153000
 DTEND:20250830T161500
 SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Solway Vikings
-LOCATION:Waverley Basketball Stadium\, Court 2\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Vikings\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

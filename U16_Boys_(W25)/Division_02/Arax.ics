@@ -6,73 +6,87 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c1783e7a-5c8c-40f7-9fc0-bc15bbb78163
+UID:4b37563f-f4ab-4cc8-82d0-929352bc042a
 SEQUENCE:0
-DTSTAMP:20250615T060936
+DTSTAMP:20250615T065606
 DTSTART:20250621T183000
 DTEND:20250621T191500
 SUMMARY:🏀 U16 Boys: Arax vs Bailey Reserve Piranhas
-LOCATION:Waverley Basketball Stadium\, Court 6\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Bailey
+  Reserve Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f9ac1625-9a3b-4a04-845c-999bbc81c09d
+UID:d9ecb745-3aa2-4cec-9e64-90ffd2d90e7e
 SEQUENCE:0
-DTSTAMP:20250615T060936
+DTSTAMP:20250615T065606
 DTSTART:20250628T191500
 DTEND:20250628T200000
 SUMMARY:🏀 U16 Boys: Arax vs Maccabi Half Court Miracles
-LOCATION:Waverley Basketball Stadium\, Court 5\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Half Court Miracles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e8cfe8a2-e780-49c6-81b3-bc3bd029a3f4
+UID:8b0f53e9-9152-4899-a7b1-7c2de9d49a01
 SEQUENCE:0
-DTSTAMP:20250615T060936
+DTSTAMP:20250615T065606
 DTSTART:20250802T191500
 DTEND:20250802T200000
 SUMMARY:🏀 U16 Boys: Arax vs Spring Park Piranhas
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Spring
+  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:54fdde41-884d-4d05-8e14-e2595ad62ebf
+UID:264de0ec-ead6-4d98-b99f-b336c9cf7306
 SEQUENCE:0
-DTSTAMP:20250615T060936
+DTSTAMP:20250615T065606
 DTSTART:20250809T191500
 DTEND:20250809T200000
 SUMMARY:🏀 U16 Boys: Arax vs Timberwolves Nuggets
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Nuggets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d41aef06-043e-4324-bdb6-ef44fc22a3af
+UID:9050fe86-cd06-4ad1-9874-329a4bf94138
 SEQUENCE:0
-DTSTAMP:20250615T060936
+DTSTAMP:20250615T065606
 DTSTART:20250816T191500
 DTEND:20250816T200000
 SUMMARY:🏀 U16 Boys: Arax vs Timberwolves Raiders
-LOCATION:Waverley Basketball Stadium\, Court 5\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Raiders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:39bfdca5-3039-4454-b0fc-26e749d2a356
+UID:9ce51a4e-96d0-456a-80d6-019dfcb868e8
 SEQUENCE:0
-DTSTAMP:20250615T060936
+DTSTAMP:20250615T065606
 DTSTART:20250823T191500
 DTEND:20250823T200000
 SUMMARY:🏀 U16 Boys: Arax vs Malvern Tigers Red
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bf321baf-8b18-492e-b97b-06288578b3ff
+UID:13453655-a1f3-4c6c-a4dd-153b71d4bdc1
 SEQUENCE:0
-DTSTAMP:20250615T060936
+DTSTAMP:20250615T065606
 DTSTART:20250830T183000
 DTEND:20250830T191500
 SUMMARY:🏀 U16 Boys: Arax vs Bailey Reserve Piranhas
-LOCATION:Waverley Basketball Stadium\, Court 6\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Bailey
+  Reserve Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

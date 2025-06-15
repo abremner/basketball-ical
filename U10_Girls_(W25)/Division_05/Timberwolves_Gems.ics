@@ -6,73 +6,83 @@ X-WR-CALNAME:Timberwolves Gems Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:015abc68-3a11-449c-b38f-c25364a9c669
+UID:0e5a5dad-d5f0-4c16-a02e-2a869fe3eee6
 SEQUENCE:0
-DTSTAMP:20250615T060747
+DTSTAMP:20250615T065423
 DTSTART:20250621T080000
 DTEND:20250621T084500
 SUMMARY:🏀 U10 Girls: Timberwolves Gems vs AlphaWolf Blaze
-LOCATION:Waverley Basketball Stadium\, Court 1\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AlphaW
+ olf Blaze\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:24aa0288-76c4-4c72-9fbb-440ab7eb3913
+UID:8149eb82-2788-4672-aaf3-bf2549ffa2f4
 SEQUENCE:0
-DTSTAMP:20250615T060747
+DTSTAMP:20250615T065423
 DTSTART:20250628T110000
 DTEND:20250628T114500
 SUMMARY:🏀 U10 Girls: Timberwolves Gems vs Ashy Lightning Green
-LOCATION:Lauriston Girls School\, Court 1\n38 Huntingtower Rd\, Armadale V
- IC 3143
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Ashy Lightn
+ ing Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:79c24dd3-07f8-48a2-b2e3-1d36db427e27
+UID:ec581d99-1bb2-4112-8c37-9facedfd011b
 SEQUENCE:0
-DTSTAMP:20250615T060747
+DTSTAMP:20250615T065423
 DTSTART:20250726T110000
 DTEND:20250726T114500
 SUMMARY:🏀 U10 Girls: Timberwolves Gems vs Malvern Tigers  Orange
-LOCATION:Lauriston Girls School\, Court 1\n38 Huntingtower Rd\, Armadale V
- IC 3143
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers  Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9394f038-8420-4150-8a8f-a0a170c93c4a
+UID:18e89bbb-e5ba-4206-a24c-73b3e5f2c105
 SEQUENCE:0
-DTSTAMP:20250615T060747
+DTSTAMP:20250615T065423
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Girls: Timberwolves Gems vs Malvern Tigers Brown
-LOCATION:Lauriston Girls School\, Court 2\n38 Huntingtower Rd\, Armadale V
- IC 3143
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:098a3c90-66a6-45ab-99da-0ea72f8a42dd
+UID:43d380be-9f75-4fa7-b133-ea700aea38df
 SEQUENCE:0
-DTSTAMP:20250615T060747
+DTSTAMP:20250615T065423
 DTSTART:20250816T080000
 DTEND:20250816T084500
 SUMMARY:🏀 U10 Girls: Timberwolves Gems vs Malvern Tigers Purple
-LOCATION:Waverley Basketball Stadium\, Court 1\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Purple\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3d31ea81-6b23-4126-bbda-31997357fc05
+UID:d38674f3-06d4-4659-abc2-4039bad4992b
 SEQUENCE:0
-DTSTAMP:20250615T060747
+DTSTAMP:20250615T065423
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U10 Girls: Timberwolves Gems vs Korowa Grey
-LOCATION:Waverley Basketball Stadium\, Court 2\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Korowa
+  Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e9bf8f48-8a93-448e-a69d-070c1147964b
+UID:f0ae12d4-2a76-4247-bfb1-9fc358dd206d
 SEQUENCE:0
-DTSTAMP:20250615T060747
+DTSTAMP:20250615T065423
 DTSTART:20250830T110000
 DTEND:20250830T114500
 SUMMARY:🏀 U10 Girls: Timberwolves Gems vs Maccabi Eagles
-LOCATION:Lauriston Girls School\, Court 1\n38 Huntingtower Rd\, Armadale V
- IC 3143
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Eag
+ les\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

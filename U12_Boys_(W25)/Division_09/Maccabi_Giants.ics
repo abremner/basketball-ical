@@ -6,79 +6,93 @@ X-WR-CALNAME:Maccabi Giants Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:373f1202-fbc3-48bf-bece-16e7b5421661
+UID:932839eb-8e8a-4bfe-be77-df4b6e7e35d9
 SEQUENCE:0
-DTSTAMP:20250615T060810
+DTSTAMP:20250615T065445
 DTSTART:20250621T114500
 DTEND:20250621T123000
 SUMMARY:🏀 U12 Boys: Maccabi Giants vs AlphaWolf Warriors
-LOCATION:Oakleigh Recreation Centre\, Court 3\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: AlphaWo
+ lf Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c5078ea9-b6cc-4361-8d53-5606d3a92352
+UID:82a9dee1-f957-421b-bb21-c80bc38f774c
 SEQUENCE:0
-DTSTAMP:20250615T060810
+DTSTAMP:20250615T065445
 DTSTART:20250628T131500
 DTEND:20250628T140000
 SUMMARY:🏀 U12 Boys: Maccabi Giants vs Malvern Tigers Maroon
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Maroon\nArrive
+  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:58d19e2a-4986-4db1-bd76-0ef488c4e19b
+UID:df4f46ef-2b31-43ab-870e-d2529371e86f
 SEQUENCE:0
-DTSTAMP:20250615T060810
+DTSTAMP:20250615T065445
 DTSTART:20250726T131500
 DTEND:20250726T140000
 SUMMARY:🏀 U12 Boys: Maccabi Giants vs Maccabi Falcons
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Falcons\nArrive 15 mi
+ ns early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bcca243e-0245-4ca1-877e-4cd0d6860b74
+UID:1e969190-c606-4f98-9121-f81b06b17e3b
 SEQUENCE:0
-DTSTAMP:20250615T060810
+DTSTAMP:20250615T065445
 DTSTART:20250802T131500
 DTEND:20250802T140000
 SUMMARY:🏀 U12 Boys: Maccabi Giants vs Golden Hawks Iron
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Golden Hawks Iron\nArrive 15 
+ mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d9488ef4-fb7a-4b88-8a5e-23cb11d84ff6
+UID:cc88129a-0f8d-4232-8c2e-0ef700059004
 SEQUENCE:0
-DTSTAMP:20250615T060810
+DTSTAMP:20250615T065445
 DTSTART:20250809T131500
 DTEND:20250809T140000
 SUMMARY:🏀 U12 Boys: Maccabi Giants vs Warrawee Piranhas
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Warrawee Piranhas\nArrive 15 
+ mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c31291ab-399d-470b-adee-f711913a522f
+UID:25af1c2a-468c-4001-8bd2-40f69a39d1a1
 SEQUENCE:0
-DTSTAMP:20250615T060810
+DTSTAMP:20250615T065445
 DTSTART:20250816T114500
 DTEND:20250816T123000
 SUMMARY:🏀 U12 Boys: Maccabi Giants vs AlphaWolf Warriors
-LOCATION:Oakleigh Recreation Centre\, Court 3\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: AlphaWo
+ lf Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bb924607-1be2-4260-acb6-ae673ba5a990
+UID:5874778d-ff9e-447b-9b95-3dd597151501
 SEQUENCE:0
-DTSTAMP:20250615T060810
+DTSTAMP:20250615T065445
 DTSTART:20250823T123000
 DTEND:20250823T131500
 SUMMARY:🏀 U12 Boys: Maccabi Giants vs Malvern Tigers Maroon
-LOCATION:Waverley Basketball Stadium\, Court 5\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Maroon\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9fd2b398-1d24-41b0-b2a5-f813f5f2b514
+UID:43021c69-d9fb-424f-a665-1cfe6b0310d3
 SEQUENCE:0
-DTSTAMP:20250615T060810
+DTSTAMP:20250615T065445
 DTSTART:20250830T123000
 DTEND:20250830T131500
 SUMMARY:🏀 U12 Boys: Maccabi Giants vs Maccabi Falcons
-LOCATION:Waverley Basketball Stadium\, Court 5\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

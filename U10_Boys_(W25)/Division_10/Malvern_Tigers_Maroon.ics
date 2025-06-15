@@ -6,60 +6,72 @@ X-WR-CALNAME:Malvern Tigers Maroon Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0976c150-51f8-4d3c-8c15-9d984444111f
+UID:b1def1f3-0c9f-44cc-9342-36b06dfdfbe6
 SEQUENCE:0
-DTSTAMP:20250615T060725
+DTSTAMP:20250615T065403
 DTSTART:20250628T080000
 DTEND:20250628T084500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Maroon vs Malvern Tigers Grey
-LOCATION:Waverley Basketball Stadium\, Court 5\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:24e14f1c-9f19-45fb-abd1-4c1cda1a0cc6
+UID:08375524-c65a-4c25-9849-8667f6c12df7
 SEQUENCE:0
-DTSTAMP:20250615T060725
+DTSTAMP:20250615T065403
 DTSTART:20250726T093000
 DTEND:20250726T101500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Maroon vs AlphaWolf Kings
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: AlphaWolf Kings\nArrive 15 mi
+ ns early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:232c3ed9-5d7a-493b-a12a-3cae678db3c3
+UID:b6fff675-bd6e-42b8-bee8-a82fe244527b
 SEQUENCE:0
-DTSTAMP:20250615T060725
+DTSTAMP:20250615T065403
 DTSTART:20250802T093000
 DTEND:20250802T101500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Maroon vs Maccabi Giants
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Giants\nArrive 15 min
+ s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2edd6720-b312-4179-b4b2-6027779942a4
+UID:32e13026-8cff-424b-8278-a0e7c5f6698a
 SEQUENCE:0
-DTSTAMP:20250615T060725
+DTSTAMP:20250615T065403
 DTSTART:20250809T080000
 DTEND:20250809T084500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Maroon vs Malvern Tigers Lime
-LOCATION:Waverley Basketball Stadium\, Court 5\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Lime\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:12b3637a-a090-43e5-b3e1-1d12cb40dcaf
+UID:c354ad0e-3fc5-491a-aac4-9b16101bd571
 SEQUENCE:0
-DTSTAMP:20250615T060725
+DTSTAMP:20250615T065403
 DTSTART:20250823T080000
 DTEND:20250823T084500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Maroon vs Malvern Tigers Grey
-LOCATION:Waverley Basketball Stadium\, Court 5\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c59e0b05-e88f-4d19-b631-5b3867991180
+UID:564e0b2e-1f50-40ef-8b83-99bee34c61b8
 SEQUENCE:0
-DTSTAMP:20250615T060725
+DTSTAMP:20250615T065403
 DTSTART:20250830T093000
 DTEND:20250830T101500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Maroon vs AlphaWolf Kings
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: AlphaWolf Kings\nArrive 15 mi
+ ns early for warm-up
 END:VEVENT
 END:VCALENDAR

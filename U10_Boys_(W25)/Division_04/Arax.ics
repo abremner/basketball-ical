@@ -6,73 +6,87 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d88ec5a7-bd41-4999-8adc-e694355d9973
+UID:ab97fb5f-5d29-4abd-82c2-9fb5e1e51a46
 SEQUENCE:0
-DTSTAMP:20250615T060703
+DTSTAMP:20250615T065341
 DTSTART:20250628T131500
 DTEND:20250628T140000
 SUMMARY:🏀 U10 Boys: Arax vs Maccabi Celtics
-LOCATION:Waverley Basketball Stadium\, Court 5\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0a5424b5-649f-4ea5-8845-f3c74c80c1ab
+UID:ab2d43c8-0922-4067-8928-1953ea2aad2a
 SEQUENCE:0
-DTSTAMP:20250615T060703
+DTSTAMP:20250615T065341
 DTSTART:20250726T131500
 DTEND:20250726T140000
 SUMMARY:🏀 U10 Boys: Arax vs Dendy Park Piranhas
-LOCATION:Waverley Basketball Stadium\, Court 5\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Dendy 
+ Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c23a0fb0-b374-43a0-bec8-68d143d3236d
+UID:aa980348-f546-4332-b67b-a8c3b93273ca
 SEQUENCE:0
-DTSTAMP:20250615T060703
+DTSTAMP:20250615T065341
 DTSTART:20250802T131500
 DTEND:20250802T140000
 SUMMARY:🏀 U10 Boys: Arax vs Solway Lakers
-LOCATION:Waverley Basketball Stadium\, Court 5\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Lakers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1fba9ed4-7684-4d72-9445-d9bb36e4b86e
+UID:33f416f5-6712-432e-b99e-b619580aef1c
 SEQUENCE:0
-DTSTAMP:20250615T060703
+DTSTAMP:20250615T065341
 DTSTART:20250809T131500
 DTEND:20250809T140000
 SUMMARY:🏀 U10 Boys: Arax vs Toorak Tigersharks
-LOCATION:Waverley Basketball Stadium\, Court 5\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
+  Tigersharks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:582245c2-2cd7-4dc3-9a18-abd82f39065c
+UID:7235e569-4eaa-49ce-90a6-9c6c106e6fb1
 SEQUENCE:0
-DTSTAMP:20250615T060703
+DTSTAMP:20250615T065341
 DTSTART:20250816T131500
 DTEND:20250816T140000
 SUMMARY:🏀 U10 Boys: Arax vs Ashy Lightning Green
-LOCATION:Waverley Basketball Stadium\, Court 5\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7fc6c8bc-7e45-465e-9ad9-4e1ed43108c4
+UID:62cbb55a-1487-4064-94e7-c4a59cc30289
 SEQUENCE:0
-DTSTAMP:20250615T060703
+DTSTAMP:20250615T065341
 DTSTART:20250823T131500
 DTEND:20250823T140000
 SUMMARY:🏀 U10 Boys: Arax vs Malvern Tigers Green
-LOCATION:Waverley Basketball Stadium\, Court 5\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b3b3f31d-a226-4319-a3e1-86d673fb0062
+UID:7347cf14-60f3-4d33-9d7b-af605b55c84e
 SEQUENCE:0
-DTSTAMP:20250615T060703
+DTSTAMP:20250615T065341
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U10 Boys: Arax vs Malvern Tigers Orange
-LOCATION:Waverley Basketball Stadium\, Court 5\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

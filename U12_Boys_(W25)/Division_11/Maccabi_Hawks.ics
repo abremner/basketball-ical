@@ -6,72 +6,84 @@ X-WR-CALNAME:Maccabi Hawks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:1b67cbb4-b7ba-4836-a44d-3f032eedf3b0
+UID:a818917c-36b3-46fc-b5b4-0301fce30194
 SEQUENCE:0
-DTSTAMP:20250615T060817
+DTSTAMP:20250615T065451
 DTSTART:20250621T114500
 DTEND:20250621T123000
 SUMMARY:🏀 U12 Boys: Maccabi Hawks vs Glen Iris Scorpions Raven
-LOCATION:Waverley Basketball Stadium\, Court 4\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
+ ris Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8fc8fcd2-4aaa-41c4-945a-aa9a43da6ffa
+UID:fd217d57-035d-4d96-9ff0-da295579d45c
 SEQUENCE:0
-DTSTAMP:20250615T060817
+DTSTAMP:20250615T065451
 DTSTART:20250628T123000
 DTEND:20250628T131500
 SUMMARY:🏀 U12 Boys: Maccabi Hawks vs Maccabi Lakers
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Lakers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:637ca18b-cf83-4060-951d-31dd1c66ff2a
+UID:121e07aa-1094-4d86-83a0-727ad7798e19
 SEQUENCE:0
-DTSTAMP:20250615T060817
+DTSTAMP:20250615T065451
 DTSTART:20250726T114500
 DTEND:20250726T123000
 SUMMARY:🏀 U12 Boys: Maccabi Hawks vs Timberwolves Cyclones
-LOCATION:Oakleigh Recreation Centre\, Court 5\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Cyclones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:258a79e4-6be4-4397-a309-85016ffa56dd
+UID:72e7ec6f-ec79-4168-8565-beae9d831f8d
 SEQUENCE:0
-DTSTAMP:20250615T060817
+DTSTAMP:20250615T065451
 DTSTART:20250809T114500
 DTEND:20250809T123000
 SUMMARY:🏀 U12 Boys: Maccabi Hawks vs Maccabi Jaguars
-LOCATION:Waverley Basketball Stadium\, Court 4\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Jaguars\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e22b6ce1-1034-4cae-ae65-bb1da992a4e9
+UID:197ee359-231b-4602-a901-801bf198bab6
 SEQUENCE:0
-DTSTAMP:20250615T060817
+DTSTAMP:20250615T065451
 DTSTART:20250816T114500
 DTEND:20250816T123000
 SUMMARY:🏀 U12 Boys: Maccabi Hawks vs Glen Iris Scorpions Nettleton
-LOCATION:Oakleigh Recreation Centre\, Court 5\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
+ is Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:319c3da8-1fcb-498c-af70-d03703066532
+UID:8bcfce5f-3bb5-45bb-95ef-bfb7d9674332
 SEQUENCE:0
-DTSTAMP:20250615T060817
+DTSTAMP:20250615T065451
 DTSTART:20250823T123000
 DTEND:20250823T131500
 SUMMARY:🏀 U12 Boys: Maccabi Hawks vs Golden Hawks Blaze
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Golden
+  Hawks Blaze\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:74d256f9-0dbf-43be-9ed6-046c2cb073e2
+UID:c13b5906-dd98-4013-b000-763a1103062e
 SEQUENCE:0
-DTSTAMP:20250615T060817
+DTSTAMP:20250615T065451
 DTSTART:20250830T123000
 DTEND:20250830T131500
 SUMMARY:🏀 U12 Boys: Maccabi Hawks vs Ashy Lightning Yellow
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Ashy Lightning Yellow\nArrive
+  15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

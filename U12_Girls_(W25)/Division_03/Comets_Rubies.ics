@@ -6,73 +6,84 @@ X-WR-CALNAME:Comets Rubies Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:78c2370a-93f9-47f0-9769-6a5c551bd04f
+UID:322199c5-1e55-465c-acd5-aec3bed1b338
 SEQUENCE:0
-DTSTAMP:20250615T060828
+DTSTAMP:20250615T065502
 DTSTART:20250621T140000
 DTEND:20250621T144500
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Malvern Tigers Mitchell
-LOCATION:Oakleigh Recreation Centre\, Court 2\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Mitchell\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d73b235c-bff7-478e-a259-eebcd9425227
+UID:6e22c0ef-cc48-407d-92f4-d8471c1e7b41
 SEQUENCE:0
-DTSTAMP:20250615T060828
+DTSTAMP:20250615T065502
 DTSTART:20250628T140000
 DTEND:20250628T144500
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Solway Rosellas
-LOCATION:Oakleigh Recreation Centre\, Court 2\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Rosellas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:93410d04-fc6d-403b-be0f-e0e40c94fa20
+UID:0640be99-f93b-4420-8352-31f08d2200a6
 SEQUENCE:0
-DTSTAMP:20250615T060828
+DTSTAMP:20250615T065502
 DTSTART:20250726T140000
 DTEND:20250726T144500
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium\, Court 2\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d5b7da84-c20e-487c-a9eb-e1aad5db5480
+UID:15db11c6-dac4-4375-a0f5-3e0750619cb6
 SEQUENCE:0
-DTSTAMP:20250615T060828
+DTSTAMP:20250615T065502
 DTSTART:20250802T140000
 DTEND:20250802T144500
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Malvern Tigers Jarry
-LOCATION:Waverley Basketball Stadium\, Court 2\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Jarry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a201479a-217c-44fb-91cf-6ad6567e7165
+UID:135e18a8-6b11-415f-a9be-21aefb9ef2cf
 SEQUENCE:0
-DTSTAMP:20250615T060828
+DTSTAMP:20250615T065502
 DTSTART:20250809T144500
 DTEND:20250809T153000
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Malvern Tigers Hodges
-LOCATION:Waverley Basketball Stadium\, Court 4\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Hodges\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b18d769a-2462-4a10-92b5-c053683531a4
+UID:ea2ec63b-9c73-4c44-ab52-e25d7c5ab5f8
 SEQUENCE:0
-DTSTAMP:20250615T060828
+DTSTAMP:20250615T065502
 DTSTART:20250823T144500
 DTEND:20250823T153000
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Korowa Cherry
-LOCATION:Waverley Basketball Stadium\, Court 4\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Korowa
+  Cherry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7271fe7f-d11d-40ee-88a2-16cafee29929
+UID:4bfbc29d-e58e-45e6-8db9-791220ba0dbb
 SEQUENCE:0
-DTSTAMP:20250615T060828
+DTSTAMP:20250615T065502
 DTSTART:20250830T140000
 DTEND:20250830T144500
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Malvern Tigers Mitchell
-LOCATION:Oakleigh Recreation Centre\, Court 2\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Mitchell\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

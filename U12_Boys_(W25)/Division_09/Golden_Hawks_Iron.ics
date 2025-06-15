@@ -6,80 +6,94 @@ X-WR-CALNAME:Golden Hawks Iron Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:95fae0b5-4db7-423d-a78f-22fc647b9231
+UID:6b8dc0ea-6317-41c1-8d9d-7340f0e6e1b5
 SEQUENCE:0
-DTSTAMP:20250615T060809
+DTSTAMP:20250615T065444
 DTSTART:20250621T131500
 DTEND:20250621T140000
 SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Malvern Tigers Maroon
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Maroon\nArrive
+  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:48fa729f-36bf-42b1-81aa-575e68253982
+UID:d0d4fc38-ef02-41cd-b0b4-03e69cee6a31
 SEQUENCE:0
-DTSTAMP:20250615T060809
+DTSTAMP:20250615T065444
 DTSTART:20250628T123000
 DTEND:20250628T131500
 SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Warrawee Piranhas
-LOCATION:Waverley Basketball Stadium\, Court 5\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Warraw
+ ee Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7aaeeed5-408d-4cee-91b1-e6ae434e11a0
+UID:7aa73c5b-7925-48ab-8ba1-c8af21609a6e
 SEQUENCE:0
-DTSTAMP:20250615T060809
+DTSTAMP:20250615T065444
 DTSTART:20250726T114500
 DTEND:20250726T123000
 SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs AlphaWolf Warriors
-LOCATION:Oakleigh Recreation Centre\, Court 3\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: AlphaWo
+ lf Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5113ae7c-1a45-4405-9dd1-12e10f152424
+UID:c4b8a209-a44a-4efb-b94e-6b07f6247578
 SEQUENCE:0
-DTSTAMP:20250615T060809
+DTSTAMP:20250615T065444
 DTSTART:20250802T131500
 DTEND:20250802T140000
 SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Maccabi Giants
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Giants\nArrive 15 min
+ s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0bc2a021-d38c-4d49-b4eb-3635ef32dff8
+UID:4ac07d9f-9161-400e-aee3-31baa2b8504f
 SEQUENCE:0
-DTSTAMP:20250615T060809
+DTSTAMP:20250615T065444
 DTSTART:20250809T123000
 DTEND:20250809T131500
 SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Maccabi Falcons
-LOCATION:Waverley Basketball Stadium\, Court 5\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1bd5564d-107d-4c0a-a607-c0f681e1cfbe
+UID:438b1d79-7e23-4f71-8ebb-49a87db9d401
 SEQUENCE:0
-DTSTAMP:20250615T060809
+DTSTAMP:20250615T065444
 DTSTART:20250816T123000
 DTEND:20250816T131500
 SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Malvern Tigers Maroon
-LOCATION:Waverley Basketball Stadium\, Court 5\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Maroon\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f7191837-70fb-4556-985b-187c199baa03
+UID:d0151af6-724d-4073-989f-6f51ac42ec91
 SEQUENCE:0
-DTSTAMP:20250615T060809
+DTSTAMP:20250615T065444
 DTSTART:20250823T131500
 DTEND:20250823T140000
 SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Warrawee Piranhas
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Warrawee Piranhas\nArrive 15 
+ mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:63fad53d-e27d-4296-b98d-65963ee17b83
+UID:471c8b6a-a90d-4aac-b4cb-42c8f9aac72a
 SEQUENCE:0
-DTSTAMP:20250615T060809
+DTSTAMP:20250615T065444
 DTSTART:20250830T114500
 DTEND:20250830T123000
 SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs AlphaWolf Warriors
-LOCATION:Oakleigh Recreation Centre\, Court 3\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: AlphaWo
+ lf Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,83 +6,93 @@ X-WR-CALNAME:Malvern Tigers White Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:6a8f7dd9-5689-4178-9c54-34afaeedce1e
+UID:45d80987-6b0f-472a-963d-eda7ca43727d
 SEQUENCE:0
-DTSTAMP:20250615T060756
+DTSTAMP:20250615T065431
 DTSTART:20250621T140000
 DTEND:20250621T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers White vs Maccabi Celtics
-LOCATION:Oakleigh Recreation Centre\, Court 3\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1429cfb0-f626-4cb1-8e3f-fc5f340be2b2
+UID:c78ae2f2-48f0-48e6-9984-40bae32cc9a4
 SEQUENCE:0
-DTSTAMP:20250615T060756
+DTSTAMP:20250615T065431
 DTSTART:20250628T140000
 DTEND:20250628T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers White vs Toorak Tarantulas
-LOCATION:Oakleigh Recreation Centre\, Court 3\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak 
+ Tarantulas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1cb0a891-081e-40d2-89c9-59433e756b84
+UID:272e5981-781f-4e65-99ce-3b6030d134a2
 SEQUENCE:0
-DTSTAMP:20250615T060756
+DTSTAMP:20250615T065431
 DTSTART:20250726T140000
 DTEND:20250726T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers White vs Solway Cubs
-LOCATION:Oakleigh Recreation Centre\, Court 3\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Cubs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a8ef3df7-a9f6-4ef7-b388-39be687cfe64
+UID:5323e2e6-8e6c-4719-925f-8f9f6b8b71fd
 SEQUENCE:0
-DTSTAMP:20250615T060756
+DTSTAMP:20250615T065431
 DTSTART:20250802T140000
 DTEND:20250802T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers White vs AlphaWolf Legends
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
+ olf Legends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:26cf56c9-eec7-4f14-b13b-5f15a7aceb29
+UID:1062201f-d4d9-45b7-947a-a04b2c51631a
 SEQUENCE:0
-DTSTAMP:20250615T060756
+DTSTAMP:20250615T065431
 DTSTART:20250809T144500
 DTEND:20250809T153000
 SUMMARY:🏀 U12 Boys: Malvern Tigers White vs Timberwolves Colts
-LOCATION:Oakleigh Recreation Centre\, Court 1\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Colts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c5aee30d-1e91-4cc0-be77-61ca21bf1f73
+UID:d2a4ec0c-09d4-4504-834b-1429499e11fa
 SEQUENCE:0
-DTSTAMP:20250615T060756
+DTSTAMP:20250615T065431
 DTSTART:20250816T144500
 DTEND:20250816T153000
 SUMMARY:🏀 U12 Boys: Malvern Tigers White vs Maccabi Celtics
-LOCATION:Oakleigh Recreation Centre\, Court 1\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:278201b8-b09e-4cf7-a3bc-5d8d798c0ff1
+UID:ac2cd39a-7951-4e12-a4b2-1754d4697337
 SEQUENCE:0
-DTSTAMP:20250615T060756
+DTSTAMP:20250615T065431
 DTSTART:20250823T140000
 DTEND:20250823T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers White vs Toorak Tarantulas
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Tarantulas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:528ac1a9-256a-4c5a-9b44-e11bea775767
+UID:76163b6f-7ed5-4497-b1bf-1917e90a7d3f
 SEQUENCE:0
-DTSTAMP:20250615T060756
+DTSTAMP:20250615T065431
 DTSTART:20250830T140000
 DTEND:20250830T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers White vs Solway Cubs
-LOCATION:Oakleigh Recreation Centre\, Court 3\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Cubs\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

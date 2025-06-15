@@ -6,72 +6,84 @@ X-WR-CALNAME:Timberwolves Cyclones Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0c9f905b-4bc8-47c6-82f1-5c8482dd755e
+UID:7936362a-fd89-48dc-8940-65e3e910f01b
 SEQUENCE:0
-DTSTAMP:20250615T060818
+DTSTAMP:20250615T065452
 DTSTART:20250621T123000
 DTEND:20250621T131500
 SUMMARY:🏀 U12 Boys: Timberwolves Cyclones vs Golden Hawks Blaze
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Golden Hawks Blaze\nArrive 15
+  mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0c8ca6dd-244c-4639-a15f-573a37569eec
+UID:4fd1278d-972e-4860-b882-196fee228840
 SEQUENCE:0
-DTSTAMP:20250615T060818
+DTSTAMP:20250615T065452
 DTSTART:20250628T114500
 DTEND:20250628T123000
 SUMMARY:🏀 U12 Boys: Timberwolves Cyclones vs Maccabi Jaguars
-LOCATION:Waverley Basketball Stadium\, Court 4\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Jaguars\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:72e8a740-d7db-4ca9-a7a7-91c6e8ee96f8
+UID:91220019-1e12-4dde-a36b-595123d998f7
 SEQUENCE:0
-DTSTAMP:20250615T060818
+DTSTAMP:20250615T065452
 DTSTART:20250726T114500
 DTEND:20250726T123000
 SUMMARY:🏀 U12 Boys: Timberwolves Cyclones vs Maccabi Hawks
-LOCATION:Oakleigh Recreation Centre\, Court 5\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Hawks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fdd4276f-50a8-4e78-90ec-c4e2ae37a5fa
+UID:5fd42a77-f185-41e4-9067-ee1f05e68e4d
 SEQUENCE:0
-DTSTAMP:20250615T060818
+DTSTAMP:20250615T065452
 DTSTART:20250802T123000
 DTEND:20250802T131500
 SUMMARY:🏀 U12 Boys: Timberwolves Cyclones vs Glen Iris Scorpions Nettle
  ton
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Glen Iris Scorpions Nettleton
+ \nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:35248620-3d8d-40d4-94af-a139d5e50651
+UID:f2b1cc9a-4644-4252-977b-7de4fd3753cd
 SEQUENCE:0
-DTSTAMP:20250615T060818
+DTSTAMP:20250615T065452
 DTSTART:20250809T123000
 DTEND:20250809T131500
 SUMMARY:🏀 U12 Boys: Timberwolves Cyclones vs Glen Iris Scorpions Raven
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e0080649-228b-404e-8c47-4afa2ca9826d
+UID:e06e5099-995b-446f-9f8a-851b684b2368
 SEQUENCE:0
-DTSTAMP:20250615T060818
+DTSTAMP:20250615T065452
 DTSTART:20250816T123000
 DTEND:20250816T131500
 SUMMARY:🏀 U12 Boys: Timberwolves Cyclones vs Ardrie Park Piranhas
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ardrie
+  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:85d13512-703c-4c65-9405-394246062cf0
+UID:7b310760-1a1d-464f-a605-3e8784bc4c35
 SEQUENCE:0
-DTSTAMP:20250615T060818
+DTSTAMP:20250615T065452
 DTSTART:20250823T114500
 DTEND:20250823T123000
 SUMMARY:🏀 U12 Boys: Timberwolves Cyclones vs Ashy Lightning Yellow
-LOCATION:Oakleigh Recreation Centre\, Court 5\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
+ ghtning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

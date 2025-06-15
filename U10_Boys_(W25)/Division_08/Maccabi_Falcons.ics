@@ -6,79 +6,95 @@ X-WR-CALNAME:Maccabi Falcons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:419b8eea-bd7f-409a-aa26-348bb0ebd245
+UID:14239e15-2a62-46c1-bf98-e8830e75b0aa
 SEQUENCE:0
-DTSTAMP:20250615T060718
+DTSTAMP:20250615T065355
 DTSTART:20250621T084500
 DTEND:20250621T093000
 SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Toorak Thunderbolts
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Thunderbolts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9131648d-e14b-45d1-86cf-35d281e08a70
+UID:44d406cf-e9fa-4fe0-88b1-c0a98bdbbe13
 SEQUENCE:0
-DTSTAMP:20250615T060718
+DTSTAMP:20250615T065355
 DTSTART:20250628T080000
 DTEND:20250628T084500
 SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Phoenix Park Piranhas
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Phoeni
+ x Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c69b2581-b6e1-4333-9e06-88c2fc15ed14
+UID:5bd0915e-770b-4779-8ac2-40709b098aab
 SEQUENCE:0
-DTSTAMP:20250615T060718
+DTSTAMP:20250615T065355
 DTSTART:20250726T084500
 DTEND:20250726T093000
 SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Timberwolves Legends
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Legends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f0e851aa-84a8-4849-b9cb-79c2021a2ee7
+UID:204e5aeb-7abd-47b9-8a90-16356d174861
 SEQUENCE:0
-DTSTAMP:20250615T060718
+DTSTAMP:20250615T065355
 DTSTART:20250802T110000
 DTEND:20250802T114500
 SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Comets Snake
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Comets Snake\nArrive 15 mins 
+ early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0cb0deb9-d7c7-4cb2-a7b1-404a4cec7fa2
+UID:501c65b7-e4ba-4481-8805-1133054c5818
 SEQUENCE:0
-DTSTAMP:20250615T060718
+DTSTAMP:20250615T065355
 DTSTART:20250809T084500
 DTEND:20250809T093000
 SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Timberwolves Lightning
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:317cf183-4fb3-4076-92fa-f2dcd8e038e6
+UID:82d4643f-97d4-4404-8aa8-c462bc9d41bd
 SEQUENCE:0
-DTSTAMP:20250615T060718
+DTSTAMP:20250615T065355
 DTSTART:20250816T110000
 DTEND:20250816T114500
 SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Timberwolves Bucks
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Bucks\nArrive 15
+  mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f96604a4-5df4-409e-ae54-b874a0de55ad
+UID:999f3831-049e-4a38-9f9c-efa8638ecdbb
 SEQUENCE:0
-DTSTAMP:20250615T060718
+DTSTAMP:20250615T065355
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Glen Iris Scorpions Raven
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Glen Iris Scorpions Raven\nAr
+ rive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ad05773b-8384-445f-b976-251873e4517d
+UID:ba88744a-0f4b-4e56-8cd5-197cb2b88104
 SEQUENCE:0
-DTSTAMP:20250615T060718
+DTSTAMP:20250615T065355
 DTSTART:20250830T110000
 DTEND:20250830T114500
 SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Toorak Thunderbolts
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Toorak Thunderbolts\nArrive 1
+ 5 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,73 +6,84 @@ X-WR-CALNAME:Toorak Thunder Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f5483ec2-5b6b-4a39-ba18-59c9db89b48b
+UID:b0539405-1c1e-4067-b27f-4b6d0e4d184e
 SEQUENCE:0
-DTSTAMP:20250615T060814
+DTSTAMP:20250615T065448
 DTSTART:20250621T114500
 DTEND:20250621T123000
 SUMMARY:🏀 U12 Boys: Toorak Thunder vs Toorak Trouble
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Trouble\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b45ba381-6928-4423-9759-8743ab76bc50
+UID:f44d5847-6d20-41b2-a817-2a2111ac27bf
 SEQUENCE:0
-DTSTAMP:20250615T060814
+DTSTAMP:20250615T065448
 DTSTART:20250726T114500
 DTEND:20250726T123000
 SUMMARY:🏀 U12 Boys: Toorak Thunder vs Comets Tigers
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
+  Tigers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e94c3e58-704a-451d-9650-7f4f15420a6b
+UID:f14ee58a-94cc-466f-acbd-80c3b79ef431
 SEQUENCE:0
-DTSTAMP:20250615T060814
+DTSTAMP:20250615T065448
 DTSTART:20250802T114500
 DTEND:20250802T123000
 SUMMARY:🏀 U12 Boys: Toorak Thunder vs Solway Panthers
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Panthers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3b01eda0-75c2-44a0-adda-42722a575f69
+UID:b8f397aa-26b1-4dc4-b9e1-c75498887913
 SEQUENCE:0
-DTSTAMP:20250615T060814
+DTSTAMP:20250615T065448
 DTSTART:20250809T131500
 DTEND:20250809T140000
 SUMMARY:🏀 U12 Boys: Toorak Thunder vs Malvern Tigers Grey
-LOCATION:Oakleigh Recreation Centre\, Court 2\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d8e9b39f-5b7b-43c5-a758-b8800874342a
+UID:94db7877-62de-480f-a8fb-b99d21e2c9af
 SEQUENCE:0
-DTSTAMP:20250615T060814
+DTSTAMP:20250615T065448
 DTSTART:20250816T114500
 DTEND:20250816T123000
 SUMMARY:🏀 U12 Boys: Toorak Thunder vs Stonnington Piranhas
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Stonni
+ ngton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0ead34cd-8188-4e56-a3e2-428406bbd5c4
+UID:fe945668-c820-4a4e-ab6f-bd8b1ef5fcf0
 SEQUENCE:0
-DTSTAMP:20250615T060814
+DTSTAMP:20250615T065448
 DTSTART:20250823T123000
 DTEND:20250823T131500
 SUMMARY:🏀 U12 Boys: Toorak Thunder vs Comets Cyclones
-LOCATION:Oakleigh Recreation Centre\, Court 4\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Comets 
+ Cyclones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ed649366-9b45-4e73-b395-3fbb7b69a95c
+UID:015128d0-e130-4a09-9001-48dcc55e4f81
 SEQUENCE:0
-DTSTAMP:20250615T060814
+DTSTAMP:20250615T065448
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U12 Boys: Toorak Thunder vs Toorak Trouble
-LOCATION:Oakleigh Recreation Centre\, Court 2\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Trouble\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

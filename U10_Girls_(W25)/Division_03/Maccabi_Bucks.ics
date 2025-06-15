@@ -6,73 +6,82 @@ X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:94d90242-3547-4c00-af12-c4ee7b5f7657
+UID:e7f31b9c-4a8e-464a-a750-d05c6a3a9456
 SEQUENCE:0
-DTSTAMP:20250615T060738
+DTSTAMP:20250615T065414
 DTSTART:20250621T123000
 DTEND:20250621T131500
 SUMMARY:🏀 U10 Girls: Maccabi Bucks vs AlphaWolf Sparks
-LOCATION:Lauriston Girls School\, Court 2\n38 Huntingtower Rd\, Armadale V
- IC 3143
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: AlphaWolf S
+ parks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a2a68104-8195-471b-b5fd-3bf1377dfd66
+UID:a8eb6ca4-4e4a-485d-a194-206d56f81a38
 SEQUENCE:0
-DTSTAMP:20250615T060738
+DTSTAMP:20250615T065414
 DTSTART:20250628T123000
 DTEND:20250628T131500
 SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Malvern Tigers White
-LOCATION:Lauriston Girls School\, Court 1\n38 Huntingtower Rd\, Armadale V
- IC 3143
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4fe8cf86-9210-4210-88f9-0bad2a4b16d8
+UID:ee89fdd4-7382-48be-82d1-9a4f7096b790
 SEQUENCE:0
-DTSTAMP:20250615T060738
+DTSTAMP:20250615T065414
 DTSTART:20250726T123000
 DTEND:20250726T131500
 SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Solway Mistrals
-LOCATION:Lauriston Girls School\, Court 1\n38 Huntingtower Rd\, Armadale V
- IC 3143
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Mist
+ rals\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b9978461-7dbd-40e8-9a9e-87c2e999b8a0
+UID:5f36ad58-7abf-4ff7-ba9a-1cedaee3624b
 SEQUENCE:0
-DTSTAMP:20250615T060738
+DTSTAMP:20250615T065414
 DTSTART:20250809T123000
 DTEND:20250809T131500
 SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Malvern Tigers Blue
-LOCATION:Lauriston Girls School\, Court 2\n38 Huntingtower Rd\, Armadale V
- IC 3143
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a394683c-7fbd-4c02-92c4-fc2ddbaa2ab1
+UID:82fe0a9a-0821-4207-987d-a9cffd54a531
 SEQUENCE:0
-DTSTAMP:20250615T060738
+DTSTAMP:20250615T065414
 DTSTART:20250816T110000
 DTEND:20250816T114500
 SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Glen Iris Scorpions Ferndale
-LOCATION:Waverley Basketball Stadium\, Court 5\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
+ ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:48779c5c-b6bf-4e24-b0e8-f0781a7c7ffa
+UID:2cf24874-2474-4f4b-961c-43cda292062d
 SEQUENCE:0
-DTSTAMP:20250615T060738
+DTSTAMP:20250615T065414
 DTSTART:20250823T123000
 DTEND:20250823T131500
 SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Dairy Park Piranhas
-LOCATION:Lauriston Girls School\, Court 1\n38 Huntingtower Rd\, Armadale V
- IC 3143
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Dairy Park 
+ Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7f6130d1-5a07-42fb-a3b9-e8a2210df057
+UID:a086ad80-51d0-4cea-b59c-3769da47bb45
 SEQUENCE:0
-DTSTAMP:20250615T060738
+DTSTAMP:20250615T065414
 DTSTART:20250830T110000
 DTEND:20250830T114500
 SUMMARY:🏀 U10 Girls: Maccabi Bucks vs AlphaWolf Sparks
-LOCATION:Waverley Basketball Stadium\, Court 5\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AlphaW
+ olf Sparks\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,81 +6,94 @@ X-WR-CALNAME:Malvern Tigers Aqua Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:5434901c-0a91-43c4-887d-9f4d1249feac
+UID:21eadf8f-cced-4d0f-b3df-49644c4f0aab
 SEQUENCE:0
-DTSTAMP:20250615T060820
+DTSTAMP:20250615T065454
 DTSTART:20250621T123000
 DTEND:20250621T131500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Malvern Tigers Lime
-LOCATION:Waverley Basketball Stadium\, Court 4\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Lime\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7ce2043f-8165-406b-a0d1-8afab7e71109
+UID:6f5124e3-d795-41b9-aefd-34c5ef0f3cb9
 SEQUENCE:0
-DTSTAMP:20250615T060820
+DTSTAMP:20250615T065454
 DTSTART:20250628T114500
 DTEND:20250628T123000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Balaclava Piranhas
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Balaclava Piranhas\nArrive 15
+  mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:72292c61-cc9e-4375-95a4-17e9d84ff1bc
+UID:41df13aa-b566-4d0c-b140-3cc107059d69
 SEQUENCE:0
-DTSTAMP:20250615T060820
+DTSTAMP:20250615T065454
 DTSTART:20250726T144500
 DTEND:20250726T153000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Wilson Piranhas
-LOCATION:Oakleigh Recreation Centre\, Court 5\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Wilson 
+ Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:80c96f42-b1af-46d9-8859-8624214d6b3b
+UID:7db1a983-b4bb-432a-8449-6f24fdbbb583
 SEQUENCE:0
-DTSTAMP:20250615T060820
+DTSTAMP:20250615T065454
 DTSTART:20250802T114500
 DTEND:20250802T123000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Solway Dingoes
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Dingoes\nArrive 15 min
+ s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:255f9e98-330c-4b7f-aa57-18e9ae1fcf9e
+UID:aba37935-c58c-4253-a9f0-fe43b23d30ed
 SEQUENCE:0
-DTSTAMP:20250615T060820
+DTSTAMP:20250615T065454
 DTSTART:20250809T123000
 DTEND:20250809T131500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Maccabi Kings
-LOCATION:Waverley Basketball Stadium\, Court 4\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Kings\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:97e409ec-84cf-497c-a32e-c82317915617
+UID:466a6f5a-6718-446c-84a2-064c9314f030
 SEQUENCE:0
-DTSTAMP:20250615T060820
+DTSTAMP:20250615T065454
 DTSTART:20250816T123000
 DTEND:20250816T131500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Timberwolves Cavs
-LOCATION:Waverley Basketball Stadium\, Court 4\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+ wolves Cavs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c164964a-7a41-48df-aade-469542e042c5
+UID:a54aeb8d-67d1-4c13-ab44-cffa58d1e69f
 SEQUENCE:0
-DTSTAMP:20250615T060820
+DTSTAMP:20250615T065454
 DTSTART:20250823T114500
 DTEND:20250823T123000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Timberwolves Fury
-LOCATION:Oakleigh Recreation Centre\, Court 2\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Fury\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e4cd1f3e-2065-4760-ac1f-8d0cec07852f
+UID:2318b3f5-77cb-423e-abe0-8d48626486c6
 SEQUENCE:0
-DTSTAMP:20250615T060820
+DTSTAMP:20250615T065454
 DTSTART:20250830T123000
 DTEND:20250830T131500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Solway Crocodiles
-LOCATION:Oakleigh Recreation Centre\, Court 5\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Crocodiles\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

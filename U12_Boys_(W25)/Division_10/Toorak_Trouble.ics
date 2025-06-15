@@ -6,73 +6,83 @@ X-WR-CALNAME:Toorak Trouble Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:930b9385-5900-47ea-a089-96fb1c21c1f0
+UID:41a17b81-e557-49c6-b948-3dfb528fae30
 SEQUENCE:0
-DTSTAMP:20250615T060814
+DTSTAMP:20250615T065449
 DTSTART:20250621T114500
 DTEND:20250621T123000
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Toorak Thunder
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7318cda9-7622-44d3-a168-018eec198351
+UID:b70bcc68-ba89-4911-bbc4-eb8b6930ceb5
 SEQUENCE:0
-DTSTAMP:20250615T060814
+DTSTAMP:20250615T065449
 DTSTART:20250628T123000
 DTEND:20250628T131500
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Comets Cyclones
-LOCATION:Oakleigh Recreation Centre\, Court 4\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Comets 
+ Cyclones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c4ed2807-c784-48c3-9c64-5be729a66df0
+UID:6ea1843f-c0bf-43e9-934b-bb79847537ea
 SEQUENCE:0
-DTSTAMP:20250615T060814
+DTSTAMP:20250615T065449
 DTSTART:20250726T123000
 DTEND:20250726T131500
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Stonnington Piranhas
-LOCATION:Oakleigh Recreation Centre\, Court 4\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Stonnin
+ gton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:91582ac8-b3b3-4061-b9e2-5ec0315c0c2b
+UID:14ad3296-5ab7-4224-9961-6fd2e98317c9
 SEQUENCE:0
-DTSTAMP:20250615T060814
+DTSTAMP:20250615T065449
 DTSTART:20250802T131500
 DTEND:20250802T140000
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Malvern Tigers Grey
-LOCATION:Oakleigh Recreation Centre\, Court 2\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:654249d8-59d4-4628-902a-02b91565ca0c
+UID:75f0d48f-aec0-4e22-9c84-1674eb0c7bc0
 SEQUENCE:0
-DTSTAMP:20250615T060814
+DTSTAMP:20250615T065449
 DTSTART:20250809T114500
 DTEND:20250809T123000
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Comets Tigers
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
+  Tigers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b26c57b4-a5e4-4381-9349-41406dc13b57
+UID:1ee2abc9-96d8-48d7-96e8-a0a5f58714c3
 SEQUENCE:0
-DTSTAMP:20250615T060814
+DTSTAMP:20250615T065449
 DTSTART:20250823T114500
 DTEND:20250823T123000
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Solway Panthers
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Panthers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:15eb6e54-b490-4de1-aba6-4220f54b8e59
+UID:f8ebafd9-02a2-4fad-8b5c-119334928dd9
 SEQUENCE:0
-DTSTAMP:20250615T060814
+DTSTAMP:20250615T065449
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Toorak Thunder
-LOCATION:Oakleigh Recreation Centre\, Court 2\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

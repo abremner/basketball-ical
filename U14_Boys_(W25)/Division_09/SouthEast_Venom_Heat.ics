@@ -6,71 +6,84 @@ X-WR-CALNAME:SouthEast Venom Heat Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:a3d2bbb6-2e07-4e23-ab3b-b098b560701f
+UID:97818922-b739-4393-b5a9-038ed74cf510
 SEQUENCE:0
-DTSTAMP:20250615T060912
+DTSTAMP:20250615T065544
 DTSTART:20250621T144500
 DTEND:20250621T153000
 SUMMARY:🏀 U14 Boys: SouthEast Venom Heat vs Maccabi Eagles
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Eagles\nArrive 15 min
+ s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1cfd2aa6-872a-4a25-8c4c-73cc1065bd9b
+UID:578bcc87-dac8-443b-934f-bdd724bf1eb8
 SEQUENCE:0
-DTSTAMP:20250615T060912
+DTSTAMP:20250615T065544
 DTSTART:20250628T153000
 DTEND:20250628T161500
 SUMMARY:🏀 U14 Boys: SouthEast Venom Heat vs Maccabi Falcons
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2e1d5769-517c-41f4-9d1a-5968d9ca3979
+UID:26626413-38c0-4deb-b248-f1c99ea6cc47
 SEQUENCE:0
-DTSTAMP:20250615T060912
+DTSTAMP:20250615T065544
 DTSTART:20250726T153000
 DTEND:20250726T161500
 SUMMARY:🏀 U14 Boys: SouthEast Venom Heat vs Maccabi Giants
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Giants\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:19722a05-89e4-4508-987b-ef4eb2c12875
+UID:c2258e93-bba9-4457-b4d8-4cfacf4d644e
 SEQUENCE:0
-DTSTAMP:20250615T060912
+DTSTAMP:20250615T065544
 DTSTART:20250809T153000
 DTEND:20250809T161500
 SUMMARY:🏀 U14 Boys: SouthEast Venom Heat vs Solway Spartans
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Spartans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a2d24de1-403a-4496-b44d-5b65843119fe
+UID:c29c4fda-b319-4f0c-8d70-82cfc058c937
 SEQUENCE:0
-DTSTAMP:20250615T060912
+DTSTAMP:20250615T065544
 DTSTART:20250816T144500
 DTEND:20250816T153000
 SUMMARY:🏀 U14 Boys: SouthEast Venom Heat vs Timberwolves Raptors
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Raptors\nArrive 
+ 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f5807235-0c63-4cf0-9b9d-b73b03a448fb
+UID:732188c0-d261-4b18-90ee-5ebb5b5b1ae7
 SEQUENCE:0
-DTSTAMP:20250615T060912
+DTSTAMP:20250615T065544
 DTSTART:20250823T153000
 DTEND:20250823T161500
 SUMMARY:🏀 U14 Boys: SouthEast Venom Heat vs Malvern Tigers Maroon
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Maroon\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a9b112e5-eda1-4945-bd9c-d805de8654c9
+UID:4c2ec7dc-fa51-47d2-b57e-561ff82f1afc
 SEQUENCE:0
-DTSTAMP:20250615T060912
+DTSTAMP:20250615T065544
 DTSTART:20250830T153000
 DTEND:20250830T161500
 SUMMARY:🏀 U14 Boys: SouthEast Venom Heat vs Ashy Lightning White
-LOCATION:Oakleigh Recreation Centre\, Court 5\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
+ ghtning White\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

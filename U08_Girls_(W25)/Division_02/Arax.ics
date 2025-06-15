@@ -6,73 +6,80 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:3ded5d9e-1891-454f-8653-1102bf54f9e2
+UID:c3ff8512-2f88-49a5-b396-a1ea1b475adf
 SEQUENCE:0
-DTSTAMP:20250615T060647
+DTSTAMP:20250615T065326
 DTSTART:20250621T080000
 DTEND:20250621T084500
 SUMMARY:🏀 U08 Girls: Arax vs Warley Piranhas
-LOCATION:Oakleigh Recreation Centre\, Court 3\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Warley 
+ Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:92910b22-5c3b-466c-be73-e654650ffecc
+UID:99c66b16-a36d-4c2e-898a-357ccd623c04
 SEQUENCE:0
-DTSTAMP:20250615T060647
+DTSTAMP:20250615T065326
 DTSTART:20250628T080000
 DTEND:20250628T084500
 SUMMARY:🏀 U08 Girls: Arax vs Malvern Tigers Wallace
-LOCATION:Oakleigh Recreation Centre\, Court 3\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Wallace\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0a899d97-f500-4424-ba75-7314af66cb18
+UID:9c9719eb-bbd9-4a68-82b1-65c69e718333
 SEQUENCE:0
-DTSTAMP:20250615T060647
+DTSTAMP:20250615T065326
 DTSTART:20250726T080000
 DTEND:20250726T084500
 SUMMARY:🏀 U08 Girls: Arax vs Malvern Tigers Atwell
-LOCATION:Oakleigh Recreation Centre\, Court 3\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Atwell\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8d1eeb3e-2d34-484b-9764-6e62780cef2d
+UID:661fa4c9-5aa0-4890-baa9-1ac5ad0492f8
 SEQUENCE:0
-DTSTAMP:20250615T060647
+DTSTAMP:20250615T065326
 DTSTART:20250802T080000
 DTEND:20250802T084500
 SUMMARY:🏀 U08 Girls: Arax vs Glen Iris Scorpions Ferndale
-LOCATION:Oakleigh Recreation Centre\, Court 3\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
+ is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:acdcd829-369d-425a-a043-78f9c2154475
+UID:4b6f79ed-031b-4d32-8d06-4604cc78d478
 SEQUENCE:0
-DTSTAMP:20250615T060647
+DTSTAMP:20250615T065326
 DTSTART:20250809T080000
 DTEND:20250809T084500
 SUMMARY:🏀 U08 Girls: Arax vs Solway Comets
-LOCATION:Oakleigh Recreation Centre\, Court 3\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Comets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a241b3bb-876b-4c6c-ab4b-bb8362fda429
+UID:935a4cee-de3a-4568-b846-2d4026b98d7a
 SEQUENCE:0
-DTSTAMP:20250615T060647
+DTSTAMP:20250615T065326
 DTSTART:20250816T080000
 DTEND:20250816T084500
 SUMMARY:🏀 U08 Girls: Arax vs Solway Stars
-LOCATION:Oakleigh Recreation Centre\, Court 3\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Stars\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a0fbd6df-b533-47e3-870c-012a52749456
+UID:e5346840-954c-47a4-ba01-80306e04b355
 SEQUENCE:0
-DTSTAMP:20250615T060647
+DTSTAMP:20250615T065326
 DTSTART:20250830T080000
 DTEND:20250830T084500
 SUMMARY:🏀 U08 Girls: Arax vs Warley Piranhas
-LOCATION:Oakleigh Recreation Centre\, Court 3\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Warley 
+ Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

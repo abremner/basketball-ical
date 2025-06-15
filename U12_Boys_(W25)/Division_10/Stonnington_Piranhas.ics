@@ -6,73 +6,83 @@ X-WR-CALNAME:Stonnington Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:76416f85-cce5-44f6-b6e3-c0a05fc16eb2
+UID:4cba20dd-9315-4260-9abe-50aa57730fb1
 SEQUENCE:0
-DTSTAMP:20250615T060813
+DTSTAMP:20250615T065448
 DTSTART:20250621T131500
 DTEND:20250621T140000
 SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Comets Cyclones
-LOCATION:Oakleigh Recreation Centre\, Court 2\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Comets 
+ Cyclones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:04e9a0cf-bdf7-44dd-a042-dcc52afaaf09
+UID:79241b28-9ab3-4a10-9402-705cb31f7b1b
 SEQUENCE:0
-DTSTAMP:20250615T060813
+DTSTAMP:20250615T065448
 DTSTART:20250628T114500
 DTEND:20250628T123000
 SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Solway Panthers
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Panthers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:de2641a0-6366-47b7-a03b-6fda8f90ed3a
+UID:65604705-52ee-4f77-8d23-a0b1746affd3
 SEQUENCE:0
-DTSTAMP:20250615T060813
+DTSTAMP:20250615T065448
 DTSTART:20250726T123000
 DTEND:20250726T131500
 SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Toorak Trouble
-LOCATION:Oakleigh Recreation Centre\, Court 4\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
+ Trouble\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:46ea4ef5-5ee3-45c9-a417-1fa6ab088531
+UID:23a741df-efa9-4d1a-a3b1-35896393596a
 SEQUENCE:0
-DTSTAMP:20250615T060813
+DTSTAMP:20250615T065448
 DTSTART:20250802T123000
 DTEND:20250802T131500
 SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Comets Tigers
-LOCATION:Oakleigh Recreation Centre\, Court 4\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Comets 
+ Tigers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:61e09e47-a2a1-41a8-aaee-bf87db7d0d33
+UID:6edf04c4-5397-410e-a4eb-e7e4258f9feb
 SEQUENCE:0
-DTSTAMP:20250615T060813
+DTSTAMP:20250615T065448
 DTSTART:20250816T114500
 DTEND:20250816T123000
 SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Toorak Thunder
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3db182bc-77a9-4b86-8b09-424f07b4c0e0
+UID:e9f467a9-2066-4bf4-91d2-f3b43876497a
 SEQUENCE:0
-DTSTAMP:20250615T060813
+DTSTAMP:20250615T065448
 DTSTART:20250823T131500
 DTEND:20250823T140000
 SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Malvern Tigers Grey
-LOCATION:Oakleigh Recreation Centre\, Court 2\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dd2c89e4-71da-4401-9331-9d5c0d8e5716
+UID:22dbac07-520b-4bdd-918f-ee9021f4e2d3
 SEQUENCE:0
-DTSTAMP:20250615T060813
+DTSTAMP:20250615T065448
 DTSTART:20250830T114500
 DTEND:20250830T123000
 SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Comets Cyclones
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
+  Cyclones\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

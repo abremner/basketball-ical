@@ -6,83 +6,93 @@ X-WR-CALNAME:Toorak Tornadoes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:15144077-77df-4a41-bf15-d401de573ccc
+UID:fd5c9f58-5d97-4a75-854d-63024135143b
 SEQUENCE:0
-DTSTAMP:20250615T060946
+DTSTAMP:20250615T065615
 DTSTART:20250621T191500
 DTEND:20250621T200000
 SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Ripponlea Piranhas
-LOCATION:Oakleigh Recreation Centre\, Court 3\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ripponl
+ ea Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ae8aa86f-ff3f-48d7-b62b-756469a65eea
+UID:5337eba7-9d41-4384-95e5-9a7d8a169a26
 SEQUENCE:0
-DTSTAMP:20250615T060946
+DTSTAMP:20250615T065615
 DTSTART:20250628T183000
 DTEND:20250628T191500
 SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Toorak Terminators
-LOCATION:Oakleigh Recreation Centre\, Court 1\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Terminators\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:318bd6e0-b90f-40a6-970e-4e3ce4184b54
+UID:e0eb7e99-8d71-4a0d-8a13-1f87251c1a7d
 SEQUENCE:0
-DTSTAMP:20250615T060946
+DTSTAMP:20250615T065615
 DTSTART:20250726T191500
 DTEND:20250726T200000
 SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Solway Super Sonics
-LOCATION:Oakleigh Recreation Centre\, Court 1\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Super Sonics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e57534b6-d0b4-4170-a62e-f4f6b8ad7375
+UID:77442429-0373-435b-a478-f58bc4cf0de5
 SEQUENCE:0
-DTSTAMP:20250615T060946
+DTSTAMP:20250615T065615
 DTSTART:20250802T183000
 DTEND:20250802T191500
 SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Maccabi Warriors
-LOCATION:Waverley Basketball Stadium\, Court 5\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2cdd9b75-e0ab-4618-9360-2db9b3d121fd
+UID:8f13221b-be13-4703-bc60-24109637a637
 SEQUENCE:0
-DTSTAMP:20250615T060946
+DTSTAMP:20250615T065615
 DTSTART:20250809T191500
 DTEND:20250809T200000
 SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Timberwolves Magnum
-LOCATION:Oakleigh Recreation Centre\, Court 1\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Magnum\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f1d21c52-2557-4485-8491-ca9d02722153
+UID:ac89df15-7e0d-490a-b41c-0c25cbda6612
 SEQUENCE:0
-DTSTAMP:20250615T060946
+DTSTAMP:20250615T065615
 DTSTART:20250816T191500
 DTEND:20250816T200000
 SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Serrell Park Piranhas
-LOCATION:Oakleigh Recreation Centre\, Court 3\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Serrell
+  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7582f339-c24f-4d60-9a90-78470127d5e6
+UID:abfaa30f-ffe0-4217-abfd-5d6b6e5ba76c
 SEQUENCE:0
-DTSTAMP:20250615T060946
+DTSTAMP:20250615T065615
 DTSTART:20250823T183000
 DTEND:20250823T191500
 SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Timberwolves Boulders
-LOCATION:Waverley Basketball Stadium\, Court 5\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Boulders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3ea120a1-3fc5-47dd-be2d-a45f549232f8
+UID:5073e08e-22b4-4500-99bd-5f92d2c48089
 SEQUENCE:0
-DTSTAMP:20250615T060946
+DTSTAMP:20250615T065615
 DTSTART:20250830T183000
 DTEND:20250830T191500
 SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Ripponlea Piranhas
-LOCATION:Oakleigh Recreation Centre\, Court 1\n2A Park Rd\, Oakleigh VIC 3
- 166
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ripponl
+ ea Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

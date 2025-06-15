@@ -6,70 +6,84 @@ X-WR-CALNAME:Prahran Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d62a85de-af2b-4d07-898a-f0b58e398f1e
+UID:c51d4557-1c6e-4513-8cd7-4496e26c56c3
 SEQUENCE:0
-DTSTAMP:20250615T060907
+DTSTAMP:20250615T065539
 DTSTART:20250621T153000
 DTEND:20250621T161500
 SUMMARY:🏀 U14 Boys: Prahran Piranhas vs Toorak Tractors
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Toorak Tractors\nArrive 15 mi
+ ns early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a2bdbfa5-dc15-44d0-b0f2-51759c66c8c6
+UID:745ca1a2-25c3-441f-8f95-48f2c93e5121
 SEQUENCE:0
-DTSTAMP:20250615T060907
+DTSTAMP:20250615T065539
 DTSTART:20250628T131500
 DTEND:20250628T140000
 SUMMARY:🏀 U14 Boys: Prahran Piranhas vs Comets Sharks
-LOCATION:Waverley Basketball Stadium\, Court 6\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Comets
+  Sharks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:14793597-8cc8-480e-8962-3c061b66e117
+UID:3b8878fc-5219-49e0-916c-502f20d3d322
 SEQUENCE:0
-DTSTAMP:20250615T060907
+DTSTAMP:20250615T065539
 DTSTART:20250726T161500
 DTEND:20250726T170000
 SUMMARY:🏀 U14 Boys: Prahran Piranhas vs Malvern Tigers Purple
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Purple\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6c337f7b-2ccb-4de0-817a-d24873b71c55
+UID:14cce919-c38d-4884-bf9a-1827015f82c1
 SEQUENCE:0
-DTSTAMP:20250615T060907
+DTSTAMP:20250615T065539
 DTSTART:20250802T153000
 DTEND:20250802T161500
 SUMMARY:🏀 U14 Boys: Prahran Piranhas vs Solway Mavericks
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Mavericks\nArrive 15 m
+ ins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2659f915-89b6-4740-a6be-0322a64bfdab
+UID:50ed8bf4-0495-46cf-9173-661a48c9fae0
 SEQUENCE:0
-DTSTAMP:20250615T060907
+DTSTAMP:20250615T065539
 DTSTART:20250809T131500
 DTEND:20250809T140000
 SUMMARY:🏀 U14 Boys: Prahran Piranhas vs Arax
-LOCATION:Waverley Basketball Stadium\, Court 6\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c1043c7b-a69d-4898-8950-4e9182f403cc
+UID:3912898b-128a-4012-aba7-6bb6898e334a
 SEQUENCE:0
-DTSTAMP:20250615T060907
+DTSTAMP:20250615T065539
 DTSTART:20250816T161500
 DTEND:20250816T170000
 SUMMARY:🏀 U14 Boys: Prahran Piranhas vs Solway Ninjas
-LOCATION:Waverley Basketball Stadium\, Court 3\nWaverley Basketball Stadiu
- m\, Chadstone VIC 3148
+LOCATION:Waverley Basketball Stadium\nWaverley Basketball Association\, Ch
+ adstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Ninjas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:be4fb2fa-a77e-4690-b2d4-4971149896c3
+UID:3aa70527-d898-4475-9c04-724472d959d4
 SEQUENCE:0
-DTSTAMP:20250615T060907
+DTSTAMP:20250615T065539
 DTSTART:20250830T153000
 DTEND:20250830T161500
 SUMMARY:🏀 U14 Boys: Prahran Piranhas vs Toorak Tractors
 LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Toorak Tractors\nArrive 15 mi
+ ns early for warm-up
 END:VEVENT
 END:VCALENDAR
