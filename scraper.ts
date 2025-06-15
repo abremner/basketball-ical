@@ -28,8 +28,8 @@ interface FixtureMeta {
   team: string;
 }
 
-const venueLookup: Record<string, { name: string; address: string }> = {
-  WAV: { name: 'Waverley Basketball Stadium', address: 'Batesford Rd, Chadstone VIC 3148' },
+const venueLookup: Record<string, { name: string; address?: string; lat?: string; lon?: string }> = {
+  WAV: { name: 'Waverley Basketball Stadium', lat: '-37.8769973', lon: '145.0992765' },
   LGS: { name: 'Lauriston Girls School', address: '38 Huntingtower Rd, Armadale VIC 3143' },
   ORC: { name: 'Oakleigh Recreation Centre', address: '2A Park Rd, Oakleigh VIC 3166' },
   ORR: { name: 'Orrong-Romanis Recreation Centre', address: '2 Molesworth St, Prahran VIC 3181' },
@@ -175,8 +175,9 @@ async function getFixtures(
       summary: `🏀 ${ageAndGender}: ${team} vs ${opponent}`,
       description: `Venue: ${venueInfo ? venueInfo.name : venue}\nCourt: ${court}\nOpponent: ${opponent}\nArrive 15 mins early for warm-up`,
       location: {
-        title: venueInfo ? `${venueInfo.name}` : venue,
-        address: venueInfo ? venueInfo.address : undefined,
+        title: venueInfo ? venueInfo.name : venue,
+        address: venueInfo?.address,
+        geo: venueInfo.lat && venueInfo.lon ? { lat: parseFloat(venueInfo.lat), lon: parseFloat(venueInfo.lon) } : undefined,
       }
     });
   }
