@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Super Sonics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:5a6428c5-88f6-4008-892d-5269fb75d9e7
+UID:3368bf49-5639-4df5-8b69-3fb240302c10
 SEQUENCE:0
-DTSTAMP:20250615T070628
+DTSTAMP:20250615T071447
 DTSTART:20250621T183000
 DTEND:20250621T191500
 SUMMARY:🏀 U16 Boys: Solway Super Sonics vs Serrell Park Piranhas
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Serrell
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:326d63a2-a323-4d75-84e3-90533a0fc7a2
+UID:0a01ac03-4411-4f26-9eb1-0a410d3739c8
 SEQUENCE:0
-DTSTAMP:20250615T070628
+DTSTAMP:20250615T071447
 DTSTART:20250628T191500
 DTEND:20250628T200000
 SUMMARY:🏀 U16 Boys: Solway Super Sonics vs Timberwolves Magnum
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
  olves Magnum\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2eb8ea0b-dffb-48f5-b1fc-1758bf7d329b
+UID:4ef31ad8-71b4-4bae-9482-55403adeb6cd
 SEQUENCE:0
-DTSTAMP:20250615T070628
+DTSTAMP:20250615T071447
 DTSTART:20250726T191500
 DTEND:20250726T200000
 SUMMARY:🏀 U16 Boys: Solway Super Sonics vs Toorak Tornadoes
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Tornadoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e24c8cfa-55a3-455d-b688-bece2b4af654
+UID:ea9f9568-50f7-425a-83a6-82765234e65e
 SEQUENCE:0
-DTSTAMP:20250615T070628
+DTSTAMP:20250615T071447
 DTSTART:20250802T191500
 DTEND:20250802T200000
 SUMMARY:🏀 U16 Boys: Solway Super Sonics vs Toorak Terminators
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak
  Terminators\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c6e92fe1-c6c3-499d-8aee-d8d019b9b6ac
+UID:b7e18ded-d09a-4a5a-b83b-f7255354629a
 SEQUENCE:0
-DTSTAMP:20250615T070628
+DTSTAMP:20250615T071447
 DTSTART:20250809T191500
 DTEND:20250809T200000
 SUMMARY:🏀 U16 Boys: Solway Super Sonics vs Timberwolves Boulders
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
  olves Boulders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ceae43ce-43bf-4a40-a7f6-271e9242760f
+UID:b8f1785e-e8ad-4633-be5d-9804999b8a6b
 SEQUENCE:0
-DTSTAMP:20250615T070628
+DTSTAMP:20250615T071447
 DTSTART:20250816T191500
 DTEND:20250816T200000
 SUMMARY:🏀 U16 Boys: Solway Super Sonics vs Maccabi Warriors
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
   Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6fed9277-0381-4fbb-a297-5411e498c9d5
+UID:51c53714-d16a-48b0-835c-08ac250a1760
 SEQUENCE:0
-DTSTAMP:20250615T070628
+DTSTAMP:20250615T071447
 DTSTART:20250823T191500
 DTEND:20250823T200000
 SUMMARY:🏀 U16 Boys: Solway Super Sonics vs Ripponlea Piranhas
@@ -83,14 +83,13 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ripponl
  ea Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:47d9524a-a1ad-4006-8392-517f754c8091
+UID:8e3bfc03-1e4a-41f1-ad13-5e80e0c1f757
 SEQUENCE:0
-DTSTAMP:20250615T070628
+DTSTAMP:20250615T071447
 DTSTART:20250830T183000
 DTEND:20250830T191500
 SUMMARY:🏀 U16 Boys: Solway Super Sonics vs Serrell Park Piranhas
-LOCATION:Waverley Basketball Stadium\n3148/31A Batesford Rd\, Chadstone VI
- C 3148
+LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Serrel
  l Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT

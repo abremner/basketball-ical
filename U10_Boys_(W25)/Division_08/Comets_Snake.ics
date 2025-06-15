@@ -6,33 +6,31 @@ X-WR-CALNAME:Comets Snake Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d521730d-b16b-40ec-937d-c38ab179c225
+UID:a4fac556-bd21-4c90-a2b3-e5adc430e47a
 SEQUENCE:0
-DTSTAMP:20250615T070407
+DTSTAMP:20250615T071228
 DTSTART:20250621T084500
 DTEND:20250621T093000
 SUMMARY:🏀 U10 Boys: Comets Snake vs Glen Iris Scorpions Raven
-LOCATION:Waverley Basketball Stadium\n3148/31A Batesford Rd\, Chadstone VI
- C 3148
+LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
  ris Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:65828db3-1286-45b9-ba65-2af0f5c0ad62
+UID:ea8b6947-d8dc-41fa-9182-6c9af3155057
 SEQUENCE:0
-DTSTAMP:20250615T070407
+DTSTAMP:20250615T071228
 DTSTART:20250628T084500
 DTEND:20250628T093000
 SUMMARY:🏀 U10 Boys: Comets Snake vs Timberwolves Legends
-LOCATION:Waverley Basketball Stadium\n3148/31A Batesford Rd\, Chadstone VI
- C 3148
+LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Legends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3430a31d-c069-459d-9d49-85db22a0ed73
+UID:90a7c48d-8efe-4e0c-b5a3-61a21abfb348
 SEQUENCE:0
-DTSTAMP:20250615T070407
+DTSTAMP:20250615T071228
 DTSTART:20250726T110000
 DTEND:20250726T114500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Timberwolves Lightning
@@ -41,9 +39,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Lightning\nArriv
  e 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:18eb35a6-42bc-4064-8d75-9fb426c6aff5
+UID:10701cdd-a78d-453a-913c-99c085297f95
 SEQUENCE:0
-DTSTAMP:20250615T070407
+DTSTAMP:20250615T071228
 DTSTART:20250802T110000
 DTEND:20250802T114500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Maccabi Falcons
@@ -52,9 +50,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Falcons\nArrive 15 mi
  ns early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5784394a-6a72-4df2-a9be-6e01399b1e8a
+UID:d1cbd880-db70-43ed-8a2f-a55907c350ec
 SEQUENCE:0
-DTSTAMP:20250615T070407
+DTSTAMP:20250615T071228
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Phoenix Park Piranhas
@@ -63,38 +61,35 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Phoenix Park Piranhas\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:173cc251-8cee-47c6-b484-d7a0c8f9b4ac
+UID:320b09f3-171d-4a0b-9bb3-f082438dbd60
 SEQUENCE:0
-DTSTAMP:20250615T070407
+DTSTAMP:20250615T071228
 DTSTART:20250816T080000
 DTEND:20250816T084500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Toorak Thunderbolts
-LOCATION:Waverley Basketball Stadium\n3148/31A Batesford Rd\, Chadstone VI
- C 3148
+LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Thunderbolts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:68c00d72-06cd-4a4c-b6f1-ccb10598e342
+UID:1a87782c-443c-4198-99ce-dc794ed0c974
 SEQUENCE:0
-DTSTAMP:20250615T070407
+DTSTAMP:20250615T071228
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U10 Boys: Comets Snake vs Timberwolves Bucks
-LOCATION:Waverley Basketball Stadium\n3148/31A Batesford Rd\, Chadstone VI
- C 3148
+LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:66771333-96df-46cc-afae-faf4cbeb6315
+UID:11d2c981-6780-42be-acc3-5d88b9d13f1e
 SEQUENCE:0
-DTSTAMP:20250615T070407
+DTSTAMP:20250615T071228
 DTSTART:20250830T080000
 DTEND:20250830T084500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Glen Iris Scorpions Raven
-LOCATION:Waverley Basketball Stadium\n3148/31A Batesford Rd\, Chadstone VI
- C 3148
+LOCATION:Waverley Basketball Stadium\nBatesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
