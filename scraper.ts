@@ -27,8 +27,16 @@ interface FixtureMeta {
   division: string;
   team: string;
 }
+type Venue = {
+  name: string;
+  address?: string;
+  lat?: string;
+  lon?: string;
+}
 
-const venueLookup: Record<string, { name: string; address?: string; lat?: string; lon?: string }> = {
+type VenueInfo = Record<string, Venue>
+
+const venueLookup: VenueInfo = {
   WAV: { name: 'Waverley Basketball Stadium', lat: '-37.8769973', lon: '145.0992765' },
   LGS: { name: 'Lauriston Girls School', address: '38 Huntingtower Rd, Armadale VIC 3143' },
   ORC: { name: 'Oakleigh Recreation Centre', address: '2A Park Rd, Oakleigh VIC 3166' },
@@ -167,7 +175,7 @@ async function getFixtures(
     const ageAndGender = seasonDir.match(/^[^(]+/)?.[0].trim() || '';
     const venueCode = venue.slice(0, 3);
     const court = venue.slice(3);
-    const venueInfo = venueLookup[venueCode];
+    const venueInfo: Venue | undefined = venueLookup[venueCode];
 
     calendar.createEvent({
       start: dt,
@@ -177,7 +185,7 @@ async function getFixtures(
       location: {
         title: venueInfo ? venueInfo.name : venue,
         address: venueInfo?.address,
-        geo: venueInfo.lat && venueInfo.lon ? { lat: parseFloat(venueInfo.lat), lon: parseFloat(venueInfo.lon) } : undefined,
+        geo: venueInfo?.lat && venueInfo?.lon ? { lat: parseFloat(venueInfo.lat), lon: parseFloat(venueInfo.lon) } : undefined,
       }
     });
   }
