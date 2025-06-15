@@ -35,7 +35,7 @@ type Venue = {
 type VenueInfo = Record<string, Venue>
 
 const venueLookup: VenueInfo = {
-  WAV: { name: 'Waverley Basketball Stadium', address: '98 Batesford Rd, Chadstone VIC 3148' },
+  WAV: { name: 'Waverley Basketball Stadium', address: 'Corner Batesford Road & Power Ave, Chadstone VIC 3148' },
   LGS: { name: 'Lauriston Girls School', address: '38 Huntingtower Rd, Armadale VIC 3143' },
   ORC: { name: 'Oakleigh Recreation Centre', address: '2A Park Rd, Oakleigh VIC 3166' },
   ORR: { name: 'Orrong-Romanis Recreation Centre', address: '2 Molesworth St, Prahran VIC 3181' },
