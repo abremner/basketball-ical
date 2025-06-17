@@ -6,22 +6,56 @@ X-WR-CALNAME:Glen Iris Scorpions Gardiner Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:feb63584-f65c-4dbf-8b87-db53d8032b29
+UID:c04c8962-8b5c-4871-98d0-8bae1a3a6a5b
 SEQUENCE:0
-DTSTAMP:20250616T171436
-DTSTART:20250621T153000
-DTEND:20250621T161500
-SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Gardiner vs Solway Knights
+DTSTAMP:20250617T171505
+DTSTART:20250622T164500
+DTEND:20250622T173000
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Gardiner vs Tennyson Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
-  Knights\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Tennys
+ on Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5f61a2b3-7d1a-456d-88cf-4e6e2e1ad69a
+UID:e494296e-c30d-4d40-8fdf-a4af920a88ca
 SEQUENCE:0
-DTSTAMP:20250616T171436
-DTSTART:20250629T164500
-DTEND:20250629T173000
+DTSTAMP:20250617T171505
+DTSTART:20250628T153000
+DTEND:20250628T161500
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Gardiner vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:83bcaae9-45e4-4883-8cd4-bc7712ef64a4
+SEQUENCE:0
+DTSTAMP:20250617T171505
+DTSTART:20250726T174500
+DTEND:20250726T183000
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Gardiner vs Elsternwick Piranha
+ s
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Elstern
+ wick Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0360c118-46b2-48f9-8268-89a9a577fc98
+SEQUENCE:0
+DTSTAMP:20250617T171505
+DTSTART:20250802T174500
+DTEND:20250802T183000
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Gardiner vs Toorak Toros
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Toros\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:534be79a-60da-4570-baf2-313673c7daaa
+SEQUENCE:0
+DTSTAMP:20250617T171505
+DTSTART:20250809T170000
+DTEND:20250809T174500
 SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Gardiner vs Glen Iris Scorpions
   Ferndale
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
@@ -29,59 +63,36 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glen I
  ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d3ca1d51-f8f5-4bcb-bf92-925b18ea8bb9
+UID:fcb26f8c-b891-4b0d-ba57-e145ef261683
 SEQUENCE:0
-DTSTAMP:20250616T171436
-DTSTART:20250726T174500
-DTEND:20250726T183000
+DTSTAMP:20250617T171505
+DTSTART:20250816T170000
+DTEND:20250816T174500
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Gardiner vs Solway Samurais
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Samurais\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:123802bb-3b23-41c1-88b7-7b0be47c9ddc
+SEQUENCE:0
+DTSTAMP:20250617T171505
+DTSTART:20250823T170000
+DTEND:20250823T174500
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Gardiner vs Solway Knights
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Knights\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6ff33376-ab67-4a7b-a624-821e20252d4d
+SEQUENCE:0
+DTSTAMP:20250617T171505
+DTSTART:20250830T174500
+DTEND:20250830T183000
 SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Gardiner vs Tennyson Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Tennys
  on Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:46d0f714-c72a-4a9a-9b16-3c60a853d84a
-SEQUENCE:0
-DTSTAMP:20250616T171436
-DTSTART:20250802T170000
-DTEND:20250802T174500
-SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Gardiner vs Elsternwick Piranha
- s
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Elster
- nwick Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:f4448ac5-6d1e-4c4a-87d9-368e2b2d74d3
-SEQUENCE:0
-DTSTAMP:20250616T171436
-DTSTART:20250809T153000
-DTEND:20250809T161500
-SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Gardiner vs Maccabi Warriors
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
- i Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:02d8aaf1-5233-4628-825f-0d3edabcd433
-SEQUENCE:0
-DTSTAMP:20250616T171436
-DTSTART:20250816T170000
-DTEND:20250816T174500
-SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Gardiner vs Toorak Toros
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
-  Toros\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:651fe860-d1b5-435e-865b-31e8b43ea155
-SEQUENCE:0
-DTSTAMP:20250616T171436
-DTSTART:20250830T174500
-DTEND:20250830T183000
-SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Gardiner vs Solway Knights
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
-  Knights\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

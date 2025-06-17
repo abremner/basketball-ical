@@ -6,55 +6,66 @@ X-WR-CALNAME:Timberwolves Thunder Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:853b5c2e-ff57-4242-a4aa-894935ca4386
+UID:4436189a-cc00-4b6c-b2b1-593128a5326d
 SEQUENCE:0
-DTSTAMP:20250616T171423
+DTSTAMP:20250617T171449
 DTSTART:20250621T144500
 DTEND:20250621T153000
-SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Lauriston Sparks
+SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Maccabi Bucks
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston S
- parks\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Buc
+ ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:11bf2b40-e7e2-4a4c-9324-ef3ed977a429
+UID:56e9df25-0c8a-44ad-8bad-c1ccc946b6e3
 SEQUENCE:0
-DTSTAMP:20250616T171423
-DTSTART:20250628T131500
-DTEND:20250628T140000
-SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Malvern Tigers Lavey
+DTSTAMP:20250617T171449
+DTSTART:20250628T144500
+DTEND:20250628T153000
+SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Korowa Cherry
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Korowa Cher
+ ry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a6ef765c-b53b-45ad-a019-ff5f616df5f0
+SEQUENCE:0
+DTSTAMP:20250617T171449
+DTSTART:20250726T140000
+DTEND:20250726T144500
+SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Toorak Talons
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
-  Tigers Lavey\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Talons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b672ccd2-7831-4324-8c66-2cf2138c61f6
+UID:31448417-0c01-4d40-ab9e-9a9dcc70381e
 SEQUENCE:0
-DTSTAMP:20250616T171423
-DTSTART:20250726T144500
-DTEND:20250726T153000
-SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Aintree Piranhas
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Aintree Pir
- anhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:f3d43705-a2b1-43fa-ae1a-cb3e8fc32017
-SEQUENCE:0
-DTSTAMP:20250616T171423
+DTSTAMP:20250617T171449
 DTSTART:20250802T131500
 DTEND:20250802T140000
-SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Maccabi Bucks
+SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Malvern Tigers Jarry
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
-  Bucks\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Jarry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4bbe3976-6ff8-41af-bdb2-4dce7a8fee3b
+UID:9b3deec0-88f9-4472-a7c2-3ad78f3e5b13
 SEQUENCE:0
-DTSTAMP:20250616T171423
-DTSTART:20250809T144500
-DTEND:20250809T153000
+DTSTAMP:20250617T171449
+DTSTART:20250809T131500
+DTEND:20250809T140000
+SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Aintree Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Aintree
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f3fabbc9-236f-423c-9347-6da749ee4142
+SEQUENCE:0
+DTSTAMP:20250617T171449
+DTSTART:20250816T144500
+DTEND:20250816T153000
 SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Glen Iris Scorpions Gardin
  er
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
@@ -62,36 +73,25 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
  corpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f95be05c-7132-440d-b9b0-a04a5be9046b
+UID:178b278d-63fc-4341-bde5-5b0fb21f3490
 SEQUENCE:0
-DTSTAMP:20250616T171423
-DTSTART:20250816T131500
-DTEND:20250816T140000
+DTSTAMP:20250617T171449
+DTSTART:20250823T140000
+DTEND:20250823T144500
 SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Willow Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Willow 
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Willow 
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7276dfcd-193d-4712-acd2-6c096fb1707a
+UID:10ad19ad-0aa1-425c-a686-1a3698b51ef2
 SEQUENCE:0
-DTSTAMP:20250616T171423
-DTSTART:20250823T114500
-DTEND:20250823T123000
-SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Maccabi Warriors
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
-  Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:3e82bd22-168e-43ef-b3ec-8cd3fb533f39
-SEQUENCE:0
-DTSTAMP:20250616T171423
+DTSTAMP:20250617T171449
 DTSTART:20250830T144500
 DTEND:20250830T153000
 SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Lauriston Sparks
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston S
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston S
  parks\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,80 +6,91 @@ X-WR-CALNAME:Solway Knights Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2b643c85-4d75-4b50-a201-49713375d909
+UID:8a5a546b-74d9-43ec-ac5e-6074e2d3335d
 SEQUENCE:0
-DTSTAMP:20250616T171437
+DTSTAMP:20250617T171505
 DTSTART:20250621T153000
 DTEND:20250621T161500
-SUMMARY:🏀 U14 Boys: Solway Knights vs Glen Iris Scorpions Gardiner
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
- ris Scorpions Gardiner\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:f6606f9e-7a64-4caa-a32d-8834f225b63c
-SEQUENCE:0
-DTSTAMP:20250616T171437
-DTSTART:20250628T153000
-DTEND:20250628T161500
 SUMMARY:🏀 U14 Boys: Solway Knights vs Maccabi Warriors
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:34a482a4-a2ba-4f7f-9380-4344c295be9a
+UID:a31a47a6-793b-477c-bd6f-6a960dd038d2
 SEQUENCE:0
-DTSTAMP:20250616T171437
-DTSTART:20250726T170000
-DTEND:20250726T174500
-SUMMARY:🏀 U14 Boys: Solway Knights vs Glen Iris Scorpions Ferndale
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glen I
- ris Scorpions Ferndale\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:0a6a4efb-ca63-4fa0-ac0c-a756ddbdb1d4
-SEQUENCE:0
-DTSTAMP:20250616T171437
-DTSTART:20250802T174500
-DTEND:20250802T183000
+DTSTAMP:20250617T171505
+DTSTART:20250629T164500
+DTEND:20250629T173000
 SUMMARY:🏀 U14 Boys: Solway Knights vs Toorak Toros
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
   Toros\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a1d88ddb-5c58-4d42-9675-96022b593aca
+UID:ccb468fd-66f5-42a0-a6fc-1b640a213658
 SEQUENCE:0
-DTSTAMP:20250616T171437
-DTSTART:20250809T170000
-DTEND:20250809T174500
-SUMMARY:🏀 U14 Boys: Solway Knights vs Elsternwick Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Elster
- nwick Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:3a9101e2-4889-4a0b-99e7-728a13fb642c
-SEQUENCE:0
-DTSTAMP:20250616T171437
-DTSTART:20250823T170000
-DTEND:20250823T174500
-SUMMARY:🏀 U14 Boys: Solway Knights vs Tennyson Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Tennys
- on Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:d7170cd1-4df1-4c74-9b30-b4f5a446d77a
-SEQUENCE:0
-DTSTAMP:20250616T171437
-DTSTART:20250830T174500
-DTEND:20250830T183000
-SUMMARY:🏀 U14 Boys: Solway Knights vs Glen Iris Scorpions Gardiner
+DTSTAMP:20250617T171505
+DTSTART:20250726T174500
+DTEND:20250726T183000
+SUMMARY:🏀 U14 Boys: Solway Knights vs Glen Iris Scorpions Ferndale
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3f00279f-a98d-45eb-9b4f-9801c251925d
+SEQUENCE:0
+DTSTAMP:20250617T171505
+DTSTART:20250802T174500
+DTEND:20250802T183000
+SUMMARY:🏀 U14 Boys: Solway Knights vs Solway Samurais
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Samurais\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2d1f3938-e0f2-4d45-9389-96033791533b
+SEQUENCE:0
+DTSTAMP:20250617T171505
+DTSTART:20250809T174500
+DTEND:20250809T183000
+SUMMARY:🏀 U14 Boys: Solway Knights vs Tennyson Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Tennyso
+ n Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:721d223a-149e-4c8c-8582-1cb24d86f7bf
+SEQUENCE:0
+DTSTAMP:20250617T171505
+DTSTART:20250816T174500
+DTEND:20250816T183000
+SUMMARY:🏀 U14 Boys: Solway Knights vs Elsternwick Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Elstern
+ wick Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f850efaa-dd24-4984-91b5-9f80aa930abb
+SEQUENCE:0
+DTSTAMP:20250617T171505
+DTSTART:20250823T170000
+DTEND:20250823T174500
+SUMMARY:🏀 U14 Boys: Solway Knights vs Glen Iris Scorpions Gardiner
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glen I
  ris Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a77b92c3-2502-4677-8850-922bace00120
+SEQUENCE:0
+DTSTAMP:20250617T171505
+DTSTART:20250830T153000
+DTEND:20250830T161500
+SUMMARY:🏀 U14 Boys: Solway Knights vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

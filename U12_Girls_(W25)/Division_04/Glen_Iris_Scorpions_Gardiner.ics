@@ -6,56 +6,67 @@ X-WR-CALNAME:Glen Iris Scorpions Gardiner Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e9b89554-0091-4a60-a91e-349203e6bf36
+UID:5b655231-f828-4fbb-b48a-77908483bcf0
 SEQUENCE:0
-DTSTAMP:20250616T171421
-DTSTART:20250621T131500
-DTEND:20250621T140000
+DTSTAMP:20250617T171447
+DTSTART:20250621T144500
+DTEND:20250621T153000
+SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Gardiner vs Malvern Tigers Jar
+ ry
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Jarry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:536f0446-8eca-4d26-9978-22419f70b025
+SEQUENCE:0
+DTSTAMP:20250617T171447
+DTSTART:20250628T131500
+DTEND:20250628T140000
 SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Gardiner vs Aintree Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Aintree
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:46bdaed5-9ed1-4f35-857b-66601e14bd1a
+UID:fb16cbec-cde0-473c-aa4a-7f35da8eac29
 SEQUENCE:0
-DTSTAMP:20250616T171421
-DTSTART:20250628T114500
-DTEND:20250628T123000
-SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Gardiner vs Maccabi Warriors
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
-  Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:9d0edc08-a67f-462e-a67b-ccf04b448378
-SEQUENCE:0
-DTSTAMP:20250616T171421
+DTSTAMP:20250617T171447
 DTSTART:20250726T131500
 DTEND:20250726T140000
+SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Gardiner vs Korowa Cherry
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Korowa 
+ Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:30cf4dfa-4da1-48ca-935e-f2c33aacc0f3
+SEQUENCE:0
+DTSTAMP:20250617T171447
+DTSTART:20250802T140000
+DTEND:20250802T144500
+SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Gardiner vs Toorak Talons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Talons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f2049830-344a-47c3-b970-3afe24b572bc
+SEQUENCE:0
+DTSTAMP:20250617T171447
+DTSTART:20250809T140000
+DTEND:20250809T144500
 SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Gardiner vs Willow Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Willow 
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Willow 
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:31e8d8d6-b9ed-421b-9358-db465d79ad18
+UID:8e53a99a-ec4e-4679-9a37-43bde5e6fd53
 SEQUENCE:0
-DTSTAMP:20250616T171421
-DTSTART:20250802T144500
-DTEND:20250802T153000
-SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Gardiner vs Malvern Tigers Lav
- ey
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
- ers Lavey\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:9610d13d-120b-4a00-a4c6-d997540c7a91
-SEQUENCE:0
-DTSTAMP:20250616T171421
-DTSTART:20250809T144500
-DTEND:20250809T153000
+DTSTAMP:20250617T171447
+DTSTART:20250816T144500
+DTEND:20250816T153000
 SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Gardiner vs Timberwolves Thund
  er
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
@@ -63,36 +74,25 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Timberwolve
  s Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:019cdfb2-9b4c-437d-9e7f-ff2c5806d290
+UID:b8b185c8-72f9-4c46-afe6-a54aebe13316
 SEQUENCE:0
-DTSTAMP:20250616T171421
-DTSTART:20250816T144500
-DTEND:20250816T153000
+DTSTAMP:20250617T171447
+DTSTART:20250823T114500
+DTEND:20250823T123000
+SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Gardiner vs Maccabi Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:101cd036-7a66-4eb8-a4e8-ade8b445729a
+SEQUENCE:0
+DTSTAMP:20250617T171447
+DTSTART:20250830T144500
+DTEND:20250830T153000
 SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Gardiner vs Maccabi Bucks
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
 DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Buc
  ks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:6eede2ba-8387-414f-bf12-7d72e128781d
-SEQUENCE:0
-DTSTAMP:20250616T171421
-DTSTART:20250823T144500
-DTEND:20250823T153000
-SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Gardiner vs Lauriston Sparks
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston S
- parks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:58231dc0-a604-4297-9194-f009bd4ee00a
-SEQUENCE:0
-DTSTAMP:20250616T171421
-DTSTART:20250830T144500
-DTEND:20250830T153000
-SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Gardiner vs Aintree Piranhas
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Aintree Pir
- anhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,31 +6,31 @@ X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d6965e7c-5940-48f0-8f50-116dd9f04d78
+UID:d7641be5-094b-403e-9523-8fc47e0b4b58
 SEQUENCE:0
-DTSTAMP:20250616T171508
-DTSTART:20250621T161500
-DTEND:20250621T170000
-SUMMARY:🏀 U14 Girls: Maccabi Bucks vs McArthur Park Piranhas
+DTSTAMP:20250617T171544
+DTSTART:20250621T153000
+DTEND:20250621T161500
+SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Ashy Lightning White
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: McArth
- ur Park Piranhas\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+ ightning White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5e0ab38c-d74b-41e0-97c8-c4a7c11048ec
+UID:4db44719-7906-4bff-9858-d4c64e6b8ca5
 SEQUENCE:0
-DTSTAMP:20250616T171508
-DTSTART:20250628T153000
-DTEND:20250628T161500
-SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Korowa Cherry
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Korowa
-  Cherry\nArrive 15 mins early for warm-up
+DTSTAMP:20250617T171544
+DTSTART:20250628T144500
+DTEND:20250628T153000
+SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Toorak Titans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Titans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c8715200-9c9d-41b4-8b9e-330a4c6def5d
+UID:53114836-94bc-4395-a34b-f0acb7ec748c
 SEQUENCE:0
-DTSTAMP:20250616T171508
+DTSTAMP:20250617T171544
 DTSTART:20250726T144500
 DTEND:20250726T153000
 SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Malvern Tigers Burton
@@ -39,58 +39,47 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Burton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:58e13c20-02ae-4f8b-bd34-4858be80995f
+UID:15a32df5-0e00-4c0f-9ae8-139c57deef95
 SEQUENCE:0
-DTSTAMP:20250616T171508
-DTSTART:20250802T131500
-DTEND:20250802T140000
-SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Arax
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Arax\n
- Arrive 15 mins early for warm-up
+DTSTAMP:20250617T171544
+DTSTART:20250802T153000
+DTEND:20250802T161500
+SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Korowa Cherry
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Korowa Cher
+ ry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b54d6845-55cb-43f7-a91e-7d490ecfe707
+UID:ac5ab7b6-e048-43cc-9a98-9464559d5c4b
 SEQUENCE:0
-DTSTAMP:20250616T171508
-DTSTART:20250809T161500
-DTEND:20250809T170000
-SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Ranfurlie Piranhas
+DTSTAMP:20250617T171544
+DTSTART:20250809T153000
+DTEND:20250809T161500
+SUMMARY:🏀 U14 Girls: Maccabi Bucks vs McArthur Park Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ranfur
- lie Piranhas\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: McArth
+ ur Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0cf13af2-5584-4fc6-8233-c10a4da21dd9
+UID:d06252e4-ab63-4771-a827-8ce3b726014b
 SEQUENCE:0
-DTSTAMP:20250616T171508
+DTSTAMP:20250617T171544
 DTSTART:20250816T153000
 DTEND:20250816T161500
-SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Ashy Lightning Yellow
+SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Lauriston Legacy
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston L
+ egacy\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1b411f8e-dba7-4236-84e1-9523013b8cc6
+SEQUENCE:0
+DTSTAMP:20250617T171544
+DTSTART:20250830T153000
+DTEND:20250830T161500
+SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Ashy Lightning White
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
- ightning Yellow\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:389a25a3-7828-4aa9-8f63-5687314a2deb
-SEQUENCE:0
-DTSTAMP:20250616T171508
-DTSTART:20250823T153000
-DTEND:20250823T161500
-SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Solway Emeralds
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
-  Emeralds\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:8f824cf6-e059-4aa3-9f0b-7b1eba032bfc
-SEQUENCE:0
-DTSTAMP:20250616T171508
-DTSTART:20250830T144500
-DTEND:20250830T153000
-SUMMARY:🏀 U14 Girls: Maccabi Bucks vs McArthur Park Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: McArthu
- r Park Piranhas\nArrive 15 mins early for warm-up
+ ightning White\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,80 +6,69 @@ X-WR-CALNAME:Solway Rosellas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0ed0922a-a16c-4d5c-912b-1be5e3e0bdd6
+UID:ded2f7bd-eb10-4eb6-8255-181fa7e72465
 SEQUENCE:0
-DTSTAMP:20250616T171420
-DTSTART:20250621T140000
-DTEND:20250621T144500
-SUMMARY:🏀 U12 Girls: Solway Rosellas vs Korowa Cherry
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Korowa
-  Cherry\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:7b8fe5cf-9f80-41d6-a81f-ff9ad14e5694
-SEQUENCE:0
-DTSTAMP:20250616T171420
-DTSTART:20250628T140000
-DTEND:20250628T144500
+DTSTAMP:20250617T171445
+DTSTART:20250628T144500
+DTEND:20250628T153000
 SUMMARY:🏀 U12 Girls: Solway Rosellas vs Comets Rubies
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Comets 
- Rubies\nArrive 15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
+  Rubies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:46d378db-e91d-416f-9b45-d8fd45e8bba0
+UID:deb09b4e-2e28-4f3e-9b99-1637535909a9
 SEQUENCE:0
-DTSTAMP:20250616T171420
+DTSTAMP:20250617T171445
 DTSTART:20250726T144500
 DTEND:20250726T153000
-SUMMARY:🏀 U12 Girls: Solway Rosellas vs Malvern Tigers Jarry
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
- n Tigers Jarry\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:4d30f4bd-a6bb-481c-9d2e-113acb7e5ef4
-SEQUENCE:0
-DTSTAMP:20250616T171420
-DTSTART:20250802T140000
-DTEND:20250802T144500
-SUMMARY:🏀 U12 Girls: Solway Rosellas vs Malvern Tigers Hodges
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
-  Tigers Hodges\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:9054b5af-7938-443f-a9ea-7c9b496abb28
-SEQUENCE:0
-DTSTAMP:20250616T171420
-DTSTART:20250816T144500
-DTEND:20250816T153000
 SUMMARY:🏀 U12 Girls: Solway Rosellas vs Malvern Tigers Mitchell
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Mitchell\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:13ab5104-116b-4261-a32a-0a3c96d57103
+UID:4f4f5aef-c4ad-48fd-9db2-732629715097
 SEQUENCE:0
-DTSTAMP:20250616T171420
-DTSTART:20250823T140000
-DTEND:20250823T144500
+DTSTAMP:20250617T171445
+DTSTART:20250802T140000
+DTEND:20250802T144500
+SUMMARY:🏀 U12 Girls: Solway Rosellas vs Malvern Tigers Hodges
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Hodges\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:263eea4e-6fee-469f-8524-efbff85ac079
+SEQUENCE:0
+DTSTAMP:20250617T171445
+DTSTART:20250809T140000
+DTEND:20250809T144500
 SUMMARY:🏀 U12 Girls: Solway Rosellas vs Ashy Lightning Gold
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b5bae9db-5f25-4e66-8fa2-f9ee643a2490
+UID:08f6d19d-9c5a-48cc-9bae-562e206e7852
 SEQUENCE:0
-DTSTAMP:20250616T171420
-DTSTART:20250830T140000
-DTEND:20250830T144500
-SUMMARY:🏀 U12 Girls: Solway Rosellas vs Korowa Cherry
+DTSTAMP:20250617T171445
+DTSTART:20250823T144500
+DTEND:20250823T153000
+SUMMARY:🏀 U12 Girls: Solway Rosellas vs Comets Rubies
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Korowa
-  Cherry\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
+  Rubies\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e6dd3ce3-46eb-44b4-b5b0-df37bf064067
+SEQUENCE:0
+DTSTAMP:20250617T171445
+DTSTART:20250830T144500
+DTEND:20250830T153000
+SUMMARY:🏀 U12 Girls: Solway Rosellas vs Malvern Tigers Mitchell
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Mitchell\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

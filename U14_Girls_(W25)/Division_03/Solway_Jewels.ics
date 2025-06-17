@@ -6,31 +6,42 @@ X-WR-CALNAME:Solway Jewels Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:33449e4c-81bd-49ce-93a4-cd393ef121f6
+UID:81418b8b-bcd3-4782-8060-062f050b3e8c
 SEQUENCE:0
-DTSTAMP:20250616T171504
-DTSTART:20250621T161500
-DTEND:20250621T170000
+DTSTAMP:20250617T171537
+DTSTART:20250621T170000
+DTEND:20250621T174500
+SUMMARY:🏀 U14 Girls: Solway Jewels vs Timberwolves Flames
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Flames\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:820d36d7-9693-4047-b3f0-2b7710981460
+SEQUENCE:0
+DTSTAMP:20250617T171537
+DTSTART:20250628T161500
+DTEND:20250628T170000
+SUMMARY:🏀 U14 Girls: Solway Jewels vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ed13e5d0-a1eb-4963-bc8b-ecf52248552e
+SEQUENCE:0
+DTSTAMP:20250617T171537
+DTSTART:20250726T161500
+DTEND:20250726T170000
 SUMMARY:🏀 U14 Girls: Solway Jewels vs Malvern Tigers Hodges
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Hodges\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1791d7c1-119b-45ce-baec-88a08435855f
+UID:a7e947da-4efe-4965-9e0e-ca1f33d96056
 SEQUENCE:0
-DTSTAMP:20250616T171504
-DTSTART:20250628T161500
-DTEND:20250628T170000
-SUMMARY:🏀 U14 Girls: Solway Jewels vs Timberwolves Flames
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
- wolves Flames\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:0d0f8bd0-975c-48c8-b439-fbaa7442153e
-SEQUENCE:0
-DTSTAMP:20250616T171504
+DTSTAMP:20250617T171537
 DTSTART:20250802T170000
 DTEND:20250802T174500
 SUMMARY:🏀 U14 Girls: Solway Jewels vs Cato Park Piranhas
@@ -39,47 +50,47 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Cato P
  ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0ebf19e3-cfa1-4c5d-9550-a1b592ba2b8e
+UID:0e57c45d-c21b-4a45-9a5f-ce4d9ed7d2ef
 SEQUENCE:0
-DTSTAMP:20250616T171504
+DTSTAMP:20250617T171537
 DTSTART:20250809T170000
 DTEND:20250809T174500
-SUMMARY:🏀 U14 Girls: Solway Jewels vs Ashy Lightning Green
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
- ghtning Green\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:81a6bc38-bf8f-4150-9f4e-1ff019312d04
-SEQUENCE:0
-DTSTAMP:20250616T171504
-DTSTART:20250816T170000
-DTEND:20250816T174500
 SUMMARY:🏀 U14 Girls: Solway Jewels vs Glen Iris Scorpions Gardiner
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
- is Scorpions Gardiner\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:647f1e69-4fc9-46d9-b2cb-117fa44e929a
-SEQUENCE:0
-DTSTAMP:20250616T171504
-DTSTART:20250823T170000
-DTEND:20250823T174500
-SUMMARY:🏀 U14 Girls: Solway Jewels vs Glen Iris Scorpions Ferndale
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
+ ris Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bb8b03d6-cef5-4d1b-aa6e-66c0b71ee772
+SEQUENCE:0
+DTSTAMP:20250617T171537
+DTSTART:20250816T161500
+DTEND:20250816T170000
+SUMMARY:🏀 U14 Girls: Solway Jewels vs Glen Iris Scorpions Ferndale
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glen I
  ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3cec1ba0-069a-4a08-9480-cab287cd3ef3
+UID:c5d5071e-d051-43d0-a7de-b8aa49174032
 SEQUENCE:0
-DTSTAMP:20250616T171504
-DTSTART:20250830T161500
-DTEND:20250830T170000
-SUMMARY:🏀 U14 Girls: Solway Jewels vs Malvern Tigers Hodges
+DTSTAMP:20250617T171537
+DTSTART:20250823T161500
+DTEND:20250823T170000
+SUMMARY:🏀 U14 Girls: Solway Jewels vs Golden Hawks Sky
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
- n Tigers Hodges\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Golden
+  Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:19542094-e0cd-4933-b023-eca58b5b6d79
+SEQUENCE:0
+DTSTAMP:20250617T171537
+DTSTART:20250830T170000
+DTEND:20250830T174500
+SUMMARY:🏀 U14 Girls: Solway Jewels vs Timberwolves Flames
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Flames\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

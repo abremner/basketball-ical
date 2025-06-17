@@ -6,91 +6,80 @@ X-WR-CALNAME:Toorak Tyrants Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:aa7d361b-61db-48a8-a8e7-7649ec60aa2f
+UID:8124152d-f2d2-4144-9a24-b9755f221159
 SEQUENCE:0
-DTSTAMP:20250616T171435
-DTSTART:20250622T164500
-DTEND:20250622T173000
-SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Solway Samurais
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
-  Samurais\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:ea011d96-18ea-4f0c-a252-596c166595cc
-SEQUENCE:0
-DTSTAMP:20250616T171435
-DTSTART:20250628T174500
-DTEND:20250628T183000
-SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Golden Hawks Sky
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Golden 
- Hawks Sky\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:df6f3790-ff1e-400c-8383-37695196feaa
-SEQUENCE:0
-DTSTAMP:20250616T171435
-DTSTART:20250726T174500
-DTEND:20250726T183000
-SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Malvern Tigers Black
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
- n Tigers Black\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5f0aa089-defb-455c-80fd-7b1450340305
-SEQUENCE:0
-DTSTAMP:20250616T171435
-DTSTART:20250802T174500
-DTEND:20250802T183000
-SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Malvern Tigers Red
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
- n Tigers Red\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:88498830-fa43-40fe-b1ac-0c0fa7443ff2
-SEQUENCE:0
-DTSTAMP:20250616T171435
-DTSTART:20250809T174500
-DTEND:20250809T183000
-SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Timberwolves Lions
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
- olves Lions\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:8432de8a-44ac-4cc4-b41f-17d75d029c49
-SEQUENCE:0
-DTSTAMP:20250616T171435
-DTSTART:20250816T174500
-DTEND:20250816T183000
-SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Solway Samurais
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
-  Samurais\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5fd58932-6432-4401-b608-e1ea42e79425
-SEQUENCE:0
-DTSTAMP:20250616T171435
-DTSTART:20250823T170000
-DTEND:20250823T174500
+DTSTAMP:20250617T171503
+DTSTART:20250621T174500
+DTEND:20250621T183000
 SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Golden Hawks Sky
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Golden
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Golden
   Hawks Sky\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:14b95a31-a9e1-4c35-b58c-e5a0fad46c9a
+UID:71a3d61b-a644-4d4c-96ba-088302c54f42
 SEQUENCE:0
-DTSTAMP:20250616T171435
-DTSTART:20250830T174500
-DTEND:20250830T183000
+DTSTAMP:20250617T171503
+DTSTART:20250628T174500
+DTEND:20250628T183000
 SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Malvern Tigers Black
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a4e47a08-cf60-440b-aae1-7cd0861f22f2
+SEQUENCE:0
+DTSTAMP:20250617T171503
+DTSTART:20250726T170000
+DTEND:20250726T174500
+SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:985ac0b2-8bdd-43b6-9836-814a7c82ea2a
+SEQUENCE:0
+DTSTAMP:20250617T171503
+DTSTART:20250802T170000
+DTEND:20250802T174500
+SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Timberwolves Lions
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Lions\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:598b3841-31b1-4be9-9ae3-8fc8bd536671
+SEQUENCE:0
+DTSTAMP:20250617T171503
+DTSTART:20250816T174500
+DTEND:20250816T183000
+SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Golden Hawks Sky
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Golden
+  Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4f0acbff-3e01-469a-b30d-cd55606c399e
+SEQUENCE:0
+DTSTAMP:20250617T171503
+DTSTART:20250823T174500
+DTEND:20250823T183000
+SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dca828fa-a0e5-4440-af6d-9c5b15290cd1
+SEQUENCE:0
+DTSTAMP:20250617T171503
+DTSTART:20250830T170000
+DTEND:20250830T174500
+SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,32 +6,31 @@ X-WR-CALNAME:Ashy Lightning Green Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:47a8f1fa-b0d7-4a8a-89da-e8004532b667
+UID:21ac0cb5-3c85-4944-9623-8a9732b13ebb
 SEQUENCE:0
-DTSTAMP:20250616T171502
-DTSTART:20250621T170000
-DTEND:20250621T174500
-SUMMARY:🏀 U14 Girls: Ashy Lightning Green vs Timberwolves Flames
+DTSTAMP:20250617T171535
+DTSTART:20250621T161500
+DTEND:20250621T170000
+SUMMARY:🏀 U14 Girls: Ashy Lightning Green vs Malvern Tigers Hodges
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
- wolves Flames\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Hodges\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:efbc8188-2ff3-43b8-9cd1-eddd4be2a67b
+UID:bab716b0-f539-4419-87ce-ef7bb9179684
 SEQUENCE:0
-DTSTAMP:20250616T171502
-DTSTART:20250628T170000
-DTEND:20250628T174500
-SUMMARY:🏀 U14 Girls: Ashy Lightning Green vs Glen Iris Scorpions Fernda
- le
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
- is Scorpions Ferndale\nArrive 15 mins early for warm-up
+DTSTAMP:20250617T171535
+DTSTART:20250628T161500
+DTEND:20250628T170000
+SUMMARY:🏀 U14 Girls: Ashy Lightning Green vs Solway Jewels
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Jewels\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:eb949846-261c-4340-8359-6ea423466232
+UID:9215baf5-c8fb-4070-b560-5cf5847bd923
 SEQUENCE:0
-DTSTAMP:20250616T171502
+DTSTAMP:20250617T171535
 DTSTART:20250726T170000
 DTEND:20250726T174500
 SUMMARY:🏀 U14 Girls: Ashy Lightning Green vs Glen Iris Scorpions Gardin
@@ -41,47 +40,59 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
  ris Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d6a4d001-b1b8-4828-9c01-2e9d1550f430
+UID:280023e6-934d-4b76-9dd9-800953ed26b4
 SEQUENCE:0
-DTSTAMP:20250616T171502
+DTSTAMP:20250617T171535
 DTSTART:20250802T161500
 DTEND:20250802T170000
+SUMMARY:🏀 U14 Girls: Ashy Lightning Green vs Golden Hawks Sky
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Golden
+  Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:95687bab-a869-4e9c-96e5-97a1832c9464
+SEQUENCE:0
+DTSTAMP:20250617T171535
+DTSTART:20250809T161500
+DTEND:20250809T170000
+SUMMARY:🏀 U14 Girls: Ashy Lightning Green vs Timberwolves Flames
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Flames\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:931a9d70-6649-444d-8042-399017104902
+SEQUENCE:0
+DTSTAMP:20250617T171535
+DTSTART:20250816T170000
+DTEND:20250816T174500
+SUMMARY:🏀 U14 Girls: Ashy Lightning Green vs Cato Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Cato Pa
+ rk Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e8205e33-ee6c-4aa7-b9bb-5437b27672ac
+SEQUENCE:0
+DTSTAMP:20250617T171535
+DTSTART:20250823T170000
+DTEND:20250823T174500
+SUMMARY:🏀 U14 Girls: Ashy Lightning Green vs Glen Iris Scorpions Fernda
+ le
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
+ ris Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2963fbeb-520b-44b9-b972-8915cd4f44c0
+SEQUENCE:0
+DTSTAMP:20250617T171535
+DTSTART:20250830T161500
+DTEND:20250830T170000
 SUMMARY:🏀 U14 Girls: Ashy Lightning Green vs Malvern Tigers Hodges
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Hodges\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:0dee0935-e84f-4926-a79e-4615c2c72750
-SEQUENCE:0
-DTSTAMP:20250616T171502
-DTSTART:20250809T170000
-DTEND:20250809T174500
-SUMMARY:🏀 U14 Girls: Ashy Lightning Green vs Solway Jewels
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
- Jewels\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:831478e1-77a3-46bc-9a05-d10ab3d6ffb2
-SEQUENCE:0
-DTSTAMP:20250616T171502
-DTSTART:20250816T161500
-DTEND:20250816T170000
-SUMMARY:🏀 U14 Girls: Ashy Lightning Green vs Cato Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Cato P
- ark Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:370e61e4-a42f-4ded-bcfd-a21b6451b35a
-SEQUENCE:0
-DTSTAMP:20250616T171502
-DTSTART:20250830T170000
-DTEND:20250830T174500
-SUMMARY:🏀 U14 Girls: Ashy Lightning Green vs Timberwolves Flames
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
- wolves Flames\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

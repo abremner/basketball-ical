@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Hodges Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:82b13e3a-1bdb-4933-ba60-52c00cf31fe1
+UID:1bd42be0-3587-450e-9a05-81652cccb891
 SEQUENCE:0
-DTSTAMP:20250616T171419
+DTSTAMP:20250617T171445
 DTSTART:20250621T144500
 DTEND:20250621T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Hodges vs Ashy Lightning Gold
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6d671840-c565-4164-9d72-642d75883563
+UID:69a4add6-be5f-49b6-a482-34c9d28c9567
 SEQUENCE:0
-DTSTAMP:20250616T171419
+DTSTAMP:20250617T171445
 DTSTART:20250628T140000
 DTEND:20250628T144500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Hodges vs Malvern Tigers Mitchell
@@ -28,20 +28,20 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Mitchell\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1ee5bb9f-2c24-4070-b14e-85c8d9b9b584
+UID:6e8c6d24-57da-4e1a-9517-a4d908cb6bef
 SEQUENCE:0
-DTSTAMP:20250616T171419
+DTSTAMP:20250617T171445
 DTSTART:20250802T140000
 DTEND:20250802T144500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Hodges vs Solway Rosellas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
- Rosellas\nArrive 15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Rosellas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4de97184-080e-436a-8754-35349eaf32af
+UID:22a5e1c9-af35-403f-8913-317297b8eded
 SEQUENCE:0
-DTSTAMP:20250616T171419
+DTSTAMP:20250617T171445
 DTSTART:20250809T144500
 DTEND:20250809T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Hodges vs Comets Rubies
@@ -50,36 +50,25 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
   Rubies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fcbff998-4655-4053-8ed1-d6216e76c526
+UID:d8050f17-f355-4640-b32a-ccfd08a39112
 SEQUENCE:0
-DTSTAMP:20250616T171419
-DTSTART:20250816T140000
-DTEND:20250816T144500
-SUMMARY:🏀 U12 Girls: Malvern Tigers Hodges vs Korowa Cherry
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Korowa
-  Cherry\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:c142dbe8-4061-433c-a015-9a7b9480f130
-SEQUENCE:0
-DTSTAMP:20250616T171419
-DTSTART:20250823T140000
-DTEND:20250823T144500
-SUMMARY:🏀 U12 Girls: Malvern Tigers Hodges vs Malvern Tigers Jarry
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
-  Tigers Jarry\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:a3c2f29f-b5cf-48d3-952c-fbada0726db9
-SEQUENCE:0
-DTSTAMP:20250616T171419
-DTSTART:20250830T144500
-DTEND:20250830T153000
+DTSTAMP:20250617T171445
+DTSTART:20250816T144500
+DTEND:20250816T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Hodges vs Ashy Lightning Gold
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:30704fff-3ecb-46ea-a569-dd622191a132
+SEQUENCE:0
+DTSTAMP:20250617T171445
+DTSTART:20250823T140000
+DTEND:20250823T144500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Hodges vs Malvern Tigers Mitchell
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Mitchell\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

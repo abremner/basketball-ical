@@ -6,91 +6,80 @@ X-WR-CALNAME:Maccabi Celtics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:4ca63f55-d9f1-407a-8af7-5e64ea852e4e
+UID:2a8eb20d-1c95-4095-8138-ddfeb5e248ff
 SEQUENCE:0
-DTSTAMP:20250616T171512
-DTSTART:20250621T153000
-DTEND:20250621T161500
-SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Lauriston Legacy
+DTSTAMP:20250617T171547
+DTSTART:20250621T161500
+DTEND:20250621T170000
+SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Lauriston Legends
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston L
- egacy\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston L
+ egends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d15f85d1-ffb6-4597-ae43-90a5f2601042
+UID:6e6ef5df-c3ba-4728-8169-760770591695
 SEQUENCE:0
-DTSTAMP:20250616T171512
-DTSTART:20250628T153000
-DTEND:20250628T161500
-SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Maccabi Ducks
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Duc
- ks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5406c95f-7e60-4f78-bb92-14ce7d8c7de8
-SEQUENCE:0
-DTSTAMP:20250616T171512
-DTSTART:20250726T153000
-DTEND:20250726T161500
-SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Glen Iris Scorpions Nettleton
+DTSTAMP:20250617T171547
+DTSTART:20250628T170000
+DTEND:20250628T174500
+SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Solway Sapphires
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
- is Scorpions Nettleton\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Sapphires\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:15eff848-d4c7-4467-85ff-5e56f0097993
+UID:d1995733-d189-4e13-bda3-013faca60ce7
 SEQUENCE:0
-DTSTAMP:20250616T171512
-DTSTART:20250802T161500
-DTEND:20250802T170000
-SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Ashy Lightning White
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
- ing White\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:92ab0705-218d-4ff4-a126-63435b245cc1
-SEQUENCE:0
-DTSTAMP:20250616T171512
-DTSTART:20250809T153000
-DTEND:20250809T161500
-SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Toorak Titans
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Toorak Tita
- ns\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:21891e5c-b0bf-4457-80a5-f592047e2706
-SEQUENCE:0
-DTSTAMP:20250616T171512
-DTSTART:20250816T153000
-DTEND:20250816T161500
-SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Lauriston Legacy
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston L
- egacy\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:6a203772-2363-4f52-8087-f7e6a1338147
-SEQUENCE:0
-DTSTAMP:20250616T171512
-DTSTART:20250823T161500
-DTEND:20250823T170000
+DTSTAMP:20250617T171547
+DTSTART:20250802T153000
+DTEND:20250802T161500
 SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Maccabi Ducks
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
 DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Duc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4c776be8-1535-4a8b-b4a4-62ec8d7d7917
+UID:83c685af-8e80-436e-b7b3-3b811174fb78
 SEQUENCE:0
-DTSTAMP:20250616T171512
+DTSTAMP:20250617T171547
+DTSTART:20250809T153000
+DTEND:20250809T161500
+SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Darling Park Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Darling Par
+ k Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:594a6398-b946-473c-9131-69d4d2229a71
+SEQUENCE:0
+DTSTAMP:20250617T171547
+DTSTART:20250816T161500
+DTEND:20250816T170000
+SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Glen Iris Scorpions Nettleton
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
+ corpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:52945b9f-9076-4af3-90d9-8194535bfea9
+SEQUENCE:0
+DTSTAMP:20250617T171547
+DTSTART:20250823T153000
+DTEND:20250823T161500
+SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Timberwolves Sapphires
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Timberwolve
+ s Sapphires\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9052b053-7ebb-47c5-b1ab-43563a874477
+SEQUENCE:0
+DTSTAMP:20250617T171547
 DTSTART:20250830T153000
 DTEND:20250830T161500
-SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Glen Iris Scorpions Nettleton
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
- is Scorpions Nettleton\nArrive 15 mins early for warm-up
+SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Lauriston Legends
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston L
+ egends\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

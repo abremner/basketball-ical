@@ -6,91 +6,80 @@ X-WR-CALNAME:McArthur Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:14a8c2e9-9459-4372-8129-d4334f069b6f
+UID:240297c9-836a-437b-844a-507c767d246e
 SEQUENCE:0
-DTSTAMP:20250616T171509
-DTSTART:20250621T161500
-DTEND:20250621T170000
+DTSTAMP:20250617T171545
+DTSTART:20250621T144500
+DTEND:20250621T153000
+SUMMARY:🏀 U14 Girls: McArthur Park Piranhas vs Korowa Cherry
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Korowa 
+ Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3ac01980-46ea-48f1-ae20-9860496fd947
+SEQUENCE:0
+DTSTAMP:20250617T171545
+DTSTART:20250628T153000
+DTEND:20250628T161500
+SUMMARY:🏀 U14 Girls: McArthur Park Piranhas vs Ashy Lightning White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+ ightning White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0c7dfbf9-4265-47d7-b39e-8e251e41b09e
+SEQUENCE:0
+DTSTAMP:20250617T171545
+DTSTART:20250726T153000
+DTEND:20250726T161500
+SUMMARY:🏀 U14 Girls: McArthur Park Piranhas vs Lauriston Legacy
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston L
+ egacy\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:60a1de27-3879-4524-b502-81296b4d94ac
+SEQUENCE:0
+DTSTAMP:20250617T171545
+DTSTART:20250802T153000
+DTEND:20250802T161500
+SUMMARY:🏀 U14 Girls: McArthur Park Piranhas vs Malvern Tigers Burton
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Burton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c240e644-3701-4aee-976d-238f9dc69b70
+SEQUENCE:0
+DTSTAMP:20250617T171545
+DTSTART:20250809T153000
+DTEND:20250809T161500
 SUMMARY:🏀 U14 Girls: McArthur Park Piranhas vs Maccabi Bucks
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6f691143-1da6-4852-86e7-756e7343f364
+UID:cdac1555-2ad2-44a2-9eb1-407cb459edcd
 SEQUENCE:0
-DTSTAMP:20250616T171509
-DTSTART:20250628T144500
-DTEND:20250628T153000
-SUMMARY:🏀 U14 Girls: McArthur Park Piranhas vs Malvern Tigers Burton
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
-  Tigers Burton\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:8e9cc45d-4257-4399-87ec-8b399c53774c
-SEQUENCE:0
-DTSTAMP:20250616T171509
-DTSTART:20250726T131500
-DTEND:20250726T140000
-SUMMARY:🏀 U14 Girls: McArthur Park Piranhas vs Arax
+DTSTAMP:20250617T171545
+DTSTART:20250823T153000
+DTEND:20250823T161500
+SUMMARY:🏀 U14 Girls: McArthur Park Piranhas vs Toorak Titans
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Arax\n
- Arrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Titans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ade3f51c-6181-4e2e-96be-4a0c0cdcc10e
+UID:9fc6cf60-a1fe-4f8f-b27e-b34c5d41b9cf
 SEQUENCE:0
-DTSTAMP:20250616T171509
-DTSTART:20250802T153000
-DTEND:20250802T161500
-SUMMARY:🏀 U14 Girls: McArthur Park Piranhas vs Korowa Cherry
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Korowa
-  Cherry\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:50e393c4-ea8d-429a-afec-246e492dab54
-SEQUENCE:0
-DTSTAMP:20250616T171509
-DTSTART:20250809T153000
-DTEND:20250809T161500
-SUMMARY:🏀 U14 Girls: McArthur Park Piranhas vs Solway Emeralds
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
-  Emeralds\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:f67b23f9-055c-4d71-9a27-99b98af16a4a
-SEQUENCE:0
-DTSTAMP:20250616T171509
-DTSTART:20250816T161500
-DTEND:20250816T170000
-SUMMARY:🏀 U14 Girls: McArthur Park Piranhas vs Ranfurlie Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ranfur
- lie Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:4f5a8c2f-59e1-4f3a-9598-81393b978a42
-SEQUENCE:0
-DTSTAMP:20250616T171509
-DTSTART:20250823T161500
-DTEND:20250823T170000
-SUMMARY:🏀 U14 Girls: McArthur Park Piranhas vs Ashy Lightning Yellow
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
- ightning Yellow\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:b074a01b-8bfc-4210-8de2-e953d02ecca9
-SEQUENCE:0
-DTSTAMP:20250616T171509
+DTSTAMP:20250617T171545
 DTSTART:20250830T144500
 DTEND:20250830T153000
-SUMMARY:🏀 U14 Girls: McArthur Park Piranhas vs Maccabi Bucks
+SUMMARY:🏀 U14 Girls: McArthur Park Piranhas vs Korowa Cherry
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
-  Bucks\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Korowa 
+ Cherry\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

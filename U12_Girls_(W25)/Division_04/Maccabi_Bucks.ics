@@ -6,91 +6,91 @@ X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:a226dea3-0c78-4448-ae15-5c7e476d6e8c
+UID:5f1e29ad-eb59-4bd5-ac0f-478c444fb119
 SEQUENCE:0
-DTSTAMP:20250616T171422
-DTSTART:20250621T114500
-DTEND:20250621T123000
+DTSTAMP:20250617T171448
+DTSTART:20250621T144500
+DTEND:20250621T153000
+SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Timberwolves Thunder
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Timberwolve
+ s Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:372ba9d0-c37b-4545-a0f1-59e0faa407b2
+SEQUENCE:0
+DTSTAMP:20250617T171448
+DTSTART:20250628T140000
+DTEND:20250628T144500
+SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Malvern Tigers Jarry
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Jarry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:216b9ec2-cf1b-49b5-8764-6e31e69074d8
+SEQUENCE:0
+DTSTAMP:20250617T171448
+DTSTART:20250726T114500
+DTEND:20250726T123000
 SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Maccabi Warriors
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:99c166d3-33b5-4709-b777-2195dff4b4fb
+UID:83b02721-38bd-44f2-a313-6dd8d331395a
 SEQUENCE:0
-DTSTAMP:20250616T171422
-DTSTART:20250628T144500
-DTEND:20250628T153000
+DTSTAMP:20250617T171448
+DTSTART:20250802T144500
+DTEND:20250802T153000
 SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Lauriston Sparks
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
 DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston S
  parks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:914ec6ea-4e58-4754-8588-7236d7bb335f
+UID:09b2e2c9-b027-4d9b-9fd4-b28dafd94534
 SEQUENCE:0
-DTSTAMP:20250616T171422
-DTSTART:20250726T144500
-DTEND:20250726T153000
-SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Malvern Tigers Lavey
+DTSTAMP:20250617T171448
+DTSTART:20250809T144500
+DTEND:20250809T153000
+SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Toorak Talons
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
- ers Lavey\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Toorak Talo
+ ns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:594f00de-9844-4abd-853f-e0dda919ef6d
+UID:09742fc5-f366-4d21-8262-03f720a02103
 SEQUENCE:0
-DTSTAMP:20250616T171422
-DTSTART:20250802T131500
-DTEND:20250802T140000
-SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Timberwolves Thunder
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
- olves Thunder\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:b7b33f32-7b56-43d8-bbbd-0c5aaf3744c8
-SEQUENCE:0
-DTSTAMP:20250616T171422
-DTSTART:20250809T131500
-DTEND:20250809T140000
+DTSTAMP:20250617T171448
+DTSTART:20250816T140000
+DTEND:20250816T144500
 SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Aintree Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Aintree
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Aintree
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:162f2087-c712-4a9d-b86a-b34403d2fe59
+UID:dfc0b132-fed0-4421-acc9-1725572d168c
 SEQUENCE:0
-DTSTAMP:20250616T171422
-DTSTART:20250816T144500
-DTEND:20250816T153000
+DTSTAMP:20250617T171448
+DTSTART:20250823T131500
+DTEND:20250823T140000
+SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Korowa Cherry
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Korowa 
+ Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b70dcefc-885d-4f7a-b178-25394de282d2
+SEQUENCE:0
+DTSTAMP:20250617T171448
+DTSTART:20250830T144500
+DTEND:20250830T153000
 SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Glen Iris Scorpions Gardiner
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
 DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
  corpions Gardiner\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:2cdbdc45-b708-4ddb-98ca-11a5864e626f
-SEQUENCE:0
-DTSTAMP:20250616T171422
-DTSTART:20250823T144500
-DTEND:20250823T153000
-SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Willow Piranhas
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Willow Pira
- nhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5f318843-ffa0-4058-92ba-7bbeb8f90b81
-SEQUENCE:0
-DTSTAMP:20250616T171422
-DTSTART:20250830T114500
-DTEND:20250830T123000
-SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Maccabi Warriors
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
-  Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

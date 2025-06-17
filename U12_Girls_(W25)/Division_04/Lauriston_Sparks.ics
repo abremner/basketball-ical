@@ -6,91 +6,91 @@ X-WR-CALNAME:Lauriston Sparks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b45ec2ac-fe3e-4809-a8bf-aba03f90d636
+UID:169cd401-96d8-4f0e-9222-7db55c3aeffd
 SEQUENCE:0
-DTSTAMP:20250616T171422
-DTSTART:20250621T144500
-DTEND:20250621T153000
-SUMMARY:🏀 U12 Girls: Lauriston Sparks vs Timberwolves Thunder
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Timberwolve
- s Thunder\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:733a4732-afa8-4335-b56b-c939083b289f
-SEQUENCE:0
-DTSTAMP:20250616T171422
-DTSTART:20250628T144500
-DTEND:20250628T153000
-SUMMARY:🏀 U12 Girls: Lauriston Sparks vs Maccabi Bucks
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Buc
- ks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:c6e72422-c9ae-4174-95d8-b388685ab093
-SEQUENCE:0
-DTSTAMP:20250616T171422
-DTSTART:20250726T114500
-DTEND:20250726T123000
+DTSTAMP:20250617T171447
+DTSTART:20250621T114500
+DTEND:20250621T123000
 SUMMARY:🏀 U12 Girls: Lauriston Sparks vs Maccabi Warriors
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:44081eb5-6a64-40eb-b8cb-d619e9857dda
+UID:77f020e1-bd36-46bc-a4f3-92a643e83d88
 SEQUENCE:0
-DTSTAMP:20250616T171422
+DTSTAMP:20250617T171447
+DTSTART:20250628T144500
+DTEND:20250628T153000
+SUMMARY:🏀 U12 Girls: Lauriston Sparks vs Toorak Talons
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Toorak Talo
+ ns\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f06b1bc9-f393-438b-94ca-b7e55608e3bd
+SEQUENCE:0
+DTSTAMP:20250617T171447
+DTSTART:20250726T144500
+DTEND:20250726T153000
+SUMMARY:🏀 U12 Girls: Lauriston Sparks vs Malvern Tigers Jarry
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Jarry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2db0276e-ac97-4f5e-a6fe-9155e4f9a601
+SEQUENCE:0
+DTSTAMP:20250617T171447
 DTSTART:20250802T144500
 DTEND:20250802T153000
+SUMMARY:🏀 U12 Girls: Lauriston Sparks vs Maccabi Bucks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Buc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:72ba61e9-fa5c-4977-b9df-c165fb9718f1
+SEQUENCE:0
+DTSTAMP:20250617T171447
+DTSTART:20250809T144500
+DTEND:20250809T153000
+SUMMARY:🏀 U12 Girls: Lauriston Sparks vs Korowa Cherry
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Korowa Cher
+ ry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:49c212b5-7375-4a37-b147-09aade145053
+SEQUENCE:0
+DTSTAMP:20250617T171447
+DTSTART:20250816T144500
+DTEND:20250816T153000
 SUMMARY:🏀 U12 Girls: Lauriston Sparks vs Willow Piranhas
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Willow Pira
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Willow Pira
  nhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4e138db4-f6b9-4763-b09f-ed2a0f26a426
+UID:bef70a08-cdd8-4dad-89a8-92f0a61d4a78
 SEQUENCE:0
-DTSTAMP:20250616T171422
-DTSTART:20250809T144500
-DTEND:20250809T153000
-SUMMARY:🏀 U12 Girls: Lauriston Sparks vs Malvern Tigers Lavey
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
- ers Lavey\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:314f5f46-e8f3-4086-98d2-a425a7e614cb
-SEQUENCE:0
-DTSTAMP:20250616T171422
-DTSTART:20250816T144500
-DTEND:20250816T153000
+DTSTAMP:20250617T171447
+DTSTART:20250823T144500
+DTEND:20250823T153000
 SUMMARY:🏀 U12 Girls: Lauriston Sparks vs Aintree Piranhas
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
 DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Aintree Pir
  anhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f9acdd80-2832-4a75-a535-8e8dd971b877
+UID:3f6b3620-c2ac-4ff5-b2ba-cae2c64d08f6
 SEQUENCE:0
-DTSTAMP:20250616T171422
-DTSTART:20250823T144500
-DTEND:20250823T153000
-SUMMARY:🏀 U12 Girls: Lauriston Sparks vs Glen Iris Scorpions Gardiner
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
- corpions Gardiner\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:695e474e-a593-4550-9ef9-880baf0b5366
-SEQUENCE:0
-DTSTAMP:20250616T171422
+DTSTAMP:20250617T171447
 DTSTART:20250830T144500
 DTEND:20250830T153000
 SUMMARY:🏀 U12 Girls: Lauriston Sparks vs Timberwolves Thunder
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Timberwolve
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Timberwolve
  s Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

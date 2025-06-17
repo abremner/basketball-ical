@@ -6,32 +6,32 @@ X-WR-CALNAME:Glen Iris Scorpions Gardiner Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:fef17aa2-d09d-48dc-a9e2-88a333d0cdf9
+UID:c8dd5ca1-b68e-41b4-89bf-14a805c0c3c9
 SEQUENCE:0
-DTSTAMP:20250616T171503
-DTSTART:20250621T170000
-DTEND:20250621T174500
+DTSTAMP:20250617T171536
+DTSTART:20250621T161500
+DTEND:20250621T170000
 SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Gardiner vs Cato Park Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Cato Pa
- rk Piranhas\nArrive 15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Cato P
+ ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:36e4bd25-0ce1-40ea-b729-956f606dd75e
+UID:60df14f2-78df-422c-862f-dd3e39ae30c5
 SEQUENCE:0
-DTSTAMP:20250616T171503
+DTSTAMP:20250617T171536
 DTSTART:20250628T170000
 DTEND:20250628T174500
-SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Gardiner vs Malvern Tigers Hod
- ges
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
- n Tigers Hodges\nArrive 15 mins early for warm-up
+SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Gardiner vs Glen Iris Scorpion
+ s Ferndale
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
+ is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:be6c828b-5ed4-43f0-864b-d0dd68e5e876
+UID:a5fb5cc8-9109-456e-84f5-e469a2ede632
 SEQUENCE:0
-DTSTAMP:20250616T171503
+DTSTAMP:20250617T171536
 DTSTART:20250726T170000
 DTEND:20250726T174500
 SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Gardiner vs Ashy Lightning Gre
@@ -41,49 +41,60 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0afa94f2-9ff1-409d-b629-1b944b1efec5
+UID:6d5c503d-d567-42a4-bf7b-b3d85ce7f9a4
 SEQUENCE:0
-DTSTAMP:20250616T171503
-DTSTART:20250809T161500
-DTEND:20250809T170000
-SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Gardiner vs Glen Iris Scorpion
- s Ferndale
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
- ris Scorpions Ferndale\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:ae99f6e9-0ee2-431c-9ac6-0cd099dbf8fe
-SEQUENCE:0
-DTSTAMP:20250616T171503
-DTSTART:20250816T170000
-DTEND:20250816T174500
-SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Gardiner vs Solway Jewels
+DTSTAMP:20250617T171536
+DTSTART:20250802T170000
+DTEND:20250802T174500
+SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Gardiner vs Malvern Tigers Hod
+ ges
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
- Jewels\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Hodges\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b4610c2d-be6c-4555-b727-e888e9dd1f2a
+UID:e9a0a369-85de-4ce5-89e9-6684829d8515
 SEQUENCE:0
-DTSTAMP:20250616T171503
-DTSTART:20250823T161500
-DTEND:20250823T170000
+DTSTAMP:20250617T171536
+DTSTART:20250809T170000
+DTEND:20250809T174500
+SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Gardiner vs Solway Jewels
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Jewels\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0a212290-fe77-4c70-8338-b17b4d5a22f7
+SEQUENCE:0
+DTSTAMP:20250617T171536
+DTSTART:20250816T161500
+DTEND:20250816T170000
+SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Gardiner vs Golden Hawks Sky
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Golden
+  Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bd370bbf-5ed2-4d2f-a69a-05e1d5940f79
+SEQUENCE:0
+DTSTAMP:20250617T171536
+DTSTART:20250823T170000
+DTEND:20250823T174500
 SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Gardiner vs Timberwolves Flame
  s
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
- wolves Flames\nArrive 15 mins early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Flames\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e9a61d53-b44f-4a60-87ea-a5ac11e219e2
+UID:ba794bea-e287-45d6-a463-dc450d60bd41
 SEQUENCE:0
-DTSTAMP:20250616T171503
+DTSTAMP:20250617T171536
 DTSTART:20250830T170000
 DTEND:20250830T174500
 SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Gardiner vs Cato Park Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Cato Pa
- rk Piranhas\nArrive 15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Cato P
+ ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

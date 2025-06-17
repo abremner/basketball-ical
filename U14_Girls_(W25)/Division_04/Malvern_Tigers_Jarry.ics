@@ -6,80 +6,91 @@ X-WR-CALNAME:Malvern Tigers Jarry Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:34a108d9-7335-4fa0-83c5-00fa4b019f17
+UID:44d9b3a9-428e-4c75-982b-0db537f14a89
 SEQUENCE:0
-DTSTAMP:20250616T171506
-DTSTART:20250621T170000
-DTEND:20250621T174500
-SUMMARY:🏀 U14 Girls: Malvern Tigers Jarry vs Malvern Tigers Mitchell
+DTSTAMP:20250617T171540
+DTSTART:20250621T131500
+DTEND:20250621T140000
+SUMMARY:🏀 U14 Girls: Malvern Tigers Jarry vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e2347235-ce27-4f30-9fcc-ab5b66b19e2b
+SEQUENCE:0
+DTSTAMP:20250617T171540
+DTSTART:20250628T153000
+DTEND:20250628T161500
+SUMMARY:🏀 U14 Girls: Malvern Tigers Jarry vs Ashy Lightning Yellow
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
-  Tigers Mitchell\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ff16a1b1-898b-456e-98a0-c04f800ecb1d
+UID:ea8602ba-ae3f-4420-8e0e-f078c14d51c8
 SEQUENCE:0
-DTSTAMP:20250616T171506
-DTSTART:20250628T161500
-DTEND:20250628T170000
-SUMMARY:🏀 U14 Girls: Malvern Tigers Jarry vs Malvern Tigers Lavey
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
- ers Lavey\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:ff3acc31-e5da-4395-9045-90265be59e69
-SEQUENCE:0
-DTSTAMP:20250616T171506
-DTSTART:20250726T170000
-DTEND:20250726T174500
-SUMMARY:🏀 U14 Girls: Malvern Tigers Jarry vs Golden Hawks Sky
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Golden 
- Hawks Sky\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:8c2e31a6-41bd-457d-afc5-cd944c5ed42b
-SEQUENCE:0
-DTSTAMP:20250616T171506
-DTSTART:20250802T161500
-DTEND:20250802T170000
-SUMMARY:🏀 U14 Girls: Malvern Tigers Jarry vs Lauriston Liberty
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston L
- iberty\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:0997e649-8c89-4b5e-a135-9a1ec52f9271
-SEQUENCE:0
-DTSTAMP:20250616T171506
-DTSTART:20250816T170000
-DTEND:20250816T174500
-SUMMARY:🏀 U14 Girls: Malvern Tigers Jarry vs Malvern Tigers Mitchell
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
-  Tigers Mitchell\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:9e32c143-277a-4148-8f4b-a1121691fa5b
-SEQUENCE:0
-DTSTAMP:20250616T171506
-DTSTART:20250823T170000
-DTEND:20250823T174500
+DTSTAMP:20250617T171540
+DTSTART:20250726T153000
+DTEND:20250726T161500
 SUMMARY:🏀 U14 Girls: Malvern Tigers Jarry vs Malvern Tigers Lavey
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Lavey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:16c0a995-76dc-4cb8-9ce1-59463cb216ae
+UID:d7ca2e6d-327a-4f07-a0a8-9c58d63082d0
 SEQUENCE:0
-DTSTAMP:20250616T171506
-DTSTART:20250830T170000
-DTEND:20250830T174500
-SUMMARY:🏀 U14 Girls: Malvern Tigers Jarry vs Golden Hawks Sky
+DTSTAMP:20250617T171540
+DTSTART:20250802T170000
+DTEND:20250802T174500
+SUMMARY:🏀 U14 Girls: Malvern Tigers Jarry vs Malvern Tigers Mitchell
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Golden 
- Hawks Sky\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Mitchell\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9dfff953-7ac1-4faa-885e-9141ee89b2c9
+SEQUENCE:0
+DTSTAMP:20250617T171540
+DTSTART:20250809T161500
+DTEND:20250809T170000
+SUMMARY:🏀 U14 Girls: Malvern Tigers Jarry vs Lauriston Liberty
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston L
+ iberty\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1b0aee2b-0580-49f8-bab4-577fc8a4e126
+SEQUENCE:0
+DTSTAMP:20250617T171540
+DTSTART:20250816T170000
+DTEND:20250816T174500
+SUMMARY:🏀 U14 Girls: Malvern Tigers Jarry vs Solway Emeralds
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Emeralds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3b33eb11-7a3a-4821-a4e7-5f952f15c0e5
+SEQUENCE:0
+DTSTAMP:20250617T171540
+DTSTART:20250823T153000
+DTEND:20250823T161500
+SUMMARY:🏀 U14 Girls: Malvern Tigers Jarry vs Ranfurlie Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ranfurl
+ ie Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:423e0f5b-052e-4d9e-8edb-b8c5945828fb
+SEQUENCE:0
+DTSTAMP:20250617T171540
+DTSTART:20250830T131500
+DTEND:20250830T140000
+SUMMARY:🏀 U14 Girls: Malvern Tigers Jarry vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

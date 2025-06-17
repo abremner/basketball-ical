@@ -6,20 +6,31 @@ X-WR-CALNAME:Maccabi Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:bce3ae54-a818-42ad-9aa4-be74fcce6165
+UID:3e1db94f-7958-42a5-ab92-6a27168c2ae5
 SEQUENCE:0
-DTSTAMP:20250616T171437
-DTSTART:20250628T153000
-DTEND:20250628T161500
+DTSTAMP:20250617T171505
+DTSTART:20250621T153000
+DTEND:20250621T161500
 SUMMARY:🏀 U14 Boys: Maccabi Warriors vs Solway Knights
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Knights\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:24c5e960-513b-40ef-b935-3a660f6d3cd0
+UID:8c2c577b-065c-44a0-b773-4d1455e33290
 SEQUENCE:0
-DTSTAMP:20250616T171437
+DTSTAMP:20250617T171505
+DTSTART:20250628T153000
+DTEND:20250628T161500
+SUMMARY:🏀 U14 Boys: Maccabi Warriors vs Glen Iris Scorpions Gardiner
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
+ ris Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b08ee7c6-9c91-4eee-9c61-88c456ec1075
+SEQUENCE:0
+DTSTAMP:20250617T171505
 DTSTART:20250726T153000
 DTEND:20250726T161500
 SUMMARY:🏀 U14 Boys: Maccabi Warriors vs Toorak Toros
@@ -28,47 +39,58 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Toros\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1d51923f-aa5b-4fd1-8e26-b10651d4493e
+UID:0e316ad0-cb0d-4c17-b27a-3af311b82037
 SEQUENCE:0
-DTSTAMP:20250616T171437
+DTSTAMP:20250617T171505
 DTSTART:20250802T153000
 DTEND:20250802T161500
-SUMMARY:🏀 U14 Boys: Maccabi Warriors vs Tennyson Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Tennys
- on Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:d4c3516e-a251-49aa-a402-1920821f6864
-SEQUENCE:0
-DTSTAMP:20250616T171437
-DTSTART:20250809T153000
-DTEND:20250809T161500
-SUMMARY:🏀 U14 Boys: Maccabi Warriors vs Glen Iris Scorpions Gardiner
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
- ris Scorpions Gardiner\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:e517f166-a7be-4c15-aa9d-b25017225ee8
-SEQUENCE:0
-DTSTAMP:20250616T171437
-DTSTART:20250816T153000
-DTEND:20250816T161500
 SUMMARY:🏀 U14 Boys: Maccabi Warriors vs Glen Iris Scorpions Ferndale
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8d2859a4-bab6-4404-96c7-29bacf8ffcbb
+UID:4d20380e-5f43-4c3b-bc3e-ff8d50188268
 SEQUENCE:0
-DTSTAMP:20250616T171437
+DTSTAMP:20250617T171505
+DTSTART:20250809T153000
+DTEND:20250809T161500
+SUMMARY:🏀 U14 Boys: Maccabi Warriors vs Solway Samurais
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Samurais\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:57db14b1-7c12-4216-94d7-fa3c7a30ed93
+SEQUENCE:0
+DTSTAMP:20250617T171505
+DTSTART:20250816T153000
+DTEND:20250816T161500
+SUMMARY:🏀 U14 Boys: Maccabi Warriors vs Tennyson Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Tennys
+ on Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fd12c9b5-42ed-4ebd-8143-0d693887c5bb
+SEQUENCE:0
+DTSTAMP:20250617T171505
 DTSTART:20250823T153000
 DTEND:20250823T161500
 SUMMARY:🏀 U14 Boys: Maccabi Warriors vs Elsternwick Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Elster
  nwick Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:55c39f30-a707-4aa6-a926-2a15c7ed51d4
+SEQUENCE:0
+DTSTAMP:20250617T171505
+DTSTART:20250830T153000
+DTEND:20250830T161500
+SUMMARY:🏀 U14 Boys: Maccabi Warriors vs Solway Knights
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Knights\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR
