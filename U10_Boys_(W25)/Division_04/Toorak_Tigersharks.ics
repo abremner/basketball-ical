@@ -6,80 +6,91 @@ X-WR-CALNAME:Toorak Tigersharks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:72e6520c-c4c1-4abe-bd8b-5f2d6f73c090
+UID:9f666b2f-bd31-4abf-af16-87a03a9ff9e9
 SEQUENCE:0
-DTSTAMP:20250617T171318
+DTSTAMP:20250618T171418
 DTSTART:20250621T110000
 DTEND:20250621T114500
-SUMMARY:🏀 U10 Boys: Toorak Tigersharks vs Malvern Tigers Orange
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
- n Tigers Orange\nArrive 15 mins early for warm-up
+SUMMARY:🏀 U10 Boys: Toorak Tigersharks vs Solway Lakers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Lakers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cb0bb0c5-46ea-46f7-84c9-a2469e621101
+UID:60f9476d-ee23-4b90-940d-17a3f5cbab03
 SEQUENCE:0
-DTSTAMP:20250617T171318
+DTSTAMP:20250618T171418
 DTSTART:20250628T093000
 DTEND:20250628T101500
+SUMMARY:🏀 U10 Boys: Toorak Tigersharks vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:98703b1e-61e4-4145-9a13-800e7c4dbe2b
+SEQUENCE:0
+DTSTAMP:20250618T171418
+DTSTART:20250726T110000
+DTEND:20250726T114500
 SUMMARY:🏀 U10 Boys: Toorak Tigersharks vs Armadale Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Armada
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Armada
  le Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e9e8cb5a-ff12-4796-88e8-288fea13b1fd
+UID:c709d7a2-dd82-468a-8eb7-670f55fe46e4
 SEQUENCE:0
-DTSTAMP:20250617T171318
-DTSTART:20250726T110000
-DTEND:20250726T114500
+DTSTAMP:20250618T171418
+DTSTART:20250802T093000
+DTEND:20250802T101500
+SUMMARY:🏀 U10 Boys: Toorak Tigersharks vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1049a5f1-0b95-4176-a38b-d3fd5e4882ec
+SEQUENCE:0
+DTSTAMP:20250618T171418
+DTSTART:20250809T110000
+DTEND:20250809T114500
+SUMMARY:🏀 U10 Boys: Toorak Tigersharks vs Glen Iris Scorpions Ferndale
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
+ is Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca4a384-3713-42b2-988f-7322e64847d7
+SEQUENCE:0
+DTSTAMP:20250618T171418
+DTSTART:20250816T110000
+DTEND:20250816T114500
 SUMMARY:🏀 U10 Boys: Toorak Tigersharks vs Maccabi Celtics
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fa2af64f-f842-45bd-9221-918bc7e9848e
+UID:7f86c670-ccd7-4e57-af18-fbf4d2dbbfcf
 SEQUENCE:0
-DTSTAMP:20250617T171318
-DTSTART:20250809T131500
-DTEND:20250809T140000
-SUMMARY:🏀 U10 Boys: Toorak Tigersharks vs Arax
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Arax\n
- Arrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:e94824af-165f-4576-8067-d5401cee3f86
-SEQUENCE:0
-DTSTAMP:20250617T171318
-DTSTART:20250816T093000
-DTEND:20250816T101500
-SUMMARY:🏀 U10 Boys: Toorak Tigersharks vs Dendy Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Dendy 
- Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:0bff97f9-1277-4af2-96ae-1e0e3db5605d
-SEQUENCE:0
-DTSTAMP:20250617T171318
+DTSTAMP:20250618T171418
 DTSTART:20250823T110000
 DTEND:20250823T114500
+SUMMARY:🏀 U10 Boys: Toorak Tigersharks vs Malvern Tigers Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1e47b4a9-90f0-4463-92a1-84ba84415cac
+SEQUENCE:0
+DTSTAMP:20250618T171418
+DTSTART:20250830T110000
+DTEND:20250830T114500
 SUMMARY:🏀 U10 Boys: Toorak Tigersharks vs Solway Lakers
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Lakers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:37050831-d039-48f4-bbc0-45c8f6290822
-SEQUENCE:0
-DTSTAMP:20250617T171318
-DTSTART:20250830T110000
-DTEND:20250830T114500
-SUMMARY:🏀 U10 Boys: Toorak Tigersharks vs Ashy Lightning Green
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
- ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,75 +6,75 @@ X-WR-CALNAME:Maccabi Kings Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0eb762b2-4687-4f2c-a225-eff49ceba638
+UID:34a27efe-86de-4670-a57a-19c7175352f6
 SEQUENCE:0
-DTSTAMP:20250617T171435
-DTSTART:20250621T114500
-DTEND:20250621T123000
-SUMMARY:🏀 U12 Boys: Maccabi Kings vs Timberwolves Cavs
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
- olves Cavs\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:4d5857fb-634c-4dcd-9992-43748a3064a0
-SEQUENCE:0
-DTSTAMP:20250617T171435
-DTSTART:20250628T144500
-DTEND:20250628T153000
-SUMMARY:🏀 U12 Boys: Maccabi Kings vs Wilson Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Wilson 
- Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:c5935c44-d97b-43ea-bf78-fbd7c6806624
-SEQUENCE:0
-DTSTAMP:20250617T171435
-DTSTART:20250726T123000
-DTEND:20250726T131500
+DTSTAMP:20250618T171531
+DTSTART:20250621T123000
+DTEND:20250621T131500
 SUMMARY:🏀 U12 Boys: Maccabi Kings vs Malvern Tigers Lime
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
-  Tigers Lime\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:daf952c4-ad34-4744-b528-53a4fe3f4527
-SEQUENCE:0
-DTSTAMP:20250617T171435
-DTSTART:20250802T114500
-DTEND:20250802T123000
-SUMMARY:🏀 U12 Boys: Maccabi Kings vs Solway Crocodiles
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
- Crocodiles\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:a8cb7e89-04ac-47d0-a2a1-91b6e3034ac1
-SEQUENCE:0
-DTSTAMP:20250617T171435
-DTSTART:20250809T123000
-DTEND:20250809T131500
-SUMMARY:🏀 U12 Boys: Maccabi Kings vs Malvern Tigers Aqua
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
- n Tigers Aqua\nArrive 15 mins early for warm-up
+ n Tigers Lime\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:31579e5b-1e36-494c-b1e3-92433107869a
+UID:e705722a-0cab-4a2c-a0a9-0bc3ffcabc92
 SEQUENCE:0
-DTSTAMP:20250617T171435
+DTSTAMP:20250618T171531
+DTSTART:20250628T123000
+DTEND:20250628T131500
+SUMMARY:🏀 U12 Boys: Maccabi Kings vs Malvern Tigers Tan
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Tan\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f83fd43a-4e67-4a13-b5e1-ceb53aaf37d6
+SEQUENCE:0
+DTSTAMP:20250618T171531
+DTSTART:20250726T114500
+DTEND:20250726T123000
+SUMMARY:🏀 U12 Boys: Maccabi Kings vs Solway Crocodiles
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Crocodiles\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:34feeaff-96b6-4c2a-a648-49caf7028de7
+SEQUENCE:0
+DTSTAMP:20250618T171531
+DTSTART:20250802T114500
+DTEND:20250802T123000
+SUMMARY:🏀 U12 Boys: Maccabi Kings vs Timberwolves Fury
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Fury\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:878ac426-7f70-4a98-bd02-fb6dc90a2c5c
+SEQUENCE:0
+DTSTAMP:20250618T171531
+DTSTART:20250809T114500
+DTEND:20250809T123000
+SUMMARY:🏀 U12 Boys: Maccabi Kings vs Solway Dingoes
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Dingoes\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ef9fc052-b948-47af-abe9-0f638f872c45
+SEQUENCE:0
+DTSTAMP:20250618T171531
 DTSTART:20250816T123000
 DTEND:20250816T131500
-SUMMARY:🏀 U12 Boys: Maccabi Kings vs Solway Dingoes
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
- Dingoes\nArrive 15 mins early for warm-up
+SUMMARY:🏀 U12 Boys: Maccabi Kings vs Malvern Tigers Lime
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Lime\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d71b08c3-bccc-4223-af63-bde3c155bf16
+UID:d4a49205-8dc6-465b-9c06-000cb03d3202
 SEQUENCE:0
-DTSTAMP:20250617T171435
+DTSTAMP:20250618T171531
 DTSTART:20250823T123000
 DTEND:20250823T131500
 SUMMARY:🏀 U12 Boys: Maccabi Kings vs Malvern Tigers Tan
@@ -83,14 +83,14 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Tan\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6314d227-285a-4dc3-a709-a8f005708089
+UID:8e10dc77-9cec-4201-b54a-3f64cb135ca7
 SEQUENCE:0
-DTSTAMP:20250617T171435
-DTSTART:20250830T114500
-DTEND:20250830T123000
-SUMMARY:🏀 U12 Boys: Maccabi Kings vs Timberwolves Fury
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Fury\nArrive 15 
- mins early for warm-up
+DTSTAMP:20250618T171531
+DTSTART:20250830T123000
+DTEND:20250830T131500
+SUMMARY:🏀 U12 Boys: Maccabi Kings vs Solway Crocodiles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Crocodiles\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

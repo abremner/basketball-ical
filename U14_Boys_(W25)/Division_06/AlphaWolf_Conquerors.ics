@@ -6,20 +6,20 @@ X-WR-CALNAME:AlphaWolf Conquerors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c843b453-1982-4ee3-bb2b-c19565ede38b
+UID:81c645fd-6b71-4ec0-afa0-36cf935453b0
 SEQUENCE:0
-DTSTAMP:20250617T171518
-DTSTART:20250621T161500
-DTEND:20250621T170000
-SUMMARY:🏀 U14 Boys: AlphaWolf Conquerors vs Timberwolves Terriers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
- wolves Terriers\nArrive 15 mins early for warm-up
+DTSTAMP:20250618T171611
+DTSTART:20250621T153000
+DTEND:20250621T161500
+SUMMARY:🏀 U14 Boys: AlphaWolf Conquerors vs Solway Vikings
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Vikings\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:11a677a9-c842-4fdf-bd32-1a75e9f4fde3
+UID:c0519d6c-36db-47b1-9ea7-4e176a78fe65
 SEQUENCE:0
-DTSTAMP:20250617T171518
+DTSTAMP:20250618T171611
 DTSTART:20250628T161500
 DTEND:20250628T170000
 SUMMARY:🏀 U14 Boys: AlphaWolf Conquerors vs Timberwolves Ramblers
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Ramblers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:050226b6-db8e-4718-8acc-f9dbaaea74fb
+UID:fb430e75-4bd0-4713-9bec-0b36574f67cd
 SEQUENCE:0
-DTSTAMP:20250617T171518
+DTSTAMP:20250618T171611
 DTSTART:20250726T161500
 DTEND:20250726T170000
 SUMMARY:🏀 U14 Boys: AlphaWolf Conquerors vs Malvern Tigers Orange
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e0aa1d6b-6666-4f09-8b11-123d3a761ae8
+UID:f1377b23-1f70-44ee-8a74-d9b0f395128f
 SEQUENCE:0
-DTSTAMP:20250617T171518
+DTSTAMP:20250618T171611
 DTSTART:20250802T153000
 DTEND:20250802T161500
 SUMMARY:🏀 U14 Boys: AlphaWolf Conquerors vs Ashy Lightning Yellow
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
  ghtning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:622acb24-eb67-41d5-bba4-6e3fe39aab8a
+UID:8b7f2705-5ce8-461f-b359-144e7a4056d4
 SEQUENCE:0
-DTSTAMP:20250617T171518
+DTSTAMP:20250618T171611
 DTSTART:20250809T161500
 DTEND:20250809T170000
 SUMMARY:🏀 U14 Boys: AlphaWolf Conquerors vs Timberwolves Stones
@@ -61,36 +61,36 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Stones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ceb1a08e-fe20-4ee1-bd72-2e25dff09a62
+UID:1d2d6733-00c7-4050-a55d-957ced5d7a49
 SEQUENCE:0
-DTSTAMP:20250617T171518
+DTSTAMP:20250618T171611
 DTSTART:20250816T170000
 DTEND:20250816T174500
-SUMMARY:🏀 U14 Boys: AlphaWolf Conquerors vs Timberwolves Terriers
+SUMMARY:🏀 U14 Boys: AlphaWolf Conquerors vs Solway Vikings
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
- olves Terriers\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Vikings\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bd738ce9-488a-4b93-b207-f433e2e335ed
+UID:fd30704e-a239-47fd-8dd6-37d12e72bee6
 SEQUENCE:0
-DTSTAMP:20250617T171518
-DTSTART:20250823T153000
-DTEND:20250823T161500
+DTSTAMP:20250618T171611
+DTSTART:20250823T161500
+DTEND:20250823T170000
 SUMMARY:🏀 U14 Boys: AlphaWolf Conquerors vs Timberwolves Ramblers
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
- olves Ramblers\nArrive 15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Ramblers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:caddf426-bbd5-46f5-be98-1d8385035318
+UID:40a3fa2c-b9a0-445f-b57a-318e82c0e487
 SEQUENCE:0
-DTSTAMP:20250617T171518
-DTSTART:20250830T153000
-DTEND:20250830T161500
+DTSTAMP:20250618T171611
+DTSTART:20250830T161500
+DTEND:20250830T170000
 SUMMARY:🏀 U14 Boys: AlphaWolf Conquerors vs Malvern Tigers Orange
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
-  Tigers Orange\nArrive 15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

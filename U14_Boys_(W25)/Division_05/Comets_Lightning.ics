@@ -6,9 +6,9 @@ X-WR-CALNAME:Comets Lightning Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:229f8d24-a66f-41ae-ad78-3965f6a9a1c7
+UID:2645d638-245d-4d62-ab03-4928f8b8820c
 SEQUENCE:0
-DTSTAMP:20250617T171514
+DTSTAMP:20250618T171608
 DTSTART:20250621T140000
 DTEND:20250621T144500
 SUMMARY:🏀 U14 Boys: Comets Lightning vs AlphaWolf Force
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: AlphaW
  olf Force\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2f42a0e3-61fb-4bc3-b844-25a9db3c6094
+UID:dcc29c02-8edc-449c-8f27-cb464e031132
 SEQUENCE:0
-DTSTAMP:20250617T171514
+DTSTAMP:20250618T171608
 DTSTART:20250628T140000
 DTEND:20250628T144500
 SUMMARY:🏀 U14 Boys: Comets Lightning vs Maccabi Celtics
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4bfaa364-90c2-4043-9e8c-95612c4f5cbc
+UID:b17f4439-f431-4280-81e9-f2e4029116df
 SEQUENCE:0
-DTSTAMP:20250617T171514
+DTSTAMP:20250618T171608
 DTSTART:20250726T140000
 DTEND:20250726T144500
 SUMMARY:🏀 U14 Boys: Comets Lightning vs Timberwolves Dragons
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Dragons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:81d409fa-4065-49af-87de-13ebb5cd2039
+UID:84967e36-db65-4e7f-bcaf-8e2550f1e21c
 SEQUENCE:0
-DTSTAMP:20250617T171514
+DTSTAMP:20250618T171608
 DTSTART:20250802T140000
 DTEND:20250802T144500
 SUMMARY:🏀 U14 Boys: Comets Lightning vs Malvern Tigers Green
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f4511c66-6cf3-468d-b911-c18f7fb9caef
+UID:a61f2a7f-de31-4ca1-95c5-f728fad9efe2
 SEQUENCE:0
-DTSTAMP:20250617T171514
+DTSTAMP:20250618T171608
 DTSTART:20250809T140000
 DTEND:20250809T144500
 SUMMARY:🏀 U14 Boys: Comets Lightning vs Toorak Tomcats
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
   Tomcats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4622d381-ab3d-4e04-9168-17e7cb45946b
+UID:93632ee5-62ee-45a8-aa91-92e65c86a8f6
 SEQUENCE:0
-DTSTAMP:20250617T171514
+DTSTAMP:20250618T171608
 DTSTART:20250816T140000
 DTEND:20250816T144500
 SUMMARY:🏀 U14 Boys: Comets Lightning vs Glen Iris Scorpions Raven
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
  ris Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1689abb2-20a9-4d51-995c-a3446448f566
+UID:4c362d4c-106f-429f-bc3e-adac08f0e432
 SEQUENCE:0
-DTSTAMP:20250617T171514
+DTSTAMP:20250618T171608
 DTSTART:20250823T140000
 DTEND:20250823T144500
 SUMMARY:🏀 U14 Boys: Comets Lightning vs Solway Warriors
@@ -83,14 +83,14 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fb5c97f9-9569-4d5a-952c-c2c6effed531
+UID:02bb45db-6144-4ab9-a72a-bc24d25b6900
 SEQUENCE:0
-DTSTAMP:20250617T171514
-DTSTART:20250830T153000
-DTEND:20250830T161500
+DTSTAMP:20250618T171608
+DTSTART:20250830T140000
+DTEND:20250830T144500
 SUMMARY:🏀 U14 Boys: Comets Lightning vs AlphaWolf Force
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AlphaW
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: AlphaW
  olf Force\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

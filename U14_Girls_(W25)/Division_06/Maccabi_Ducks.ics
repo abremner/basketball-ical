@@ -6,20 +6,20 @@ X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e8f5fc8b-22c3-4221-b8f4-482943b6ffad
+UID:4b1d6ebe-09a1-4a9a-85e6-7fe7845feb17
 SEQUENCE:0
-DTSTAMP:20250617T171548
-DTSTART:20250621T153000
-DTEND:20250621T161500
+DTSTAMP:20250618T171639
+DTSTART:20250621T170000
+DTEND:20250621T174500
 SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Timberwolves Sapphires
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Timberwolve
- s Sapphires\nArrive 15 mins early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Sapphires\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bf503d4f-41b0-4f62-8da4-615d2be229b5
+UID:1fb22c1f-8ff7-4e4b-aac7-0c5833b0410e
 SEQUENCE:0
-DTSTAMP:20250617T171548
+DTSTAMP:20250618T171639
 DTSTART:20250726T153000
 DTEND:20250726T161500
 SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Darling Park Piranhas
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Darling Par
  k Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8b745d53-910a-4b3c-9faf-b24de597f2e4
+UID:ab9be6e5-afe2-4168-b97f-ce848ba2b6d1
 SEQUENCE:0
-DTSTAMP:20250617T171548
+DTSTAMP:20250618T171639
 DTSTART:20250802T153000
 DTEND:20250802T161500
 SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Maccabi Celtics
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Cel
  tics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:77cdef11-6ef6-4e8e-9768-7e9a0f9f245d
+UID:fae4aae4-b320-4b25-b038-99da28d594f6
 SEQUENCE:0
-DTSTAMP:20250617T171548
+DTSTAMP:20250618T171639
 DTSTART:20250809T161500
 DTEND:20250809T170000
 SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Glen Iris Scorpions Nettleton
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
  corpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5f2ce552-ca49-4f47-a987-2f2647993b92
+UID:8b897e1a-9bba-478d-98e2-b2c9a13a4122
 SEQUENCE:0
-DTSTAMP:20250617T171548
+DTSTAMP:20250618T171639
 DTSTART:20250816T153000
 DTEND:20250816T161500
 SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Lauriston Legends
@@ -61,20 +61,20 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston L
  egends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:da7e6122-edd4-423e-800e-e62dbbbc543a
+UID:75b1344b-09da-4517-b039-7dfd74a3e77e
 SEQUENCE:0
-DTSTAMP:20250617T171548
-DTSTART:20250823T170000
-DTEND:20250823T174500
+DTSTAMP:20250618T171639
+DTSTART:20250823T153000
+DTEND:20250823T161500
 SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Solway Sapphires
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
- Sapphires\nArrive 15 mins early for warm-up
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Sapp
+ hires\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:507bccc0-e507-444f-a323-108089ef015f
+UID:ee591fd4-b914-462c-b115-dfdbff7d3eeb
 SEQUENCE:0
-DTSTAMP:20250617T171548
+DTSTAMP:20250618T171639
 DTSTART:20250830T170000
 DTEND:20250830T174500
 SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Timberwolves Sapphires

@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Hawks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:15b17bff-ce5f-4706-a630-0058cf5feb7d
+UID:9219d1cb-afe1-487f-ae33-151a5cca7288
 SEQUENCE:0
-DTSTAMP:20250617T171320
+DTSTAMP:20250618T171420
 DTSTART:20250621T093000
 DTEND:20250621T101500
 SUMMARY:🏀 U10 Boys: Solway Hawks vs Malvern Tigers Blue
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0bb2ae35-dbb7-4815-ad9c-317a07512b51
+UID:8b29228a-f659-4948-b311-2f8124eca3bb
 SEQUENCE:0
-DTSTAMP:20250617T171320
+DTSTAMP:20250618T171420
 DTSTART:20250628T101500
 DTEND:20250628T110000
 SUMMARY:🏀 U10 Boys: Solway Hawks vs Hotham Piranhas
@@ -28,20 +28,20 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Hotham
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6380406a-5642-47b5-b764-2a3731bfac8e
+UID:4b7a21a9-3683-4601-beb9-22e577ffc79e
 SEQUENCE:0
-DTSTAMP:20250617T171320
+DTSTAMP:20250618T171420
 DTSTART:20250726T093000
 DTEND:20250726T101500
-SUMMARY:🏀 U10 Boys: Solway Hawks vs Hawksburn Piranhas
+SUMMARY:🏀 U10 Boys: Solway Hawks vs Dendy Park Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Hawksb
- urn Piranhas\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Dendy 
+ Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ec76520f-34d8-4a5a-8dbb-a557ab5ae74f
+UID:fb36d329-159d-4c27-adf7-df551fafa490
 SEQUENCE:0
-DTSTAMP:20250617T171320
+DTSTAMP:20250618T171420
 DTSTART:20250802T101500
 DTEND:20250802T110000
 SUMMARY:🏀 U10 Boys: Solway Hawks vs Timberwolves Boomers
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Boomers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b471b607-cda8-4706-8093-7ad36eb76026
+UID:e2fb03bb-1d01-43dd-b0b9-d8b890c5c836
 SEQUENCE:0
-DTSTAMP:20250617T171320
+DTSTAMP:20250618T171420
 DTSTART:20250809T093000
 DTEND:20250809T101500
 SUMMARY:🏀 U10 Boys: Solway Hawks vs Solway Celtics
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:71d31e3f-d35c-435c-ba58-f70fe106deb2
+UID:086353d6-e6f5-4f60-867f-0ce7becd0397
 SEQUENCE:0
-DTSTAMP:20250617T171320
+DTSTAMP:20250618T171420
 DTSTART:20250816T110000
 DTEND:20250816T114500
 SUMMARY:🏀 U10 Boys: Solway Hawks vs Malvern Tigers Blue
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ca705191-8b42-4fa1-9bf9-09142c7df9c1
+UID:8234e136-250d-487b-9f75-b90edc6e1ef4
 SEQUENCE:0
-DTSTAMP:20250617T171320
+DTSTAMP:20250618T171420
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Boys: Solway Hawks vs Hotham Piranhas
@@ -83,14 +83,14 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Hotham
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bfc3da2d-9967-470a-8824-405db7388564
+UID:13589ef2-3104-40c0-90a3-f966f0006d0b
 SEQUENCE:0
-DTSTAMP:20250617T171320
+DTSTAMP:20250618T171420
 DTSTART:20250830T110000
 DTEND:20250830T114500
-SUMMARY:🏀 U10 Boys: Solway Hawks vs Hawksburn Piranhas
+SUMMARY:🏀 U10 Boys: Solway Hawks vs Dendy Park Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Hawksb
- urn Piranhas\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Dendy 
+ Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

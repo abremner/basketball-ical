@@ -6,31 +6,31 @@ X-WR-CALNAME:Malvern Tigers Maroon Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:73614f06-0c84-4d70-8633-d27840d30a56
+UID:bd95bcc4-fe53-401c-bdfd-24c435db1645
 SEQUENCE:0
-DTSTAMP:20250617T171425
-DTSTART:20250621T131500
-DTEND:20250621T140000
+DTSTAMP:20250618T171524
+DTSTART:20250621T114500
+DTEND:20250621T123000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Maroon vs Golden Hawks Iron
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Golden Hawks Iron\nArrive 15 
- mins early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Golden 
+ Hawks Iron\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9561e9b2-56a6-4c87-987f-a9b111ac32fc
+UID:248da4e1-6e89-474a-87e3-6639f800a5ff
 SEQUENCE:0
-DTSTAMP:20250617T171425
-DTSTART:20250628T131500
-DTEND:20250628T140000
+DTSTAMP:20250618T171524
+DTSTART:20250628T123000
+DTEND:20250628T131500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Maroon vs Maccabi Giants
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Giants\nArrive 15 min
- s early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Giants\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6f1c8492-b5b4-4833-8956-6126917774fd
+UID:b357d4c5-635e-48cd-9a3d-07761b83fab5
 SEQUENCE:0
-DTSTAMP:20250617T171425
+DTSTAMP:20250618T171524
 DTSTART:20250726T123000
 DTEND:20250726T131500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Maroon vs Warrawee Piranhas
@@ -39,42 +39,31 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Warraw
  ee Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7334fe97-bc47-4250-8797-63aba74bcc19
+UID:b1c0f4a3-a865-4fe5-810c-371ebddc8acd
 SEQUENCE:0
-DTSTAMP:20250617T171425
-DTSTART:20250802T123000
-DTEND:20250802T131500
+DTSTAMP:20250618T171524
+DTSTART:20250802T114500
+DTEND:20250802T123000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Maroon vs Maccabi Falcons
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
- i Falcons\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:aff3730d-4bdd-4d48-9722-9a2a8b9d969b
-SEQUENCE:0
-DTSTAMP:20250617T171425
-DTSTART:20250809T114500
-DTEND:20250809T123000
-SUMMARY:🏀 U12 Boys: Malvern Tigers Maroon vs AlphaWolf Warriors
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: AlphaWo
- lf Warriors\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d0bfd2f0-3ef0-4ad2-b456-68e0846eb8c1
+UID:dac36615-ba0f-4140-9635-b91a7f9c6805
 SEQUENCE:0
-DTSTAMP:20250617T171425
-DTSTART:20250816T123000
-DTEND:20250816T131500
+DTSTAMP:20250618T171524
+DTSTART:20250816T114500
+DTEND:20250816T123000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Maroon vs Golden Hawks Iron
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Golden
-  Hawks Iron\nArrive 15 mins early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Golden 
+ Hawks Iron\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bf6724ed-2845-4a00-8d97-2e12dcf84fa5
+UID:a48524ba-db88-43d8-ad17-67525055a68e
 SEQUENCE:0
-DTSTAMP:20250617T171425
+DTSTAMP:20250618T171524
 DTSTART:20250823T123000
 DTEND:20250823T131500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Maroon vs Maccabi Giants
@@ -83,14 +72,14 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Giants\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:721daf8d-2f21-427c-b957-9450c3d3577d
+UID:804ac07c-e3f8-40d5-8fcd-82eb81ea7c9e
 SEQUENCE:0
-DTSTAMP:20250617T171425
-DTSTART:20250830T131500
-DTEND:20250830T140000
+DTSTAMP:20250618T171524
+DTSTART:20250830T123000
+DTEND:20250830T131500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Maroon vs Warrawee Piranhas
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Warrawee Piranhas\nArrive 15 
- mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Warraw
+ ee Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

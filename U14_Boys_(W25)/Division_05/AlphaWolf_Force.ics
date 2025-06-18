@@ -6,9 +6,9 @@ X-WR-CALNAME:AlphaWolf Force Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c19c3046-3534-429c-9f8c-e7f26f9fbddf
+UID:56ab2753-c220-4d77-8756-c781ee7bcfcc
 SEQUENCE:0
-DTSTAMP:20250617T171514
+DTSTAMP:20250618T171608
 DTSTART:20250621T140000
 DTEND:20250621T144500
 SUMMARY:🏀 U14 Boys: AlphaWolf Force vs Comets Lightning
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
   Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:62b8abbb-b6ef-4401-8e5a-e3564b810e69
+UID:143a7eb1-0f33-4836-9548-8e173f0e173c
 SEQUENCE:0
-DTSTAMP:20250617T171514
+DTSTAMP:20250618T171608
 DTSTART:20250628T153000
 DTEND:20250628T161500
 SUMMARY:🏀 U14 Boys: AlphaWolf Force vs Timberwolves Dragons
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Dragons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f5999e93-bcde-49f9-82ff-58c4c74c5723
+UID:bfe537b9-2e6b-4caf-8fc4-f6b8110a03f3
 SEQUENCE:0
-DTSTAMP:20250617T171514
+DTSTAMP:20250618T171608
 DTSTART:20250726T161500
 DTEND:20250726T170000
 SUMMARY:🏀 U14 Boys: AlphaWolf Force vs Malvern Tigers Green
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3ad3f01d-03ac-4f23-a572-7fb1c3f16e33
+UID:d194ed88-0407-48f0-8e15-854e76b69fcb
 SEQUENCE:0
-DTSTAMP:20250617T171514
+DTSTAMP:20250618T171608
 DTSTART:20250802T153000
 DTEND:20250802T161500
 SUMMARY:🏀 U14 Boys: AlphaWolf Force vs Solway Warriors
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:205cbc57-22cf-4937-bc31-e96c964ce59e
+UID:9e478bd5-f496-41c9-a553-df5f4825c56f
 SEQUENCE:0
-DTSTAMP:20250617T171514
+DTSTAMP:20250618T171608
 DTSTART:20250809T153000
 DTEND:20250809T161500
 SUMMARY:🏀 U14 Boys: AlphaWolf Force vs Glen Iris Scorpions Raven
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
  ris Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9e94b4e1-a266-462c-93cd-59edf8b863a5
+UID:087e4c2b-ac11-42af-a1e5-694a3dcd07c8
 SEQUENCE:0
-DTSTAMP:20250617T171514
+DTSTAMP:20250618T171608
 DTSTART:20250816T161500
 DTEND:20250816T170000
 SUMMARY:🏀 U14 Boys: AlphaWolf Force vs Maccabi Celtics
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6c974a16-bc50-4d13-ad88-cc9c99fa4761
+UID:c1c7605b-3b7f-498b-8f24-770e1a9adb1c
 SEQUENCE:0
-DTSTAMP:20250617T171514
+DTSTAMP:20250618T171608
 DTSTART:20250823T161500
 DTEND:20250823T170000
 SUMMARY:🏀 U14 Boys: AlphaWolf Force vs Toorak Tomcats
@@ -83,14 +83,14 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
   Tomcats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:46f11911-2960-472f-98a5-1c6a4793d0c5
+UID:c3767b34-5a7c-48f2-9ce8-e127195bbc26
 SEQUENCE:0
-DTSTAMP:20250617T171514
-DTSTART:20250830T153000
-DTEND:20250830T161500
+DTSTAMP:20250618T171608
+DTSTART:20250830T140000
+DTEND:20250830T144500
 SUMMARY:🏀 U14 Boys: AlphaWolf Force vs Comets Lightning
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Comets
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
   Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

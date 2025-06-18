@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Cavs Fixtures
+X-WR-CALNAME:Timberwolves Cavs Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c5c61ee8-f90f-45f9-ab2b-eb7a38e5b376
+SEQUENCE:0
+DTSTAMP:20250618T171535
+DTSTART:20250621T123000
+DTEND:20250621T131500
+SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Golden Hawks Blaze
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Golden Hawks Blaze\nArrive 15
+  mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:22979617-45a2-4d99-83d3-a1db56d5426e
+SEQUENCE:0
+DTSTAMP:20250618T171535
+DTSTART:20250628T123000
+DTEND:20250628T131500
+SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Maccabi Jaguars
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Jaguars\nArrive 15 mi
+ ns early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a7024837-afe1-43df-8f1b-b16155f166d4
+SEQUENCE:0
+DTSTAMP:20250618T171535
+DTSTART:20250726T114500
+DTEND:20250726T123000
+SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Balaclava Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Balacla
+ va Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:29528b9c-a842-4f7b-857b-88225db0fcf0
+SEQUENCE:0
+DTSTAMP:20250618T171535
+DTSTART:20250802T144500
+DTEND:20250802T153000
+SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Wilson Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Wilson 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:982c2c4d-73b1-4aa8-b24e-8e44f80f0869
+SEQUENCE:0
+DTSTAMP:20250618T171535
+DTSTART:20250809T114500
+DTEND:20250809T123000
+SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Malvern Tigers Aqua
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Aqua\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:534ecefe-5844-43bf-b52a-2ceaa116d815
+SEQUENCE:0
+DTSTAMP:20250618T171535
+DTSTART:20250816T144500
+DTEND:20250816T153000
+SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Golden Hawks Blaze
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Golden 
+ Hawks Blaze\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bade1bce-559b-4afd-934d-1bd7b82aeb7d
+SEQUENCE:0
+DTSTAMP:20250618T171535
+DTSTART:20250823T123000
+DTEND:20250823T131500
+SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Maccabi Jaguars
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Jaguars\nArrive 15 mi
+ ns early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d73c723e-6c07-4872-a40e-b607701dd5da
+SEQUENCE:0
+DTSTAMP:20250618T171535
+DTSTART:20250830T114500
+DTEND:20250830T123000
+SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Balaclava Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Balacla
+ va Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

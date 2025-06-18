@@ -6,91 +6,80 @@ X-WR-CALNAME:Toorak Tycoons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2ea8d813-989a-4432-b356-26134666039b
+UID:d83cb590-8fa7-4ea9-be45-a231d8e9cd0c
 SEQUENCE:0
-DTSTAMP:20250617T171329
-DTSTART:20250621T093000
-DTEND:20250621T101500
-SUMMARY:🏀 U10 Boys: Toorak Tycoons vs Malvern Tigers  Purple
+DTSTAMP:20250618T171428
+DTSTART:20250628T093000
+DTEND:20250628T101500
+SUMMARY:🏀 U10 Boys: Toorak Tycoons vs SouthEast Venom Rockets
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
- n Tigers  Purple\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: SouthE
+ ast Venom Rockets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d9a28fb2-4224-498b-8c07-5d8274ecadf9
+UID:95d3d477-02cc-4585-9704-eebc9f196535
 SEQUENCE:0
-DTSTAMP:20250617T171329
-DTSTART:20250628T084500
-DTEND:20250628T093000
-SUMMARY:🏀 U10 Boys: Toorak Tycoons vs Malvern Tigers  Brown
+DTSTAMP:20250618T171428
+DTSTART:20250726T080000
+DTEND:20250726T084500
+SUMMARY:🏀 U10 Boys: Toorak Tycoons vs Malvern Tigers Purple
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
- n Tigers  Brown\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Purple\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:24081877-af56-41a0-b3eb-ced9f002dbaf
+UID:b6d025d3-2163-449c-8481-4fd3aa73ce85
 SEQUENCE:0
-DTSTAMP:20250617T171329
-DTSTART:20250726T101500
-DTEND:20250726T110000
+DTSTAMP:20250618T171428
+DTSTART:20250802T093000
+DTEND:20250802T101500
+SUMMARY:🏀 U10 Boys: Toorak Tycoons vs Glen Iris Scorpions Gardiner
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
+ ris Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6fa101b9-5c8d-4776-aeb8-e93558f7723c
+SEQUENCE:0
+DTSTAMP:20250618T171428
+DTSTART:20250809T080000
+DTEND:20250809T084500
 SUMMARY:🏀 U10 Boys: Toorak Tycoons vs Orrong Park Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Orrong
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Orrong
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2db847cb-2881-4499-aed8-1096f928d13b
+UID:c29e5783-5ec8-4c54-8aca-7208f7177e1c
 SEQUENCE:0
-DTSTAMP:20250617T171329
-DTSTART:20250802T080000
-DTEND:20250802T084500
-SUMMARY:🏀 U10 Boys: Toorak Tycoons vs Golden Hawks Sky
+DTSTAMP:20250618T171428
+DTSTART:20250816T084500
+DTEND:20250816T093000
+SUMMARY:🏀 U10 Boys: Toorak Tycoons vs Hawksburn Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Golden
-  Hawks Sky\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Hawksb
+ urn Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:69a5fff0-db7f-4659-9354-c0404a575601
+UID:1e78a3ca-1eb3-4869-99ec-e16442d70188
 SEQUENCE:0
-DTSTAMP:20250617T171329
-DTSTART:20250809T084500
-DTEND:20250809T093000
-SUMMARY:🏀 U10 Boys: Toorak Tycoons vs Penpraze Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Penpra
- ze Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:949a03fe-c298-4f87-836c-7e7fa29a372b
-SEQUENCE:0
-DTSTAMP:20250617T171329
-DTSTART:20250816T093000
-DTEND:20250816T101500
+DTSTAMP:20250618T171428
+DTSTART:20250823T101500
+DTEND:20250823T110000
 SUMMARY:🏀 U10 Boys: Toorak Tycoons vs Solway Bulls
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Bulls\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4969cd9a-b7e9-4305-84d5-4541fa877e38
+UID:e16fc475-54da-4995-a0d6-8da33e6e11f9
 SEQUENCE:0
-DTSTAMP:20250617T171329
-DTSTART:20250823T101500
-DTEND:20250823T110000
+DTSTAMP:20250618T171428
+DTSTART:20250830T101500
+DTEND:20250830T110000
 SUMMARY:🏀 U10 Boys: Toorak Tycoons vs Timberwolves Cobras
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Cobras\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:e7d75f50-6b2e-404c-ad8f-30599fd7cd06
-SEQUENCE:0
-DTSTAMP:20250617T171329
-DTSTART:20250830T093000
-DTEND:20250830T101500
-SUMMARY:🏀 U10 Boys: Toorak Tycoons vs Malvern Tigers  Purple
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
- n Tigers  Purple\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

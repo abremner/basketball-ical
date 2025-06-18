@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Dingoes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:52fbffa3-faec-407e-a716-a6b0badcd8df
+UID:e03830bb-3580-425b-bdf1-d03445b34f01
 SEQUENCE:0
-DTSTAMP:20250617T171437
+DTSTAMP:20250618T171533
 DTSTART:20250621T114500
 DTEND:20250621T123000
 SUMMARY:🏀 U12 Boys: Solway Dingoes vs Malvern Tigers Tan
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Tan\nArrive 15
   mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:846da11c-667d-4547-a8a7-3292dce6a154
+UID:8299e6d7-2f37-4cd1-ab6b-a93cbc476829
 SEQUENCE:0
-DTSTAMP:20250617T171437
+DTSTAMP:20250618T171533
 DTSTART:20250628T123000
 DTEND:20250628T131500
 SUMMARY:🏀 U12 Boys: Solway Dingoes vs Solway Crocodiles
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Crocodiles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c9629fbb-8125-431b-875e-6405e881bcbe
+UID:4fb2521c-4766-4186-8118-22a247652060
 SEQUENCE:0
-DTSTAMP:20250617T171437
+DTSTAMP:20250618T171533
 DTSTART:20250726T123000
 DTEND:20250726T131500
 SUMMARY:🏀 U12 Boys: Solway Dingoes vs Timberwolves Fury
@@ -39,58 +39,58 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Fury\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d5f59d6f-653a-4605-b774-c2b51ca1239d
+UID:b16cbe22-93a3-43c5-9ef3-ed625bba670f
 SEQUENCE:0
-DTSTAMP:20250617T171437
-DTSTART:20250802T114500
-DTEND:20250802T123000
-SUMMARY:🏀 U12 Boys: Solway Dingoes vs Malvern Tigers Aqua
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Aqua\nArrive 1
- 5 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:6a080759-321f-453a-b63b-a6561976f10e
-SEQUENCE:0
-DTSTAMP:20250617T171437
-DTSTART:20250809T123000
-DTEND:20250809T131500
-SUMMARY:🏀 U12 Boys: Solway Dingoes vs Balaclava Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Balacla
- va Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:1f0fe90a-8eb7-4274-9569-426649489f4f
-SEQUENCE:0
-DTSTAMP:20250617T171437
-DTSTART:20250816T123000
-DTEND:20250816T131500
-SUMMARY:🏀 U12 Boys: Solway Dingoes vs Maccabi Kings
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
-  Kings\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5228b3eb-9e33-42f2-a726-a1a98cb4cf87
-SEQUENCE:0
-DTSTAMP:20250617T171437
-DTSTART:20250823T114500
-DTEND:20250823T123000
+DTSTAMP:20250618T171533
+DTSTART:20250802T123000
+DTEND:20250802T131500
 SUMMARY:🏀 U12 Boys: Solway Dingoes vs Malvern Tigers Lime
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Lime\nArrive 1
- 5 mins early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Lime\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:76660510-7dc8-47f8-921b-bbea1c343725
+UID:b0e8e5f3-3233-4396-ba23-ff3c7d4bbe73
 SEQUENCE:0
-DTSTAMP:20250617T171437
-DTSTART:20250830T144500
-DTEND:20250830T153000
-SUMMARY:🏀 U12 Boys: Solway Dingoes vs Wilson Piranhas
+DTSTAMP:20250618T171533
+DTSTART:20250809T114500
+DTEND:20250809T123000
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Maccabi Kings
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Kings\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bb1d91c6-0867-4c18-9d46-6519d593c4c5
+SEQUENCE:0
+DTSTAMP:20250618T171533
+DTSTART:20250816T114500
+DTEND:20250816T123000
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Malvern Tigers Tan
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Tan\nArrive 15
+  mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:161b24ed-e192-4cfb-b3c2-bc92c59b2d83
+SEQUENCE:0
+DTSTAMP:20250618T171533
+DTSTART:20250823T123000
+DTEND:20250823T131500
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Solway Crocodiles
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Wilson 
- Piranhas\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Crocodiles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:acec2a4b-c265-45f7-9f27-4885c36cfcd6
+SEQUENCE:0
+DTSTAMP:20250618T171533
+DTSTART:20250830T123000
+DTEND:20250830T131500
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Timberwolves Fury
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+ wolves Fury\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

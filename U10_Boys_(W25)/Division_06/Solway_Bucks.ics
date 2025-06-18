@@ -6,91 +6,91 @@ X-WR-CALNAME:Solway Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9df6e7c6-ecd1-4ffb-bbc7-39e5f9b60360
+UID:b6e3b0e1-edd9-4f19-aea4-d4d438d80f09
 SEQUENCE:0
-DTSTAMP:20250617T171323
-DTSTART:20250621T110000
-DTEND:20250621T114500
-SUMMARY:🏀 U10 Boys: Solway Bucks vs Glen Iris Scorpions Gardiner
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
- is Scorpions Gardiner\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:92ec2917-e048-4f9d-aa90-9d65542df1e3
-SEQUENCE:0
-DTSTAMP:20250617T171323
-DTSTART:20250628T093000
-DTEND:20250628T101500
-SUMMARY:🏀 U10 Boys: Solway Bucks vs SouthEast Venom Rockets
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: SouthE
- ast Venom Rockets\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:1c9db830-a7c7-4801-807b-e535de8449e9
-SEQUENCE:0
-DTSTAMP:20250617T171323
-DTSTART:20250726T110000
-DTEND:20250726T114500
+DTSTAMP:20250618T171423
+DTSTART:20250621T093000
+DTEND:20250621T101500
 SUMMARY:🏀 U10 Boys: Solway Bucks vs AlphaWolf Hunters
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: AlphaWo
- lf Hunters\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5bfc1614-cd73-4a36-971c-720bf8e4c03a
-SEQUENCE:0
-DTSTAMP:20250617T171323
-DTSTART:20250802T101500
-DTEND:20250802T110000
-SUMMARY:🏀 U10 Boys: Solway Bucks vs Timberwolves Cubs
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
- wolves Cubs\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
+ olf Hunters\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:eabcc23c-c4f8-45dd-b376-49ea0e2e0f8e
+UID:9616c505-a8e2-4605-85b6-ca5c3f6e117d
 SEQUENCE:0
-DTSTAMP:20250617T171323
-DTSTART:20250809T093000
-DTEND:20250809T101500
+DTSTAMP:20250618T171423
+DTSTART:20250628T110000
+DTEND:20250628T114500
+SUMMARY:🏀 U10 Boys: Solway Bucks vs Timberwolves Cubs
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Cubs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7e7de449-4328-4a52-a794-71dd7f6727f3
+SEQUENCE:0
+DTSTAMP:20250618T171423
+DTSTART:20250726T101500
+DTEND:20250726T110000
 SUMMARY:🏀 U10 Boys: Solway Bucks vs Glen Iris Scorpions Nettleton
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:30815186-63d4-4fcf-a190-acee03c9841b
+UID:3a2a9bd4-065e-4ba1-a16f-2c79c4b10a85
 SEQUENCE:0
-DTSTAMP:20250617T171323
+DTSTAMP:20250618T171423
+DTSTART:20250802T101500
+DTEND:20250802T110000
+SUMMARY:🏀 U10 Boys: Solway Bucks vs Golden Hawks Sky
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Golden
+  Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e4e2e829-b7bc-44d0-ae9b-42164b26b566
+SEQUENCE:0
+DTSTAMP:20250618T171423
+DTSTART:20250809T110000
+DTEND:20250809T114500
+SUMMARY:🏀 U10 Boys: Solway Bucks vs Toorak Torpedoes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Torpedoes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cc00cdd3-ce3f-4aea-a5de-14721d35e95a
+SEQUENCE:0
+DTSTAMP:20250618T171423
 DTSTART:20250816T101500
 DTEND:20250816T110000
-SUMMARY:🏀 U10 Boys: Solway Bucks vs Toorak Torpedoes
+SUMMARY:🏀 U10 Boys: Solway Bucks vs Maccabi Ducks
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
-  Torpedoes\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fc0c7ff1-3c82-42f5-9d42-98d30dc15dc5
+UID:6f66234f-c941-4a13-a548-167ae8cb930c
 SEQUENCE:0
-DTSTAMP:20250617T171323
+DTSTAMP:20250618T171423
 DTSTART:20250823T110000
 DTEND:20250823T114500
-SUMMARY:🏀 U10 Boys: Solway Bucks vs Maccabi Ducks
+SUMMARY:🏀 U10 Boys: Solway Bucks vs Penpraze Park Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
-  Ducks\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Penpraz
+ e Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1e7d9f8b-d7aa-41db-91aa-12cdc22e18ef
+UID:b073b851-6370-4908-abcb-9d3572c1c267
 SEQUENCE:0
-DTSTAMP:20250617T171323
-DTSTART:20250830T101500
-DTEND:20250830T110000
-SUMMARY:🏀 U10 Boys: Solway Bucks vs Glen Iris Scorpions Gardiner
+DTSTAMP:20250618T171423
+DTSTART:20250830T093000
+DTEND:20250830T101500
+SUMMARY:🏀 U10 Boys: Solway Bucks vs AlphaWolf Hunters
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
- ris Scorpions Gardiner\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
+ olf Hunters\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

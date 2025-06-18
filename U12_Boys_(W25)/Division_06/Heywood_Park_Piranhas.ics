@@ -6,22 +6,55 @@ X-WR-CALNAME:Heywood Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:4250f57b-a06e-441a-bf16-3509d62d8cdd
+UID:4b849918-d2f1-4af6-8d2f-e35908fdd85e
 SEQUENCE:0
-DTSTAMP:20250617T171415
+DTSTAMP:20250618T171516
 DTSTART:20250621T131500
 DTEND:20250621T140000
-SUMMARY:🏀 U12 Boys: Heywood Park Piranhas vs Solway Wolverines
+SUMMARY:🏀 U12 Boys: Heywood Park Piranhas vs AlphaWolf Warriors
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
-  Wolverines\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AlphaW
+ olf Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a53c13a5-984d-41de-9bd0-b7efc64cb1ad
+UID:b615a396-b054-4b07-a6ff-949288fa72be
 SEQUENCE:0
-DTSTAMP:20250617T171415
-DTSTART:20250628T144500
-DTEND:20250628T153000
+DTSTAMP:20250618T171516
+DTSTART:20250628T140000
+DTEND:20250628T144500
+SUMMARY:🏀 U12 Boys: Heywood Park Piranhas vs Malvern Tigers Orange
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Orange\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:da71939f-a157-4f78-9c94-07b806dcd31b
+SEQUENCE:0
+DTSTAMP:20250618T171516
+DTSTART:20250726T131500
+DTEND:20250726T140000
+SUMMARY:🏀 U12 Boys: Heywood Park Piranhas vs AlphaWolf Spartans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: AlphaWo
+ lf Spartans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f778252a-a702-4fcd-bacb-137f069657fc
+SEQUENCE:0
+DTSTAMP:20250618T171516
+DTSTART:20250802T144500
+DTEND:20250802T153000
+SUMMARY:🏀 U12 Boys: Heywood Park Piranhas vs Solway Wolverines
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Wolverines\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4aa5a23f-a50b-48f5-8229-0ff52a56227d
+SEQUENCE:0
+DTSTAMP:20250618T171516
+DTSTART:20250809T131500
+DTEND:20250809T140000
 SUMMARY:🏀 U12 Boys: Heywood Park Piranhas vs Glen Iris Scorpions Gardin
  er
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
@@ -29,70 +62,36 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fc1f20e8-0dac-4102-a9c3-3996cc80681f
+UID:a1993952-cbb4-4c39-9154-9881fdc0a7ff
 SEQUENCE:0
-DTSTAMP:20250617T171415
-DTSTART:20250726T144500
-DTEND:20250726T153000
-SUMMARY:🏀 U12 Boys: Heywood Park Piranhas vs Malvern Tigers Orange
+DTSTAMP:20250618T171516
+DTSTART:20250816T144500
+DTEND:20250816T153000
+SUMMARY:🏀 U12 Boys: Heywood Park Piranhas vs Timberwolves Howlers
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
-  Tigers Orange\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Howlers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a57a4617-bd85-4267-821c-ecf54cd2b91b
+UID:cd566214-bf56-45f9-9848-85ef4f8b63aa
 SEQUENCE:0
-DTSTAMP:20250617T171415
-DTSTART:20250802T144500
-DTEND:20250802T153000
+DTSTAMP:20250618T171516
+DTSTART:20250823T144500
+DTEND:20250823T153000
 SUMMARY:🏀 U12 Boys: Heywood Park Piranhas vs Maccabi Ducks
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:96947136-f725-498c-9067-425f4e5be7f9
+UID:902fee39-8842-431c-ba3c-6dceacf06230
 SEQUENCE:0
-DTSTAMP:20250617T171415
-DTSTART:20250809T140000
-DTEND:20250809T144500
-SUMMARY:🏀 U12 Boys: Heywood Park Piranhas vs Timberwolves Howlers
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Howlers\nArrive 
- 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:d21d298d-4a2a-4b6e-bf27-d15845b272b8
-SEQUENCE:0
-DTSTAMP:20250617T171415
-DTSTART:20250816T140000
-DTEND:20250816T144500
-SUMMARY:🏀 U12 Boys: Heywood Park Piranhas vs Solway Wolverines
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Wolverines\nArrive 15 
- mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:7054951c-6738-4976-b70a-3300500469da
-SEQUENCE:0
-DTSTAMP:20250617T171415
-DTSTART:20250823T140000
-DTEND:20250823T144500
-SUMMARY:🏀 U12 Boys: Heywood Park Piranhas vs Glen Iris Scorpions Gardin
- er
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Glen Iris Scorpions Gardiner\
- nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:2980f656-1bf3-49a9-a4b1-29f217ed2e7b
-SEQUENCE:0
-DTSTAMP:20250617T171415
+DTSTAMP:20250618T171516
 DTSTART:20250830T131500
 DTEND:20250830T140000
-SUMMARY:🏀 U12 Boys: Heywood Park Piranhas vs Malvern Tigers Orange
+SUMMARY:🏀 U12 Boys: Heywood Park Piranhas vs AlphaWolf Warriors
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
- n Tigers Orange\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AlphaW
+ olf Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

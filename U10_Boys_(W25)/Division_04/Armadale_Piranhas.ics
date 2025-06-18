@@ -6,80 +6,91 @@ X-WR-CALNAME:Armadale Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:3b444bdb-53e5-47cf-af7e-62a974bf7101
+UID:e6b693b0-ef9a-42c0-bba2-fd007b2faeac
 SEQUENCE:0
-DTSTAMP:20250617T171315
-DTSTART:20250621T110000
-DTEND:20250621T114500
-SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Maccabi Celtics
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
-  Celtics\nArrive 15 mins early for warm-up
+DTSTAMP:20250618T171415
+DTSTART:20250621T093000
+DTEND:20250621T101500
+SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Malvern Tigers Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b917a7e6-d6d5-4f11-ab4c-96504f5dcf55
+UID:b741658b-b2e6-4461-91f5-13f309f5361f
 SEQUENCE:0
-DTSTAMP:20250617T171315
-DTSTART:20250628T093000
-DTEND:20250628T101500
+DTSTAMP:20250618T171415
+DTSTART:20250628T110000
+DTEND:20250628T114500
+SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Ashy Lightning Gold
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
+ ghtning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e8a914ae-0805-4429-aee6-de184c345f9b
+SEQUENCE:0
+DTSTAMP:20250618T171415
+DTSTART:20250726T110000
+DTEND:20250726T114500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Toorak Tigersharks
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Tigersharks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d275852b-23e6-4555-b2e7-e3b4a89d1e8d
+UID:cf77654b-6502-4aee-91dd-cb985a81545c
 SEQUENCE:0
-DTSTAMP:20250617T171315
-DTSTART:20250726T110000
-DTEND:20250726T114500
+DTSTAMP:20250618T171415
+DTSTART:20250802T110000
+DTEND:20250802T114500
+SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Glen Iris Scorpions Ferndale
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
+ is Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:621555a7-686b-4cf1-b64f-797d9f1781d8
+SEQUENCE:0
+DTSTAMP:20250618T171415
+DTSTART:20250809T110000
+DTEND:20250809T114500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Solway Lakers
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Lakers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bb06b47b-5753-4ddd-a722-cff4dd87a5a4
+UID:9c2eaed8-6bb9-448e-8749-a14d1c10d23d
 SEQUENCE:0
-DTSTAMP:20250617T171315
-DTSTART:20250802T110000
-DTEND:20250802T114500
-SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Ashy Lightning Green
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
- ghtning Green\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:10a8a85b-96f2-4e78-8f6c-816ab2146d6a
-SEQUENCE:0
-DTSTAMP:20250617T171315
-DTSTART:20250809T110000
-DTEND:20250809T114500
-SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Dendy Park Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Dendy P
- ark Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:d8a045d3-08ec-481b-9f06-53b3b9d79495
-SEQUENCE:0
-DTSTAMP:20250617T171315
-DTSTART:20250816T110000
-DTEND:20250816T114500
-SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Malvern Tigers Green
+DTSTAMP:20250618T171415
+DTSTART:20250816T093000
+DTEND:20250816T101500
+SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Arax
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
- n Tigers Green\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7124d873-13a7-4ae6-a3a2-c5f0f072187d
+UID:8a80fcf7-9120-46be-8391-21dfb6a244c0
 SEQUENCE:0
-DTSTAMP:20250617T171315
+DTSTAMP:20250618T171415
 DTSTART:20250823T093000
 DTEND:20250823T101500
-SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Malvern Tigers Orange
+SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Maccabi Celtics
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
- n Tigers Orange\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c794147b-4c79-4d0b-84bf-b56aa1ae72d4
+SEQUENCE:0
+DTSTAMP:20250618T171415
+DTSTART:20250830T110000
+DTEND:20250830T114500
+SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Malvern Tigers Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

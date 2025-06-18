@@ -6,11 +6,33 @@ X-WR-CALNAME:Malvern Tigers Yellow Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:37713f36-7cb6-48ec-977f-0ead3f966a9c
+UID:7bb735d0-1816-43d6-9a82-e8d9c85bfe97
 SEQUENCE:0
-DTSTAMP:20250617T171313
-DTSTART:20250621T110000
-DTEND:20250621T114500
+DTSTAMP:20250618T171414
+DTSTART:20250621T101500
+DTEND:20250621T110000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Yellow vs Maccabi Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:312bc66f-04b0-4775-95e4-e45b61d0013e
+SEQUENCE:0
+DTSTAMP:20250618T171414
+DTSTART:20250628T101500
+DTEND:20250628T110000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Yellow vs Malvern Tigers White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e620acdb-585c-467b-a82f-33215c475bb9
+SEQUENCE:0
+DTSTAMP:20250618T171414
+DTSTART:20250726T110000
+DTEND:20250726T114500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Yellow vs Melbourne Wolves RBT Viper
  s
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
@@ -18,82 +40,59 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Melbou
  rne Wolves RBT Vipers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1bddf37c-8af7-49e5-8659-e9f4068dc908
+UID:6cdd4b23-a6d0-4680-ad19-953bcfa75c23
 SEQUENCE:0
-DTSTAMP:20250617T171313
-DTSTART:20250628T110000
-DTEND:20250628T114500
-SUMMARY:🏀 U10 Boys: Malvern Tigers Yellow vs Malvern Tigers White
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
- n Tigers White\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:90c77faa-c2c7-4ca8-9cc4-4af543a63eaa
-SEQUENCE:0
-DTSTAMP:20250617T171313
-DTSTART:20250726T101500
-DTEND:20250726T110000
-SUMMARY:🏀 U10 Boys: Malvern Tigers Yellow vs Maccabi Bucks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
- i Bucks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:eac833b5-3f5b-47fb-b325-c6bf6bdc2dcd
-SEQUENCE:0
-DTSTAMP:20250617T171313
+DTSTAMP:20250618T171414
 DTSTART:20250802T110000
 DTEND:20250802T114500
-SUMMARY:🏀 U10 Boys: Malvern Tigers Yellow vs Glen Iris Scorpions Fernda
- le
+SUMMARY:🏀 U10 Boys: Malvern Tigers Yellow vs Malvern Tigers Orange
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
- is Scorpions Ferndale\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b46a8faf-0459-439f-8070-0e3f5c993776
+UID:b64d6f92-11e3-4f7d-916a-3292e4c09ccc
 SEQUENCE:0
-DTSTAMP:20250617T171313
+DTSTAMP:20250618T171414
 DTSTART:20250809T110000
 DTEND:20250809T114500
-SUMMARY:🏀 U10 Boys: Malvern Tigers Yellow vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
- ightning Gold\nArrive 15 mins early for warm-up
+SUMMARY:🏀 U10 Boys: Malvern Tigers Yellow vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:25a239e2-dc2d-4a51-ab67-549e7de63555
+UID:2619bbba-335b-4d9e-8b00-a86bf2b247db
 SEQUENCE:0
-DTSTAMP:20250617T171313
-DTSTART:20250816T101500
-DTEND:20250816T110000
-SUMMARY:🏀 U10 Boys: Malvern Tigers Yellow vs Melbourne Wolves RBT Viper
- s
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Melbou
- rne Wolves RBT Vipers\nArrive 15 mins early for warm-up
+DTSTAMP:20250618T171414
+DTSTART:20250816T110000
+DTEND:20250816T114500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Yellow vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9581928a-a781-4306-8e02-f1a19d114c45
+UID:74d64134-c898-4d86-b0fa-e01f676df5ee
 SEQUENCE:0
-DTSTAMP:20250617T171313
+DTSTAMP:20250618T171414
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Yellow vs Malvern Tigers White
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
- n Tigers White\nArrive 15 mins early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2632f9e8-e2cd-440c-9746-c08c8f4d1550
+UID:f211c794-7252-4b68-b490-3d99d6ed4459
 SEQUENCE:0
-DTSTAMP:20250617T171313
-DTSTART:20250830T101500
-DTEND:20250830T110000
-SUMMARY:🏀 U10 Boys: Malvern Tigers Yellow vs Maccabi Bucks
+DTSTAMP:20250618T171414
+DTSTART:20250830T110000
+DTEND:20250830T114500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Yellow vs Melbourne Wolves RBT Viper
+ s
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
- i Bucks\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Melbou
+ rne Wolves RBT Vipers\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

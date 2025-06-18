@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e02b126d-e8ec-490c-8f25-e8f1d10f5465
+UID:6fde1db7-1f85-4580-94db-ed6b4b3e5a0a
 SEQUENCE:0
-DTSTAMP:20250617T171521
+DTSTAMP:20250618T171614
 DTSTART:20250621T153000
 DTEND:20250621T161500
 SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Malvern Tigers Blue
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:161c87e8-de2d-4291-8656-15156ae7b82c
+UID:207e4bcc-6793-4abc-b916-239c4cb354a7
 SEQUENCE:0
-DTSTAMP:20250617T171521
+DTSTAMP:20250618T171614
 DTSTART:20250628T161500
 DTEND:20250628T170000
 SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Toorak Tractors
@@ -28,20 +28,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Toorak
  Tractors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cff9a844-95e7-45d6-b538-a9bd403217cb
+UID:e6bf97ab-b54d-4b7f-ab54-80e82b3ed47f
 SEQUENCE:0
-DTSTAMP:20250617T171521
+DTSTAMP:20250618T171614
 DTSTART:20250726T153000
 DTEND:20250726T161500
-SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Solway Vikings
+SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Timberwolves Terriers
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
- Vikings\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Terriers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4b947610-5d37-405e-8642-2321faf021ff
+UID:9b9d2e6e-e4da-4938-8e29-301da90356e7
 SEQUENCE:0
-DTSTAMP:20250617T171521
+DTSTAMP:20250618T171614
 DTSTART:20250802T153000
 DTEND:20250802T161500
 SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Solway Gladiators
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Gladiators\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ee3a6d16-3e02-4e96-ba04-125c04344034
+UID:756a2fd6-f655-4ab1-a290-f04b0dfcf0c9
 SEQUENCE:0
-DTSTAMP:20250617T171521
+DTSTAMP:20250618T171614
 DTSTART:20250809T153000
 DTEND:20250809T161500
 SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Inkerman Piranhas
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Inkerma
  n Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f6a2c786-7a1a-4e4b-9a12-f6776036fc68
+UID:c3e68210-b2e5-4812-9ae3-a3f9fc01cf9d
 SEQUENCE:0
-DTSTAMP:20250617T171521
+DTSTAMP:20250618T171614
 DTSTART:20250816T161500
 DTEND:20250816T170000
 SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Malvern Tigers Blue
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ff048f76-98e2-4264-a4ed-e01be97acea8
+UID:2f58c9d9-6cde-4d67-ad0e-c64ef5b544b5
 SEQUENCE:0
-DTSTAMP:20250617T171521
+DTSTAMP:20250618T171614
 DTSTART:20250823T153000
 DTEND:20250823T161500
 SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Toorak Tractors
@@ -83,14 +83,14 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
   Tractors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d06a7ec0-9816-4b34-af9f-f87e3f7e1b46
+UID:14289deb-5a1d-4acf-b729-299b39cc18ee
 SEQUENCE:0
-DTSTAMP:20250617T171521
+DTSTAMP:20250618T171614
 DTSTART:20250830T153000
 DTEND:20250830T161500
-SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Solway Vikings
+SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Timberwolves Terriers
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
-  Vikings\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Terriers\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

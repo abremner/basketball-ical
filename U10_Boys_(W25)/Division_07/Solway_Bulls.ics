@@ -6,91 +6,80 @@ X-WR-CALNAME:Solway Bulls Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9c14bcb9-21ed-4531-8ec5-66f2af9476a9
+UID:b7fc6fc6-09e7-4813-a2ae-05a5d8a7eaa6
 SEQUENCE:0
-DTSTAMP:20250617T171328
-DTSTART:20250621T084500
-DTEND:20250621T093000
-SUMMARY:🏀 U10 Boys: Solway Bulls vs Golden Hawks Sky
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Golden
-  Hawks Sky\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:8d7f0501-5cd1-4997-8076-8cf5d071673a
-SEQUENCE:0
-DTSTAMP:20250617T171328
-DTSTART:20250628T093000
-DTEND:20250628T101500
+DTSTAMP:20250618T171426
+DTSTART:20250621T093000
+DTEND:20250621T101500
 SUMMARY:🏀 U10 Boys: Solway Bulls vs Timberwolves Cobras
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Cobras\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bc68991e-5516-4d7e-91f3-09828549e44c
+UID:eaf9b080-fb31-41fe-879b-c7ce2d2acf93
 SEQUENCE:0
-DTSTAMP:20250617T171328
-DTSTART:20250726T084500
-DTEND:20250726T093000
-SUMMARY:🏀 U10 Boys: Solway Bulls vs Malvern Tigers  Brown
+DTSTAMP:20250618T171426
+DTSTART:20250726T093000
+DTEND:20250726T101500
+SUMMARY:🏀 U10 Boys: Solway Bulls vs Hawksburn Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Hawksb
+ urn Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:70243b61-f6cd-46d9-8853-3ea834d20fdd
+SEQUENCE:0
+DTSTAMP:20250618T171426
+DTSTART:20250802T080000
+DTEND:20250802T084500
+SUMMARY:🏀 U10 Boys: Solway Bulls vs Malvern Tigers Brown
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Brown\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a64ffb79-d57a-42c2-8099-af07da53a6a4
+SEQUENCE:0
+DTSTAMP:20250618T171426
+DTSTART:20250809T084500
+DTEND:20250809T093000
+SUMMARY:🏀 U10 Boys: Solway Bulls vs Malvern Tigers Purple
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
- n Tigers  Brown\nArrive 15 mins early for warm-up
+ n Tigers Purple\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:eb4a1179-ba4e-4e24-a39b-e996194ec07d
+UID:bd18cf00-e219-4ea0-b6ee-9227682d4455
 SEQUENCE:0
-DTSTAMP:20250617T171328
-DTSTART:20250802T101500
-DTEND:20250802T110000
-SUMMARY:🏀 U10 Boys: Solway Bulls vs Penpraze Park Piranhas
+DTSTAMP:20250618T171426
+DTSTART:20250816T101500
+DTEND:20250816T110000
+SUMMARY:🏀 U10 Boys: Solway Bulls vs SouthEast Venom Rockets
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Penpra
- ze Park Piranhas\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: SouthE
+ ast Venom Rockets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:994ac926-8f62-450c-983c-dcd9b0e6e59b
+UID:22ab5b04-6df6-4def-b0b5-b8153fb4ea47
 SEQUENCE:0
-DTSTAMP:20250617T171328
-DTSTART:20250809T093000
-DTEND:20250809T101500
-SUMMARY:🏀 U10 Boys: Solway Bulls vs Malvern Tigers  Purple
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
- n Tigers  Purple\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:3decba6c-c631-4189-a92c-7deef3301862
-SEQUENCE:0
-DTSTAMP:20250617T171328
-DTSTART:20250816T093000
-DTEND:20250816T101500
+DTSTAMP:20250618T171426
+DTSTART:20250823T101500
+DTEND:20250823T110000
 SUMMARY:🏀 U10 Boys: Solway Bulls vs Toorak Tycoons
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
   Tycoons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f2e325e8-3a58-4eef-a3e6-6f5ea147a9d0
+UID:c2459e8d-0e9f-485e-9338-c920f468323f
 SEQUENCE:0
-DTSTAMP:20250617T171328
-DTSTART:20250823T093000
-DTEND:20250823T101500
-SUMMARY:🏀 U10 Boys: Solway Bulls vs Orrong Park Piranhas
+DTSTAMP:20250618T171426
+DTSTART:20250830T084500
+DTEND:20250830T093000
+SUMMARY:🏀 U10 Boys: Solway Bulls vs Glen Iris Scorpions Gardiner
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Orrong
-  Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:1c359e57-2221-41f6-b205-2c90cb601abf
-SEQUENCE:0
-DTSTAMP:20250617T171328
-DTSTART:20250830T101500
-DTEND:20250830T110000
-SUMMARY:🏀 U10 Boys: Solway Bulls vs Golden Hawks Sky
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Golden
-  Hawks Sky\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
+ ris Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

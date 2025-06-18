@@ -6,9 +6,9 @@ X-WR-CALNAME:Toorak Tomcats Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:25c51483-9268-4256-b751-fdd80f3d2e53
+UID:92e9bf9d-9279-49f4-8f36-93218b1a0987
 SEQUENCE:0
-DTSTAMP:20250617T171517
+DTSTAMP:20250618T171610
 DTSTART:20250621T153000
 DTEND:20250621T161500
 SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Malvern Tigers Green
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:97bbee0b-4801-47dc-8a70-d3c7b4c96994
+UID:b1e9a24a-ea4e-4ad0-ada7-cbc10ad88aa9
 SEQUENCE:0
-DTSTAMP:20250617T171517
+DTSTAMP:20250618T171610
 DTSTART:20250628T161500
 DTEND:20250628T170000
 SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Solway Warriors
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8037bb0b-fa73-4788-b48e-7a1dd42bf184
+UID:f280a9ed-426b-4ca6-b394-b7fdd6844a43
 SEQUENCE:0
-DTSTAMP:20250617T171517
+DTSTAMP:20250618T171610
 DTSTART:20250726T153000
 DTEND:20250726T161500
 SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Maccabi Celtics
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0fca271e-efbb-4f9f-84c3-746370857a15
+UID:9df91695-a22b-4e50-80e5-63266a46a2d0
 SEQUENCE:0
-DTSTAMP:20250617T171517
+DTSTAMP:20250618T171610
 DTSTART:20250802T161500
 DTEND:20250802T170000
 SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Glen Iris Scorpions Raven
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
  ris Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:141df995-1ec8-495b-adfb-b7bcbdf21f9b
+UID:15986191-5e47-4030-a327-d9de3669fe4c
 SEQUENCE:0
-DTSTAMP:20250617T171517
+DTSTAMP:20250618T171610
 DTSTART:20250809T140000
 DTEND:20250809T144500
 SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Comets Lightning
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
   Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:43ffabe8-7896-4551-ab75-ec8e6254df01
+UID:eccc8cc0-1b7f-432b-a905-c985efd316a0
 SEQUENCE:0
-DTSTAMP:20250617T171517
+DTSTAMP:20250618T171610
 DTSTART:20250816T153000
 DTEND:20250816T161500
 SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Timberwolves Dragons
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Dragons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:27f81cb6-2d3f-466c-8d56-ea0397b02879
+UID:52b14b4b-c034-4385-9803-e8f8353dd71b
 SEQUENCE:0
-DTSTAMP:20250617T171517
+DTSTAMP:20250618T171610
 DTSTART:20250823T161500
 DTEND:20250823T170000
 SUMMARY:🏀 U14 Boys: Toorak Tomcats vs AlphaWolf Force
@@ -83,14 +83,14 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: AlphaW
  olf Force\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:40f6c9c8-808b-4330-ad84-d9af566f9a9a
+UID:463ed65d-33ea-48d9-bcdd-8a7d67dbb9a8
 SEQUENCE:0
-DTSTAMP:20250617T171517
-DTSTART:20250830T140000
-DTEND:20250830T144500
+DTSTAMP:20250618T171610
+DTSTART:20250830T153000
+DTEND:20250830T161500
 SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Malvern Tigers Green
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

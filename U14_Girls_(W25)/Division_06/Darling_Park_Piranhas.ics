@@ -6,32 +6,32 @@ X-WR-CALNAME:Darling Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c2e751da-cdb2-45fd-804d-3fe4ab1c3c06
+UID:bde838f9-fbf9-4468-afe7-67fea5ec066c
 SEQUENCE:0
-DTSTAMP:20250617T171546
-DTSTART:20250621T170000
-DTEND:20250621T174500
+DTSTAMP:20250618T171637
+DTSTART:20250621T153000
+DTEND:20250621T161500
 SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Glen Iris Scorpions Nettl
  eton
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
- is Scorpions Nettleton\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:616c968e-46bd-4578-8468-3688dcbafb83
-SEQUENCE:0
-DTSTAMP:20250617T171546
-DTSTART:20250628T161500
-DTEND:20250628T170000
-SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Timberwolves Sapphires
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Timberwolve
- s Sapphires\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
+ corpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f8c769c2-643c-4ea0-882f-9fc390a11c1f
+UID:3dd02224-c3e8-48e3-9156-46231d83bedd
 SEQUENCE:0
-DTSTAMP:20250617T171546
+DTSTAMP:20250618T171637
+DTSTART:20250628T170000
+DTEND:20250628T174500
+SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Timberwolves Sapphires
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Sapphires\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:35603ecb-6676-4ff8-8c67-d0657912be2b
+SEQUENCE:0
+DTSTAMP:20250618T171637
 DTSTART:20250726T153000
 DTEND:20250726T161500
 SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Maccabi Ducks
@@ -40,31 +40,31 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Duc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:85e4ad50-e032-430c-9bb4-870e197f7ff4
+UID:81f80d2c-8601-4949-8dc1-9262df6c602b
 SEQUENCE:0
-DTSTAMP:20250617T171546
-DTSTART:20250802T170000
-DTEND:20250802T174500
+DTSTAMP:20250618T171637
+DTSTART:20250802T161500
+DTEND:20250802T170000
 SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Solway Sapphires
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
- Sapphires\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:f0cef8d1-989f-4e07-b0d3-f2b443a8e11b
-SEQUENCE:0
-DTSTAMP:20250617T171546
-DTSTART:20250809T153000
-DTEND:20250809T161500
-SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Maccabi Celtics
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Cel
- tics\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Sapp
+ hires\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f7b918d6-cba4-4b39-b1cc-f6f5b4fa330e
+UID:7a460850-f8ba-4aea-a0b0-e79cab6a00c3
 SEQUENCE:0
-DTSTAMP:20250617T171546
+DTSTAMP:20250618T171637
+DTSTART:20250809T170000
+DTEND:20250809T174500
+SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Maccabi Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:14ff2099-70ca-47c1-9113-74012a84cc42
+SEQUENCE:0
+DTSTAMP:20250618T171637
 DTSTART:20250823T161500
 DTEND:20250823T170000
 SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Lauriston Legends
@@ -73,9 +73,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston L
  egends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:efe5f01e-81e3-4f58-aa45-293c48923b66
+UID:48c17f60-47c0-4ba4-83c4-23b08761460d
 SEQUENCE:0
-DTSTAMP:20250617T171546
+DTSTAMP:20250618T171637
 DTSTART:20250830T161500
 DTEND:20250830T170000
 SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Glen Iris Scorpions Nettl

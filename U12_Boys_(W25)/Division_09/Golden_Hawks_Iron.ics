@@ -6,53 +6,42 @@ X-WR-CALNAME:Golden Hawks Iron Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:a57d1acf-4a2c-49ce-9fdd-62371365f3e8
+UID:ed47bba2-bf96-4c80-8ac0-f803c6bf3aac
 SEQUENCE:0
-DTSTAMP:20250617T171424
-DTSTART:20250621T131500
-DTEND:20250621T140000
+DTSTAMP:20250618T171523
+DTSTART:20250621T114500
+DTEND:20250621T123000
 SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Malvern Tigers Maroon
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Maroon\nArrive
-  15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:bc4611ee-87ce-4093-97e3-a94407b093e3
-SEQUENCE:0
-DTSTAMP:20250617T171424
-DTSTART:20250628T123000
-DTEND:20250628T131500
-SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Warrawee Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Warraw
- ee Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:e8033632-941a-4474-9fca-ba6ee2dbddb4
-SEQUENCE:0
-DTSTAMP:20250617T171424
-DTSTART:20250726T114500
-DTEND:20250726T123000
-SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs AlphaWolf Warriors
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: AlphaWo
- lf Warriors\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Maroon\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d167fbe1-7460-425a-81fc-2cf60e643dd5
+UID:4ff7d233-81e3-4493-afff-401838a777ed
 SEQUENCE:0
-DTSTAMP:20250617T171424
-DTSTART:20250802T131500
-DTEND:20250802T140000
+DTSTAMP:20250618T171523
+DTSTART:20250628T114500
+DTEND:20250628T123000
+SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Warrawee Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Warrawe
+ e Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:151513fb-50a2-4347-81a5-0a3028c44150
+SEQUENCE:0
+DTSTAMP:20250618T171523
+DTSTART:20250802T123000
+DTEND:20250802T131500
 SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Maccabi Giants
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Giants\nArrive 15 min
- s early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Giants\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0247d1a1-a783-405d-8b67-ff3aa5179f59
+UID:da6fd917-1814-42fa-9040-5af4264fbf0f
 SEQUENCE:0
-DTSTAMP:20250617T171424
+DTSTAMP:20250618T171523
 DTSTART:20250809T123000
 DTEND:20250809T131500
 SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Maccabi Falcons
@@ -61,36 +50,25 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dc0a5074-abfe-4450-941e-01659eaa3343
+UID:c4d3eda3-7bb9-4808-ba04-1a5630188f8e
 SEQUENCE:0
-DTSTAMP:20250617T171424
-DTSTART:20250816T123000
-DTEND:20250816T131500
+DTSTAMP:20250618T171523
+DTSTART:20250816T114500
+DTEND:20250816T123000
 SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Malvern Tigers Maroon
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
- n Tigers Maroon\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5208cc1c-5be8-4721-9d79-7285210e0dc9
-SEQUENCE:0
-DTSTAMP:20250617T171424
-DTSTART:20250823T131500
-DTEND:20250823T140000
-SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Warrawee Piranhas
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Warrawee Piranhas\nArrive 15 
- mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:c302d0f7-bc91-46bb-89f1-1ac22d496084
-SEQUENCE:0
-DTSTAMP:20250617T171424
-DTSTART:20250830T114500
-DTEND:20250830T123000
-SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs AlphaWolf Warriors
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: AlphaWo
- lf Warriors\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Maroon\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d082297b-4fea-480d-9bd8-138eec906c9e
+SEQUENCE:0
+DTSTAMP:20250618T171523
+DTSTART:20250823T114500
+DTEND:20250823T123000
+SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Warrawee Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Warrawe
+ e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

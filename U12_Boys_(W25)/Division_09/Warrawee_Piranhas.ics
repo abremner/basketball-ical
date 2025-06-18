@@ -6,9 +6,9 @@ X-WR-CALNAME:Warrawee Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e08bfa9a-31e7-48e5-aeef-386f169ec5f0
+UID:c40b1393-3a0b-4ba8-bd69-fc1ac98ce31d
 SEQUENCE:0
-DTSTAMP:20250617T171426
+DTSTAMP:20250618T171524
 DTSTART:20250621T123000
 DTEND:20250621T131500
 SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Maccabi Falcons
@@ -17,20 +17,20 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:06f082a0-0038-47bc-a878-555363d39bba
+UID:d3b378ef-d309-4ee5-ae0b-4539d8a5caf7
 SEQUENCE:0
-DTSTAMP:20250617T171426
-DTSTART:20250628T123000
-DTEND:20250628T131500
+DTSTAMP:20250618T171524
+DTSTART:20250628T114500
+DTEND:20250628T123000
 SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Golden Hawks Iron
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Golden
-  Hawks Iron\nArrive 15 mins early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Golden 
+ Hawks Iron\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:60427843-3ec9-4327-b350-a89b6459a89d
+UID:646f47c3-c5fc-4265-82a8-37c9886ecb1e
 SEQUENCE:0
-DTSTAMP:20250617T171426
+DTSTAMP:20250618T171524
 DTSTART:20250726T123000
 DTEND:20250726T131500
 SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Malvern Tigers Maroon
@@ -39,58 +39,47 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Maroon\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:81f3ae33-9087-4e82-8557-cc4383c4e149
+UID:6ffdbb7f-ca57-456c-bdac-09731dc366e5
 SEQUENCE:0
-DTSTAMP:20250617T171426
-DTSTART:20250802T114500
-DTEND:20250802T123000
-SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs AlphaWolf Warriors
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: AlphaWo
- lf Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:7e4aad9d-fd2d-4fe1-b775-224bc86c8664
-SEQUENCE:0
-DTSTAMP:20250617T171426
-DTSTART:20250809T131500
-DTEND:20250809T140000
+DTSTAMP:20250618T171524
+DTSTART:20250809T114500
+DTEND:20250809T123000
 SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Maccabi Giants
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Giants\nArrive 15 min
- s early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Giants\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:910d9c37-8dd3-4d3d-85a9-d3bf334e08ba
+UID:7d71fb29-74a7-4b09-8ec2-cc532e379567
 SEQUENCE:0
-DTSTAMP:20250617T171426
-DTSTART:20250816T131500
-DTEND:20250816T140000
+DTSTAMP:20250618T171524
+DTSTART:20250816T123000
+DTEND:20250816T131500
 SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Maccabi Falcons
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Falcons\nArrive 15 mi
- ns early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f9fbf2a7-fc04-47db-a627-c84ae528f4c0
+UID:e8af8da2-3102-40e1-b432-529b686d10d9
 SEQUENCE:0
-DTSTAMP:20250617T171426
-DTSTART:20250823T131500
-DTEND:20250823T140000
+DTSTAMP:20250618T171524
+DTSTART:20250823T114500
+DTEND:20250823T123000
 SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Golden Hawks Iron
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Golden Hawks Iron\nArrive 15 
- mins early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Golden 
+ Hawks Iron\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2418d725-e94d-4828-8f5c-0a4973e97722
+UID:f7202c2c-7e5e-4d6a-9a53-31a20332090b
 SEQUENCE:0
-DTSTAMP:20250617T171426
-DTSTART:20250830T131500
-DTEND:20250830T140000
+DTSTAMP:20250618T171524
+DTSTART:20250830T123000
+DTEND:20250830T131500
 SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Malvern Tigers Maroon
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Maroon\nArrive
-  15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Maroon\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

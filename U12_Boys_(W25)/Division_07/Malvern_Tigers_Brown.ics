@@ -1,85 +1,96 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
-NAME:Malvern Tigers  Brown Fixtures
-X-WR-CALNAME:Malvern Tigers  Brown Fixtures
+NAME:Malvern Tigers Brown Fixtures
+X-WR-CALNAME:Malvern Tigers Brown Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:a77e218f-bf70-4ceb-9b64-d06c8373260d
+UID:1b9d1200-ef9c-4c27-9e65-b45984d06b23
 SEQUENCE:0
-DTSTAMP:20250617T171420
-DTSTART:20250621T123000
-DTEND:20250621T131500
-SUMMARY:🏀 U12 Boys: Malvern Tigers  Brown vs Maccabi Eagles
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
-  Eagles\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:763e873e-c27d-43a8-9bd7-65191674cc4d
-SEQUENCE:0
-DTSTAMP:20250617T171420
-DTSTART:20250628T131500
-DTEND:20250628T140000
-SUMMARY:🏀 U12 Boys: Malvern Tigers  Brown vs AlphaWolf Lakers
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: AlphaWo
- lf Lakers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:4bdf5ea8-930f-424d-ae9a-cbcf5f67b79f
-SEQUENCE:0
-DTSTAMP:20250617T171420
-DTSTART:20250726T114500
-DTEND:20250726T123000
-SUMMARY:🏀 U12 Boys: Malvern Tigers  Brown vs Beckett Park Piranhas
+DTSTAMP:20250618T171520
+DTSTART:20250621T114500
+DTEND:20250621T123000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Brown vs Beckett Park Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Becket
  t Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9c1ccfe9-e379-4003-b290-fddaf23b3549
+UID:0d81dfb5-a0a2-4cf8-a87b-1f898e5844e8
 SEQUENCE:0
-DTSTAMP:20250617T171420
-DTSTART:20250802T131500
-DTEND:20250802T140000
-SUMMARY:🏀 U12 Boys: Malvern Tigers  Brown vs Malvern Tigers Blue
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
-  Tigers Blue\nArrive 15 mins early for warm-up
+DTSTAMP:20250618T171520
+DTSTART:20250628T131500
+DTEND:20250628T140000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Brown vs Malvern Tigers Blue
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Blue\nArrive 1
+ 5 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a57fdc3e-bf07-4730-9244-319388018084
+UID:10ad3db9-1249-4b34-9019-ba4b573ce691
 SEQUENCE:0
-DTSTAMP:20250617T171420
-DTSTART:20250809T114500
-DTEND:20250809T123000
-SUMMARY:🏀 U12 Boys: Malvern Tigers  Brown vs AlphaWolf Spartans
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AlphaW
- olf Spartans\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:96ddadc0-b8c9-4db5-8028-ebd59f75ef80
-SEQUENCE:0
-DTSTAMP:20250617T171420
-DTSTART:20250816T131500
-DTEND:20250816T140000
-SUMMARY:🏀 U12 Boys: Malvern Tigers  Brown vs Central Park Piranhas
+DTSTAMP:20250618T171520
+DTSTART:20250726T123000
+DTEND:20250726T131500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Brown vs Central Park Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Central
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Central
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:916c214a-3366-44e8-a468-12d32e600913
+UID:73d794a2-9f82-45e0-abd8-98c4234c9e51
 SEQUENCE:0
-DTSTAMP:20250617T171420
-DTSTART:20250830T123000
-DTEND:20250830T131500
-SUMMARY:🏀 U12 Boys: Malvern Tigers  Brown vs Maccabi Eagles
+DTSTAMP:20250618T171520
+DTSTART:20250802T131500
+DTEND:20250802T140000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Brown vs AlphaWolf Lakers
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: AlphaWolf Lakers\nArrive 15 m
+ ins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a46a080a-3157-460e-b892-ac94d794ae89
+SEQUENCE:0
+DTSTAMP:20250618T171520
+DTSTART:20250809T114500
+DTEND:20250809T123000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Brown vs Maccabi Eagles
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:eacc8339-6688-49eb-8b10-d37f356a821a
+SEQUENCE:0
+DTSTAMP:20250618T171520
+DTSTART:20250816T131500
+DTEND:20250816T140000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Brown vs Beckett Park Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Beckett Park Piranhas\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e36f5fb9-7f67-41d7-bfba-16bca2567d06
+SEQUENCE:0
+DTSTAMP:20250618T171520
+DTSTART:20250823T123000
+DTEND:20250823T131500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Brown vs Malvern Tigers Blue
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
-  Eagles\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:595b4cba-f90b-4f3a-adb5-e3db9c797a15
+SEQUENCE:0
+DTSTAMP:20250618T171520
+DTSTART:20250830T131500
+DTEND:20250830T140000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Brown vs Central Park Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Central Park Piranhas\nArrive
+  15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

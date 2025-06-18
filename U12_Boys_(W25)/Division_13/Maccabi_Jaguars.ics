@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Jaguars Fixtures
+X-WR-CALNAME:Maccabi Jaguars Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a1716f35-5f0e-47be-827f-235593ba828f
+SEQUENCE:0
+DTSTAMP:20250618T171535
+DTSTART:20250621T114500
+DTEND:20250621T123000
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Balaclava Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Balacla
+ va Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a21c34fb-c73a-4379-b967-3f9653f6ad0c
+SEQUENCE:0
+DTSTAMP:20250618T171535
+DTSTART:20250628T123000
+DTEND:20250628T131500
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Timberwolves Cavs
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Cavs\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dcc2b4b2-5c15-4205-a23b-5c44939c6797
+SEQUENCE:0
+DTSTAMP:20250618T171535
+DTSTART:20250726T123000
+DTEND:20250726T131500
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Malvern Tigers Aqua
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Aqua\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7136a44a-39dc-43a7-b1c6-b869b2dd64d6
+SEQUENCE:0
+DTSTAMP:20250618T171535
+DTSTART:20250802T114500
+DTEND:20250802T123000
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Golden Hawks Blaze
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Golden 
+ Hawks Blaze\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:66217924-7088-425e-8ac8-c0b4bd7498d2
+SEQUENCE:0
+DTSTAMP:20250618T171535
+DTSTART:20250809T144500
+DTEND:20250809T153000
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Wilson Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Wilson 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:215e97b7-0e5b-4eb2-8b2e-d02e6d935f39
+SEQUENCE:0
+DTSTAMP:20250618T171535
+DTSTART:20250816T114500
+DTEND:20250816T123000
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Balaclava Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Balacla
+ va Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ee8ade63-6b37-482e-9f53-c8efe56fa77c
+SEQUENCE:0
+DTSTAMP:20250618T171535
+DTSTART:20250823T123000
+DTEND:20250823T131500
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Timberwolves Cavs
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Cavs\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dbaf0e70-962f-4e6e-8384-905aa2d7c2eb
+SEQUENCE:0
+DTSTAMP:20250618T171535
+DTSTART:20250830T123000
+DTEND:20250830T131500
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Malvern Tigers Aqua
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Aqua\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+END:VCALENDAR
