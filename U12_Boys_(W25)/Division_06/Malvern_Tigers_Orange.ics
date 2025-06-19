@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Orange Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:987e8206-6046-48b8-a2bf-799011bdad74
+UID:f77b985c-70e9-4eea-bf9f-41f59f59df6b
 SEQUENCE:0
-DTSTAMP:20250618T171517
+DTSTAMP:20250619T171328
 DTSTART:20250621T144500
 DTEND:20250621T153000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Orange vs AlphaWolf Spartans
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: AlphaWo
  lf Spartans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dbfaa5f1-ca3f-4167-ac81-dc4c674b7794
+UID:df4696ee-0ac9-48c9-92fd-63059aafe27c
 SEQUENCE:0
-DTSTAMP:20250618T171517
+DTSTAMP:20250619T171328
 DTSTART:20250628T140000
 DTEND:20250628T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Orange vs Heywood Park Piranhas
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Heywood Park Piranhas\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:79346ddc-f86a-41e3-ac42-9c3fa0ce0c78
+UID:4a0e450d-e192-44f3-8679-56c8b36e7d9b
 SEQUENCE:0
-DTSTAMP:20250618T171517
+DTSTAMP:20250619T171328
 DTSTART:20250726T140000
 DTEND:20250726T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Orange vs Solway Wolverines
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Wolverines\nArrive 15
  mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:078c8955-cfb0-4bcd-aaf3-d81a25c28376
+UID:22005458-5568-46f5-8c70-8a8ff0407d30
 SEQUENCE:0
-DTSTAMP:20250618T171517
+DTSTAMP:20250619T171328
 DTSTART:20250802T131500
 DTEND:20250802T140000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Orange vs AlphaWolf Warriors
@@ -50,20 +50,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: AlphaWo
  lf Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8f35e809-1360-4487-b632-04dcb3389cb0
+UID:6323912d-362a-414e-b9a9-3ef598649ef4
 SEQUENCE:0
-DTSTAMP:20250618T171517
-DTSTART:20250809T131500
-DTEND:20250809T140000
+DTSTAMP:20250619T171328
+DTSTART:20250809T144500
+DTEND:20250809T153000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Orange vs Timberwolves Howlers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
- wolves Howlers\nArrive 15 mins early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Howlers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dd8b6175-31f5-428c-9309-76161d50bb7b
+UID:e105ad26-4a41-4956-a005-0e2e6f967ad4
 SEQUENCE:0
-DTSTAMP:20250618T171517
+DTSTAMP:20250619T171328
 DTSTART:20250816T131500
 DTEND:20250816T140000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Orange vs Maccabi Ducks
@@ -72,26 +72,26 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1ebe2fa8-81bc-42c5-99a0-51c42e1fcad0
+UID:09f61983-951e-4012-99bc-bad6796e88f9
 SEQUENCE:0
-DTSTAMP:20250618T171517
-DTSTART:20250823T131500
-DTEND:20250823T140000
+DTSTAMP:20250619T171328
+DTSTART:20250823T140000
+DTEND:20250823T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Orange vs Glen Iris Scorpions Gardin
  er
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glen I
- ris Scorpions Gardiner\nArrive 15 mins early for warm-up
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Glen Iris Scorpions Gardiner\
+ nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:13602376-e465-49a2-a3ad-83d110200602
+UID:c72dd1b6-dbd6-4c93-bb5d-55516b0d7252
 SEQUENCE:0
-DTSTAMP:20250618T171517
-DTSTART:20250830T144500
-DTEND:20250830T153000
+DTSTAMP:20250619T171328
+DTSTART:20250830T131500
+DTEND:20250830T140000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Orange vs AlphaWolf Spartans
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: AlphaWo
- lf Spartans\nArrive 15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AlphaW
+ olf Spartans\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

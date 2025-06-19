@@ -6,9 +6,9 @@ X-WR-CALNAME:Timberwolves Cubs Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:05150d62-0eea-4329-8727-ce5e5faf3ae8
+UID:b8580a2b-b2a1-4251-a3a6-211601942303
 SEQUENCE:0
-DTSTAMP:20250618T171423
+DTSTAMP:20250619T171235
 DTSTART:20250621T101500
 DTEND:20250621T110000
 SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Glen Iris Scorpions Nettleton
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ec102363-c8f2-48ee-8ca9-1b7fc043ad59
+UID:178593e8-a412-4f60-99dc-59840f7c3ce0
 SEQUENCE:0
-DTSTAMP:20250618T171423
+DTSTAMP:20250619T171235
 DTSTART:20250628T110000
 DTEND:20250628T114500
 SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Solway Bucks
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:90648e2c-79b6-4280-b85a-64ca369a51af
+UID:de2d4e10-3dc2-44f2-be8d-04953a884fe5
 SEQUENCE:0
-DTSTAMP:20250618T171423
+DTSTAMP:20250619T171235
 DTSTART:20250726T110000
 DTEND:20250726T114500
 SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Maccabi Ducks
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d671ccd7-6c35-485b-99b9-bff1e12e015c
+UID:b3127f18-8132-41db-88c3-b30a272fe4d8
 SEQUENCE:0
-DTSTAMP:20250618T171423
+DTSTAMP:20250619T171235
 DTSTART:20250802T110000
 DTEND:20250802T114500
 SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Toorak Torpedoes
@@ -50,31 +50,31 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Torpedoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c5aae08b-a6a1-4bfb-bc37-573277d2af28
+UID:20c78529-4bbf-448f-be4b-070bcf3fdcf8
 SEQUENCE:0
-DTSTAMP:20250618T171423
-DTSTART:20250809T110000
-DTEND:20250809T114500
+DTSTAMP:20250619T171235
+DTSTART:20250809T093000
+DTEND:20250809T101500
 SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs AlphaWolf Hunters
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: AlphaWo
- lf Hunters\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:0d99553e-1270-4ff4-b667-28a60f266523
-SEQUENCE:0
-DTSTAMP:20250618T171423
-DTSTART:20250816T093000
-DTEND:20250816T101500
-SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Penpraze Park Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Penpra
- ze Park Piranhas\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
+ olf Hunters\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f4942794-4695-4695-b2a8-85102e588469
+UID:c83b7759-2fc8-4cd0-8bd4-ba74e3d18267
 SEQUENCE:0
-DTSTAMP:20250618T171423
+DTSTAMP:20250619T171235
+DTSTART:20250816T110000
+DTEND:20250816T114500
+SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Penpraze Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Penpraz
+ e Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1a5c2a69-82f3-419d-b4cd-06202b38c7be
+SEQUENCE:0
+DTSTAMP:20250619T171235
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Golden Hawks Sky
@@ -83,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Golden
  Hawks Sky\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b8c3e29f-895d-42bc-ba60-4634ca128f59
+UID:7d677a51-50b3-4a9c-92d2-03ddfc752366
 SEQUENCE:0
-DTSTAMP:20250618T171423
+DTSTAMP:20250619T171235
 DTSTART:20250830T110000
 DTEND:20250830T114500
 SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Glen Iris Scorpions Nettleton
