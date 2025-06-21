@@ -6,20 +6,9 @@ X-WR-CALNAME:Comets Rubies Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c0ecb216-032d-480d-8cc1-9965c1fd85bc
+UID:a722f748-4ff7-420f-aa30-6461d4ed7a3c
 SEQUENCE:0
-DTSTAMP:20250620T171354
-DTSTART:20250621T140000
-DTEND:20250621T144500
-SUMMARY:🏀 U12 Girls: Comets Rubies vs Malvern Tigers Mitchell
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
- n Tigers Mitchell\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:b1490f79-bdf5-4f09-81f8-1f237d849feb
-SEQUENCE:0
-DTSTAMP:20250620T171354
+DTSTAMP:20250621T171231
 DTSTART:20250628T144500
 DTEND:20250628T153000
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Solway Rosellas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Rosellas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f14aab78-c46b-416a-8d85-b747899646b7
+UID:f03813c6-5dbe-4d5d-9cf1-4a984cc7cf10
 SEQUENCE:0
-DTSTAMP:20250620T171354
+DTSTAMP:20250621T171231
 DTSTART:20250726T140000
 DTEND:20250726T144500
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Ashy Lightning Gold
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c8d82300-e2e6-4df1-a624-0b6f6d282525
+UID:f1ea1d3f-b358-4f6c-b65a-3b40ea28affe
 SEQUENCE:0
-DTSTAMP:20250620T171354
+DTSTAMP:20250621T171231
 DTSTART:20250809T144500
 DTEND:20250809T153000
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Malvern Tigers Hodges
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Hodges\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4a2bfda9-fe2e-4736-a951-5e1a4f49753c
+UID:9d822168-f41f-4fae-8816-28b3085cf3c0
 SEQUENCE:0
-DTSTAMP:20250620T171354
+DTSTAMP:20250621T171231
 DTSTART:20250816T140000
 DTEND:20250816T144500
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Malvern Tigers Mitchell
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Mitchell\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1cd8595e-5bcc-4566-8123-a763c8a8ec73
+UID:f08de2d6-8f51-47fb-ba67-badb86d47668
 SEQUENCE:0
-DTSTAMP:20250620T171354
+DTSTAMP:20250621T171231
 DTSTART:20250823T144500
 DTEND:20250823T153000
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Solway Rosellas
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Rosellas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6dbeba22-c158-4c14-b467-deed32367838
+UID:8e68f8e5-5c91-4ad3-9d0a-6e0321db9cfa
 SEQUENCE:0
-DTSTAMP:20250620T171354
+DTSTAMP:20250621T171231
 DTSTART:20250830T140000
 DTEND:20250830T144500
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Ashy Lightning Gold
