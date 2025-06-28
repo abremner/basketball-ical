@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Celtics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:de791f52-c949-46d1-8499-aaca428acee9
+UID:85865f84-262e-4975-9ccc-e3b223e0226d
 SEQUENCE:0
-DTSTAMP:20250627T171440
-DTSTART:20250628T161500
-DTEND:20250628T170000
-SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Solway Sapphires
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Sapp
- hires\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:1165cd05-37dd-420e-bdc0-74430da91396
-SEQUENCE:0
-DTSTAMP:20250627T171440
+DTSTAMP:20250628T171339
 DTSTART:20250802T153000
 DTEND:20250802T161500
 SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Maccabi Ducks
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Duc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5e97dc8a-d6ad-463f-b373-821ddcd9f9b1
+UID:aa4a2403-d71f-457e-bb81-98e15d7fa41d
 SEQUENCE:0
-DTSTAMP:20250627T171440
+DTSTAMP:20250628T171339
 DTSTART:20250809T170000
 DTEND:20250809T174500
 SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Darling Park Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Darling
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:211b787c-2b79-4c0c-be00-90dff8725056
+UID:6dc29a72-e67b-418b-85d4-e62837042e70
 SEQUENCE:0
-DTSTAMP:20250627T171440
+DTSTAMP:20250628T171339
 DTSTART:20250816T161500
 DTEND:20250816T170000
 SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Glen Iris Scorpions Nettleton
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
  corpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f903871f-93d9-4fc0-a4dd-c5d9750c6169
+UID:571fef62-e801-43f6-bcea-3c52b6b00e60
 SEQUENCE:0
-DTSTAMP:20250627T171440
+DTSTAMP:20250628T171339
 DTSTART:20250823T170000
 DTEND:20250823T174500
 SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Timberwolves Sapphires
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Sapphires\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c505e9e3-5152-41d7-9023-d0c19a1a7ccf
+UID:64011954-cd75-4dde-ada1-03db7fc6a816
 SEQUENCE:0
-DTSTAMP:20250627T171440
+DTSTAMP:20250628T171339
 DTSTART:20250830T153000
 DTEND:20250830T161500
 SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Lauriston Legends

@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Trouble Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f0c6389c-7990-4ec1-bbc9-346c9c0288ad
+UID:36cdadba-39e8-4422-be6e-c050d7601cca
 SEQUENCE:0
-DTSTAMP:20250627T171327
-DTSTART:20250628T123000
-DTEND:20250628T131500
-SUMMARY:🏀 U12 Boys: Toorak Trouble vs Comets Cyclones
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Comets 
- Cyclones\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:8711f946-f384-4c13-854a-9bd918bc6480
-SEQUENCE:0
-DTSTAMP:20250627T171327
+DTSTAMP:20250628T171228
 DTSTART:20250726T123000
 DTEND:20250726T131500
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Stonnington Piranhas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Stonnin
  gton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ea8f9859-299e-4f3f-953e-64c65afba299
+UID:7bf99d88-d317-4016-b10b-c063a56ad299
 SEQUENCE:0
-DTSTAMP:20250627T171327
+DTSTAMP:20250628T171228
 DTSTART:20250802T131500
 DTEND:20250802T140000
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Malvern Tigers Grey
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:60a16aa4-d264-4319-8f9b-a5da29a82cfe
+UID:323600ab-29f8-416f-afa9-64cf6785a217
 SEQUENCE:0
-DTSTAMP:20250627T171327
+DTSTAMP:20250628T171228
 DTSTART:20250809T114500
 DTEND:20250809T123000
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Comets Tigers
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
   Tigers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:61d6b766-7af0-4a3f-9106-ad8a0b22cf0a
+UID:04753eaf-e530-47e7-8cb3-488df37c65f5
 SEQUENCE:0
-DTSTAMP:20250627T171327
+DTSTAMP:20250628T171228
 DTSTART:20250823T114500
 DTEND:20250823T123000
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Solway Panthers
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Panthers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e220b1ee-d8b1-4859-92b5-58fbbf7e4b01
+UID:0ac7e23b-deed-4522-a452-5d019be2e08c
 SEQUENCE:0
-DTSTAMP:20250627T171327
+DTSTAMP:20250628T171228
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Toorak Thunder

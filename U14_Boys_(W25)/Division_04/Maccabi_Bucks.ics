@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9816d465-0e6a-4acd-acb7-8984c4833289
+UID:ff47a030-5dec-4b3a-9a5d-99d44c283493
 SEQUENCE:0
-DTSTAMP:20250627T171406
-DTSTART:20250628T170000
-DTEND:20250628T174500
-SUMMARY:🏀 U14 Boys: Maccabi Bucks vs Malvern Tigers White
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
- n Tigers White\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:4a1ac928-28b3-40b5-9956-40a33e86066f
-SEQUENCE:0
-DTSTAMP:20250627T171406
+DTSTAMP:20250628T171306
 DTSTART:20250802T161500
 DTEND:20250802T170000
 SUMMARY:🏀 U14 Boys: Maccabi Bucks vs Ashy Lightning Green
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9cdbfeca-1079-4722-a29b-669286f9f25b
+UID:d818c89c-39a3-42a0-8db9-669e2015006c
 SEQUENCE:0
-DTSTAMP:20250627T171406
+DTSTAMP:20250628T171306
 DTSTART:20250809T170000
 DTEND:20250809T174500
 SUMMARY:🏀 U14 Boys: Maccabi Bucks vs Timberwolves Celtics
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:22a5be8c-c273-49eb-8849-a6ed6d95ec52
+UID:f0b604c8-a961-4073-a859-9ae65297a3e0
 SEQUENCE:0
-DTSTAMP:20250627T171406
+DTSTAMP:20250628T171306
 DTSTART:20250816T161500
 DTEND:20250816T170000
 SUMMARY:🏀 U14 Boys: Maccabi Bucks vs Toorak Triple-Threat
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak
  Triple-Threat\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e208aa32-10ce-4e74-8c7f-1a7feb5be566
+UID:046c5dd3-d3d3-4f9a-b861-f8e208b17e01
 SEQUENCE:0
-DTSTAMP:20250627T171406
+DTSTAMP:20250628T171306
 DTSTART:20250823T161500
 DTEND:20250823T170000
 SUMMARY:🏀 U14 Boys: Maccabi Bucks vs Solway Crusaders
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Crusaders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:50833285-70e4-42b9-9821-0088534d33ad
+UID:07a7e6db-d033-4037-b863-dbf8d20c659c
 SEQUENCE:0
-DTSTAMP:20250627T171406
+DTSTAMP:20250628T171306
 DTSTART:20250830T161500
 DTEND:20250830T170000
 SUMMARY:🏀 U14 Boys: Maccabi Bucks vs Solway Trojans

@@ -6,20 +6,9 @@ X-WR-CALNAME:Timberwolves Boulders Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:56999f4a-c7f2-4f37-9942-611e397d6eba
+UID:44eca7a2-c154-45f2-9b0d-683013f93441
 SEQUENCE:0
-DTSTAMP:20250627T171454
-DTSTART:20250628T183000
-DTEND:20250628T191500
-SUMMARY:🏀 U16 Boys: Timberwolves Boulders vs Serrell Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Serrel
- l Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:ae0d0baf-9204-4e50-8c3f-5603158c3f87
-SEQUENCE:0
-DTSTAMP:20250627T171454
+DTSTAMP:20250628T171353
 DTSTART:20250726T191500
 DTEND:20250726T200000
 SUMMARY:🏀 U16 Boys: Timberwolves Boulders vs Maccabi Warriors
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3717ae3e-b890-4198-ba53-1dc3ecf8d242
+UID:23502b38-e6ff-4f63-be4d-f23e714fd4c4
 SEQUENCE:0
-DTSTAMP:20250627T171454
+DTSTAMP:20250628T171353
 DTSTART:20250802T183000
 DTEND:20250802T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Boulders vs Ripponlea Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ripponl
  ea Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:509f1f8b-f9fc-4c70-9cb9-1d641908aa3a
+UID:b45c9c44-fb9e-4cab-b1f2-0324a19f32aa
 SEQUENCE:0
-DTSTAMP:20250627T171454
+DTSTAMP:20250628T171353
 DTSTART:20250809T191500
 DTEND:20250809T200000
 SUMMARY:🏀 U16 Boys: Timberwolves Boulders vs Solway Super Sonics
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Super Sonics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9582c1a8-93ca-4d57-b0f5-7145baac5ceb
+UID:90f2009d-4665-4074-a085-b56385ac4ad7
 SEQUENCE:0
-DTSTAMP:20250627T171454
+DTSTAMP:20250628T171353
 DTSTART:20250816T183000
 DTEND:20250816T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Boulders vs Timberwolves Magnum
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Magnum\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a92d9dd4-50a5-4789-9699-be732598f358
+UID:6087f363-f652-41c2-ab48-31b4e4a84245
 SEQUENCE:0
-DTSTAMP:20250627T171454
+DTSTAMP:20250628T171353
 DTSTART:20250823T183000
 DTEND:20250823T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Boulders vs Toorak Tornadoes
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Tornadoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5972a18e-9002-430a-967b-80991ab3f78d
+UID:67cc455d-d85f-4c2c-880e-68f7f1da0fa3
 SEQUENCE:0
-DTSTAMP:20250627T171454
+DTSTAMP:20250628T171353
 DTSTART:20250830T191500
 DTEND:20250830T200000
 SUMMARY:🏀 U16 Boys: Timberwolves Boulders vs Toorak Terminators

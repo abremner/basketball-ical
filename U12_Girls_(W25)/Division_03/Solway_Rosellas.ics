@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Rosellas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0c531430-6c63-4b25-948c-db5a6abc5ad5
+UID:d846a057-d2ca-4388-b811-f938747e2b9e
 SEQUENCE:0
-DTSTAMP:20250627T171342
-DTSTART:20250628T144500
-DTEND:20250628T153000
-SUMMARY:🏀 U12 Girls: Solway Rosellas vs Comets Rubies
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
-  Rubies\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:aeb5ce19-943e-4d71-ae9d-401ecbd5c92a
-SEQUENCE:0
-DTSTAMP:20250627T171342
+DTSTAMP:20250628T171243
 DTSTART:20250726T144500
 DTEND:20250726T153000
 SUMMARY:🏀 U12 Girls: Solway Rosellas vs Malvern Tigers Mitchell
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Mitchell\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e6952eb1-e2d2-41c9-b4ba-fba4c9ffde36
+UID:d5549b5b-549d-4a83-ac00-7ae96a146db1
 SEQUENCE:0
-DTSTAMP:20250627T171342
+DTSTAMP:20250628T171243
 DTSTART:20250802T140000
 DTEND:20250802T144500
 SUMMARY:🏀 U12 Girls: Solway Rosellas vs Malvern Tigers Hodges
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Hodges\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8392a01f-ea5c-4c27-9232-78a6cda98b9b
+UID:4fb63385-a67c-4d02-87c8-4ddd83b805f8
 SEQUENCE:0
-DTSTAMP:20250627T171342
+DTSTAMP:20250628T171243
 DTSTART:20250809T140000
 DTEND:20250809T144500
 SUMMARY:🏀 U12 Girls: Solway Rosellas vs Ashy Lightning Gold
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ea9eeec2-c9d5-4233-9626-d50bf35321b4
+UID:26e6f6bf-ca34-4ba8-97be-08e10756b8d7
 SEQUENCE:0
-DTSTAMP:20250627T171342
+DTSTAMP:20250628T171243
 DTSTART:20250823T144500
 DTEND:20250823T153000
 SUMMARY:🏀 U12 Girls: Solway Rosellas vs Comets Rubies
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
   Rubies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5e4eeb1a-53e2-4779-b58d-194a4f0391dc
+UID:a2884be5-8600-4c72-8d67-e11792bc0db5
 SEQUENCE:0
-DTSTAMP:20250627T171342
+DTSTAMP:20250628T171243
 DTSTART:20250830T144500
 DTEND:20250830T153000
 SUMMARY:🏀 U12 Girls: Solway Rosellas vs Malvern Tigers Mitchell

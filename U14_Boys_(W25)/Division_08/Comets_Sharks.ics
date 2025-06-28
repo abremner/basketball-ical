@@ -6,20 +6,9 @@ X-WR-CALNAME:Comets Sharks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2dff9b53-7daa-47c6-954a-fcd313740e8f
+UID:9333d2e4-ee13-4e05-9037-c543907522ad
 SEQUENCE:0
-DTSTAMP:20250627T171418
-DTSTART:20250628T131500
-DTEND:20250628T140000
-SUMMARY:🏀 U14 Boys: Comets Sharks vs Prahran Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Prahra
- n Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:675eb908-5b18-4693-b2fd-f65ae84b8fe5
-SEQUENCE:0
-DTSTAMP:20250627T171418
+DTSTAMP:20250628T171318
 DTSTART:20250726T131500
 DTEND:20250726T140000
 SUMMARY:🏀 U14 Boys: Comets Sharks vs Arax
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:62d67490-5e54-48cb-9809-bcd722dfdf32
+UID:15e3fd28-8a28-4d2b-84e2-b785a2a952c3
 SEQUENCE:0
-DTSTAMP:20250627T171418
+DTSTAMP:20250628T171318
 DTSTART:20250802T161500
 DTEND:20250802T170000
 SUMMARY:🏀 U14 Boys: Comets Sharks vs Glen Iris Scorpions Summerhill
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Summerhill\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bcc632aa-a369-447a-bd2e-d7aa18e8067b
+UID:2b44fad8-b133-440c-9fb4-a67543c3ad1b
 SEQUENCE:0
-DTSTAMP:20250627T171418
+DTSTAMP:20250628T171318
 DTSTART:20250809T161500
 DTEND:20250809T170000
 SUMMARY:🏀 U14 Boys: Comets Sharks vs Solway Mavericks
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Mavericks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ca7ff0a2-890c-405d-9862-c563202829b2
+UID:559dd257-99ba-4e69-9c5b-ccc9dbf0d862
 SEQUENCE:0
-DTSTAMP:20250627T171418
+DTSTAMP:20250628T171318
 DTSTART:20250816T153000
 DTEND:20250816T161500
 SUMMARY:🏀 U14 Boys: Comets Sharks vs Malvern Tigers Purple
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Purple\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:340d23c3-1dd0-4194-8d1c-b1dd60203b81
+UID:f030cbb7-e1bc-425b-bbde-c50c7a7cb57a
 SEQUENCE:0
-DTSTAMP:20250627T171418
+DTSTAMP:20250628T171318
 DTSTART:20250823T153000
 DTEND:20250823T161500
 SUMMARY:🏀 U14 Boys: Comets Sharks vs Solway Ninjas

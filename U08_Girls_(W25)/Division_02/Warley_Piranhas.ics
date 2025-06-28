@@ -6,20 +6,9 @@ X-WR-CALNAME:Warley Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:da23bc93-2491-458d-b407-da676711a37c
+UID:dc3a56af-a7df-41c9-8e05-29a3c423ff61
 SEQUENCE:0
-DTSTAMP:20250627T171204
-DTSTART:20250628T101500
-DTEND:20250628T110000
-SUMMARY:🏀 U08 Girls: Warley Piranhas vs Solway Stars
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Star
- s\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:fe79ba60-8a80-41f3-96d9-b63e86d88647
-SEQUENCE:0
-DTSTAMP:20250627T171204
+DTSTAMP:20250628T171110
 DTSTART:20250726T101500
 DTEND:20250726T110000
 SUMMARY:🏀 U08 Girls: Warley Piranhas vs Glen Iris Scorpions Ferndale
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Glen Iris S
  corpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3a22c853-d111-4f2e-88c3-adf63162f16e
+UID:04c0d600-b39c-4e50-8615-2b0ac8485d66
 SEQUENCE:0
-DTSTAMP:20250627T171204
+DTSTAMP:20250628T171110
 DTSTART:20250802T101500
 DTEND:20250802T110000
 SUMMARY:🏀 U08 Girls: Warley Piranhas vs Solway Comets
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Come
  ts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:86b054d4-fd5a-4ffc-ae9f-f7c0a2650c49
+UID:b720e3b7-7ffd-4a13-9698-6abec57b15c8
 SEQUENCE:0
-DTSTAMP:20250627T171204
+DTSTAMP:20250628T171110
 DTSTART:20250816T101500
 DTEND:20250816T110000
 SUMMARY:🏀 U08 Girls: Warley Piranhas vs Malvern Tigers Atwell
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Atwell\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4d03730f-154c-4c91-a415-99d75854c26e
+UID:2943171d-9b78-4860-8d51-5b43c2543037
 SEQUENCE:0
-DTSTAMP:20250627T171204
+DTSTAMP:20250628T171110
 DTSTART:20250823T101500
 DTEND:20250823T110000
 SUMMARY:🏀 U08 Girls: Warley Piranhas vs Malvern Tigers Wallace
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Wallace\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:52730aaa-fc1c-4e41-a1bc-4e2a3cece2f4
+UID:8a7f5425-8e06-48d8-8b5d-4f11b4e080f2
 SEQUENCE:0
-DTSTAMP:20250627T171204
+DTSTAMP:20250628T171110
 DTSTART:20250830T080000
 DTEND:20250830T084500
 SUMMARY:🏀 U08 Girls: Warley Piranhas vs Arax
