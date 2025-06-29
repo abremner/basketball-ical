@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Pythons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:5e4a9e20-d0de-4f80-b6b3-f8a3e0a6deb8
+UID:6f7ddec3-8772-46ec-8c6e-b30ede214800
 SEQUENCE:0
-DTSTAMP:20250628T171434
-DTSTART:20250629T194500
-DTEND:20250629T203000
-SUMMARY:🏀 U21 Mens: Solway Pythons vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
- ightning Gold\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:78198789-ea49-4012-a472-38ba46d71258
-SEQUENCE:0
-DTSTAMP:20250628T171434
+DTSTAMP:20250629T171506
 DTSTART:20250727T194500
 DTEND:20250727T203000
 SUMMARY:🏀 U21 Mens: Solway Pythons vs Maccabi Le Boomers
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Le Boomers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cd4f33f7-56a2-4762-bf08-dc2557999f3a
+UID:98ab9b73-7770-46d0-b269-6ff88ce73c0d
 SEQUENCE:0
-DTSTAMP:20250628T171434
+DTSTAMP:20250629T171506
 DTSTART:20250810T190000
 DTEND:20250810T194500
 SUMMARY:🏀 U21 Mens: Solway Pythons vs Titans Larrys
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Titans
   Larrys\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:de77c342-2f30-46d2-b7ed-978b4fdbaa22
+UID:3caccf60-5685-4d1d-a6af-f5f8c97260b2
 SEQUENCE:0
-DTSTAMP:20250628T171434
+DTSTAMP:20250629T171506
 DTSTART:20250817T190000
 DTEND:20250817T194500
 SUMMARY:🏀 U21 Mens: Solway Pythons vs Solway Cobras
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Cobras\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3e06ad97-5f62-4494-a86b-a8091658b39d
+UID:5c241336-4670-4501-bb36-69bf5be1ce93
 SEQUENCE:0
-DTSTAMP:20250628T171434
+DTSTAMP:20250629T171506
 DTSTART:20250824T194500
 DTEND:20250824T203000
 SUMMARY:🏀 U21 Mens: Solway Pythons vs Ashy Lightning Gold
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:566605b7-8f08-4e41-a364-3326e10c014c
+UID:5d40be5c-ebc6-48d6-af12-ef0aaa730920
 SEQUENCE:0
-DTSTAMP:20250628T171434
+DTSTAMP:20250629T171506
 DTSTART:20250831T194500
 DTEND:20250831T203000
 SUMMARY:🏀 U21 Mens: Solway Pythons vs Maccabi Le Boomers

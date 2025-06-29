@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Turbos Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:3aa0e88e-3218-4a24-b852-b39bf314f327
+UID:133f6c90-2b1e-4f96-b519-d3201394eaca
 SEQUENCE:0
-DTSTAMP:20250628T171423
-DTSTART:20250629T173000
-DTEND:20250629T181500
-SUMMARY:🏀 U18 Boys: Toorak Turbos vs Timberwolves Wildcats
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
- wolves Wildcats\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:6aea2ad3-3368-4639-8a5f-4481be310ab9
-SEQUENCE:0
-DTSTAMP:20250628T171423
+DTSTAMP:20250629T171453
 DTSTART:20250803T181500
 DTEND:20250803T190000
 SUMMARY:🏀 U18 Boys: Toorak Turbos vs Comets Storm
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
   Storm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0d0eea92-32cc-49ba-834f-581089796ccf
+UID:433954b9-8aad-449b-b784-c13acc3f6bc0
 SEQUENCE:0
-DTSTAMP:20250628T171423
+DTSTAMP:20250629T171453
 DTSTART:20250810T181500
 DTEND:20250810T190000
 SUMMARY:🏀 U18 Boys: Toorak Turbos vs Timberwolves Knights
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Knights\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ce5f4302-bb07-45f6-b832-9c527d1c9122
+UID:306ec550-6f8f-4afb-9028-b721c6e4e616
 SEQUENCE:0
-DTSTAMP:20250628T171423
+DTSTAMP:20250629T171453
 DTSTART:20250817T181500
 DTEND:20250817T190000
 SUMMARY:🏀 U18 Boys: Toorak Turbos vs Timberwolves Stars
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Stars\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b2a1f484-4df1-4aae-ad72-e1fe7cabb51b
+UID:21780b53-75b5-44f1-a722-432068361024
 SEQUENCE:0
-DTSTAMP:20250628T171423
+DTSTAMP:20250629T171453
 DTSTART:20250824T181500
 DTEND:20250824T190000
 SUMMARY:🏀 U18 Boys: Toorak Turbos vs Malvern Tigers Red
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:35dfa859-4c60-4575-890b-4e9eef7f8caa
+UID:1160df48-bb2c-4aa9-8370-cbe07045c020
 SEQUENCE:0
-DTSTAMP:20250628T171423
+DTSTAMP:20250629T171453
 DTSTART:20250831T181500
 DTEND:20250831T190000
 SUMMARY:🏀 U18 Boys: Toorak Turbos vs Golden Hawks Sky
