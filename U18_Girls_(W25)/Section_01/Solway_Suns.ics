@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Suns Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e7dbfe2c-4e57-4533-ac9a-b3692e642dc0
+UID:ceb2386e-2d03-4903-9067-38c8d3a10f40
 SEQUENCE:0
-DTSTAMP:20250630T171613
-DTSTART:20250701T191500
-DTEND:20250701T200000
-SUMMARY:🏀 U18 Girls: Solway Suns vs Timberwolves Panthers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
- wolves Panthers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:9510048c-4803-4be0-913e-0cd642f243ae
-SEQUENCE:0
-DTSTAMP:20250630T171613
+DTSTAMP:20250701T171641
 DTSTART:20250722T191500
 DTEND:20250722T200000
 SUMMARY:🏀 U18 Girls: Solway Suns vs Toorak Trailblazers
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
   Trailblazers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4b6e653e-895f-4792-8a33-c2bd4e3a852f
+UID:91379b4e-a339-4fca-b255-ae8b121dfae9
 SEQUENCE:0
-DTSTAMP:20250630T171613
+DTSTAMP:20250701T171641
 DTSTART:20250729T191500
 DTEND:20250729T200000
 SUMMARY:🏀 U18 Girls: Solway Suns vs Malvern Tigers Reid
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Reid\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:92204a54-0915-49f7-91b1-8a425508c447
+UID:5af612db-259e-44f5-82ee-1c1d450630fc
 SEQUENCE:0
-DTSTAMP:20250630T171613
+DTSTAMP:20250701T171641
 DTSTART:20250805T191500
 DTEND:20250805T200000
 SUMMARY:🏀 U18 Girls: Solway Suns vs Solway Magic
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Magic\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:50ee0c46-c4a0-40df-991a-006c10d8887d
+UID:556c3968-eca6-42ac-8fef-62826bb6613f
 SEQUENCE:0
-DTSTAMP:20250630T171613
+DTSTAMP:20250701T171641
 DTSTART:20250812T191500
 DTEND:20250812T200000
 SUMMARY:🏀 U18 Girls: Solway Suns vs Malvern Tigers Jackson
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Jackson\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:af923417-c369-422a-994a-dc4013a11fcf
+UID:980491c8-ea65-4413-bac4-c158f1b35c39
 SEQUENCE:0
-DTSTAMP:20250630T171613
+DTSTAMP:20250701T171641
 DTSTART:20250826T191500
 DTEND:20250826T200000
 SUMMARY:🏀 U18 Girls: Solway Suns vs Ashy Lightning Gold

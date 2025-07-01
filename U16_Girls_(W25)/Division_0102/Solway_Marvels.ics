@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Marvels Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:1f9a5a67-e9e9-49dd-9eca-633ab3aee544
+UID:ad36f62d-aec4-497b-bd1f-efa0d17a0038
 SEQUENCE:0
-DTSTAMP:20250630T171549
-DTSTART:20250701T183000
-DTEND:20250701T191500
-SUMMARY:🏀 U16 Girls: Solway Marvels vs Finch Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Finch 
- Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:b2313e87-d5cf-419e-aa71-b256f542c7e2
-SEQUENCE:0
-DTSTAMP:20250630T171549
+DTSTAMP:20250701T171618
 DTSTART:20250722T183000
 DTEND:20250722T191500
 SUMMARY:🏀 U16 Girls: Solway Marvels vs Malvern Tigers Tolo
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Tolo\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:189a30f4-e6a2-4aaa-9b0a-411d19cdac94
+UID:711beec0-6f0d-421f-b37c-8380d3208207
 SEQUENCE:0
-DTSTAMP:20250630T171549
+DTSTAMP:20250701T171618
 DTSTART:20250729T174500
 DTEND:20250729T183000
 SUMMARY:🏀 U16 Girls: Solway Marvels vs Timberwolves Rockets
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Rockets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4d73ca00-191e-44b6-806a-5023a722bbc9
+UID:e28c9fa5-7b42-4086-9403-8c497eaa8dee
 SEQUENCE:0
-DTSTAMP:20250630T171549
+DTSTAMP:20250701T171618
 DTSTART:20250805T183000
 DTEND:20250805T191500
 SUMMARY:🏀 U16 Girls: Solway Marvels vs Solway Fever
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Fever\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:33004d8f-52f0-42a1-852f-159119d6f021
+UID:692bdd96-3ea9-44c9-86a0-ca67377239ad
 SEQUENCE:0
-DTSTAMP:20250630T171549
+DTSTAMP:20250701T171618
 DTSTART:20250812T174500
 DTEND:20250812T183000
 SUMMARY:🏀 U16 Girls: Solway Marvels vs Malvern Tigers Rocci
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Rocci\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a9e7cc27-f15b-4723-987d-84144735fa77
+UID:746716a4-a953-4391-a3ca-f0b792a4e7c4
 SEQUENCE:0
-DTSTAMP:20250630T171549
+DTSTAMP:20250701T171618
 DTSTART:20250826T174500
 DTEND:20250826T183000
 SUMMARY:🏀 U16 Girls: Solway Marvels vs Glen Iris Scorpions Sixers
