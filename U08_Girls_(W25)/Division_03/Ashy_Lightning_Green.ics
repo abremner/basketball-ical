@@ -6,9 +6,9 @@ X-WR-CALNAME:Ashy Lightning Green Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:cc56fc02-dc1f-460a-a2a5-a6b5df23f271
+UID:d70667dd-833f-40d7-850c-e9e1fd6bfa2b
 SEQUENCE:0
-DTSTAMP:20250701T171306
+DTSTAMP:20250702T171301
 DTSTART:20250726T093000
 DTEND:20250726T101500
 SUMMARY:🏀 U08 Girls: Ashy Lightning Green vs Solway Meteors
@@ -17,20 +17,20 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Mete
  ors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8e3fd6f7-f456-45e1-984e-8a2423150b13
+UID:de246f63-8721-4344-838f-d0b6ed049f18
 SEQUENCE:0
-DTSTAMP:20250701T171306
+DTSTAMP:20250702T171301
 DTSTART:20250802T093000
 DTEND:20250802T101500
-SUMMARY:🏀 U08 Girls: Ashy Lightning Green vs Maccabi Warriors
+SUMMARY:🏀 U08 Girls: Ashy Lightning Green vs Warley Piranhas
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi War
- riors\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Warley Pira
+ nhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:08b85809-8c97-4744-93cc-f9e4711aa34c
+UID:2187aa6c-809d-4b27-a8b4-c38f8c0861a6
 SEQUENCE:0
-DTSTAMP:20250701T171306
+DTSTAMP:20250702T171301
 DTSTART:20250809T093000
 DTEND:20250809T101500
 SUMMARY:🏀 U08 Girls: Ashy Lightning Green vs Maccabi Celtics
@@ -39,36 +39,25 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Cel
  tics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:718abeef-39fe-4921-a21d-36df31ce529a
+UID:9e98ae4d-bd68-41ff-9d6c-de5d4f732035
 SEQUENCE:0
-DTSTAMP:20250701T171306
-DTSTART:20250816T080000
-DTEND:20250816T084500
+DTSTAMP:20250702T171301
+DTSTART:20250823T080000
+DTEND:20250823T084500
 SUMMARY:🏀 U08 Girls: Ashy Lightning Green vs Solway Sparks
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
  Sparks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f4cd5cc5-033a-4606-9e1b-3910514ab510
+UID:e05d9d19-7a29-49b2-9edc-b909a10c90ed
 SEQUENCE:0
-DTSTAMP:20250701T171306
-DTSTART:20250823T093000
-DTEND:20250823T101500
-SUMMARY:🏀 U08 Girls: Ashy Lightning Green vs Maccabi Bucks
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Buc
- ks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5bdd4f5e-5a79-456b-8441-9a55b6bb75e9
-SEQUENCE:0
-DTSTAMP:20250701T171306
+DTSTAMP:20250702T171301
 DTSTART:20250830T093000
 DTEND:20250830T101500
-SUMMARY:🏀 U08 Girls: Ashy Lightning Green vs Solway Meteors
+SUMMARY:🏀 U08 Girls: Ashy Lightning Green vs Maccabi Bucks
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Mete
- ors\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Buc
+ ks\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

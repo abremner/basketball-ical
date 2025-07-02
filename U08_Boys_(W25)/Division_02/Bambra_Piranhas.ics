@@ -6,20 +6,20 @@ X-WR-CALNAME:Bambra Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9c4fd2c8-7ca9-4128-a7a5-e614fd8e0136
+UID:927aaec0-d885-4bea-9f17-dae046b9bbad
 SEQUENCE:0
-DTSTAMP:20250701T171248
-DTSTART:20250726T101500
-DTEND:20250726T110000
-SUMMARY:🏀 U08 Boys: Bambra Piranhas vs AlphaWolf Magic
+DTSTAMP:20250702T171240
+DTSTART:20250726T093000
+DTEND:20250726T101500
+SUMMARY:🏀 U08 Boys: Bambra Piranhas vs Malvern Tigers Exum
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: AlphaWo
- lf Magic\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Exum\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f63b4fe1-caea-416a-913c-f13c5b54715e
+UID:cdd789f2-a42b-4704-8151-48a8ff2ff9d1
 SEQUENCE:0
-DTSTAMP:20250701T171248
+DTSTAMP:20250702T171240
 DTSTART:20250802T101500
 DTEND:20250802T110000
 SUMMARY:🏀 U08 Boys: Bambra Piranhas vs Timberwolves Blasters
@@ -28,47 +28,47 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Blasters\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9f6cec25-4cc0-459c-b51e-b5f27e2862a1
+UID:21beeb95-d45e-44f9-b496-2623d6b6be4f
 SEQUENCE:0
-DTSTAMP:20250701T171248
+DTSTAMP:20250702T171240
 DTSTART:20250809T101500
 DTEND:20250809T110000
-SUMMARY:🏀 U08 Boys: Bambra Piranhas vs Glen Iris Scorpions Ferndale
+SUMMARY:🏀 U08 Boys: Bambra Piranhas vs Malvern Tigers Daniels
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
- is Scorpions Ferndale\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Daniels\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:358b111e-858d-46ff-afa0-abc5f0302142
+UID:7d4e9e72-4b80-4db1-96d8-1bfe15fb6384
 SEQUENCE:0
-DTSTAMP:20250701T171248
-DTSTART:20250816T093000
-DTEND:20250816T101500
-SUMMARY:🏀 U08 Boys: Bambra Piranhas vs Malvern Tigers Exum
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
-  Tigers Exum\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:60931ebe-dcf6-4610-812b-e72f6292f232
-SEQUENCE:0
-DTSTAMP:20250701T171248
-DTSTART:20250823T080000
-DTEND:20250823T084500
-SUMMARY:🏀 U08 Boys: Bambra Piranhas vs Arax
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Arax\nA
- rrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:14be3150-b3ae-40db-834c-988f54f5a6f4
-SEQUENCE:0
-DTSTAMP:20250701T171248
-DTSTART:20250830T093000
-DTEND:20250830T101500
+DTSTAMP:20250702T171240
+DTSTART:20250816T101500
+DTEND:20250816T110000
 SUMMARY:🏀 U08 Boys: Bambra Piranhas vs Glen Iris Scorpions Gardiner
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:efb30def-8ccc-4338-a12a-745d83d75a1a
+SEQUENCE:0
+DTSTAMP:20250702T171240
+DTSTART:20250823T093000
+DTEND:20250823T101500
+SUMMARY:🏀 U08 Boys: Bambra Piranhas vs AlphaWolf Magic
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
+ lf Magic\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:656421ef-bdc7-41fc-b137-c86190c55853
+SEQUENCE:0
+DTSTAMP:20250702T171240
+DTSTART:20250830T101500
+DTEND:20250830T110000
+SUMMARY:🏀 U08 Boys: Bambra Piranhas vs Malvern Tigers Exum
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Exum\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

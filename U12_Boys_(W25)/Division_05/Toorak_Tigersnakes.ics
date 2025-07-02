@@ -6,42 +6,31 @@ X-WR-CALNAME:Toorak Tigersnakes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b5189bc7-adae-4ec7-b771-60c8adc15a5a
+UID:dbf5c017-5c0f-42f8-8871-e6adfa85f7d6
 SEQUENCE:0
-DTSTAMP:20250701T171417
-DTSTART:20250726T144500
-DTEND:20250726T153000
+DTSTAMP:20250702T171411
+DTSTART:20250726T140000
+DTEND:20250726T144500
 SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Toorak Torchers
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak 
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
  Torchers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:06432d7f-74a7-46a5-8dfe-3fdfe776f83a
+UID:af79278d-c44a-42c2-85ec-1936adc0cd1a
 SEQUENCE:0
-DTSTAMP:20250701T171417
-DTSTART:20250802T140000
-DTEND:20250802T144500
-SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Alma Park Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Alma Pa
- rk Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:643831af-de6a-45ad-881f-bd1744b0dcf5
-SEQUENCE:0
-DTSTAMP:20250701T171417
-DTSTART:20250809T140000
-DTEND:20250809T144500
+DTSTAMP:20250702T171411
+DTSTART:20250809T131500
+DTEND:20250809T140000
 SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Malvern Tigers Green
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
-  Tigers Green\nArrive 15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9684eecd-60a6-4862-bcb5-bc2273b6a0c0
+UID:3f741943-b64b-4bf6-a33f-57f5bf1c3b9c
 SEQUENCE:0
-DTSTAMP:20250701T171417
+DTSTAMP:20250702T171411
 DTSTART:20250816T131500
 DTEND:20250816T140000
 SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Timberwolves Heat
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Heat\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:213f3d03-b0f7-4e6e-af59-63b3ea46b13d
+UID:ecbb0de1-9755-4708-b1c5-32639f74ddb3
 SEQUENCE:0
-DTSTAMP:20250701T171417
+DTSTAMP:20250702T171411
 DTSTART:20250823T140000
 DTEND:20250823T144500
 SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Solway Lions
@@ -61,14 +50,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Lions\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a12c2073-984d-4e78-86fc-f5dc2da1e911
+UID:e73965cb-616b-4f7a-acfd-6a35b1e47a7e
 SEQUENCE:0
-DTSTAMP:20250701T171417
-DTSTART:20250830T144500
-DTEND:20250830T153000
+DTSTAMP:20250702T171411
+DTSTART:20250830T140000
+DTEND:20250830T144500
 SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Toorak Torchers
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak 
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
  Torchers\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

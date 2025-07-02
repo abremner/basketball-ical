@@ -6,69 +6,58 @@ X-WR-CALNAME:Erindale Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:bb201369-725e-4305-a7a3-2509dd7383f7
+UID:eae99ba2-c1fe-4fc6-9774-49c34f1aa805
 SEQUENCE:0
-DTSTAMP:20250701T171350
-DTSTART:20250726T110000
-DTEND:20250726T114500
+DTSTAMP:20250702T171345
+DTSTART:20250726T101500
+DTEND:20250726T110000
+SUMMARY:🏀 U10 Girls: Erindale Piranhas vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:59948f59-89cc-45ad-93ab-2e84707f6b18
+SEQUENCE:0
+DTSTAMP:20250702T171345
+DTSTART:20250802T101500
+DTEND:20250802T110000
+SUMMARY:🏀 U10 Girls: Erindale Piranhas vs Toorak Tangos
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
+  Tangos\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2e44ce7e-29ce-45cf-b690-670c865de4b8
+SEQUENCE:0
+DTSTAMP:20250702T171345
+DTSTART:20250816T110000
+DTEND:20250816T114500
 SUMMARY:🏀 U10 Girls: Erindale Piranhas vs Solway Tornadoes
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Tornadoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:264cace0-fc84-4162-84bb-83cfc32a5d35
+UID:7047c5b0-1f16-44ff-b7fe-ee4473836811
 SEQUENCE:0
-DTSTAMP:20250701T171350
-DTSTART:20250802T110000
-DTEND:20250802T114500
-SUMMARY:🏀 U10 Girls: Erindale Piranhas vs Maccabi Warriors
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
-  Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:bf2be898-00c0-4d41-97a0-dd97dbc08a73
-SEQUENCE:0
-DTSTAMP:20250701T171350
-DTSTART:20250809T110000
-DTEND:20250809T114500
-SUMMARY:🏀 U10 Girls: Erindale Piranhas vs Toorak Tangos
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
-  Tangos\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:487cc01d-a705-408c-bf12-c454e26d8b8c
-SEQUENCE:0
-DTSTAMP:20250701T171350
-DTSTART:20250816T110000
-DTEND:20250816T114500
-SUMMARY:🏀 U10 Girls: Erindale Piranhas vs Timberwolves Warriors
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
- wolves Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:0e6610fb-9a89-4991-912b-ab9a8bd51012
-SEQUENCE:0
-DTSTAMP:20250701T171350
-DTSTART:20250823T110000
-DTEND:20250823T114500
+DTSTAMP:20250702T171345
+DTSTART:20250823T101500
+DTEND:20250823T110000
 SUMMARY:🏀 U10 Girls: Erindale Piranhas vs Malvern Tigers Yellow
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
-  Tigers Yellow\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:a22d8177-661a-47e4-a0bb-a7f5349c7fd2
-SEQUENCE:0
-DTSTAMP:20250701T171350
-DTSTART:20250830T101500
-DTEND:20250830T110000
-SUMMARY:🏀 U10 Girls: Erindale Piranhas vs Malvern Tigers Red
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
- n Tigers Red\nArrive 15 mins early for warm-up
+ n Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:600af13c-798c-4a12-a2c5-9857a60e345f
+SEQUENCE:0
+DTSTAMP:20250702T171345
+DTSTART:20250830T110000
+DTEND:20250830T114500
+SUMMARY:🏀 U10 Girls: Erindale Piranhas vs Timberwolves Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

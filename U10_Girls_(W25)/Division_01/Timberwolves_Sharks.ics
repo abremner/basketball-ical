@@ -6,58 +6,69 @@ X-WR-CALNAME:Timberwolves Sharks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e1634765-6459-4bc4-ab8f-0c04f4b26667
+UID:d1b084b8-f3da-4794-94ba-25cb3f465ad2
 SEQUENCE:0
-DTSTAMP:20250701T171349
-DTSTART:20250802T123000
-DTEND:20250802T131500
+DTSTAMP:20250702T171344
+DTSTART:20250726T114500
+DTEND:20250726T123000
 SUMMARY:🏀 U10 Girls: Timberwolves Sharks vs Ashy Lightning Gold
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:238089cf-3832-437f-a28c-3022ef4e7a91
+UID:6c875489-13de-4979-97bf-5e1a6db62d78
 SEQUENCE:0
-DTSTAMP:20250701T171349
-DTSTART:20250809T123000
-DTEND:20250809T131500
-SUMMARY:🏀 U10 Girls: Timberwolves Sharks vs Korowa Cherry
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Korowa
-  Cherry\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:174b4411-beba-483d-b670-38167cc7d32c
-SEQUENCE:0
-DTSTAMP:20250701T171349
-DTSTART:20250816T123000
-DTEND:20250816T131500
+DTSTAMP:20250702T171344
+DTSTART:20250802T123000
+DTEND:20250802T131500
 SUMMARY:🏀 U10 Girls: Timberwolves Sharks vs Malvern Tigers Black
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:92f08c0d-4713-465c-a18e-a18346018d64
+UID:552e0412-c914-40e4-9e64-20aa1e762456
 SEQUENCE:0
-DTSTAMP:20250701T171349
-DTSTART:20250823T114500
-DTEND:20250823T123000
+DTSTAMP:20250702T171344
+DTSTART:20250809T123000
+DTEND:20250809T131500
+SUMMARY:🏀 U10 Girls: Timberwolves Sharks vs Toorak Troublemakers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
+  Troublemakers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b6dbd9c7-9c29-479f-a760-0d07ffe9f9a5
+SEQUENCE:0
+DTSTAMP:20250702T171344
+DTSTART:20250816T123000
+DTEND:20250816T131500
+SUMMARY:🏀 U10 Girls: Timberwolves Sharks vs Korowa Cherry
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Korowa
+  Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6fb135f1-8884-4177-bea3-43f5c19fcd7a
+SEQUENCE:0
+DTSTAMP:20250702T171344
+DTSTART:20250823T123000
+DTEND:20250823T131500
 SUMMARY:🏀 U10 Girls: Timberwolves Sharks vs Solway Hurricanes
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Hurricanes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:47d54e50-a395-4c34-9f13-378602c7da35
+UID:fd3fbedf-99b5-44fd-beb6-aa16dd6c944a
 SEQUENCE:0
-DTSTAMP:20250701T171349
+DTSTAMP:20250702T171344
 DTSTART:20250830T114500
 DTEND:20250830T123000
-SUMMARY:🏀 U10 Girls: Timberwolves Sharks vs Toorak Troublemakers
+SUMMARY:🏀 U10 Girls: Timberwolves Sharks vs Ashy Lightning Gold
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
-  Troublemakers\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

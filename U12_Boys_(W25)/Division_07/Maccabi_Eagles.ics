@@ -6,69 +6,47 @@ X-WR-CALNAME:Maccabi Eagles Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:99f0a767-e412-4664-8f25-dddc32c521bc
+UID:7e364df2-9a99-4e19-900e-a5285392cf87
 SEQUENCE:0
-DTSTAMP:20250701T171423
-DTSTART:20250726T131500
-DTEND:20250726T140000
+DTSTAMP:20250702T171417
+DTSTART:20250802T114500
+DTEND:20250802T123000
 SUMMARY:🏀 U12 Boys: Maccabi Eagles vs Beckett Park Piranhas
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Beckett Park Piranhas\nArrive
-  15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Becket
+ t Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9df5f2b4-18e1-4a74-b6c3-4f89807cab2d
+UID:227bddf5-b4c9-4876-9553-b3e2906c8e5d
 SEQUENCE:0
-DTSTAMP:20250701T171423
-DTSTART:20250802T123000
-DTEND:20250802T131500
-SUMMARY:🏀 U12 Boys: Maccabi Eagles vs Malvern Tigers Blue
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
-  Tigers Blue\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:28f00724-8a2c-43f7-adbe-d3331313f055
-SEQUENCE:0
-DTSTAMP:20250701T171423
+DTSTAMP:20250702T171417
 DTSTART:20250809T114500
 DTEND:20250809T123000
-SUMMARY:🏀 U12 Boys: Maccabi Eagles vs Malvern Tigers Brown
+SUMMARY:🏀 U12 Boys: Maccabi Eagles vs Malvern Tigers Blue
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
- n Tigers Brown\nArrive 15 mins early for warm-up
+ n Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b2a1be91-f7cd-49dc-b954-143812f95f85
+UID:00a68dea-0266-43b9-91fa-9a3b2b028a19
 SEQUENCE:0
-DTSTAMP:20250701T171423
-DTSTART:20250816T114500
-DTEND:20250816T123000
+DTSTAMP:20250702T171417
+DTSTART:20250816T123000
+DTEND:20250816T131500
 SUMMARY:🏀 U12 Boys: Maccabi Eagles vs AlphaWolf Lakers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AlphaW
- olf Lakers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:eda09281-531d-4545-ae77-45e42da5963d
-SEQUENCE:0
-DTSTAMP:20250701T171423
-DTSTART:20250823T114500
-DTEND:20250823T123000
-SUMMARY:🏀 U12 Boys: Maccabi Eagles vs Central Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Centra
- l Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:15e17ef3-95cb-45b3-91ff-8003d5b4dc15
-SEQUENCE:0
-DTSTAMP:20250701T171423
-DTSTART:20250830T123000
-DTEND:20250830T131500
-SUMMARY:🏀 U12 Boys: Maccabi Eagles vs Beckett Park Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Beckett
-  Park Piranhas\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: AlphaWo
+ lf Lakers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:21ca84f1-384d-48b1-a573-87fbd1fe9d60
+SEQUENCE:0
+DTSTAMP:20250702T171417
+DTSTART:20250823T123000
+DTEND:20250823T131500
+SUMMARY:🏀 U12 Boys: Maccabi Eagles vs Malvern Tigers Brown
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

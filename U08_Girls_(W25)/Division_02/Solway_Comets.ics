@@ -6,58 +6,69 @@ X-WR-CALNAME:Solway Comets Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:01b102bb-7521-4dc3-a1a5-a7c1a858d948
+UID:e51d4edc-637f-4b41-99c7-5acce44883a7
 SEQUENCE:0
-DTSTAMP:20250701T171305
-DTSTART:20250802T101500
-DTEND:20250802T110000
-SUMMARY:🏀 U08 Girls: Solway Comets vs Warley Piranhas
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Warley Pira
- nhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:1e4e6d1f-a2d4-4dbb-bc7b-4234706c16f4
-SEQUENCE:0
-DTSTAMP:20250701T171305
-DTSTART:20250809T080000
-DTEND:20250809T084500
+DTSTAMP:20250702T171300
+DTSTART:20250726T080000
+DTEND:20250726T084500
 SUMMARY:🏀 U08 Girls: Solway Comets vs Arax
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Arax\nA
  rrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:66366a5d-87db-4463-bc54-a314de52d87f
+UID:c4645a4e-cda1-4ae5-a8bb-65e3e8acc449
 SEQUENCE:0
-DTSTAMP:20250701T171305
-DTSTART:20250816T101500
-DTEND:20250816T110000
+DTSTAMP:20250702T171300
+DTSTART:20250802T101500
+DTEND:20250802T110000
 SUMMARY:🏀 U08 Girls: Solway Comets vs Glen Iris Scorpions Ferndale
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Glen Iris S
  corpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f5b54253-8d62-4693-86dd-1745508e014d
+UID:fe4e1169-dccc-4faf-8f06-f17f3b88b5e5
 SEQUENCE:0
-DTSTAMP:20250701T171305
-DTSTART:20250823T080000
-DTEND:20250823T084500
+DTSTAMP:20250702T171300
+DTSTART:20250809T101500
+DTEND:20250809T110000
 SUMMARY:🏀 U08 Girls: Solway Comets vs Solway Stars
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
- Stars\nArrive 15 mins early for warm-up
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Star
+ s\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2f19532b-1c25-4dc9-a5df-a3b037e56487
+UID:25391585-f91a-4a48-a9b8-b74664a3ea88
 SEQUENCE:0
-DTSTAMP:20250701T171305
-DTSTART:20250830T101500
-DTEND:20250830T110000
+DTSTAMP:20250702T171300
+DTSTART:20250816T101500
+DTEND:20250816T110000
 SUMMARY:🏀 U08 Girls: Solway Comets vs Malvern Tigers Wallace
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Wallace\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:937da15f-336a-4ad8-8104-e4c4ec596454
+SEQUENCE:0
+DTSTAMP:20250702T171300
+DTSTART:20250823T101500
+DTEND:20250823T110000
+SUMMARY:🏀 U08 Girls: Solway Comets vs Malvern Tigers Atwell
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Atwell\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:73220550-7e46-4215-bb0b-75a6754513d7
+SEQUENCE:0
+DTSTAMP:20250702T171300
+DTSTART:20250830T080000
+DTEND:20250830T084500
+SUMMARY:🏀 U08 Girls: Solway Comets vs Arax
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Arax\nA
+ rrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

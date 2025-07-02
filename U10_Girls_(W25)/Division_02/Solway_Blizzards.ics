@@ -6,31 +6,31 @@ X-WR-CALNAME:Solway Blizzards Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e532de6b-b310-4233-9357-becd6006db24
+UID:61f0900f-e7b7-479b-9a67-78fffd53409c
 SEQUENCE:0
-DTSTAMP:20250701T171352
+DTSTAMP:20250702T171347
 DTSTART:20250726T101500
 DTEND:20250726T110000
-SUMMARY:🏀 U10 Girls: Solway Blizzards vs Timberwolves Warriors
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
- wolves Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:c030b12d-0741-4d69-ac6b-c66b7f0959c8
-SEQUENCE:0
-DTSTAMP:20250701T171352
-DTSTART:20250802T101500
-DTEND:20250802T110000
 SUMMARY:🏀 U10 Girls: Solway Blizzards vs Malvern Tigers Red
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bad0b9ca-69ae-4195-81e6-3dfbb72cb81e
+UID:f80fc297-5844-4f71-ade6-5a37b68fb162
 SEQUENCE:0
-DTSTAMP:20250701T171352
+DTSTAMP:20250702T171347
+DTSTART:20250802T101500
+DTEND:20250802T110000
+SUMMARY:🏀 U10 Girls: Solway Blizzards vs Timberwolves Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b2ec60a6-5659-4c7b-8d24-343574d9cb52
+SEQUENCE:0
+DTSTAMP:20250702T171347
 DTSTART:20250809T101500
 DTEND:20250809T110000
 SUMMARY:🏀 U10 Girls: Solway Blizzards vs Maccabi Warriors
@@ -39,36 +39,25 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9faf8c0f-e9a8-427b-b48c-78415bbbd9f4
+UID:5093e5be-78d1-425c-8c88-b97f02057d76
 SEQUENCE:0
-DTSTAMP:20250701T171352
-DTSTART:20250816T101500
-DTEND:20250816T110000
-SUMMARY:🏀 U10 Girls: Solway Blizzards vs Malvern Tigers Yellow
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
- n Tigers Yellow\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:0a990ea6-8745-4c37-9d06-2da2a2973f1d
-SEQUENCE:0
-DTSTAMP:20250701T171352
+DTSTAMP:20250702T171347
 DTSTART:20250823T101500
 DTEND:20250823T110000
-SUMMARY:🏀 U10 Girls: Solway Blizzards vs Solway Tornadoes
+SUMMARY:🏀 U10 Girls: Solway Blizzards vs Halley Park Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
-  Tornadoes\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Halley
+  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:226f60c2-390f-46a6-9cb0-cabbbe04e192
+UID:c3c9af9f-bdd2-42cf-89ae-01fcfdf0fa50
 SEQUENCE:0
-DTSTAMP:20250701T171352
+DTSTAMP:20250702T171347
 DTSTART:20250830T101500
 DTEND:20250830T110000
-SUMMARY:🏀 U10 Girls: Solway Blizzards vs Toorak Tangos
+SUMMARY:🏀 U10 Girls: Solway Blizzards vs Solway Tornadoes
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
-  Tangos\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Tornadoes\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,69 +6,58 @@ X-WR-CALNAME:Timberwolves Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:ef912e8c-32d3-4f65-a828-8d79f2aaa76d
+UID:2f4fbb2d-9180-4f62-93cb-be47448a2383
 SEQUENCE:0
-DTSTAMP:20250701T171353
-DTSTART:20250726T101500
-DTEND:20250726T110000
+DTSTAMP:20250702T171348
+DTSTART:20250726T110000
+DTEND:20250726T114500
+SUMMARY:🏀 U10 Girls: Timberwolves Warriors vs Halley Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Halley 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8ab1223a-e4d3-4b77-abc3-9299b7d288ce
+SEQUENCE:0
+DTSTAMP:20250702T171348
+DTSTART:20250802T101500
+DTEND:20250802T110000
 SUMMARY:🏀 U10 Girls: Timberwolves Warriors vs Solway Blizzards
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Blizzards\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:863cdab7-9b19-4aa0-8b07-d94b10bbf078
+UID:ad80335c-b3f9-44aa-827e-9cb99c9815f8
 SEQUENCE:0
-DTSTAMP:20250701T171353
-DTSTART:20250802T110000
-DTEND:20250802T114500
-SUMMARY:🏀 U10 Girls: Timberwolves Warriors vs Toorak Tangos
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
-  Tangos\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:bbbd831e-21e0-4d10-9565-ec64e0e9afae
-SEQUENCE:0
-DTSTAMP:20250701T171353
-DTSTART:20250809T101500
-DTEND:20250809T110000
+DTSTAMP:20250702T171348
+DTSTART:20250809T110000
+DTEND:20250809T114500
 SUMMARY:🏀 U10 Girls: Timberwolves Warriors vs Malvern Tigers Yellow
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4b5f7106-09b1-4303-b7e1-dfb704a53bf1
+UID:7bba5929-2c8a-4c87-9c26-2354c21efc88
 SEQUENCE:0
-DTSTAMP:20250701T171353
+DTSTAMP:20250702T171348
 DTSTART:20250816T110000
 DTEND:20250816T114500
-SUMMARY:🏀 U10 Girls: Timberwolves Warriors vs Erindale Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Erinda
- le Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:8c9e2a99-e9e0-4c18-b546-15177424e277
-SEQUENCE:0
-DTSTAMP:20250701T171353
-DTSTART:20250823T110000
-DTEND:20250823T114500
 SUMMARY:🏀 U10 Girls: Timberwolves Warriors vs Maccabi Warriors
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
- i Warriors\nArrive 15 mins early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:01dbe425-a2a1-46cc-816e-961e8878eb26
+UID:50e15084-37b5-4a69-927a-62019669dfa8
 SEQUENCE:0
-DTSTAMP:20250701T171353
+DTSTAMP:20250702T171348
 DTSTART:20250830T110000
 DTEND:20250830T114500
-SUMMARY:🏀 U10 Girls: Timberwolves Warriors vs Solway Tornadoes
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
-  Tornadoes\nArrive 15 mins early for warm-up
+SUMMARY:🏀 U10 Girls: Timberwolves Warriors vs Erindale Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Erindal
+ e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

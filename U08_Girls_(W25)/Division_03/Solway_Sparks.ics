@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Sparks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:5bd6206d-9ff3-402a-b932-1a9cfc4d0256
+UID:0a9e016d-9cdd-4029-aa80-11a1b2481d24
 SEQUENCE:0
-DTSTAMP:20250701T171309
+DTSTAMP:20250702T171304
 DTSTART:20250726T080000
 DTEND:20250726T084500
 SUMMARY:🏀 U08 Girls: Solway Sparks vs Maccabi Bucks
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a0afab71-2dd2-44e6-994e-57909d60be45
+UID:ff33fb21-af3a-450d-aad5-63bea42299b6
 SEQUENCE:0
-DTSTAMP:20250701T171309
+DTSTAMP:20250702T171304
 DTSTART:20250802T080000
 DTEND:20250802T084500
 SUMMARY:🏀 U08 Girls: Solway Sparks vs Solway Meteors
@@ -28,47 +28,36 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Meteors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d2a0d69f-1e1c-4566-9e5e-d549833ed5ec
+UID:aa0e651d-831c-455f-807b-9c6d005bbac0
 SEQUENCE:0
-DTSTAMP:20250701T171309
+DTSTAMP:20250702T171304
 DTSTART:20250809T080000
 DTEND:20250809T084500
+SUMMARY:🏀 U08 Girls: Solway Sparks vs Warley Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Warley 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bf1c5d6a-691f-4c64-b7fb-92bf00d845ce
+SEQUENCE:0
+DTSTAMP:20250702T171304
+DTSTART:20250816T080000
+DTEND:20250816T084500
 SUMMARY:🏀 U08 Girls: Solway Sparks vs Maccabi Warriors
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:895bd1d7-d5d9-42b7-86e2-74ec70303f9e
+UID:96c16068-f213-40a6-9ab4-8e454161b2d5
 SEQUENCE:0
-DTSTAMP:20250701T171309
-DTSTART:20250816T080000
-DTEND:20250816T084500
+DTSTAMP:20250702T171304
+DTSTART:20250823T080000
+DTEND:20250823T084500
 SUMMARY:🏀 U08 Girls: Solway Sparks vs Ashy Lightning Green
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:ea536ecb-941e-4f25-bf66-bd8eb2b32b36
-SEQUENCE:0
-DTSTAMP:20250701T171309
-DTSTART:20250823T080000
-DTEND:20250823T084500
-SUMMARY:🏀 U08 Girls: Solway Sparks vs Maccabi Celtics
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
-  Celtics\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:623eaab9-87f3-493d-ae78-9f314c1f2053
-SEQUENCE:0
-DTSTAMP:20250701T171309
-DTSTART:20250830T080000
-DTEND:20250830T084500
-SUMMARY:🏀 U08 Girls: Solway Sparks vs Maccabi Bucks
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
-  Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

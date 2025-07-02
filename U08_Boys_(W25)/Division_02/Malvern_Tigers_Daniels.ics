@@ -6,71 +6,70 @@ X-WR-CALNAME:Malvern Tigers Daniels Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:1a0be227-0d2f-4b20-a61b-6743cc3b40a9
+UID:d5961461-d2ef-4cd4-9452-4738d19c3733
 SEQUENCE:0
-DTSTAMP:20250701T171249
-DTSTART:20250726T093000
-DTEND:20250726T101500
+DTSTAMP:20250702T171241
+DTSTART:20250726T101500
+DTEND:20250726T110000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs AlphaWolf Magic
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: AlphaWo
+ lf Magic\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c5ea996c-9ae4-40bf-9d87-1f202642b318
+SEQUENCE:0
+DTSTAMP:20250702T171241
+DTSTART:20250802T093000
+DTEND:20250802T101500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Glen Iris Scorpions Gardi
+ ner
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
+ is Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:50495528-7392-47d6-b8bd-603962e0dad0
+SEQUENCE:0
+DTSTAMP:20250702T171241
+DTSTART:20250809T101500
+DTEND:20250809T110000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Bambra Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Bambra 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:01081ad6-a1ec-4da4-afa1-f83a03d90b53
+SEQUENCE:0
+DTSTAMP:20250702T171241
+DTSTART:20250816T101500
+DTEND:20250816T110000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Malvern Tigers Exum
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Exum\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c3b04159-26e9-4c9e-8945-e89acd9125be
+UID:9096e58d-bbfd-476f-b178-8e4bb4fc66b3
 SEQUENCE:0
-DTSTAMP:20250701T171249
-DTSTART:20250802T093000
-DTEND:20250802T101500
-SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Glen Iris Scorpions Fernd
- ale
+DTSTAMP:20250702T171241
+DTSTART:20250823T101500
+DTEND:20250823T110000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Timberwolves Blasters
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
- is Scorpions Ferndale\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Blasters\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0b376a87-e3dd-4ce0-8f0d-5a7abea9eab4
+UID:24a486a5-10c5-4c94-8fdc-7d40b8232365
 SEQUENCE:0
-DTSTAMP:20250701T171249
-DTSTART:20250809T101500
-DTEND:20250809T110000
+DTSTAMP:20250702T171241
+DTSTART:20250830T101500
+DTEND:20250830T110000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs AlphaWolf Magic
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: AlphaWo
  lf Magic\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:8013ee00-ce32-4ce1-9567-e8a97cef8ae7
-SEQUENCE:0
-DTSTAMP:20250701T171249
-DTSTART:20250816T080000
-DTEND:20250816T084500
-SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Arax
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Arax\nA
- rrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:0bb8cafe-05be-448f-94bb-cae77ea68953
-SEQUENCE:0
-DTSTAMP:20250701T171249
-DTSTART:20250823T101500
-DTEND:20250823T110000
-SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Glen Iris Scorpions Gardi
- ner
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
- is Scorpions Gardiner\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5c1c13b1-e45c-4b49-8bc9-c4fed19ea73f
-SEQUENCE:0
-DTSTAMP:20250701T171249
-DTSTART:20250830T101500
-DTEND:20250830T110000
-SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Timberwolves Blasters
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
- olves Blasters\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,58 +6,69 @@ X-WR-CALNAME:Ashy Lightning Gold Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:7a1b274e-27ef-4261-8732-51839eb12f12
+UID:017ef8b3-e554-4945-9293-34ad0d1648c6
 SEQUENCE:0
-DTSTAMP:20250701T171347
+DTSTAMP:20250702T171342
 DTSTART:20250726T114500
 DTEND:20250726T123000
-SUMMARY:🏀 U10 Girls: Ashy Lightning Gold vs Halley Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Halley
-  Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:a6d58f74-049a-4a1f-97c6-58b6274550e7
-SEQUENCE:0
-DTSTAMP:20250701T171347
-DTSTART:20250802T123000
-DTEND:20250802T131500
 SUMMARY:🏀 U10 Girls: Ashy Lightning Gold vs Timberwolves Sharks
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Sharks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dd074555-f074-4b5d-9724-2c37b73e9926
+UID:b8db9502-8d60-4d0e-8537-0a7459efc2b4
 SEQUENCE:0
-DTSTAMP:20250701T171347
-DTSTART:20250809T114500
-DTEND:20250809T123000
-SUMMARY:🏀 U10 Girls: Ashy Lightning Gold vs Malvern Tigers Black
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
- n Tigers Black\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5d6c26b0-d6b8-4d23-afa7-7c58898083bd
-SEQUENCE:0
-DTSTAMP:20250701T171347
-DTSTART:20250816T123000
-DTEND:20250816T131500
+DTSTAMP:20250702T171342
+DTSTART:20250802T123000
+DTEND:20250802T131500
 SUMMARY:🏀 U10 Girls: Ashy Lightning Gold vs Toorak Troublemakers
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
   Troublemakers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:82cead83-7e54-4921-b308-d7b2f7203d28
+UID:978a1a8b-3f09-4976-a96d-43912a1795c2
 SEQUENCE:0
-DTSTAMP:20250701T171347
-DTSTART:20250823T123000
-DTEND:20250823T131500
+DTSTAMP:20250702T171342
+DTSTART:20250809T123000
+DTEND:20250809T131500
 SUMMARY:🏀 U10 Girls: Ashy Lightning Gold vs Korowa Cherry
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Korowa
   Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f8de38af-2bc1-4524-a8be-0fe85cf2c806
+SEQUENCE:0
+DTSTAMP:20250702T171342
+DTSTART:20250816T123000
+DTEND:20250816T131500
+SUMMARY:🏀 U10 Girls: Ashy Lightning Gold vs Solway Hurricanes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Hurricanes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8a56ea03-07a3-4037-9aac-04ecb4790a6b
+SEQUENCE:0
+DTSTAMP:20250702T171342
+DTSTART:20250823T114500
+DTEND:20250823T123000
+SUMMARY:🏀 U10 Girls: Ashy Lightning Gold vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1801b452-0296-4927-8845-493147f700b7
+SEQUENCE:0
+DTSTAMP:20250702T171342
+DTSTART:20250830T114500
+DTEND:20250830T123000
+SUMMARY:🏀 U10 Girls: Ashy Lightning Gold vs Timberwolves Sharks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Sharks\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

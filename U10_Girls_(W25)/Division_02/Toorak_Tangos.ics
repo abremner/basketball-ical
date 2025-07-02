@@ -6,69 +6,58 @@ X-WR-CALNAME:Toorak Tangos Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:32a3ec35-2f96-4b29-9218-69fc3a970209
+UID:4b8652ed-f407-48f5-9d53-6e781e3f8d5e
 SEQUENCE:0
-DTSTAMP:20250701T171353
-DTSTART:20250726T101500
-DTEND:20250726T110000
-SUMMARY:🏀 U10 Girls: Toorak Tangos vs Maccabi Warriors
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
- i Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:559e2c4d-4b5e-466b-b842-eeba4d7e6c16
-SEQUENCE:0
-DTSTAMP:20250701T171353
-DTSTART:20250802T110000
-DTEND:20250802T114500
-SUMMARY:🏀 U10 Girls: Toorak Tangos vs Timberwolves Warriors
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
- wolves Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:ac0ce80f-e124-4202-908a-20225f244f7a
-SEQUENCE:0
-DTSTAMP:20250701T171353
-DTSTART:20250809T110000
-DTEND:20250809T114500
+DTSTAMP:20250702T171348
+DTSTART:20250802T101500
+DTEND:20250802T110000
 SUMMARY:🏀 U10 Girls: Toorak Tangos vs Erindale Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Erinda
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Erinda
  le Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6805ef4e-e568-4c1f-900c-1115f60731a8
+UID:8868bd9a-9976-43be-b23e-09876abe777b
 SEQUENCE:0
-DTSTAMP:20250701T171353
-DTSTART:20250816T110000
-DTEND:20250816T114500
-SUMMARY:🏀 U10 Girls: Toorak Tangos vs Solway Tornadoes
+DTSTAMP:20250702T171348
+DTSTART:20250809T110000
+DTEND:20250809T114500
+SUMMARY:🏀 U10 Girls: Toorak Tangos vs Halley Park Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
- Tornadoes\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Halley 
+ Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:629f23fd-2431-4846-a07d-e51bcc1c015b
+UID:d0252160-a6c5-4437-8310-304a374344fe
 SEQUENCE:0
-DTSTAMP:20250701T171353
-DTSTART:20250823T101500
-DTEND:20250823T110000
+DTSTAMP:20250702T171348
+DTSTART:20250816T101500
+DTEND:20250816T110000
 SUMMARY:🏀 U10 Girls: Toorak Tangos vs Malvern Tigers Red
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:551dc843-f931-454f-8987-6f690f7bf946
+UID:7908a57e-522b-4417-90cb-766e72624a0c
 SEQUENCE:0
-DTSTAMP:20250701T171353
+DTSTAMP:20250702T171348
+DTSTART:20250823T110000
+DTEND:20250823T114500
+SUMMARY:🏀 U10 Girls: Toorak Tangos vs Solway Tornadoes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Tornadoes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bb544a6d-4218-406f-8979-285169cceb6b
+SEQUENCE:0
+DTSTAMP:20250702T171348
 DTSTART:20250830T101500
 DTEND:20250830T110000
-SUMMARY:🏀 U10 Girls: Toorak Tangos vs Solway Blizzards
+SUMMARY:🏀 U10 Girls: Toorak Tangos vs Maccabi Warriors
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
-  Blizzards\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

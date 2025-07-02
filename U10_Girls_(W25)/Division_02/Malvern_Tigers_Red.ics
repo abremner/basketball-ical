@@ -6,69 +6,69 @@ X-WR-CALNAME:Malvern Tigers Red Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:46d95a80-0fb8-4c7d-ad52-f210115e7ede
+UID:4651fc76-eb42-4258-b872-e676a4a15284
 SEQUENCE:0
-DTSTAMP:20250701T171351
-DTSTART:20250726T110000
-DTEND:20250726T114500
+DTSTAMP:20250702T171346
+DTSTART:20250726T101500
+DTEND:20250726T110000
+SUMMARY:🏀 U10 Girls: Malvern Tigers Red vs Solway Blizzards
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Blizzards\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ed24e9eb-7ca0-4035-8d7c-f3a0ca25ac1c
+SEQUENCE:0
+DTSTAMP:20250702T171346
+DTSTART:20250802T110000
+DTEND:20250802T114500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Red vs Malvern Tigers Yellow
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:607fc97a-fcb3-45c0-b52d-122decfdde7c
+UID:ea3e305e-9b63-4a4a-83ca-4a42c043d1c8
 SEQUENCE:0
-DTSTAMP:20250701T171351
-DTSTART:20250802T101500
-DTEND:20250802T110000
-SUMMARY:🏀 U10 Girls: Malvern Tigers Red vs Solway Blizzards
+DTSTAMP:20250702T171346
+DTSTART:20250809T101500
+DTEND:20250809T110000
+SUMMARY:🏀 U10 Girls: Malvern Tigers Red vs Solway Tornadoes
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
-  Blizzards\nArrive 15 mins early for warm-up
+  Tornadoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f4b0f3b6-155e-42c0-8831-40e7a6d1f4c9
+UID:1a607ba7-4660-4717-a688-0c143d135c86
 SEQUENCE:0
-DTSTAMP:20250701T171351
-DTSTART:20250809T110000
-DTEND:20250809T114500
-SUMMARY:🏀 U10 Girls: Malvern Tigers Red vs Solway Tornadoes
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
- Tornadoes\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:244a3246-2b2b-4203-8baa-623ea0e01517
-SEQUENCE:0
-DTSTAMP:20250701T171351
+DTSTAMP:20250702T171346
 DTSTART:20250816T101500
 DTEND:20250816T110000
-SUMMARY:🏀 U10 Girls: Malvern Tigers Red vs Maccabi Warriors
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
- i Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:00725203-f5f3-467c-8a97-f1861030a22f
-SEQUENCE:0
-DTSTAMP:20250701T171351
-DTSTART:20250823T101500
-DTEND:20250823T110000
 SUMMARY:🏀 U10 Girls: Malvern Tigers Red vs Toorak Tangos
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
   Tangos\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f59523f2-489a-44ec-a823-f930fdc6f3c3
+UID:6c9053dd-6c5f-4996-bb3b-5066e0afe61c
 SEQUENCE:0
-DTSTAMP:20250701T171351
-DTSTART:20250830T101500
-DTEND:20250830T110000
-SUMMARY:🏀 U10 Girls: Malvern Tigers Red vs Erindale Piranhas
+DTSTAMP:20250702T171346
+DTSTART:20250823T110000
+DTEND:20250823T114500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Red vs Maccabi Warriors
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Erinda
- le Piranhas\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:035acb5a-d052-47e7-aa8b-f24eba2eebd2
+SEQUENCE:0
+DTSTAMP:20250702T171346
+DTSTART:20250830T110000
+DTEND:20250830T114500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Red vs Halley Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Halley
+  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

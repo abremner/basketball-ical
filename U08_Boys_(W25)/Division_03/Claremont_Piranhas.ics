@@ -6,58 +6,58 @@ X-WR-CALNAME:Claremont Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:96cbd269-7bd0-47b4-837a-2d9291b7d9a8
+UID:8ce8a20f-c1cc-4eaf-910e-072e592a63b2
 SEQUENCE:0
-DTSTAMP:20250701T171251
-DTSTART:20250726T093000
-DTEND:20250726T101500
-SUMMARY:🏀 U08 Boys: Claremont Piranhas vs Solway Chargers
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
- Chargers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:6486a282-16c5-45e8-94e8-c3167156df92
-SEQUENCE:0
-DTSTAMP:20250701T171251
-DTSTART:20250802T093000
-DTEND:20250802T101500
+DTSTAMP:20250702T171243
+DTSTART:20250726T084500
+DTEND:20250726T093000
 SUMMARY:🏀 U08 Boys: Claremont Piranhas vs Packer Park Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Packer 
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Packer 
  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:73eb0f90-2764-4287-a0f8-ab0fe9853696
+UID:f68124b2-0689-4357-8f65-4a5b69dd42ac
 SEQUENCE:0
-DTSTAMP:20250701T171251
-DTSTART:20250809T093000
-DTEND:20250809T101500
-SUMMARY:🏀 U08 Boys: Claremont Piranhas vs Timberwolves Pythons
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
- olves Pythons\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:4da9b377-2bae-4cbb-a24e-714235690265
-SEQUENCE:0
-DTSTAMP:20250701T171251
-DTSTART:20250816T084500
-DTEND:20250816T093000
+DTSTAMP:20250702T171243
+DTSTART:20250802T093000
+DTEND:20250802T101500
 SUMMARY:🏀 U08 Boys: Claremont Piranhas vs Malvern Tigers Ingles
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Ingles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d14a6062-9390-4658-8f0b-55b734dd2177
+UID:10592d8e-32ea-4e55-933d-2f8b8b22af55
 SEQUENCE:0
-DTSTAMP:20250701T171251
+DTSTAMP:20250702T171243
+DTSTART:20250809T080000
+DTEND:20250809T084500
+SUMMARY:🏀 U08 Boys: Claremont Piranhas vs Solway Chargers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Chargers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:89c20edc-3eaa-47b6-b97e-8c78ee3bf6ee
+SEQUENCE:0
+DTSTAMP:20250702T171243
+DTSTART:20250816T084500
+DTEND:20250816T093000
+SUMMARY:🏀 U08 Boys: Claremont Piranhas vs Timberwolves Pythons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Pythons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e01bec6c-145f-43ce-8fda-e3037b36add4
+SEQUENCE:0
+DTSTAMP:20250702T171243
 DTSTART:20250830T080000
 DTEND:20250830T084500
 SUMMARY:🏀 U08 Boys: Claremont Piranhas vs Solway Brumbies
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
  Brumbies\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,69 +6,58 @@ X-WR-CALNAME:Malvern Tigers Yellow Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:945b94a5-8100-4645-bdb4-14d78c24eb30
+UID:6a94d91a-4374-456d-8db8-444b6b7762f4
 SEQUENCE:0
-DTSTAMP:20250701T171351
+DTSTAMP:20250702T171346
 DTSTART:20250726T110000
 DTEND:20250726T114500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Yellow vs Solway Tornadoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Tornadoes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b0bb58bf-e31f-47be-8932-137ce47a2ba7
+SEQUENCE:0
+DTSTAMP:20250702T171346
+DTSTART:20250802T110000
+DTEND:20250802T114500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Yellow vs Malvern Tigers Red
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0e513a55-241e-409a-baf3-2acb6486d4b0
+UID:e3ccb1bf-0d49-4358-8276-71361ef014c6
 SEQUENCE:0
-DTSTAMP:20250701T171351
-DTSTART:20250802T101500
-DTEND:20250802T110000
-SUMMARY:🏀 U10 Girls: Malvern Tigers Yellow vs Solway Tornadoes
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
-  Tornadoes\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:abc54fbb-f51b-4603-bc6e-c94fe2faaa93
-SEQUENCE:0
-DTSTAMP:20250701T171351
-DTSTART:20250809T101500
-DTEND:20250809T110000
+DTSTAMP:20250702T171346
+DTSTART:20250809T110000
+DTEND:20250809T114500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Yellow vs Timberwolves Warriors
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:67147b8e-ca8c-42cb-a06b-4cd4b412c325
+UID:318b88d3-06e5-41a6-925e-20c19ef72258
 SEQUENCE:0
-DTSTAMP:20250701T171351
+DTSTAMP:20250702T171346
 DTSTART:20250816T101500
 DTEND:20250816T110000
-SUMMARY:🏀 U10 Girls: Malvern Tigers Yellow vs Solway Blizzards
+SUMMARY:🏀 U10 Girls: Malvern Tigers Yellow vs Halley Park Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
-  Blizzards\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Halley
+  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:35641e02-3910-44c6-b840-bd9bc65b1ffc
+UID:b42dc61e-94c5-4648-a312-cfd5a7c8d39d
 SEQUENCE:0
-DTSTAMP:20250701T171351
-DTSTART:20250823T110000
-DTEND:20250823T114500
+DTSTAMP:20250702T171346
+DTSTART:20250823T101500
+DTEND:20250823T110000
 SUMMARY:🏀 U10 Girls: Malvern Tigers Yellow vs Erindale Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Erindal
- e Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:8fd8828b-8c3c-47e5-994b-16446c329898
-SEQUENCE:0
-DTSTAMP:20250701T171351
-DTSTART:20250830T110000
-DTEND:20250830T114500
-SUMMARY:🏀 U10 Girls: Malvern Tigers Yellow vs Maccabi Warriors
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
-  Warriors\nArrive 15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Erinda
+ le Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,58 +6,60 @@ X-WR-CALNAME:Timberwolves Pythons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f5717737-b2d3-4b3c-b393-573b5b8a10de
+UID:3683f6e0-5207-4398-b321-3c233061ccff
 SEQUENCE:0
-DTSTAMP:20250701T171253
-DTSTART:20250802T080000
-DTEND:20250802T084500
-SUMMARY:🏀 U08 Boys: Timberwolves Pythons vs Solway Mustangs
+DTSTAMP:20250702T171246
+DTSTART:20250726T093000
+DTEND:20250726T101500
+SUMMARY:🏀 U08 Boys: Timberwolves Pythons vs Melbourne Wolves RBT Raptor
+ s
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
- Mustangs\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Melbour
+ ne Wolves RBT Raptors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ac02b39b-0131-47eb-9f8b-75d34c30a1db
+UID:74264325-e048-4678-aab6-66eee54d3fa1
 SEQUENCE:0
-DTSTAMP:20250701T171253
+DTSTAMP:20250702T171246
 DTSTART:20250809T093000
 DTEND:20250809T101500
-SUMMARY:🏀 U08 Boys: Timberwolves Pythons vs Claremont Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Claremo
- nt Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:90992b39-17a7-4d45-bcbd-5a88882d0ca6
-SEQUENCE:0
-DTSTAMP:20250701T171253
-DTSTART:20250816T080000
-DTEND:20250816T084500
-SUMMARY:🏀 U08 Boys: Timberwolves Pythons vs Solway Brumbies
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
- Brumbies\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:67cae65e-a764-4df5-9a5c-8520e87be8d8
-SEQUENCE:0
-DTSTAMP:20250701T171253
-DTSTART:20250823T084500
-DTEND:20250823T093000
 SUMMARY:🏀 U08 Boys: Timberwolves Pythons vs Packer Park Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Packer 
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Packer 
  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:381bf187-ed23-416f-b2af-09b9f65ba39b
+UID:405880c8-c0ad-422e-8d77-22088f5a305c
 SEQUENCE:0
-DTSTAMP:20250701T171253
-DTSTART:20250830T093000
-DTEND:20250830T101500
-SUMMARY:🏀 U08 Boys: Timberwolves Pythons vs Solway Chargers
+DTSTAMP:20250702T171246
+DTSTART:20250816T084500
+DTEND:20250816T093000
+SUMMARY:🏀 U08 Boys: Timberwolves Pythons vs Claremont Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
- Chargers\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Claremo
+ nt Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cd7c96f6-c775-433e-9bfa-5a8db2dca7c1
+SEQUENCE:0
+DTSTAMP:20250702T171246
+DTSTART:20250823T080000
+DTEND:20250823T084500
+SUMMARY:🏀 U08 Boys: Timberwolves Pythons vs Arax
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Arax\nA
+ rrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:74f9135a-3af5-40a1-87b6-fb309f14e2ab
+SEQUENCE:0
+DTSTAMP:20250702T171246
+DTSTART:20250830T084500
+DTEND:20250830T093000
+SUMMARY:🏀 U08 Boys: Timberwolves Pythons vs Glen Iris Scorpions Ferndal
+ e
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
+ is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

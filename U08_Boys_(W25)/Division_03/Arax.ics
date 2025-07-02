@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Arax Fixtures
+X-WR-CALNAME:Arax Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c95c9910-7426-4f0c-82e3-133336ceae33
+SEQUENCE:0
+DTSTAMP:20250702T171243
+DTSTART:20250726T080000
+DTEND:20250726T084500
+SUMMARY:🏀 U08 Boys: Arax vs Solway Chargers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Chargers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fac9cf0b-21ab-478b-bf23-d03cb166c4ee
+SEQUENCE:0
+DTSTAMP:20250702T171243
+DTSTART:20250802T080000
+DTEND:20250802T084500
+SUMMARY:🏀 U08 Boys: Arax vs Melbourne Wolves RBT Raptors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Melbour
+ ne Wolves RBT Raptors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a8a57e2d-6bbb-4807-99cf-fd0be58191aa
+SEQUENCE:0
+DTSTAMP:20250702T171243
+DTSTART:20250809T080000
+DTEND:20250809T084500
+SUMMARY:🏀 U08 Boys: Arax vs Glen Iris Scorpions Ferndale
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
+ is Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d2b33d83-6304-4316-b23c-4ffa2c2b3a86
+SEQUENCE:0
+DTSTAMP:20250702T171243
+DTSTART:20250816T080000
+DTEND:20250816T084500
+SUMMARY:🏀 U08 Boys: Arax vs Malvern Tigers Ingles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Ingles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3b0ea94a-4932-4ea2-832b-5eea655cf90a
+SEQUENCE:0
+DTSTAMP:20250702T171243
+DTSTART:20250823T080000
+DTEND:20250823T084500
+SUMMARY:🏀 U08 Boys: Arax vs Timberwolves Pythons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Pythons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

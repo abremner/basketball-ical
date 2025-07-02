@@ -6,69 +6,58 @@ X-WR-CALNAME:Maccabi Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2114be36-8582-4dad-88f0-48ee6a3ee3ec
+UID:3f31008d-1283-4458-83d6-e2a50abab59a
 SEQUENCE:0
-DTSTAMP:20250701T171308
+DTSTAMP:20250702T171303
 DTSTART:20250726T093000
 DTEND:20250726T101500
+SUMMARY:🏀 U08 Girls: Maccabi Warriors vs Warley Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Warley Pira
+ nhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3a789973-8d9f-4ec8-842e-18ed352705ac
+SEQUENCE:0
+DTSTAMP:20250702T171303
+DTSTART:20250802T093000
+DTEND:20250802T101500
 SUMMARY:🏀 U08 Girls: Maccabi Warriors vs Maccabi Celtics
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Cel
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Cel
  tics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7b619171-ab89-4ac0-a9c3-19283206e79c
+UID:94bc93c1-00ba-4237-8d26-252288c3914f
 SEQUENCE:0
-DTSTAMP:20250701T171308
-DTSTART:20250802T093000
-DTEND:20250802T101500
-SUMMARY:🏀 U08 Girls: Maccabi Warriors vs Ashy Lightning Green
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Ashy Lightn
- ing Green\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:41d7cfb5-e2f1-499b-b2f9-1d6da5021466
-SEQUENCE:0
-DTSTAMP:20250701T171308
-DTSTART:20250809T080000
-DTEND:20250809T084500
+DTSTAMP:20250702T171303
+DTSTART:20250816T080000
+DTEND:20250816T084500
 SUMMARY:🏀 U08 Girls: Maccabi Warriors vs Solway Sparks
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
  Sparks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4c41a424-27b4-477d-9e72-525f98b10beb
+UID:be88b573-adf7-4bbf-bf3e-a358a9842c4a
 SEQUENCE:0
-DTSTAMP:20250701T171308
-DTSTART:20250816T093000
-DTEND:20250816T101500
+DTSTAMP:20250702T171303
+DTSTART:20250823T093000
+DTEND:20250823T101500
 SUMMARY:🏀 U08 Girls: Maccabi Warriors vs Maccabi Bucks
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
 DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Buc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a28198f0-da42-436e-95ca-4264bb08a136
+UID:4790818d-c788-4dbf-8b04-190ca8a89f3f
 SEQUENCE:0
-DTSTAMP:20250701T171308
-DTSTART:20250823T093000
-DTEND:20250823T101500
-SUMMARY:🏀 U08 Girls: Maccabi Warriors vs Solway Meteors
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Mete
- ors\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5964b163-e6e2-4702-a4c2-fc632d9b4af5
-SEQUENCE:0
-DTSTAMP:20250701T171308
+DTSTAMP:20250702T171303
 DTSTART:20250830T093000
 DTEND:20250830T101500
-SUMMARY:🏀 U08 Girls: Maccabi Warriors vs Maccabi Celtics
+SUMMARY:🏀 U08 Girls: Maccabi Warriors vs Solway Meteors
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Cel
- tics\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Mete
+ ors\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

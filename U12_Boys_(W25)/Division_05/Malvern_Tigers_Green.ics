@@ -6,69 +6,47 @@ X-WR-CALNAME:Malvern Tigers Green Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e4e85ce1-d453-4d51-9eab-fee19675d317
+UID:6d9a6425-e5a2-4abe-9db1-c8964a374fca
 SEQUENCE:0
-DTSTAMP:20250701T171416
-DTSTART:20250726T140000
-DTEND:20250726T144500
-SUMMARY:🏀 U12 Boys: Malvern Tigers Green vs Alma Park Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Alma Pa
- rk Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:b7f5b8f7-7be7-4bcc-963f-705a8debcc58
-SEQUENCE:0
-DTSTAMP:20250701T171416
-DTSTART:20250802T144500
-DTEND:20250802T153000
+DTSTAMP:20250702T171410
+DTSTART:20250802T140000
+DTEND:20250802T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Green vs Solway Lions
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
  Lions\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c977bb6f-763d-4f3c-ae2d-451593e45ab4
+UID:f647f11a-1ee6-4b9b-bbaf-dacff9724c8a
 SEQUENCE:0
-DTSTAMP:20250701T171416
-DTSTART:20250809T140000
-DTEND:20250809T144500
+DTSTAMP:20250702T171410
+DTSTART:20250809T131500
+DTEND:20250809T140000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Green vs Toorak Tigersnakes
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
- Tigersnakes\nArrive 15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
+  Tigersnakes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f6d115db-646f-4b9d-8c7a-01be49ba13ee
+UID:6ebeb53c-aae1-4f3b-9554-545cdb789881
 SEQUENCE:0
-DTSTAMP:20250701T171416
-DTSTART:20250816T144500
-DTEND:20250816T153000
+DTSTAMP:20250702T171410
+DTSTART:20250816T140000
+DTEND:20250816T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Green vs Toorak Torchers
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak 
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
  Torchers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:97a4ccb2-12d3-4415-9769-00cd7ab37df5
+UID:33ed6531-2a36-4119-9bad-6a2c8eba8639
 SEQUENCE:0
-DTSTAMP:20250701T171416
+DTSTAMP:20250702T171410
 DTSTART:20250823T131500
 DTEND:20250823T140000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Green vs Timberwolves Heat
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Heat\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:a8bae6ed-16ad-4729-b6a5-17fe949d654b
-SEQUENCE:0
-DTSTAMP:20250701T171416
-DTSTART:20250830T140000
-DTEND:20250830T144500
-SUMMARY:🏀 U12 Boys: Malvern Tigers Green vs Alma Park Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Alma Pa
- rk Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

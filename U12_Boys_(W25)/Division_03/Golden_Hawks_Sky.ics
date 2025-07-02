@@ -6,58 +6,69 @@ X-WR-CALNAME:Golden Hawks Sky Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:ae7145d5-cccf-4675-bcf4-d0556d568fd9
+UID:b0f0fb43-f6c9-4c1e-bca9-d2582ec81e57
 SEQUENCE:0
-DTSTAMP:20250701T171410
+DTSTAMP:20250702T171405
 DTSTART:20250726T144500
 DTEND:20250726T153000
-SUMMARY:🏀 U12 Boys: Golden Hawks Sky vs Malvern Tigers Yellow
+SUMMARY:🏀 U12 Boys: Golden Hawks Sky vs Windsor Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
- n Tigers Yellow\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Windso
+ r Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f9341550-2691-4f69-8fc5-3a18f760db7a
+UID:99be8c86-be0a-440a-9c5d-9d3a78e3ef65
 SEQUENCE:0
-DTSTAMP:20250701T171410
+DTSTAMP:20250702T171405
 DTSTART:20250802T140000
 DTEND:20250802T144500
-SUMMARY:🏀 U12 Boys: Golden Hawks Sky vs Yarra Park Piranhas
+SUMMARY:🏀 U12 Boys: Golden Hawks Sky vs Maccabi Bucks
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Yarra P
- ark Piranhas\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a56f4075-44e6-4bea-862f-f8cf25466b95
+UID:b5f4f7f9-d2ce-4c1e-afdf-e6d381bc67a2
 SEQUENCE:0
-DTSTAMP:20250701T171410
+DTSTAMP:20250702T171405
 DTSTART:20250809T140000
 DTEND:20250809T144500
+SUMMARY:🏀 U12 Boys: Golden Hawks Sky vs Alma Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Alma Pa
+ rk Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6800e833-447e-48fc-a0c0-17131bc9ed62
+SEQUENCE:0
+DTSTAMP:20250702T171405
+DTSTART:20250816T144500
+DTEND:20250816T153000
+SUMMARY:🏀 U12 Boys: Golden Hawks Sky vs Malvern Tigers Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:81138b6f-c184-4769-8610-a64ee10d4288
+SEQUENCE:0
+DTSTAMP:20250702T171405
+DTSTART:20250823T144500
+DTEND:20250823T153000
+SUMMARY:🏀 U12 Boys: Golden Hawks Sky vs Yarra Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Yarra 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:14763f17-1266-44b8-9339-648fd01408f9
+SEQUENCE:0
+DTSTAMP:20250702T171405
+DTSTART:20250830T140000
+DTEND:20250830T144500
 SUMMARY:🏀 U12 Boys: Golden Hawks Sky vs Windsor Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Windsor
   Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:af540fd8-798f-4d37-b4db-0c75f7bd9364
-SEQUENCE:0
-DTSTAMP:20250701T171410
-DTSTART:20250816T144500
-DTEND:20250816T153000
-SUMMARY:🏀 U12 Boys: Golden Hawks Sky vs Maccabi Bucks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
- i Bucks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:9902ef23-eb40-4459-bd38-4450842fbe01
-SEQUENCE:0
-DTSTAMP:20250701T171410
-DTSTART:20250830T144500
-DTEND:20250830T153000
-SUMMARY:🏀 U12 Boys: Golden Hawks Sky vs Malvern Tigers Yellow
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
- n Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

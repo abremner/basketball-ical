@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Meteors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b3634e95-006f-4100-8c48-e66919e1f502
+UID:dade10f5-daa6-40d6-aaab-b45ba84ecbb8
 SEQUENCE:0
-DTSTAMP:20250701T171308
+DTSTAMP:20250702T171303
 DTSTART:20250726T093000
 DTEND:20250726T101500
 SUMMARY:🏀 U08 Girls: Solway Meteors vs Ashy Lightning Green
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
  ing Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:673dc8a7-57ac-4ab0-ae47-e4abc130827f
+UID:065c6a23-1844-4d1a-9215-a1b43076c577
 SEQUENCE:0
-DTSTAMP:20250701T171308
+DTSTAMP:20250702T171303
 DTSTART:20250802T080000
 DTEND:20250802T084500
 SUMMARY:🏀 U08 Girls: Solway Meteors vs Solway Sparks
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Sparks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3145f764-1d45-4f65-8f61-3bafaedae6a4
+UID:a716c3de-084a-4d56-889c-1cc47be94e97
 SEQUENCE:0
-DTSTAMP:20250701T171308
+DTSTAMP:20250702T171303
 DTSTART:20250809T093000
 DTEND:20250809T101500
 SUMMARY:🏀 U08 Girls: Solway Meteors vs Maccabi Bucks
@@ -39,36 +39,36 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Buc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:23265ce8-4a5b-4899-8953-527eac8216aa
+UID:dc1cf4a7-2c0d-432a-a1b0-6732728ffd26
 SEQUENCE:0
-DTSTAMP:20250701T171308
+DTSTAMP:20250702T171303
 DTSTART:20250816T093000
 DTEND:20250816T101500
+SUMMARY:🏀 U08 Girls: Solway Meteors vs Warley Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Warley Pira
+ nhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4da11067-f790-4fa2-b1ee-dc95dbea4d86
+SEQUENCE:0
+DTSTAMP:20250702T171303
+DTSTART:20250823T093000
+DTEND:20250823T101500
 SUMMARY:🏀 U08 Girls: Solway Meteors vs Maccabi Celtics
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
 DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Cel
  tics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8c32ab95-6f50-46f2-944a-77003b87bdf1
+UID:262885a1-f646-48f3-a3e3-1740f997a5c7
 SEQUENCE:0
-DTSTAMP:20250701T171308
-DTSTART:20250823T093000
-DTEND:20250823T101500
-SUMMARY:🏀 U08 Girls: Solway Meteors vs Maccabi Warriors
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi War
- riors\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:3a8f4d3c-17f2-43a6-98ec-828bf60bad16
-SEQUENCE:0
-DTSTAMP:20250701T171308
+DTSTAMP:20250702T171303
 DTSTART:20250830T093000
 DTEND:20250830T101500
-SUMMARY:🏀 U08 Girls: Solway Meteors vs Ashy Lightning Green
+SUMMARY:🏀 U08 Girls: Solway Meteors vs Maccabi Warriors
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
- ing Green\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi War
+ riors\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR
