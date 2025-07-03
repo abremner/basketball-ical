@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Gardiner Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Gardiner Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7b2abd74-82d7-439b-a282-f10f9a07d4e7
+SEQUENCE:0
+DTSTAMP:20250703T171458
+DTSTART:20250726T080000
+DTEND:20250726T084500
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Gardiner vs Comets Snake
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
+  Snake\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bc111a61-1766-4cdf-bc5c-318ce72085c8
+SEQUENCE:0
+DTSTAMP:20250703T171458
+DTSTART:20250802T080000
+DTEND:20250802T084500
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Gardiner vs Toorak Thunderbolts
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Thunderbolts\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c8a43f15-ab33-494a-a0cd-8172bf4079de
+SEQUENCE:0
+DTSTAMP:20250703T171458
+DTSTART:20250809T084500
+DTEND:20250809T093000
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Gardiner vs Phoenix Park Piranh
+ as
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Phoeni
+ x Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f195483f-8726-46f9-be92-e7a2e30a0429
+SEQUENCE:0
+DTSTAMP:20250703T171458
+DTSTART:20250816T080000
+DTEND:20250816T084500
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Gardiner vs Timberwolves Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:771efa23-7f05-4a96-a81b-7c5e0453b1aa
+SEQUENCE:0
+DTSTAMP:20250703T171458
+DTSTART:20250823T084500
+DTEND:20250823T093000
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Gardiner vs Solway Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f21c65c8-5a99-471c-852c-a41515d02e0d
+SEQUENCE:0
+DTSTAMP:20250703T171458
+DTSTART:20250830T110000
+DTEND:20250830T114500
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Gardiner vs Timberwolves Legend
+ s
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Legends\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

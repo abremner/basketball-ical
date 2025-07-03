@@ -6,69 +6,69 @@ X-WR-CALNAME:Toorak Thunderbolts Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2feea4c0-8116-4b29-9a71-2b86cbf284db
+UID:bac91ae5-1ccb-4fdc-860a-cd2db1ac02b3
 SEQUENCE:0
-DTSTAMP:20250702T171332
+DTSTAMP:20250703T171501
 DTSTART:20250726T084500
 DTEND:20250726T093000
-SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Phoenix Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Phoeni
- x Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:4056e334-76b5-4012-a742-5c3a868b1a7f
-SEQUENCE:0
-DTSTAMP:20250702T171332
-DTSTART:20250802T084500
-DTEND:20250802T093000
-SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Timberwolves Legends
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
- wolves Legends\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:760ed7c1-4d22-4804-ad95-1542e3aa3008
-SEQUENCE:0
-DTSTAMP:20250702T171332
-DTSTART:20250809T080000
-DTEND:20250809T084500
 SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Timberwolves Bucks
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:523a70b7-7175-47c8-b79f-b7727512a0da
+UID:2ddb8943-e29a-436a-836d-f940f042586c
 SEQUENCE:0
-DTSTAMP:20250702T171332
-DTSTART:20250816T080000
-DTEND:20250816T084500
-SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Comets Snake
+DTSTAMP:20250703T171501
+DTSTART:20250802T080000
+DTEND:20250802T084500
+SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Glen Iris Scorpions Gardiner
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
-  Snake\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f7a1e16b-9eb9-4e37-b4b7-c4bcf8e4472f
+UID:e8557ede-a74c-42c5-8c15-93750f2abf0c
 SEQUENCE:0
-DTSTAMP:20250702T171332
-DTSTART:20250823T084500
-DTEND:20250823T093000
-SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Timberwolves Lightning
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
- wolves Lightning\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:29e1a98e-42db-4e3c-8d8d-342a0b4c14dd
-SEQUENCE:0
-DTSTAMP:20250702T171332
-DTSTART:20250830T110000
-DTEND:20250830T114500
-SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Maccabi Falcons
+DTSTAMP:20250703T171501
+DTSTART:20250809T110000
+DTEND:20250809T114500
+SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Timberwolves Legends
 LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Falcons\nArrive 15 mi
- ns early for warm-up
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Legends\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f8d022df-d9f8-44fa-8796-076baa7a1811
+SEQUENCE:0
+DTSTAMP:20250703T171501
+DTSTART:20250816T084500
+DTEND:20250816T093000
+SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Phoenix Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Phoeni
+ x Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4de3a32f-47f9-455e-adf9-a9c84c9fe463
+SEQUENCE:0
+DTSTAMP:20250703T171501
+DTSTART:20250823T110000
+DTEND:20250823T114500
+SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Comets Snake
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Comets 
+ Snake\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:abd4cb4c-236f-4f90-bbd3-bf4c0b73e23d
+SEQUENCE:0
+DTSTAMP:20250703T171501
+DTSTART:20250830T084500
+DTEND:20250830T093000
+SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Maccabi Falcons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

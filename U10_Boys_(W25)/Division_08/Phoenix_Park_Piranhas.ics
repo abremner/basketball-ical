@@ -6,69 +6,70 @@ X-WR-CALNAME:Phoenix Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f4a19ac2-a58f-48e7-8705-96b902535279
+UID:08eb0639-c806-4454-a2b1-001f0e1123f3
 SEQUENCE:0
-DTSTAMP:20250702T171330
-DTSTART:20250726T084500
-DTEND:20250726T093000
+DTSTAMP:20250703T171459
+DTSTART:20250726T110000
+DTEND:20250726T114500
+SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Solway Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1ef21b06-fd37-439c-b2db-87e8cfe36bdf
+SEQUENCE:0
+DTSTAMP:20250703T171459
+DTSTART:20250802T110000
+DTEND:20250802T114500
+SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Glen Iris Scorpions Raven
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Glen Iris Scorpions Raven\nAr
+ rive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e2e53be4-9c9b-4323-adb9-e51e31b66001
+SEQUENCE:0
+DTSTAMP:20250703T171459
+DTSTART:20250809T084500
+DTEND:20250809T093000
+SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Glen Iris Scorpions Gardin
+ er
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2d39fa9a-fe27-4c1d-b306-3608a8dccf08
+SEQUENCE:0
+DTSTAMP:20250703T171459
+DTSTART:20250816T084500
+DTEND:20250816T093000
 SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Toorak Thunderbolts
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
   Thunderbolts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:89aa41eb-4103-4642-bacb-710dc117c52d
+UID:6eac9637-9add-4943-9820-a80ff511dc0c
 SEQUENCE:0
-DTSTAMP:20250702T171330
-DTSTART:20250802T084500
-DTEND:20250802T093000
+DTSTAMP:20250703T171459
+DTSTART:20250823T084500
+DTEND:20250823T093000
+SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Timberwolves Lightning
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Lightning\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3b1d34a2-c797-4235-9c57-d8a454d52a4c
+SEQUENCE:0
+DTSTAMP:20250703T171459
+DTSTART:20250830T080000
+DTEND:20250830T084500
 SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Timberwolves Bucks
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Bucks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:54db7b8d-a780-4726-9017-8bb7d5027c57
-SEQUENCE:0
-DTSTAMP:20250702T171330
-DTSTART:20250809T110000
-DTEND:20250809T114500
-SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Comets Snake
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Comets Snake\nArrive 15 mins 
- early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:a26100a1-9588-4fc3-9437-4c6a191363ea
-SEQUENCE:0
-DTSTAMP:20250702T171330
-DTSTART:20250816T084500
-DTEND:20250816T093000
-SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Glen Iris Scorpions Raven
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
- ris Scorpions Raven\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:03b93799-a68f-41bb-99e1-54bc2307e449
-SEQUENCE:0
-DTSTAMP:20250702T171330
-DTSTART:20250823T080000
-DTEND:20250823T084500
-SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Timberwolves Legends
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
- wolves Legends\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:abb28b91-5dcf-4600-aa7c-684c526fda8f
-SEQUENCE:0
-DTSTAMP:20250702T171330
-DTSTART:20250830T084500
-DTEND:20250830T093000
-SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Timberwolves Lightning
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
- wolves Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

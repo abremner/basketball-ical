@@ -6,66 +6,55 @@ X-WR-CALNAME:Toorak Torpedoes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:fbadf16d-ba15-4eeb-8cfc-55114cfe6807
+UID:6dfe371f-b21e-4525-9776-8194009a713c
 SEQUENCE:0
-DTSTAMP:20250702T171324
+DTSTAMP:20250703T171454
 DTSTART:20250726T110000
 DTEND:20250726T114500
 SUMMARY:🏀 U10 Boys: Toorak Torpedoes vs Penpraze Park Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Penpraz
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Penpraz
  e Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:37025d41-6d7d-49c6-a204-e747e4c880d8
+UID:19145369-a77f-4617-a10f-7dcd01abfbde
 SEQUENCE:0
-DTSTAMP:20250702T171324
-DTSTART:20250802T110000
-DTEND:20250802T114500
+DTSTAMP:20250703T171454
+DTSTART:20250802T093000
+DTEND:20250802T101500
+SUMMARY:🏀 U10 Boys: Toorak Torpedoes vs Golden Hawks Sky
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Golden
+  Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d5617298-bd18-4125-9356-7cb472992030
+SEQUENCE:0
+DTSTAMP:20250703T171454
+DTSTART:20250809T093000
+DTEND:20250809T101500
 SUMMARY:🏀 U10 Boys: Toorak Torpedoes vs Timberwolves Cubs
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
- olves Cubs\nArrive 15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Cubs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a939e416-fe25-481c-9f92-0e34a1d6db37
+UID:93e2f07c-c1c8-41ee-9f2a-290c675c6edd
 SEQUENCE:0
-DTSTAMP:20250702T171324
-DTSTART:20250809T110000
-DTEND:20250809T114500
-SUMMARY:🏀 U10 Boys: Toorak Torpedoes vs Solway Bucks
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
- Bucks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:022636b4-3c04-46e9-b7b9-a9b17fd26a2e
-SEQUENCE:0
-DTSTAMP:20250702T171324
+DTSTAMP:20250703T171454
 DTSTART:20250816T110000
 DTEND:20250816T114500
-SUMMARY:🏀 U10 Boys: Toorak Torpedoes vs Golden Hawks Sky
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Golden 
- Hawks Sky\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:92a5c598-c7b3-4ecf-ba6e-26651cb6a383
-SEQUENCE:0
-DTSTAMP:20250702T171324
-DTSTART:20250823T093000
-DTEND:20250823T101500
 SUMMARY:🏀 U10 Boys: Toorak Torpedoes vs AlphaWolf Hunters
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
- olf Hunters\nArrive 15 mins early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
+ lf Hunters\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:41c4af34-4dd7-47ec-8d7b-ccca9a59f51e
+UID:28d58b3f-9e4c-45de-9c5e-76e9cd9b15db
 SEQUENCE:0
-DTSTAMP:20250702T171324
-DTSTART:20250830T101500
-DTEND:20250830T110000
+DTSTAMP:20250703T171454
+DTSTART:20250823T101500
+DTEND:20250823T110000
 SUMMARY:🏀 U10 Boys: Toorak Torpedoes vs Maccabi Ducks
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab

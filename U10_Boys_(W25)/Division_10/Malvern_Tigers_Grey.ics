@@ -6,20 +6,20 @@ X-WR-CALNAME:Malvern Tigers Grey Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:00f3495d-1fe9-4cec-b672-653f805c0611
+UID:001ddd2f-839b-4106-a495-6a65fddff5a4
 SEQUENCE:0
-DTSTAMP:20250702T171337
-DTSTART:20250726T080000
-DTEND:20250726T084500
+DTSTAMP:20250703T171505
+DTSTART:20250726T093000
+DTEND:20250726T101500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Grey vs Maccabi Giants
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
- i Giants\nArrive 15 mins early for warm-up
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Giants\nArrive 15 min
+ s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2573a487-4695-45ca-8111-71cba8c546f2
+UID:dbed9c53-a04f-4a0b-83fc-ce5aa6364e5e
 SEQUENCE:0
-DTSTAMP:20250702T171337
+DTSTAMP:20250703T171505
 DTSTART:20250809T093000
 DTEND:20250809T101500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Grey vs AlphaWolf Kings
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: AlphaWolf Kings\nArrive 15 mi
  ns early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:89c50f75-cfd6-431a-9d3e-2245bd10e78e
+UID:5776f3df-e582-4668-90b0-95962f56f683
 SEQUENCE:0
-DTSTAMP:20250702T171337
+DTSTAMP:20250703T171505
 DTSTART:20250816T093000
 DTEND:20250816T101500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Grey vs Malvern Tigers Lime
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Lime\nArrive 1
  5 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e62ce60b-3981-4d29-a888-ed62ef1a4bb2
+UID:cf1da2b0-cceb-45e0-b8e8-334aaf921a43
 SEQUENCE:0
-DTSTAMP:20250702T171337
+DTSTAMP:20250703T171505
 DTSTART:20250823T080000
 DTEND:20250823T084500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Grey vs Malvern Tigers Maroon
@@ -50,14 +50,14 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Maroon\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:637ffb86-5287-4746-ab52-a75d6c240794
+UID:c2fefe63-7785-4d00-957c-5fd164f330e6
 SEQUENCE:0
-DTSTAMP:20250702T171337
-DTSTART:20250830T080000
-DTEND:20250830T084500
+DTSTAMP:20250703T171505
+DTSTART:20250830T093000
+DTEND:20250830T101500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Grey vs Maccabi Giants
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
- i Giants\nArrive 15 mins early for warm-up
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Giants\nArrive 15 min
+ s early for warm-up
 END:VEVENT
 END:VCALENDAR

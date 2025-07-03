@@ -6,70 +6,59 @@ X-WR-CALNAME:Glen Iris Scorpions Nettleton Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:054be1ff-b1b8-4b25-875b-3b006d6c8379
+UID:89a97192-a7ad-4a02-a6b7-99da95d0b5d5
 SEQUENCE:0
-DTSTAMP:20250702T171321
-DTSTART:20250726T101500
-DTEND:20250726T110000
-SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Nettleton vs Solway Bucks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
-  Bucks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:91738e7d-acad-4beb-adf6-9b8478659cc9
-SEQUENCE:0
-DTSTAMP:20250702T171321
-DTSTART:20250802T110000
-DTEND:20250802T114500
-SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Nettleton vs Penpraze Park Pira
- nhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Penpraz
- e Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:78f8a7f9-ed71-43be-ae5f-8d52c174881b
-SEQUENCE:0
-DTSTAMP:20250702T171321
-DTSTART:20250809T101500
-DTEND:20250809T110000
-SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Nettleton vs Golden Hawks Sky
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Golden
-  Hawks Sky\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:005e8fe1-c34c-4126-a8a4-2b50b808dc81
-SEQUENCE:0
-DTSTAMP:20250702T171321
-DTSTART:20250816T093000
-DTEND:20250816T101500
+DTSTAMP:20250703T171452
+DTSTART:20250726T093000
+DTEND:20250726T101500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Nettleton vs AlphaWolf Hunters
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
  olf Hunters\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d50df5be-9de5-47ce-a7e6-db7783269fbf
+UID:e99849f6-6879-46ed-a478-4b353d4bc205
 SEQUENCE:0
-DTSTAMP:20250702T171321
-DTSTART:20250823T101500
-DTEND:20250823T110000
-SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Nettleton vs Maccabi Ducks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
- i Ducks\nArrive 15 mins early for warm-up
+DTSTAMP:20250703T171452
+DTSTART:20250809T110000
+DTEND:20250809T114500
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Nettleton vs Penpraze Park Pira
+ nhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Penpraz
+ e Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:807dbd20-a38b-44a5-a390-666bdbc6a20d
+UID:89f0734a-37cc-4d76-a5d4-9d4daec07801
 SEQUENCE:0
-DTSTAMP:20250702T171321
-DTSTART:20250830T110000
-DTEND:20250830T114500
+DTSTAMP:20250703T171452
+DTSTART:20250816T101500
+DTEND:20250816T110000
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Nettleton vs Golden Hawks Sky
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Golden
+  Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:307a0a39-69ce-4365-9a3b-c4eadfdf09b4
+SEQUENCE:0
+DTSTAMP:20250703T171452
+DTSTART:20250823T110000
+DTEND:20250823T114500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Nettleton vs Timberwolves Cubs
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Cubs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3123168d-0f29-413d-b41c-ff542d6ce31a
+SEQUENCE:0
+DTSTAMP:20250703T171452
+DTSTART:20250830T093000
+DTEND:20250830T101500
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Nettleton vs Maccabi Ducks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

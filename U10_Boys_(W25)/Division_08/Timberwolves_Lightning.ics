@@ -6,69 +6,69 @@ X-WR-CALNAME:Timberwolves Lightning Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9e1fdc7e-704b-4b0f-9eed-80e8727cc63e
+UID:a4309db6-5b32-4721-890b-aa9bdb064467
 SEQUENCE:0
-DTSTAMP:20250702T171332
+DTSTAMP:20250703T171501
 DTSTART:20250726T110000
 DTEND:20250726T114500
-SUMMARY:🏀 U10 Boys: Timberwolves Lightning vs Comets Snake
+SUMMARY:🏀 U10 Boys: Timberwolves Lightning vs Maccabi Falcons
 LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Comets Snake\nArrive 15 mins 
- early for warm-up
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Falcons\nArrive 15 mi
+ ns early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b6bb44ce-b76b-49af-9ed5-e89545dcd934
+UID:f4010cf0-8eee-4784-9ab5-ea4643178bf3
 SEQUENCE:0
-DTSTAMP:20250702T171332
-DTSTART:20250802T080000
-DTEND:20250802T084500
+DTSTAMP:20250703T171501
+DTSTART:20250802T110000
+DTEND:20250802T114500
+SUMMARY:🏀 U10 Boys: Timberwolves Lightning vs Timberwolves Legends
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Legends\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d1fcf219-7aa5-425f-bffe-df8132921659
+SEQUENCE:0
+DTSTAMP:20250703T171501
+DTSTART:20250809T080000
+DTEND:20250809T084500
 SUMMARY:🏀 U10 Boys: Timberwolves Lightning vs Glen Iris Scorpions Raven
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:667e19cc-1b5f-48a1-8a71-b6bd48ac588b
+UID:bcc6acf7-a2d5-4fc9-b4f9-9992ca8aadd5
 SEQUENCE:0
-DTSTAMP:20250702T171332
-DTSTART:20250809T084500
-DTEND:20250809T093000
-SUMMARY:🏀 U10 Boys: Timberwolves Lightning vs Maccabi Falcons
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
- i Falcons\nArrive 15 mins early for warm-up
+DTSTAMP:20250703T171501
+DTSTART:20250816T110000
+DTEND:20250816T114500
+SUMMARY:🏀 U10 Boys: Timberwolves Lightning vs Comets Snake
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Comets Snake\nArrive 15 mins 
+ early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3ccd2eee-21df-40df-aeea-5bde62aefc05
+UID:4913637f-5d05-4117-bdb7-80827a0728b1
 SEQUENCE:0
-DTSTAMP:20250702T171332
-DTSTART:20250816T084500
-DTEND:20250816T093000
-SUMMARY:🏀 U10 Boys: Timberwolves Lightning vs Timberwolves Legends
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
- wolves Legends\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:1e2d1f6b-de4f-48f8-b099-b764e2c71f50
-SEQUENCE:0
-DTSTAMP:20250702T171332
+DTSTAMP:20250703T171501
 DTSTART:20250823T084500
 DTEND:20250823T093000
-SUMMARY:🏀 U10 Boys: Timberwolves Lightning vs Toorak Thunderbolts
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
-  Thunderbolts\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:108806d7-b638-4826-a395-db137d10471a
-SEQUENCE:0
-DTSTAMP:20250702T171332
-DTSTART:20250830T084500
-DTEND:20250830T093000
 SUMMARY:🏀 U10 Boys: Timberwolves Lightning vs Phoenix Park Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Phoeni
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Phoeni
  x Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0cb35b30-97dc-40d7-ac7c-bfddd9f15fdd
+SEQUENCE:0
+DTSTAMP:20250703T171501
+DTSTART:20250830T110000
+DTEND:20250830T114500
+SUMMARY:🏀 U10 Boys: Timberwolves Lightning vs Solway Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,59 +6,69 @@ X-WR-CALNAME:Malvern Tigers Brown Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:4f24caed-7845-4ad4-82fa-1f2f15298d4f
+UID:6a26cb75-b4cd-4d1a-a09e-f83d680b1e87
 SEQUENCE:0
-DTSTAMP:20250702T171326
-DTSTART:20250726T101500
-DTEND:20250726T110000
-SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs Glen Iris Scorpions Gardine
- r
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
- ris Scorpions Gardiner\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:dfd50b35-e209-449c-b4b0-ec90665679da
-SEQUENCE:0
-DTSTAMP:20250702T171326
-DTSTART:20250802T080000
-DTEND:20250802T084500
-SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs Solway Bulls
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
-  Bulls\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:539c02ea-9144-4cab-9108-52486f2eccca
-SEQUENCE:0
-DTSTAMP:20250702T171326
-DTSTART:20250809T093000
-DTEND:20250809T101500
+DTSTAMP:20250703T171455
+DTSTART:20250726T093000
+DTEND:20250726T101500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs Timberwolves Cobras
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Cobras\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:64c94c2a-e429-4c1f-b2eb-1379adb10d9e
+UID:1259b4eb-c965-4031-9ebc-775a2d294887
 SEQUENCE:0
-DTSTAMP:20250702T171326
-DTSTART:20250823T093000
-DTEND:20250823T101500
+DTSTAMP:20250703T171455
+DTSTART:20250802T101500
+DTEND:20250802T110000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs SouthEast Venom Rockets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: SouthE
+ ast Venom Rockets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:19a2e047-ee95-411d-8c73-ea3f4c147c89
+SEQUENCE:0
+DTSTAMP:20250703T171455
+DTSTART:20250809T093000
+DTEND:20250809T101500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs Toorak Tycoons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
+  Tycoons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:aaa5d28f-0797-4431-8d0d-9c466f5a4117
+SEQUENCE:0
+DTSTAMP:20250703T171455
+DTSTART:20250816T093000
+DTEND:20250816T101500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs Solway Bulls
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Bulls\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:27869bf6-4390-4a74-afee-07eb28716a0d
+SEQUENCE:0
+DTSTAMP:20250703T171455
+DTSTART:20250823T080000
+DTEND:20250823T084500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs Malvern Tigers Purple
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Purple\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2be84a10-f45c-4931-911c-6b0cc6d75869
+UID:7244fbd2-8abb-422e-a2e7-30141ff70463
 SEQUENCE:0
-DTSTAMP:20250702T171326
-DTSTART:20250830T080000
-DTEND:20250830T084500
-SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs SouthEast Venom Rockets
+DTSTAMP:20250703T171455
+DTSTART:20250830T084500
+DTEND:20250830T093000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs Hawksburn Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: SouthE
- ast Venom Rockets\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Hawksb
+ urn Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

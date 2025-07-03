@@ -6,69 +6,58 @@ X-WR-CALNAME:AlphaWolf Hunters Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:844c8414-d129-4db0-8036-9cc0a1e34d94
+UID:81dce4ab-910f-4589-9032-fec64283d502
 SEQUENCE:0
-DTSTAMP:20250702T171321
+DTSTAMP:20250703T171451
 DTSTART:20250726T093000
 DTEND:20250726T101500
-SUMMARY:🏀 U10 Boys: AlphaWolf Hunters vs Golden Hawks Sky
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Golden
-  Hawks Sky\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:4433341f-5cb4-4dea-bb87-f121f925d8e0
-SEQUENCE:0
-DTSTAMP:20250702T171321
-DTSTART:20250802T093000
-DTEND:20250802T101500
-SUMMARY:🏀 U10 Boys: AlphaWolf Hunters vs Maccabi Ducks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
- i Ducks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:6b50718e-8d25-4d51-85f0-b2bfe49fb611
-SEQUENCE:0
-DTSTAMP:20250702T171321
-DTSTART:20250809T093000
-DTEND:20250809T101500
-SUMMARY:🏀 U10 Boys: AlphaWolf Hunters vs Timberwolves Cubs
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
- wolves Cubs\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:311994aa-ead8-4c58-953d-b8bb67fa3950
-SEQUENCE:0
-DTSTAMP:20250702T171321
-DTSTART:20250816T093000
-DTEND:20250816T101500
 SUMMARY:🏀 U10 Boys: AlphaWolf Hunters vs Glen Iris Scorpions Nettleton
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8ac8a429-b88e-413c-86bb-cd063e5d5132
+UID:934b60c0-7c0e-4626-9180-e871be45cf0a
 SEQUENCE:0
-DTSTAMP:20250702T171321
-DTSTART:20250823T093000
-DTEND:20250823T101500
-SUMMARY:🏀 U10 Boys: AlphaWolf Hunters vs Toorak Torpedoes
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
-  Torpedoes\nArrive 15 mins early for warm-up
+DTSTAMP:20250703T171451
+DTSTART:20250802T110000
+DTEND:20250802T114500
+SUMMARY:🏀 U10 Boys: AlphaWolf Hunters vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b7da1a75-6a13-4945-ba56-cd7d518b8626
+UID:85a6e8e0-3dc7-43a2-95e8-3d5c688de1ff
 SEQUENCE:0
-DTSTAMP:20250702T171321
-DTSTART:20250830T093000
-DTEND:20250830T101500
-SUMMARY:🏀 U10 Boys: AlphaWolf Hunters vs Solway Bucks
+DTSTAMP:20250703T171451
+DTSTART:20250809T101500
+DTEND:20250809T110000
+SUMMARY:🏀 U10 Boys: AlphaWolf Hunters vs Golden Hawks Sky
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
-  Bucks\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Golden
+  Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bf1db47d-f431-4920-b13a-a59418682a40
+SEQUENCE:0
+DTSTAMP:20250703T171451
+DTSTART:20250816T110000
+DTEND:20250816T114500
+SUMMARY:🏀 U10 Boys: AlphaWolf Hunters vs Toorak Torpedoes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Torpedoes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ebb3bacf-2e1f-43bf-a461-4c70a81d26b4
+SEQUENCE:0
+DTSTAMP:20250703T171451
+DTSTART:20250830T101500
+DTEND:20250830T110000
+SUMMARY:🏀 U10 Boys: AlphaWolf Hunters vs Penpraze Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Penpra
+ ze Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

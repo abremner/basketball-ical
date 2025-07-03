@@ -6,69 +6,69 @@ X-WR-CALNAME:Maccabi Falcons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:420a41f6-0af5-4302-81a4-380609638021
+UID:9800786b-6f51-4494-8c82-cb0c3681201f
 SEQUENCE:0
-DTSTAMP:20250702T171330
-DTSTART:20250726T084500
-DTEND:20250726T093000
+DTSTAMP:20250703T171459
+DTSTART:20250726T110000
+DTEND:20250726T114500
+SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Timberwolves Lightning
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Lightning\nArriv
+ e 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:75667927-1d5e-422d-b9ab-3e13b17aa16b
+SEQUENCE:0
+DTSTAMP:20250703T171459
+DTSTART:20250802T084500
+DTEND:20250802T093000
+SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Comets Snake
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
+  Snake\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2218cd23-a3e7-411e-a54d-52a70648a2e7
+SEQUENCE:0
+DTSTAMP:20250703T171459
+DTSTART:20250809T110000
+DTEND:20250809T114500
+SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Solway Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dac1424f-26d1-464c-a708-e63cc2a1599a
+SEQUENCE:0
+DTSTAMP:20250703T171459
+DTSTART:20250816T110000
+DTEND:20250816T114500
+SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Glen Iris Scorpions Raven
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
+ is Scorpions Raven\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0c78a2d5-c73d-48b9-91b0-4f2b93138e1a
+SEQUENCE:0
+DTSTAMP:20250703T171459
+DTSTART:20250823T080000
+DTEND:20250823T084500
 SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Timberwolves Legends
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Legends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cd50e257-85f2-493c-ade3-f8eae3a4eb6d
+UID:9e138727-1443-4d2d-8a20-bf46cea0027a
 SEQUENCE:0
-DTSTAMP:20250702T171330
-DTSTART:20250802T110000
-DTEND:20250802T114500
-SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Comets Snake
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Comets Snake\nArrive 15 mins 
- early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:dc5df0b7-1fd8-4329-b240-4f2dc6eb68aa
-SEQUENCE:0
-DTSTAMP:20250702T171330
-DTSTART:20250809T084500
-DTEND:20250809T093000
-SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Timberwolves Lightning
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
- wolves Lightning\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:7fd10059-047d-4f05-8b2c-6f1a167de075
-SEQUENCE:0
-DTSTAMP:20250702T171330
-DTSTART:20250816T110000
-DTEND:20250816T114500
-SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Timberwolves Bucks
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Bucks\nArrive 15
-  mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:3122e8bb-0513-4e5d-98ba-64dfa7c23db7
-SEQUENCE:0
-DTSTAMP:20250702T171330
-DTSTART:20250823T110000
-DTEND:20250823T114500
-SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Glen Iris Scorpions Raven
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Glen Iris Scorpions Raven\nAr
- rive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:58fd2d0d-2b01-4d8f-8d21-6aa82565597f
-SEQUENCE:0
-DTSTAMP:20250702T171330
-DTSTART:20250830T110000
-DTEND:20250830T114500
+DTSTAMP:20250703T171459
+DTSTART:20250830T084500
+DTEND:20250830T093000
 SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Toorak Thunderbolts
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Toorak Thunderbolts\nArrive 1
- 5 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
+  Thunderbolts\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

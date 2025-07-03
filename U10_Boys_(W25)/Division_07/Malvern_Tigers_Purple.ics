@@ -6,58 +6,69 @@ X-WR-CALNAME:Malvern Tigers Purple Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:6b1cf2a8-ffba-454d-afee-cc7ea47a56d6
+UID:33487d09-f40f-4e05-bf7c-1ab42a01fbdd
 SEQUENCE:0
-DTSTAMP:20250702T171326
-DTSTART:20250726T080000
-DTEND:20250726T084500
-SUMMARY:🏀 U10 Boys: Malvern Tigers Purple vs Toorak Tycoons
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
-  Tycoons\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:50a3d27e-93f9-4c82-a9c3-9b0d9b0427f0
-SEQUENCE:0
-DTSTAMP:20250702T171326
-DTSTART:20250802T101500
-DTEND:20250802T110000
-SUMMARY:🏀 U10 Boys: Malvern Tigers Purple vs Hawksburn Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Hawksb
- urn Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:3fdc0e3b-d8bb-4969-8596-60a1ab7df2e1
-SEQUENCE:0
-DTSTAMP:20250702T171326
-DTSTART:20250809T084500
-DTEND:20250809T093000
+DTSTAMP:20250703T171455
+DTSTART:20250726T084500
+DTEND:20250726T093000
 SUMMARY:🏀 U10 Boys: Malvern Tigers Purple vs Solway Bulls
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Bulls\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3bf40d70-eabb-483a-a7c2-531f2c8209c3
+UID:41a2419b-4085-4e77-be86-29cf38d784c6
 SEQUENCE:0
-DTSTAMP:20250702T171326
-DTSTART:20250816T080000
-DTEND:20250816T084500
+DTSTAMP:20250703T171455
+DTSTART:20250802T084500
+DTEND:20250802T093000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Purple vs Toorak Tycoons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Tycoons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:32040c2e-4ef2-4af9-9d59-64c13e2b290b
+SEQUENCE:0
+DTSTAMP:20250703T171455
+DTSTART:20250809T080000
+DTEND:20250809T084500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Purple vs Timberwolves Cobras
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Cobras\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5026b766-c439-4f58-855b-f7674fd4d753
+UID:432f1188-6d0c-496a-9d94-ee0f160123be
 SEQUENCE:0
-DTSTAMP:20250702T171326
-DTSTART:20250823T093000
-DTEND:20250823T101500
+DTSTAMP:20250703T171455
+DTSTART:20250816T101500
+DTEND:20250816T110000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Purple vs Hawksburn Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Hawksb
+ urn Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:aa91e2b7-9061-4c8e-b1e4-7e2dacef20b9
+SEQUENCE:0
+DTSTAMP:20250703T171455
+DTSTART:20250823T080000
+DTEND:20250823T084500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Purple vs Malvern Tigers Brown
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Brown\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a23f2ee4-3393-49df-9e3b-ffa28c088f31
+SEQUENCE:0
+DTSTAMP:20250703T171455
+DTSTART:20250830T080000
+DTEND:20250830T084500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Purple vs Orrong Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Orrong
+  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR
