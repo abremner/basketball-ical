@@ -6,9 +6,9 @@ X-WR-CALNAME:Glen Iris Scorpions Nettleton Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e93ccff9-25ad-4133-b757-a6c34dce1088
+UID:4aaa75af-db57-4b87-bec9-302717196321
 SEQUENCE:0
-DTSTAMP:20250713T171152
+DTSTAMP:20250714T171429
 DTSTART:20250726T093000
 DTEND:20250726T101500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Nettleton vs AlphaWolf Hunters
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
  olf Hunters\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f9d798fd-1e04-4859-bea4-a9cc20eeff7a
+UID:5082a7c3-2a47-4994-af93-254c42ff7afa
 SEQUENCE:0
-DTSTAMP:20250713T171152
+DTSTAMP:20250714T171429
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Nettleton vs Penpraze Park Pira
@@ -29,20 +29,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Penpraz
  e Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:de8be8d7-71be-4ee6-a14e-bf8c6979a254
+UID:4155a438-f02b-45cf-b49a-fb5f6ad87e55
 SEQUENCE:0
-DTSTAMP:20250713T171152
-DTSTART:20250816T101500
-DTEND:20250816T110000
+DTSTAMP:20250714T171429
+DTSTART:20250816T110000
+DTEND:20250816T114500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Nettleton vs Golden Hawks Sky
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Golden
-  Hawks Sky\nArrive 15 mins early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Golden 
+ Hawks Sky\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5f1e5c4f-247e-4784-bc37-068b59b8b7f1
+UID:ff74d1d2-81d6-4b6f-b355-4b7f78b697a0
 SEQUENCE:0
-DTSTAMP:20250713T171152
+DTSTAMP:20250714T171429
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Nettleton vs Timberwolves Cubs
@@ -51,14 +51,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Cubs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fc897a71-8cf9-4e43-bc18-b32a5ffc8f26
+UID:138fc7b5-7beb-47e7-8b99-a2fe683a0d25
 SEQUENCE:0
-DTSTAMP:20250713T171152
-DTSTART:20250830T093000
-DTEND:20250830T101500
+DTSTAMP:20250714T171429
+DTSTART:20250830T101500
+DTEND:20250830T110000
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Nettleton vs Maccabi Ducks
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

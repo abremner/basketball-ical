@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0c2956e1-0cfb-4707-b998-8eb1c6691df2
+UID:9177434a-2278-4b28-ab88-aeb15a076b92
 SEQUENCE:0
-DTSTAMP:20250713T171153
+DTSTAMP:20250714T171430
 DTSTART:20250726T101500
 DTEND:20250726T110000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Timberwolves Cubs
@@ -17,31 +17,31 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Cubs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:05c14ba0-c745-4d71-9b03-b9c08b7a823e
+UID:cd7d751e-7933-403b-969b-86a93656181a
 SEQUENCE:0
-DTSTAMP:20250713T171153
-DTSTART:20250802T110000
-DTEND:20250802T114500
+DTSTAMP:20250714T171430
+DTSTART:20250802T093000
+DTEND:20250802T101500
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs AlphaWolf Hunters
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
- lf Hunters\nArrive 15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
+ olf Hunters\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:63257d0f-569d-4525-a1e7-fcf04c51ac3d
+UID:8edf475d-4005-47f1-a370-834a1b3cfda1
 SEQUENCE:0
-DTSTAMP:20250713T171153
-DTSTART:20250816T093000
-DTEND:20250816T101500
+DTSTAMP:20250714T171430
+DTSTART:20250816T101500
+DTEND:20250816T110000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Penpraze Park Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Penpra
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Penpra
  ze Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:741c6cee-2bc2-44be-bbcb-9fae717dc144
+UID:b9465523-882a-4b53-aa03-f71035d8902c
 SEQUENCE:0
-DTSTAMP:20250713T171153
+DTSTAMP:20250714T171430
 DTSTART:20250823T101500
 DTEND:20250823T110000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Toorak Torpedoes
@@ -50,14 +50,14 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Torpedoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7fe3738f-5ad8-47e0-9bc5-d9da5e022ca9
+UID:0e4f939c-a7cf-47d3-ac6c-2bc1a6c99294
 SEQUENCE:0
-DTSTAMP:20250713T171153
-DTSTART:20250830T093000
-DTEND:20250830T101500
+DTSTAMP:20250714T171430
+DTSTART:20250830T101500
+DTEND:20250830T110000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Glen Iris Scorpions Nettleton
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

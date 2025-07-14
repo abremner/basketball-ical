@@ -6,9 +6,9 @@ X-WR-CALNAME:Penpraze Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:be2f0a00-bb98-4c9d-86b4-1e62566adea8
+UID:345212ad-0f4c-4772-b679-112d99098041
 SEQUENCE:0
-DTSTAMP:20250713T171153
+DTSTAMP:20250714T171430
 DTSTART:20250726T110000
 DTEND:20250726T114500
 SUMMARY:🏀 U10 Boys: Penpraze Park Piranhas vs Toorak Torpedoes
@@ -17,20 +17,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Torpedoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d8440627-fc7a-490f-96c9-a6b6f8ec4491
+UID:7240b8bf-21e9-4c8f-8b8f-9555565c1d48
 SEQUENCE:0
-DTSTAMP:20250713T171153
-DTSTART:20250802T101500
-DTEND:20250802T110000
+DTSTAMP:20250714T171430
+DTSTART:20250802T110000
+DTEND:20250802T114500
 SUMMARY:🏀 U10 Boys: Penpraze Park Piranhas vs Timberwolves Cubs
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
- wolves Cubs\nArrive 15 mins early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Cubs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:14611bee-79a3-4056-ac6c-9d506568e08e
+UID:2b703763-0381-4f4a-91cc-4468dfc48dfa
 SEQUENCE:0
-DTSTAMP:20250713T171153
+DTSTAMP:20250714T171430
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Boys: Penpraze Park Piranhas vs Glen Iris Scorpions Nettl
@@ -40,20 +40,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c23860d0-5457-42fd-8333-2856c99d6243
+UID:573e50d5-28ca-4746-a0c1-10c6b7beb4de
 SEQUENCE:0
-DTSTAMP:20250713T171153
-DTSTART:20250816T093000
-DTEND:20250816T101500
+DTSTAMP:20250714T171430
+DTSTART:20250816T101500
+DTEND:20250816T110000
 SUMMARY:🏀 U10 Boys: Penpraze Park Piranhas vs Maccabi Ducks
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:eb894e1a-6624-428d-8e67-57e22fafbf7a
+UID:2b4a5c64-7bf2-4886-8089-b1f7a6b79aa3
 SEQUENCE:0
-DTSTAMP:20250713T171153
+DTSTAMP:20250714T171430
 DTSTART:20250823T093000
 DTEND:20250823T101500
 SUMMARY:🏀 U10 Boys: Penpraze Park Piranhas vs Golden Hawks Sky
@@ -62,14 +62,14 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Golden
   Hawks Sky\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6cbe133c-592d-4aa0-abff-5cdd0882da0e
+UID:7a59a8b2-8afe-4947-b6d1-359f8af1eb0b
 SEQUENCE:0
-DTSTAMP:20250713T171153
-DTSTART:20250830T101500
-DTEND:20250830T110000
+DTSTAMP:20250714T171430
+DTSTART:20250830T093000
+DTEND:20250830T101500
 SUMMARY:🏀 U10 Boys: Penpraze Park Piranhas vs AlphaWolf Hunters
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AlphaW
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
  olf Hunters\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR
