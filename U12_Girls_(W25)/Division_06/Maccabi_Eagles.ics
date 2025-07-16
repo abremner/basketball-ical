@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Eagles Fixtures
+X-WR-CALNAME:Maccabi Eagles Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ab5a444c-b48b-4369-80ac-e379b5892f62
+SEQUENCE:0
+DTSTAMP:20250716T171707
+DTSTART:20250726T123000
+DTEND:20250726T131500
+SUMMARY:🏀 U12 Girls: Maccabi Eagles vs Timberwolves Hurricanes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Hurricanes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a7179b8a-138a-4118-98e8-8f2cff0b1134
+SEQUENCE:0
+DTSTAMP:20250716T171707
+DTSTART:20250802T123000
+DTEND:20250802T131500
+SUMMARY:🏀 U12 Girls: Maccabi Eagles vs Ashy Lightning Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
+ ghtning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f27ae760-3351-446e-9a6d-69697c59a497
+SEQUENCE:0
+DTSTAMP:20250716T171707
+DTSTART:20250816T123000
+DTEND:20250816T131500
+SUMMARY:🏀 U12 Girls: Maccabi Eagles vs Timberwolves Pearls
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Pearls\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2bc40675-a391-44b7-938d-472aefbb3ae7
+SEQUENCE:0
+DTSTAMP:20250716T171707
+DTSTART:20250823T140000
+DTEND:20250823T144500
+SUMMARY:🏀 U12 Girls: Maccabi Eagles vs Solway Lorikeets
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Lori
+ keets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:776cc774-e495-4f38-be3a-2ec3c3bdac02
+SEQUENCE:0
+DTSTAMP:20250716T171707
+DTSTART:20250830T123000
+DTEND:20250830T131500
+SUMMARY:🏀 U12 Girls: Maccabi Eagles vs Ashy Lightning White
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
+ ghtning White\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Sparks Fixtures
+X-WR-CALNAME:Solway Sparks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c526c68e-6f2b-4bcb-bfb6-a5db5160995e
+SEQUENCE:0
+DTSTAMP:20250716T171540
+DTSTART:20250726T080000
+DTEND:20250726T084500
+SUMMARY:🏀 U08 Girls: Solway Sparks vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:91f0a4ef-ec1d-4721-af5e-b43919ecaa46
+SEQUENCE:0
+DTSTAMP:20250716T171540
+DTSTART:20250802T080000
+DTEND:20250802T084500
+SUMMARY:🏀 U08 Girls: Solway Sparks vs Solway Meteors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Meteors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:14dc74f4-6fdf-4728-8240-4a6a9fb225bf
+SEQUENCE:0
+DTSTAMP:20250716T171540
+DTSTART:20250809T080000
+DTEND:20250809T084500
+SUMMARY:🏀 U08 Girls: Solway Sparks vs Warley Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Warley 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2babdc25-7681-4827-9ac2-8bfc7fbd2ce9
+SEQUENCE:0
+DTSTAMP:20250716T171540
+DTSTART:20250816T080000
+DTEND:20250816T084500
+SUMMARY:🏀 U08 Girls: Solway Sparks vs Maccabi Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:519c6bb8-bb1e-4058-a56d-df90192701c8
+SEQUENCE:0
+DTSTAMP:20250716T171540
+DTSTART:20250823T080000
+DTEND:20250823T084500
+SUMMARY:🏀 U08 Girls: Solway Sparks vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

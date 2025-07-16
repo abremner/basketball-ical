@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Mitchell Fixtures
+X-WR-CALNAME:Malvern Tigers Mitchell Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c274cd81-7321-45d2-b883-ca25a081315e
+SEQUENCE:0
+DTSTAMP:20250716T171747
+DTSTART:20250726T131500
+DTEND:20250726T140000
+SUMMARY:🏀 U14 Girls: Malvern Tigers Mitchell vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:63667042-5c07-4a9c-a226-b2d3d6ec5a49
+SEQUENCE:0
+DTSTAMP:20250716T171747
+DTSTART:20250802T170000
+DTEND:20250802T174500
+SUMMARY:🏀 U14 Girls: Malvern Tigers Mitchell vs Malvern Tigers Jarry
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Jarry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ad3b848b-2b76-4d88-a300-9808c2c91fd3
+SEQUENCE:0
+DTSTAMP:20250716T171747
+DTSTART:20250809T170000
+DTEND:20250809T174500
+SUMMARY:🏀 U14 Girls: Malvern Tigers Mitchell vs Ashy Lightning Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2f9a68cc-3357-4242-b225-c90d79ba2866
+SEQUENCE:0
+DTSTAMP:20250716T171747
+DTSTART:20250816T161500
+DTEND:20250816T170000
+SUMMARY:🏀 U14 Girls: Malvern Tigers Mitchell vs Malvern Tigers Lavey
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Lavey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:319fada6-b4eb-4483-a057-85cfa111607b
+SEQUENCE:0
+DTSTAMP:20250716T171747
+DTSTART:20250823T161500
+DTEND:20250823T170000
+SUMMARY:🏀 U14 Girls: Malvern Tigers Mitchell vs Lauriston Liberty
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston L
+ iberty\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bede83b7-23d7-4699-9324-25274ce7cbe8
+SEQUENCE:0
+DTSTAMP:20250716T171747
+DTSTART:20250830T153000
+DTEND:20250830T161500
+SUMMARY:🏀 U14 Girls: Malvern Tigers Mitchell vs Ranfurlie Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ranfurl
+ ie Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

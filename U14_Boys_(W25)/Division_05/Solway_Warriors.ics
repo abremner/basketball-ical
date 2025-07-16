@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Warriors Fixtures
+X-WR-CALNAME:Solway Warriors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8e22dc42-0d6b-4f3e-a186-e76791cd2d4e
+SEQUENCE:0
+DTSTAMP:20250716T171724
+DTSTART:20250726T161500
+DTEND:20250726T170000
+SUMMARY:🏀 U14 Boys: Solway Warriors vs Glen Iris Scorpions Raven
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
+ is Scorpions Raven\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f6a6dbac-1349-478f-a5f8-123757e0d52d
+SEQUENCE:0
+DTSTAMP:20250716T171724
+DTSTART:20250802T153000
+DTEND:20250802T161500
+SUMMARY:🏀 U14 Boys: Solway Warriors vs AlphaWolf Force
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AlphaW
+ olf Force\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:232d60a2-d0ef-4d21-9559-ef620d214a21
+SEQUENCE:0
+DTSTAMP:20250716T171724
+DTSTART:20250809T161500
+DTEND:20250809T170000
+SUMMARY:🏀 U14 Boys: Solway Warriors vs Timberwolves Dragons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Dragons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6b469701-494d-440b-9478-ac56c6b18818
+SEQUENCE:0
+DTSTAMP:20250716T171724
+DTSTART:20250816T161500
+DTEND:20250816T170000
+SUMMARY:🏀 U14 Boys: Solway Warriors vs Malvern Tigers Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:18b00f82-8767-4784-b332-bf4b77ffab9e
+SEQUENCE:0
+DTSTAMP:20250716T171724
+DTSTART:20250823T140000
+DTEND:20250823T144500
+SUMMARY:🏀 U14 Boys: Solway Warriors vs Comets Lightning
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
+  Lightning\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:469258a6-88ce-420c-9ddf-e39436e2cb2b
+SEQUENCE:0
+DTSTAMP:20250716T171724
+DTSTART:20250830T161500
+DTEND:20250830T170000
+SUMMARY:🏀 U14 Boys: Solway Warriors vs Maccabi Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

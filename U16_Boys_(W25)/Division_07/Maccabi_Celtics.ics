@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:68f82642-d2f1-436e-a131-2abfac11dbc5
+SEQUENCE:0
+DTSTAMP:20250716T171814
+DTSTART:20250726T183000
+DTEND:20250726T191500
+SUMMARY:🏀 U16 Boys: Maccabi Celtics vs Malvern Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ba9b2db1-0c07-45ff-ae56-fcf243ac9d4d
+SEQUENCE:0
+DTSTAMP:20250716T171814
+DTSTART:20250802T183000
+DTEND:20250802T191500
+SUMMARY:🏀 U16 Boys: Maccabi Celtics vs Malvern Tigers Orange
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:49a41b64-8355-4de2-a741-ac7bf092da4f
+SEQUENCE:0
+DTSTAMP:20250716T171814
+DTSTART:20250809T174500
+DTEND:20250809T183000
+SUMMARY:🏀 U16 Boys: Maccabi Celtics vs Timberwolves Blaze
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Blaze\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:39cbe916-180b-47ce-8a78-9c63811716c0
+SEQUENCE:0
+DTSTAMP:20250716T171814
+DTSTART:20250816T174500
+DTEND:20250816T183000
+SUMMARY:🏀 U16 Boys: Maccabi Celtics vs Manning Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Manning
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ae4800f3-2f50-4b94-b28d-e896918145cf
+SEQUENCE:0
+DTSTAMP:20250716T171814
+DTSTART:20250823T174500
+DTEND:20250823T183000
+SUMMARY:🏀 U16 Boys: Maccabi Celtics vs Solway Heat
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Heat\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6c83398f-070a-4d52-8958-812cc3f57ff6
+SEQUENCE:0
+DTSTAMP:20250716T171814
+DTSTART:20250830T183000
+DTEND:20250830T191500
+SUMMARY:🏀 U16 Boys: Maccabi Celtics vs Malvern Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

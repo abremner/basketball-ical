@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Wizards Fixtures
+X-WR-CALNAME:Timberwolves Wizards Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9221e0c6-83c0-48a2-bb7c-ecf9ba388e62
+SEQUENCE:0
+DTSTAMP:20250716T171834
+DTSTART:20250727T173000
+DTEND:20250727T181500
+SUMMARY:🏀 U18 Boys: Timberwolves Wizards vs Ferncroft Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ferncr
+ oft Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:33029b9d-a626-41ba-ae17-1cab65bf1119
+SEQUENCE:0
+DTSTAMP:20250716T171834
+DTSTART:20250803T173000
+DTEND:20250803T181500
+SUMMARY:🏀 U18 Boys: Timberwolves Wizards vs Maccabi Vipers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Vipers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:57b48d74-280f-45ae-a9bf-827df5c9624c
+SEQUENCE:0
+DTSTAMP:20250716T171834
+DTSTART:20250810T181500
+DTEND:20250810T190000
+SUMMARY:🏀 U18 Boys: Timberwolves Wizards vs Solway Bullets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Bullets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0876437c-7b07-4ae2-81ab-6400650196d6
+SEQUENCE:0
+DTSTAMP:20250716T171834
+DTSTART:20250817T173000
+DTEND:20250817T181500
+SUMMARY:🏀 U18 Boys: Timberwolves Wizards vs Maccabi Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4901ef5b-34b0-4628-b16e-c7cb6eff31cd
+SEQUENCE:0
+DTSTAMP:20250716T171834
+DTSTART:20250824T181500
+DTEND:20250824T190000
+SUMMARY:🏀 U18 Boys: Timberwolves Wizards vs Glen Iris Scorpions Saints
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glen I
+ ris Scorpions Saints\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Lakers Fixtures
+X-WR-CALNAME:AlphaWolf Lakers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b0b9c242-f856-4b42-b40c-d8aa941f1e0b
+SEQUENCE:0
+DTSTAMP:20250716T171638
+DTSTART:20250726T114500
+DTEND:20250726T123000
+SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs Malvern Tigers Brown
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Brown\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fef63b28-cb34-4f81-8ea2-93f643eea2e2
+SEQUENCE:0
+DTSTAMP:20250716T171638
+DTSTART:20250802T123000
+DTEND:20250802T131500
+SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs Malvern Tigers Blue
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cda8d1c6-a1a5-453d-a5fb-01f4d4b849b4
+SEQUENCE:0
+DTSTAMP:20250716T171638
+DTSTART:20250816T123000
+DTEND:20250816T131500
+SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c7ce1c74-daca-4fef-89e9-e9efa95e9fbf
+SEQUENCE:0
+DTSTAMP:20250716T171638
+DTSTART:20250823T114500
+DTEND:20250823T123000
+SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs Beckett Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Becket
+ t Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:88cb1afb-93a7-4586-b776-02a66d11e93a
+SEQUENCE:0
+DTSTAMP:20250716T171638
+DTSTART:20250830T114500
+DTEND:20250830T123000
+SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs Malvern Tigers Brown
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Brown\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

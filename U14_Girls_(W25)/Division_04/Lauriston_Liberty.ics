@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Lauriston Liberty Fixtures
+X-WR-CALNAME:Lauriston Liberty Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7c15254d-6fbb-4bed-8f05-0a19e9ec4bba
+SEQUENCE:0
+DTSTAMP:20250716T171746
+DTSTART:20250726T161500
+DTEND:20250726T170000
+SUMMARY:🏀 U14 Girls: Lauriston Liberty vs Ranfurlie Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Ranfurlie P
+ iranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:669e1eb6-fc46-4edb-8af0-717cfb82ac96
+SEQUENCE:0
+DTSTAMP:20250716T171746
+DTSTART:20250802T161500
+DTEND:20250802T170000
+SUMMARY:🏀 U14 Girls: Lauriston Liberty vs Malvern Tigers Lavey
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Lavey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:11ccba23-4f77-4b58-a596-285266a9edd4
+SEQUENCE:0
+DTSTAMP:20250716T171746
+DTSTART:20250809T161500
+DTEND:20250809T170000
+SUMMARY:🏀 U14 Girls: Lauriston Liberty vs Malvern Tigers Jarry
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Jarry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a21b2267-92c9-4b95-99c6-e13dde221177
+SEQUENCE:0
+DTSTAMP:20250716T171746
+DTSTART:20250816T153000
+DTEND:20250816T161500
+SUMMARY:🏀 U14 Girls: Lauriston Liberty vs Ashy Lightning Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:afa1afdd-cbd3-44f5-b0c7-1e3e0c3bce6c
+SEQUENCE:0
+DTSTAMP:20250716T171746
+DTSTART:20250823T161500
+DTEND:20250823T170000
+SUMMARY:🏀 U14 Girls: Lauriston Liberty vs Malvern Tigers Mitchell
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Mitchell\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:520de4ce-02f1-4d56-83eb-e9474f6c6679
+SEQUENCE:0
+DTSTAMP:20250716T171746
+DTSTART:20250830T161500
+DTEND:20250830T170000
+SUMMARY:🏀 U14 Girls: Lauriston Liberty vs Solway Emeralds
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Emer
+ alds\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

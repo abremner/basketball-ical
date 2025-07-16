@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Wattletree Piranhas Fixtures
+X-WR-CALNAME:Wattletree Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:cb16a5cd-20ab-41dc-925d-6efe8b332a48
+SEQUENCE:0
+DTSTAMP:20250716T171533
+DTSTART:20250726T093000
+DTEND:20250726T101500
+SUMMARY:🏀 U08 Boys: Wattletree Piranhas vs Renwick Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Renwick
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2c3e1800-28f5-4371-bc89-015e254e35ef
+SEQUENCE:0
+DTSTAMP:20250716T171533
+DTSTART:20250802T093000
+DTEND:20250802T101500
+SUMMARY:🏀 U08 Boys: Wattletree Piranhas vs Solway Steeds
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Steeds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:28811613-95c4-4313-934a-c9559c5ede8b
+SEQUENCE:0
+DTSTAMP:20250716T171533
+DTSTART:20250809T084500
+DTEND:20250809T093000
+SUMMARY:🏀 U08 Boys: Wattletree Piranhas vs Dorrington Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Dorring
+ ton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:81eef795-01a7-4ec0-a15c-d3508f231b42
+SEQUENCE:0
+DTSTAMP:20250716T171533
+DTSTART:20250816T084500
+DTEND:20250816T093000
+SUMMARY:🏀 U08 Boys: Wattletree Piranhas vs Solway Stallions
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Stallions\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:aa9bad4a-ad71-4172-b042-5500ecca9cfa
+SEQUENCE:0
+DTSTAMP:20250716T171533
+DTSTART:20250823T084500
+DTEND:20250823T093000
+SUMMARY:🏀 U08 Boys: Wattletree Piranhas vs Golden Hawks Sky
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Golden 
+ Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1bb54708-85ce-4005-b34c-6a8e1c617218
+SEQUENCE:0
+DTSTAMP:20250716T171533
+DTSTART:20250830T084500
+DTEND:20250830T093000
+SUMMARY:🏀 U08 Boys: Wattletree Piranhas vs Renwick Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Renwick
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

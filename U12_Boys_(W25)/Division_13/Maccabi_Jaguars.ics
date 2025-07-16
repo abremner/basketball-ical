@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Jaguars Fixtures
+X-WR-CALNAME:Maccabi Jaguars Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:64c4088a-3b07-4e65-8b9a-ed9a7aedf87a
+SEQUENCE:0
+DTSTAMP:20250716T171652
+DTSTART:20250726T123000
+DTEND:20250726T131500
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Malvern Tigers Aqua
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Aqua\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:179ede2d-2258-4bd6-b3f5-da0b06aa9a44
+SEQUENCE:0
+DTSTAMP:20250716T171652
+DTSTART:20250802T114500
+DTEND:20250802T123000
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Golden Hawks Blaze
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Golden 
+ Hawks Blaze\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:47f6bfa0-076d-41bd-93ce-f1d8f05a95d1
+SEQUENCE:0
+DTSTAMP:20250716T171652
+DTSTART:20250809T144500
+DTEND:20250809T153000
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Wilson Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Wilson 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b0205a79-5d08-4d20-bb44-71f2b364e331
+SEQUENCE:0
+DTSTAMP:20250716T171652
+DTSTART:20250816T114500
+DTEND:20250816T123000
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Balaclava Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Balacla
+ va Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5e6d03ea-d3d1-4d97-a00e-b19b5d042585
+SEQUENCE:0
+DTSTAMP:20250716T171652
+DTSTART:20250823T123000
+DTEND:20250823T131500
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Timberwolves Cavs
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Cavs\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6d81f113-3ef0-413a-b6ab-6d630e474a12
+SEQUENCE:0
+DTSTAMP:20250716T171652
+DTSTART:20250830T123000
+DTEND:20250830T131500
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Malvern Tigers Aqua
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Aqua\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

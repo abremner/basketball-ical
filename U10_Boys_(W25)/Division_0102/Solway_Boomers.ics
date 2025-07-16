@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Boomers Fixtures
+X-WR-CALNAME:Solway Boomers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d3962866-279a-495a-b107-1dfd7531a229
+SEQUENCE:0
+DTSTAMP:20250716T171545
+DTSTART:20250726T110000
+DTEND:20250726T114500
+SUMMARY:🏀 U10 Boys: Solway Boomers vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bcc59d0f-993d-4500-a8d3-ccafd2af8aca
+SEQUENCE:0
+DTSTAMP:20250716T171545
+DTSTART:20250802T114500
+DTEND:20250802T123000
+SUMMARY:🏀 U10 Boys: Solway Boomers vs Timberwolves Crusaders
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Crusaders\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f1397df3-c97d-433e-a288-22f1cac65f86
+SEQUENCE:0
+DTSTAMP:20250716T171545
+DTSTART:20250809T123000
+DTEND:20250809T131500
+SUMMARY:🏀 U10 Boys: Solway Boomers vs AlphaWolf Dragons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AlphaW
+ olf Dragons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9e99207e-cb1a-4f82-816d-9be7820d671b
+SEQUENCE:0
+DTSTAMP:20250716T171545
+DTSTART:20250816T114500
+DTEND:20250816T123000
+SUMMARY:🏀 U10 Boys: Solway Boomers vs Timberwolves Pistols
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Pistols\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f8a37d6a-416c-4e3d-b55b-65cdc7f59c4c
+SEQUENCE:0
+DTSTAMP:20250716T171545
+DTSTART:20250823T123000
+DTEND:20250823T131500
+SUMMARY:🏀 U10 Boys: Solway Boomers vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ba7f3238-e757-4247-95fa-fefe549a032a
+SEQUENCE:0
+DTSTAMP:20250716T171545
+DTSTART:20250830T123000
+DTEND:20250830T131500
+SUMMARY:🏀 U10 Boys: Solway Boomers vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

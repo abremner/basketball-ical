@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Colts Fixtures
+X-WR-CALNAME:Solway Colts Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9d7e789d-783f-4884-a5a5-b20894a630e9
+SEQUENCE:0
+DTSTAMP:20250716T171522
+DTSTART:20250726T101500
+DTEND:20250726T110000
+SUMMARY:🏀 U08 Boys: Solway Colts vs East Malvern Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: East Ma
+ lvern Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3629d56a-b885-46fa-9f98-a0c169a8a2d0
+SEQUENCE:0
+DTSTAMP:20250716T171522
+DTSTART:20250802T093000
+DTEND:20250802T101500
+SUMMARY:🏀 U08 Boys: Solway Colts vs AlphaWolf Tigers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: AlphaWo
+ lf Tigers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c274168e-c4b0-486f-8159-12084394ba50
+SEQUENCE:0
+DTSTAMP:20250716T171522
+DTSTART:20250809T093000
+DTEND:20250809T101500
+SUMMARY:🏀 U08 Boys: Solway Colts vs Maccabi Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a80a054c-9cbe-4846-acc8-7e5f6f354204
+SEQUENCE:0
+DTSTAMP:20250716T171522
+DTSTART:20250816T093000
+DTEND:20250816T101500
+SUMMARY:🏀 U08 Boys: Solway Colts vs Ashy Lightning Gold
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
+ ghtning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f7eaec03-4975-41ac-ab0e-ca06f294906f
+SEQUENCE:0
+DTSTAMP:20250716T171522
+DTSTART:20250823T093000
+DTEND:20250823T101500
+SUMMARY:🏀 U08 Boys: Solway Colts vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0351ce2f-f8dc-4af2-8e60-b3fd86334617
+SEQUENCE:0
+DTSTAMP:20250716T171522
+DTSTART:20250830T101500
+DTEND:20250830T110000
+SUMMARY:🏀 U08 Boys: Solway Colts vs East Malvern Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: East Ma
+ lvern Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7c199f44-93a5-4af7-a06a-264d931cef52
+SEQUENCE:0
+DTSTAMP:20250716T171619
+DTSTART:20250726T114500
+DTEND:20250726T123000
+SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Valentine Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Valentine P
+ iranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7aed5e31-b21b-40c7-83fe-da6a6f0eb05c
+SEQUENCE:0
+DTSTAMP:20250716T171619
+DTSTART:20250802T114500
+DTEND:20250802T123000
+SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Malvern Tigers Green
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:93653e71-4550-4f0f-b3e7-75449c7374af
+SEQUENCE:0
+DTSTAMP:20250716T171619
+DTSTART:20250809T114500
+DTEND:20250809T123000
+SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Glen Iris Scorpions Gardiner
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Glen Iris S
+ corpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0af995a7-90cb-44ee-9032-0f0f872021e0
+SEQUENCE:0
+DTSTAMP:20250716T171619
+DTSTART:20250816T114500
+DTEND:20250816T123000
+SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Embling Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Embling Pir
+ anhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:23747bbf-1c55-45ea-9b5a-6fc5afd9c19b
+SEQUENCE:0
+DTSTAMP:20250716T171619
+DTSTART:20250823T114500
+DTEND:20250823T123000
+SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Netherlee Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Netherlee P
+ iranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e19015fa-8ba4-4fe7-878b-29bc077c3794
+SEQUENCE:0
+DTSTAMP:20250716T171619
+DTSTART:20250830T114500
+DTEND:20250830T123000
+SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Maccabi Celtics
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Cel
+ tics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

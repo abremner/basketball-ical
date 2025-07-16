@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Comets Lightning Fixtures
+X-WR-CALNAME:Comets Lightning Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:48239888-55a3-43b4-9836-535c0950020c
+SEQUENCE:0
+DTSTAMP:20250716T171723
+DTSTART:20250726T140000
+DTEND:20250726T144500
+SUMMARY:🏀 U14 Boys: Comets Lightning vs Timberwolves Dragons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+ wolves Dragons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1e12d70d-8744-4c3b-bdbd-e3a0b11d010b
+SEQUENCE:0
+DTSTAMP:20250716T171723
+DTSTART:20250802T140000
+DTEND:20250802T144500
+SUMMARY:🏀 U14 Boys: Comets Lightning vs Malvern Tigers Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:806518d2-3a1c-4418-8b84-f12239fe5549
+SEQUENCE:0
+DTSTAMP:20250716T171723
+DTSTART:20250809T140000
+DTEND:20250809T144500
+SUMMARY:🏀 U14 Boys: Comets Lightning vs Toorak Tomcats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Tomcats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2504cef8-aa0a-462d-a27c-f9250bbf4097
+SEQUENCE:0
+DTSTAMP:20250716T171723
+DTSTART:20250816T140000
+DTEND:20250816T144500
+SUMMARY:🏀 U14 Boys: Comets Lightning vs Glen Iris Scorpions Raven
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
+ ris Scorpions Raven\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:486a5525-c475-47f3-b76b-3d67ea20eb3c
+SEQUENCE:0
+DTSTAMP:20250716T171723
+DTSTART:20250823T140000
+DTEND:20250823T144500
+SUMMARY:🏀 U14 Boys: Comets Lightning vs Solway Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:164af70c-5491-4eb9-a6af-2ce64be5e82d
+SEQUENCE:0
+DTSTAMP:20250716T171723
+DTSTART:20250830T140000
+DTEND:20250830T144500
+SUMMARY:🏀 U14 Boys: Comets Lightning vs AlphaWolf Force
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: AlphaW
+ olf Force\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

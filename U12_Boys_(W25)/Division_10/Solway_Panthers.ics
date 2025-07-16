@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Panthers Fixtures
+X-WR-CALNAME:Solway Panthers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d5f661e9-47fb-4579-8bec-4c0abab0a7f5
+SEQUENCE:0
+DTSTAMP:20250716T171645
+DTSTART:20250802T114500
+DTEND:20250802T123000
+SUMMARY:🏀 U12 Boys: Solway Panthers vs Toorak Thunder
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:10bbf812-ad06-4186-be4b-1c7ec57fdf99
+SEQUENCE:0
+DTSTAMP:20250716T171645
+DTSTART:20250809T123000
+DTEND:20250809T131500
+SUMMARY:🏀 U12 Boys: Solway Panthers vs Comets Cyclones
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Comets 
+ Cyclones\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7766cc6d-75b8-456a-93cf-a5605d36264b
+SEQUENCE:0
+DTSTAMP:20250716T171645
+DTSTART:20250816T131500
+DTEND:20250816T140000
+SUMMARY:🏀 U12 Boys: Solway Panthers vs Malvern Tigers Grey
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Grey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5c3085a8-dc22-4c38-a3ae-cabb5a724c7f
+SEQUENCE:0
+DTSTAMP:20250716T171645
+DTSTART:20250823T114500
+DTEND:20250823T123000
+SUMMARY:🏀 U12 Boys: Solway Panthers vs Toorak Trouble
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Trouble\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bfe68d64-e1ad-4d07-ae3d-b046e166a34a
+SEQUENCE:0
+DTSTAMP:20250716T171645
+DTSTART:20250830T123000
+DTEND:20250830T131500
+SUMMARY:🏀 U12 Boys: Solway Panthers vs Comets Tigers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Comets 
+ Tigers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

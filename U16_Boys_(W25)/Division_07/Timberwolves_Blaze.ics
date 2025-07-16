@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Blaze Fixtures
+X-WR-CALNAME:Timberwolves Blaze Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:fe771f1d-dd05-41bf-a901-e12d6d84f9fc
+SEQUENCE:0
+DTSTAMP:20250716T171816
+DTSTART:20250726T174500
+DTEND:20250726T183000
+SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Solway Heat
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Heat\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ecf9bc92-e06e-4f11-ad89-9cf489c821da
+SEQUENCE:0
+DTSTAMP:20250716T171816
+DTSTART:20250802T174500
+DTEND:20250802T183000
+SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Malvern Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:61b33616-53be-4ccc-b3fc-c77963414014
+SEQUENCE:0
+DTSTAMP:20250716T171816
+DTSTART:20250809T174500
+DTEND:20250809T183000
+SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Maccabi Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cbc82826-42c7-4e0f-85ec-89dfadecf1bd
+SEQUENCE:0
+DTSTAMP:20250716T171816
+DTSTART:20250816T183000
+DTEND:20250816T191500
+SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Malvern Tigers Orange
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8679f8c8-31a3-4936-94b5-bb1a5cda4f86
+SEQUENCE:0
+DTSTAMP:20250716T171816
+DTSTART:20250823T183000
+DTEND:20250823T191500
+SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Manning Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Manning
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:21dd5db6-14d8-4e28-aa38-af2bcbbfd8c0
+SEQUENCE:0
+DTSTAMP:20250716T171816
+DTSTART:20250830T174500
+DTEND:20250830T183000
+SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Solway Heat
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Heat\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

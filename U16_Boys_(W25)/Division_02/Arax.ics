@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Arax Fixtures
+X-WR-CALNAME:Arax Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:11900ab3-7bb0-4196-aadc-2b9a3fadaf96
+SEQUENCE:0
+DTSTAMP:20250716T171758
+DTSTART:20250802T191500
+DTEND:20250802T200000
+SUMMARY:🏀 U16 Boys: Arax vs Spring Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Spring
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b84bfa7c-6556-4d35-96d0-f497d896ac00
+SEQUENCE:0
+DTSTAMP:20250716T171758
+DTSTART:20250809T191500
+DTEND:20250809T200000
+SUMMARY:🏀 U16 Boys: Arax vs Timberwolves Nuggets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Nuggets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:60fcce4d-2aa2-47b5-9a37-4bf454b1ed78
+SEQUENCE:0
+DTSTAMP:20250716T171758
+DTSTART:20250816T191500
+DTEND:20250816T200000
+SUMMARY:🏀 U16 Boys: Arax vs Timberwolves Raiders
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Raiders\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:37eedf6d-541d-4297-9d79-dc7b923d4e86
+SEQUENCE:0
+DTSTAMP:20250716T171758
+DTSTART:20250823T191500
+DTEND:20250823T200000
+SUMMARY:🏀 U16 Boys: Arax vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bae36fa3-e461-4714-a5b2-d0c4c0c5ab24
+SEQUENCE:0
+DTSTAMP:20250716T171758
+DTSTART:20250830T183000
+DTEND:20250830T191500
+SUMMARY:🏀 U16 Boys: Arax vs Bailey Reserve Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Bailey
+  Reserve Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

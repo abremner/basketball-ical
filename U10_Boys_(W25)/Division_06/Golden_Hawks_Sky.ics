@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Golden Hawks Sky Fixtures
+X-WR-CALNAME:Golden Hawks Sky Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8efb0266-2fc6-4865-a58c-ac51f9b4508e
+SEQUENCE:0
+DTSTAMP:20250716T171555
+DTSTART:20250802T101500
+DTEND:20250802T110000
+SUMMARY:🏀 U10 Boys: Golden Hawks Sky vs Toorak Torpedoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
+  Torpedoes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:802c98c0-80e0-4fca-ba09-7132eee33394
+SEQUENCE:0
+DTSTAMP:20250716T171555
+DTSTART:20250809T093000
+DTEND:20250809T101500
+SUMMARY:🏀 U10 Boys: Golden Hawks Sky vs AlphaWolf Hunters
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
+ olf Hunters\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2013e809-a178-4e8f-958b-69145f3bcd3b
+SEQUENCE:0
+DTSTAMP:20250716T171555
+DTSTART:20250816T110000
+DTEND:20250816T114500
+SUMMARY:🏀 U10 Boys: Golden Hawks Sky vs Glen Iris Scorpions Nettleton
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
+ is Scorpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6fe63d71-94a6-4b91-bc0d-ee4205ab470c
+SEQUENCE:0
+DTSTAMP:20250716T171555
+DTSTART:20250823T093000
+DTEND:20250823T101500
+SUMMARY:🏀 U10 Boys: Golden Hawks Sky vs Penpraze Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Penpra
+ ze Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:de9f0a53-9473-4b8c-9020-85ee8f0dcaf4
+SEQUENCE:0
+DTSTAMP:20250716T171555
+DTSTART:20250830T110000
+DTEND:20250830T114500
+SUMMARY:🏀 U10 Boys: Golden Hawks Sky vs Timberwolves Cubs
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Cubs\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

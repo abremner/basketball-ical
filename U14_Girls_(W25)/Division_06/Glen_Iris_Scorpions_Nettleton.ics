@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Nettleton Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Nettleton Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ab9ecad9-1636-4fc9-baf2-46f63227f13e
+SEQUENCE:0
+DTSTAMP:20250716T171751
+DTSTART:20250726T161500
+DTEND:20250726T170000
+SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Nettleton vs Solway Sapphires
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Sapp
+ hires\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0e1880a0-585e-4300-bde5-e5dab92f3db6
+SEQUENCE:0
+DTSTAMP:20250716T171751
+DTSTART:20250802T170000
+DTEND:20250802T174500
+SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Nettleton vs Timberwolves Sapp
+ hires
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Sapphires\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:61317f2b-441c-4e2a-b149-2fde36822e1b
+SEQUENCE:0
+DTSTAMP:20250716T171751
+DTSTART:20250809T161500
+DTEND:20250809T170000
+SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Nettleton vs Maccabi Ducks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Duc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3f06a5ea-84cc-4643-8987-84765f8e29f9
+SEQUENCE:0
+DTSTAMP:20250716T171751
+DTSTART:20250816T161500
+DTEND:20250816T170000
+SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Nettleton vs Maccabi Celtics
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Cel
+ tics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8bf8ecd3-e56d-46e5-b72a-77cb9e2500c1
+SEQUENCE:0
+DTSTAMP:20250716T171751
+DTSTART:20250830T161500
+DTEND:20250830T170000
+SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Nettleton vs Darling Park Pira
+ nhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Darling Par
+ k Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

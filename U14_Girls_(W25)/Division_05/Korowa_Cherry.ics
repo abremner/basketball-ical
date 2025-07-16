@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Korowa Cherry Fixtures
+X-WR-CALNAME:Korowa Cherry Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ae2d2bc6-6afc-4dba-990d-c96e08176883
+SEQUENCE:0
+DTSTAMP:20250716T171749
+DTSTART:20250726T153000
+DTEND:20250726T161500
+SUMMARY:🏀 U14 Girls: Korowa Cherry vs Toorak Titans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Titans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:20f9d445-8ee4-4bc9-870c-56d2cc85e8e9
+SEQUENCE:0
+DTSTAMP:20250716T171749
+DTSTART:20250802T153000
+DTEND:20250802T161500
+SUMMARY:🏀 U14 Girls: Korowa Cherry vs Maccabi Bucks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Buc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b5810c27-a91a-4040-b5f9-28d77a815687
+SEQUENCE:0
+DTSTAMP:20250716T171749
+DTSTART:20250816T153000
+DTEND:20250816T161500
+SUMMARY:🏀 U14 Girls: Korowa Cherry vs Ashy Lightning White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+ ightning White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4211e780-c52e-4cff-96b5-be3c48e3f289
+SEQUENCE:0
+DTSTAMP:20250716T171749
+DTSTART:20250823T144500
+DTEND:20250823T153000
+SUMMARY:🏀 U14 Girls: Korowa Cherry vs Malvern Tigers Burton
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Burton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8ede2cbb-5348-45a5-bd57-b7513eddf2ae
+SEQUENCE:0
+DTSTAMP:20250716T171749
+DTSTART:20250830T144500
+DTEND:20250830T153000
+SUMMARY:🏀 U14 Girls: Korowa Cherry vs McArthur Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: McArthu
+ r Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

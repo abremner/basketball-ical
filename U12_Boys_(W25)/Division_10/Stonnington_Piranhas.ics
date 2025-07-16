@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Stonnington Piranhas Fixtures
+X-WR-CALNAME:Stonnington Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:49064738-0aa4-4542-823b-cd1c9034f8ad
+SEQUENCE:0
+DTSTAMP:20250716T171645
+DTSTART:20250726T123000
+DTEND:20250726T131500
+SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Toorak Trouble
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
+ Trouble\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a5e1c994-32c2-4c82-8c2e-3e98f2171c83
+SEQUENCE:0
+DTSTAMP:20250716T171645
+DTSTART:20250802T123000
+DTEND:20250802T131500
+SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Comets Tigers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Comets 
+ Tigers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0a7d6c38-de60-41bf-86f6-bd6d111a5d77
+SEQUENCE:0
+DTSTAMP:20250716T171645
+DTSTART:20250816T114500
+DTEND:20250816T123000
+SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Toorak Thunder
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:27d7adf1-99a1-4ca6-8a4a-69cd984366e9
+SEQUENCE:0
+DTSTAMP:20250716T171645
+DTSTART:20250823T131500
+DTEND:20250823T140000
+SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Malvern Tigers Grey
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Grey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c2665c5f-1452-49c5-9bde-54c2a3bf4fe6
+SEQUENCE:0
+DTSTAMP:20250716T171645
+DTSTART:20250830T114500
+DTEND:20250830T123000
+SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Comets Cyclones
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
+  Cyclones\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

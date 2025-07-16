@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Terriers Fixtures
+X-WR-CALNAME:Timberwolves Terriers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6e7396d4-8f19-4401-a2db-843535747b87
+SEQUENCE:0
+DTSTAMP:20250716T171730
+DTSTART:20250726T153000
+DTEND:20250726T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Terriers vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e9afe2d2-f599-4191-8352-8df7e708c5d8
+SEQUENCE:0
+DTSTAMP:20250716T171730
+DTSTART:20250802T153000
+DTEND:20250802T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Terriers vs Inkerman Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Inkerm
+ an Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e0866e28-2db6-4106-a1ed-9212294870ef
+SEQUENCE:0
+DTSTAMP:20250716T171730
+DTSTART:20250809T153000
+DTEND:20250809T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Terriers vs Malvern Tigers Blue
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:56a67918-650f-40c3-838d-9e7cd8947ce1
+SEQUENCE:0
+DTSTAMP:20250716T171730
+DTSTART:20250816T153000
+DTEND:20250816T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Terriers vs Toorak Tractors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
+  Tractors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b46562ba-6b0c-4d2b-b25f-a6b997ad7751
+SEQUENCE:0
+DTSTAMP:20250716T171730
+DTSTART:20250823T153000
+DTEND:20250823T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Terriers vs Solway Gladiators
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Gladiators\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b7bd4d9f-a811-4865-99bc-3945dc5ec922
+SEQUENCE:0
+DTSTAMP:20250716T171730
+DTSTART:20250830T153000
+DTEND:20250830T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Terriers vs Maccabi Ducks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

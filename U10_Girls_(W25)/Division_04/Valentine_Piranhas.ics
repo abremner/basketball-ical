@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Valentine Piranhas Fixtures
+X-WR-CALNAME:Valentine Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6ee794ca-ecff-4365-a21e-e17b5caebd15
+SEQUENCE:0
+DTSTAMP:20250716T171620
+DTSTART:20250726T114500
+DTEND:20250726T123000
+SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Maccabi Bucks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Buc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:27328863-6454-4eb0-8874-2bcd5171a914
+SEQUENCE:0
+DTSTAMP:20250716T171620
+DTSTART:20250802T093000
+DTEND:20250802T101500
+SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Netherlee Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Nether
+ lee Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:98144b8f-494f-4b58-b5f9-a56de92abdd6
+SEQUENCE:0
+DTSTAMP:20250716T171620
+DTSTART:20250809T093000
+DTEND:20250809T101500
+SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Maccabi Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5d573867-8238-4521-a3d1-87fe2bd94c27
+SEQUENCE:0
+DTSTAMP:20250716T171620
+DTSTART:20250816T114500
+DTEND:20250816T123000
+SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Grace Park Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Grace Park 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:09216968-60a1-4539-a164-4e91f2f66618
+SEQUENCE:0
+DTSTAMP:20250716T171620
+DTSTART:20250823T084500
+DTEND:20250823T093000
+SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Embling Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Emblin
+ g Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0ad5389c-ea65-42f1-80a1-4c1b050bcaef
+SEQUENCE:0
+DTSTAMP:20250716T171620
+DTSTART:20250830T093000
+DTEND:20250830T101500
+SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Malvern Tigers Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

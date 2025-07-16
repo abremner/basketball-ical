@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Thunder Fixtures
+X-WR-CALNAME:Toorak Thunder Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1670a356-234f-4c2b-8f18-d0c40111e8f1
+SEQUENCE:0
+DTSTAMP:20250716T171646
+DTSTART:20250726T114500
+DTEND:20250726T123000
+SUMMARY:🏀 U12 Boys: Toorak Thunder vs Comets Tigers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
+  Tigers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5b6dd19e-a165-4525-9410-dabfab0f7a81
+SEQUENCE:0
+DTSTAMP:20250716T171646
+DTSTART:20250802T114500
+DTEND:20250802T123000
+SUMMARY:🏀 U12 Boys: Toorak Thunder vs Solway Panthers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Panthers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4272fdb1-b4ae-46f2-afd6-fdfc7323c8fa
+SEQUENCE:0
+DTSTAMP:20250716T171646
+DTSTART:20250809T131500
+DTEND:20250809T140000
+SUMMARY:🏀 U12 Boys: Toorak Thunder vs Malvern Tigers Grey
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Grey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:230381b9-e0eb-4074-bcfe-31beddd19ee6
+SEQUENCE:0
+DTSTAMP:20250716T171646
+DTSTART:20250816T114500
+DTEND:20250816T123000
+SUMMARY:🏀 U12 Boys: Toorak Thunder vs Stonnington Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Stonni
+ ngton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0df53d7b-6639-4bfc-8a4b-b427b5c79ca4
+SEQUENCE:0
+DTSTAMP:20250716T171646
+DTSTART:20250823T123000
+DTEND:20250823T131500
+SUMMARY:🏀 U12 Boys: Toorak Thunder vs Comets Cyclones
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Comets 
+ Cyclones\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6f66c097-6b08-4698-9d59-8f49afa7a012
+SEQUENCE:0
+DTSTAMP:20250716T171646
+DTSTART:20250830T131500
+DTEND:20250830T140000
+SUMMARY:🏀 U12 Boys: Toorak Thunder vs Toorak Trouble
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Trouble\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

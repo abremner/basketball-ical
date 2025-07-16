@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Lauriston Storm Fixtures
+X-WR-CALNAME:Lauriston Storm Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:113634e5-3995-4d89-afd4-bd31c652c08a
+SEQUENCE:0
+DTSTAMP:20250716T171707
+DTSTART:20250726T140000
+DTEND:20250726T144500
+SUMMARY:🏀 U12 Girls: Lauriston Storm vs Timberwolves Pearls
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Timberwolve
+ s Pearls\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c75fd652-33ab-44da-91a3-97a9dce6a4a1
+SEQUENCE:0
+DTSTAMP:20250716T171707
+DTSTART:20250802T140000
+DTEND:20250802T144500
+SUMMARY:🏀 U12 Girls: Lauriston Storm vs Ashy Lightning White
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Ashy Lightn
+ ing White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:31c16c9e-5c07-44e8-bce3-1db6e9335e80
+SEQUENCE:0
+DTSTAMP:20250716T171707
+DTSTART:20250809T140000
+DTEND:20250809T144500
+SUMMARY:🏀 U12 Girls: Lauriston Storm vs Timberwolves Hurricanes
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Timberwolve
+ s Hurricanes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:94d9b29d-e23b-4638-bc99-8ea5a24f42a8
+SEQUENCE:0
+DTSTAMP:20250716T171707
+DTSTART:20250816T140000
+DTEND:20250816T144500
+SUMMARY:🏀 U12 Girls: Lauriston Storm vs Ashy Lightning Yellow
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Ashy Lightn
+ ing Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:71654fa8-c07e-406e-9bc3-a765531fff65
+SEQUENCE:0
+DTSTAMP:20250716T171707
+DTSTART:20250830T140000
+DTEND:20250830T144500
+SUMMARY:🏀 U12 Girls: Lauriston Storm vs Solway Lorikeets
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Lori
+ keets\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

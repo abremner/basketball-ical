@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Yanakie Piranhas Fixtures
+X-WR-CALNAME:Yanakie Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:fc33616d-d3d4-488b-a38a-e84b81ab0cf8
+SEQUENCE:0
+DTSTAMP:20250716T171657
+DTSTART:20250726T140000
+DTEND:20250726T144500
+SUMMARY:🏀 U12 Girls: Yanakie Piranhas vs Timberwolves Strikers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Strikers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b59e248c-0451-4cc4-8086-10d83ae72711
+SEQUENCE:0
+DTSTAMP:20250716T171657
+DTSTART:20250802T140000
+DTEND:20250802T144500
+SUMMARY:🏀 U12 Girls: Yanakie Piranhas vs Toorak TopShots
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
+  TopShots\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1db9b24c-6d4b-4b96-8588-34b3a2a2138b
+SEQUENCE:0
+DTSTAMP:20250716T171657
+DTSTART:20250809T144500
+DTEND:20250809T153000
+SUMMARY:🏀 U12 Girls: Yanakie Piranhas vs Solway Finches
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Finches\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f0136780-ea0d-415b-8f74-6f714e1fd964
+SEQUENCE:0
+DTSTAMP:20250716T171657
+DTSTART:20250816T144500
+DTEND:20250816T153000
+SUMMARY:🏀 U12 Girls: Yanakie Piranhas vs Solway Bluebirds
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Bluebirds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9da2ebcf-6324-4fbf-ad49-94182bbd2ee1
+SEQUENCE:0
+DTSTAMP:20250716T171657
+DTSTART:20250823T140000
+DTEND:20250823T144500
+SUMMARY:🏀 U12 Girls: Yanakie Piranhas vs Malvern Tigers Taylor
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Taylor\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c6d22c5d-6cc9-409f-a638-2361810db037
+SEQUENCE:0
+DTSTAMP:20250716T171657
+DTSTART:20250830T144500
+DTEND:20250830T153000
+SUMMARY:🏀 U12 Girls: Yanakie Piranhas vs Malvern Tigers Phillips
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Phillips\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

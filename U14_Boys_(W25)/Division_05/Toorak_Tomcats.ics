@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tomcats Fixtures
+X-WR-CALNAME:Toorak Tomcats Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:972968c5-ac9e-4214-8a25-66b6448a15fa
+SEQUENCE:0
+DTSTAMP:20250716T171725
+DTSTART:20250726T153000
+DTEND:20250726T161500
+SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Maccabi Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:28128638-2512-4c5f-94e7-c7f72fbe5d28
+SEQUENCE:0
+DTSTAMP:20250716T171725
+DTSTART:20250802T161500
+DTEND:20250802T170000
+SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Glen Iris Scorpions Raven
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
+ ris Scorpions Raven\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:885acf21-f164-49c8-9984-b183e19e51e0
+SEQUENCE:0
+DTSTAMP:20250716T171725
+DTSTART:20250809T140000
+DTEND:20250809T144500
+SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Comets Lightning
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
+  Lightning\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:413182d8-2af6-497e-9133-188f72e2d3e1
+SEQUENCE:0
+DTSTAMP:20250716T171725
+DTSTART:20250816T153000
+DTEND:20250816T161500
+SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Timberwolves Dragons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Dragons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a98425ad-1640-4dce-a213-b118467f7d1f
+SEQUENCE:0
+DTSTAMP:20250716T171725
+DTSTART:20250823T161500
+DTEND:20250823T170000
+SUMMARY:🏀 U14 Boys: Toorak Tomcats vs AlphaWolf Force
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: AlphaW
+ olf Force\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:957a4780-8cba-47ba-9171-b56658815fe1
+SEQUENCE:0
+DTSTAMP:20250716T171725
+DTSTART:20250830T153000
+DTEND:20250830T161500
+SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Malvern Tigers Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

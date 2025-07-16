@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Dragons Fixtures
+X-WR-CALNAME:Timberwolves Dragons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:641f35ee-9efb-4882-9fe8-1cf3db9cd941
+SEQUENCE:0
+DTSTAMP:20250716T171724
+DTSTART:20250726T140000
+DTEND:20250726T144500
+SUMMARY:🏀 U14 Boys: Timberwolves Dragons vs Comets Lightning
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
+  Lightning\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e522163f-fa66-4889-b63f-a4683e25be25
+SEQUENCE:0
+DTSTAMP:20250716T171724
+DTSTART:20250802T161500
+DTEND:20250802T170000
+SUMMARY:🏀 U14 Boys: Timberwolves Dragons vs Maccabi Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5a40459e-0d54-4bfd-849f-0814ee1ff806
+SEQUENCE:0
+DTSTAMP:20250716T171724
+DTSTART:20250809T161500
+DTEND:20250809T170000
+SUMMARY:🏀 U14 Boys: Timberwolves Dragons vs Solway Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b7973d5e-0ca7-42a6-b7ef-e6d930e64479
+SEQUENCE:0
+DTSTAMP:20250716T171724
+DTSTART:20250816T153000
+DTEND:20250816T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Dragons vs Toorak Tomcats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
+  Tomcats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:872e9697-99bf-4e58-9042-76ba00cc2312
+SEQUENCE:0
+DTSTAMP:20250716T171725
+DTSTART:20250823T161500
+DTEND:20250823T170000
+SUMMARY:🏀 U14 Boys: Timberwolves Dragons vs Malvern Tigers Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:023d76d6-d794-4ab4-9b23-0186f8a6890f
+SEQUENCE:0
+DTSTAMP:20250716T171725
+DTSTART:20250830T161500
+DTEND:20250830T170000
+SUMMARY:🏀 U14 Boys: Timberwolves Dragons vs Glen Iris Scorpions Raven
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
+ is Scorpions Raven\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

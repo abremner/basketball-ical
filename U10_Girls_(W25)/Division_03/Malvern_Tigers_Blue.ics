@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Blue Fixtures
+X-WR-CALNAME:Malvern Tigers Blue Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:75c58011-6a6d-4535-a16f-d3a2a1967ea8
+SEQUENCE:0
+DTSTAMP:20250716T171617
+DTSTART:20250726T123000
+DTEND:20250726T131500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Blue vs Malvern Tigers White
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8e803bcc-d6b6-4078-936d-e491d342db83
+SEQUENCE:0
+DTSTAMP:20250716T171617
+DTSTART:20250802T123000
+DTEND:20250802T131500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Blue vs AlphaWolf Sparks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: AlphaWolf S
+ parks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f677ab28-a15e-463d-ac3f-9132ffe0cc59
+SEQUENCE:0
+DTSTAMP:20250716T171617
+DTSTART:20250809T123000
+DTEND:20250809T131500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Blue vs Lauriston Fire
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston F
+ ire\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2c2eff20-887a-495b-a224-8b0cc7d830c5
+SEQUENCE:0
+DTSTAMP:20250716T171617
+DTSTART:20250816T123000
+DTEND:20250816T131500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Blue vs Solway Mistrals
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Mist
+ rals\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:73789e8e-4714-43b6-8b3b-bcd8480c5070
+SEQUENCE:0
+DTSTAMP:20250716T171617
+DTSTART:20250823T110000
+DTEND:20250823T114500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Blue vs Glen Iris Scorpions Ferndal
+ e
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
+ ris Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:110eeeb7-35e9-468c-9079-20db7eac9561
+SEQUENCE:0
+DTSTAMP:20250716T171617
+DTSTART:20250830T123000
+DTEND:20250830T131500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Blue vs Dairy Park Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Dairy Park 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

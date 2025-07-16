@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tractors Fixtures
+X-WR-CALNAME:Toorak Tractors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:de05919a-5ecc-4eac-b34b-9e024bfea03b
+SEQUENCE:0
+DTSTAMP:20250716T171730
+DTSTART:20250726T161500
+DTEND:20250726T170000
+SUMMARY:🏀 U14 Boys: Toorak Tractors vs Inkerman Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Inkerma
+ n Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5c42c644-2631-4cbd-bf4d-1384e87d39c5
+SEQUENCE:0
+DTSTAMP:20250716T171730
+DTSTART:20250802T161500
+DTEND:20250802T170000
+SUMMARY:🏀 U14 Boys: Toorak Tractors vs Malvern Tigers Blue
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:84e11265-6f5f-44e5-ae9c-45ccc532fda2
+SEQUENCE:0
+DTSTAMP:20250716T171730
+DTSTART:20250809T161500
+DTEND:20250809T170000
+SUMMARY:🏀 U14 Boys: Toorak Tractors vs Solway Gladiators
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Gladiators\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bd3b3cc5-535a-47a5-b73d-7c14d28c2502
+SEQUENCE:0
+DTSTAMP:20250716T171730
+DTSTART:20250816T153000
+DTEND:20250816T161500
+SUMMARY:🏀 U14 Boys: Toorak Tractors vs Timberwolves Terriers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Terriers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1607635a-e7ac-4ede-95bb-7cf15f925805
+SEQUENCE:0
+DTSTAMP:20250716T171730
+DTSTART:20250823T153000
+DTEND:20250823T161500
+SUMMARY:🏀 U14 Boys: Toorak Tractors vs Maccabi Ducks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0a0eb343-77e1-478c-835f-0a5c7a082906
+SEQUENCE:0
+DTSTAMP:20250716T171730
+DTSTART:20250830T153000
+DTEND:20250830T161500
+SUMMARY:🏀 U14 Boys: Toorak Tractors vs Inkerman Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Inkerma
+ n Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

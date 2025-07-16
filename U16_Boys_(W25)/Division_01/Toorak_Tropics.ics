@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tropics Fixtures
+X-WR-CALNAME:Toorak Tropics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:cf608181-9b59-421b-8707-d7265f94255b
+SEQUENCE:0
+DTSTAMP:20250716T171757
+DTSTART:20250726T191500
+DTEND:20250726T200000
+SUMMARY:🏀 U16 Boys: Toorak Tropics vs Timberwolves United
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves United\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e6adfbcd-0166-4483-aad7-6460b2146bab
+SEQUENCE:0
+DTSTAMP:20250716T171757
+DTSTART:20250802T191500
+DTEND:20250802T200000
+SUMMARY:🏀 U16 Boys: Toorak Tropics vs Timberwolves Hustlers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Hustlers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d4697540-eb8c-4e09-ac7e-b63e0becdbf7
+SEQUENCE:0
+DTSTAMP:20250716T171757
+DTSTART:20250816T183000
+DTEND:20250816T191500
+SUMMARY:🏀 U16 Boys: Toorak Tropics vs Solway Rockets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Rockets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:51d1b3d0-2e9c-4880-9693-06f1266fc848
+SEQUENCE:0
+DTSTAMP:20250716T171757
+DTSTART:20250823T191500
+DTEND:20250823T200000
+SUMMARY:🏀 U16 Boys: Toorak Tropics vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f8a681f3-acc6-427d-8505-628bc28e5199
+SEQUENCE:0
+DTSTAMP:20250716T171757
+DTSTART:20250830T191500
+DTEND:20250830T200000
+SUMMARY:🏀 U16 Boys: Toorak Tropics vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

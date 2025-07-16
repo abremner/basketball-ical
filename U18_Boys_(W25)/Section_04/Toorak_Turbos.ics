@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Turbos Fixtures
+X-WR-CALNAME:Toorak Turbos Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:45040ebb-7187-4ff1-80a9-f3e578d914e2
+SEQUENCE:0
+DTSTAMP:20250716T171836
+DTSTART:20250803T181500
+DTEND:20250803T190000
+SUMMARY:🏀 U18 Boys: Toorak Turbos vs Comets Storm
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
+  Storm\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:10202d62-38dd-4b85-b8c4-0b85e5f3f37a
+SEQUENCE:0
+DTSTAMP:20250716T171836
+DTSTART:20250810T181500
+DTEND:20250810T190000
+SUMMARY:🏀 U18 Boys: Toorak Turbos vs Timberwolves Knights
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Knights\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e0b6b8ed-51c0-4714-b46f-ed0f77a068f8
+SEQUENCE:0
+DTSTAMP:20250716T171836
+DTSTART:20250817T181500
+DTEND:20250817T190000
+SUMMARY:🏀 U18 Boys: Toorak Turbos vs Timberwolves Stars
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Stars\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dd22fa92-6305-450c-b2c5-1e4ece7c5bbe
+SEQUENCE:0
+DTSTAMP:20250716T171836
+DTSTART:20250824T181500
+DTEND:20250824T190000
+SUMMARY:🏀 U18 Boys: Toorak Turbos vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1fd1836f-6286-472e-aa95-1eef762821af
+SEQUENCE:0
+DTSTAMP:20250716T171836
+DTSTART:20250831T181500
+DTEND:20250831T190000
+SUMMARY:🏀 U18 Boys: Toorak Turbos vs Golden Hawks Sky
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Golden
+  Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

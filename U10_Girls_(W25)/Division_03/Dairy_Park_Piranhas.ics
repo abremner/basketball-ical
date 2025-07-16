@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Dairy Park Piranhas Fixtures
+X-WR-CALNAME:Dairy Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2743cca9-61d8-4c7b-b1d8-aec79192285c
+SEQUENCE:0
+DTSTAMP:20250716T171616
+DTSTART:20250802T123000
+DTEND:20250802T131500
+SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Malvern Tigers White
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b62fa555-e9dd-41f9-81a7-0fcaeb6da261
+SEQUENCE:0
+DTSTAMP:20250716T171616
+DTSTART:20250809T110000
+DTEND:20250809T114500
+SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Solway Mistrals
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Mistrals\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:68374d6d-5e5d-4f6a-8811-0bb740157171
+SEQUENCE:0
+DTSTAMP:20250716T171616
+DTSTART:20250816T123000
+DTEND:20250816T131500
+SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs AlphaWolf Sparks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: AlphaWolf S
+ parks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5b945d3b-617a-428f-b98d-526fa838848e
+SEQUENCE:0
+DTSTAMP:20250716T171616
+DTSTART:20250823T123000
+DTEND:20250823T131500
+SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Lauriston Fire
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston F
+ ire\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7bab8c81-b7bd-4bec-9784-8e22e34c86c3
+SEQUENCE:0
+DTSTAMP:20250716T171616
+DTSTART:20250830T123000
+DTEND:20250830T131500
+SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Malvern Tigers Blue
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

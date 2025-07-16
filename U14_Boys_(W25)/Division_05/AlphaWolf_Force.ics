@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Force Fixtures
+X-WR-CALNAME:AlphaWolf Force Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:fbdf4803-0fa9-4e04-9a5a-833aba2ff059
+SEQUENCE:0
+DTSTAMP:20250716T171722
+DTSTART:20250726T161500
+DTEND:20250726T170000
+SUMMARY:🏀 U14 Boys: AlphaWolf Force vs Malvern Tigers Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:06a87baf-cbbb-42dd-a4fc-70c2973c83ad
+SEQUENCE:0
+DTSTAMP:20250716T171722
+DTSTART:20250802T153000
+DTEND:20250802T161500
+SUMMARY:🏀 U14 Boys: AlphaWolf Force vs Solway Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:77912cbd-dd35-4484-8c1f-e1bed4522c53
+SEQUENCE:0
+DTSTAMP:20250716T171722
+DTSTART:20250809T153000
+DTEND:20250809T161500
+SUMMARY:🏀 U14 Boys: AlphaWolf Force vs Glen Iris Scorpions Raven
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
+ ris Scorpions Raven\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b27dabbb-d22a-4884-8052-8a8303a3935d
+SEQUENCE:0
+DTSTAMP:20250716T171722
+DTSTART:20250816T161500
+DTEND:20250816T170000
+SUMMARY:🏀 U14 Boys: AlphaWolf Force vs Maccabi Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:be8579dc-cdfb-44fa-b6d2-950b159fe0b5
+SEQUENCE:0
+DTSTAMP:20250716T171722
+DTSTART:20250823T161500
+DTEND:20250823T170000
+SUMMARY:🏀 U14 Boys: AlphaWolf Force vs Toorak Tomcats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
+  Tomcats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e6794234-0ef7-4c42-8133-bf288c61093d
+SEQUENCE:0
+DTSTAMP:20250716T171722
+DTSTART:20250830T140000
+DTEND:20250830T144500
+SUMMARY:🏀 U14 Boys: AlphaWolf Force vs Comets Lightning
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
+  Lightning\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Saints Fixtures
+X-WR-CALNAME:Solway Saints Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a06cd5d9-4c62-4517-861c-6fcc36dd140e
+SEQUENCE:0
+DTSTAMP:20250716T171849
+DTSTART:20250722T200000
+DTEND:20250722T204500
+SUMMARY:🏀 U21 Womens: Solway Saints vs Solway Dream
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Dream\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1b6aff91-813f-4e65-a963-daaa4d33098a
+SEQUENCE:0
+DTSTAMP:20250716T171849
+DTSTART:20250729T200000
+DTEND:20250729T204500
+SUMMARY:🏀 U21 Womens: Solway Saints vs Malvern Tigers George
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers George\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9e46de3d-4c93-48f8-85de-0c3a046045e6
+SEQUENCE:0
+DTSTAMP:20250716T171849
+DTSTART:20250805T200000
+DTEND:20250805T204500
+SUMMARY:🏀 U21 Womens: Solway Saints vs Glen Iris Scorpions Sixers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
+ ris Scorpions Sixers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1ab2d0e0-2e3f-45bc-b71a-57669a8e70fa
+SEQUENCE:0
+DTSTAMP:20250716T171849
+DTSTART:20250812T200000
+DTEND:20250812T204500
+SUMMARY:🏀 U21 Womens: Solway Saints vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:56274d7c-fb86-46e1-ade0-ddf1f6666dfb
+SEQUENCE:0
+DTSTAMP:20250716T171849
+DTSTART:20250819T200000
+DTEND:20250819T204500
+SUMMARY:🏀 U21 Womens: Solway Saints vs Solway Galaxy
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Galaxy\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:09dd5cad-990a-475a-a331-2bb21fad6c5e
+SEQUENCE:0
+DTSTAMP:20250716T171849
+DTSTART:20250826T200000
+DTEND:20250826T204500
+SUMMARY:🏀 U21 Womens: Solway Saints vs Solway Dream
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Dream\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

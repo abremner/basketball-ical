@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Black Fixtures
+X-WR-CALNAME:Malvern Tigers Black Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b0b0bcd6-975b-40cb-ba7b-b4441f79d495
+SEQUENCE:0
+DTSTAMP:20250716T171828
+DTSTART:20250727T181500
+DTEND:20250727T190000
+SUMMARY:🏀 U18 Boys: Malvern Tigers Black vs Solway Taipans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Taipans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cb353bf4-c906-44a5-bf03-e961e48772c5
+SEQUENCE:0
+DTSTAMP:20250716T171828
+DTSTART:20250803T190000
+DTEND:20250803T194500
+SUMMARY:🏀 U18 Boys: Malvern Tigers Black vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c0e03417-bcb6-405e-8c3e-127e9ac3fcd2
+SEQUENCE:0
+DTSTAMP:20250716T171828
+DTSTART:20250810T173000
+DTEND:20250810T181500
+SUMMARY:🏀 U18 Boys: Malvern Tigers Black vs Southside Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Souths
+ ide Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7e7ba3cc-55fa-41e4-895c-d12ddc2dba0a
+SEQUENCE:0
+DTSTAMP:20250716T171828
+DTSTART:20250817T181500
+DTEND:20250817T190000
+SUMMARY:🏀 U18 Boys: Malvern Tigers Black vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:50871529-7d78-459a-a884-11f86e2e5d40
+SEQUENCE:0
+DTSTAMP:20250716T171828
+DTSTART:20250824T190000
+DTEND:20250824T194500
+SUMMARY:🏀 U18 Boys: Malvern Tigers Black vs Hazelwood Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Hazelw
+ ood Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:69d04b43-1cee-4420-bc81-a0efa5452550
+SEQUENCE:0
+DTSTAMP:20250716T171828
+DTSTART:20250831T173000
+DTEND:20250831T181500
+SUMMARY:🏀 U18 Boys: Malvern Tigers Black vs Solway Taipans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Taipans\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

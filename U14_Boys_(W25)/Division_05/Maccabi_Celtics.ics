@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ed30cb2f-da41-472f-9a6b-335eda4ada20
+SEQUENCE:0
+DTSTAMP:20250716T171723
+DTSTART:20250726T153000
+DTEND:20250726T161500
+SUMMARY:🏀 U14 Boys: Maccabi Celtics vs Toorak Tomcats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
+  Tomcats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa28c46-bea5-45bd-b076-a70936d87e5d
+SEQUENCE:0
+DTSTAMP:20250716T171723
+DTSTART:20250802T161500
+DTEND:20250802T170000
+SUMMARY:🏀 U14 Boys: Maccabi Celtics vs Timberwolves Dragons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Dragons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:da941a23-b753-4b95-9d85-2d21370e0919
+SEQUENCE:0
+DTSTAMP:20250716T171723
+DTSTART:20250809T161500
+DTEND:20250809T170000
+SUMMARY:🏀 U14 Boys: Maccabi Celtics vs Malvern Tigers Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:103afc6a-a647-476e-883c-c4bae6df1a2d
+SEQUENCE:0
+DTSTAMP:20250716T171723
+DTSTART:20250816T161500
+DTEND:20250816T170000
+SUMMARY:🏀 U14 Boys: Maccabi Celtics vs AlphaWolf Force
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: AlphaW
+ olf Force\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e3f6c457-bc20-4653-be56-0464f3d76b11
+SEQUENCE:0
+DTSTAMP:20250716T171723
+DTSTART:20250823T153000
+DTEND:20250823T161500
+SUMMARY:🏀 U14 Boys: Maccabi Celtics vs Glen Iris Scorpions Raven
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
+ ris Scorpions Raven\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:15dbe9a9-b221-479f-ba7c-d91128aae781
+SEQUENCE:0
+DTSTAMP:20250716T171723
+DTSTART:20250830T161500
+DTEND:20250830T170000
+SUMMARY:🏀 U14 Boys: Maccabi Celtics vs Solway Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

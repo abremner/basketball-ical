@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Magnum Fixtures
+X-WR-CALNAME:Timberwolves Magnum Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2e1678c1-845b-4e86-a69b-b7a506267050
+SEQUENCE:0
+DTSTAMP:20250716T171806
+DTSTART:20250726T183000
+DTEND:20250726T191500
+SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs Ripponlea Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ripponl
+ ea Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:87a7495b-a818-4c18-b8bc-77f186f54d91
+SEQUENCE:0
+DTSTAMP:20250716T171806
+DTSTART:20250802T191500
+DTEND:20250802T200000
+SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs Serrell Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Serrell
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:60be9356-0801-4a1f-afce-0e8e14218ca4
+SEQUENCE:0
+DTSTAMP:20250716T171806
+DTSTART:20250809T191500
+DTEND:20250809T200000
+SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs Toorak Tornadoes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Tornadoes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:13bc0465-1b81-4332-a366-872b98cc1a35
+SEQUENCE:0
+DTSTAMP:20250716T171806
+DTSTART:20250816T183000
+DTEND:20250816T191500
+SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs Timberwolves Boulders
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Boulders\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5edec06e-4bf2-4e9e-8933-a5b20d0d319e
+SEQUENCE:0
+DTSTAMP:20250716T171806
+DTSTART:20250823T183000
+DTEND:20250823T191500
+SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs Toorak Terminators
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Terminators\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f06071ee-500c-4a89-8104-1197672b6db2
+SEQUENCE:0
+DTSTAMP:20250716T171806
+DTSTART:20250830T191500
+DTEND:20250830T200000
+SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs Maccabi Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

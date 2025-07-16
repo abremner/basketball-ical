@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Pistols Fixtures
+X-WR-CALNAME:Timberwolves Pistols Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:745e418d-671b-4153-bae2-67cec7445a42
+SEQUENCE:0
+DTSTAMP:20250716T171545
+DTSTART:20250726T114500
+DTEND:20250726T123000
+SUMMARY:🏀 U10 Boys: Timberwolves Pistols vs AlphaWolf Dragons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
+ lf Dragons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:92047d70-d644-4e93-9ce7-f156d54ab498
+SEQUENCE:0
+DTSTAMP:20250716T171545
+DTSTART:20250802T114500
+DTEND:20250802T123000
+SUMMARY:🏀 U10 Boys: Timberwolves Pistols vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8e0e685f-8434-405f-ae30-9bd9b11140c8
+SEQUENCE:0
+DTSTAMP:20250716T171545
+DTSTART:20250809T114500
+DTEND:20250809T123000
+SUMMARY:🏀 U10 Boys: Timberwolves Pistols vs Toorak Tigercats
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Tigercats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:adb96300-3e70-47a1-8633-2fb7438c8c1b
+SEQUENCE:0
+DTSTAMP:20250716T171545
+DTSTART:20250816T114500
+DTEND:20250816T123000
+SUMMARY:🏀 U10 Boys: Timberwolves Pistols vs Solway Boomers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Boomers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:79110e3b-567c-418f-96e4-41b036b2baaa
+SEQUENCE:0
+DTSTAMP:20250716T171545
+DTSTART:20250823T114500
+DTEND:20250823T123000
+SUMMARY:🏀 U10 Boys: Timberwolves Pistols vs Timberwolves Crusaders
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Crusaders\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f8cb3e3e-9f94-43fb-b5a2-fca9b1d4fc70
+SEQUENCE:0
+DTSTAMP:20250716T171545
+DTSTART:20250830T114500
+DTEND:20250830T123000
+SUMMARY:🏀 U10 Boys: Timberwolves Pistols vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tarantulas Fixtures
+X-WR-CALNAME:Toorak Tarantulas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2c15cd8e-894d-4878-affa-ff71789b6abc
+SEQUENCE:0
+DTSTAMP:20250716T171632
+DTSTART:20250726T140000
+DTEND:20250726T144500
+SUMMARY:🏀 U12 Boys: Toorak Tarantulas vs Timberwolves Colts
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Colts\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:64f5ddea-f79b-4158-b929-cbe8d87fda65
+SEQUENCE:0
+DTSTAMP:20250716T171632
+DTSTART:20250802T140000
+DTEND:20250802T144500
+SUMMARY:🏀 U12 Boys: Toorak Tarantulas vs Maccabi Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:72d1daed-d467-4437-91d6-788fe077af06
+SEQUENCE:0
+DTSTAMP:20250716T171632
+DTSTART:20250809T140000
+DTEND:20250809T144500
+SUMMARY:🏀 U12 Boys: Toorak Tarantulas vs AlphaWolf Legends
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: AlphaWo
+ lf Legends\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f1ff3eef-f815-477c-8be7-ec423b081b5e
+SEQUENCE:0
+DTSTAMP:20250716T171632
+DTSTART:20250816T140000
+DTEND:20250816T144500
+SUMMARY:🏀 U12 Boys: Toorak Tarantulas vs Solway Cubs
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Cubs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8480975b-7190-4a48-bb56-38935c4bde6a
+SEQUENCE:0
+DTSTAMP:20250716T171632
+DTSTART:20250823T140000
+DTEND:20250823T144500
+SUMMARY:🏀 U12 Boys: Toorak Tarantulas vs Malvern Tigers White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d0448a79-d02a-4e1d-b5ce-1bd855d73f97
+SEQUENCE:0
+DTSTAMP:20250716T171632
+DTSTART:20250830T144500
+DTEND:20250830T153000
+SUMMARY:🏀 U12 Boys: Toorak Tarantulas vs Timberwolves Colts
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Colts\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

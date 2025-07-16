@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Slammers Fixtures
+X-WR-CALNAME:Solway Slammers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f73ee1c2-c26e-456b-aa9c-d77bfc14e43c
+SEQUENCE:0
+DTSTAMP:20250716T171802
+DTSTART:20250726T183000
+DTEND:20250726T191500
+SUMMARY:🏀 U16 Boys: Solway Slammers vs Timberwolves Taipans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+ wolves Taipans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2c3db927-a452-4e1c-afda-f78b94fd4510
+SEQUENCE:0
+DTSTAMP:20250716T171802
+DTSTART:20250802T191500
+DTEND:20250802T200000
+SUMMARY:🏀 U16 Boys: Solway Slammers vs Timberwolves Cats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Cats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7d130429-09ff-4a5a-ad6a-7a185d7124af
+SEQUENCE:0
+DTSTAMP:20250716T171802
+DTSTART:20250809T174500
+DTEND:20250809T183000
+SUMMARY:🏀 U16 Boys: Solway Slammers vs Glen Iris Scorpions Saints
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
+ ris Scorpions Saints\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d8d0f77e-6f9e-4d0d-8335-494e2617ab3a
+SEQUENCE:0
+DTSTAMP:20250716T171802
+DTSTART:20250816T174500
+DTEND:20250816T183000
+SUMMARY:🏀 U16 Boys: Solway Slammers vs Solway Blazers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Blazers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2cfa87b0-d202-481f-afba-3acfbf6501ec
+SEQUENCE:0
+DTSTAMP:20250716T171802
+DTSTART:20250823T183000
+DTEND:20250823T191500
+SUMMARY:🏀 U16 Boys: Solway Slammers vs Toorak Trackers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Trackers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:52a5393f-8da9-45bf-8cef-ca00615f05f8
+SEQUENCE:0
+DTSTAMP:20250716T171802
+DTSTART:20250830T174500
+DTEND:20250830T183000
+SUMMARY:🏀 U16 Boys: Solway Slammers vs Solway Pistons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Pistons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

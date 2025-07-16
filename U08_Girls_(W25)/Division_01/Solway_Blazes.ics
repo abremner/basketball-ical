@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Blazes Fixtures
+X-WR-CALNAME:Solway Blazes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:fa76bed4-55da-47d5-9ab4-c6059178634d
+SEQUENCE:0
+DTSTAMP:20250716T171535
+DTSTART:20250726T101500
+DTEND:20250726T110000
+SUMMARY:🏀 U08 Girls: Solway Blazes vs Solway Fire
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Fire\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e5d11c34-d74d-44e8-87a5-7bdb99065858
+SEQUENCE:0
+DTSTAMP:20250716T171535
+DTSTART:20250802T080000
+DTEND:20250802T084500
+SUMMARY:🏀 U08 Girls: Solway Blazes vs Timberwolves Diamonds
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Diamonds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:774dcfc5-53c6-4928-958f-f9b88b5b68db
+SEQUENCE:0
+DTSTAMP:20250716T171535
+DTSTART:20250809T101500
+DTEND:20250809T110000
+SUMMARY:🏀 U08 Girls: Solway Blazes vs Ashy Lightning Gold
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
+ ghtning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c477802a-14b7-43b5-ab44-7ed01d6dc9bd
+SEQUENCE:0
+DTSTAMP:20250716T171535
+DTSTART:20250816T101500
+DTEND:20250816T110000
+SUMMARY:🏀 U08 Girls: Solway Blazes vs Solway Fire
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Fire\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:518e10ec-2673-4290-936b-e78914dd9c84
+SEQUENCE:0
+DTSTAMP:20250716T171535
+DTSTART:20250823T080000
+DTEND:20250823T084500
+SUMMARY:🏀 U08 Girls: Solway Blazes vs Timberwolves Diamonds
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Diamonds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:63b2d0a0-e4b8-43a6-a0e7-6b8d42fcf0a8
+SEQUENCE:0
+DTSTAMP:20250716T171535
+DTSTART:20250830T101500
+DTEND:20250830T110000
+SUMMARY:🏀 U08 Girls: Solway Blazes vs Ashy Lightning Gold
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
+ ghtning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

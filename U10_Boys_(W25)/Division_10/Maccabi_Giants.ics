@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Giants Fixtures
+X-WR-CALNAME:Maccabi Giants Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:95793bd8-932a-417c-9b2f-186886f90774
+SEQUENCE:0
+DTSTAMP:20250716T171606
+DTSTART:20250726T093000
+DTEND:20250726T101500
+SUMMARY:🏀 U10 Boys: Maccabi Giants vs Malvern Tigers Grey
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Grey\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a7ba7184-df5f-47f9-825d-03b70faa9f9b
+SEQUENCE:0
+DTSTAMP:20250716T171606
+DTSTART:20250802T093000
+DTEND:20250802T101500
+SUMMARY:🏀 U10 Boys: Maccabi Giants vs Malvern Tigers Maroon
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Maroon\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:09812ef9-6e69-4eb1-8ecf-dc78285a4539
+SEQUENCE:0
+DTSTAMP:20250716T171606
+DTSTART:20250816T080000
+DTEND:20250816T084500
+SUMMARY:🏀 U10 Boys: Maccabi Giants vs AlphaWolf Kings
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AlphaW
+ olf Kings\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:00003207-cda0-462b-ab5b-50b0e42ce5ea
+SEQUENCE:0
+DTSTAMP:20250716T171606
+DTSTART:20250823T093000
+DTEND:20250823T101500
+SUMMARY:🏀 U10 Boys: Maccabi Giants vs Malvern Tigers Lime
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Lime\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cc52ed02-e646-4f40-94c7-b8c4bcd021d2
+SEQUENCE:0
+DTSTAMP:20250716T171606
+DTSTART:20250830T093000
+DTEND:20250830T101500
+SUMMARY:🏀 U10 Boys: Maccabi Giants vs Malvern Tigers Grey
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Grey\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

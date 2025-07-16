@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tigersnakes Fixtures
+X-WR-CALNAME:Toorak Tigersnakes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:fce0c394-44ff-47c7-99e4-2f9eef726160
+SEQUENCE:0
+DTSTAMP:20250716T171634
+DTSTART:20250726T140000
+DTEND:20250726T144500
+SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Toorak Torchers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
+ Torchers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7f093319-4172-48ed-8076-0a07dbd83003
+SEQUENCE:0
+DTSTAMP:20250716T171634
+DTSTART:20250809T131500
+DTEND:20250809T140000
+SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Malvern Tigers Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:94b8ac4d-3550-42b7-b0e3-d12f6317ae6e
+SEQUENCE:0
+DTSTAMP:20250716T171634
+DTSTART:20250816T131500
+DTEND:20250816T140000
+SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Timberwolves Heat
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Heat\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9d7a631b-a2ab-4bb3-b3e1-24baa832d377
+SEQUENCE:0
+DTSTAMP:20250716T171634
+DTSTART:20250823T140000
+DTEND:20250823T144500
+SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Solway Lions
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Lions\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:afde5a9d-a3ab-4140-9148-cfedf3cd01e3
+SEQUENCE:0
+DTSTAMP:20250716T171634
+DTSTART:20250830T140000
+DTEND:20250830T144500
+SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Toorak Torchers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
+ Torchers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

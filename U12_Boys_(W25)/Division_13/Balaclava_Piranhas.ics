@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Balaclava Piranhas Fixtures
+X-WR-CALNAME:Balaclava Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:59d1b99c-1a5d-40b1-8967-0c18e84ca72f
+SEQUENCE:0
+DTSTAMP:20250716T171652
+DTSTART:20250726T114500
+DTEND:20250726T123000
+SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Timberwolves Cavs
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Cavs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9c11d3bb-8f6c-4df6-b816-e429768b8e83
+SEQUENCE:0
+DTSTAMP:20250716T171652
+DTSTART:20250802T123000
+DTEND:20250802T131500
+SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Malvern Tigers Aqua
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Aqua\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8dbb0a95-40c9-4f2f-ad4c-4a9c1714d373
+SEQUENCE:0
+DTSTAMP:20250716T171652
+DTSTART:20250809T123000
+DTEND:20250809T131500
+SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Golden Hawks Blaze
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Golden Hawks Blaze\nArrive 15
+  mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9a25d146-0dfe-4862-9588-759d657d12e1
+SEQUENCE:0
+DTSTAMP:20250716T171652
+DTSTART:20250816T114500
+DTEND:20250816T123000
+SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Maccabi Jaguars
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Jaguars\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7c478a6d-37f4-4b68-a5ec-135de5cec5da
+SEQUENCE:0
+DTSTAMP:20250716T171652
+DTSTART:20250823T144500
+DTEND:20250823T153000
+SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Wilson Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Wilson 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c974a333-c23f-4484-a5e4-84bfc4e2216c
+SEQUENCE:0
+DTSTAMP:20250716T171652
+DTSTART:20250830T114500
+DTEND:20250830T123000
+SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Timberwolves Cavs
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Cavs\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

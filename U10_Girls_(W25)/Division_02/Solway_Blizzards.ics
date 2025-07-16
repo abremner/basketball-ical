@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Blizzards Fixtures
+X-WR-CALNAME:Solway Blizzards Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2b18b366-687f-414b-a654-9540d4f25dc5
+SEQUENCE:0
+DTSTAMP:20250716T171614
+DTSTART:20250726T101500
+DTEND:20250726T110000
+SUMMARY:🏀 U10 Girls: Solway Blizzards vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9380e3f6-e639-4349-a6e3-9929d69ab2c9
+SEQUENCE:0
+DTSTAMP:20250716T171614
+DTSTART:20250802T101500
+DTEND:20250802T110000
+SUMMARY:🏀 U10 Girls: Solway Blizzards vs Timberwolves Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6aabb0fd-6acc-4a29-b4ec-49e49b67f43d
+SEQUENCE:0
+DTSTAMP:20250716T171614
+DTSTART:20250809T101500
+DTEND:20250809T110000
+SUMMARY:🏀 U10 Girls: Solway Blizzards vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:db8a4090-f698-405e-9625-b5d0d1062ed8
+SEQUENCE:0
+DTSTAMP:20250716T171614
+DTSTART:20250823T101500
+DTEND:20250823T110000
+SUMMARY:🏀 U10 Girls: Solway Blizzards vs Halley Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Halley
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:74aaafa3-ec4c-45c1-be5a-7537d687d655
+SEQUENCE:0
+DTSTAMP:20250716T171614
+DTSTART:20250830T101500
+DTEND:20250830T110000
+SUMMARY:🏀 U10 Girls: Solway Blizzards vs Solway Tornadoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Tornadoes\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

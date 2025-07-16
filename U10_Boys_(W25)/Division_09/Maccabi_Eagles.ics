@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Eagles Fixtures
+X-WR-CALNAME:Maccabi Eagles Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5a22349a-7eca-49e6-a744-43d734f4402e
+SEQUENCE:0
+DTSTAMP:20250716T171604
+DTSTART:20250726T080000
+DTEND:20250726T084500
+SUMMARY:🏀 U10 Boys: Maccabi Eagles vs Maccabi Hawks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f96f5550-7358-47b9-b082-5a855976ac59
+SEQUENCE:0
+DTSTAMP:20250716T171604
+DTSTART:20250802T101500
+DTEND:20250802T110000
+SUMMARY:🏀 U10 Boys: Maccabi Eagles vs Golden Hawks Iron
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Golden Hawks Iron\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4fc93f3a-2889-4ef1-b3ae-c9d904332660
+SEQUENCE:0
+DTSTAMP:20250716T171604
+DTSTART:20250809T080000
+DTEND:20250809T084500
+SUMMARY:🏀 U10 Boys: Maccabi Eagles vs Toorak Thrashers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Thrashers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d44c63ac-9025-4d8c-8b1e-7ade913dc709
+SEQUENCE:0
+DTSTAMP:20250716T171604
+DTSTART:20250816T093000
+DTEND:20250816T101500
+SUMMARY:🏀 U10 Boys: Maccabi Eagles vs Glen Iris Scorpions Summerhill
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
+ ris Scorpions Summerhill\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:81c72cb6-9d46-49cd-9222-179b055840ad
+SEQUENCE:0
+DTSTAMP:20250716T171604
+DTSTART:20250823T101500
+DTEND:20250823T110000
+SUMMARY:🏀 U10 Boys: Maccabi Eagles vs Solway Nets
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Nets\nArrive 15 mins e
+ arly for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2134661e-f1f7-47ab-8f15-c4e7e20aa898
+SEQUENCE:0
+DTSTAMP:20250716T171604
+DTSTART:20250830T080000
+DTEND:20250830T084500
+SUMMARY:🏀 U10 Boys: Maccabi Eagles vs Maccabi Hawks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

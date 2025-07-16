@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Sixers Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Sixers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7b38e7b7-b7ad-423d-87bd-bb25b372341e
+SEQUENCE:0
+DTSTAMP:20250716T171818
+DTSTART:20250722T174500
+DTEND:20250722T183000
+SUMMARY:🏀 U16 Girls: Glen Iris Scorpions Sixers vs Solway Fever
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Fever\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9e783f6f-9f62-4531-b17a-396be5acd311
+SEQUENCE:0
+DTSTAMP:20250716T171818
+DTSTART:20250805T174500
+DTEND:20250805T183000
+SUMMARY:🏀 U16 Girls: Glen Iris Scorpions Sixers vs Timberwolves Rockets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Rockets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a8c257e5-ac52-443a-813a-8054139ff052
+SEQUENCE:0
+DTSTAMP:20250716T171818
+DTSTART:20250812T183000
+DTEND:20250812T191500
+SUMMARY:🏀 U16 Girls: Glen Iris Scorpions Sixers vs Finch Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Finch 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:37d04efb-7844-40ba-97f8-a9a60b8c8e54
+SEQUENCE:0
+DTSTAMP:20250716T171818
+DTSTART:20250819T183000
+DTEND:20250819T191500
+SUMMARY:🏀 U16 Girls: Glen Iris Scorpions Sixers vs Malvern Tigers Rocci
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Rocci\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a82a7f66-4cb1-4b94-aaff-61dfd0fa081d
+SEQUENCE:0
+DTSTAMP:20250716T171818
+DTSTART:20250826T174500
+DTEND:20250826T183000
+SUMMARY:🏀 U16 Girls: Glen Iris Scorpions Sixers vs Solway Marvels
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Marvels\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

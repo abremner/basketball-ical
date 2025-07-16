@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Warriors Fixtures
+X-WR-CALNAME:Maccabi Warriors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:069565cc-b575-40d1-b744-c10b9864f8e1
+SEQUENCE:0
+DTSTAMP:20250716T171544
+DTSTART:20250726T114500
+DTEND:20250726T123000
+SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d35d620c-91ad-4829-a449-0594019bebd9
+SEQUENCE:0
+DTSTAMP:20250716T171544
+DTSTART:20250802T114500
+DTEND:20250802T123000
+SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Timberwolves Pistols
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Pistols\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6c7bf4b8-fd0f-436f-a163-18a4debe6fdd
+SEQUENCE:0
+DTSTAMP:20250716T171544
+DTSTART:20250809T110000
+DTEND:20250809T114500
+SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9168f420-bcc1-43d3-86cd-a32539dcfa3e
+SEQUENCE:0
+DTSTAMP:20250716T171544
+DTSTART:20250816T123000
+DTEND:20250816T131500
+SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Toorak Tigercats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
+  Tigercats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b7f60a8f-3172-4e98-a753-f78094a2a950
+SEQUENCE:0
+DTSTAMP:20250716T171544
+DTSTART:20250823T110000
+DTEND:20250823T114500
+SUMMARY:🏀 U10 Boys: Maccabi Warriors vs AlphaWolf Dragons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AlphaW
+ olf Dragons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:720810d0-c437-4892-982b-2a4d0a69c0e5
+SEQUENCE:0
+DTSTAMP:20250716T171544
+DTSTART:20250830T123000
+DTEND:20250830T131500
+SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Solway Boomers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Boomers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

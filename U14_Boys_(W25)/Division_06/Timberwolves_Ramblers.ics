@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Ramblers Fixtures
+X-WR-CALNAME:Timberwolves Ramblers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a6c84826-3be6-4945-af4a-90ffc6ded65f
+SEQUENCE:0
+DTSTAMP:20250716T171727
+DTSTART:20250726T170000
+DTEND:20250726T174500
+SUMMARY:🏀 U14 Boys: Timberwolves Ramblers vs Ashy Lightning Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
+ ghtning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c13f0078-cb14-4a9d-8368-cbf5ad4a4f2c
+SEQUENCE:0
+DTSTAMP:20250716T171727
+DTSTART:20250802T161500
+DTEND:20250802T170000
+SUMMARY:🏀 U14 Boys: Timberwolves Ramblers vs Solway Vikings
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Vikings\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:115731c2-ee86-4897-ad03-ed4893d857ae
+SEQUENCE:0
+DTSTAMP:20250716T171727
+DTSTART:20250809T170000
+DTEND:20250809T174500
+SUMMARY:🏀 U14 Boys: Timberwolves Ramblers vs Malvern Tigers Orange
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:51980fd9-c8e0-4b92-8e50-05ecbb008c39
+SEQUENCE:0
+DTSTAMP:20250716T171727
+DTSTART:20250816T153000
+DTEND:20250816T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Ramblers vs Timberwolves Stones
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Stones\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2bad39cf-cf49-41d4-8328-41a811555774
+SEQUENCE:0
+DTSTAMP:20250716T171727
+DTSTART:20250823T161500
+DTEND:20250823T170000
+SUMMARY:🏀 U14 Boys: Timberwolves Ramblers vs AlphaWolf Conquerors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AlphaW
+ olf Conquerors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0ee8ad68-0232-46bc-9ef9-77c308e21b44
+SEQUENCE:0
+DTSTAMP:20250716T171727
+DTSTART:20250830T170000
+DTEND:20250830T174500
+SUMMARY:🏀 U14 Boys: Timberwolves Ramblers vs Ashy Lightning Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
+ ghtning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

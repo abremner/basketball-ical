@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:345ee1aa-4b52-405f-99a0-a70ae5d66612
+SEQUENCE:0
+DTSTAMP:20250716T171629
+DTSTART:20250726T140000
+DTEND:20250726T144500
+SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Yarra Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Yarra P
+ ark Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9e975b19-b8b6-4c73-986b-b762a77891d2
+SEQUENCE:0
+DTSTAMP:20250716T171629
+DTSTART:20250802T140000
+DTEND:20250802T144500
+SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Golden Hawks Sky
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Golden 
+ Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4f309737-4b70-4233-b5db-e1e2fdb8adcd
+SEQUENCE:0
+DTSTAMP:20250716T171629
+DTSTART:20250809T144500
+DTEND:20250809T153000
+SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Windsor Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Windso
+ r Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:214248c6-3b81-4fb4-b229-cf774b69256a
+SEQUENCE:0
+DTSTAMP:20250716T171629
+DTSTART:20250816T144500
+DTEND:20250816T153000
+SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Alma Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Alma P
+ ark Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:df6e1826-9e77-4e95-b6c8-15f5b3a6bf26
+SEQUENCE:0
+DTSTAMP:20250716T171629
+DTSTART:20250823T140000
+DTEND:20250823T144500
+SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Malvern Tigers Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:870483a0-1d19-4470-8e86-b5aaf75ebe05
+SEQUENCE:0
+DTSTAMP:20250716T171629
+DTSTART:20250830T144500
+DTEND:20250830T153000
+SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Yarra Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Yarra P
+ ark Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

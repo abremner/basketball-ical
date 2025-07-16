@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Thrashers Fixtures
+X-WR-CALNAME:Toorak Thrashers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:174d4274-15e4-4ec3-9686-214ae4bfea25
+SEQUENCE:0
+DTSTAMP:20250716T171605
+DTSTART:20250726T101500
+DTEND:20250726T110000
+SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Golden Hawks Iron
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Golden Hawks Iron\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:44a6585e-3098-4068-b734-f5ee3f26af04
+SEQUENCE:0
+DTSTAMP:20250716T171605
+DTSTART:20250802T080000
+DTEND:20250802T084500
+SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Glen Iris Scorpions Summerhill
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
+ ris Scorpions Summerhill\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2b52424c-db06-40d8-9fc8-5557d3379cb2
+SEQUENCE:0
+DTSTAMP:20250716T171605
+DTSTART:20250809T080000
+DTEND:20250809T084500
+SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Maccabi Eagles
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:676bd93a-9b2e-456e-ac73-9c056e9598bc
+SEQUENCE:0
+DTSTAMP:20250716T171605
+DTSTART:20250816T080000
+DTEND:20250816T084500
+SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Solway Nets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Nets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1606750a-55b6-4e8c-964e-6be2d516224b
+SEQUENCE:0
+DTSTAMP:20250716T171605
+DTSTART:20250823T093000
+DTEND:20250823T101500
+SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Maccabi Hawks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:55851ff5-f964-4a68-a625-a212059596d0
+SEQUENCE:0
+DTSTAMP:20250716T171605
+DTSTART:20250830T093000
+DTEND:20250830T101500
+SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Golden Hawks Iron
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Golden
+  Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

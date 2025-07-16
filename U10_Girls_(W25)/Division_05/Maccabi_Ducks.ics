@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Ducks Fixtures
+X-WR-CALNAME:Maccabi Ducks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a4c25e17-6d33-44a2-bbe1-fc429eb44764
+SEQUENCE:0
+DTSTAMP:20250716T171622
+DTSTART:20250726T080000
+DTEND:20250726T084500
+SUMMARY:🏀 U10 Girls: Maccabi Ducks vs Korowa Grey
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Korowa
+  Grey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cd76dcea-c555-47f1-8957-be6ef6129e0c
+SEQUENCE:0
+DTSTAMP:20250716T171622
+DTSTART:20250802T110000
+DTEND:20250802T114500
+SUMMARY:🏀 U10 Girls: Maccabi Ducks vs Malvern Tigers Brown
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Brown\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e7bf70e8-e997-4aa2-a647-ad8edf277480
+SEQUENCE:0
+DTSTAMP:20250716T171622
+DTSTART:20250809T084500
+DTEND:20250809T093000
+SUMMARY:🏀 U10 Girls: Maccabi Ducks vs Malvern Tigers Orange
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d8bfdccd-de2f-4649-ae85-a0d8094fa076
+SEQUENCE:0
+DTSTAMP:20250716T171622
+DTSTART:20250816T110000
+DTEND:20250816T114500
+SUMMARY:🏀 U10 Girls: Maccabi Ducks vs Maccabi Eagles
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Eag
+ les\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6b2f4f13-bc85-4743-957f-6cd6e9d67ef1
+SEQUENCE:0
+DTSTAMP:20250716T171622
+DTSTART:20250823T080000
+DTEND:20250823T084500
+SUMMARY:🏀 U10 Girls: Maccabi Ducks vs AlphaWolf Blaze
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AlphaW
+ olf Blaze\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:78a5e30e-5376-45f3-a520-3f1cd509375a
+SEQUENCE:0
+DTSTAMP:20250716T171622
+DTSTART:20250830T110000
+DTEND:20250830T114500
+SUMMARY:🏀 U10 Girls: Maccabi Ducks vs Ashy Lightning Green
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
+ ing Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

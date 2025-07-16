@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Steeds Fixtures
+X-WR-CALNAME:Solway Steeds Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5dac7e1c-038c-4d2d-a782-790146603761
+SEQUENCE:0
+DTSTAMP:20250716T171533
+DTSTART:20250726T084500
+DTEND:20250726T093000
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Golden Hawks Sky
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Golden 
+ Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:86704078-34d1-4cd7-b6fb-fa258698c9ba
+SEQUENCE:0
+DTSTAMP:20250716T171533
+DTSTART:20250802T093000
+DTEND:20250802T101500
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Wattletree Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Wattlet
+ ree Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:193fd569-eec3-48bb-a52b-b7733e8ff16b
+SEQUENCE:0
+DTSTAMP:20250716T171533
+DTSTART:20250809T084500
+DTEND:20250809T093000
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Renwick Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Renwick
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2f07ab74-6e2d-40bb-ade0-069973411857
+SEQUENCE:0
+DTSTAMP:20250716T171533
+DTSTART:20250816T084500
+DTEND:20250816T093000
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Dorrington Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Dorring
+ ton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ad59e94d-16a0-4ef8-b69f-9142757e4cec
+SEQUENCE:0
+DTSTAMP:20250716T171533
+DTSTART:20250823T084500
+DTEND:20250823T093000
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Solway Stallions
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Stallions\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:92831e8c-d1f3-43b2-93be-9f651d540612
+SEQUENCE:0
+DTSTAMP:20250716T171533
+DTSTART:20250830T084500
+DTEND:20250830T093000
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Golden Hawks Sky
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Golden 
+ Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

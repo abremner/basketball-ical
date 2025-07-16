@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Red Fixtures
+X-WR-CALNAME:Malvern Tigers Red Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:cb580036-0808-4acc-bbd6-e5c42dbbb740
+SEQUENCE:0
+DTSTAMP:20250716T171626
+DTSTART:20250726T140000
+DTEND:20250726T144500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Red vs Timberwolves Rocks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Rocks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:64d8f5e0-3e32-423e-93d1-905ad29e4e6c
+SEQUENCE:0
+DTSTAMP:20250716T171626
+DTSTART:20250802T153000
+DTEND:20250802T161500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Red vs Timberwolves Bullets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Bullets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:70b2219e-93e8-41ca-b70a-6b1867fad523
+SEQUENCE:0
+DTSTAMP:20250716T171626
+DTSTART:20250809T153000
+DTEND:20250809T161500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Red vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:27f3715b-6717-48c8-b0c7-1abf6d3b48ee
+SEQUENCE:0
+DTSTAMP:20250716T171626
+DTSTART:20250816T153000
+DTEND:20250816T161500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Red vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d87087b3-2273-4186-8cba-9b32a56c6333
+SEQUENCE:0
+DTSTAMP:20250716T171626
+DTSTART:20250823T144500
+DTEND:20250823T153000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Red vs Toorak Taipans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Taipans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ba0a52ef-6631-498c-9021-09798ac42409
+SEQUENCE:0
+DTSTAMP:20250716T171626
+DTSTART:20250830T153000
+DTEND:20250830T161500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Red vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Blades Fixtures
+X-WR-CALNAME:Solway Blades Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3b1dc2de-1375-4ce6-bebb-95b7199408fc
+SEQUENCE:0
+DTSTAMP:20250716T171812
+DTSTART:20250726T174500
+DTEND:20250726T183000
+SUMMARY:🏀 U16 Boys: Solway Blades vs AlphaWolf Shadows
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: AlphaWo
+ lf Shadows\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:08893442-3001-4d2c-a890-a146965d1b59
+SEQUENCE:0
+DTSTAMP:20250716T171812
+DTSTART:20250802T174500
+DTEND:20250802T183000
+SUMMARY:🏀 U16 Boys: Solway Blades vs Ormond Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ormond 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:817585cd-0c9a-4432-9df5-5a3a4ef95ba9
+SEQUENCE:0
+DTSTAMP:20250716T171812
+DTSTART:20250809T183000
+DTEND:20250809T191500
+SUMMARY:🏀 U16 Boys: Solway Blades vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0b9d9f25-65a3-4cf6-bb81-441720dc4af2
+SEQUENCE:0
+DTSTAMP:20250716T171812
+DTSTART:20250816T183000
+DTEND:20250816T191500
+SUMMARY:🏀 U16 Boys: Solway Blades vs Solway Rangers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Rangers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fbcc94c9-8913-45cd-a9f7-54a3962010a5
+SEQUENCE:0
+DTSTAMP:20250716T171812
+DTSTART:20250823T183000
+DTEND:20250823T191500
+SUMMARY:🏀 U16 Boys: Solway Blades vs Solway Storm
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Storm\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

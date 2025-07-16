@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Bambra Piranhas Fixtures
+X-WR-CALNAME:Bambra Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:26fb657f-dcef-4979-9aab-21476b38e475
+SEQUENCE:0
+DTSTAMP:20250716T171523
+DTSTART:20250726T093000
+DTEND:20250726T101500
+SUMMARY:🏀 U08 Boys: Bambra Piranhas vs Malvern Tigers Exum
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Exum\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5e42485a-a43a-4901-84f1-3ce6191ac056
+SEQUENCE:0
+DTSTAMP:20250716T171523
+DTSTART:20250802T101500
+DTEND:20250802T110000
+SUMMARY:🏀 U08 Boys: Bambra Piranhas vs Timberwolves Blasters
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Blasters\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:eb3a06ce-7b8d-42f9-861e-5b9d8aa5d56f
+SEQUENCE:0
+DTSTAMP:20250716T171523
+DTSTART:20250809T101500
+DTEND:20250809T110000
+SUMMARY:🏀 U08 Boys: Bambra Piranhas vs Malvern Tigers Daniels
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Daniels\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d93cf9e8-312c-462a-9868-e73b4d1bc94e
+SEQUENCE:0
+DTSTAMP:20250716T171523
+DTSTART:20250816T101500
+DTEND:20250816T110000
+SUMMARY:🏀 U08 Boys: Bambra Piranhas vs Glen Iris Scorpions Gardiner
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
+ is Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ae40a497-3067-4f77-9fd2-f076762dc25c
+SEQUENCE:0
+DTSTAMP:20250716T171523
+DTSTART:20250823T093000
+DTEND:20250823T101500
+SUMMARY:🏀 U08 Boys: Bambra Piranhas vs AlphaWolf Magic
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
+ lf Magic\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:76c468cf-6971-4c1f-a9c5-cb9c0d1a0406
+SEQUENCE:0
+DTSTAMP:20250716T171523
+DTSTART:20250830T101500
+DTEND:20250830T110000
+SUMMARY:🏀 U08 Boys: Bambra Piranhas vs Malvern Tigers Exum
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Exum\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

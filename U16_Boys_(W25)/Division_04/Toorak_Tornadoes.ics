@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tornadoes Fixtures
+X-WR-CALNAME:Toorak Tornadoes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:712ba124-1847-4355-a906-0c310397971d
+SEQUENCE:0
+DTSTAMP:20250716T171807
+DTSTART:20250726T191500
+DTEND:20250726T200000
+SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Solway Super Sonics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Super Sonics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9567f272-3da5-4935-a51a-bf80024cace6
+SEQUENCE:0
+DTSTAMP:20250716T171807
+DTSTART:20250802T183000
+DTEND:20250802T191500
+SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:70a7241c-39ab-41e4-a0f2-783c6483cb6d
+SEQUENCE:0
+DTSTAMP:20250716T171807
+DTSTART:20250809T191500
+DTEND:20250809T200000
+SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Timberwolves Magnum
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Magnum\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc5d820-c856-42c8-a4d4-906dc83f10ec
+SEQUENCE:0
+DTSTAMP:20250716T171807
+DTSTART:20250816T191500
+DTEND:20250816T200000
+SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Serrell Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Serrell
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:11ba46f1-889b-431d-b8dd-a55d9deab64d
+SEQUENCE:0
+DTSTAMP:20250716T171807
+DTSTART:20250823T183000
+DTEND:20250823T191500
+SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Timberwolves Boulders
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Boulders\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:aadd1173-b769-43e9-ad55-a28045c920f1
+SEQUENCE:0
+DTSTAMP:20250716T171807
+DTSTART:20250830T183000
+DTEND:20250830T191500
+SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Ripponlea Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ripponl
+ ea Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

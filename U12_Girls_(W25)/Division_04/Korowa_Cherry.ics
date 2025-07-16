@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Korowa Cherry Fixtures
+X-WR-CALNAME:Korowa Cherry Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:86ff44b5-cb67-4917-b0c3-a2ce9f248dc8
+SEQUENCE:0
+DTSTAMP:20250716T171700
+DTSTART:20250726T140000
+DTEND:20250726T144500
+SUMMARY:🏀 U12 Girls: Korowa Cherry vs Glen Iris Scorpions Gardiner
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
+ is Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8b74ce56-5b13-456a-941d-2667109d7024
+SEQUENCE:0
+DTSTAMP:20250716T171700
+DTSTART:20250802T144500
+DTEND:20250802T153000
+SUMMARY:🏀 U12 Girls: Korowa Cherry vs Willow Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Willow Pira
+ nhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5bd5e7ea-eb7a-4837-9678-0f6a34069391
+SEQUENCE:0
+DTSTAMP:20250716T171700
+DTSTART:20250809T144500
+DTEND:20250809T153000
+SUMMARY:🏀 U12 Girls: Korowa Cherry vs Lauriston Sparks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston S
+ parks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:399c6486-ea50-4349-829c-609c8c8cf7b8
+SEQUENCE:0
+DTSTAMP:20250716T171700
+DTSTART:20250816T131500
+DTEND:20250816T140000
+SUMMARY:🏀 U12 Girls: Korowa Cherry vs Malvern Tigers Jarry
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Jarry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:635ccd1f-9e93-44fd-a63b-7972dd6691fd
+SEQUENCE:0
+DTSTAMP:20250716T171700
+DTSTART:20250823T131500
+DTEND:20250823T140000
+SUMMARY:🏀 U12 Girls: Korowa Cherry vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:249162dd-f1c0-4d4b-b074-86140610f682
+SEQUENCE:0
+DTSTAMP:20250716T171700
+DTSTART:20250830T114500
+DTEND:20250830T123000
+SUMMARY:🏀 U12 Girls: Korowa Cherry vs Maccabi Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

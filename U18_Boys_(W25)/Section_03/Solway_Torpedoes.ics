@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Torpedoes Fixtures
+X-WR-CALNAME:Solway Torpedoes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:dc20bae3-556e-465d-b3ea-2883d6bfbee9
+SEQUENCE:0
+DTSTAMP:20250716T171833
+DTSTART:20250727T181500
+DTEND:20250727T190000
+SUMMARY:🏀 U18 Boys: Solway Torpedoes vs Maccabi Vipers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Vipers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5029b2c8-f64b-47bb-a955-8e93fcba0944
+SEQUENCE:0
+DTSTAMP:20250716T171833
+DTSTART:20250803T173000
+DTEND:20250803T181500
+SUMMARY:🏀 U18 Boys: Solway Torpedoes vs Solway Bullets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Bullets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3d1afa02-1105-44a6-be91-d4d704a7e030
+SEQUENCE:0
+DTSTAMP:20250716T171833
+DTSTART:20250817T173000
+DTEND:20250817T181500
+SUMMARY:🏀 U18 Boys: Solway Torpedoes vs Glen Iris Scorpions Saints
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
+ ris Scorpions Saints\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:61bab0e4-56a8-4456-834a-7294e844b114
+SEQUENCE:0
+DTSTAMP:20250716T171833
+DTSTART:20250824T173000
+DTEND:20250824T181500
+SUMMARY:🏀 U18 Boys: Solway Torpedoes vs Ferncroft Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ferncr
+ oft Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:522398d2-e17a-40c2-a5ed-c7201c21c8af
+SEQUENCE:0
+DTSTAMP:20250716T171833
+DTSTART:20250831T181500
+DTEND:20250831T190000
+SUMMARY:🏀 U18 Boys: Solway Torpedoes vs Maccabi Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ripponlea Piranhas Fixtures
+X-WR-CALNAME:Ripponlea Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2c527f35-5cad-47ad-938c-37849c055836
+SEQUENCE:0
+DTSTAMP:20250716T171805
+DTSTART:20250726T183000
+DTEND:20250726T191500
+SUMMARY:🏀 U16 Boys: Ripponlea Piranhas vs Timberwolves Magnum
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Magnum\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ea733642-e404-481b-b77c-eea3715165eb
+SEQUENCE:0
+DTSTAMP:20250716T171805
+DTSTART:20250802T183000
+DTEND:20250802T191500
+SUMMARY:🏀 U16 Boys: Ripponlea Piranhas vs Timberwolves Boulders
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Boulders\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ce9ab3ba-3ebb-49ef-b1d6-dc3f29249262
+SEQUENCE:0
+DTSTAMP:20250716T171805
+DTSTART:20250809T183000
+DTEND:20250809T191500
+SUMMARY:🏀 U16 Boys: Ripponlea Piranhas vs Serrell Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Serrel
+ l Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:22f62d0f-8014-4fb9-80e0-ee78433238a9
+SEQUENCE:0
+DTSTAMP:20250716T171805
+DTSTART:20250816T183000
+DTEND:20250816T191500
+SUMMARY:🏀 U16 Boys: Ripponlea Piranhas vs Toorak Terminators
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
+  Terminators\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e131a5ee-508a-4d46-ac76-6236efc6cc61
+SEQUENCE:0
+DTSTAMP:20250716T171805
+DTSTART:20250823T191500
+DTEND:20250823T200000
+SUMMARY:🏀 U16 Boys: Ripponlea Piranhas vs Solway Super Sonics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Super Sonics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dc2f5f7a-1345-4488-9fb3-93b7978e0e15
+SEQUENCE:0
+DTSTAMP:20250716T171805
+DTSTART:20250830T183000
+DTEND:20250830T191500
+SUMMARY:🏀 U16 Boys: Ripponlea Piranhas vs Toorak Tornadoes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Tornadoes\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

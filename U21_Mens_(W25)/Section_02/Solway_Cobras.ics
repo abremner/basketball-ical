@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Cobras Fixtures
+X-WR-CALNAME:Solway Cobras Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:66b4c939-c703-4d2c-8ff0-0b3033060258
+SEQUENCE:0
+DTSTAMP:20250716T171846
+DTSTART:20250727T190000
+DTEND:20250727T194500
+SUMMARY:🏀 U21 Mens: Solway Cobras vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bec85cc1-b7ed-421e-b359-d2d07e89103a
+SEQUENCE:0
+DTSTAMP:20250716T171846
+DTSTART:20250803T194500
+DTEND:20250803T203000
+SUMMARY:🏀 U21 Mens: Solway Cobras vs Titans Larrys
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Titans
+  Larrys\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d372a1c1-4865-4bc7-8ca1-0e1de472d5a8
+SEQUENCE:0
+DTSTAMP:20250716T171846
+DTSTART:20250810T194500
+DTEND:20250810T203000
+SUMMARY:🏀 U21 Mens: Solway Cobras vs Maccabi Le Boomers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Le Boomers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:abf7606d-2fcc-4649-b653-04e4566ebae9
+SEQUENCE:0
+DTSTAMP:20250716T171846
+DTSTART:20250817T190000
+DTEND:20250817T194500
+SUMMARY:🏀 U21 Mens: Solway Cobras vs Solway Pythons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Pythons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4afe59a1-9cf9-4e99-b072-f1e4c3b7fd05
+SEQUENCE:0
+DTSTAMP:20250716T171846
+DTSTART:20250831T190000
+DTEND:20250831T194500
+SUMMARY:🏀 U21 Mens: Solway Cobras vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

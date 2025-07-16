@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Brumbies Fixtures
+X-WR-CALNAME:Solway Brumbies Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:74840a98-71e1-4b67-9a83-2f9531b64d8e
+SEQUENCE:0
+DTSTAMP:20250716T171528
+DTSTART:20250726T080000
+DTEND:20250726T084500
+SUMMARY:🏀 U08 Boys: Solway Brumbies vs Glen Iris Scorpions Ferndale
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
+ is Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c637f36f-9aed-4a9f-9294-d849f8be36eb
+SEQUENCE:0
+DTSTAMP:20250716T171528
+DTSTART:20250802T080000
+DTEND:20250802T084500
+SUMMARY:🏀 U08 Boys: Solway Brumbies vs Packer Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Packer 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:64f74024-a2b6-4ea2-a9fd-109578284392
+SEQUENCE:0
+DTSTAMP:20250716T171528
+DTSTART:20250816T080000
+DTEND:20250816T084500
+SUMMARY:🏀 U08 Boys: Solway Brumbies vs Melbourne Wolves RBT Raptors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Melbour
+ ne Wolves RBT Raptors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0c26853b-a0e8-4391-9426-90f136522595
+SEQUENCE:0
+DTSTAMP:20250716T171528
+DTSTART:20250823T080000
+DTEND:20250823T084500
+SUMMARY:🏀 U08 Boys: Solway Brumbies vs Malvern Tigers Ingles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Ingles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:36a801f6-da4e-467d-a94a-2b9d771c2cb6
+SEQUENCE:0
+DTSTAMP:20250716T171528
+DTSTART:20250830T080000
+DTEND:20250830T084500
+SUMMARY:🏀 U08 Boys: Solway Brumbies vs Claremont Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Claremo
+ nt Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

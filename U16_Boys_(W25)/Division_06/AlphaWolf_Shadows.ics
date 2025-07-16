@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Shadows Fixtures
+X-WR-CALNAME:AlphaWolf Shadows Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3fb3ff9b-777f-4f2f-99c7-1b286929b278
+SEQUENCE:0
+DTSTAMP:20250716T171811
+DTSTART:20250726T174500
+DTEND:20250726T183000
+SUMMARY:🏀 U16 Boys: AlphaWolf Shadows vs Solway Blades
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Blades\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:463a3bfa-a11f-484d-b6f1-1d6fccee1bb4
+SEQUENCE:0
+DTSTAMP:20250716T171811
+DTSTART:20250802T183000
+DTEND:20250802T191500
+SUMMARY:🏀 U16 Boys: AlphaWolf Shadows vs Solway Rangers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Rangers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cf899345-5541-435d-a804-494435c132e7
+SEQUENCE:0
+DTSTAMP:20250716T171811
+DTSTART:20250809T174500
+DTEND:20250809T183000
+SUMMARY:🏀 U16 Boys: AlphaWolf Shadows vs Malvern Tigers Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c4274bf8-b75b-4590-84df-1e74014a9e34
+SEQUENCE:0
+DTSTAMP:20250716T171811
+DTSTART:20250816T183000
+DTEND:20250816T191500
+SUMMARY:🏀 U16 Boys: AlphaWolf Shadows vs Solway Storm
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Storm\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3f3db7ca-47b1-49fb-836c-4dfccf4c0168
+SEQUENCE:0
+DTSTAMP:20250716T171811
+DTSTART:20250823T183000
+DTEND:20250823T191500
+SUMMARY:🏀 U16 Boys: AlphaWolf Shadows vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7f1bb3ea-0edd-4637-83c8-055fefe4e7b9
+SEQUENCE:0
+DTSTAMP:20250716T171811
+DTSTART:20250830T183000
+DTEND:20250830T191500
+SUMMARY:🏀 U16 Boys: AlphaWolf Shadows vs Ormond Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ormond 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

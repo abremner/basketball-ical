@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Jaguars Fixtures
+X-WR-CALNAME:Maccabi Jaguars Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:cdb762ad-8351-4afb-9c7b-81a48e15cf7e
+SEQUENCE:0
+DTSTAMP:20250716T171608
+DTSTART:20250726T084500
+DTEND:20250726T093000
+SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs SouthEast Venom Magic
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: SouthEast Venom Magic\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:aab28d17-2dd8-4321-907b-0557e43dfabf
+SEQUENCE:0
+DTSTAMP:20250716T171608
+DTSTART:20250802T084500
+DTEND:20250802T093000
+SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Koornang Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Koorna
+ ng Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8f24e73c-aeaf-4961-96ff-548438017072
+SEQUENCE:0
+DTSTAMP:20250716T171608
+DTSTART:20250809T084500
+DTEND:20250809T093000
+SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Timberwolves Hawks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ba46ebb8-663a-4a22-b336-61cb733cb2ee
+SEQUENCE:0
+DTSTAMP:20250716T171608
+DTSTART:20250816T080000
+DTEND:20250816T084500
+SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Solway Hornets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Hornets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:760e0357-6827-441d-8b81-859cb5bc57db
+SEQUENCE:0
+DTSTAMP:20250716T171608
+DTSTART:20250823T084500
+DTEND:20250823T093000
+SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Ashy Lightning Yellow
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Ashy Lightning Yellow\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4649c0ec-f9af-4697-8e47-dab303746a91
+SEQUENCE:0
+DTSTAMP:20250716T171608
+DTSTART:20250830T084500
+DTEND:20250830T093000
+SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs SouthEast Venom Magic
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: SouthEast Venom Magic\nArrive
+  15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

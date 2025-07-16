@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:46c64770-ae55-4946-9dd7-87c35786388c
+SEQUENCE:0
+DTSTAMP:20250716T171530
+DTSTART:20250726T084500
+DTEND:20250726T093000
+SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:efa02b38-e411-4632-8c0d-29c9cd051d0e
+SEQUENCE:0
+DTSTAMP:20250716T171530
+DTSTART:20250802T101500
+DTEND:20250802T110000
+SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Malvern Tigers Giddey
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Giddey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0a16822e-49ac-47b0-b92f-e524089434f8
+SEQUENCE:0
+DTSTAMP:20250716T171530
+DTSTART:20250809T101500
+DTEND:20250809T110000
+SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Burnley Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Burnley
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:35490735-2ceb-4592-ace4-5eb6371b9e50
+SEQUENCE:0
+DTSTAMP:20250716T171530
+DTSTART:20250816T093000
+DTEND:20250816T101500
+SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Solway Mustangs
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Mustangs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7315dd0f-0fdc-453b-ae56-47de22930c98
+SEQUENCE:0
+DTSTAMP:20250716T171530
+DTSTART:20250823T093000
+DTEND:20250823T101500
+SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Toorak Toucans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak 
+ Toucans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:749cd7d5-d27f-48ba-bda6-7531fb3b369b
+SEQUENCE:0
+DTSTAMP:20250716T171530
+DTSTART:20250830T101500
+DTEND:20250830T110000
+SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

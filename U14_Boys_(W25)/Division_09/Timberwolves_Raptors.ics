@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Raptors Fixtures
+X-WR-CALNAME:Timberwolves Raptors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c944e1f3-0b5a-4871-a827-9be256f07939
+SEQUENCE:0
+DTSTAMP:20250716T171737
+DTSTART:20250726T144500
+DTEND:20250726T153000
+SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Malvern Tigers Maroon
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Maroon\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6b6bf5a3-5761-44b2-abd6-fb00131f9f2b
+SEQUENCE:0
+DTSTAMP:20250716T171737
+DTSTART:20250802T153000
+DTEND:20250802T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Maccabi Falcons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Falcons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a3871657-cd81-49a5-80df-71ccf8b240a4
+SEQUENCE:0
+DTSTAMP:20250716T171737
+DTSTART:20250816T144500
+DTEND:20250816T153000
+SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs SouthEast Venom Heat
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: SouthEast Venom Heat\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4e939e44-2697-4372-b824-8374d8447188
+SEQUENCE:0
+DTSTAMP:20250716T171737
+DTSTART:20250823T153000
+DTEND:20250823T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Solway Spartans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Spartans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:57e146b4-d073-43b0-9a4d-3f636a1b0093
+SEQUENCE:0
+DTSTAMP:20250716T171737
+DTSTART:20250830T153000
+DTEND:20250830T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Maccabi Giants
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Giants\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

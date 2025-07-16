@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Ninjas Fixtures
+X-WR-CALNAME:Solway Ninjas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3d52629c-b45c-452a-8ced-4c1ea078702c
+SEQUENCE:0
+DTSTAMP:20250716T171733
+DTSTART:20250802T131500
+DTEND:20250802T140000
+SUMMARY:🏀 U14 Boys: Solway Ninjas vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e84529fe-8a9d-468e-b959-c00a27f6f29f
+SEQUENCE:0
+DTSTAMP:20250716T171733
+DTSTART:20250809T153000
+DTEND:20250809T161500
+SUMMARY:🏀 U14 Boys: Solway Ninjas vs Malvern Tigers Purple
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Purple\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:eaffee11-9d1a-461c-bcb9-2900b57872b5
+SEQUENCE:0
+DTSTAMP:20250716T171733
+DTSTART:20250816T161500
+DTEND:20250816T170000
+SUMMARY:🏀 U14 Boys: Solway Ninjas vs Prahran Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Prahra
+ n Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:83563c84-cd98-4060-85fa-ffb67c6a5be3
+SEQUENCE:0
+DTSTAMP:20250716T171733
+DTSTART:20250823T153000
+DTEND:20250823T161500
+SUMMARY:🏀 U14 Boys: Solway Ninjas vs Comets Sharks
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Comets Sharks\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1b5433f4-28a4-42cc-a81e-db80d0e2058e
+SEQUENCE:0
+DTSTAMP:20250716T171733
+DTSTART:20250830T161500
+DTEND:20250830T170000
+SUMMARY:🏀 U14 Boys: Solway Ninjas vs Solway Mavericks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Mavericks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

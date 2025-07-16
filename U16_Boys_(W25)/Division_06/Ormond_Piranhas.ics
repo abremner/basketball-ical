@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ormond Piranhas Fixtures
+X-WR-CALNAME:Ormond Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:442d79b0-a336-41a1-8b5c-49c7a0d324f4
+SEQUENCE:0
+DTSTAMP:20250716T171812
+DTSTART:20250726T183000
+DTEND:20250726T191500
+SUMMARY:🏀 U16 Boys: Ormond Piranhas vs Malvern Tigers Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:86cd1936-6333-40ac-b006-c1584a81995b
+SEQUENCE:0
+DTSTAMP:20250716T171812
+DTSTART:20250802T174500
+DTEND:20250802T183000
+SUMMARY:🏀 U16 Boys: Ormond Piranhas vs Solway Blades
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Blades\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b942cfed-1159-41fc-90ba-1c85bb9a1b85
+SEQUENCE:0
+DTSTAMP:20250716T171812
+DTSTART:20250809T183000
+DTEND:20250809T191500
+SUMMARY:🏀 U16 Boys: Ormond Piranhas vs Solway Storm
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Storm\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cc6fd534-3088-4e27-a402-abbc41c8093b
+SEQUENCE:0
+DTSTAMP:20250716T171812
+DTSTART:20250823T174500
+DTEND:20250823T183000
+SUMMARY:🏀 U16 Boys: Ormond Piranhas vs Solway Rangers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Rangers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b079e7c5-8f99-4561-84a2-84dd840a03f9
+SEQUENCE:0
+DTSTAMP:20250716T171812
+DTSTART:20250830T183000
+DTEND:20250830T191500
+SUMMARY:🏀 U16 Boys: Ormond Piranhas vs AlphaWolf Shadows
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: AlphaWo
+ lf Shadows\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

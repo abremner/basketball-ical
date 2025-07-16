@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Orange Fixtures
+X-WR-CALNAME:Malvern Tigers Orange Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e89e623c-22d3-4e22-a480-a4b8cfe58e6c
+SEQUENCE:0
+DTSTAMP:20250716T171623
+DTSTART:20250726T110000
+DTEND:20250726T114500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Orange vs Timberwolves Gems
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Timberwolve
+ s Gems\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:12a8dcd9-d993-4646-bc9c-765d9ca9772c
+SEQUENCE:0
+DTSTAMP:20250716T171623
+DTSTART:20250802T080000
+DTEND:20250802T084500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Orange vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1346938f-3c3d-467f-b0e8-77ca43a628b1
+SEQUENCE:0
+DTSTAMP:20250716T171623
+DTSTART:20250809T084500
+DTEND:20250809T093000
+SUMMARY:🏀 U10 Girls: Malvern Tigers Orange vs Maccabi Ducks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3051adcc-28b4-47c5-bf18-ab3f7234f700
+SEQUENCE:0
+DTSTAMP:20250716T171623
+DTSTART:20250816T110000
+DTEND:20250816T114500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Orange vs Korowa Grey
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Korowa Grey
+ \nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a4eb12aa-920d-4138-b662-a4db62259718
+SEQUENCE:0
+DTSTAMP:20250716T171623
+DTSTART:20250823T110000
+DTEND:20250823T114500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Orange vs Malvern Tigers Brown
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Brown\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bb23a5f6-1359-4e1c-80ef-581774be64ff
+SEQUENCE:0
+DTSTAMP:20250716T171623
+DTSTART:20250830T084500
+DTEND:20250830T093000
+SUMMARY:🏀 U10 Girls: Malvern Tigers Orange vs AlphaWolf Blaze
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AlphaW
+ olf Blaze\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

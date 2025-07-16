@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Thunder Fixtures
+X-WR-CALNAME:Timberwolves Thunder Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6334d81e-1db2-4a01-9ce2-d4184fa11519
+SEQUENCE:0
+DTSTAMP:20250716T171702
+DTSTART:20250726T131500
+DTEND:20250726T140000
+SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Toorak Talons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Talons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:87678289-29e0-455d-9755-675821b3f174
+SEQUENCE:0
+DTSTAMP:20250716T171702
+DTSTART:20250802T140000
+DTEND:20250802T144500
+SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Malvern Tigers Jarry
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Jarry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4c3fa28a-cd1b-4565-91a7-937a2d9eab7a
+SEQUENCE:0
+DTSTAMP:20250716T171702
+DTSTART:20250809T144500
+DTEND:20250809T153000
+SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Aintree Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Aintree Pir
+ anhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:813fce99-8cbb-4422-9a92-171e9800871a
+SEQUENCE:0
+DTSTAMP:20250716T171702
+DTSTART:20250816T144500
+DTEND:20250816T153000
+SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Glen Iris Scorpions Gardin
+ er
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
+ corpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5e31f01c-463b-4b12-9520-bc993dd4376d
+SEQUENCE:0
+DTSTAMP:20250716T171702
+DTSTART:20250823T144500
+DTEND:20250823T153000
+SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Willow Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Willow Pira
+ nhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d7809e89-79bd-453c-aaaf-5001ae4f4d43
+SEQUENCE:0
+DTSTAMP:20250716T171702
+DTSTART:20250830T144500
+DTEND:20250830T153000
+SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Lauriston Sparks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston S
+ parks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

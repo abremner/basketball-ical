@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Hawks Fixtures
+X-WR-CALNAME:Solway Hawks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d907ce6b-43e9-4530-8e9e-f488029a444e
+SEQUENCE:0
+DTSTAMP:20250716T171553
+DTSTART:20250726T093000
+DTEND:20250726T101500
+SUMMARY:🏀 U10 Boys: Solway Hawks vs Dendy Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Dendy 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5aa2f93a-f94e-4ba1-bb93-3951b1f2f382
+SEQUENCE:0
+DTSTAMP:20250716T171553
+DTSTART:20250802T101500
+DTEND:20250802T110000
+SUMMARY:🏀 U10 Boys: Solway Hawks vs Timberwolves Boomers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+ wolves Boomers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bdba91b9-889a-47b7-9862-529867451c03
+SEQUENCE:0
+DTSTAMP:20250716T171553
+DTSTART:20250809T093000
+DTEND:20250809T101500
+SUMMARY:🏀 U10 Boys: Solway Hawks vs Solway Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8b02b5bb-a648-49b5-8d23-a037bb03bc73
+SEQUENCE:0
+DTSTAMP:20250716T171553
+DTSTART:20250816T110000
+DTEND:20250816T114500
+SUMMARY:🏀 U10 Boys: Solway Hawks vs Malvern Tigers Blue
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6b39b756-4806-4c2b-9f8e-82b093ee8bb8
+SEQUENCE:0
+DTSTAMP:20250716T171553
+DTSTART:20250823T110000
+DTEND:20250823T114500
+SUMMARY:🏀 U10 Boys: Solway Hawks vs Hotham Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Hotham
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:244bcb37-001d-4511-9423-c5da05489bb5
+SEQUENCE:0
+DTSTAMP:20250716T171553
+DTSTART:20250830T110000
+DTEND:20250830T114500
+SUMMARY:🏀 U10 Boys: Solway Hawks vs Dendy Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Dendy 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

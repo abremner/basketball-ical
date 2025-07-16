@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Gardiner Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Gardiner Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ce1bcb7b-9894-4f78-9aa0-6bf4a66c49ce
+SEQUENCE:0
+DTSTAMP:20250716T171635
+DTSTART:20250726T144500
+DTEND:20250726T153000
+SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Gardiner vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c6b1e77b-6dbb-4b57-b814-d76441938672
+SEQUENCE:0
+DTSTAMP:20250716T171635
+DTSTART:20250802T140000
+DTEND:20250802T144500
+SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Gardiner vs Timberwolves Howler
+ s
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Howlers\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d4ecbb95-ae2b-4d86-a190-30d3c69ef68a
+SEQUENCE:0
+DTSTAMP:20250716T171635
+DTSTART:20250809T131500
+DTEND:20250809T140000
+SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Gardiner vs Heywood Park Piranh
+ as
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Heywood
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a4f1fe42-b5cf-4b5f-91ac-9550ae4df0b1
+SEQUENCE:0
+DTSTAMP:20250716T171635
+DTSTART:20250816T140000
+DTEND:20250816T144500
+SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Gardiner vs AlphaWolf Warriors
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: AlphaWolf Warriors\nArrive 15
+  mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9c3cea46-2f5a-423e-ad0e-e5778e26c624
+SEQUENCE:0
+DTSTAMP:20250716T171635
+DTSTART:20250823T140000
+DTEND:20250823T144500
+SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Gardiner vs Malvern Tigers Oran
+ ge
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Orange\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:04fd58cb-4b7c-44ec-97cf-18839bff885b
+SEQUENCE:0
+DTSTAMP:20250716T171635
+DTSTART:20250830T131500
+DTEND:20250830T140000
+SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Gardiner vs Solway Wolverines
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Wolverines\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

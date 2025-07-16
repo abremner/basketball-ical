@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Triple-Threat Fixtures
+X-WR-CALNAME:Toorak Triple-Threat Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:aa763d09-3077-4f9b-b642-b8412021b4c6
+SEQUENCE:0
+DTSTAMP:20250716T171722
+DTSTART:20250726T161500
+DTEND:20250726T170000
+SUMMARY:🏀 U14 Boys: Toorak Triple-Threat vs Solway Crusaders
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Crusaders\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:42d690d9-3021-4cdb-a659-6553cc93bd33
+SEQUENCE:0
+DTSTAMP:20250716T171722
+DTSTART:20250802T170000
+DTEND:20250802T174500
+SUMMARY:🏀 U14 Boys: Toorak Triple-Threat vs Timberwolves Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3f27ac2e-807e-4954-8f52-16474e002b86
+SEQUENCE:0
+DTSTAMP:20250716T171722
+DTSTART:20250809T161500
+DTEND:20250809T170000
+SUMMARY:🏀 U14 Boys: Toorak Triple-Threat vs Malvern Tigers White
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:35de70d1-1130-4f79-a633-84b10b0bad5c
+SEQUENCE:0
+DTSTAMP:20250716T171722
+DTSTART:20250816T161500
+DTEND:20250816T170000
+SUMMARY:🏀 U14 Boys: Toorak Triple-Threat vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:57caa641-d2a2-4087-876a-716b4e2d6cf0
+SEQUENCE:0
+DTSTAMP:20250716T171722
+DTSTART:20250823T170000
+DTEND:20250823T174500
+SUMMARY:🏀 U14 Boys: Toorak Triple-Threat vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

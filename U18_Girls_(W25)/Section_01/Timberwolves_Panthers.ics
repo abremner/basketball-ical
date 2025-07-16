@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Panthers Fixtures
+X-WR-CALNAME:Timberwolves Panthers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:766f68f3-6be6-4937-bcca-8eb8f9c05bda
+SEQUENCE:0
+DTSTAMP:20250716T171839
+DTSTART:20250722T200000
+DTEND:20250722T204500
+SUMMARY:🏀 U18 Girls: Timberwolves Panthers vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b474a588-1a2b-4dfd-8fb9-f3a77716b515
+SEQUENCE:0
+DTSTAMP:20250716T171839
+DTSTART:20250729T200000
+DTEND:20250729T204500
+SUMMARY:🏀 U18 Girls: Timberwolves Panthers vs Toorak Trailblazers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
+  Trailblazers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:237ddc15-16c4-4caa-a5c2-94c847f0f90d
+SEQUENCE:0
+DTSTAMP:20250716T171839
+DTSTART:20250812T200000
+DTEND:20250812T204500
+SUMMARY:🏀 U18 Girls: Timberwolves Panthers vs Solway Magic
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Magic\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:285a9924-d408-4a53-9718-1e5cbb620b85
+SEQUENCE:0
+DTSTAMP:20250716T171839
+DTSTART:20250819T200000
+DTEND:20250819T204500
+SUMMARY:🏀 U18 Girls: Timberwolves Panthers vs Malvern Tigers Reid
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Reid\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4ac0da26-0fa3-405e-882e-2fa918117917
+SEQUENCE:0
+DTSTAMP:20250716T171839
+DTSTART:20250826T200000
+DTEND:20250826T204500
+SUMMARY:🏀 U18 Girls: Timberwolves Panthers vs Malvern Tigers Jackson
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Jackson\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

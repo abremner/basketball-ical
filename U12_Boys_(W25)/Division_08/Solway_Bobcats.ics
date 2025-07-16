@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Bobcats Fixtures
+X-WR-CALNAME:Solway Bobcats Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5e2be506-5e38-4cc0-92d5-ccbb924d7abd
+SEQUENCE:0
+DTSTAMP:20250716T171641
+DTSTART:20250726T131500
+DTEND:20250726T140000
+SUMMARY:🏀 U12 Boys: Solway Bobcats vs Timberwolves Stealers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Stealers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:194aac63-a18f-4370-beab-039e76017b91
+SEQUENCE:0
+DTSTAMP:20250716T171641
+DTSTART:20250802T114500
+DTEND:20250802T123000
+SUMMARY:🏀 U12 Boys: Solway Bobcats vs Timberwolves Chargers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Chargers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cc7a8ff2-a3a5-4103-bddd-b9a56016ed57
+SEQUENCE:0
+DTSTAMP:20250716T171641
+DTSTART:20250809T123000
+DTEND:20250809T131500
+SUMMARY:🏀 U12 Boys: Solway Bobcats vs Malvern Tigers Purple
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Purple\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f422a2d0-d91c-479d-977e-8ae2d37aa1b1
+SEQUENCE:0
+DTSTAMP:20250716T171641
+DTSTART:20250816T114500
+DTEND:20250816T123000
+SUMMARY:🏀 U12 Boys: Solway Bobcats vs Glen Iris Scorpions Summerhill
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
+ ris Scorpions Summerhill\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:50b72fae-3ab5-42da-9f8b-6a024c2a91f0
+SEQUENCE:0
+DTSTAMP:20250716T171641
+DTSTART:20250823T114500
+DTEND:20250823T123000
+SUMMARY:🏀 U12 Boys: Solway Bobcats vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4a6f4898-5728-440a-a946-67565d968497
+SEQUENCE:0
+DTSTAMP:20250716T171641
+DTSTART:20250830T114500
+DTEND:20250830T123000
+SUMMARY:🏀 U12 Boys: Solway Bobcats vs Timberwolves Stealers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Stealers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

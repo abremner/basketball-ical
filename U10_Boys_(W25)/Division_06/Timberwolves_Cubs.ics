@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Cubs Fixtures
+X-WR-CALNAME:Timberwolves Cubs Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d6b7f89d-3b65-4ccf-bc35-8ee34f0cdd2b
+SEQUENCE:0
+DTSTAMP:20250716T171555
+DTSTART:20250726T101500
+DTEND:20250726T110000
+SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Maccabi Ducks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b3dcb507-5a89-4659-9804-79ffadc3cbd3
+SEQUENCE:0
+DTSTAMP:20250716T171555
+DTSTART:20250802T110000
+DTEND:20250802T114500
+SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Penpraze Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Penpraz
+ e Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ae776379-5fc4-4efe-abcd-3659d06345ca
+SEQUENCE:0
+DTSTAMP:20250716T171555
+DTSTART:20250809T101500
+DTEND:20250809T110000
+SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Toorak Torpedoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
+  Torpedoes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:80de653f-21f6-4923-ade9-c0be7c86fc6f
+SEQUENCE:0
+DTSTAMP:20250716T171555
+DTSTART:20250823T110000
+DTEND:20250823T114500
+SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Glen Iris Scorpions Nettleton
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
+ is Scorpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9ee39020-634a-4ae3-ac03-b031423a1b08
+SEQUENCE:0
+DTSTAMP:20250716T171555
+DTSTART:20250830T110000
+DTEND:20250830T114500
+SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Golden Hawks Sky
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Golden 
+ Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Blue Fixtures
+X-WR-CALNAME:Malvern Tigers Blue Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:de40e165-5b13-4589-878c-0e29af6dac8e
+SEQUENCE:0
+DTSTAMP:20250716T171729
+DTSTART:20250726T153000
+DTEND:20250726T161500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Blue vs Solway Gladiators
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Gladiators\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a6748a22-0856-482d-941e-9768843fb4ed
+SEQUENCE:0
+DTSTAMP:20250716T171729
+DTSTART:20250802T161500
+DTEND:20250802T170000
+SUMMARY:🏀 U14 Boys: Malvern Tigers Blue vs Toorak Tractors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Toorak 
+ Tractors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7b576539-4ab4-4707-911b-d271e03928a2
+SEQUENCE:0
+DTSTAMP:20250716T171729
+DTSTART:20250809T153000
+DTEND:20250809T161500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Blue vs Timberwolves Terriers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Terriers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f2aa2229-2c4f-4398-90e7-95237dcca3c0
+SEQUENCE:0
+DTSTAMP:20250716T171729
+DTSTART:20250816T161500
+DTEND:20250816T170000
+SUMMARY:🏀 U14 Boys: Malvern Tigers Blue vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5a591675-3c87-4ae4-99f8-2a18243f60ba
+SEQUENCE:0
+DTSTAMP:20250716T171729
+DTSTART:20250823T161500
+DTEND:20250823T170000
+SUMMARY:🏀 U14 Boys: Malvern Tigers Blue vs Inkerman Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Inkerma
+ n Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8ae35687-bcb9-4907-b1a3-9716c0e386e3
+SEQUENCE:0
+DTSTAMP:20250716T171729
+DTSTART:20250830T161500
+DTEND:20250830T170000
+SUMMARY:🏀 U14 Boys: Malvern Tigers Blue vs Solway Gladiators
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Gladiators\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

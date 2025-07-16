@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Bulls Fixtures
+X-WR-CALNAME:Solway Bulls Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a746c9cd-e884-428a-ab11-b98d59ed9ad4
+SEQUENCE:0
+DTSTAMP:20250716T171558
+DTSTART:20250726T084500
+DTEND:20250726T093000
+SUMMARY:🏀 U10 Boys: Solway Bulls vs Malvern Tigers Purple
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Purple\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:63cd17e4-b334-4897-b015-e80f638045fc
+SEQUENCE:0
+DTSTAMP:20250716T171558
+DTSTART:20250802T080000
+DTEND:20250802T084500
+SUMMARY:🏀 U10 Boys: Solway Bulls vs Hawksburn Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Hawksb
+ urn Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cffc8884-11cd-44e6-aa4d-91f67e895195
+SEQUENCE:0
+DTSTAMP:20250716T171558
+DTSTART:20250809T084500
+DTEND:20250809T093000
+SUMMARY:🏀 U10 Boys: Solway Bulls vs SouthEast Venom Rockets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: SouthE
+ ast Venom Rockets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3c13b3ef-ab5a-4c28-9c27-bf2a0e29ce3a
+SEQUENCE:0
+DTSTAMP:20250716T171558
+DTSTART:20250816T093000
+DTEND:20250816T101500
+SUMMARY:🏀 U10 Boys: Solway Bulls vs Malvern Tigers Brown
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Brown\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4cee3fd6-cbd7-41b1-953a-7e15041806e7
+SEQUENCE:0
+DTSTAMP:20250716T171558
+DTSTART:20250823T093000
+DTEND:20250823T101500
+SUMMARY:🏀 U10 Boys: Solway Bulls vs Orrong Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Orrong
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f788d65f-392a-43dc-ae2e-a8cd56bcbb0d
+SEQUENCE:0
+DTSTAMP:20250716T171558
+DTSTART:20250830T093000
+DTEND:20250830T101500
+SUMMARY:🏀 U10 Boys: Solway Bulls vs Timberwolves Cobras
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Cobras\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

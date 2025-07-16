@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4427e4db-2b0a-4ca7-aab9-c72bbb51dc24
+SEQUENCE:0
+DTSTAMP:20250716T171550
+DTSTART:20250726T110000
+DTEND:20250726T114500
+SUMMARY:🏀 U10 Boys: Maccabi Celtics vs Ashy Lightning Gold
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
+ ghtning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f218bb44-a1bc-481a-8909-fbd78fa5b695
+SEQUENCE:0
+DTSTAMP:20250716T171550
+DTSTART:20250802T110000
+DTEND:20250802T114500
+SUMMARY:🏀 U10 Boys: Maccabi Celtics vs Solway Lakers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Lakers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4c28236a-584b-448e-a4dc-9a19c9dd206b
+SEQUENCE:0
+DTSTAMP:20250716T171550
+DTSTART:20250809T093000
+DTEND:20250809T101500
+SUMMARY:🏀 U10 Boys: Maccabi Celtics vs Malvern Tigers Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b96e575d-3992-4d8f-b41f-96dda932e451
+SEQUENCE:0
+DTSTAMP:20250716T171550
+DTSTART:20250816T110000
+DTEND:20250816T114500
+SUMMARY:🏀 U10 Boys: Maccabi Celtics vs Toorak Tigersharks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Tigersharks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4ee31858-9a55-4147-a0aa-4fdf23c56089
+SEQUENCE:0
+DTSTAMP:20250716T171550
+DTSTART:20250823T093000
+DTEND:20250823T101500
+SUMMARY:🏀 U10 Boys: Maccabi Celtics vs Armadale Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Armada
+ le Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e14e2805-fd21-4c95-8335-66376ebc8774
+SEQUENCE:0
+DTSTAMP:20250716T171550
+DTSTART:20250830T131500
+DTEND:20250830T140000
+SUMMARY:🏀 U10 Boys: Maccabi Celtics vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Tooronga Piranhas Fixtures
+X-WR-CALNAME:Tooronga Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c9cc2d68-b0e5-45fa-bd43-8d4266cfbba9
+SEQUENCE:0
+DTSTAMP:20250716T171830
+DTSTART:20250727T173000
+DTEND:20250727T181500
+SUMMARY:🏀 U18 Boys: Tooronga Piranhas vs Solway Pistons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Pistons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:80944d24-aea7-42d9-970d-ac1b6a4640d4
+SEQUENCE:0
+DTSTAMP:20250716T171830
+DTSTART:20250803T181500
+DTEND:20250803T190000
+SUMMARY:🏀 U18 Boys: Tooronga Piranhas vs Watson Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Watson
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c9e183f8-abc9-4c37-83df-529d74368296
+SEQUENCE:0
+DTSTAMP:20250716T171830
+DTSTART:20250810T190000
+DTEND:20250810T194500
+SUMMARY:🏀 U18 Boys: Tooronga Piranhas vs Glenbrook Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glenbr
+ ook Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2c425b5d-43d6-4057-8291-dee084e73084
+SEQUENCE:0
+DTSTAMP:20250716T171830
+DTSTART:20250817T173000
+DTEND:20250817T181500
+SUMMARY:🏀 U18 Boys: Tooronga Piranhas vs Maccabi Lightening
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Lightening\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2ed6ffac-b07a-4ee2-b6d5-96e4664a5f2e
+SEQUENCE:0
+DTSTAMP:20250716T171830
+DTSTART:20250824T173000
+DTEND:20250824T181500
+SUMMARY:🏀 U18 Boys: Tooronga Piranhas vs Glen Iris Scorpions Sixers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
+ ris Scorpions Sixers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f4015065-856d-426e-86da-9bedb60c5fbd
+SEQUENCE:0
+DTSTAMP:20250716T171830
+DTSTART:20250831T190000
+DTEND:20250831T194500
+SUMMARY:🏀 U18 Boys: Tooronga Piranhas vs Solway Pistons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Pistons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

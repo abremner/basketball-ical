@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Green Fixtures
+X-WR-CALNAME:Malvern Tigers Green Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:68894f3d-0435-4667-b1f8-c3287aa73fd4
+SEQUENCE:0
+DTSTAMP:20250716T171633
+DTSTART:20250802T140000
+DTEND:20250802T144500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Green vs Solway Lions
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Lions\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a6d20e53-750f-4701-804d-8e7c231db57c
+SEQUENCE:0
+DTSTAMP:20250716T171633
+DTSTART:20250809T131500
+DTEND:20250809T140000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Green vs Toorak Tigersnakes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
+  Tigersnakes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ea75c34b-698b-4690-ad9a-5406a72cc5d9
+SEQUENCE:0
+DTSTAMP:20250716T171633
+DTSTART:20250816T140000
+DTEND:20250816T144500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Green vs Toorak Torchers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
+ Torchers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f9a76448-a7b9-43f5-89db-b4c71812b345
+SEQUENCE:0
+DTSTAMP:20250716T171633
+DTSTART:20250823T131500
+DTEND:20250823T140000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Green vs Timberwolves Heat
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Heat\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Spartans Fixtures
+X-WR-CALNAME:AlphaWolf Spartans Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:91663178-34fd-4122-b4bc-9418bc2cf6d9
+SEQUENCE:0
+DTSTAMP:20250716T171635
+DTSTART:20250726T131500
+DTEND:20250726T140000
+SUMMARY:🏀 U12 Boys: AlphaWolf Spartans vs Heywood Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Heywoo
+ d Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:53c0cfba-e17d-4af4-859a-4034e313e1f5
+SEQUENCE:0
+DTSTAMP:20250716T171635
+DTSTART:20250802T131500
+DTEND:20250802T140000
+SUMMARY:🏀 U12 Boys: AlphaWolf Spartans vs Maccabi Ducks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2b90a4fb-4b0c-4ad3-bc55-4979f8a50223
+SEQUENCE:0
+DTSTAMP:20250716T171635
+DTSTART:20250809T131500
+DTEND:20250809T140000
+SUMMARY:🏀 U12 Boys: AlphaWolf Spartans vs AlphaWolf Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AlphaW
+ olf Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a17cfab8-bc7c-49a0-8dd0-a8251093df4c
+SEQUENCE:0
+DTSTAMP:20250716T171635
+DTSTART:20250816T131500
+DTEND:20250816T140000
+SUMMARY:🏀 U12 Boys: AlphaWolf Spartans vs Solway Wolverines
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Wolverines\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3c4817df-8112-4b03-8e0f-b8b8fd045923
+SEQUENCE:0
+DTSTAMP:20250716T171635
+DTSTART:20250823T131500
+DTEND:20250823T140000
+SUMMARY:🏀 U12 Boys: AlphaWolf Spartans vs Timberwolves Howlers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Howlers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2bcbdf63-e68c-4bec-bb59-06f615269a88
+SEQUENCE:0
+DTSTAMP:20250716T171635
+DTSTART:20250830T131500
+DTEND:20250830T140000
+SUMMARY:🏀 U12 Boys: AlphaWolf Spartans vs Malvern Tigers Orange
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

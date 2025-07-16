@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Rubies Fixtures
+X-WR-CALNAME:Solway Rubies Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4997b39e-f8cc-4951-988d-e3658066ca85
+SEQUENCE:0
+DTSTAMP:20250716T171740
+DTSTART:20250726T170000
+DTEND:20250726T174500
+SUMMARY:🏀 U14 Girls: Solway Rubies vs Timberwolves Comets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Comets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1a2951c0-74d0-4da7-b358-5bf2ec72ba69
+SEQUENCE:0
+DTSTAMP:20250716T171740
+DTSTART:20250802T174500
+DTEND:20250802T183000
+SUMMARY:🏀 U14 Girls: Solway Rubies vs Gardenvale Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Garden
+ vale Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:14821397-1340-4d25-b0d0-13f2b9d13785
+SEQUENCE:0
+DTSTAMP:20250716T171740
+DTSTART:20250809T170000
+DTEND:20250809T174500
+SUMMARY:🏀 U14 Girls: Solway Rubies vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d662e657-35ef-4853-8661-13f20afbc861
+SEQUENCE:0
+DTSTAMP:20250716T171740
+DTSTART:20250816T170000
+DTEND:20250816T174500
+SUMMARY:🏀 U14 Girls: Solway Rubies vs Toorak TopGuns
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
+  TopGuns\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:42838412-6f0d-4d8f-866f-3c579146ffb1
+SEQUENCE:0
+DTSTAMP:20250716T171740
+DTSTART:20250823T161500
+DTEND:20250823T170000
+SUMMARY:🏀 U14 Girls: Solway Rubies vs Malvern Tigers Taylor
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Taylor\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:013a5dba-eb83-4641-87a1-263689cf1abf
+SEQUENCE:0
+DTSTAMP:20250716T171740
+DTSTART:20250830T174500
+DTEND:20250830T183000
+SUMMARY:🏀 U14 Girls: Solway Rubies vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

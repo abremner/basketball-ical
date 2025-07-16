@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Bluebirds Fixtures
+X-WR-CALNAME:Solway Bluebirds Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:43584aef-f279-4af4-9ad9-4d55892e6da0
+SEQUENCE:0
+DTSTAMP:20250716T171656
+DTSTART:20250726T144500
+DTEND:20250726T153000
+SUMMARY:🏀 U12 Girls: Solway Bluebirds vs Malvern Tigers Taylor
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Taylor\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:89a5d3a6-85aa-433b-9b05-a6a935c2dc20
+SEQUENCE:0
+DTSTAMP:20250716T171656
+DTSTART:20250802T153000
+DTEND:20250802T161500
+SUMMARY:🏀 U12 Girls: Solway Bluebirds vs Malvern Tigers Phillips
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Phillips\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:78a52149-ec48-407e-88be-b053b7f48969
+SEQUENCE:0
+DTSTAMP:20250716T171656
+DTSTART:20250809T144500
+DTEND:20250809T153000
+SUMMARY:🏀 U12 Girls: Solway Bluebirds vs Toorak TopShots
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
+  TopShots\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7facf3ce-f8e7-43ed-9d86-9b621351e3b4
+SEQUENCE:0
+DTSTAMP:20250716T171656
+DTSTART:20250816T144500
+DTEND:20250816T153000
+SUMMARY:🏀 U12 Girls: Solway Bluebirds vs Yanakie Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Yanaki
+ e Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:24e71060-d0f9-4253-8b48-a9fbf05ee74e
+SEQUENCE:0
+DTSTAMP:20250716T171656
+DTSTART:20250823T144500
+DTEND:20250823T153000
+SUMMARY:🏀 U12 Girls: Solway Bluebirds vs Solway Finches
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Finches\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fad6ed2a-cd70-4dac-bac9-1dd35a5d1f07
+SEQUENCE:0
+DTSTAMP:20250716T171656
+DTSTART:20250830T144500
+DTEND:20250830T153000
+SUMMARY:🏀 U12 Girls: Solway Bluebirds vs Glen Iris Scorpions Ferndale
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
+ ris Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

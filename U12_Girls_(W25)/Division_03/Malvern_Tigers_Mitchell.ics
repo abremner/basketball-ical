@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Mitchell Fixtures
+X-WR-CALNAME:Malvern Tigers Mitchell Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a3aa16c9-8832-4e66-ad33-c3bf9a408521
+SEQUENCE:0
+DTSTAMP:20250716T171659
+DTSTART:20250726T144500
+DTEND:20250726T153000
+SUMMARY:🏀 U12 Girls: Malvern Tigers Mitchell vs Solway Rosellas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Rosellas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:805ddf32-2aff-440c-b54b-cb9b57b511d1
+SEQUENCE:0
+DTSTAMP:20250716T171659
+DTSTART:20250802T144500
+DTEND:20250802T153000
+SUMMARY:🏀 U12 Girls: Malvern Tigers Mitchell vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7172c34a-94c0-4fac-be61-f3c20eac93aa
+SEQUENCE:0
+DTSTAMP:20250716T171659
+DTSTART:20250816T140000
+DTEND:20250816T144500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Mitchell vs Comets Rubies
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Comets
+  Rubies\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:636ff723-3924-4d12-aed6-c30388f92cca
+SEQUENCE:0
+DTSTAMP:20250716T171659
+DTSTART:20250823T140000
+DTEND:20250823T144500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Mitchell vs Malvern Tigers Hodges
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Hodges\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:617335c3-738c-456a-b20b-2ece1b4cafcf
+SEQUENCE:0
+DTSTAMP:20250716T171659
+DTSTART:20250830T144500
+DTEND:20250830T153000
+SUMMARY:🏀 U12 Girls: Malvern Tigers Mitchell vs Solway Rosellas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Rosellas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

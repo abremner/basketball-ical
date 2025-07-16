@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Pythons Fixtures
+X-WR-CALNAME:Timberwolves Pythons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9ba5578a-6dc8-4d7c-8412-d2041b36ed20
+SEQUENCE:0
+DTSTAMP:20250716T171528
+DTSTART:20250726T093000
+DTEND:20250726T101500
+SUMMARY:🏀 U08 Boys: Timberwolves Pythons vs Melbourne Wolves RBT Raptor
+ s
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Melbour
+ ne Wolves RBT Raptors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:af9c6bdc-783a-47de-b6bf-887e48ada62e
+SEQUENCE:0
+DTSTAMP:20250716T171528
+DTSTART:20250809T093000
+DTEND:20250809T101500
+SUMMARY:🏀 U08 Boys: Timberwolves Pythons vs Packer Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Packer 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:24c2d23f-6870-44f2-97f4-ad0a2d5fa2db
+SEQUENCE:0
+DTSTAMP:20250716T171528
+DTSTART:20250816T084500
+DTEND:20250816T093000
+SUMMARY:🏀 U08 Boys: Timberwolves Pythons vs Claremont Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Claremo
+ nt Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cfef672a-7143-4a82-bb0e-cc95f99268b8
+SEQUENCE:0
+DTSTAMP:20250716T171528
+DTSTART:20250823T080000
+DTEND:20250823T084500
+SUMMARY:🏀 U08 Boys: Timberwolves Pythons vs Arax
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Arax\nA
+ rrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2578419a-f0a4-4259-8c7f-a66996936d73
+SEQUENCE:0
+DTSTAMP:20250716T171528
+DTSTART:20250830T084500
+DTEND:20250830T093000
+SUMMARY:🏀 U08 Boys: Timberwolves Pythons vs Glen Iris Scorpions Ferndal
+ e
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
+ is Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

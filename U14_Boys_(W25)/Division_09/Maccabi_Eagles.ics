@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Eagles Fixtures
+X-WR-CALNAME:Maccabi Eagles Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:dbc17f8f-184d-48f0-9711-69f87ade4596
+SEQUENCE:0
+DTSTAMP:20250716T171735
+DTSTART:20250726T161500
+DTEND:20250726T170000
+SUMMARY:🏀 U14 Boys: Maccabi Eagles vs Golden Hawks Iron
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Golden
+  Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:60d5e178-0605-4f31-891f-031a48f341ff
+SEQUENCE:0
+DTSTAMP:20250716T171735
+DTSTART:20250802T153000
+DTEND:20250802T161500
+SUMMARY:🏀 U14 Boys: Maccabi Eagles vs Solway Spartans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Spartans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d7990da5-0768-4c90-bf8b-73e00d255ef4
+SEQUENCE:0
+DTSTAMP:20250716T171735
+DTSTART:20250809T161500
+DTEND:20250809T170000
+SUMMARY:🏀 U14 Boys: Maccabi Eagles vs Maccabi Giants
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Giants\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ac90f095-1397-4272-929a-ffbdbbee5fdf
+SEQUENCE:0
+DTSTAMP:20250716T171735
+DTSTART:20250816T153000
+DTEND:20250816T161500
+SUMMARY:🏀 U14 Boys: Maccabi Eagles vs Malvern Tigers Maroon
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Maroon\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:17312357-8646-413c-aa6a-456294f05690
+SEQUENCE:0
+DTSTAMP:20250716T171735
+DTSTART:20250823T144500
+DTEND:20250823T153000
+SUMMARY:🏀 U14 Boys: Maccabi Eagles vs Ashy Lightning White
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Ashy Lightning White\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

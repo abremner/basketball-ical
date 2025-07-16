@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Summerhill Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Summerhill Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:56c38f41-e2a7-4cb0-91e9-faa52c49c72f
+SEQUENCE:0
+DTSTAMP:20250716T171732
+DTSTART:20250726T153000
+DTEND:20250726T161500
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Summerhill vs Solway Mavericks
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Mavericks\nArrive 15 m
+ ins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9d652b92-686d-437a-b827-43f4e7903832
+SEQUENCE:0
+DTSTAMP:20250716T171732
+DTSTART:20250802T161500
+DTEND:20250802T170000
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Summerhill vs Comets Sharks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
+  Sharks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:25f4ca07-78c1-4726-94b7-e0e467372369
+SEQUENCE:0
+DTSTAMP:20250716T171732
+DTSTART:20250816T131500
+DTEND:20250816T140000
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Summerhill vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:17896f7c-3371-4e03-86b7-b168844c4dfc
+SEQUENCE:0
+DTSTAMP:20250716T171732
+DTSTART:20250823T161500
+DTEND:20250823T170000
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Summerhill vs Malvern Tigers Pu
+ rple
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Purple\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8f39a42c-ac61-4cd8-a5de-ec80d1f8b198
+SEQUENCE:0
+DTSTAMP:20250716T171732
+DTSTART:20250830T153000
+DTEND:20250830T161500
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Summerhill vs Prahran Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Prahran Piranhas\nArrive 15 m
+ ins early for warm-up
+END:VEVENT
+END:VCALENDAR

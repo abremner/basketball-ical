@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Raven Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Raven Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:89ca969a-a37d-4a99-afc6-c4f2c509d62e
+SEQUENCE:0
+DTSTAMP:20250716T171723
+DTSTART:20250726T161500
+DTEND:20250726T170000
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Raven vs Solway Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c267365a-8a7c-4efa-a761-fcb1527313ba
+SEQUENCE:0
+DTSTAMP:20250716T171723
+DTSTART:20250802T161500
+DTEND:20250802T170000
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Raven vs Toorak Tomcats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
+  Tomcats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:86fe32eb-0cc3-4f25-b74f-e1f70b4082fc
+SEQUENCE:0
+DTSTAMP:20250716T171723
+DTSTART:20250809T153000
+DTEND:20250809T161500
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Raven vs AlphaWolf Force
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AlphaW
+ olf Force\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d26cfc48-32eb-4081-8ea9-edf91c90ac56
+SEQUENCE:0
+DTSTAMP:20250716T171723
+DTSTART:20250816T140000
+DTEND:20250816T144500
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Raven vs Comets Lightning
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
+  Lightning\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ce7b128e-9650-4ba0-b5a4-90d2ecaf16c2
+SEQUENCE:0
+DTSTAMP:20250716T171723
+DTSTART:20250823T153000
+DTEND:20250823T161500
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Raven vs Maccabi Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c16ba78e-dea8-44d8-abe1-e011a28d88ac
+SEQUENCE:0
+DTSTAMP:20250716T171723
+DTSTART:20250830T161500
+DTEND:20250830T170000
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Raven vs Timberwolves Dragons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Dragons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

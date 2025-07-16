@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Chargers Fixtures
+X-WR-CALNAME:Solway Chargers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ddcf5df0-c670-44ed-9243-6e41ec70623c
+SEQUENCE:0
+DTSTAMP:20250716T171528
+DTSTART:20250726T080000
+DTEND:20250726T084500
+SUMMARY:🏀 U08 Boys: Solway Chargers vs Arax
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Arax\nA
+ rrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6e2f388c-bf88-4eb0-bd26-73eb42a83278
+SEQUENCE:0
+DTSTAMP:20250716T171528
+DTSTART:20250802T084500
+DTEND:20250802T093000
+SUMMARY:🏀 U08 Boys: Solway Chargers vs Glen Iris Scorpions Ferndale
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
+ is Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8516db7a-7fca-4a80-88d1-597fe9d148f0
+SEQUENCE:0
+DTSTAMP:20250716T171528
+DTSTART:20250809T080000
+DTEND:20250809T084500
+SUMMARY:🏀 U08 Boys: Solway Chargers vs Claremont Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Claremo
+ nt Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:11b157ba-85d8-4660-8d9d-fe616a0fd841
+SEQUENCE:0
+DTSTAMP:20250716T171528
+DTSTART:20250823T084500
+DTEND:20250823T093000
+SUMMARY:🏀 U08 Boys: Solway Chargers vs Packer Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Packer 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cd62f60b-55a7-44e9-9657-f691f5bb9a1e
+SEQUENCE:0
+DTSTAMP:20250716T171528
+DTSTART:20250830T093000
+DTEND:20250830T101500
+SUMMARY:🏀 U08 Boys: Solway Chargers vs Malvern Tigers Ingles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Ingles\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

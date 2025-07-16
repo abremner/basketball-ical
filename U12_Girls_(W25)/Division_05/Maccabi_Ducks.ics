@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Ducks Fixtures
+X-WR-CALNAME:Maccabi Ducks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f4bea59b-c6d0-4dce-b91f-9a71c63b2b01
+SEQUENCE:0
+DTSTAMP:20250716T171704
+DTSTART:20250726T131500
+DTEND:20250726T140000
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Malvern Tigers Burton
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Burton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f49eb19e-5876-42c2-bb6b-22fad613a4b0
+SEQUENCE:0
+DTSTAMP:20250716T171704
+DTSTART:20250802T140000
+DTEND:20250802T144500
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Malvern Tigers Lavey
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Lavey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a3395e84-de3b-4095-974f-1a9f863d2837
+SEQUENCE:0
+DTSTAMP:20250716T171704
+DTSTART:20250809T140000
+DTEND:20250809T144500
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Erica Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Erica 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a024aae6-61a1-422c-a597-6d4cc4cd7810
+SEQUENCE:0
+DTSTAMP:20250716T171704
+DTSTART:20250816T140000
+DTEND:20250816T144500
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Malvern Tigers Smith
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Smith\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:02dacd70-a225-4724-9517-d00c5e3df534
+SEQUENCE:0
+DTSTAMP:20250716T171704
+DTSTART:20250823T140000
+DTEND:20250823T144500
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Maccabi Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:60dd1bd0-e3b8-4d1b-94cf-dc4ecdf49597
+SEQUENCE:0
+DTSTAMP:20250716T171704
+DTSTART:20250830T131500
+DTEND:20250830T140000
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Korowa Grey
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Korowa Grey
+ \nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

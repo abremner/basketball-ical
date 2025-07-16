@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Crusaders Fixtures
+X-WR-CALNAME:Timberwolves Crusaders Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d28f1cac-744c-40c9-ae80-59894bbb7f0e
+SEQUENCE:0
+DTSTAMP:20250716T171545
+DTSTART:20250726T123000
+DTEND:20250726T131500
+SUMMARY:🏀 U10 Boys: Timberwolves Crusaders vs Toorak Tigercats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
+  Tigercats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b50b8a97-7fb6-46af-90f6-b68dfa11bfd2
+SEQUENCE:0
+DTSTAMP:20250716T171545
+DTSTART:20250802T114500
+DTEND:20250802T123000
+SUMMARY:🏀 U10 Boys: Timberwolves Crusaders vs Solway Boomers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Boomers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8cc35952-ff8a-4f21-a485-9e7252b6cb8c
+SEQUENCE:0
+DTSTAMP:20250716T171545
+DTSTART:20250809T114500
+DTEND:20250809T123000
+SUMMARY:🏀 U10 Boys: Timberwolves Crusaders vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:77551852-4247-4cc5-ae7a-a6c91df7e0a4
+SEQUENCE:0
+DTSTAMP:20250716T171545
+DTSTART:20250816T114500
+DTEND:20250816T123000
+SUMMARY:🏀 U10 Boys: Timberwolves Crusaders vs Malvern Tigers Red
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ad1567ca-0df9-4417-b353-0fc6b8e071bd
+SEQUENCE:0
+DTSTAMP:20250716T171545
+DTSTART:20250823T114500
+DTEND:20250823T123000
+SUMMARY:🏀 U10 Boys: Timberwolves Crusaders vs Timberwolves Pistols
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Pistols\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3836fa73-8c5d-4264-bb50-2f53e0821d91
+SEQUENCE:0
+DTSTAMP:20250716T171545
+DTSTART:20250830T114500
+DTEND:20250830T123000
+SUMMARY:🏀 U10 Boys: Timberwolves Crusaders vs AlphaWolf Dragons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
+ lf Dragons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

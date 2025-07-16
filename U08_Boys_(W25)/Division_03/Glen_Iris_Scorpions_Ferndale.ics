@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Ferndale Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Ferndale Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9dff6437-7844-4538-a387-2b99161e9ee5
+SEQUENCE:0
+DTSTAMP:20250716T171526
+DTSTART:20250726T080000
+DTEND:20250726T084500
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Ferndale vs Solway Brumbies
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Brumbies\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f5590570-a8d3-4872-ae9a-45b85b90d3bf
+SEQUENCE:0
+DTSTAMP:20250716T171526
+DTSTART:20250802T084500
+DTEND:20250802T093000
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Ferndale vs Solway Chargers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Chargers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c875df57-76b0-469e-8298-e2d0c1e01db3
+SEQUENCE:0
+DTSTAMP:20250716T171526
+DTSTART:20250809T080000
+DTEND:20250809T084500
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Ferndale vs Arax
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Arax\nA
+ rrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c8284b1d-6622-4036-a98c-851096caea94
+SEQUENCE:0
+DTSTAMP:20250716T171526
+DTSTART:20250816T093000
+DTEND:20250816T101500
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Ferndale vs Packer Park Piranha
+ s
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Packer 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4521c77e-6fcd-4de0-bcd2-c18193bf0716
+SEQUENCE:0
+DTSTAMP:20250716T171526
+DTSTART:20250823T093000
+DTEND:20250823T101500
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Ferndale vs Melbourne Wolves RB
+ T Raptors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Melbour
+ ne Wolves RBT Raptors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:10a148d5-9bde-479f-b3df-188a806c8ac2
+SEQUENCE:0
+DTSTAMP:20250716T171526
+DTSTART:20250830T084500
+DTEND:20250830T093000
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Ferndale vs Timberwolves Python
+ s
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Pythons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Warriors Fixtures
+X-WR-CALNAME:Maccabi Warriors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d429c4fc-2f4b-4720-b68b-f743058fc3b2
+SEQUENCE:0
+DTSTAMP:20250716T171804
+DTSTART:20250726T191500
+DTEND:20250726T200000
+SUMMARY:🏀 U16 Boys: Maccabi Warriors vs Timberwolves Boulders
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Boulders\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a6976ede-7f71-41fc-816e-e43bb66cb401
+SEQUENCE:0
+DTSTAMP:20250716T171804
+DTSTART:20250802T183000
+DTEND:20250802T191500
+SUMMARY:🏀 U16 Boys: Maccabi Warriors vs Toorak Tornadoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
+  Tornadoes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2e14c2a7-d3b5-46ef-be3d-7657bf1b459b
+SEQUENCE:0
+DTSTAMP:20250716T171804
+DTSTART:20250809T183000
+DTEND:20250809T191500
+SUMMARY:🏀 U16 Boys: Maccabi Warriors vs Toorak Terminators
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Terminators\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6b2d03e2-3c62-47a4-a9f6-97cd93d2d302
+SEQUENCE:0
+DTSTAMP:20250716T171804
+DTSTART:20250816T191500
+DTEND:20250816T200000
+SUMMARY:🏀 U16 Boys: Maccabi Warriors vs Solway Super Sonics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Super Sonics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1d0a8126-8bbc-4ba2-bdeb-0d30086c68ae
+SEQUENCE:0
+DTSTAMP:20250716T171804
+DTSTART:20250823T191500
+DTEND:20250823T200000
+SUMMARY:🏀 U16 Boys: Maccabi Warriors vs Serrell Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Serrell
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9c4b4745-1d31-47ad-a2e1-6ba5535e2527
+SEQUENCE:0
+DTSTAMP:20250716T171804
+DTSTART:20250830T191500
+DTEND:20250830T200000
+SUMMARY:🏀 U16 Boys: Maccabi Warriors vs Timberwolves Magnum
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Magnum\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

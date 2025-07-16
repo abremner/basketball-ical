@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Willow Piranhas Fixtures
+X-WR-CALNAME:Willow Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a367470a-5529-446a-884c-8409fd6a4939
+SEQUENCE:0
+DTSTAMP:20250716T171703
+DTSTART:20250726T144500
+DTEND:20250726T153000
+SUMMARY:🏀 U12 Girls: Willow Piranhas vs Aintree Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Aintree Pir
+ anhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:84392aeb-5d63-4665-9073-edd5d7c7dc02
+SEQUENCE:0
+DTSTAMP:20250716T171703
+DTSTART:20250802T144500
+DTEND:20250802T153000
+SUMMARY:🏀 U12 Girls: Willow Piranhas vs Korowa Cherry
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Korowa Cher
+ ry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f94f95c5-e831-44e3-a4db-8027cac14667
+SEQUENCE:0
+DTSTAMP:20250716T171703
+DTSTART:20250809T140000
+DTEND:20250809T144500
+SUMMARY:🏀 U12 Girls: Willow Piranhas vs Glen Iris Scorpions Gardiner
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
+ is Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c88a17cb-c204-4ad5-b323-a3d6f35d82cd
+SEQUENCE:0
+DTSTAMP:20250716T171703
+DTSTART:20250816T144500
+DTEND:20250816T153000
+SUMMARY:🏀 U12 Girls: Willow Piranhas vs Lauriston Sparks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston S
+ parks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d94ff23d-1ad3-4fc5-8ce2-8b217bfed398
+SEQUENCE:0
+DTSTAMP:20250716T171703
+DTSTART:20250823T144500
+DTEND:20250823T153000
+SUMMARY:🏀 U12 Girls: Willow Piranhas vs Timberwolves Thunder
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Timberwolve
+ s Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:02b16e84-a8f0-41de-920a-3edec00ad0ad
+SEQUENCE:0
+DTSTAMP:20250716T171703
+DTSTART:20250830T140000
+DTEND:20250830T144500
+SUMMARY:🏀 U12 Girls: Willow Piranhas vs Malvern Tigers Jarry
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Jarry\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

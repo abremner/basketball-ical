@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Rocks Fixtures
+X-WR-CALNAME:Timberwolves Rocks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ccb0fd92-2069-437b-bc7d-e2c32a86908c
+SEQUENCE:0
+DTSTAMP:20250716T171627
+DTSTART:20250726T140000
+DTEND:20250726T144500
+SUMMARY:🏀 U12 Boys: Timberwolves Rocks vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ed6230fc-e4cd-4896-b069-98baab3fd242
+SEQUENCE:0
+DTSTAMP:20250716T171627
+DTSTART:20250802T144500
+DTEND:20250802T153000
+SUMMARY:🏀 U12 Boys: Timberwolves Rocks vs Glen Iris Scorpions Ferndale
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6a7860bc-d9ca-4bbe-8b6f-0d4d2cdb9598
+SEQUENCE:0
+DTSTAMP:20250716T171627
+DTSTART:20250809T144500
+DTEND:20250809T153000
+SUMMARY:🏀 U12 Boys: Timberwolves Rocks vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:75983f25-0cc6-4e01-8756-0da6357f89bb
+SEQUENCE:0
+DTSTAMP:20250716T171627
+DTSTART:20250816T140000
+DTEND:20250816T144500
+SUMMARY:🏀 U12 Boys: Timberwolves Rocks vs Timberwolves Bullets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Bullets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:91a64bb0-5c5e-443a-8f91-aea85327261d
+SEQUENCE:0
+DTSTAMP:20250716T171627
+DTSTART:20250823T140000
+DTEND:20250823T144500
+SUMMARY:🏀 U12 Boys: Timberwolves Rocks vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1282aaa7-e16a-45bb-9dff-f0f84045b73c
+SEQUENCE:0
+DTSTAMP:20250716T171627
+DTSTART:20250830T144500
+DTEND:20250830T153000
+SUMMARY:🏀 U12 Boys: Timberwolves Rocks vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6306d6aa-fe0e-4b08-8585-bfc932645f1c
+SEQUENCE:0
+DTSTAMP:20250716T171832
+DTSTART:20250727T173000
+DTEND:20250727T181500
+SUMMARY:🏀 U18 Boys: Maccabi Bucks vs Glen Iris Scorpions Saints
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Saints\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9b160f77-8ce1-4f4d-9ca9-50ba975a45f8
+SEQUENCE:0
+DTSTAMP:20250716T171832
+DTSTART:20250803T181500
+DTEND:20250803T190000
+SUMMARY:🏀 U18 Boys: Maccabi Bucks vs Ferncroft Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ferncr
+ oft Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bb0bf8c1-4b90-4a33-86b0-d938cc439937
+SEQUENCE:0
+DTSTAMP:20250716T171832
+DTSTART:20250810T173000
+DTEND:20250810T181500
+SUMMARY:🏀 U18 Boys: Maccabi Bucks vs Maccabi Vipers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Vipers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3f312595-3cde-4ee8-bb8a-e8c39e597ee8
+SEQUENCE:0
+DTSTAMP:20250716T171832
+DTSTART:20250817T173000
+DTEND:20250817T181500
+SUMMARY:🏀 U18 Boys: Maccabi Bucks vs Timberwolves Wizards
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Wizards\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3a9e6852-6487-48f4-b7d0-be4d2135079d
+SEQUENCE:0
+DTSTAMP:20250716T171832
+DTSTART:20250831T181500
+DTEND:20250831T190000
+SUMMARY:🏀 U18 Boys: Maccabi Bucks vs Solway Torpedoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Torpedoes\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

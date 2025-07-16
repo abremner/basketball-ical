@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Gold Fixtures
+X-WR-CALNAME:Ashy Lightning Gold Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c7675ab9-1c6a-48fd-80c3-33a12da08dfa
+SEQUENCE:0
+DTSTAMP:20250716T171625
+DTSTART:20250726T144500
+DTEND:20250726T153000
+SUMMARY:🏀 U12 Boys: Ashy Lightning Gold vs Glen Iris Scorpions Ferndale
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glen I
+ ris Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cd72894b-2c2a-4764-81df-c71edf597609
+SEQUENCE:0
+DTSTAMP:20250716T171625
+DTSTART:20250802T140000
+DTEND:20250802T144500
+SUMMARY:🏀 U12 Boys: Ashy Lightning Gold vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bd36ff66-c78e-4408-952b-e4fcdb393a79
+SEQUENCE:0
+DTSTAMP:20250716T171625
+DTSTART:20250809T153000
+DTEND:20250809T161500
+SUMMARY:🏀 U12 Boys: Ashy Lightning Gold vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:314050f4-78e4-4347-abd8-169c7f662e3d
+SEQUENCE:0
+DTSTAMP:20250716T171625
+DTSTART:20250816T144500
+DTEND:20250816T153000
+SUMMARY:🏀 U12 Boys: Ashy Lightning Gold vs Toorak Taipans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
+  Taipans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:15462183-0172-4b0d-a317-50488ebcbf1d
+SEQUENCE:0
+DTSTAMP:20250716T171625
+DTSTART:20250823T153000
+DTEND:20250823T161500
+SUMMARY:🏀 U12 Boys: Ashy Lightning Gold vs Timberwolves Bullets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Bullets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6d04f4c6-06a6-4539-95c7-cd2a6dd50e30
+SEQUENCE:0
+DTSTAMP:20250716T171625
+DTSTART:20250830T144500
+DTEND:20250830T153000
+SUMMARY:🏀 U12 Boys: Ashy Lightning Gold vs Timberwolves Rocks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Rocks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

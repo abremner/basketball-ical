@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Warrawee Piranhas Fixtures
+X-WR-CALNAME:Warrawee Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1ea79548-3339-410c-b4c0-372176aafa01
+SEQUENCE:0
+DTSTAMP:20250716T171643
+DTSTART:20250726T114500
+DTEND:20250726T123000
+SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Malvern Tigers Maroon
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Maroon\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4ab5a01a-5d1d-467c-97c2-0e6132bab7ee
+SEQUENCE:0
+DTSTAMP:20250716T171643
+DTSTART:20250802T114500
+DTEND:20250802T123000
+SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Maccabi Giants
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Giants\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b6dce6e2-4203-449e-b25f-84fb241ae678
+SEQUENCE:0
+DTSTAMP:20250716T171643
+DTSTART:20250809T123000
+DTEND:20250809T131500
+SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Maccabi Falcons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Falcons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5730301a-6f2a-40af-b9c5-ba775445a0bf
+SEQUENCE:0
+DTSTAMP:20250716T171643
+DTSTART:20250816T123000
+DTEND:20250816T131500
+SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Central Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Centra
+ l Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:56f7438e-a246-4665-b963-ac45399e1ce9
+SEQUENCE:0
+DTSTAMP:20250716T171643
+DTSTART:20250823T131500
+DTEND:20250823T140000
+SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Golden Hawks Iron
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Golden Hawks Iron\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a44e4aa0-06c7-4453-9075-ed518d174343
+SEQUENCE:0
+DTSTAMP:20250716T171643
+DTSTART:20250830T114500
+DTEND:20250830T123000
+SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Malvern Tigers Maroon
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Maroon\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

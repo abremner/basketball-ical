@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Comets Snake Fixtures
+X-WR-CALNAME:Comets Snake Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7e460e06-e434-4856-a01f-f5c7acb52120
+SEQUENCE:0
+DTSTAMP:20250716T171559
+DTSTART:20250726T080000
+DTEND:20250726T084500
+SUMMARY:🏀 U10 Boys: Comets Snake vs Glen Iris Scorpions Gardiner
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d8cf5f33-95a3-4927-ad8c-02c405d70f7b
+SEQUENCE:0
+DTSTAMP:20250716T171559
+DTSTART:20250802T084500
+DTEND:20250802T093000
+SUMMARY:🏀 U10 Boys: Comets Snake vs Maccabi Falcons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Falcons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:64ba1860-e431-4bb9-a1eb-3d3e81d5e084
+SEQUENCE:0
+DTSTAMP:20250716T171559
+DTSTART:20250809T084500
+DTEND:20250809T093000
+SUMMARY:🏀 U10 Boys: Comets Snake vs Timberwolves Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1ba03d0b-a448-4763-8e6a-db7273ea7da5
+SEQUENCE:0
+DTSTAMP:20250716T171559
+DTSTART:20250816T110000
+DTEND:20250816T114500
+SUMMARY:🏀 U10 Boys: Comets Snake vs Timberwolves Lightning
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Lightning\nArriv
+ e 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7e567c1d-2468-4e35-802e-1305b3a6d597
+SEQUENCE:0
+DTSTAMP:20250716T171559
+DTSTART:20250823T110000
+DTEND:20250823T114500
+SUMMARY:🏀 U10 Boys: Comets Snake vs Toorak Thunderbolts
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Toorak 
+ Thunderbolts\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d9261276-e275-4567-b941-2daf9be6516b
+SEQUENCE:0
+DTSTAMP:20250716T171559
+DTSTART:20250830T084500
+DTEND:20250830T093000
+SUMMARY:🏀 U10 Boys: Comets Snake vs Glen Iris Scorpions Raven
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Raven\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

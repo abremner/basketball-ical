@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Lime Fixtures
+X-WR-CALNAME:Malvern Tigers Lime Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:506753b0-a9e3-41ec-860b-36467fe796e8
+SEQUENCE:0
+DTSTAMP:20250716T171606
+DTSTART:20250802T080000
+DTEND:20250802T084500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Lime vs AlphaWolf Kings
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AlphaW
+ olf Kings\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:10577928-63fd-4576-87ac-db60323a5ab0
+SEQUENCE:0
+DTSTAMP:20250716T171606
+DTSTART:20250809T080000
+DTEND:20250809T084500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Lime vs Malvern Tigers Maroon
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Maroon\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dff2718c-32df-4a5f-a175-4cd6f3d2d316
+SEQUENCE:0
+DTSTAMP:20250716T171606
+DTSTART:20250816T093000
+DTEND:20250816T101500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Lime vs Malvern Tigers Grey
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Grey\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:adc8f3ce-f859-4c4c-853c-90c63032f450
+SEQUENCE:0
+DTSTAMP:20250716T171606
+DTSTART:20250823T093000
+DTEND:20250823T101500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Lime vs Maccabi Giants
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Giants\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+END:VCALENDAR

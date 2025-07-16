@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Stars Fixtures
+X-WR-CALNAME:Timberwolves Stars Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1675d4fa-0486-446d-aa15-67cedb2aa47f
+SEQUENCE:0
+DTSTAMP:20250716T171836
+DTSTART:20250727T173000
+DTEND:20250727T181500
+SUMMARY:🏀 U18 Boys: Timberwolves Stars vs Golden Hawks Sky
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Golden
+  Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f54fa894-45f4-4dab-b82c-010fb755745d
+SEQUENCE:0
+DTSTAMP:20250716T171836
+DTSTART:20250810T173000
+DTEND:20250810T181500
+SUMMARY:🏀 U18 Boys: Timberwolves Stars vs Timberwolves Wildcats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Wildcats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1e8aff35-681c-42b4-bcd4-834b34703987
+SEQUENCE:0
+DTSTAMP:20250716T171836
+DTSTART:20250817T181500
+DTEND:20250817T190000
+SUMMARY:🏀 U18 Boys: Timberwolves Stars vs Toorak Turbos
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
+  Turbos\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ab0374d3-b565-4c22-aba2-4cec86abfdb2
+SEQUENCE:0
+DTSTAMP:20250716T171836
+DTSTART:20250824T181500
+DTEND:20250824T190000
+SUMMARY:🏀 U18 Boys: Timberwolves Stars vs Comets Storm
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Comets
+  Storm\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:768ed7f4-da1a-4f1c-8fa8-36dfb931424e
+SEQUENCE:0
+DTSTAMP:20250716T171836
+DTSTART:20250831T173000
+DTEND:20250831T181500
+SUMMARY:🏀 U18 Boys: Timberwolves Stars vs Timberwolves Knights
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Knights\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Eagles Fixtures
+X-WR-CALNAME:Maccabi Eagles Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:909cc9fa-0b3f-4d45-89cc-12ea43843b25
+SEQUENCE:0
+DTSTAMP:20250716T171622
+DTSTART:20250726T110000
+DTEND:20250726T114500
+SUMMARY:🏀 U10 Girls: Maccabi Eagles vs Malvern Tigers Purple
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Purple\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:57f712b6-68fd-4886-8d20-600ceef9e6b3
+SEQUENCE:0
+DTSTAMP:20250716T171622
+DTSTART:20250802T084500
+DTEND:20250802T093000
+SUMMARY:🏀 U10 Girls: Maccabi Eagles vs Korowa Grey
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Korowa
+  Grey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:13916d2d-03d1-4a7d-9943-6a4eee160caa
+SEQUENCE:0
+DTSTAMP:20250716T171622
+DTSTART:20250809T110000
+DTEND:20250809T114500
+SUMMARY:🏀 U10 Girls: Maccabi Eagles vs AlphaWolf Blaze
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: AlphaWolf B
+ laze\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c8cf40f5-506b-4979-9988-fb35a91babd8
+SEQUENCE:0
+DTSTAMP:20250716T171622
+DTSTART:20250816T110000
+DTEND:20250816T114500
+SUMMARY:🏀 U10 Girls: Maccabi Eagles vs Maccabi Ducks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Duc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8a25a0b3-866d-457b-a3a4-ecf11a6ebc0a
+SEQUENCE:0
+DTSTAMP:20250716T171622
+DTSTART:20250830T110000
+DTEND:20250830T114500
+SUMMARY:🏀 U10 Girls: Maccabi Eagles vs Timberwolves Gems
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Timberwolve
+ s Gems\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Trackers Fixtures
+X-WR-CALNAME:Toorak Trackers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c36e9971-1ba1-4a22-b5e4-a4ec545d84ba
+SEQUENCE:0
+DTSTAMP:20250716T171803
+DTSTART:20250726T183000
+DTEND:20250726T191500
+SUMMARY:🏀 U16 Boys: Toorak Trackers vs Malvern Tigers Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0930933a-a7e4-4e3c-9580-2b469e70d87d
+SEQUENCE:0
+DTSTAMP:20250716T171803
+DTSTART:20250802T183000
+DTEND:20250802T191500
+SUMMARY:🏀 U16 Boys: Toorak Trackers vs Solway Blazers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Blazers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a3985e18-9292-432c-bb75-abe33a00c3ce
+SEQUENCE:0
+DTSTAMP:20250716T171803
+DTSTART:20250809T183000
+DTEND:20250809T191500
+SUMMARY:🏀 U16 Boys: Toorak Trackers vs Solway Pistons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Pistons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dc3ff2e1-6c54-4ba7-a6a9-ab4254b67f81
+SEQUENCE:0
+DTSTAMP:20250716T171803
+DTSTART:20250816T191500
+DTEND:20250816T200000
+SUMMARY:🏀 U16 Boys: Toorak Trackers vs Timberwolves Taipans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Taipans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:22d953d6-1941-4a6c-b379-9aa2896e06e4
+SEQUENCE:0
+DTSTAMP:20250716T171803
+DTSTART:20250823T183000
+DTEND:20250823T191500
+SUMMARY:🏀 U16 Boys: Toorak Trackers vs Solway Slammers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Slammers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:16f17f7d-b25a-4bf7-8399-d61f0f37b656
+SEQUENCE:0
+DTSTAMP:20250716T171803
+DTSTART:20250830T183000
+DTEND:20250830T191500
+SUMMARY:🏀 U16 Boys: Toorak Trackers vs Timberwolves Cats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Cats\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

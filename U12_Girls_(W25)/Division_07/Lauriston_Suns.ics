@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Lauriston Suns Fixtures
+X-WR-CALNAME:Lauriston Suns Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:04295874-3f79-443c-9d88-0623cda338f5
+SEQUENCE:0
+DTSTAMP:20250716T171709
+DTSTART:20250726T140000
+DTEND:20250726T144500
+SUMMARY:🏀 U12 Girls: Lauriston Suns vs Maccabi Falcons
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Fal
+ cons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f1524f02-8bf5-4235-89cf-751b3bf55438
+SEQUENCE:0
+DTSTAMP:20250716T171709
+DTSTART:20250809T140000
+DTEND:20250809T144500
+SUMMARY:🏀 U12 Girls: Lauriston Suns vs Solway Wrens
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Wren
+ s\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e568b934-712b-4bde-96fc-f5d4e48e0fe0
+SEQUENCE:0
+DTSTAMP:20250716T171709
+DTSTART:20250816T140000
+DTEND:20250816T144500
+SUMMARY:🏀 U12 Girls: Lauriston Suns vs Creswick Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Creswick Pi
+ ranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c04d6b9f-ae2a-4e8a-8ddf-dd29fdb98e41
+SEQUENCE:0
+DTSTAMP:20250716T171709
+DTSTART:20250823T131500
+DTEND:20250823T140000
+SUMMARY:🏀 U12 Girls: Lauriston Suns vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:18ba7bed-f5fa-4842-b234-541b101cdc25
+SEQUENCE:0
+DTSTAMP:20250716T171709
+DTSTART:20250830T140000
+DTEND:20250830T144500
+SUMMARY:🏀 U12 Girls: Lauriston Suns vs Maccabi Falcons
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Fal
+ cons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

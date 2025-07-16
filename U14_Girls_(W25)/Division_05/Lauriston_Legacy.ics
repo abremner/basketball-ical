@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Lauriston Legacy Fixtures
+X-WR-CALNAME:Lauriston Legacy Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:47a550d1-5617-4600-a85c-90e104a67403
+SEQUENCE:0
+DTSTAMP:20250716T171749
+DTSTART:20250726T153000
+DTEND:20250726T161500
+SUMMARY:🏀 U14 Girls: Lauriston Legacy vs McArthur Park Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: McArthur Pa
+ rk Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6853dd15-c1d4-419f-99e6-e02a1084d6d6
+SEQUENCE:0
+DTSTAMP:20250716T171749
+DTSTART:20250809T153000
+DTEND:20250809T161500
+SUMMARY:🏀 U14 Girls: Lauriston Legacy vs Toorak Titans
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Toorak Tita
+ ns\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b3ac0645-c3e8-4daf-9798-694523233e25
+SEQUENCE:0
+DTSTAMP:20250716T171749
+DTSTART:20250816T153000
+DTEND:20250816T161500
+SUMMARY:🏀 U14 Girls: Lauriston Legacy vs Maccabi Bucks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Buc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8e500dde-b76f-41c9-bedc-71f15d30d7a1
+SEQUENCE:0
+DTSTAMP:20250716T171749
+DTSTART:20250823T153000
+DTEND:20250823T161500
+SUMMARY:🏀 U14 Girls: Lauriston Legacy vs Ashy Lightning White
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Ashy Lightn
+ ing White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:776dfc61-c833-4e9e-83c5-53df12c68cbf
+SEQUENCE:0
+DTSTAMP:20250716T171749
+DTSTART:20250830T153000
+DTEND:20250830T161500
+SUMMARY:🏀 U14 Girls: Lauriston Legacy vs Malvern Tigers Burton
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Burton\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

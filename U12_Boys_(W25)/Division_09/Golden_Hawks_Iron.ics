@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Golden Hawks Iron Fixtures
+X-WR-CALNAME:Golden Hawks Iron Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9f32beee-3a8c-418e-a5e0-5fe3930f159a
+SEQUENCE:0
+DTSTAMP:20250716T171642
+DTSTART:20250726T123000
+DTEND:20250726T131500
+SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Maccabi Giants
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Giants\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d3f1b440-dcdd-483b-bcea-f2b1ce980038
+SEQUENCE:0
+DTSTAMP:20250716T171642
+DTSTART:20250802T131500
+DTEND:20250802T140000
+SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Central Park Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Central Park Piranhas\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9c878198-3710-43c0-ad13-2afd6a7c998d
+SEQUENCE:0
+DTSTAMP:20250716T171642
+DTSTART:20250809T131500
+DTEND:20250809T140000
+SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Malvern Tigers Maroon
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Maroon\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f543c309-d176-4853-958b-e7beadd29ae1
+SEQUENCE:0
+DTSTAMP:20250716T171642
+DTSTART:20250816T114500
+DTEND:20250816T123000
+SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Maccabi Falcons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Falcons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6f0f259c-6dc3-4f04-8f2d-d7f94edd52af
+SEQUENCE:0
+DTSTAMP:20250716T171642
+DTSTART:20250823T131500
+DTEND:20250823T140000
+SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Warrawee Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Warrawee Piranhas\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:58bcea7c-e4fd-418e-934c-e7959fc0cd0f
+SEQUENCE:0
+DTSTAMP:20250716T171642
+DTSTART:20250830T123000
+DTEND:20250830T131500
+SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Maccabi Giants
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Giants\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ferncroft Piranhas Fixtures
+X-WR-CALNAME:Ferncroft Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e41f7e88-3f96-4b89-b269-f205afc24907
+SEQUENCE:0
+DTSTAMP:20250716T171831
+DTSTART:20250727T173000
+DTEND:20250727T181500
+SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Timberwolves Wizards
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Wizards\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:624bf608-82da-4dc3-8ddb-903312a6c668
+SEQUENCE:0
+DTSTAMP:20250716T171831
+DTSTART:20250803T181500
+DTEND:20250803T190000
+SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Maccabi Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:336ea114-b164-4836-9e5e-13bd7cf08f0b
+SEQUENCE:0
+DTSTAMP:20250716T171831
+DTSTART:20250810T173000
+DTEND:20250810T181500
+SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Glen Iris Scorpions Saints
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Saints\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b9a16aef-dbb8-4d81-9b3c-d4c529b3e1c9
+SEQUENCE:0
+DTSTAMP:20250716T171831
+DTSTART:20250817T181500
+DTEND:20250817T190000
+SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Solway Bullets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Bullets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c0c57f77-6d11-4e1b-b385-c35bb237eea5
+SEQUENCE:0
+DTSTAMP:20250716T171831
+DTSTART:20250824T173000
+DTEND:20250824T181500
+SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Solway Torpedoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Torpedoes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f2d83cea-6651-475c-9dc4-c53de7a2ca06
+SEQUENCE:0
+DTSTAMP:20250716T171831
+DTSTART:20250831T173000
+DTEND:20250831T181500
+SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Maccabi Vipers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Vipers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

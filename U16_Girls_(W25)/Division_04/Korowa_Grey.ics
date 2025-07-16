@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Korowa Grey Fixtures
+X-WR-CALNAME:Korowa Grey Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2b4d7529-b199-4794-b1fd-9c01beaab3b6
+SEQUENCE:0
+DTSTAMP:20250716T171825
+DTSTART:20250722T174500
+DTEND:20250722T183000
+SUMMARY:🏀 U16 Girls: Korowa Grey vs Korowa Cherry
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Korowa
+  Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:249cb302-60ad-45c9-8d69-8ad3819e6e05
+SEQUENCE:0
+DTSTAMP:20250716T171825
+DTSTART:20250729T183000
+DTEND:20250729T191500
+SUMMARY:🏀 U16 Girls: Korowa Grey vs Harold Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Harold
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ace0f44d-d6e8-4eef-ba45-1ae76f540d43
+SEQUENCE:0
+DTSTAMP:20250716T171825
+DTSTART:20250812T174500
+DTEND:20250812T183000
+SUMMARY:🏀 U16 Girls: Korowa Grey vs Malvern Tigers Nicholson
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Nicholson\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:195c2d80-e701-47f7-8de9-d786d9e8ea04
+SEQUENCE:0
+DTSTAMP:20250716T171825
+DTSTART:20250819T174500
+DTEND:20250819T183000
+SUMMARY:🏀 U16 Girls: Korowa Grey vs Glen Iris Scorpions Saints
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
+ ris Scorpions Saints\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8dcacc2e-0b89-491f-9cfb-d7554da397df
+SEQUENCE:0
+DTSTAMP:20250716T171825
+DTSTART:20250826T174500
+DTEND:20250826T183000
+SUMMARY:🏀 U16 Girls: Korowa Grey vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

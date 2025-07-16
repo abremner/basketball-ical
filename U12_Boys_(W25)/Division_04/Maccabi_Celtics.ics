@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2dd9b595-350b-4808-950d-a8d6c8e55f9f
+SEQUENCE:0
+DTSTAMP:20250716T171631
+DTSTART:20250726T140000
+DTEND:20250726T144500
+SUMMARY:🏀 U12 Boys: Maccabi Celtics vs AlphaWolf Legends
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: AlphaWo
+ lf Legends\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b851145e-abe4-4262-89b5-d28d16a21c72
+SEQUENCE:0
+DTSTAMP:20250716T171631
+DTSTART:20250802T140000
+DTEND:20250802T144500
+SUMMARY:🏀 U12 Boys: Maccabi Celtics vs Toorak Tarantulas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Tarantulas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:59509c47-801e-4a04-8bf8-63b88e4825a7
+SEQUENCE:0
+DTSTAMP:20250716T171631
+DTSTART:20250809T140000
+DTEND:20250809T144500
+SUMMARY:🏀 U12 Boys: Maccabi Celtics vs Solway Cubs
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Cubs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4813a1f1-fc68-46ba-b3ae-8d4a5eb32093
+SEQUENCE:0
+DTSTAMP:20250716T171631
+DTSTART:20250816T144500
+DTEND:20250816T153000
+SUMMARY:🏀 U12 Boys: Maccabi Celtics vs Malvern Tigers White
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ae98ba6d-a050-43c6-8afa-1ab6da3fdb10
+SEQUENCE:0
+DTSTAMP:20250716T171631
+DTSTART:20250823T140000
+DTEND:20250823T144500
+SUMMARY:🏀 U12 Boys: Maccabi Celtics vs Timberwolves Colts
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Colts\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a7e4b8b5-c76c-4da3-9838-3a10ebef54f7
+SEQUENCE:0
+DTSTAMP:20250716T171631
+DTSTART:20250830T140000
+DTEND:20250830T144500
+SUMMARY:🏀 U12 Boys: Maccabi Celtics vs AlphaWolf Legends
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
+ olf Legends\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

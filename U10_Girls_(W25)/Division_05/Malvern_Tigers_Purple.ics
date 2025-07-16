@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Purple Fixtures
+X-WR-CALNAME:Malvern Tigers Purple Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4c32459e-2624-47eb-94ff-2cc3acbde757
+SEQUENCE:0
+DTSTAMP:20250716T171623
+DTSTART:20250726T110000
+DTEND:20250726T114500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Purple vs Maccabi Eagles
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Eag
+ les\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:63e8bcf9-8805-40e2-a06e-ca8eb785cd8b
+SEQUENCE:0
+DTSTAMP:20250716T171623
+DTSTART:20250802T110000
+DTEND:20250802T114500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Purple vs AlphaWolf Blaze
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: AlphaWolf B
+ laze\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d66a3676-160f-4f40-b63f-3fe57b86c956
+SEQUENCE:0
+DTSTAMP:20250716T171623
+DTSTART:20250816T080000
+DTEND:20250816T084500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Purple vs Timberwolves Gems
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Gems\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d08c5066-39a9-479a-b8a1-676c7f5805c6
+SEQUENCE:0
+DTSTAMP:20250716T171623
+DTSTART:20250823T110000
+DTEND:20250823T114500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Purple vs Ashy Lightning Green
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Ashy Lightn
+ ing Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b63a2607-8005-406d-87b7-2d1593aabecb
+SEQUENCE:0
+DTSTAMP:20250716T171623
+DTSTART:20250830T080000
+DTEND:20250830T084500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Purple vs Malvern Tigers Brown
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Brown\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

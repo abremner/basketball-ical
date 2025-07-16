@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers White Fixtures
+X-WR-CALNAME:Malvern Tigers White Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:391b18a9-e8bd-4d9e-af9b-4e8b24ab3e04
+SEQUENCE:0
+DTSTAMP:20250716T171617
+DTSTART:20250726T123000
+DTEND:20250726T131500
+SUMMARY:🏀 U10 Girls: Malvern Tigers White vs Malvern Tigers Blue
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f9ef40eb-539a-46b1-bbd4-e61c7a72bcac
+SEQUENCE:0
+DTSTAMP:20250716T171617
+DTSTART:20250802T123000
+DTEND:20250802T131500
+SUMMARY:🏀 U10 Girls: Malvern Tigers White vs Dairy Park Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Dairy Park 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:73de8e6a-fab4-41ac-9eec-ec94dc98a08c
+SEQUENCE:0
+DTSTAMP:20250716T171617
+DTSTART:20250809T123000
+DTEND:20250809T131500
+SUMMARY:🏀 U10 Girls: Malvern Tigers White vs AlphaWolf Sparks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: AlphaWolf S
+ parks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:df1c994d-f7c6-4754-8a5e-50d1228d85ac
+SEQUENCE:0
+DTSTAMP:20250716T171617
+DTSTART:20250823T123000
+DTEND:20250823T131500
+SUMMARY:🏀 U10 Girls: Malvern Tigers White vs Solway Mistrals
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Mist
+ rals\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5aa3e59c-60dc-414d-b99b-1d9ba99f010b
+SEQUENCE:0
+DTSTAMP:20250716T171617
+DTSTART:20250830T123000
+DTEND:20250830T131500
+SUMMARY:🏀 U10 Girls: Malvern Tigers White vs Glen Iris Scorpions Fernda
+ le
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Glen Iris S
+ corpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

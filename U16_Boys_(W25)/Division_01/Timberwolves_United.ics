@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves United Fixtures
+X-WR-CALNAME:Timberwolves United Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ce794c92-ed41-4a06-80ef-7de052d28496
+SEQUENCE:0
+DTSTAMP:20250716T171756
+DTSTART:20250726T191500
+DTEND:20250726T200000
+SUMMARY:🏀 U16 Boys: Timberwolves United vs Toorak Tropics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
+  Tropics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:395bd59f-259e-46cc-922a-67390325daa7
+SEQUENCE:0
+DTSTAMP:20250716T171756
+DTSTART:20250802T183000
+DTEND:20250802T191500
+SUMMARY:🏀 U16 Boys: Timberwolves United vs Bayside Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Baysid
+ e Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:74bdf74b-82a6-413c-bf79-f31e4527a4bf
+SEQUENCE:0
+DTSTAMP:20250716T171756
+DTSTART:20250809T191500
+DTEND:20250809T200000
+SUMMARY:🏀 U16 Boys: Timberwolves United vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cdc4c182-f26d-49ce-acf5-f331eedb1670
+SEQUENCE:0
+DTSTAMP:20250716T171756
+DTSTART:20250816T191500
+DTEND:20250816T200000
+SUMMARY:🏀 U16 Boys: Timberwolves United vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4c71dbb4-7e49-4c32-99c2-93cb14a57179
+SEQUENCE:0
+DTSTAMP:20250716T171756
+DTSTART:20250830T183000
+DTEND:20250830T191500
+SUMMARY:🏀 U16 Boys: Timberwolves United vs Timberwolves Hustlers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Hustlers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

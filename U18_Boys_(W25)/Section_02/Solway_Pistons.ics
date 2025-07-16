@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Pistons Fixtures
+X-WR-CALNAME:Solway Pistons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d74f92f1-c38e-4902-8f69-91800dcdfcfe
+SEQUENCE:0
+DTSTAMP:20250716T171830
+DTSTART:20250727T173000
+DTEND:20250727T181500
+SUMMARY:🏀 U18 Boys: Solway Pistons vs Tooronga Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Tooron
+ ga Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:10efd41b-3ff0-49b8-a724-f83d0518d45c
+SEQUENCE:0
+DTSTAMP:20250716T171830
+DTSTART:20250803T173000
+DTEND:20250803T181500
+SUMMARY:🏀 U18 Boys: Solway Pistons vs Glenbrook Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glenbr
+ ook Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0932a54b-048c-4763-a276-6c7a9b878fef
+SEQUENCE:0
+DTSTAMP:20250716T171830
+DTSTART:20250810T181500
+DTEND:20250810T190000
+SUMMARY:🏀 U18 Boys: Solway Pistons vs Glen Iris Scorpions Sixers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
+ ris Scorpions Sixers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f2507110-d53e-4b79-b8ee-809702d5198d
+SEQUENCE:0
+DTSTAMP:20250716T171830
+DTSTART:20250817T190000
+DTEND:20250817T194500
+SUMMARY:🏀 U18 Boys: Solway Pistons vs Watson Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Watson
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:19a9fd95-53b3-4c34-b04e-334f603f87b0
+SEQUENCE:0
+DTSTAMP:20250716T171830
+DTSTART:20250824T190000
+DTEND:20250824T194500
+SUMMARY:🏀 U18 Boys: Solway Pistons vs Maccabi Lightening
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Lightening\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:85527cca-8392-40c3-a8f1-768724089373
+SEQUENCE:0
+DTSTAMP:20250716T171830
+DTSTART:20250831T190000
+DTEND:20250831T194500
+SUMMARY:🏀 U18 Boys: Solway Pistons vs Tooronga Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Tooron
+ ga Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

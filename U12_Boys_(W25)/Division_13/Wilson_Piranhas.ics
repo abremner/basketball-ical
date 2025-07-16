@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Wilson Piranhas Fixtures
+X-WR-CALNAME:Wilson Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d1b79138-a703-4b16-ac82-4bc2b9504b79
+SEQUENCE:0
+DTSTAMP:20250716T171653
+DTSTART:20250726T144500
+DTEND:20250726T153000
+SUMMARY:🏀 U12 Boys: Wilson Piranhas vs Golden Hawks Blaze
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Golden 
+ Hawks Blaze\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:202332a3-e21e-4f79-891c-922013a7cd6b
+SEQUENCE:0
+DTSTAMP:20250716T171653
+DTSTART:20250802T144500
+DTEND:20250802T153000
+SUMMARY:🏀 U12 Boys: Wilson Piranhas vs Timberwolves Cavs
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Cavs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7a02c5fe-1f09-4c77-8216-66a032280080
+SEQUENCE:0
+DTSTAMP:20250716T171653
+DTSTART:20250809T144500
+DTEND:20250809T153000
+SUMMARY:🏀 U12 Boys: Wilson Piranhas vs Maccabi Jaguars
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Jaguars\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2ad20942-0f32-4e13-9cf8-780aa15b6866
+SEQUENCE:0
+DTSTAMP:20250716T171653
+DTSTART:20250816T123000
+DTEND:20250816T131500
+SUMMARY:🏀 U12 Boys: Wilson Piranhas vs Malvern Tigers Aqua
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Aqua\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1caadcba-24ce-462b-aef7-bf233e5e0204
+SEQUENCE:0
+DTSTAMP:20250716T171653
+DTSTART:20250823T144500
+DTEND:20250823T153000
+SUMMARY:🏀 U12 Boys: Wilson Piranhas vs Balaclava Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Balacla
+ va Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:adc7ce43-70bf-4d03-9d9e-99fd269a22d3
+SEQUENCE:0
+DTSTAMP:20250716T171653
+DTSTART:20250830T144500
+DTEND:20250830T153000
+SUMMARY:🏀 U12 Boys: Wilson Piranhas vs Golden Hawks Blaze
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Golden 
+ Hawks Blaze\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

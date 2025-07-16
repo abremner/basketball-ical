@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Ferndale Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Ferndale Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6fd64eab-658c-4dbd-9c60-dfb840280441
+SEQUENCE:0
+DTSTAMP:20250716T171550
+DTSTART:20250726T093000
+DTEND:20250726T101500
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Ferndale vs Malvern Tigers Gree
+ n
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c5845ddc-cc08-4d98-b435-cdc2a94b0102
+SEQUENCE:0
+DTSTAMP:20250716T171550
+DTSTART:20250802T110000
+DTEND:20250802T114500
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Ferndale vs Armadale Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Armadal
+ e Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:74f544e8-7b54-4c02-adf7-ec70631982e9
+SEQUENCE:0
+DTSTAMP:20250716T171550
+DTSTART:20250809T110000
+DTEND:20250809T114500
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Ferndale vs Toorak Tigersharks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Tigersharks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0fd27fdc-3bad-4b30-bc23-5664870758ff
+SEQUENCE:0
+DTSTAMP:20250716T171550
+DTSTART:20250816T131500
+DTEND:20250816T140000
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Ferndale vs Solway Lakers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Lakers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9d2c93f2-fb64-4ed2-a8b9-a4692f1098c3
+SEQUENCE:0
+DTSTAMP:20250716T171550
+DTSTART:20250823T131500
+DTEND:20250823T140000
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Ferndale vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6b4f766b-9d36-4254-b9c9-72f0c8808252
+SEQUENCE:0
+DTSTAMP:20250716T171550
+DTSTART:20250830T093000
+DTEND:20250830T101500
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Ferndale vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Raven Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Raven Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b24be289-85fc-4d5d-bfa3-845455d6c85e
+SEQUENCE:0
+DTSTAMP:20250716T171600
+DTSTART:20250726T084500
+DTEND:20250726T093000
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Timberwolves Legends
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Legends\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b4745a48-e35b-4e71-b098-55dcc1117637
+SEQUENCE:0
+DTSTAMP:20250716T171600
+DTSTART:20250802T110000
+DTEND:20250802T114500
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Phoenix Park Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Phoenix Park Piranhas\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2755ac06-bd57-406e-bf68-3e8b427ca9f7
+SEQUENCE:0
+DTSTAMP:20250716T171600
+DTSTART:20250809T080000
+DTEND:20250809T084500
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Timberwolves Lightning
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Lightning\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1c46aa17-b2d6-4e2e-a9fb-8a0a944cc795
+SEQUENCE:0
+DTSTAMP:20250716T171600
+DTSTART:20250816T110000
+DTEND:20250816T114500
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Maccabi Falcons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Falcons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:665fef05-71b5-437d-87fe-31f888b4175e
+SEQUENCE:0
+DTSTAMP:20250716T171600
+DTSTART:20250823T110000
+DTEND:20250823T114500
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Timberwolves Bucks
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Bucks\nArrive 15
+  mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:91069741-885a-4cf3-b4ee-1e5a03aaf2b7
+SEQUENCE:0
+DTSTAMP:20250716T171600
+DTSTART:20250830T084500
+DTEND:20250830T093000
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Comets Snake
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
+  Snake\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

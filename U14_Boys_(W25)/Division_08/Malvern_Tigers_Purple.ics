@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Purple Fixtures
+X-WR-CALNAME:Malvern Tigers Purple Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ecda0eed-c792-4c54-8b3f-1a3079dac34d
+SEQUENCE:0
+DTSTAMP:20250716T171732
+DTSTART:20250726T161500
+DTEND:20250726T170000
+SUMMARY:🏀 U14 Boys: Malvern Tigers Purple vs Prahran Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Prahra
+ n Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5117dab6-5dbc-4734-bf36-dc7627e3c22e
+SEQUENCE:0
+DTSTAMP:20250716T171732
+DTSTART:20250809T153000
+DTEND:20250809T161500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Purple vs Solway Ninjas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Ninjas\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1c6674c1-8873-467d-b707-7eefc8483dba
+SEQUENCE:0
+DTSTAMP:20250716T171732
+DTSTART:20250816T153000
+DTEND:20250816T161500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Purple vs Comets Sharks
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Comets Sharks\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:24929a5f-2f04-4498-b7d0-04bdeed9ad26
+SEQUENCE:0
+DTSTAMP:20250716T171732
+DTSTART:20250823T161500
+DTEND:20250823T170000
+SUMMARY:🏀 U14 Boys: Malvern Tigers Purple vs Glen Iris Scorpions Summer
+ hill
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Summerhill\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f405de61-c304-4ce5-a211-402a1aa04f2e
+SEQUENCE:0
+DTSTAMP:20250716T171732
+DTSTART:20250830T131500
+DTEND:20250830T140000
+SUMMARY:🏀 U14 Boys: Malvern Tigers Purple vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

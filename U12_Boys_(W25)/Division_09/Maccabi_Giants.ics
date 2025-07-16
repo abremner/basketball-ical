@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Giants Fixtures
+X-WR-CALNAME:Maccabi Giants Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:24a943b5-8eee-4fba-85dd-5f7b0cbb252f
+SEQUENCE:0
+DTSTAMP:20250716T171643
+DTSTART:20250726T123000
+DTEND:20250726T131500
+SUMMARY:🏀 U12 Boys: Maccabi Giants vs Golden Hawks Iron
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Golden
+  Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2e74008a-0601-41ea-bd01-b1e30b43d5ce
+SEQUENCE:0
+DTSTAMP:20250716T171643
+DTSTART:20250802T114500
+DTEND:20250802T123000
+SUMMARY:🏀 U12 Boys: Maccabi Giants vs Warrawee Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Warrawe
+ e Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2243caed-3327-4e27-86fd-c8f9938cf098
+SEQUENCE:0
+DTSTAMP:20250716T171643
+DTSTART:20250809T114500
+DTEND:20250809T123000
+SUMMARY:🏀 U12 Boys: Maccabi Giants vs Central Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Central
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:802daa96-0e9c-4e7b-bd6e-fa6f23ad3437
+SEQUENCE:0
+DTSTAMP:20250716T171643
+DTSTART:20250816T131500
+DTEND:20250816T140000
+SUMMARY:🏀 U12 Boys: Maccabi Giants vs Malvern Tigers Maroon
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Maroon\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6ee66ff2-57b4-485b-beef-afeb717fda09
+SEQUENCE:0
+DTSTAMP:20250716T171643
+DTSTART:20250823T114500
+DTEND:20250823T123000
+SUMMARY:🏀 U12 Boys: Maccabi Giants vs Maccabi Falcons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Falcons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fe6925a4-49f6-47e0-a428-9405aa54f464
+SEQUENCE:0
+DTSTAMP:20250716T171643
+DTSTART:20250830T123000
+DTEND:20250830T131500
+SUMMARY:🏀 U12 Boys: Maccabi Giants vs Golden Hawks Iron
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Golden
+  Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

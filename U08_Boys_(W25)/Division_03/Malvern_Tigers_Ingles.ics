@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Ingles Fixtures
+X-WR-CALNAME:Malvern Tigers Ingles Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0d5e5888-5144-4c89-b0db-85690791d4db
+SEQUENCE:0
+DTSTAMP:20250716T171527
+DTSTART:20250802T093000
+DTEND:20250802T101500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Ingles vs Claremont Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Claremo
+ nt Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:db484d51-8889-44c0-b207-db41a71ec43a
+SEQUENCE:0
+DTSTAMP:20250716T171527
+DTSTART:20250809T084500
+DTEND:20250809T093000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Ingles vs Melbourne Wolves RBT Rapto
+ rs
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Melbour
+ ne Wolves RBT Raptors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e61a4ee7-e5ce-4e3f-9642-b80811bebbfa
+SEQUENCE:0
+DTSTAMP:20250716T171527
+DTSTART:20250816T080000
+DTEND:20250816T084500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Ingles vs Arax
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Arax\nA
+ rrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a40a9424-b7d0-4391-a528-620a795f1fb6
+SEQUENCE:0
+DTSTAMP:20250716T171527
+DTSTART:20250823T080000
+DTEND:20250823T084500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Ingles vs Solway Brumbies
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Brumbies\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:31ef7525-a185-4487-95c7-d78335197995
+SEQUENCE:0
+DTSTAMP:20250716T171527
+DTSTART:20250830T093000
+DTEND:20250830T101500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Ingles vs Solway Chargers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Chargers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

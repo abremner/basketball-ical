@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Lauriston Fire Fixtures
+X-WR-CALNAME:Lauriston Fire Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0096c74f-f692-4f56-8e32-c8b3a616368f
+SEQUENCE:0
+DTSTAMP:20250716T171617
+DTSTART:20250726T123000
+DTEND:20250726T131500
+SUMMARY:🏀 U10 Girls: Lauriston Fire vs Solway Mistrals
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Mist
+ rals\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:20d855c6-69c8-4abc-81ac-b5bd68f04214
+SEQUENCE:0
+DTSTAMP:20250716T171617
+DTSTART:20250809T123000
+DTEND:20250809T131500
+SUMMARY:🏀 U10 Girls: Lauriston Fire vs Malvern Tigers Blue
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3b489d6f-bccd-4738-96e5-d295e9ff5c29
+SEQUENCE:0
+DTSTAMP:20250716T171617
+DTSTART:20250816T110000
+DTEND:20250816T114500
+SUMMARY:🏀 U10 Girls: Lauriston Fire vs Glen Iris Scorpions Ferndale
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
+ ris Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:82a95334-0998-482a-8cb2-33c30b91385d
+SEQUENCE:0
+DTSTAMP:20250716T171617
+DTSTART:20250823T123000
+DTEND:20250823T131500
+SUMMARY:🏀 U10 Girls: Lauriston Fire vs Dairy Park Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Dairy Park 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:83b73975-1e6d-4fe5-bec2-b51c2f963d82
+SEQUENCE:0
+DTSTAMP:20250716T171617
+DTSTART:20250830T110000
+DTEND:20250830T114500
+SUMMARY:🏀 U10 Girls: Lauriston Fire vs AlphaWolf Sparks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AlphaW
+ olf Sparks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

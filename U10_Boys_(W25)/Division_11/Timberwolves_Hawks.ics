@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Hawks Fixtures
+X-WR-CALNAME:Timberwolves Hawks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:860c8754-770a-4561-a30a-393ad89e9e48
+SEQUENCE:0
+DTSTAMP:20250716T171609
+DTSTART:20250726T084500
+DTEND:20250726T093000
+SUMMARY:🏀 U10 Boys: Timberwolves Hawks vs Ashy Lightning Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:257f6b61-c032-47d8-9288-6972a23048e0
+SEQUENCE:0
+DTSTAMP:20250716T171609
+DTSTART:20250802T080000
+DTEND:20250802T084500
+SUMMARY:🏀 U10 Boys: Timberwolves Hawks vs SouthEast Venom Magic
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: SouthE
+ ast Venom Magic\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:23cf1209-0049-4a0f-8ef0-0d98311272a3
+SEQUENCE:0
+DTSTAMP:20250716T171609
+DTSTART:20250809T084500
+DTEND:20250809T093000
+SUMMARY:🏀 U10 Boys: Timberwolves Hawks vs Maccabi Jaguars
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Jaguars\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:70e9bff7-2987-47f3-8e12-5b43cf2c4348
+SEQUENCE:0
+DTSTAMP:20250716T171609
+DTSTART:20250816T084500
+DTEND:20250816T093000
+SUMMARY:🏀 U10 Boys: Timberwolves Hawks vs Koornang Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Koornang Piranhas\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:81e8b49a-bd03-4807-a9dc-6475eef66e56
+SEQUENCE:0
+DTSTAMP:20250716T171609
+DTSTART:20250823T080000
+DTEND:20250823T084500
+SUMMARY:🏀 U10 Boys: Timberwolves Hawks vs Solway Hornets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Hornets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:47806417-146a-4e5e-884d-28c4c136297b
+SEQUENCE:0
+DTSTAMP:20250716T171609
+DTSTART:20250830T080000
+DTEND:20250830T084500
+SUMMARY:🏀 U10 Boys: Timberwolves Hawks vs Ashy Lightning Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ashy L
+ ightning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

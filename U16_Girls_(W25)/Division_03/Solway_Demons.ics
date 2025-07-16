@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Demons Fixtures
+X-WR-CALNAME:Solway Demons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c4503276-f0ed-4b51-a84c-84a1986823e6
+SEQUENCE:0
+DTSTAMP:20250716T171822
+DTSTART:20250722T174500
+DTEND:20250722T183000
+SUMMARY:🏀 U16 Girls: Solway Demons vs Malvern Tigers Wallace
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Wallace\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:13c33afa-f80b-456a-a43c-7f5b600a8ea8
+SEQUENCE:0
+DTSTAMP:20250716T171822
+DTSTART:20250729T174500
+DTEND:20250729T183000
+SUMMARY:🏀 U16 Girls: Solway Demons vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6d8809c2-ab15-45f7-8fd7-32b29f234a53
+SEQUENCE:0
+DTSTAMP:20250716T171822
+DTSTART:20250805T174500
+DTEND:20250805T183000
+SUMMARY:🏀 U16 Girls: Solway Demons vs Malvern Tigers Atwell
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Atwell\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4fcdc779-8951-4410-89a6-42509d40e6ca
+SEQUENCE:0
+DTSTAMP:20250716T171822
+DTSTART:20250819T174500
+DTEND:20250819T183000
+SUMMARY:🏀 U16 Girls: Solway Demons vs Timberwolves Emeralds
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Emeralds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:594d2a31-7d18-494d-a4f6-97a8ffaf4aa4
+SEQUENCE:0
+DTSTAMP:20250716T171822
+DTSTART:20250826T174500
+DTEND:20250826T183000
+SUMMARY:🏀 U16 Girls: Solway Demons vs Solway Phoenix
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Phoenix\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

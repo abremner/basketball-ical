@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Serrell Park Piranhas Fixtures
+X-WR-CALNAME:Serrell Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7c08bb91-0273-40b0-aa4d-ea64e830d5ac
+SEQUENCE:0
+DTSTAMP:20250716T171805
+DTSTART:20250726T183000
+DTEND:20250726T191500
+SUMMARY:🏀 U16 Boys: Serrell Park Piranhas vs Toorak Terminators
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
+  Terminators\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f43912a8-7835-45bb-b1f7-7b8f34cca0b1
+SEQUENCE:0
+DTSTAMP:20250716T171805
+DTSTART:20250802T191500
+DTEND:20250802T200000
+SUMMARY:🏀 U16 Boys: Serrell Park Piranhas vs Timberwolves Magnum
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Magnum\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e7dac428-0504-487e-8238-c0483ed8c1d3
+SEQUENCE:0
+DTSTAMP:20250716T171805
+DTSTART:20250809T183000
+DTEND:20250809T191500
+SUMMARY:🏀 U16 Boys: Serrell Park Piranhas vs Ripponlea Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Rippon
+ lea Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4a05a0f4-a321-4ba9-a40a-fdc1e4abb855
+SEQUENCE:0
+DTSTAMP:20250716T171805
+DTSTART:20250816T191500
+DTEND:20250816T200000
+SUMMARY:🏀 U16 Boys: Serrell Park Piranhas vs Toorak Tornadoes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak 
+ Tornadoes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9d93d583-1c40-4955-90d1-19d423319ae4
+SEQUENCE:0
+DTSTAMP:20250716T171805
+DTSTART:20250823T191500
+DTEND:20250823T200000
+SUMMARY:🏀 U16 Boys: Serrell Park Piranhas vs Maccabi Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:45281599-cb3b-496f-ac8d-6f5481dfa06a
+SEQUENCE:0
+DTSTAMP:20250716T171805
+DTSTART:20250830T183000
+DTEND:20250830T191500
+SUMMARY:🏀 U16 Boys: Serrell Park Piranhas vs Solway Super Sonics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Super Sonics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

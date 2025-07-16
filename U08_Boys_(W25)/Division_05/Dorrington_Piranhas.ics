@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Dorrington Piranhas Fixtures
+X-WR-CALNAME:Dorrington Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5915f05e-4cba-4b92-ad32-7e070d52a3fb
+SEQUENCE:0
+DTSTAMP:20250716T171531
+DTSTART:20250726T084500
+DTEND:20250726T093000
+SUMMARY:🏀 U08 Boys: Dorrington Piranhas vs Solway Stallions
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Stallions\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2a54d67a-8fd5-4f73-8b46-ba2f028a2b9f
+SEQUENCE:0
+DTSTAMP:20250716T171531
+DTSTART:20250802T084500
+DTEND:20250802T093000
+SUMMARY:🏀 U08 Boys: Dorrington Piranhas vs Golden Hawks Sky
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Golden 
+ Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fa811962-342d-46ff-ae41-60ae24745300
+SEQUENCE:0
+DTSTAMP:20250716T171531
+DTSTART:20250809T084500
+DTEND:20250809T093000
+SUMMARY:🏀 U08 Boys: Dorrington Piranhas vs Wattletree Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Wattlet
+ ree Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d2d7f932-768e-417a-8ffb-945a97d14e6f
+SEQUENCE:0
+DTSTAMP:20250716T171531
+DTSTART:20250816T084500
+DTEND:20250816T093000
+SUMMARY:🏀 U08 Boys: Dorrington Piranhas vs Solway Steeds
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Steeds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:038efd1a-6658-4b5d-b3f3-67ed9f0c8689
+SEQUENCE:0
+DTSTAMP:20250716T171531
+DTSTART:20250823T093000
+DTEND:20250823T101500
+SUMMARY:🏀 U08 Boys: Dorrington Piranhas vs Renwick Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Renwick
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d2239caa-89cf-4564-b667-85e1be514f63
+SEQUENCE:0
+DTSTAMP:20250716T171531
+DTSTART:20250830T093000
+DTEND:20250830T101500
+SUMMARY:🏀 U08 Boys: Dorrington Piranhas vs Solway Stallions
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Stallions\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

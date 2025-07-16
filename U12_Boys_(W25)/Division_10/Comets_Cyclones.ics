@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Comets Cyclones Fixtures
+X-WR-CALNAME:Comets Cyclones Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b1d999b2-e122-4f73-9bc1-023b794f546b
+SEQUENCE:0
+DTSTAMP:20250716T171644
+DTSTART:20250726T131500
+DTEND:20250726T140000
+SUMMARY:🏀 U12 Boys: Comets Cyclones vs Malvern Tigers Grey
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Grey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3dd4e5c1-2e35-4913-821f-be6b966f59b8
+SEQUENCE:0
+DTSTAMP:20250716T171644
+DTSTART:20250809T123000
+DTEND:20250809T131500
+SUMMARY:🏀 U12 Boys: Comets Cyclones vs Solway Panthers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Panthers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:77db9641-55ad-4f1f-a669-d18895198aeb
+SEQUENCE:0
+DTSTAMP:20250716T171644
+DTSTART:20250816T123000
+DTEND:20250816T131500
+SUMMARY:🏀 U12 Boys: Comets Cyclones vs Comets Tigers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Comets 
+ Tigers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e10250fb-eed9-45ed-b329-2dc3c30bd926
+SEQUENCE:0
+DTSTAMP:20250716T171644
+DTSTART:20250823T123000
+DTEND:20250823T131500
+SUMMARY:🏀 U12 Boys: Comets Cyclones vs Toorak Thunder
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
+ Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ecf4f896-0e70-4d7f-a7f7-b54acaeddc70
+SEQUENCE:0
+DTSTAMP:20250716T171644
+DTSTART:20250830T114500
+DTEND:20250830T123000
+SUMMARY:🏀 U12 Boys: Comets Cyclones vs Stonnington Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Stonni
+ ngton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

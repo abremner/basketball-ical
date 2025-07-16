@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e03fd223-e141-4221-8dad-32e2944bbe93
+SEQUENCE:0
+DTSTAMP:20250716T171620
+DTSTART:20250726T093000
+DTEND:20250726T101500
+SUMMARY:🏀 U10 Girls: Maccabi Celtics vs Embling Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Emblin
+ g Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8d1d34e5-75a0-4926-bec0-35c9459cecf6
+SEQUENCE:0
+DTSTAMP:20250716T171620
+DTSTART:20250802T084500
+DTEND:20250802T093000
+SUMMARY:🏀 U10 Girls: Maccabi Celtics vs Grace Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Grace 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:63f9230b-00d2-425a-abe6-a9e09a0f7793
+SEQUENCE:0
+DTSTAMP:20250716T171620
+DTSTART:20250809T093000
+DTEND:20250809T101500
+SUMMARY:🏀 U10 Girls: Maccabi Celtics vs Valentine Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Valent
+ ine Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cd0c7b1f-713f-4129-bfd1-9a90c692ad5e
+SEQUENCE:0
+DTSTAMP:20250716T171620
+DTSTART:20250816T084500
+DTEND:20250816T093000
+SUMMARY:🏀 U10 Girls: Maccabi Celtics vs Malvern Tigers Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b22569b2-cd02-4786-9cbd-ebe05b9d9823
+SEQUENCE:0
+DTSTAMP:20250716T171620
+DTSTART:20250823T114500
+DTEND:20250823T123000
+SUMMARY:🏀 U10 Girls: Maccabi Celtics vs Glen Iris Scorpions Gardiner
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Glen Iris S
+ corpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:31f17ee8-bf90-48ac-b84a-0c2d795713f0
+SEQUENCE:0
+DTSTAMP:20250716T171620
+DTSTART:20250830T114500
+DTEND:20250830T123000
+SUMMARY:🏀 U10 Girls: Maccabi Celtics vs Maccabi Bucks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Buc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

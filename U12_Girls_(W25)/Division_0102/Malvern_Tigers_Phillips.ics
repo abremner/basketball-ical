@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Phillips Fixtures
+X-WR-CALNAME:Malvern Tigers Phillips Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1ede3608-97a5-4400-94b9-d9087a977811
+SEQUENCE:0
+DTSTAMP:20250716T171655
+DTSTART:20250726T153000
+DTEND:20250726T161500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Phillips vs Solway Finches
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Finches\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:69643e76-888d-4409-922d-4243cecee060
+SEQUENCE:0
+DTSTAMP:20250716T171655
+DTSTART:20250802T153000
+DTEND:20250802T161500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Phillips vs Solway Bluebirds
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Bluebirds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:be134405-6cee-48b8-bafb-5c4deb9589e9
+SEQUENCE:0
+DTSTAMP:20250716T171655
+DTSTART:20250809T140000
+DTEND:20250809T144500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Phillips vs Glen Iris Scorpions Fer
+ ndale
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
+ ris Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c5a7a8fb-9fc9-415b-b9cd-d242c44d2911
+SEQUENCE:0
+DTSTAMP:20250716T171655
+DTSTART:20250816T144500
+DTEND:20250816T153000
+SUMMARY:🏀 U12 Girls: Malvern Tigers Phillips vs Timberwolves Strikers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Strikers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:87b7e708-f89a-4722-8dfd-a25defb1aa14
+SEQUENCE:0
+DTSTAMP:20250716T171655
+DTSTART:20250823T153000
+DTEND:20250823T161500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Phillips vs Toorak TopShots
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ TopShots\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8dff86ae-058f-4082-bf6d-74395751eeab
+SEQUENCE:0
+DTSTAMP:20250716T171655
+DTSTART:20250830T144500
+DTEND:20250830T153000
+SUMMARY:🏀 U12 Girls: Malvern Tigers Phillips vs Yanakie Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Yanaki
+ e Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

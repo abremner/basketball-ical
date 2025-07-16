@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Lions Fixtures
+X-WR-CALNAME:Solway Lions Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:50338bec-4c86-419a-ab05-12afb64e2ff4
+SEQUENCE:0
+DTSTAMP:20250716T171633
+DTSTART:20250726T131500
+DTEND:20250726T140000
+SUMMARY:🏀 U12 Boys: Solway Lions vs Timberwolves Heat
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Heat\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b535b3e0-aa6a-407b-8365-ea4c434760e3
+SEQUENCE:0
+DTSTAMP:20250716T171633
+DTSTART:20250802T140000
+DTEND:20250802T144500
+SUMMARY:🏀 U12 Boys: Solway Lions vs Malvern Tigers Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0ea2a924-bfcd-4c8e-98df-aa8dfd7f673d
+SEQUENCE:0
+DTSTAMP:20250716T171633
+DTSTART:20250809T140000
+DTEND:20250809T144500
+SUMMARY:🏀 U12 Boys: Solway Lions vs Toorak Torchers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
+ Torchers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a2f511f7-8030-476e-8e39-7e5c0eed841b
+SEQUENCE:0
+DTSTAMP:20250716T171633
+DTSTART:20250823T140000
+DTEND:20250823T144500
+SUMMARY:🏀 U12 Boys: Solway Lions vs Toorak Tigersnakes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
+ Tigersnakes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1e2857db-a71b-4cf2-a844-2175b5cb5856
+SEQUENCE:0
+DTSTAMP:20250716T171633
+DTSTART:20250830T131500
+DTEND:20250830T140000
+SUMMARY:🏀 U12 Boys: Solway Lions vs Timberwolves Heat
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Heat\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

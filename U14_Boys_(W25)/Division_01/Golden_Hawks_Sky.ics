@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Golden Hawks Sky Fixtures
+X-WR-CALNAME:Golden Hawks Sky Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2dcb94a0-93ef-4cf0-aa63-b1d4eca2da4b
+SEQUENCE:0
+DTSTAMP:20250716T171711
+DTSTART:20250726T174500
+DTEND:20250726T183000
+SUMMARY:🏀 U14 Boys: Golden Hawks Sky vs Timberwolves Lions
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Lions\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:094eaedc-ad06-47c3-be36-90329602db21
+SEQUENCE:0
+DTSTAMP:20250716T171711
+DTSTART:20250809T170000
+DTEND:20250809T174500
+SUMMARY:🏀 U14 Boys: Golden Hawks Sky vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c15e9dbb-af94-4134-961e-0be18c5aef40
+SEQUENCE:0
+DTSTAMP:20250716T171711
+DTSTART:20250816T174500
+DTEND:20250816T183000
+SUMMARY:🏀 U14 Boys: Golden Hawks Sky vs Toorak Tyrants
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
+  Tyrants\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f805ba29-dba2-463b-a0cf-fff9635c707a
+SEQUENCE:0
+DTSTAMP:20250716T171711
+DTSTART:20250823T170000
+DTEND:20250823T174500
+SUMMARY:🏀 U14 Boys: Golden Hawks Sky vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:05658e22-66c8-465a-b5eb-fd6b6af26f2f
+SEQUENCE:0
+DTSTAMP:20250716T171711
+DTSTART:20250830T174500
+DTEND:20250830T183000
+SUMMARY:🏀 U14 Boys: Golden Hawks Sky vs Timberwolves Lions
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Lions\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

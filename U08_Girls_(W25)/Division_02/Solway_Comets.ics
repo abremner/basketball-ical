@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Comets Fixtures
+X-WR-CALNAME:Solway Comets Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3751b093-41e7-44ab-ac4f-c11629854732
+SEQUENCE:0
+DTSTAMP:20250716T171537
+DTSTART:20250726T080000
+DTEND:20250726T084500
+SUMMARY:🏀 U08 Girls: Solway Comets vs Arax
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Arax\nA
+ rrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c5a81224-80d7-4f04-9ff5-25a9424ca650
+SEQUENCE:0
+DTSTAMP:20250716T171537
+DTSTART:20250802T101500
+DTEND:20250802T110000
+SUMMARY:🏀 U08 Girls: Solway Comets vs Glen Iris Scorpions Ferndale
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Glen Iris S
+ corpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c505ebc6-969b-4854-832f-e78150d95363
+SEQUENCE:0
+DTSTAMP:20250716T171537
+DTSTART:20250809T101500
+DTEND:20250809T110000
+SUMMARY:🏀 U08 Girls: Solway Comets vs Solway Stars
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Star
+ s\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:91fb8211-e9e7-4894-af86-306f2dbe77b5
+SEQUENCE:0
+DTSTAMP:20250716T171537
+DTSTART:20250816T101500
+DTEND:20250816T110000
+SUMMARY:🏀 U08 Girls: Solway Comets vs Malvern Tigers Wallace
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Wallace\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b87d9419-3150-45b0-bfa1-45e977001ffc
+SEQUENCE:0
+DTSTAMP:20250716T171537
+DTSTART:20250823T101500
+DTEND:20250823T110000
+SUMMARY:🏀 U08 Girls: Solway Comets vs Malvern Tigers Atwell
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Atwell\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:25f00eb8-c073-43d2-aba4-4f3abaded1c2
+SEQUENCE:0
+DTSTAMP:20250716T171537
+DTSTART:20250830T080000
+DTEND:20250830T084500
+SUMMARY:🏀 U08 Girls: Solway Comets vs Arax
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Arax\nA
+ rrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

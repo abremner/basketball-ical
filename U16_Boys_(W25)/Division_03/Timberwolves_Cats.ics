@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Cats Fixtures
+X-WR-CALNAME:Timberwolves Cats Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:46bacd39-32c8-4976-b58d-b4830b7bdf30
+SEQUENCE:0
+DTSTAMP:20250716T171802
+DTSTART:20250726T174500
+DTEND:20250726T183000
+SUMMARY:🏀 U16 Boys: Timberwolves Cats vs Glen Iris Scorpions Saints
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
+ ris Scorpions Saints\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1b0e5f7b-9bd5-4803-bcea-f5eef6046f67
+SEQUENCE:0
+DTSTAMP:20250716T171802
+DTSTART:20250802T191500
+DTEND:20250802T200000
+SUMMARY:🏀 U16 Boys: Timberwolves Cats vs Solway Slammers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Slammers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1ca9bc64-91aa-48ef-9c0c-d2e9e97ed635
+SEQUENCE:0
+DTSTAMP:20250716T171802
+DTSTART:20250809T191500
+DTEND:20250809T200000
+SUMMARY:🏀 U16 Boys: Timberwolves Cats vs Malvern Tigers Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3ac75233-b10f-4be3-81e9-e23e030b0450
+SEQUENCE:0
+DTSTAMP:20250716T171802
+DTSTART:20250816T183000
+DTEND:20250816T191500
+SUMMARY:🏀 U16 Boys: Timberwolves Cats vs Solway Pistons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Pistons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a08831dc-5b24-4437-880e-b7c3d1898d6a
+SEQUENCE:0
+DTSTAMP:20250716T171802
+DTSTART:20250823T174500
+DTEND:20250823T183000
+SUMMARY:🏀 U16 Boys: Timberwolves Cats vs Timberwolves Taipans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Taipans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:998af338-435f-459e-b996-7f0c7770b3be
+SEQUENCE:0
+DTSTAMP:20250716T171802
+DTSTART:20250830T183000
+DTEND:20250830T191500
+SUMMARY:🏀 U16 Boys: Timberwolves Cats vs Toorak Trackers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Trackers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

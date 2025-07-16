@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:SouthEast Venom Heat Fixtures
+X-WR-CALNAME:SouthEast Venom Heat Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4640dab6-babb-4703-aa6a-59a5b96a1894
+SEQUENCE:0
+DTSTAMP:20250716T171736
+DTSTART:20250726T153000
+DTEND:20250726T161500
+SUMMARY:🏀 U14 Boys: SouthEast Venom Heat vs Maccabi Giants
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Giants\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fd6ea222-3ffe-45f1-b7e9-4c93d6275f92
+SEQUENCE:0
+DTSTAMP:20250716T171736
+DTSTART:20250809T153000
+DTEND:20250809T161500
+SUMMARY:🏀 U14 Boys: SouthEast Venom Heat vs Solway Spartans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Spartans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9c85094e-a764-4425-ae62-60a31d3f4b2a
+SEQUENCE:0
+DTSTAMP:20250716T171736
+DTSTART:20250816T144500
+DTEND:20250816T153000
+SUMMARY:🏀 U14 Boys: SouthEast Venom Heat vs Timberwolves Raptors
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Raptors\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d2893207-40f7-4938-8463-02d381f7afca
+SEQUENCE:0
+DTSTAMP:20250716T171736
+DTSTART:20250823T153000
+DTEND:20250823T161500
+SUMMARY:🏀 U14 Boys: SouthEast Venom Heat vs Malvern Tigers Maroon
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Maroon\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:aefb90d0-d7c6-44a9-bb60-01f9d810ef4d
+SEQUENCE:0
+DTSTAMP:20250716T171736
+DTSTART:20250830T153000
+DTEND:20250830T161500
+SUMMARY:🏀 U14 Boys: SouthEast Venom Heat vs Ashy Lightning White
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
+ ghtning White\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Comets Tigers Fixtures
+X-WR-CALNAME:Comets Tigers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4b669194-8add-4386-8db3-e9a187cf283f
+SEQUENCE:0
+DTSTAMP:20250716T171644
+DTSTART:20250726T114500
+DTEND:20250726T123000
+SUMMARY:🏀 U12 Boys: Comets Tigers vs Toorak Thunder
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:20a28b4f-e980-4f8c-9dca-0503d4ad9183
+SEQUENCE:0
+DTSTAMP:20250716T171644
+DTSTART:20250802T123000
+DTEND:20250802T131500
+SUMMARY:🏀 U12 Boys: Comets Tigers vs Stonnington Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Stonnin
+ gton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f07d2bc6-4561-4796-9023-c20f02b21efa
+SEQUENCE:0
+DTSTAMP:20250716T171644
+DTSTART:20250809T114500
+DTEND:20250809T123000
+SUMMARY:🏀 U12 Boys: Comets Tigers vs Toorak Trouble
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Trouble\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cd03ce37-0c2a-4626-9493-b04acd3c730d
+SEQUENCE:0
+DTSTAMP:20250716T171644
+DTSTART:20250816T123000
+DTEND:20250816T131500
+SUMMARY:🏀 U12 Boys: Comets Tigers vs Comets Cyclones
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Comets 
+ Cyclones\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:92aafebc-96c8-48fc-b00f-15cb0dbfed6f
+SEQUENCE:0
+DTSTAMP:20250716T171644
+DTSTART:20250830T123000
+DTEND:20250830T131500
+SUMMARY:🏀 U12 Boys: Comets Tigers vs Solway Panthers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Panthers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

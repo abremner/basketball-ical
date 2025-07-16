@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Celtics Fixtures
+X-WR-CALNAME:Timberwolves Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a63a3a11-2ece-4c66-86e0-25b24b690b5a
+SEQUENCE:0
+DTSTAMP:20250716T171721
+DTSTART:20250726T161500
+DTEND:20250726T170000
+SUMMARY:🏀 U14 Boys: Timberwolves Celtics vs Malvern Tigers White
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bb1d8e6f-4d25-4228-b068-1eafe569e231
+SEQUENCE:0
+DTSTAMP:20250716T171721
+DTSTART:20250802T170000
+DTEND:20250802T174500
+SUMMARY:🏀 U14 Boys: Timberwolves Celtics vs Toorak Triple-Threat
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
+  Triple-Threat\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:645e4e75-6686-4681-900e-04037c809224
+SEQUENCE:0
+DTSTAMP:20250716T171721
+DTSTART:20250809T170000
+DTEND:20250809T174500
+SUMMARY:🏀 U14 Boys: Timberwolves Celtics vs Maccabi Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8fa490c1-3633-4840-b27f-6d261906d818
+SEQUENCE:0
+DTSTAMP:20250716T171721
+DTSTART:20250823T161500
+DTEND:20250823T170000
+SUMMARY:🏀 U14 Boys: Timberwolves Celtics vs Solway Trojans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Trojans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:48113a17-214e-4d5f-bdee-6fcf851994f9
+SEQUENCE:0
+DTSTAMP:20250716T171721
+DTSTART:20250830T161500
+DTEND:20250830T170000
+SUMMARY:🏀 U14 Boys: Timberwolves Celtics vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

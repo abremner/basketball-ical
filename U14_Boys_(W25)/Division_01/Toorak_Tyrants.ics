@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tyrants Fixtures
+X-WR-CALNAME:Toorak Tyrants Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:979c19ce-a4ce-4481-b27e-35a1d9ccc357
+SEQUENCE:0
+DTSTAMP:20250716T171713
+DTSTART:20250726T170000
+DTEND:20250726T174500
+SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b89175dc-4559-43f2-9b81-71adea4999fa
+SEQUENCE:0
+DTSTAMP:20250716T171713
+DTSTART:20250802T170000
+DTEND:20250802T174500
+SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Timberwolves Lions
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Lions\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ac7c7a95-f830-434b-a8e4-b22cb503c8eb
+SEQUENCE:0
+DTSTAMP:20250716T171713
+DTSTART:20250816T174500
+DTEND:20250816T183000
+SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Golden Hawks Sky
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Golden
+  Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c7defb55-420d-4efc-b2f3-4ec2696e0693
+SEQUENCE:0
+DTSTAMP:20250716T171713
+DTSTART:20250823T174500
+DTEND:20250823T183000
+SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a0fc06c1-a724-4f1c-adca-13f145f21b0d
+SEQUENCE:0
+DTSTAMP:20250716T171713
+DTSTART:20250830T170000
+DTEND:20250830T174500
+SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

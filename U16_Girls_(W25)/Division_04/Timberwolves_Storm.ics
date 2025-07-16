@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Storm Fixtures
+X-WR-CALNAME:Timberwolves Storm Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:dc961709-0e9b-4435-bd0d-568737d6b425
+SEQUENCE:0
+DTSTAMP:20250716T171826
+DTSTART:20250729T174500
+DTEND:20250729T183000
+SUMMARY:🏀 U16 Girls: Timberwolves Storm vs Korowa Cherry
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Korowa
+  Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:839a4cd1-6998-4ce9-819d-902e020f8d1c
+SEQUENCE:0
+DTSTAMP:20250716T171826
+DTSTART:20250805T174500
+DTEND:20250805T183000
+SUMMARY:🏀 U16 Girls: Timberwolves Storm vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3a7262ce-6fb0-4360-a431-4fd7963a1c21
+SEQUENCE:0
+DTSTAMP:20250716T171826
+DTSTART:20250812T174500
+DTEND:20250812T183000
+SUMMARY:🏀 U16 Girls: Timberwolves Storm vs Harold Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Harold
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1b2c9cc2-bae1-4981-9edb-415e5acfa52a
+SEQUENCE:0
+DTSTAMP:20250716T171826
+DTSTART:20250819T174500
+DTEND:20250819T183000
+SUMMARY:🏀 U16 Girls: Timberwolves Storm vs Malvern Tigers Nicholson
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Nicholson\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4d3951d0-2c3b-4d31-99fd-53596f1815be
+SEQUENCE:0
+DTSTAMP:20250716T171826
+DTSTART:20250826T174500
+DTEND:20250826T183000
+SUMMARY:🏀 U16 Girls: Timberwolves Storm vs Glen Iris Scorpions Saints
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Saints\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

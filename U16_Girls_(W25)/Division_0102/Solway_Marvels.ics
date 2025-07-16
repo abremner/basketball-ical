@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Marvels Fixtures
+X-WR-CALNAME:Solway Marvels Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1e1ccc95-9197-48c4-bc7d-e89d5222db49
+SEQUENCE:0
+DTSTAMP:20250716T171819
+DTSTART:20250722T183000
+DTEND:20250722T191500
+SUMMARY:🏀 U16 Girls: Solway Marvels vs Malvern Tigers Tolo
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Tolo\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3d516c94-04cf-44d4-9bb3-9b1db04ceef1
+SEQUENCE:0
+DTSTAMP:20250716T171819
+DTSTART:20250729T174500
+DTEND:20250729T183000
+SUMMARY:🏀 U16 Girls: Solway Marvels vs Timberwolves Rockets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Rockets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8b630ab9-7249-43b2-b82f-64a36b05e235
+SEQUENCE:0
+DTSTAMP:20250716T171819
+DTSTART:20250805T183000
+DTEND:20250805T191500
+SUMMARY:🏀 U16 Girls: Solway Marvels vs Solway Fever
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Fever\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a279fef7-594f-4c92-8c6e-40371c6a8389
+SEQUENCE:0
+DTSTAMP:20250716T171819
+DTSTART:20250812T174500
+DTEND:20250812T183000
+SUMMARY:🏀 U16 Girls: Solway Marvels vs Malvern Tigers Rocci
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Rocci\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6b834714-6e42-43af-ad6f-d479679d2e2f
+SEQUENCE:0
+DTSTAMP:20250716T171819
+DTSTART:20250826T174500
+DTEND:20250826T183000
+SUMMARY:🏀 U16 Girls: Solway Marvels vs Glen Iris Scorpions Sixers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
+ ris Scorpions Sixers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

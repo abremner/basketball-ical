@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Jarry Fixtures
+X-WR-CALNAME:Malvern Tigers Jarry Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a55d5397-a5a6-4ed3-bd8e-b5a4449c8ed3
+SEQUENCE:0
+DTSTAMP:20250716T171702
+DTSTART:20250726T144500
+DTEND:20250726T153000
+SUMMARY:🏀 U12 Girls: Malvern Tigers Jarry vs Lauriston Sparks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston S
+ parks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:62234d10-736a-40bf-8f20-852e2392a378
+SEQUENCE:0
+DTSTAMP:20250716T171702
+DTSTART:20250802T140000
+DTEND:20250802T144500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Jarry vs Timberwolves Thunder
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:693b59a6-5f04-44f4-be09-c193539034ea
+SEQUENCE:0
+DTSTAMP:20250716T171702
+DTSTART:20250809T114500
+DTEND:20250809T123000
+SUMMARY:🏀 U12 Girls: Malvern Tigers Jarry vs Maccabi Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:768f93c8-44c0-4a70-80ad-e572f8900fcb
+SEQUENCE:0
+DTSTAMP:20250716T171702
+DTSTART:20250816T131500
+DTEND:20250816T140000
+SUMMARY:🏀 U12 Girls: Malvern Tigers Jarry vs Korowa Cherry
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Korowa 
+ Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3d6acd08-73d4-499f-bac7-2ca851f7c184
+SEQUENCE:0
+DTSTAMP:20250716T171702
+DTSTART:20250823T140000
+DTEND:20250823T144500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Jarry vs Toorak Talons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Talons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8e68640f-3601-43e5-9bef-55775ef3bceb
+SEQUENCE:0
+DTSTAMP:20250716T171702
+DTSTART:20250830T140000
+DTEND:20250830T144500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Jarry vs Willow Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Willow 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

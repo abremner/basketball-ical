@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f68694fd-a1b7-4e1f-82a0-a9b7535a3db7
+SEQUENCE:0
+DTSTAMP:20250716T171704
+DTSTART:20250726T131500
+DTEND:20250726T140000
+SUMMARY:🏀 U12 Girls: Maccabi Celtics vs Korowa Grey
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Korowa Grey
+ \nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:361e1641-9890-4d66-823b-18b0d4cb96ba
+SEQUENCE:0
+DTSTAMP:20250716T171704
+DTSTART:20250802T131500
+DTEND:20250802T140000
+SUMMARY:🏀 U12 Girls: Maccabi Celtics vs Erica Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Erica Piran
+ has\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5d430f55-660a-4bcd-a59f-066a8714eaae
+SEQUENCE:0
+DTSTAMP:20250716T171704
+DTSTART:20250809T140000
+DTEND:20250809T144500
+SUMMARY:🏀 U12 Girls: Maccabi Celtics vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:14de46a3-ea0f-4534-a7f7-f3fd24f8f3ee
+SEQUENCE:0
+DTSTAMP:20250716T171704
+DTSTART:20250816T140000
+DTEND:20250816T144500
+SUMMARY:🏀 U12 Girls: Maccabi Celtics vs Malvern Tigers Lavey
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Lavey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e3a62c2a-3dd9-47de-a7db-6d2514b48125
+SEQUENCE:0
+DTSTAMP:20250716T171704
+DTSTART:20250823T140000
+DTEND:20250823T144500
+SUMMARY:🏀 U12 Girls: Maccabi Celtics vs Maccabi Ducks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c81e3631-693c-4d6f-8169-25d198f5c19c
+SEQUENCE:0
+DTSTAMP:20250716T171704
+DTSTART:20250830T140000
+DTEND:20250830T144500
+SUMMARY:🏀 U12 Girls: Maccabi Celtics vs Malvern Tigers Smith
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Smith\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

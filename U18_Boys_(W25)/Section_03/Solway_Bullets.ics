@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Bullets Fixtures
+X-WR-CALNAME:Solway Bullets Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e516ef08-d687-4be8-872c-ef544f91e31e
+SEQUENCE:0
+DTSTAMP:20250716T171833
+DTSTART:20250803T173000
+DTEND:20250803T181500
+SUMMARY:🏀 U18 Boys: Solway Bullets vs Solway Torpedoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Torpedoes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b0030144-b25b-4875-8bbe-970bfb235cab
+SEQUENCE:0
+DTSTAMP:20250716T171833
+DTSTART:20250810T181500
+DTEND:20250810T190000
+SUMMARY:🏀 U18 Boys: Solway Bullets vs Timberwolves Wizards
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Wizards\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:eeac2a4e-bc5e-45b8-b18a-2715e31c6079
+SEQUENCE:0
+DTSTAMP:20250716T171833
+DTSTART:20250817T181500
+DTEND:20250817T190000
+SUMMARY:🏀 U18 Boys: Solway Bullets vs Ferncroft Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ferncr
+ oft Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6c66ac56-5906-4cea-bdfb-d37d959bd457
+SEQUENCE:0
+DTSTAMP:20250716T171833
+DTSTART:20250824T173000
+DTEND:20250824T181500
+SUMMARY:🏀 U18 Boys: Solway Bullets vs Maccabi Vipers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Vipers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ba29b542-fc36-432f-9f49-3b2a5d2b9f05
+SEQUENCE:0
+DTSTAMP:20250716T171833
+DTSTART:20250831T173000
+DTEND:20250831T181500
+SUMMARY:🏀 U18 Boys: Solway Bullets vs Glen Iris Scorpions Saints
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
+ ris Scorpions Saints\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

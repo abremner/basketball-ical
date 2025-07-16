@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Lime Fixtures
+X-WR-CALNAME:Malvern Tigers Lime Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:81fd62d6-5455-4bfb-b241-4f8e18eb6813
+SEQUENCE:0
+DTSTAMP:20250716T171650
+DTSTART:20250726T123000
+DTEND:20250726T131500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Lime vs Malvern Tigers Tan
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Tan\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1c94a873-0597-4e33-998e-268b026ee455
+SEQUENCE:0
+DTSTAMP:20250716T171650
+DTSTART:20250802T123000
+DTEND:20250802T131500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Lime vs Solway Dingoes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Dingoes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a2a9c7ab-ff1c-41ec-afea-9008407d26e4
+SEQUENCE:0
+DTSTAMP:20250716T171650
+DTSTART:20250809T123000
+DTEND:20250809T131500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Lime vs Solway Crocodiles
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Crocodiles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:71cef43c-2302-488b-9627-b23211c71a5a
+SEQUENCE:0
+DTSTAMP:20250716T171650
+DTSTART:20250816T123000
+DTEND:20250816T131500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Lime vs Maccabi Kings
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Kings\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:001b6802-a59c-4756-87d1-c9979cbd3417
+SEQUENCE:0
+DTSTAMP:20250716T171650
+DTSTART:20250823T114500
+DTEND:20250823T123000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Lime vs Timberwolves Fury
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Fury\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:44a3d302-5d9e-4cb1-833b-74a1d5357cc4
+SEQUENCE:0
+DTSTAMP:20250716T171650
+DTSTART:20250830T114500
+DTEND:20250830T123000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Lime vs Malvern Tigers Tan
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Tan\nArrive 15
+  mins early for warm-up
+END:VEVENT
+END:VCALENDAR

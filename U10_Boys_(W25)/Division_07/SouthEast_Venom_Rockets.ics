@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:SouthEast Venom Rockets Fixtures
+X-WR-CALNAME:SouthEast Venom Rockets Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ef8db712-b720-4ffc-8b91-96228b63d806
+SEQUENCE:0
+DTSTAMP:20250716T171558
+DTSTART:20250726T101500
+DTEND:20250726T110000
+SUMMARY:🏀 U10 Boys: SouthEast Venom Rockets vs Hawksburn Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Hawksb
+ urn Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:850a6cc3-8bee-4d28-9ff2-9bc922624dd4
+SEQUENCE:0
+DTSTAMP:20250716T171558
+DTSTART:20250802T101500
+DTEND:20250802T110000
+SUMMARY:🏀 U10 Boys: SouthEast Venom Rockets vs Malvern Tigers Brown
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Brown\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f341b76c-1f21-46e8-863d-abcc769104d6
+SEQUENCE:0
+DTSTAMP:20250716T171558
+DTSTART:20250809T084500
+DTEND:20250809T093000
+SUMMARY:🏀 U10 Boys: SouthEast Venom Rockets vs Solway Bulls
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Bulls\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6dd41047-703a-4e41-a05a-0491a13067b2
+SEQUENCE:0
+DTSTAMP:20250716T171558
+DTSTART:20250816T080000
+DTEND:20250816T084500
+SUMMARY:🏀 U10 Boys: SouthEast Venom Rockets vs Orrong Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Orrong
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:43b3e290-2585-4a15-bb6c-83fc48a02f79
+SEQUENCE:0
+DTSTAMP:20250716T171558
+DTSTART:20250823T101500
+DTEND:20250823T110000
+SUMMARY:🏀 U10 Boys: SouthEast Venom Rockets vs Timberwolves Cobras
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Cobras\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1d844336-9173-4f78-855a-4eae622df2a4
+SEQUENCE:0
+DTSTAMP:20250716T171558
+DTSTART:20250830T101500
+DTEND:20250830T110000
+SUMMARY:🏀 U10 Boys: SouthEast Venom Rockets vs Toorak Tycoons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
+  Tycoons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

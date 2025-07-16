@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Wallace Fixtures
+X-WR-CALNAME:Malvern Tigers Wallace Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a6f260d9-96ac-4ec7-b6c0-ac64c1110bcd
+SEQUENCE:0
+DTSTAMP:20250716T171821
+DTSTART:20250722T174500
+DTEND:20250722T183000
+SUMMARY:🏀 U16 Girls: Malvern Tigers Wallace vs Solway Demons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Demons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:43ef50a1-fced-468f-b418-35564ef49d86
+SEQUENCE:0
+DTSTAMP:20250716T171821
+DTSTART:20250805T174500
+DTEND:20250805T183000
+SUMMARY:🏀 U16 Girls: Malvern Tigers Wallace vs Timberwolves Emeralds
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Emeralds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2a0a0140-f58e-4703-922a-fd51d48ee03b
+SEQUENCE:0
+DTSTAMP:20250716T171821
+DTSTART:20250812T174500
+DTEND:20250812T183000
+SUMMARY:🏀 U16 Girls: Malvern Tigers Wallace vs Solway Angels
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Angels\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d93b4b9e-796c-4f27-ba9c-78197fdec445
+SEQUENCE:0
+DTSTAMP:20250716T171821
+DTSTART:20250819T174500
+DTEND:20250819T183000
+SUMMARY:🏀 U16 Girls: Malvern Tigers Wallace vs Solway Phoenix
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Phoenix\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:97bd79c1-937c-49f0-b3ff-d6e729506643
+SEQUENCE:0
+DTSTAMP:20250716T171821
+DTSTART:20250826T174500
+DTEND:20250826T183000
+SUMMARY:🏀 U16 Girls: Malvern Tigers Wallace vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

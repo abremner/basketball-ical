@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Sixers Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Sixers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:29011a51-52ca-4efb-b516-5e7506500fa4
+SEQUENCE:0
+DTSTAMP:20250716T171829
+DTSTART:20250727T190000
+DTEND:20250727T194500
+SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Sixers vs Watson Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Watson
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fd3b9607-208e-4305-96d3-1b7e9e4a609d
+SEQUENCE:0
+DTSTAMP:20250716T171829
+DTSTART:20250803T190000
+DTEND:20250803T194500
+SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Sixers vs Maccabi Lightening
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Lightening\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:db5e3877-6c6a-4e1c-a74e-53f6651fa4c8
+SEQUENCE:0
+DTSTAMP:20250716T171829
+DTSTART:20250810T181500
+DTEND:20250810T190000
+SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Sixers vs Solway Pistons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Pistons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a33cf1fd-49a2-4783-9914-a5ffaf51eaea
+SEQUENCE:0
+DTSTAMP:20250716T171829
+DTSTART:20250817T181500
+DTEND:20250817T190000
+SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Sixers vs Glenbrook Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glenbr
+ ook Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dfb5a6b9-3c98-4f8d-bfc1-4239c0f8cb0b
+SEQUENCE:0
+DTSTAMP:20250716T171829
+DTSTART:20250824T173000
+DTEND:20250824T181500
+SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Sixers vs Tooronga Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Tooron
+ ga Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a7933c4e-f243-4e0b-8999-05cadbb06cf4
+SEQUENCE:0
+DTSTAMP:20250716T171829
+DTSTART:20250831T173000
+DTEND:20250831T181500
+SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Sixers vs Watson Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Watson
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Central Park Piranhas Fixtures
+X-WR-CALNAME:Central Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6b0492ef-9a2d-4eb3-8d0c-93409449f4a9
+SEQUENCE:0
+DTSTAMP:20250716T171642
+DTSTART:20250726T131500
+DTEND:20250726T140000
+SUMMARY:🏀 U12 Boys: Central Park Piranhas vs Maccabi Falcons
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Falcons\nArrive 15 mi
+ ns early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:87b9813e-c5ac-433f-adb8-57024bbe1236
+SEQUENCE:0
+DTSTAMP:20250716T171642
+DTSTART:20250802T131500
+DTEND:20250802T140000
+SUMMARY:🏀 U12 Boys: Central Park Piranhas vs Golden Hawks Iron
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Golden Hawks Iron\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f2be5665-d03c-490c-89d7-2e6d9e631653
+SEQUENCE:0
+DTSTAMP:20250716T171642
+DTSTART:20250809T114500
+DTEND:20250809T123000
+SUMMARY:🏀 U12 Boys: Central Park Piranhas vs Maccabi Giants
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Giants\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6a06bd71-5596-4fa2-b34f-552ce8557f51
+SEQUENCE:0
+DTSTAMP:20250716T171642
+DTSTART:20250816T123000
+DTEND:20250816T131500
+SUMMARY:🏀 U12 Boys: Central Park Piranhas vs Warrawee Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Warraw
+ ee Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b98fee2b-f9bf-4caa-93d9-3d98e72d621f
+SEQUENCE:0
+DTSTAMP:20250716T171642
+DTSTART:20250823T123000
+DTEND:20250823T131500
+SUMMARY:🏀 U12 Boys: Central Park Piranhas vs Malvern Tigers Maroon
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Maroon\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:68c706ac-d82f-4c28-80d0-e2e2d3c049d0
+SEQUENCE:0
+DTSTAMP:20250716T171642
+DTSTART:20250830T131500
+DTEND:20250830T140000
+SUMMARY:🏀 U12 Boys: Central Park Piranhas vs Maccabi Falcons
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Falcons\nArrive 15 mi
+ ns early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Creswick Piranhas Fixtures
+X-WR-CALNAME:Creswick Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:810267b5-bd43-4c38-b9bb-5ba27b5f785c
+SEQUENCE:0
+DTSTAMP:20250716T171709
+DTSTART:20250726T131500
+DTEND:20250726T140000
+SUMMARY:🏀 U12 Girls: Creswick Piranhas vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6327750e-dd40-44bc-95ed-cdb6d6f5799c
+SEQUENCE:0
+DTSTAMP:20250716T171709
+DTSTART:20250802T140000
+DTEND:20250802T144500
+SUMMARY:🏀 U12 Girls: Creswick Piranhas vs Maccabi Falcons
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Fal
+ cons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c748f1af-a84b-43a0-b2ee-d21f9fe4c7f0
+SEQUENCE:0
+DTSTAMP:20250716T171709
+DTSTART:20250816T140000
+DTEND:20250816T144500
+SUMMARY:🏀 U12 Girls: Creswick Piranhas vs Lauriston Suns
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston S
+ uns\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e614f81e-9918-4194-a09c-b2cebfa79e79
+SEQUENCE:0
+DTSTAMP:20250716T171709
+DTSTART:20250823T140000
+DTEND:20250823T144500
+SUMMARY:🏀 U12 Girls: Creswick Piranhas vs Solway Wrens
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Wren
+ s\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8c45eefd-9312-4212-8c6e-50456268d264
+SEQUENCE:0
+DTSTAMP:20250716T171709
+DTSTART:20250830T131500
+DTEND:20250830T140000
+SUMMARY:🏀 U12 Girls: Creswick Piranhas vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

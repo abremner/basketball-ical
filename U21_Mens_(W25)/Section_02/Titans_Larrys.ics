@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Titans Larrys Fixtures
+X-WR-CALNAME:Titans Larrys Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:223a651b-7400-47b9-a635-7cb0ebb41ca7
+SEQUENCE:0
+DTSTAMP:20250716T171847
+DTSTART:20250803T194500
+DTEND:20250803T203000
+SUMMARY:🏀 U21 Mens: Titans Larrys vs Solway Cobras
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Cobras\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a16a602a-e4a9-415c-85c7-de9b914136c6
+SEQUENCE:0
+DTSTAMP:20250716T171847
+DTSTART:20250810T190000
+DTEND:20250810T194500
+SUMMARY:🏀 U21 Mens: Titans Larrys vs Solway Pythons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Pythons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:54ac9bd3-b93d-4382-aea2-d2282f5e45b6
+SEQUENCE:0
+DTSTAMP:20250716T171847
+DTSTART:20250817T194500
+DTEND:20250817T203000
+SUMMARY:🏀 U21 Mens: Titans Larrys vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2a43668e-8ffb-419d-929f-8dac39db6ad9
+SEQUENCE:0
+DTSTAMP:20250716T171847
+DTSTART:20250824T190000
+DTEND:20250824T194500
+SUMMARY:🏀 U21 Mens: Titans Larrys vs Maccabi Le Boomers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Le Boomers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

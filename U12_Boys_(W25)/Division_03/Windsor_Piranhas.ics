@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Windsor Piranhas Fixtures
+X-WR-CALNAME:Windsor Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:66129ff4-8e89-47d5-bb1a-9af4ae1696ea
+SEQUENCE:0
+DTSTAMP:20250716T171630
+DTSTART:20250726T144500
+DTEND:20250726T153000
+SUMMARY:🏀 U12 Boys: Windsor Piranhas vs Golden Hawks Sky
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Golden
+  Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:427e6858-be6c-4ef0-a688-129d3acb44bb
+SEQUENCE:0
+DTSTAMP:20250716T171630
+DTSTART:20250802T144500
+DTEND:20250802T153000
+SUMMARY:🏀 U12 Boys: Windsor Piranhas vs Malvern Tigers Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0da8ccd7-8bba-489c-97ae-7054a4e6093d
+SEQUENCE:0
+DTSTAMP:20250716T171630
+DTSTART:20250809T144500
+DTEND:20250809T153000
+SUMMARY:🏀 U12 Boys: Windsor Piranhas vs Maccabi Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0e918713-0ffa-4e02-876f-9eea7cb58697
+SEQUENCE:0
+DTSTAMP:20250716T171630
+DTSTART:20250816T140000
+DTEND:20250816T144500
+SUMMARY:🏀 U12 Boys: Windsor Piranhas vs Yarra Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Yarra P
+ ark Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b0467e12-0690-4c0b-86fc-ba473579d6c1
+SEQUENCE:0
+DTSTAMP:20250716T171630
+DTSTART:20250823T144500
+DTEND:20250823T153000
+SUMMARY:🏀 U12 Boys: Windsor Piranhas vs Alma Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Alma Pa
+ rk Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e57e58a7-7b62-4bf0-88b9-517b5b16f528
+SEQUENCE:0
+DTSTAMP:20250716T171630
+DTSTART:20250830T140000
+DTEND:20250830T144500
+SUMMARY:🏀 U12 Boys: Windsor Piranhas vs Golden Hawks Sky
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Golden 
+ Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

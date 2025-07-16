@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Golden Hawks Iron Fixtures
+X-WR-CALNAME:Golden Hawks Iron Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ebc078d8-45c9-48bd-be99-efd4adebdfc6
+SEQUENCE:0
+DTSTAMP:20250716T171603
+DTSTART:20250726T101500
+DTEND:20250726T110000
+SUMMARY:🏀 U10 Boys: Golden Hawks Iron vs Toorak Thrashers
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Toorak Thrashers\nArrive 15 m
+ ins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d332cbe9-6546-44d1-851b-f228b74322ee
+SEQUENCE:0
+DTSTAMP:20250716T171603
+DTSTART:20250802T101500
+DTEND:20250802T110000
+SUMMARY:🏀 U10 Boys: Golden Hawks Iron vs Maccabi Eagles
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Eagles\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:662790d2-0892-4a14-af07-9ec2ffae015a
+SEQUENCE:0
+DTSTAMP:20250716T171603
+DTSTART:20250809T093000
+DTEND:20250809T101500
+SUMMARY:🏀 U10 Boys: Golden Hawks Iron vs Solway Nets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Nets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dde0dc7d-247c-4bb8-9f88-ac6134b49399
+SEQUENCE:0
+DTSTAMP:20250716T171603
+DTSTART:20250816T101500
+DTEND:20250816T110000
+SUMMARY:🏀 U10 Boys: Golden Hawks Iron vs Maccabi Hawks
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Hawks\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6b165cb9-5b63-4b41-85fa-dd926628e49b
+SEQUENCE:0
+DTSTAMP:20250716T171603
+DTSTART:20250823T080000
+DTEND:20250823T084500
+SUMMARY:🏀 U10 Boys: Golden Hawks Iron vs Glen Iris Scorpions Summerhill
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
+ ris Scorpions Summerhill\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6c651e76-6616-4e3b-a482-2faf79825302
+SEQUENCE:0
+DTSTAMP:20250716T171603
+DTSTART:20250830T093000
+DTEND:20250830T101500
+SUMMARY:🏀 U10 Boys: Golden Hawks Iron vs Toorak Thrashers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Thrashers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

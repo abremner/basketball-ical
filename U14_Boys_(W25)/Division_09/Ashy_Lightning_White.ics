@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning White Fixtures
+X-WR-CALNAME:Ashy Lightning White Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:60f125bb-72a6-47aa-8c0d-7f4cdf15d04f
+SEQUENCE:0
+DTSTAMP:20250716T171734
+DTSTART:20250726T153000
+DTEND:20250726T161500
+SUMMARY:🏀 U14 Boys: Ashy Lightning White vs Maccabi Falcons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Falcons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b411ab47-87c2-441c-8f6f-d5a2df81d096
+SEQUENCE:0
+DTSTAMP:20250716T171734
+DTSTART:20250802T161500
+DTEND:20250802T170000
+SUMMARY:🏀 U14 Boys: Ashy Lightning White vs Maccabi Giants
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Giants\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b3a4db10-1800-4fea-b05b-67467ece0fa6
+SEQUENCE:0
+DTSTAMP:20250716T171734
+DTSTART:20250809T144500
+DTEND:20250809T153000
+SUMMARY:🏀 U14 Boys: Ashy Lightning White vs Golden Hawks Iron
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Golden Hawks Iron\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2e441a38-b1d5-477e-8f7f-23c5e21ecae1
+SEQUENCE:0
+DTSTAMP:20250716T171734
+DTSTART:20250823T144500
+DTEND:20250823T153000
+SUMMARY:🏀 U14 Boys: Ashy Lightning White vs Maccabi Eagles
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Eagles\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4b2893f9-09f0-42de-b747-ed1cbb3593f2
+SEQUENCE:0
+DTSTAMP:20250716T171734
+DTSTART:20250830T153000
+DTEND:20250830T161500
+SUMMARY:🏀 U14 Boys: Ashy Lightning White vs SouthEast Venom Heat
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: SouthEa
+ st Venom Heat\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

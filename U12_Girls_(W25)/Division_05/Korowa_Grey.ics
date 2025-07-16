@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Korowa Grey Fixtures
+X-WR-CALNAME:Korowa Grey Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f5d3b2d4-c183-404b-92da-c7e550841376
+SEQUENCE:0
+DTSTAMP:20250716T171704
+DTSTART:20250726T131500
+DTEND:20250726T140000
+SUMMARY:🏀 U12 Girls: Korowa Grey vs Maccabi Celtics
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Cel
+ tics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a9733e38-bfd2-4271-a613-c9c027a92fba
+SEQUENCE:0
+DTSTAMP:20250716T171704
+DTSTART:20250802T140000
+DTEND:20250802T144500
+SUMMARY:🏀 U12 Girls: Korowa Grey vs Malvern Tigers Smith
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Smith\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5756f5b9-7833-4a9d-ab62-bf81ae37be69
+SEQUENCE:0
+DTSTAMP:20250716T171704
+DTSTART:20250809T131500
+DTEND:20250809T140000
+SUMMARY:🏀 U12 Girls: Korowa Grey vs Malvern Tigers Burton
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Burton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8993707c-5950-41a2-9447-2b1e0a41b018
+SEQUENCE:0
+DTSTAMP:20250716T171704
+DTSTART:20250816T131500
+DTEND:20250816T140000
+SUMMARY:🏀 U12 Girls: Korowa Grey vs Ashy Lightning Green
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Ashy Lightn
+ ing Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:43dcf432-f360-471b-b297-0e31358f7e4b
+SEQUENCE:0
+DTSTAMP:20250716T171704
+DTSTART:20250823T131500
+DTEND:20250823T140000
+SUMMARY:🏀 U12 Girls: Korowa Grey vs Erica Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Erica Piran
+ has\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:77892788-c5a1-45e1-98dd-2a8cd92514bb
+SEQUENCE:0
+DTSTAMP:20250716T171704
+DTSTART:20250830T131500
+DTEND:20250830T140000
+SUMMARY:🏀 U12 Girls: Korowa Grey vs Maccabi Ducks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Duc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

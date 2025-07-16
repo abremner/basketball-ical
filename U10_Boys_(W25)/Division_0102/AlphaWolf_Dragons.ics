@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Dragons Fixtures
+X-WR-CALNAME:AlphaWolf Dragons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:44a585e8-90c0-4bb4-994d-3f3c3f53206c
+SEQUENCE:0
+DTSTAMP:20250716T171543
+DTSTART:20250726T114500
+DTEND:20250726T123000
+SUMMARY:🏀 U10 Boys: AlphaWolf Dragons vs Timberwolves Pistols
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Pistols\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:abe33d00-9358-4e99-8336-9bfdf5fcec1e
+SEQUENCE:0
+DTSTAMP:20250716T171543
+DTSTART:20250802T123000
+DTEND:20250802T131500
+SUMMARY:🏀 U10 Boys: AlphaWolf Dragons vs Toorak Tigercats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
+  Tigercats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:01ec52ff-f592-4c5a-a7e1-d908fbcb9e16
+SEQUENCE:0
+DTSTAMP:20250716T171543
+DTSTART:20250809T123000
+DTEND:20250809T131500
+SUMMARY:🏀 U10 Boys: AlphaWolf Dragons vs Solway Boomers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Boomers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d591f212-2fd3-400a-acfe-008f3fec78e8
+SEQUENCE:0
+DTSTAMP:20250716T171543
+DTSTART:20250816T110000
+DTEND:20250816T114500
+SUMMARY:🏀 U10 Boys: AlphaWolf Dragons vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ddd37099-68b8-433e-a684-d6b40f6be217
+SEQUENCE:0
+DTSTAMP:20250716T171543
+DTSTART:20250823T110000
+DTEND:20250823T114500
+SUMMARY:🏀 U10 Boys: AlphaWolf Dragons vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:559f8589-aea8-40da-b2b1-57a59314203f
+SEQUENCE:0
+DTSTAMP:20250716T171543
+DTSTART:20250830T114500
+DTEND:20250830T123000
+SUMMARY:🏀 U10 Boys: AlphaWolf Dragons vs Timberwolves Crusaders
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Crusaders\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

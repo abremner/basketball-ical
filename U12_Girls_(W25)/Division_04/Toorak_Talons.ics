@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Talons Fixtures
+X-WR-CALNAME:Toorak Talons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1be6f1ed-9f61-4a4a-bc33-1aa20aa7c853
+SEQUENCE:0
+DTSTAMP:20250716T171702
+DTSTART:20250726T131500
+DTEND:20250726T140000
+SUMMARY:🏀 U12 Girls: Toorak Talons vs Timberwolves Thunder
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:66092bfe-d80a-4330-b2da-fbbe400dbc7f
+SEQUENCE:0
+DTSTAMP:20250716T171702
+DTSTART:20250802T131500
+DTEND:20250802T140000
+SUMMARY:🏀 U12 Girls: Toorak Talons vs Glen Iris Scorpions Gardiner
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
+ is Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2dab4294-3b28-4f0c-92ce-f2158bbf7ff3
+SEQUENCE:0
+DTSTAMP:20250716T171702
+DTSTART:20250809T131500
+DTEND:20250809T140000
+SUMMARY:🏀 U12 Girls: Toorak Talons vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0683a9ee-99ce-423f-801c-03bb8682a8d8
+SEQUENCE:0
+DTSTAMP:20250716T171702
+DTSTART:20250816T114500
+DTEND:20250816T123000
+SUMMARY:🏀 U12 Girls: Toorak Talons vs Maccabi Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bfb40fa2-01f6-4372-a509-26ba0d9ca91e
+SEQUENCE:0
+DTSTAMP:20250716T171702
+DTSTART:20250823T140000
+DTEND:20250823T144500
+SUMMARY:🏀 U12 Girls: Toorak Talons vs Malvern Tigers Jarry
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Jarry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3ad1f3cb-28c0-4a31-bf09-558f87a2ee44
+SEQUENCE:0
+DTSTAMP:20250716T171702
+DTSTART:20250830T131500
+DTEND:20250830T140000
+SUMMARY:🏀 U12 Girls: Toorak Talons vs Aintree Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Aintree
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

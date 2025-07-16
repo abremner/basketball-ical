@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Arax Fixtures
+X-WR-CALNAME:Arax Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:396290a5-9f3e-4fce-8a53-2698aa722c29
+SEQUENCE:0
+DTSTAMP:20250716T171745
+DTSTART:20250726T131500
+DTEND:20250726T140000
+SUMMARY:🏀 U14 Girls: Arax vs Malvern Tigers Mitchell
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Mitchell\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:df137c2c-ca53-478c-a250-d6c020a336b2
+SEQUENCE:0
+DTSTAMP:20250716T171745
+DTSTART:20250802T131500
+DTEND:20250802T140000
+SUMMARY:🏀 U14 Girls: Arax vs Solway Emeralds
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Emeralds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5141aeb8-5bad-4f9e-92b6-555d7e28568f
+SEQUENCE:0
+DTSTAMP:20250716T171745
+DTSTART:20250809T131500
+DTEND:20250809T140000
+SUMMARY:🏀 U14 Girls: Arax vs Malvern Tigers Lavey
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Lavey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2125f6af-1e96-4db9-a2d3-bdea2c5e22a1
+SEQUENCE:0
+DTSTAMP:20250716T171745
+DTSTART:20250816T131500
+DTEND:20250816T140000
+SUMMARY:🏀 U14 Girls: Arax vs Ranfurlie Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ranfur
+ lie Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cb330937-12f6-4430-b83c-3610adc1af6c
+SEQUENCE:0
+DTSTAMP:20250716T171745
+DTSTART:20250823T131500
+DTEND:20250823T140000
+SUMMARY:🏀 U14 Girls: Arax vs Ashy Lightning Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:72e001cd-1144-4245-a15f-bd74f2091c49
+SEQUENCE:0
+DTSTAMP:20250716T171745
+DTSTART:20250830T131500
+DTEND:20250830T140000
+SUMMARY:🏀 U14 Girls: Arax vs Malvern Tigers Jarry
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Jarry\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

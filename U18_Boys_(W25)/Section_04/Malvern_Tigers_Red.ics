@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Red Fixtures
+X-WR-CALNAME:Malvern Tigers Red Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a3e7abda-bb71-48ee-9aa9-3627005f4125
+SEQUENCE:0
+DTSTAMP:20250716T171835
+DTSTART:20250727T181500
+DTEND:20250727T190000
+SUMMARY:🏀 U18 Boys: Malvern Tigers Red vs Timberwolves Wildcats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Wildcats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5530efa2-7021-4bc6-ba48-e7067bf2fe56
+SEQUENCE:0
+DTSTAMP:20250716T171835
+DTSTART:20250803T173000
+DTEND:20250803T181500
+SUMMARY:🏀 U18 Boys: Malvern Tigers Red vs Golden Hawks Sky
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Golden
+  Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b53cc85a-6bff-4a22-9e78-83eb7653eab7
+SEQUENCE:0
+DTSTAMP:20250716T171835
+DTSTART:20250810T181500
+DTEND:20250810T190000
+SUMMARY:🏀 U18 Boys: Malvern Tigers Red vs Comets Storm
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Comets
+  Storm\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fe7370a2-185f-44e6-8906-0340211f05ca
+SEQUENCE:0
+DTSTAMP:20250716T171835
+DTSTART:20250817T181500
+DTEND:20250817T190000
+SUMMARY:🏀 U18 Boys: Malvern Tigers Red vs Timberwolves Knights
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Knights\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:113a79eb-afbf-4530-a82b-847242b1e742
+SEQUENCE:0
+DTSTAMP:20250716T171835
+DTSTART:20250824T181500
+DTEND:20250824T190000
+SUMMARY:🏀 U18 Boys: Malvern Tigers Red vs Toorak Turbos
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Turbos\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

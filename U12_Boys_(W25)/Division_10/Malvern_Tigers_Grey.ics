@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Grey Fixtures
+X-WR-CALNAME:Malvern Tigers Grey Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0cda84d8-c24b-4dc2-8453-a47d805a7488
+SEQUENCE:0
+DTSTAMP:20250716T171645
+DTSTART:20250726T131500
+DTEND:20250726T140000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Grey vs Comets Cyclones
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Comets 
+ Cyclones\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:41909d02-d75f-4fbf-8c2c-cb8d8b61b2f4
+SEQUENCE:0
+DTSTAMP:20250716T171645
+DTSTART:20250802T131500
+DTEND:20250802T140000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Grey vs Toorak Trouble
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Trouble\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1110a844-bc22-456b-86a8-a828361109ba
+SEQUENCE:0
+DTSTAMP:20250716T171645
+DTSTART:20250809T131500
+DTEND:20250809T140000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Grey vs Toorak Thunder
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2e5f4ecf-1a46-4171-a2c0-8788d7316aa5
+SEQUENCE:0
+DTSTAMP:20250716T171645
+DTSTART:20250816T131500
+DTEND:20250816T140000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Grey vs Solway Panthers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Panthers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2e4aaf39-34ea-4002-8edb-cbeabe327743
+SEQUENCE:0
+DTSTAMP:20250716T171645
+DTSTART:20250823T131500
+DTEND:20250823T140000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Grey vs Stonnington Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Stonnin
+ gton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

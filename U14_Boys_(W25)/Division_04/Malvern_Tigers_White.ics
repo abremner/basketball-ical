@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers White Fixtures
+X-WR-CALNAME:Malvern Tigers White Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8aee6d62-cd81-447c-8488-c78fce70b444
+SEQUENCE:0
+DTSTAMP:20250716T171720
+DTSTART:20250726T161500
+DTEND:20250726T170000
+SUMMARY:🏀 U14 Boys: Malvern Tigers White vs Timberwolves Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:246a8616-55e9-486c-9290-8e81bdf5cd2a
+SEQUENCE:0
+DTSTAMP:20250716T171720
+DTSTART:20250802T161500
+DTEND:20250802T170000
+SUMMARY:🏀 U14 Boys: Malvern Tigers White vs Solway Trojans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Trojans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9b441436-0226-4d1c-b050-91ed6cf28404
+SEQUENCE:0
+DTSTAMP:20250716T171720
+DTSTART:20250809T161500
+DTEND:20250809T170000
+SUMMARY:🏀 U14 Boys: Malvern Tigers White vs Toorak Triple-Threat
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak 
+ Triple-Threat\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:05e0ca10-cd9b-4a5c-b904-025ae44a0c30
+SEQUENCE:0
+DTSTAMP:20250716T171720
+DTSTART:20250816T161500
+DTEND:20250816T170000
+SUMMARY:🏀 U14 Boys: Malvern Tigers White vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e4f6ac96-b54e-4686-b784-c77a0ed0cb7c
+SEQUENCE:0
+DTSTAMP:20250716T171720
+DTSTART:20250830T170000
+DTEND:20250830T174500
+SUMMARY:🏀 U14 Boys: Malvern Tigers White vs Solway Crusaders
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Crusaders\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

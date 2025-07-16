@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Blaze Fixtures
+X-WR-CALNAME:AlphaWolf Blaze Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ca8c1d3f-a3b1-458e-82cf-58240535768d
+SEQUENCE:0
+DTSTAMP:20250716T171621
+DTSTART:20250726T084500
+DTEND:20250726T093000
+SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:538911de-45a3-42da-9c67-340f7f7508b3
+SEQUENCE:0
+DTSTAMP:20250716T171621
+DTSTART:20250802T110000
+DTEND:20250802T114500
+SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Malvern Tigers Purple
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Purple\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:722deb02-c8b9-4e96-ab35-9fa3701c5820
+SEQUENCE:0
+DTSTAMP:20250716T171621
+DTSTART:20250809T110000
+DTEND:20250809T114500
+SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Maccabi Eagles
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Eag
+ les\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cdc4f91a-8ecb-48be-9577-176f17016952
+SEQUENCE:0
+DTSTAMP:20250716T171621
+DTSTART:20250816T084500
+DTEND:20250816T093000
+SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Malvern Tigers Brown
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Brown\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d1d90e69-3969-4f5c-93b3-39bf46538a7e
+SEQUENCE:0
+DTSTAMP:20250716T171621
+DTSTART:20250823T080000
+DTEND:20250823T084500
+SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Maccabi Ducks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2e7a6d99-4d93-4d8d-806c-3e7614347533
+SEQUENCE:0
+DTSTAMP:20250716T171621
+DTSTART:20250830T084500
+DTEND:20250830T093000
+SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Malvern Tigers Orange
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

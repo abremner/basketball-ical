@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Hurricanes Fixtures
+X-WR-CALNAME:Solway Hurricanes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9deb962d-6c2c-4d3a-a57f-e55114c52432
+SEQUENCE:0
+DTSTAMP:20250716T171611
+DTSTART:20250726T123000
+DTEND:20250726T131500
+SUMMARY:🏀 U10 Girls: Solway Hurricanes vs Toorak Troublemakers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
+  Troublemakers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6a11c5c2-a171-4252-9620-36fee8b699e2
+SEQUENCE:0
+DTSTAMP:20250716T171611
+DTSTART:20250802T114500
+DTEND:20250802T123000
+SUMMARY:🏀 U10 Girls: Solway Hurricanes vs Korowa Cherry
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Korowa
+  Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:83e0748d-52ec-4d53-8cd0-85a54fe922a5
+SEQUENCE:0
+DTSTAMP:20250716T171611
+DTSTART:20250809T114500
+DTEND:20250809T123000
+SUMMARY:🏀 U10 Girls: Solway Hurricanes vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f595e596-7a48-4073-b3e4-debb06bb53a4
+SEQUENCE:0
+DTSTAMP:20250716T171611
+DTSTART:20250816T123000
+DTEND:20250816T131500
+SUMMARY:🏀 U10 Girls: Solway Hurricanes vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b5efc120-0409-49ad-8daf-c37b3fae144f
+SEQUENCE:0
+DTSTAMP:20250716T171611
+DTSTART:20250823T123000
+DTEND:20250823T131500
+SUMMARY:🏀 U10 Girls: Solway Hurricanes vs Timberwolves Sharks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Sharks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9ea2d8f5-aace-4ad3-ac61-91c0563f9dd3
+SEQUENCE:0
+DTSTAMP:20250716T171611
+DTSTART:20250830T123000
+DTEND:20250830T131500
+SUMMARY:🏀 U10 Girls: Solway Hurricanes vs Toorak Troublemakers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
+  Troublemakers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

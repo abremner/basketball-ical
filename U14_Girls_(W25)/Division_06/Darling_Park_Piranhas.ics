@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Darling Park Piranhas Fixtures
+X-WR-CALNAME:Darling Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:925f50a3-e3dd-4068-900f-643aa23a3adb
+SEQUENCE:0
+DTSTAMP:20250716T171751
+DTSTART:20250726T153000
+DTEND:20250726T161500
+SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Maccabi Ducks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Duc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e989c921-a494-480e-8632-3da984e03dc4
+SEQUENCE:0
+DTSTAMP:20250716T171751
+DTSTART:20250802T161500
+DTEND:20250802T170000
+SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Solway Sapphires
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Sapp
+ hires\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:196881b0-2c95-4d78-9ccf-c99c06d8c141
+SEQUENCE:0
+DTSTAMP:20250716T171751
+DTSTART:20250809T170000
+DTEND:20250809T174500
+SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Maccabi Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c05fb2d7-3f4c-473f-b3ad-1b085380a54c
+SEQUENCE:0
+DTSTAMP:20250716T171751
+DTSTART:20250823T161500
+DTEND:20250823T170000
+SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Lauriston Legends
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston L
+ egends\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9c300e58-10ca-42d3-b263-f9e125c28a7d
+SEQUENCE:0
+DTSTAMP:20250716T171751
+DTSTART:20250830T161500
+DTEND:20250830T170000
+SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Glen Iris Scorpions Nettl
+ eton
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
+ corpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

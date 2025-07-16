@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Arax Fixtures
+X-WR-CALNAME:Arax Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6afcd4ee-94d3-4e40-8bb8-218bfa1bb515
+SEQUENCE:0
+DTSTAMP:20250716T171549
+DTSTART:20250726T131500
+DTEND:20250726T140000
+SUMMARY:🏀 U10 Boys: Arax vs Solway Lakers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Lakers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3bc66e8c-cad2-49fb-a562-61410d29c18b
+SEQUENCE:0
+DTSTAMP:20250716T171549
+DTSTART:20250802T131500
+DTEND:20250802T140000
+SUMMARY:🏀 U10 Boys: Arax vs Malvern Tigers Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b57f4c79-0665-4bbe-ab0f-61114d39554b
+SEQUENCE:0
+DTSTAMP:20250716T171549
+DTSTART:20250809T131500
+DTEND:20250809T140000
+SUMMARY:🏀 U10 Boys: Arax vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b071cc23-fcfb-4bd9-8dc9-aaa3645a79e5
+SEQUENCE:0
+DTSTAMP:20250716T171549
+DTSTART:20250816T093000
+DTEND:20250816T101500
+SUMMARY:🏀 U10 Boys: Arax vs Armadale Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Armada
+ le Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:18068a74-d544-42c0-9d88-326a8ccdf76e
+SEQUENCE:0
+DTSTAMP:20250716T171549
+DTSTART:20250823T131500
+DTEND:20250823T140000
+SUMMARY:🏀 U10 Boys: Arax vs Glen Iris Scorpions Ferndale
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
+ ris Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5f1e5a6b-b741-4614-b57d-e41c0ef95d12
+SEQUENCE:0
+DTSTAMP:20250716T171549
+DTSTART:20250830T131500
+DTEND:20250830T140000
+SUMMARY:🏀 U10 Boys: Arax vs Maccabi Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

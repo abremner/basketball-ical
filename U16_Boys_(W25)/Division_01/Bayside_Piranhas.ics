@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Bayside Piranhas Fixtures
+X-WR-CALNAME:Bayside Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:24492469-7a31-43e1-8240-6453b3bc29ff
+SEQUENCE:0
+DTSTAMP:20250716T171755
+DTSTART:20250802T183000
+DTEND:20250802T191500
+SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Timberwolves United
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves United\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6eee0ad6-6f18-4269-ab0f-78b34e21efe8
+SEQUENCE:0
+DTSTAMP:20250716T171755
+DTSTART:20250809T183000
+DTEND:20250809T191500
+SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Solway Rockets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Rockets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:866025d6-f1bb-4528-9786-e998274e27bd
+SEQUENCE:0
+DTSTAMP:20250716T171755
+DTSTART:20250816T183000
+DTEND:20250816T191500
+SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ae2a8864-12b0-49e5-b3db-1f816751d3aa
+SEQUENCE:0
+DTSTAMP:20250716T171755
+DTSTART:20250823T183000
+DTEND:20250823T191500
+SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Timberwolves Hustlers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Hustlers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0b40f2e0-604b-4634-8072-99b81edbe45b
+SEQUENCE:0
+DTSTAMP:20250716T171755
+DTSTART:20250830T183000
+DTEND:20250830T191500
+SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

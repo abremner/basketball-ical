@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Atwell Fixtures
+X-WR-CALNAME:Malvern Tigers Atwell Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ea694c46-f382-4af3-8710-0e366a18446d
+SEQUENCE:0
+DTSTAMP:20250716T171821
+DTSTART:20250722T174500
+DTEND:20250722T183000
+SUMMARY:🏀 U16 Girls: Malvern Tigers Atwell vs Solway Phoenix
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Phoenix\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e6ff17a0-2e9c-445b-ba1e-d1a443e06033
+SEQUENCE:0
+DTSTAMP:20250716T171821
+DTSTART:20250729T174500
+DTEND:20250729T183000
+SUMMARY:🏀 U16 Girls: Malvern Tigers Atwell vs Timberwolves Emeralds
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+ wolves Emeralds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3b8bbd82-3e44-4497-8a74-3b032bb544bc
+SEQUENCE:0
+DTSTAMP:20250716T171821
+DTSTART:20250805T174500
+DTEND:20250805T183000
+SUMMARY:🏀 U16 Girls: Malvern Tigers Atwell vs Solway Demons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Demons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3f6897df-6af1-43c9-8368-ba641165361f
+SEQUENCE:0
+DTSTAMP:20250716T171821
+DTSTART:20250812T174500
+DTEND:20250812T183000
+SUMMARY:🏀 U16 Girls: Malvern Tigers Atwell vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5aaffe7f-d0f0-40f1-852d-ba30f62a9c71
+SEQUENCE:0
+DTSTAMP:20250716T171821
+DTSTART:20250819T174500
+DTEND:20250819T183000
+SUMMARY:🏀 U16 Girls: Malvern Tigers Atwell vs Solway Angels
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Angels\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

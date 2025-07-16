@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Troublemakers Fixtures
+X-WR-CALNAME:Toorak Troublemakers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1c761413-cd23-440a-8de5-8b27690a54b3
+SEQUENCE:0
+DTSTAMP:20250716T171612
+DTSTART:20250726T123000
+DTEND:20250726T131500
+SUMMARY:🏀 U10 Girls: Toorak Troublemakers vs Solway Hurricanes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Hurricanes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a2035cc6-617d-46a8-8d90-b20bc3937180
+SEQUENCE:0
+DTSTAMP:20250716T171612
+DTSTART:20250802T123000
+DTEND:20250802T131500
+SUMMARY:🏀 U10 Girls: Toorak Troublemakers vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1e89bae5-1d50-4ea7-940b-16883757966e
+SEQUENCE:0
+DTSTAMP:20250716T171612
+DTSTART:20250809T123000
+DTEND:20250809T131500
+SUMMARY:🏀 U10 Girls: Toorak Troublemakers vs Timberwolves Sharks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Sharks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:09cccb26-936e-4193-9d63-d0442f268773
+SEQUENCE:0
+DTSTAMP:20250716T171612
+DTSTART:20250816T114500
+DTEND:20250816T123000
+SUMMARY:🏀 U10 Girls: Toorak Troublemakers vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d6e3b3d4-34bf-407d-a33e-40e5162ff262
+SEQUENCE:0
+DTSTAMP:20250716T171612
+DTSTART:20250823T123000
+DTEND:20250823T131500
+SUMMARY:🏀 U10 Girls: Toorak Troublemakers vs Korowa Cherry
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Korowa
+  Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b83f833e-162c-41b1-a27e-7e29a3231441
+SEQUENCE:0
+DTSTAMP:20250716T171612
+DTSTART:20250830T123000
+DTEND:20250830T131500
+SUMMARY:🏀 U10 Girls: Toorak Troublemakers vs Solway Hurricanes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Hurricanes\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

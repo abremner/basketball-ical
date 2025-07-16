@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Hurricanes Fixtures
+X-WR-CALNAME:Timberwolves Hurricanes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d27f0040-000d-4da2-8a07-37f3401e4535
+SEQUENCE:0
+DTSTAMP:20250716T171708
+DTSTART:20250726T123000
+DTEND:20250726T131500
+SUMMARY:🏀 U12 Girls: Timberwolves Hurricanes vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b20a3184-e38f-4b2c-9652-173964e66f8e
+SEQUENCE:0
+DTSTAMP:20250716T171708
+DTSTART:20250802T131500
+DTEND:20250802T140000
+SUMMARY:🏀 U12 Girls: Timberwolves Hurricanes vs Timberwolves Pearls
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Pearls\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5f03eb68-8174-4163-980a-3407d3bfca70
+SEQUENCE:0
+DTSTAMP:20250716T171708
+DTSTART:20250809T140000
+DTEND:20250809T144500
+SUMMARY:🏀 U12 Girls: Timberwolves Hurricanes vs Lauriston Storm
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston S
+ torm\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:54cea45d-9ff5-4e65-90f8-a97ef6b90b7e
+SEQUENCE:0
+DTSTAMP:20250716T171708
+DTSTART:20250823T131500
+DTEND:20250823T140000
+SUMMARY:🏀 U12 Girls: Timberwolves Hurricanes vs Ashy Lightning White
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a7994aec-4178-4030-9bbc-ddce7e50117d
+SEQUENCE:0
+DTSTAMP:20250716T171708
+DTSTART:20250830T131500
+DTEND:20250830T140000
+SUMMARY:🏀 U12 Girls: Timberwolves Hurricanes vs Ashy Lightning Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

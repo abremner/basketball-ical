@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Rangers Fixtures
+X-WR-CALNAME:Solway Rangers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f74c75fd-7eb8-4c6a-8a1b-c7fa4b336ae0
+SEQUENCE:0
+DTSTAMP:20250716T171813
+DTSTART:20250726T183000
+DTEND:20250726T191500
+SUMMARY:🏀 U16 Boys: Solway Rangers vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:678af607-a408-49e2-8b4e-07a67078220b
+SEQUENCE:0
+DTSTAMP:20250716T171813
+DTSTART:20250802T183000
+DTEND:20250802T191500
+SUMMARY:🏀 U16 Boys: Solway Rangers vs AlphaWolf Shadows
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: AlphaWo
+ lf Shadows\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:90db5ad4-7643-422f-ad9a-d17a2a41e442
+SEQUENCE:0
+DTSTAMP:20250716T171813
+DTSTART:20250816T183000
+DTEND:20250816T191500
+SUMMARY:🏀 U16 Boys: Solway Rangers vs Solway Blades
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Blades\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c7443482-42ca-4466-b38e-109d942e6ea7
+SEQUENCE:0
+DTSTAMP:20250716T171813
+DTSTART:20250823T174500
+DTEND:20250823T183000
+SUMMARY:🏀 U16 Boys: Solway Rangers vs Ormond Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ormond 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c1a594a1-e8bc-490b-a964-0e9c7c9ec16d
+SEQUENCE:0
+DTSTAMP:20250716T171813
+DTSTART:20250830T183000
+DTEND:20250830T191500
+SUMMARY:🏀 U16 Boys: Solway Rangers vs Malvern Tigers Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

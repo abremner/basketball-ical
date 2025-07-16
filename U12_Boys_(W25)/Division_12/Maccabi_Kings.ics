@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Kings Fixtures
+X-WR-CALNAME:Maccabi Kings Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c159b1a2-8f67-43df-8102-a159abd36f60
+SEQUENCE:0
+DTSTAMP:20250716T171649
+DTSTART:20250726T114500
+DTEND:20250726T123000
+SUMMARY:🏀 U12 Boys: Maccabi Kings vs Solway Crocodiles
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Crocodiles\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:af0dc3bc-a250-47a1-af3a-2ec27530e44f
+SEQUENCE:0
+DTSTAMP:20250716T171649
+DTSTART:20250802T114500
+DTEND:20250802T123000
+SUMMARY:🏀 U12 Boys: Maccabi Kings vs Timberwolves Fury
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Fury\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2e6fe4d6-1587-4e80-b695-a3c6b49afbb3
+SEQUENCE:0
+DTSTAMP:20250716T171649
+DTSTART:20250809T114500
+DTEND:20250809T123000
+SUMMARY:🏀 U12 Boys: Maccabi Kings vs Solway Dingoes
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Dingoes\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3951fa0c-27bb-4b54-bcbd-c3daf0038433
+SEQUENCE:0
+DTSTAMP:20250716T171649
+DTSTART:20250816T123000
+DTEND:20250816T131500
+SUMMARY:🏀 U12 Boys: Maccabi Kings vs Malvern Tigers Lime
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Lime\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3bce7e8c-c59d-4fa3-9282-3c4b9be23642
+SEQUENCE:0
+DTSTAMP:20250716T171649
+DTSTART:20250823T123000
+DTEND:20250823T131500
+SUMMARY:🏀 U12 Boys: Maccabi Kings vs Malvern Tigers Tan
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Tan\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5de22276-c9ff-4a05-afdf-d32eaa658d91
+SEQUENCE:0
+DTSTAMP:20250716T171649
+DTSTART:20250830T123000
+DTEND:20250830T131500
+SUMMARY:🏀 U12 Boys: Maccabi Kings vs Solway Crocodiles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Crocodiles\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

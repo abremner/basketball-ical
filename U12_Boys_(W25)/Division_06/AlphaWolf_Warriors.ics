@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Warriors Fixtures
+X-WR-CALNAME:AlphaWolf Warriors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:44429900-a892-4363-835a-1c89032f073f
+SEQUENCE:0
+DTSTAMP:20250716T171635
+DTSTART:20250726T131500
+DTEND:20250726T140000
+SUMMARY:🏀 U12 Boys: AlphaWolf Warriors vs Timberwolves Howlers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Howlers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a4566590-cfa9-4378-971f-31577442914f
+SEQUENCE:0
+DTSTAMP:20250716T171635
+DTSTART:20250802T131500
+DTEND:20250802T140000
+SUMMARY:🏀 U12 Boys: AlphaWolf Warriors vs Malvern Tigers Orange
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:84fcafae-7cbc-48f5-9959-05c4cfaeceee
+SEQUENCE:0
+DTSTAMP:20250716T171635
+DTSTART:20250809T131500
+DTEND:20250809T140000
+SUMMARY:🏀 U12 Boys: AlphaWolf Warriors vs AlphaWolf Spartans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AlphaW
+ olf Spartans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:92df3a7b-c8c0-45be-9743-63638866a85e
+SEQUENCE:0
+DTSTAMP:20250716T171635
+DTSTART:20250816T140000
+DTEND:20250816T144500
+SUMMARY:🏀 U12 Boys: AlphaWolf Warriors vs Glen Iris Scorpions Gardiner
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Glen Iris Scorpions Gardiner\
+ nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d95dd465-65c1-4456-879e-c0b521aadd85
+SEQUENCE:0
+DTSTAMP:20250716T171635
+DTSTART:20250823T131500
+DTEND:20250823T140000
+SUMMARY:🏀 U12 Boys: AlphaWolf Warriors vs Solway Wolverines
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Wolverines\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:253a952f-4c3c-4dbd-8bd0-7cb9fff77bb4
+SEQUENCE:0
+DTSTAMP:20250716T171635
+DTSTART:20250830T144500
+DTEND:20250830T153000
+SUMMARY:🏀 U12 Boys: AlphaWolf Warriors vs Heywood Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Heywood
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

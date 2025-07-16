@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Orange Fixtures
+X-WR-CALNAME:Malvern Tigers Orange Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:63e6d5e0-1cab-4d61-9c9f-5b4a029a4184
+SEQUENCE:0
+DTSTAMP:20250716T171815
+DTSTART:20250726T174500
+DTEND:20250726T183000
+SUMMARY:🏀 U16 Boys: Malvern Tigers Orange vs Manning Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Manning
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:969f7034-5126-4f57-917c-0f39fa8e652f
+SEQUENCE:0
+DTSTAMP:20250716T171815
+DTSTART:20250802T183000
+DTEND:20250802T191500
+SUMMARY:🏀 U16 Boys: Malvern Tigers Orange vs Maccabi Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3c4bbf58-66b2-41ac-9557-1e8f1512bc91
+SEQUENCE:0
+DTSTAMP:20250716T171815
+DTSTART:20250809T174500
+DTEND:20250809T183000
+SUMMARY:🏀 U16 Boys: Malvern Tigers Orange vs Solway Heat
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Heat\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4349320a-5356-4c26-855c-45641580c9d0
+SEQUENCE:0
+DTSTAMP:20250716T171815
+DTSTART:20250816T183000
+DTEND:20250816T191500
+SUMMARY:🏀 U16 Boys: Malvern Tigers Orange vs Timberwolves Blaze
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Blaze\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e0841c37-f723-4f72-8ece-f1faebca469d
+SEQUENCE:0
+DTSTAMP:20250716T171815
+DTSTART:20250823T174500
+DTEND:20250823T183000
+SUMMARY:🏀 U16 Boys: Malvern Tigers Orange vs Malvern Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c15d59d7-d057-4344-a11a-a6b31f6af38d
+SEQUENCE:0
+DTSTAMP:20250716T171815
+DTSTART:20250830T174500
+DTEND:20250830T183000
+SUMMARY:🏀 U16 Boys: Malvern Tigers Orange vs Manning Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Manning
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

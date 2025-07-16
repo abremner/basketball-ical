@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Brown Fixtures
+X-WR-CALNAME:Malvern Tigers Brown Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4a21b4b2-7559-4a2f-8fba-51d3629138de
+SEQUENCE:0
+DTSTAMP:20250716T171623
+DTSTART:20250802T110000
+DTEND:20250802T114500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Brown vs Maccabi Ducks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Duc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:622d124a-5b4e-4d27-935a-3ec4e885bcf3
+SEQUENCE:0
+DTSTAMP:20250716T171623
+DTSTART:20250809T110000
+DTEND:20250809T114500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Brown vs Timberwolves Gems
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Timberwolve
+ s Gems\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fc5f6415-359e-47c5-bad7-8ed1f679a391
+SEQUENCE:0
+DTSTAMP:20250716T171623
+DTSTART:20250816T084500
+DTEND:20250816T093000
+SUMMARY:🏀 U10 Girls: Malvern Tigers Brown vs AlphaWolf Blaze
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AlphaW
+ olf Blaze\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8f51496a-c01d-47a1-a696-9a80a737a60a
+SEQUENCE:0
+DTSTAMP:20250716T171623
+DTSTART:20250823T110000
+DTEND:20250823T114500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Brown vs Malvern Tigers Orange
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3c4f1160-4612-42f0-b6c1-e77e25d0b153
+SEQUENCE:0
+DTSTAMP:20250716T171623
+DTSTART:20250830T080000
+DTEND:20250830T084500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Brown vs Malvern Tigers Purple
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Purple\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

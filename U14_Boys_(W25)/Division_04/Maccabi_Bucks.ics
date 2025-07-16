@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6b3a8a46-fe9d-45cd-917e-6befa7c8d224
+SEQUENCE:0
+DTSTAMP:20250716T171720
+DTSTART:20250802T161500
+DTEND:20250802T170000
+SUMMARY:🏀 U14 Boys: Maccabi Bucks vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2e994270-10bf-4511-8fa1-c0da693bed34
+SEQUENCE:0
+DTSTAMP:20250716T171720
+DTSTART:20250809T170000
+DTEND:20250809T174500
+SUMMARY:🏀 U14 Boys: Maccabi Bucks vs Timberwolves Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d8de573b-ba5c-4a80-b1b0-42e8cbb52818
+SEQUENCE:0
+DTSTAMP:20250716T171720
+DTSTART:20250816T161500
+DTEND:20250816T170000
+SUMMARY:🏀 U14 Boys: Maccabi Bucks vs Toorak Triple-Threat
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
+ Triple-Threat\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:345cdf46-3b64-42eb-883c-568188337e19
+SEQUENCE:0
+DTSTAMP:20250716T171720
+DTSTART:20250823T161500
+DTEND:20250823T170000
+SUMMARY:🏀 U14 Boys: Maccabi Bucks vs Solway Crusaders
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Crusaders\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:299d3609-1b70-44ff-bd8f-8537952c5dfc
+SEQUENCE:0
+DTSTAMP:20250716T171720
+DTSTART:20250830T161500
+DTEND:20250830T170000
+SUMMARY:🏀 U14 Boys: Maccabi Bucks vs Solway Trojans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Trojans\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

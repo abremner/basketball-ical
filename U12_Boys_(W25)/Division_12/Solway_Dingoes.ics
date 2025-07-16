@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Dingoes Fixtures
+X-WR-CALNAME:Solway Dingoes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4d1010e0-1946-4e0a-8056-9bfd4ab4d2cb
+SEQUENCE:0
+DTSTAMP:20250716T171651
+DTSTART:20250726T123000
+DTEND:20250726T131500
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Timberwolves Fury
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+ wolves Fury\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f6c139e6-6f24-41eb-8a74-8db4cc881a22
+SEQUENCE:0
+DTSTAMP:20250716T171651
+DTSTART:20250802T123000
+DTEND:20250802T131500
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Malvern Tigers Lime
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Lime\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:34baf38e-725f-4c65-90ce-8cae47dd1fcf
+SEQUENCE:0
+DTSTAMP:20250716T171651
+DTSTART:20250809T114500
+DTEND:20250809T123000
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Maccabi Kings
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Kings\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7ac9cb88-1d4c-4a6b-8197-8fe4cdfbbe98
+SEQUENCE:0
+DTSTAMP:20250716T171651
+DTSTART:20250816T114500
+DTEND:20250816T123000
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Malvern Tigers Tan
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Tan\nArrive 15
+  mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:26e99980-ced4-4c00-af76-fee07d971c68
+SEQUENCE:0
+DTSTAMP:20250716T171651
+DTSTART:20250823T123000
+DTEND:20250823T131500
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Solway Crocodiles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Crocodiles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f2365ae7-97db-40ab-ba08-f2c080d50f07
+SEQUENCE:0
+DTSTAMP:20250716T171651
+DTSTART:20250830T123000
+DTEND:20250830T131500
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Timberwolves Fury
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+ wolves Fury\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

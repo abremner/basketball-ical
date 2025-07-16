@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Lakers Fixtures
+X-WR-CALNAME:Maccabi Lakers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e98e6a23-2263-46b7-86f6-ad07569b474b
+SEQUENCE:0
+DTSTAMP:20250716T171648
+DTSTART:20250726T123000
+DTEND:20250726T131500
+SUMMARY:🏀 U12 Boys: Maccabi Lakers vs Glen Iris Scorpions Raven
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Raven\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:20b87f7e-41ff-4f8f-913d-847ee78de576
+SEQUENCE:0
+DTSTAMP:20250716T171648
+DTSTART:20250802T114500
+DTEND:20250802T123000
+SUMMARY:🏀 U12 Boys: Maccabi Lakers vs Ashy Lightning Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+ ightning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:29ddb6f1-477b-434f-8429-a79e8ee219fd
+SEQUENCE:0
+DTSTAMP:20250716T171648
+DTSTART:20250809T114500
+DTEND:20250809T123000
+SUMMARY:🏀 U12 Boys: Maccabi Lakers vs Maccabi Hawks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:41aaac1d-18ef-46b4-a5bb-d92abc7ad961
+SEQUENCE:0
+DTSTAMP:20250716T171648
+DTSTART:20250823T114500
+DTEND:20250823T123000
+SUMMARY:🏀 U12 Boys: Maccabi Lakers vs Timberwolves Cyclones
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+ wolves Cyclones\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c64b1431-1ef5-4e2e-b210-5db8d69aa848
+SEQUENCE:0
+DTSTAMP:20250716T171648
+DTSTART:20250830T114500
+DTEND:20250830T123000
+SUMMARY:🏀 U12 Boys: Maccabi Lakers vs Ardrie Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ardrie 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

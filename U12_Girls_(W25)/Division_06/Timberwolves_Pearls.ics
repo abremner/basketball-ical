@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Pearls Fixtures
+X-WR-CALNAME:Timberwolves Pearls Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:98cdd1b4-58c6-43ce-8840-a3007a53f10e
+SEQUENCE:0
+DTSTAMP:20250716T171708
+DTSTART:20250726T140000
+DTEND:20250726T144500
+SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Lauriston Storm
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston S
+ torm\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0a81958a-69b1-4b99-9b86-7fa183b57ce6
+SEQUENCE:0
+DTSTAMP:20250716T171708
+DTSTART:20250802T131500
+DTEND:20250802T140000
+SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Timberwolves Hurricanes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Hurricanes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7de20381-5d4b-467e-bbe9-01811dcd2a77
+SEQUENCE:0
+DTSTAMP:20250716T171708
+DTSTART:20250809T123000
+DTEND:20250809T131500
+SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Solway Lorikeets
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Lorikeets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d576bb28-744d-4d33-81b4-e6185e7dc18e
+SEQUENCE:0
+DTSTAMP:20250716T171708
+DTSTART:20250816T123000
+DTEND:20250816T131500
+SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:890a2d94-e3f8-47da-934c-624c15ddc381
+SEQUENCE:0
+DTSTAMP:20250716T171708
+DTSTART:20250823T123000
+DTEND:20250823T131500
+SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Ashy Lightning Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
+ ghtning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

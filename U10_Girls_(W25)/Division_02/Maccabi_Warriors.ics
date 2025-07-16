@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Warriors Fixtures
+X-WR-CALNAME:Maccabi Warriors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9b91a04a-0052-4982-ac8c-f35b2957421c
+SEQUENCE:0
+DTSTAMP:20250716T171613
+DTSTART:20250726T101500
+DTEND:20250726T110000
+SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Erindale Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Erinda
+ le Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b51e46cb-7aa6-4a07-8235-4a8a0748134f
+SEQUENCE:0
+DTSTAMP:20250716T171613
+DTSTART:20250802T110000
+DTEND:20250802T114500
+SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Halley Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Halley
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bdca3687-de37-44f1-bdd3-13516858c369
+SEQUENCE:0
+DTSTAMP:20250716T171613
+DTSTART:20250809T101500
+DTEND:20250809T110000
+SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Solway Blizzards
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Blizzards\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e2ff9cb3-e7af-4cfb-b1c0-9ab65d3079a4
+SEQUENCE:0
+DTSTAMP:20250716T171613
+DTSTART:20250816T110000
+DTEND:20250816T114500
+SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Timberwolves Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c49761f1-3a1b-44db-bf3b-6b38bbd76a6a
+SEQUENCE:0
+DTSTAMP:20250716T171613
+DTSTART:20250823T110000
+DTEND:20250823T114500
+SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e7edf257-9967-4bbb-9fbc-e6407b1dd92b
+SEQUENCE:0
+DTSTAMP:20250716T171613
+DTSTART:20250830T101500
+DTEND:20250830T110000
+SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Toorak Tangos
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Tangos\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

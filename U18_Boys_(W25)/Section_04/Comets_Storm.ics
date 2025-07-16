@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Comets Storm Fixtures
+X-WR-CALNAME:Comets Storm Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:99b3218d-398c-496f-9eb0-d1113fe466c1
+SEQUENCE:0
+DTSTAMP:20250716T171834
+DTSTART:20250727T181500
+DTEND:20250727T190000
+SUMMARY:🏀 U18 Boys: Comets Storm vs Timberwolves Knights
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Knights\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8345e9a9-7543-4925-b26a-06b7cd75337a
+SEQUENCE:0
+DTSTAMP:20250716T171834
+DTSTART:20250803T181500
+DTEND:20250803T190000
+SUMMARY:🏀 U18 Boys: Comets Storm vs Toorak Turbos
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Turbos\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2a45f784-dc78-46a4-9c70-200b3e423265
+SEQUENCE:0
+DTSTAMP:20250716T171834
+DTSTART:20250810T181500
+DTEND:20250810T190000
+SUMMARY:🏀 U18 Boys: Comets Storm vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b06bb922-ffe0-4527-803c-b710826bee0b
+SEQUENCE:0
+DTSTAMP:20250716T171834
+DTSTART:20250817T173000
+DTEND:20250817T181500
+SUMMARY:🏀 U18 Boys: Comets Storm vs Golden Hawks Sky
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Golden
+  Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:18176998-a36b-4f56-95d9-3452de80eb40
+SEQUENCE:0
+DTSTAMP:20250716T171834
+DTSTART:20250824T181500
+DTEND:20250824T190000
+SUMMARY:🏀 U18 Boys: Comets Storm vs Timberwolves Stars
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Stars\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:306ed527-f7de-48fd-8f91-f3824296a9e2
+SEQUENCE:0
+DTSTAMP:20250716T171834
+DTSTART:20250831T181500
+DTEND:20250831T190000
+SUMMARY:🏀 U18 Boys: Comets Storm vs Timberwolves Wildcats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Wildcats\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

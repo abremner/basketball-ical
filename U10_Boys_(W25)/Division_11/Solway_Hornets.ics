@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Hornets Fixtures
+X-WR-CALNAME:Solway Hornets Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4c2f6cec-cbaf-446d-9d97-79aef0e8b143
+SEQUENCE:0
+DTSTAMP:20250716T171608
+DTSTART:20250726T080000
+DTEND:20250726T084500
+SUMMARY:🏀 U10 Boys: Solway Hornets vs Koornang Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Koorna
+ ng Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1f831515-458c-46bd-9d4e-15799727f9ec
+SEQUENCE:0
+DTSTAMP:20250716T171608
+DTSTART:20250802T084500
+DTEND:20250802T093000
+SUMMARY:🏀 U10 Boys: Solway Hornets vs Ashy Lightning Yellow
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Ashy Lightning Yellow\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0110999c-966d-4438-bfda-0e124d829553
+SEQUENCE:0
+DTSTAMP:20250716T171608
+DTSTART:20250809T084500
+DTEND:20250809T093000
+SUMMARY:🏀 U10 Boys: Solway Hornets vs SouthEast Venom Magic
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: SouthEast Venom Magic\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7e06bef7-611f-47aa-8d63-de63c7ae7f8d
+SEQUENCE:0
+DTSTAMP:20250716T171608
+DTSTART:20250816T080000
+DTEND:20250816T084500
+SUMMARY:🏀 U10 Boys: Solway Hornets vs Maccabi Jaguars
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Jaguars\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:31646719-abc5-44d8-b53d-74d2c7c927f4
+SEQUENCE:0
+DTSTAMP:20250716T171608
+DTSTART:20250823T080000
+DTEND:20250823T084500
+SUMMARY:🏀 U10 Boys: Solway Hornets vs Timberwolves Hawks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7296148f-f705-439c-a67c-7a821ac39dab
+SEQUENCE:0
+DTSTAMP:20250716T171608
+DTSTART:20250830T084500
+DTEND:20250830T093000
+SUMMARY:🏀 U10 Boys: Solway Hornets vs Koornang Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Koorna
+ ng Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

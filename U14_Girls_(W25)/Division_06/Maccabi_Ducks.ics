@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Ducks Fixtures
+X-WR-CALNAME:Maccabi Ducks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c7f9527c-8c75-4d0d-b2aa-84cb1a154742
+SEQUENCE:0
+DTSTAMP:20250716T171752
+DTSTART:20250726T153000
+DTEND:20250726T161500
+SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Darling Park Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Darling Par
+ k Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9d05f60c-3540-464f-aecd-b902c5a2652e
+SEQUENCE:0
+DTSTAMP:20250716T171752
+DTSTART:20250802T153000
+DTEND:20250802T161500
+SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Maccabi Celtics
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Cel
+ tics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f813def6-3ff5-4b55-a4bb-0db3a73dda9d
+SEQUENCE:0
+DTSTAMP:20250716T171752
+DTSTART:20250809T161500
+DTEND:20250809T170000
+SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Glen Iris Scorpions Nettleton
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
+ corpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b5a25cf9-6b46-4ba5-a942-f9867e52d6a5
+SEQUENCE:0
+DTSTAMP:20250716T171752
+DTSTART:20250816T153000
+DTEND:20250816T161500
+SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Lauriston Legends
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston L
+ egends\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1a1c1369-1a44-445b-9e56-9f5ea97afa53
+SEQUENCE:0
+DTSTAMP:20250716T171752
+DTSTART:20250823T153000
+DTEND:20250823T161500
+SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Solway Sapphires
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Sapp
+ hires\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:04a0ea0d-fb6b-4b14-8d45-4491511f9c24
+SEQUENCE:0
+DTSTAMP:20250716T171752
+DTSTART:20250830T170000
+DTEND:20250830T174500
+SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Timberwolves Sapphires
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Sapphires\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Flames Fixtures
+X-WR-CALNAME:Timberwolves Flames Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:40f125d2-37c3-4ba8-a44b-a23747f7b54f
+SEQUENCE:0
+DTSTAMP:20250716T171744
+DTSTART:20250726T161500
+DTEND:20250726T170000
+SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Golden Hawks Sky
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Golden
+  Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:12a0bc7d-42c4-4c27-9e8e-db4917c3f10a
+SEQUENCE:0
+DTSTAMP:20250716T171744
+DTSTART:20250802T161500
+DTEND:20250802T170000
+SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Glen Iris Scorpions Ferndal
+ e
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
+ ris Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9d2471a3-e059-435e-9458-55ae6f52f0f3
+SEQUENCE:0
+DTSTAMP:20250716T171744
+DTSTART:20250809T161500
+DTEND:20250809T170000
+SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:51e483e8-7915-4c5c-8ebc-0a5934060c1c
+SEQUENCE:0
+DTSTAMP:20250716T171744
+DTSTART:20250816T170000
+DTEND:20250816T174500
+SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Malvern Tigers Hodges
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Hodges\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ff209e9a-01ee-41fc-aafc-e57f05750639
+SEQUENCE:0
+DTSTAMP:20250716T171744
+DTSTART:20250823T170000
+DTEND:20250823T174500
+SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Glen Iris Scorpions Gardine
+ r
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
+ is Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:59c3c71c-0bd3-49d3-b756-8d89680fe733
+SEQUENCE:0
+DTSTAMP:20250716T171744
+DTSTART:20250830T170000
+DTEND:20250830T174500
+SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Solway Jewels
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Jewels\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

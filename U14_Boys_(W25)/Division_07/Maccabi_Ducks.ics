@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Ducks Fixtures
+X-WR-CALNAME:Maccabi Ducks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8d02639f-e422-4880-b0de-f7020acb4f76
+SEQUENCE:0
+DTSTAMP:20250716T171729
+DTSTART:20250726T153000
+DTEND:20250726T161500
+SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Timberwolves Terriers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Terriers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2db650e4-47f7-49dd-9e37-a401867318a1
+SEQUENCE:0
+DTSTAMP:20250716T171729
+DTSTART:20250802T153000
+DTEND:20250802T161500
+SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Solway Gladiators
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Gladiators\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d841fb2e-d2b6-4696-b624-9f43ab499ea0
+SEQUENCE:0
+DTSTAMP:20250716T171729
+DTSTART:20250809T153000
+DTEND:20250809T161500
+SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Inkerman Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Inkerma
+ n Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8c79b475-4e9c-4c6d-9708-e27c0b2e5e96
+SEQUENCE:0
+DTSTAMP:20250716T171729
+DTSTART:20250816T161500
+DTEND:20250816T170000
+SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Malvern Tigers Blue
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:807e94e0-fccb-4e9c-8de4-eade01c9d150
+SEQUENCE:0
+DTSTAMP:20250716T171729
+DTSTART:20250823T153000
+DTEND:20250823T161500
+SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Toorak Tractors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
+  Tractors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1228366e-e3cd-4c45-957b-f5ca776712dd
+SEQUENCE:0
+DTSTAMP:20250716T171729
+DTSTART:20250830T153000
+DTEND:20250830T161500
+SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Timberwolves Terriers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Terriers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

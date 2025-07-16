@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Magic Fixtures
+X-WR-CALNAME:Timberwolves Magic Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1b2df96f-df7a-40c1-a202-da08852e6158
+SEQUENCE:0
+DTSTAMP:20250716T171810
+DTSTART:20250726T174500
+DTEND:20250726T183000
+SUMMARY:🏀 U16 Boys: Timberwolves Magic vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:455a9c73-65c0-4ab8-826f-89990f181523
+SEQUENCE:0
+DTSTAMP:20250716T171810
+DTSTART:20250802T183000
+DTEND:20250802T191500
+SUMMARY:🏀 U16 Boys: Timberwolves Magic vs Glen Iris Scorpions Sixers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
+ is Scorpions Sixers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a8ceb3e1-6ccb-4996-aac8-afa215eb97d9
+SEQUENCE:0
+DTSTAMP:20250716T171810
+DTSTART:20250809T191500
+DTEND:20250809T200000
+SUMMARY:🏀 U16 Boys: Timberwolves Magic vs Timberwolves 36ers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves 36ers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d6b31705-9984-4286-8ff5-3e133cfa5df5
+SEQUENCE:0
+DTSTAMP:20250716T171810
+DTSTART:20250816T174500
+DTEND:20250816T183000
+SUMMARY:🏀 U16 Boys: Timberwolves Magic vs AlphaWolf Tornados
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: AlphaWo
+ lf Tornados\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4b16639b-22ca-4980-8697-5a336d83d790
+SEQUENCE:0
+DTSTAMP:20250716T171810
+DTSTART:20250823T183000
+DTEND:20250823T191500
+SUMMARY:🏀 U16 Boys: Timberwolves Magic vs Malvern Tigers White
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:12747522-65ce-44ae-b408-79710e07aac0
+SEQUENCE:0
+DTSTAMP:20250716T171810
+DTSTART:20250830T174500
+DTEND:20250830T183000
+SUMMARY:🏀 U16 Boys: Timberwolves Magic vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

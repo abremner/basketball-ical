@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Arax Fixtures
+X-WR-CALNAME:Arax Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:27145961-97a7-45e8-9e5f-7bf0abeca95d
+SEQUENCE:0
+DTSTAMP:20250716T171731
+DTSTART:20250726T131500
+DTEND:20250726T140000
+SUMMARY:🏀 U14 Boys: Arax vs Comets Sharks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Comets
+  Sharks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7eae24b0-cab3-48f1-ab7a-18a5f37ec262
+SEQUENCE:0
+DTSTAMP:20250716T171731
+DTSTART:20250802T131500
+DTEND:20250802T140000
+SUMMARY:🏀 U14 Boys: Arax vs Solway Ninjas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Ninjas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b5ea6136-2135-47d9-9f0b-2f592974ab3c
+SEQUENCE:0
+DTSTAMP:20250716T171731
+DTSTART:20250809T131500
+DTEND:20250809T140000
+SUMMARY:🏀 U14 Boys: Arax vs Prahran Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Prahra
+ n Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:072485f1-4da3-47ca-a502-248941223601
+SEQUENCE:0
+DTSTAMP:20250716T171731
+DTSTART:20250816T131500
+DTEND:20250816T140000
+SUMMARY:🏀 U14 Boys: Arax vs Glen Iris Scorpions Summerhill
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
+ ris Scorpions Summerhill\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:215edcd0-3b11-4cdd-9201-9c3b455ae1c9
+SEQUENCE:0
+DTSTAMP:20250716T171731
+DTSTART:20250823T131500
+DTEND:20250823T140000
+SUMMARY:🏀 U14 Boys: Arax vs Solway Mavericks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Mavericks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:01805f4e-86e0-4005-a0d9-31613d367a3d
+SEQUENCE:0
+DTSTAMP:20250716T171731
+DTSTART:20250830T131500
+DTEND:20250830T140000
+SUMMARY:🏀 U14 Boys: Arax vs Malvern Tigers Purple
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Purple\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

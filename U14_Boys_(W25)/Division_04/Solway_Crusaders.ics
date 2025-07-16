@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Crusaders Fixtures
+X-WR-CALNAME:Solway Crusaders Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:50f4c52d-dd20-48f9-9b31-0d665176669b
+SEQUENCE:0
+DTSTAMP:20250716T171720
+DTSTART:20250726T161500
+DTEND:20250726T170000
+SUMMARY:🏀 U14 Boys: Solway Crusaders vs Toorak Triple-Threat
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak 
+ Triple-Threat\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:635a2b9f-d0b9-4d7d-9d89-a8d14e8e67d6
+SEQUENCE:0
+DTSTAMP:20250716T171720
+DTSTART:20250809T161500
+DTEND:20250809T170000
+SUMMARY:🏀 U14 Boys: Solway Crusaders vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:439d6046-e1c5-4abf-b27d-140ed4c20176
+SEQUENCE:0
+DTSTAMP:20250716T171720
+DTSTART:20250816T170000
+DTEND:20250816T174500
+SUMMARY:🏀 U14 Boys: Solway Crusaders vs Solway Trojans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Trojans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ff6d0d82-2e0d-4121-bf36-630c333d638e
+SEQUENCE:0
+DTSTAMP:20250716T171720
+DTSTART:20250823T161500
+DTEND:20250823T170000
+SUMMARY:🏀 U14 Boys: Solway Crusaders vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:eb17c767-d5ab-48ac-b9f0-75dddac8d0f3
+SEQUENCE:0
+DTSTAMP:20250716T171720
+DTSTART:20250830T170000
+DTEND:20250830T174500
+SUMMARY:🏀 U14 Boys: Solway Crusaders vs Malvern Tigers White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR
