@@ -6,69 +6,69 @@ X-WR-CALNAME:Solway Bulls Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e3a85857-ade1-4c3c-a5d2-bea2ddd98baf
+UID:73aef7b6-b239-43fb-8772-7a51aa7b486a
 SEQUENCE:0
-DTSTAMP:20250723T171641
-DTSTART:20250726T084500
-DTEND:20250726T093000
+DTSTAMP:20250724T171453
+DTSTART:20250726T093000
+DTEND:20250726T101500
 SUMMARY:🏀 U10 Boys: Solway Bulls vs Malvern Tigers Purple
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Purple\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:55502243-9c7a-4ee1-86c6-d6c66f3d93b5
+UID:4a27dc35-b82b-4d9c-a8ac-9f0019cfcd9b
 SEQUENCE:0
-DTSTAMP:20250723T171641
+DTSTAMP:20250724T171453
 DTSTART:20250802T080000
 DTEND:20250802T084500
-SUMMARY:🏀 U10 Boys: Solway Bulls vs Hawksburn Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Hawksb
- urn Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:c7612e99-8db9-4b62-b00e-d4541b21f7ba
-SEQUENCE:0
-DTSTAMP:20250723T171641
-DTSTART:20250809T084500
-DTEND:20250809T093000
-SUMMARY:🏀 U10 Boys: Solway Bulls vs SouthEast Venom Rockets
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: SouthE
- ast Venom Rockets\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:aaf0b429-ffd2-4f5f-9c95-296486d79039
-SEQUENCE:0
-DTSTAMP:20250723T171641
-DTSTART:20250816T093000
-DTEND:20250816T101500
 SUMMARY:🏀 U10 Boys: Solway Bulls vs Malvern Tigers Brown
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cf1b8c99-4c4e-4d41-8b7c-2f8d1c5a3af3
+UID:b0bf7471-3fae-456a-8bb4-0901993dd277
 SEQUENCE:0
-DTSTAMP:20250723T171641
-DTSTART:20250823T093000
-DTEND:20250823T101500
+DTSTAMP:20250724T171453
+DTSTART:20250809T101500
+DTEND:20250809T110000
 SUMMARY:🏀 U10 Boys: Solway Bulls vs Orrong Park Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Orrong
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Orrong
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d72c9903-8a24-4cc2-93df-4acb2371cc3b
+UID:a7b125c9-0795-493c-b5b8-5d3f29e607a9
 SEQUENCE:0
-DTSTAMP:20250723T171641
-DTSTART:20250830T093000
-DTEND:20250830T101500
+DTSTAMP:20250724T171453
+DTSTART:20250816T101500
+DTEND:20250816T110000
 SUMMARY:🏀 U10 Boys: Solway Bulls vs Timberwolves Cobras
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Cobras\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:428b5891-a50e-4aa0-8dd6-04c54ac81675
+SEQUENCE:0
+DTSTAMP:20250724T171453
+DTSTART:20250823T080000
+DTEND:20250823T084500
+SUMMARY:🏀 U10 Boys: Solway Bulls vs SouthEast Venom Rockets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: SouthE
+ ast Venom Rockets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:75cc2fb6-e26d-491f-b1bd-501517364a15
+SEQUENCE:0
+DTSTAMP:20250724T171453
+DTSTART:20250830T101500
+DTEND:20250830T110000
+SUMMARY:🏀 U10 Boys: Solway Bulls vs Malvern Tigers Purple
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Purple\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

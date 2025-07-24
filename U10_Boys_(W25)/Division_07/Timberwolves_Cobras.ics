@@ -6,20 +6,20 @@ X-WR-CALNAME:Timberwolves Cobras Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:bebf9a15-59bf-432d-a7d1-a9bf4a98c8e4
+UID:2cbf5094-0aea-433c-b8ae-b645ac52b38f
 SEQUENCE:0
-DTSTAMP:20250723T171642
-DTSTART:20250726T093000
-DTEND:20250726T101500
+DTSTAMP:20250724T171454
+DTSTART:20250726T101500
+DTEND:20250726T110000
 SUMMARY:🏀 U10 Boys: Timberwolves Cobras vs Malvern Tigers Brown
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ab3947cc-acc3-4181-95b7-e82ef2a951ba
+UID:3cdb8676-2362-4964-8849-6533ce3c5322
 SEQUENCE:0
-DTSTAMP:20250723T171642
+DTSTAMP:20250724T171454
 DTSTART:20250802T093000
 DTEND:20250802T101500
 SUMMARY:🏀 U10 Boys: Timberwolves Cobras vs Orrong Park Piranhas
@@ -28,47 +28,47 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Orrong
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9288f70d-d141-4d9b-9b6c-fdcfa61f5887
+UID:6e06fa9a-0e47-4afe-9dd4-f0d0f9c8aec2
 SEQUENCE:0
-DTSTAMP:20250723T171642
+DTSTAMP:20250724T171454
 DTSTART:20250809T080000
 DTEND:20250809T084500
-SUMMARY:🏀 U10 Boys: Timberwolves Cobras vs Malvern Tigers Purple
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
- n Tigers Purple\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:bd02fb39-15db-4bb9-95a5-08108bbb171c
-SEQUENCE:0
-DTSTAMP:20250723T171642
-DTSTART:20250816T084500
-DTEND:20250816T093000
-SUMMARY:🏀 U10 Boys: Timberwolves Cobras vs Toorak Tycoons
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
-  Tycoons\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:565fd48e-5fb3-4bea-b449-ad9f45093f62
-SEQUENCE:0
-DTSTAMP:20250723T171642
-DTSTART:20250823T101500
-DTEND:20250823T110000
 SUMMARY:🏀 U10 Boys: Timberwolves Cobras vs SouthEast Venom Rockets
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: SouthE
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: SouthE
  ast Venom Rockets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ad13aa81-8422-4c60-a272-f7c0bd257698
+UID:a7b63442-849b-40ed-931b-dfd44a05fa64
 SEQUENCE:0
-DTSTAMP:20250723T171642
-DTSTART:20250830T093000
-DTEND:20250830T101500
+DTSTAMP:20250724T171454
+DTSTART:20250816T101500
+DTEND:20250816T110000
 SUMMARY:🏀 U10 Boys: Timberwolves Cobras vs Solway Bulls
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Bulls\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c5f573d2-ab50-4030-ac63-9a8986a60f58
+SEQUENCE:0
+DTSTAMP:20250724T171454
+DTSTART:20250823T101500
+DTEND:20250823T110000
+SUMMARY:🏀 U10 Boys: Timberwolves Cobras vs Malvern Tigers Purple
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Purple\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:02e5135e-858f-4f8c-a7d3-ee9f4ad7ef32
+SEQUENCE:0
+DTSTAMP:20250724T171454
+DTSTART:20250830T080000
+DTEND:20250830T084500
+SUMMARY:🏀 U10 Boys: Timberwolves Cobras vs Malvern Tigers Brown
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR
