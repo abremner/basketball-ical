@@ -6,9 +6,9 @@ X-WR-CALNAME:AlphaWolf Magic Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:24bfd7d4-dc29-444d-98d7-1c8b16b623c5
+UID:d422da26-00f2-4af3-8bf5-909aa7b17191
 SEQUENCE:0
-DTSTAMP:20250724T171419
+DTSTAMP:20250725T171433
 DTSTART:20250726T101500
 DTEND:20250726T110000
 SUMMARY:🏀 U08 Boys: AlphaWolf Magic vs Malvern Tigers Daniels
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Daniels\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9d455553-a5a4-4519-8fe5-dfbc201771c5
+UID:7ec38d8e-12ae-4d8f-9c17-cdf02c7c2b1c
 SEQUENCE:0
-DTSTAMP:20250724T171419
+DTSTAMP:20250725T171433
 DTSTART:20250802T101500
 DTEND:20250802T110000
 SUMMARY:🏀 U08 Boys: AlphaWolf Magic vs Malvern Tigers Exum
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Exum\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:79c8a142-4b16-4537-bc87-decce0ea02a2
+UID:9fb98bcc-9d34-4720-a8e5-e0e5d10fcc10
 SEQUENCE:0
-DTSTAMP:20250724T171419
+DTSTAMP:20250725T171433
 DTSTART:20250809T101500
 DTEND:20250809T110000
 SUMMARY:🏀 U08 Boys: AlphaWolf Magic vs Glen Iris Scorpions Gardiner
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d42eab1a-b838-459b-ba5d-1c0c1eaae1e4
+UID:33995d56-2821-4a68-bbb2-cfda99e5e3e7
 SEQUENCE:0
-DTSTAMP:20250724T171419
+DTSTAMP:20250725T171433
 DTSTART:20250816T093000
 DTEND:20250816T101500
 SUMMARY:🏀 U08 Boys: AlphaWolf Magic vs Timberwolves Blasters
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Blasters\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:afccfde9-3dfa-471a-a6ae-9144e767034d
+UID:d4a1fb8d-4212-4768-ab4d-9014420ec8f3
 SEQUENCE:0
-DTSTAMP:20250724T171419
+DTSTAMP:20250725T171433
 DTSTART:20250823T093000
 DTEND:20250823T101500
 SUMMARY:🏀 U08 Boys: AlphaWolf Magic vs Bambra Piranhas
@@ -61,14 +61,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Bambra
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3fbf03c8-7e2c-4903-9385-0a7666093ef5
+UID:043c3bdb-c98b-40c8-b1dc-611559df3342
 SEQUENCE:0
-DTSTAMP:20250724T171419
+DTSTAMP:20250725T171433
 DTSTART:20250830T101500
 DTEND:20250830T110000
 SUMMARY:🏀 U08 Boys: AlphaWolf Magic vs Malvern Tigers Daniels
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Daniels\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cc28d6dd-a1aa-49ad-ba00-d19738304fc4
+SEQUENCE:0
+DTSTAMP:20250725T171433
+DTSTART:20250906T101500
+DTEND:20250906T110000
+SUMMARY:🏀 U08 Boys: AlphaWolf Magic vs Malvern Tigers Exum
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Exum\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

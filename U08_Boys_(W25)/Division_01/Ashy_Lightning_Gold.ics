@@ -6,9 +6,9 @@ X-WR-CALNAME:Ashy Lightning Gold Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:ecc6031f-aaec-4dfb-8d91-56b9913d0264
+UID:676ddeb4-22da-4a9d-bbf7-d4e4f921fa7d
 SEQUENCE:0
-DTSTAMP:20250724T171417
+DTSTAMP:20250725T171431
 DTSTART:20250726T084500
 DTEND:20250726T093000
 SUMMARY:🏀 U08 Boys: Ashy Lightning Gold vs Maccabi Warriors
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0273d015-6007-47ae-a127-6664d4e07f4f
+UID:0468670e-6cf6-4eba-ba73-dd78ac2eb828
 SEQUENCE:0
-DTSTAMP:20250724T171417
+DTSTAMP:20250725T171431
 DTSTART:20250802T084500
 DTEND:20250802T093000
 SUMMARY:🏀 U08 Boys: Ashy Lightning Gold vs Maccabi Bucks
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b1d08cf7-0f61-4936-9cae-cc1c6c580935
+UID:ca036c3c-8b63-4719-bfa7-58646703d6b1
 SEQUENCE:0
-DTSTAMP:20250724T171417
+DTSTAMP:20250725T171431
 DTSTART:20250809T084500
 DTEND:20250809T093000
 SUMMARY:🏀 U08 Boys: Ashy Lightning Gold vs AlphaWolf Tigers
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: AlphaWo
  lf Tigers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:19eba5b8-8562-476c-9546-642e1a954d14
+UID:7ea28e43-ceb6-4d80-b035-add4a6aac4c5
 SEQUENCE:0
-DTSTAMP:20250724T171417
+DTSTAMP:20250725T171431
 DTSTART:20250816T093000
 DTEND:20250816T101500
 SUMMARY:🏀 U08 Boys: Ashy Lightning Gold vs Solway Colts
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
  Colts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:699315f5-0f57-4eb2-86fb-cf78b2417917
+UID:4f4c7932-8740-4c5c-a7bd-8f1b686dc43f
 SEQUENCE:0
-DTSTAMP:20250724T171417
+DTSTAMP:20250725T171431
 DTSTART:20250823T101500
 DTEND:20250823T110000
 SUMMARY:🏀 U08 Boys: Ashy Lightning Gold vs East Malvern Piranhas
@@ -61,14 +61,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: East Ma
  lvern Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9e636532-9603-4285-880a-b6bff568f2e8
+UID:d987805d-a8d0-457f-882e-30ea8cf40c2f
 SEQUENCE:0
-DTSTAMP:20250724T171417
+DTSTAMP:20250725T171431
 DTSTART:20250830T084500
 DTEND:20250830T093000
 SUMMARY:🏀 U08 Boys: Ashy Lightning Gold vs Maccabi Warriors
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:95444ad5-5a76-475b-aecd-c134546c688f
+SEQUENCE:0
+DTSTAMP:20250725T171431
+DTSTART:20250906T084500
+DTEND:20250906T093000
+SUMMARY:🏀 U08 Boys: Ashy Lightning Gold vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

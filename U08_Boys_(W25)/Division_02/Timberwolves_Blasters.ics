@@ -6,9 +6,9 @@ X-WR-CALNAME:Timberwolves Blasters Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e0f9d933-5367-429f-bea8-2ca3959a04a8
+UID:a9ce0642-c133-40c2-911c-7e3b4701f9b9
 SEQUENCE:0
-DTSTAMP:20250724T171421
+DTSTAMP:20250725T171435
 DTSTART:20250726T101500
 DTEND:20250726T110000
 SUMMARY:🏀 U08 Boys: Timberwolves Blasters vs Glen Iris Scorpions Gardin
@@ -18,9 +18,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9c4afc1f-211c-4472-a155-91429bc0bed2
+UID:277b7abf-3441-4307-94eb-1a290c7416e5
 SEQUENCE:0
-DTSTAMP:20250724T171421
+DTSTAMP:20250725T171435
 DTSTART:20250802T101500
 DTEND:20250802T110000
 SUMMARY:🏀 U08 Boys: Timberwolves Blasters vs Bambra Piranhas
@@ -29,9 +29,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Bambra
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:767fb599-bbfb-46ec-a759-3fa71a4e1559
+UID:9dae529f-7db1-407d-bd15-c3d13ed6b58f
 SEQUENCE:0
-DTSTAMP:20250724T171421
+DTSTAMP:20250725T171435
 DTSTART:20250809T093000
 DTEND:20250809T101500
 SUMMARY:🏀 U08 Boys: Timberwolves Blasters vs Malvern Tigers Exum
@@ -40,9 +40,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Exum\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4f173376-89a9-4f00-b296-6241c44e1d04
+UID:df2482ba-d2be-4b2a-913f-97fea37f4e47
 SEQUENCE:0
-DTSTAMP:20250724T171421
+DTSTAMP:20250725T171435
 DTSTART:20250816T093000
 DTEND:20250816T101500
 SUMMARY:🏀 U08 Boys: Timberwolves Blasters vs AlphaWolf Magic
@@ -51,9 +51,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
  lf Magic\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:95a58cd8-4fd4-4aa7-a78a-c4d5706f369c
+UID:fa64de0c-2140-4f5f-8ae1-e81a1f7cb770
 SEQUENCE:0
-DTSTAMP:20250724T171421
+DTSTAMP:20250725T171435
 DTSTART:20250823T101500
 DTEND:20250823T110000
 SUMMARY:🏀 U08 Boys: Timberwolves Blasters vs Malvern Tigers Daniels
@@ -62,9 +62,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Daniels\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f1a935aa-fada-44eb-9149-d575b12ca7f7
+UID:2d28c0f0-bb1c-46ea-a878-fc77b11560fa
 SEQUENCE:0
-DTSTAMP:20250724T171421
+DTSTAMP:20250725T171435
 DTSTART:20250830T093000
 DTEND:20250830T101500
 SUMMARY:🏀 U08 Boys: Timberwolves Blasters vs Glen Iris Scorpions Gardin
@@ -72,5 +72,16 @@ SUMMARY:🏀 U08 Boys: Timberwolves Blasters vs Glen Iris Scorpions Gardin
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:034447a9-3e96-404e-b278-2eb212dd4882
+SEQUENCE:0
+DTSTAMP:20250725T171435
+DTSTART:20250906T093000
+DTEND:20250906T101500
+SUMMARY:🏀 U08 Boys: Timberwolves Blasters vs Bambra Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Bambra 
+ Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

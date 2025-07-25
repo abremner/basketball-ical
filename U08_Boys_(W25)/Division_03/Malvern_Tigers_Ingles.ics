@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Ingles Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c524d623-6526-405e-b03b-72aec07f3011
+UID:ed27d7f1-d999-428a-90c5-96e6c74da0f9
 SEQUENCE:0
-DTSTAMP:20250724T171422
+DTSTAMP:20250725T171437
 DTSTART:20250802T093000
 DTEND:20250802T101500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Ingles vs Claremont Piranhas
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Claremo
  nt Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:060ed600-5aaa-4b05-bef0-ea7c028e98af
+UID:b0b047f2-c3a7-4ced-9a30-4c6fae9a558b
 SEQUENCE:0
-DTSTAMP:20250724T171422
+DTSTAMP:20250725T171437
 DTSTART:20250809T084500
 DTEND:20250809T093000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Ingles vs Melbourne Wolves RBT Rapto
@@ -29,9 +29,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Melbour
  ne Wolves RBT Raptors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5322188d-0097-423d-80ad-07924abc6037
+UID:ffa7cef3-c5ff-4c05-8766-a097519cdb45
 SEQUENCE:0
-DTSTAMP:20250724T171422
+DTSTAMP:20250725T171437
 DTSTART:20250816T080000
 DTEND:20250816T084500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Ingles vs Arax
@@ -40,9 +40,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Arax\nA
  rrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a51d5161-b28f-4bfb-9c8a-0393865d4ece
+UID:c4b7e406-59f6-4c29-baac-098344498a00
 SEQUENCE:0
-DTSTAMP:20250724T171422
+DTSTAMP:20250725T171437
 DTSTART:20250823T080000
 DTEND:20250823T084500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Ingles vs Solway Brumbies
@@ -51,14 +51,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Brumbies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:44a1167b-0f9f-4a0b-9174-c97e4a357b1f
+UID:15792f3e-b6ba-474e-91b1-9f23a6b3893b
 SEQUENCE:0
-DTSTAMP:20250724T171422
+DTSTAMP:20250725T171437
 DTSTART:20250830T093000
 DTEND:20250830T101500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Ingles vs Solway Chargers
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
  Chargers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:47cbb0c7-0098-46ef-b8ee-ef7f9510d56b
+SEQUENCE:0
+DTSTAMP:20250725T171437
+DTSTART:20250906T084500
+DTEND:20250906T093000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Ingles vs Timberwolves Pythons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Pythons\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

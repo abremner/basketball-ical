@@ -6,9 +6,9 @@ X-WR-CALNAME:Glen Iris Scorpions Gardiner Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:ab02a222-e032-4c83-80ce-6add80cb75f2
+UID:6998eff3-496c-4825-9fd2-04d09d5f19c0
 SEQUENCE:0
-DTSTAMP:20250724T171420
+DTSTAMP:20250725T171434
 DTSTART:20250726T101500
 DTEND:20250726T110000
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Timberwolves Blaste
@@ -18,9 +18,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Blasters\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f577c016-a2ab-437e-b5d1-6de731a929c8
+UID:19aa2e7e-978d-43c7-8588-a6db978fbac6
 SEQUENCE:0
-DTSTAMP:20250724T171420
+DTSTAMP:20250725T171434
 DTSTART:20250802T093000
 DTEND:20250802T101500
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Malvern Tigers Dani
@@ -30,9 +30,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Daniels\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8a2075a2-924c-43ef-95f1-d791ee25e5f7
+UID:54f54479-ae0c-461a-a146-b688d49c6a73
 SEQUENCE:0
-DTSTAMP:20250724T171420
+DTSTAMP:20250725T171434
 DTSTART:20250809T101500
 DTEND:20250809T110000
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs AlphaWolf Magic
@@ -41,9 +41,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: AlphaWo
  lf Magic\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:693045fa-4029-441b-a9c9-0d3f368404f1
+UID:416c6e9b-023f-479f-827b-20dbcb2e2540
 SEQUENCE:0
-DTSTAMP:20250724T171420
+DTSTAMP:20250725T171434
 DTSTART:20250816T101500
 DTEND:20250816T110000
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Bambra Piranhas
@@ -52,9 +52,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Bambra
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f35eee66-811a-4762-b718-607e511be3bb
+UID:5508c5f6-1d4b-4e38-b926-51f8dda2faa5
 SEQUENCE:0
-DTSTAMP:20250724T171420
+DTSTAMP:20250725T171434
 DTSTART:20250823T101500
 DTEND:20250823T110000
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Malvern Tigers Exum
@@ -63,9 +63,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Exum\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:864b9bf3-2577-4dda-9ad3-35fde7b30192
+UID:a68c59f7-d939-4876-b33b-8f727f801ddb
 SEQUENCE:0
-DTSTAMP:20250724T171420
+DTSTAMP:20250725T171434
 DTSTART:20250830T093000
 DTEND:20250830T101500
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Timberwolves Blaste
@@ -73,5 +73,17 @@ SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Timberwolves Blaste
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Blasters\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:add8b564-7967-4a35-92df-323a1fe1bf75
+SEQUENCE:0
+DTSTAMP:20250725T171434
+DTSTART:20250906T101500
+DTEND:20250906T110000
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Malvern Tigers Dani
+ els
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Daniels\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

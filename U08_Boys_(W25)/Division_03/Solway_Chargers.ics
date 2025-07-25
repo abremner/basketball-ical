@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Chargers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:abe5af71-a3f3-401a-badd-37f677eea85c
+UID:f9b79e2b-7ac4-4e8b-b4bc-b5b601efbaf8
 SEQUENCE:0
-DTSTAMP:20250724T171424
+DTSTAMP:20250725T171439
 DTSTART:20250726T080000
 DTEND:20250726T084500
 SUMMARY:🏀 U08 Boys: Solway Chargers vs Arax
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Arax\nA
  rrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:936d3f96-f2bf-4818-b5ab-d6c83dba6f63
+UID:76976443-08b1-4eba-852a-d1ab7d16aa32
 SEQUENCE:0
-DTSTAMP:20250724T171424
+DTSTAMP:20250725T171439
 DTSTART:20250802T084500
 DTEND:20250802T093000
 SUMMARY:🏀 U08 Boys: Solway Chargers vs Glen Iris Scorpions Ferndale
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
  is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6fd1f13c-e819-40b8-8ed1-7dbac823afb4
+UID:cf78cf04-01fa-4c0d-b783-8610a2df5fbc
 SEQUENCE:0
-DTSTAMP:20250724T171424
+DTSTAMP:20250725T171439
 DTSTART:20250809T080000
 DTEND:20250809T084500
 SUMMARY:🏀 U08 Boys: Solway Chargers vs Claremont Piranhas
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Claremo
  nt Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ab0775c9-c17f-4498-8ed5-d0f8a5a451cc
+UID:22bb0df5-3041-4c00-acd3-4d8685fd6700
 SEQUENCE:0
-DTSTAMP:20250724T171424
+DTSTAMP:20250725T171439
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U08 Boys: Solway Chargers vs Packer Park Piranhas
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Packer
  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b9909504-15d6-41fc-b4e3-ffa7315c7890
+UID:646f981a-40fe-4b7e-bdaa-f9e00df0bc86
 SEQUENCE:0
-DTSTAMP:20250724T171424
+DTSTAMP:20250725T171439
 DTSTART:20250830T093000
 DTEND:20250830T101500
 SUMMARY:🏀 U08 Boys: Solway Chargers vs Malvern Tigers Ingles
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Ingles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:10698bd6-e0db-4a10-ab1d-48db9f7d19f5
+SEQUENCE:0
+DTSTAMP:20250725T171439
+DTSTART:20250906T093000
+DTEND:20250906T101500
+SUMMARY:🏀 U08 Boys: Solway Chargers vs Melbourne Wolves RBT Raptors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Melbour
+ ne Wolves RBT Raptors\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR
