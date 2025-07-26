@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Celtics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:3ef570b2-e4b6-40ec-bc18-676bd625b43c
+UID:d2bdfbde-83ff-4386-ad0b-070576e24576
 SEQUENCE:0
-DTSTAMP:20250725T171655
-DTSTART:20250726T153000
-DTEND:20250726T161500
-SUMMARY:🏀 U14 Boys: Maccabi Celtics vs Toorak Tomcats
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
-  Tomcats\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:7c5ccda5-78c2-43cb-810d-2815ab9e043f
-SEQUENCE:0
-DTSTAMP:20250725T171655
+DTSTAMP:20250726T171500
 DTSTART:20250802T161500
 DTEND:20250802T170000
 SUMMARY:🏀 U14 Boys: Maccabi Celtics vs Timberwolves Dragons
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Dragons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f524a645-0d15-4cf4-a1c1-11e383392699
+UID:48746510-8bc1-48c3-ae68-c387b21a4200
 SEQUENCE:0
-DTSTAMP:20250725T171655
+DTSTAMP:20250726T171500
 DTSTART:20250809T161500
 DTEND:20250809T170000
 SUMMARY:🏀 U14 Boys: Maccabi Celtics vs Malvern Tigers Green
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c2db843d-9a04-43c6-9c97-4344cbbeb51c
+UID:e1d38272-d9eb-412e-8086-050b9560a7d3
 SEQUENCE:0
-DTSTAMP:20250725T171655
+DTSTAMP:20250726T171500
 DTSTART:20250816T161500
 DTEND:20250816T170000
 SUMMARY:🏀 U14 Boys: Maccabi Celtics vs AlphaWolf Force
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: AlphaW
  olf Force\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b55396a7-46f6-45c6-aef5-de73efb46dac
+UID:b21f48d2-beaa-458c-95d4-d20845efe4d2
 SEQUENCE:0
-DTSTAMP:20250725T171655
+DTSTAMP:20250726T171500
 DTSTART:20250823T153000
 DTEND:20250823T161500
 SUMMARY:🏀 U14 Boys: Maccabi Celtics vs Glen Iris Scorpions Raven
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
  ris Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4d1111aa-a00a-4eec-807d-ae4abd0ce0fb
+UID:40fb42a6-c287-468b-b6cc-b3ee7091c533
 SEQUENCE:0
-DTSTAMP:20250725T171655
+DTSTAMP:20250726T171500
 DTSTART:20250830T161500
 DTEND:20250830T170000
 SUMMARY:🏀 U14 Boys: Maccabi Celtics vs Solway Warriors

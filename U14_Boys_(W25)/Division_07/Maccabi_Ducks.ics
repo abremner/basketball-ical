@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:17283882-1b42-47e9-95db-83586df74e8b
+UID:25b7d1d2-5270-4797-9885-f749e25d1618
 SEQUENCE:0
-DTSTAMP:20250725T171701
-DTSTART:20250726T153000
-DTEND:20250726T161500
-SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Timberwolves Terriers
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
- olves Terriers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:6698867e-ca3f-4f99-b5c3-4765edeee8be
-SEQUENCE:0
-DTSTAMP:20250725T171701
+DTSTAMP:20250726T171505
 DTSTART:20250802T153000
 DTEND:20250802T161500
 SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Solway Gladiators
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Gladiators\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2c73dc87-7a6c-4e27-88f8-e27c4b4e64b6
+UID:2301be6a-5221-44a7-86f6-1b7bbaa5fad6
 SEQUENCE:0
-DTSTAMP:20250725T171701
+DTSTAMP:20250726T171505
 DTSTART:20250809T153000
 DTEND:20250809T161500
 SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Inkerman Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Inkerma
  n Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:69e595e8-3170-4ec2-be03-9548917b52e6
+UID:b62f6605-c712-4a7d-805e-179428d2c166
 SEQUENCE:0
-DTSTAMP:20250725T171701
+DTSTAMP:20250726T171505
 DTSTART:20250816T161500
 DTEND:20250816T170000
 SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Malvern Tigers Blue
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ca5cf3ac-a07e-41b7-84b8-658114339024
+UID:73b5ed1c-6a7d-468c-a27c-fe1c58125c77
 SEQUENCE:0
-DTSTAMP:20250725T171701
+DTSTAMP:20250726T171505
 DTSTART:20250823T153000
 DTEND:20250823T161500
 SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Toorak Tractors
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
   Tractors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1021348e-28e8-46e0-a9ad-268593d1819e
+UID:c32ae22b-2e11-460c-82fb-48188e367d4c
 SEQUENCE:0
-DTSTAMP:20250725T171701
+DTSTAMP:20250726T171505
 DTSTART:20250830T153000
 DTEND:20250830T161500
 SUMMARY:🏀 U14 Boys: Maccabi Ducks vs Timberwolves Terriers

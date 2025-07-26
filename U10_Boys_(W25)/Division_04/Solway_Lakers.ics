@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Lakers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:5f42f865-048d-4cba-9202-ee58c7212924
+UID:cc7ebd10-21e0-4bcd-bce3-23b31d5c7d1f
 SEQUENCE:0
-DTSTAMP:20250725T171505
-DTSTART:20250726T131500
-DTEND:20250726T140000
-SUMMARY:🏀 U10 Boys: Solway Lakers vs Arax
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Arax\n
- Arrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:7f494c47-dcd5-4662-a477-15f1ee206e81
-SEQUENCE:0
-DTSTAMP:20250725T171505
+DTSTAMP:20250726T171312
 DTSTART:20250802T110000
 DTEND:20250802T114500
 SUMMARY:🏀 U10 Boys: Solway Lakers vs Maccabi Celtics
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b4f700f7-8b37-4f0a-b446-366aeda20a00
+UID:0ec671e7-f8e0-4abd-aac2-43e8dafc5a59
 SEQUENCE:0
-DTSTAMP:20250725T171505
+DTSTAMP:20250726T171312
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Boys: Solway Lakers vs Armadale Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Armada
  le Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dc7f1f4e-d7e4-4898-b4dc-8da37f64edc5
+UID:dd349acd-eb24-4748-98c8-4d65ac71c559
 SEQUENCE:0
-DTSTAMP:20250725T171505
+DTSTAMP:20250726T171312
 DTSTART:20250816T131500
 DTEND:20250816T140000
 SUMMARY:🏀 U10 Boys: Solway Lakers vs Glen Iris Scorpions Ferndale
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bb249301-5f88-460b-993d-bb1d91c5fda4
+UID:c9c982d2-cc21-4bc2-8c00-7e2ab881501a
 SEQUENCE:0
-DTSTAMP:20250725T171505
+DTSTAMP:20250726T171312
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Boys: Solway Lakers vs Ashy Lightning Gold
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
  ghtning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e359471f-a011-4a66-81b1-4b4c0132deb9
+UID:0fa41bb9-650b-4597-85fc-6568de4039de
 SEQUENCE:0
-DTSTAMP:20250725T171505
+DTSTAMP:20250726T171312
 DTSTART:20250830T110000
 DTEND:20250830T114500
 SUMMARY:🏀 U10 Boys: Solway Lakers vs Toorak Tigersharks

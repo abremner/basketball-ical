@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Trackers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:243e1727-c6c9-4f5d-9b18-aa9b02ff40ae
+UID:ae2aaa48-c497-4ead-9435-cee50bb29c42
 SEQUENCE:0
-DTSTAMP:20250725T171738
-DTSTART:20250726T183000
-DTEND:20250726T191500
-SUMMARY:🏀 U16 Boys: Toorak Trackers vs Malvern Tigers Yellow
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
- n Tigers Yellow\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:ab042a63-6d2c-465b-97c1-713d3089626b
-SEQUENCE:0
-DTSTAMP:20250725T171738
+DTSTAMP:20250726T171542
 DTSTART:20250802T183000
 DTEND:20250802T191500
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Solway Blazers
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Blazers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:832ca1b0-701f-427a-8746-8b0a741ed518
+UID:968a29f8-ebc1-4ba6-ae11-20a9b1a86333
 SEQUENCE:0
-DTSTAMP:20250725T171738
+DTSTAMP:20250726T171542
 DTSTART:20250809T183000
 DTEND:20250809T191500
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Solway Pistons
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Pistons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fbcea540-8879-441e-99e8-1788409adbf4
+UID:6a4d3942-84ac-453b-a42f-e367869c6462
 SEQUENCE:0
-DTSTAMP:20250725T171738
+DTSTAMP:20250726T171542
 DTSTART:20250816T191500
 DTEND:20250816T200000
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Timberwolves Taipans
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Taipans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:edf26810-ba06-499c-acad-7092ae828483
+UID:10b7a746-4b15-4be1-821d-2d0ff28eae08
 SEQUENCE:0
-DTSTAMP:20250725T171738
+DTSTAMP:20250726T171542
 DTSTART:20250823T183000
 DTEND:20250823T191500
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Solway Slammers
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Slammers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:100daf5e-167b-4c06-81a1-1def7a37e526
+UID:6aa3686b-f100-4ec5-ab57-19474136e3b2
 SEQUENCE:0
-DTSTAMP:20250725T171738
+DTSTAMP:20250726T171542
 DTSTART:20250830T183000
 DTEND:20250830T191500
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Timberwolves Cats

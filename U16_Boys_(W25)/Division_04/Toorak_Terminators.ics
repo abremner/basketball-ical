@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Terminators Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:61f2069c-91c1-45c9-8589-533b658821b8
+UID:9ed682d4-76d2-4367-ab37-a2e846368cef
 SEQUENCE:0
-DTSTAMP:20250725T171741
-DTSTART:20250726T183000
-DTEND:20250726T191500
-SUMMARY:🏀 U16 Boys: Toorak Terminators vs Serrell Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Serrel
- l Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:2aeaf4ec-01a5-4d57-8373-e2dbc276b0a1
-SEQUENCE:0
-DTSTAMP:20250725T171741
+DTSTAMP:20250726T171545
 DTSTART:20250802T191500
 DTEND:20250802T200000
 SUMMARY:🏀 U16 Boys: Toorak Terminators vs Solway Super Sonics
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Super Sonics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4136c2ba-9a98-4212-973e-7cfb297454e8
+UID:c45f74f5-b479-482e-8531-ac816884ba08
 SEQUENCE:0
-DTSTAMP:20250725T171741
+DTSTAMP:20250726T171545
 DTSTART:20250809T183000
 DTEND:20250809T191500
 SUMMARY:🏀 U16 Boys: Toorak Terminators vs Maccabi Warriors
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
   Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4eb5cdc6-b104-4774-8776-1650ee18b542
+UID:dfbc0c77-4373-45fc-a483-e79c5a18630c
 SEQUENCE:0
-DTSTAMP:20250725T171741
+DTSTAMP:20250726T171545
 DTSTART:20250816T183000
 DTEND:20250816T191500
 SUMMARY:🏀 U16 Boys: Toorak Terminators vs Ripponlea Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Rippon
  lea Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:785e8c0c-d96b-46b1-9729-892e47e2a09d
+UID:5264c1c6-c281-4369-9290-2523486a39b1
 SEQUENCE:0
-DTSTAMP:20250725T171741
+DTSTAMP:20250726T171545
 DTSTART:20250823T183000
 DTEND:20250823T191500
 SUMMARY:🏀 U16 Boys: Toorak Terminators vs Timberwolves Magnum
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Magnum\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:56bf4cd3-364d-47f1-a589-1792fbaba477
+UID:fa771912-f6b7-4fd0-851b-26c833920bb6
 SEQUENCE:0
-DTSTAMP:20250725T171741
+DTSTAMP:20250726T171545
 DTSTART:20250830T191500
 DTEND:20250830T200000
 SUMMARY:🏀 U16 Boys: Toorak Terminators vs Timberwolves Boulders

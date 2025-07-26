@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Thunderbolts Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:dabb4290-4eb0-4669-b6e4-32d7647a12cf
+UID:ac5c2d5f-112f-4eb0-8ac7-57e6f15ae3ee
 SEQUENCE:0
-DTSTAMP:20250725T171519
-DTSTART:20250726T084500
-DTEND:20250726T093000
-SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Timberwolves Bucks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
- wolves Bucks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:46a5b276-6d29-4723-a7ac-f6ad08dd750f
-SEQUENCE:0
-DTSTAMP:20250725T171519
+DTSTAMP:20250726T171325
 DTSTART:20250802T080000
 DTEND:20250802T084500
 SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Glen Iris Scorpions Gardiner
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7f6bbb50-ef9c-4a2b-b190-781ac913a8cb
+UID:b9ed71fb-cc34-46fe-987a-70943728fdb3
 SEQUENCE:0
-DTSTAMP:20250725T171519
+DTSTAMP:20250726T171325
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Timberwolves Legends
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Legends\nArrive
  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:52d96c50-4153-488d-b9fc-a092f49f7dbf
+UID:1b994daf-186a-463c-af54-57163ccc7ecb
 SEQUENCE:0
-DTSTAMP:20250725T171519
+DTSTAMP:20250726T171325
 DTSTART:20250816T084500
 DTEND:20250816T093000
 SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Phoenix Park Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Phoeni
  x Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:976ba539-22ca-4e2c-b237-22777ce61b6c
+UID:a6cf6c83-dbf3-424d-b61d-c4eb505ac0f6
 SEQUENCE:0
-DTSTAMP:20250725T171519
+DTSTAMP:20250726T171325
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Comets Snake
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Comets
  Snake\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7a516061-8723-46ec-be98-2032a3aceee8
+UID:9e753de2-ac97-4f18-bdd5-406fef759e1c
 SEQUENCE:0
-DTSTAMP:20250725T171519
+DTSTAMP:20250726T171325
 DTSTART:20250830T084500
 DTEND:20250830T093000
 SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Maccabi Falcons

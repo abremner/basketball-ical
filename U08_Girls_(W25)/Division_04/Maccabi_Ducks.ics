@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c262bfb5-8d85-4b5b-ac8b-eeab6093ebbd
+UID:bc354176-9f76-4a64-8ca2-b7e8b8a572a7
 SEQUENCE:0
-DTSTAMP:20250725T171455
-DTSTART:20250726T084500
-DTEND:20250726T093000
-SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Flowerdale Piranhas
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Flowerdale 
- Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:09811855-45ed-4b88-b656-3f1a76616acd
-SEQUENCE:0
-DTSTAMP:20250725T171455
+DTSTAMP:20250726T171302
 DTSTART:20250802T084500
 DTEND:20250802T093000
 SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Harleston Park Piranhas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Harleston P
  ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:886f4fc0-d171-41b7-b2e6-0da84bcd031a
+UID:9d644e72-41ee-4f2b-afef-340c96523670
 SEQUENCE:0
-DTSTAMP:20250725T171455
+DTSTAMP:20250726T171302
 DTSTART:20250809T084500
 DTEND:20250809T093000
 SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Korowa Cherry
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Korowa Cher
  ry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:df1fff41-8e47-4fda-b570-5a07c299de46
+UID:8bb30798-969b-4073-8f51-2570e69a12e0
 SEQUENCE:0
-DTSTAMP:20250725T171455
+DTSTAMP:20250726T171302
 DTSTART:20250816T084500
 DTEND:20250816T093000
 SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Flowerdale Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Flowerdale
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ca5948bb-6921-480b-ad1d-94b626ff217e
+UID:ca93d57b-5388-4e19-9dfd-4b77f5a063b8
 SEQUENCE:0
-DTSTAMP:20250725T171455
+DTSTAMP:20250726T171302
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Harleston Park Piranhas
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Harleston P
  ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bda92743-597e-4200-ad69-1f151d6fa483
+UID:45005c8f-d195-4588-99d4-b282b2c543a1
 SEQUENCE:0
-DTSTAMP:20250725T171455
+DTSTAMP:20250726T171302
 DTSTART:20250830T084500
 DTEND:20250830T093000
 SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Korowa Cherry

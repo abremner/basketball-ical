@@ -6,20 +6,9 @@ X-WR-CALNAME:Tennyson Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:69fa93fa-6311-4626-800d-c5e658ce40b6
+UID:e5988483-9ae6-467c-b9c7-57cebc3f6ab1
 SEQUENCE:0
-DTSTAMP:20250725T171646
-DTSTART:20250726T170000
-DTEND:20250726T174500
-SUMMARY:🏀 U14 Boys: Tennyson Piranhas vs Solway Samurais
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
-  Samurais\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:17ac0a4a-f2ac-45e6-a964-c0f74b7a2a4f
-SEQUENCE:0
-DTSTAMP:20250725T171646
+DTSTAMP:20250726T171452
 DTSTART:20250802T170000
 DTEND:20250802T174500
 SUMMARY:🏀 U14 Boys: Tennyson Piranhas vs Elsternwick Piranhas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Elster
  nwick Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:38d1007b-c499-4c4b-b035-722c5f2ca47c
+UID:fed5d686-33dc-47b6-abc7-35e5041882b4
 SEQUENCE:0
-DTSTAMP:20250725T171646
+DTSTAMP:20250726T171452
 DTSTART:20250809T174500
 DTEND:20250809T183000
 SUMMARY:🏀 U14 Boys: Tennyson Piranhas vs Solway Knights
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Knights\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c0b4c431-fb27-49d8-9cac-39057073c728
+UID:cc2e9e2b-8769-40cc-bf21-9fad0b793103
 SEQUENCE:0
-DTSTAMP:20250725T171646
+DTSTAMP:20250726T171452
 DTSTART:20250816T153000
 DTEND:20250816T161500
 SUMMARY:🏀 U14 Boys: Tennyson Piranhas vs Maccabi Warriors
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:993a1158-fe14-4047-8c5f-a0ec0d98d4be
+UID:0d901331-677b-404e-8542-823fce9a3ac9
 SEQUENCE:0
-DTSTAMP:20250725T171646
+DTSTAMP:20250726T171452
 DTSTART:20250823T174500
 DTEND:20250823T183000
 SUMMARY:🏀 U14 Boys: Tennyson Piranhas vs Toorak Toros
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Toros\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ff6a5de6-c12e-43b1-a070-ef4883afce78
+UID:692d43cb-7e6e-4ac6-98f7-08569491fc66
 SEQUENCE:0
-DTSTAMP:20250725T171646
+DTSTAMP:20250726T171452
 DTSTART:20250830T174500
 DTEND:20250830T183000
 SUMMARY:🏀 U14 Boys: Tennyson Piranhas vs Glen Iris Scorpions Gardiner

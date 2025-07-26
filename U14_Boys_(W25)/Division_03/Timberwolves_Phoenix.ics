@@ -6,20 +6,9 @@ X-WR-CALNAME:Timberwolves Phoenix Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d3a043dc-d70d-4046-a70d-b179d097594c
+UID:c1311b0e-8c05-44ed-bf25-e901211497dc
 SEQUENCE:0
-DTSTAMP:20250725T171650
-DTSTART:20250726T170000
-DTEND:20250726T174500
-SUMMARY:🏀 U14 Boys: Timberwolves Phoenix vs Paxton Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Paxton
-  Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:54c3f64e-8929-45ca-a4d9-77ff12abd6ae
-SEQUENCE:0
-DTSTAMP:20250725T171650
+DTSTAMP:20250726T171455
 DTSTART:20250802T170000
 DTEND:20250802T174500
 SUMMARY:🏀 U14 Boys: Timberwolves Phoenix vs Malvern Tigers Yellow
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8d4437cf-01b7-43ed-a7df-618030ff3807
+UID:561fe5f2-01db-4d61-b7c7-dc0656913a7f
 SEQUENCE:0
-DTSTAMP:20250725T171650
+DTSTAMP:20250726T171455
 DTSTART:20250809T170000
 DTEND:20250809T174500
 SUMMARY:🏀 U14 Boys: Timberwolves Phoenix vs Glen Iris Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:42609795-de67-4e6b-bba6-0c1e9b04dd79
+UID:5a64c16c-a4d8-41aa-b234-aa312eb2beaf
 SEQUENCE:0
-DTSTAMP:20250725T171650
+DTSTAMP:20250726T171455
 DTSTART:20250816T174500
 DTEND:20250816T183000
 SUMMARY:🏀 U14 Boys: Timberwolves Phoenix vs Glen Iris Scorpions Nettlet
@@ -51,9 +40,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ac5ef29d-f034-4dd8-af66-f83204291c3d
+UID:03bb0e20-c895-4211-a9f7-8a2685395b61
 SEQUENCE:0
-DTSTAMP:20250725T171650
+DTSTAMP:20250726T171455
 DTSTART:20250823T174500
 DTEND:20250823T183000
 SUMMARY:🏀 U14 Boys: Timberwolves Phoenix vs Ashy Lightning Gold
@@ -62,9 +51,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:96e3264a-b221-45ae-8113-e48769cd9581
+UID:1722d7c1-d4a5-41b0-ad17-b62bb5234a66
 SEQUENCE:0
-DTSTAMP:20250725T171650
+DTSTAMP:20250726T171455
 DTSTART:20250830T170000
 DTEND:20250830T174500
 SUMMARY:🏀 U14 Boys: Timberwolves Phoenix vs Paxton Piranhas

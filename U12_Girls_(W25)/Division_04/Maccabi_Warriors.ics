@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:310c7f44-5a19-4052-b58f-2d04931d09a3
+UID:eea2afc5-c246-42b9-8e58-5b144945a88e
 SEQUENCE:0
-DTSTAMP:20250725T171630
-DTSTART:20250726T114500
-DTEND:20250726T123000
-SUMMARY:🏀 U12 Girls: Maccabi Warriors vs Maccabi Bucks
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
-  Bucks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:8fc2b3d2-ede0-44b9-9421-6e5c81a3df4c
-SEQUENCE:0
-DTSTAMP:20250725T171630
+DTSTAMP:20250726T171436
 DTSTART:20250802T114500
 DTEND:20250802T123000
 SUMMARY:🏀 U12 Girls: Maccabi Warriors vs Aintree Piranhas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Aintree
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d400d111-41c1-4bbe-a9f8-29df984fce14
+UID:26d969e3-b193-40df-99ef-f0656d61e27c
 SEQUENCE:0
-DTSTAMP:20250725T171630
+DTSTAMP:20250726T171436
 DTSTART:20250809T114500
 DTEND:20250809T123000
 SUMMARY:🏀 U12 Girls: Maccabi Warriors vs Malvern Tigers Jarry
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Jarry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:067e30f6-0d9f-4dce-8631-3668c73623b9
+UID:f2280e5e-ad7d-44cc-990c-be6971b69742
 SEQUENCE:0
-DTSTAMP:20250725T171630
+DTSTAMP:20250726T171436
 DTSTART:20250816T114500
 DTEND:20250816T123000
 SUMMARY:🏀 U12 Girls: Maccabi Warriors vs Toorak Talons
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak
  Talons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f05efd85-2368-4b08-8079-9e124e7bc7fe
+UID:dfadc10e-1420-4114-bcb4-a13ce2add558
 SEQUENCE:0
-DTSTAMP:20250725T171630
+DTSTAMP:20250726T171436
 DTSTART:20250823T114500
 DTEND:20250823T123000
 SUMMARY:🏀 U12 Girls: Maccabi Warriors vs Glen Iris Scorpions Gardiner
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:24780bf0-5e60-434f-b336-93a9103fec58
+UID:178407a0-bfe4-495c-a0a3-5f7f9febbd61
 SEQUENCE:0
-DTSTAMP:20250725T171630
+DTSTAMP:20250726T171436
 DTSTART:20250830T114500
 DTEND:20250830T123000
 SUMMARY:🏀 U12 Girls: Maccabi Warriors vs Korowa Cherry

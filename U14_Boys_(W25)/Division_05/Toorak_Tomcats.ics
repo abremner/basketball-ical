@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Tomcats Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:bce0a2de-e57f-4a12-8765-04b0bca671b5
+UID:c66a4754-afb9-4078-9300-2c61cc10ea9e
 SEQUENCE:0
-DTSTAMP:20250725T171657
-DTSTART:20250726T153000
-DTEND:20250726T161500
-SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Maccabi Celtics
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
- i Celtics\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:b0829fe5-fc7c-4bdc-b294-8bff28e91121
-SEQUENCE:0
-DTSTAMP:20250725T171657
+DTSTAMP:20250726T171501
 DTSTART:20250802T161500
 DTEND:20250802T170000
 SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Glen Iris Scorpions Raven
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
  ris Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:93029a0f-5905-4d7b-89b8-9e72723fe750
+UID:8d9035fa-28ae-4231-af85-d66753753a9c
 SEQUENCE:0
-DTSTAMP:20250725T171657
+DTSTAMP:20250726T171501
 DTSTART:20250809T140000
 DTEND:20250809T144500
 SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Comets Lightning
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
   Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4a2c6a0b-95e1-4899-a0ed-dcc58b0ac281
+UID:fadae4af-2890-4895-af20-43ed9cb258d7
 SEQUENCE:0
-DTSTAMP:20250725T171657
+DTSTAMP:20250726T171501
 DTSTART:20250816T153000
 DTEND:20250816T161500
 SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Timberwolves Dragons
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Dragons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3b1ee908-c452-4041-b13e-d056d9c28c9e
+UID:04ba2534-c826-4dd5-a828-bfa65347b168
 SEQUENCE:0
-DTSTAMP:20250725T171657
+DTSTAMP:20250726T171501
 DTSTART:20250823T161500
 DTEND:20250823T170000
 SUMMARY:🏀 U14 Boys: Toorak Tomcats vs AlphaWolf Force
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: AlphaW
  olf Force\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f49d8841-c953-4af2-84cf-ce60bc4fbc34
+UID:e5c6ab3a-9b49-4582-b3d7-4dd774f56647
 SEQUENCE:0
-DTSTAMP:20250725T171657
+DTSTAMP:20250726T171501
 DTSTART:20250830T153000
 DTEND:20250830T161500
 SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Malvern Tigers Green

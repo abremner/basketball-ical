@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Mustangs Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:bae01ef2-afa6-4898-b17c-9b45ccd216da
+UID:edddb32a-44d6-4280-abff-c19fee16f8b5
 SEQUENCE:0
-DTSTAMP:20250725T171441
-DTSTART:20250726T101500
-DTEND:20250726T110000
-SUMMARY:🏀 U08 Boys: Solway Mustangs vs Malvern Tigers Giddey
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
-  Tigers Giddey\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:7e12f500-8578-4193-ba75-5e879b78c48c
-SEQUENCE:0
-DTSTAMP:20250725T171441
+DTSTAMP:20250726T171248
 DTSTART:20250802T084500
 DTEND:20250802T093000
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Toorak Toucans
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak
  Toucans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8c0e69b1-3ba9-4b08-b4bf-f317e49058ab
+UID:8213c55a-dd47-433a-9f3c-f0f5f61c3974
 SEQUENCE:0
-DTSTAMP:20250725T171441
+DTSTAMP:20250726T171248
 DTSTART:20250809T093000
 DTEND:20250809T101500
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Ashy Lightning Green
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e80bdcdf-9857-4325-98f6-6037464c6b16
+UID:145359a0-7da2-42ca-844d-99d401616528
 SEQUENCE:0
-DTSTAMP:20250725T171441
+DTSTAMP:20250726T171248
 DTSTART:20250816T093000
 DTEND:20250816T101500
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Maccabi Celtics
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:708e4261-531d-4177-8451-fa6cdba59f71
+UID:4f7453de-addb-4c93-ab9d-d71bc75f1141
 SEQUENCE:0
-DTSTAMP:20250725T171441
+DTSTAMP:20250726T171248
 DTSTART:20250823T101500
 DTEND:20250823T110000
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Burnley Park Piranhas
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Burnley
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bf6a83ce-506d-48c7-8fca-8b7ac93e594f
+UID:360f838f-79f5-4156-b73d-46c12e5b81d0
 SEQUENCE:0
-DTSTAMP:20250725T171441
+DTSTAMP:20250726T171248
 DTSTART:20250830T093000
 DTEND:20250830T101500
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Malvern Tigers Giddey

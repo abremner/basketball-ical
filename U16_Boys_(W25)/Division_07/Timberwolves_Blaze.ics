@@ -6,20 +6,9 @@ X-WR-CALNAME:Timberwolves Blaze Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:35a5298c-ff09-4c55-950f-04978f1194b4
+UID:be604060-20a3-4944-8b82-2e4e59901f46
 SEQUENCE:0
-DTSTAMP:20250725T171750
-DTSTART:20250726T174500
-DTEND:20250726T183000
-SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Solway Heat
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
- Heat\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:51c9f791-2121-496b-ba40-45ca3ca309f3
-SEQUENCE:0
-DTSTAMP:20250725T171750
+DTSTAMP:20250726T171554
 DTSTART:20250802T174500
 DTEND:20250802T183000
 SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Malvern Piranhas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:303726f4-8f39-45a0-acaf-43037a8e1083
+UID:45345c83-efa4-4c44-86c0-8c4edc5d8d51
 SEQUENCE:0
-DTSTAMP:20250725T171750
+DTSTAMP:20250726T171554
 DTSTART:20250809T174500
 DTEND:20250809T183000
 SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Maccabi Celtics
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7837dd8c-70cc-4867-bd8c-4e3c23d778cb
+UID:dc806bbe-756a-473f-8e57-fb09d2bc2537
 SEQUENCE:0
-DTSTAMP:20250725T171750
+DTSTAMP:20250726T171554
 DTSTART:20250816T183000
 DTEND:20250816T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Malvern Tigers Orange
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:84343409-c62e-40c1-b61f-0ca446eab112
+UID:a6aedeb9-b60e-4d35-acb5-3a25206d5032
 SEQUENCE:0
-DTSTAMP:20250725T171750
+DTSTAMP:20250726T171554
 DTSTART:20250823T183000
 DTEND:20250823T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Manning Piranhas
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Manning
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a3688b04-3e8c-4f9f-9a93-c4cba7efa8d3
+UID:05bf2e48-86a5-4ec9-85e1-9d554c9c6a55
 SEQUENCE:0
-DTSTAMP:20250725T171750
+DTSTAMP:20250726T171554
 DTSTART:20250830T174500
 DTEND:20250830T183000
 SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Solway Heat

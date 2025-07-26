@@ -6,20 +6,9 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:466f4635-be05-4377-9a20-f5fc5219f01e
+UID:e665f0fa-adbb-4809-aa32-23638a0ad8fc
 SEQUENCE:0
-DTSTAMP:20250725T171448
-DTSTART:20250726T080000
-DTEND:20250726T084500
-SUMMARY:🏀 U08 Girls: Arax vs Solway Comets
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
- Comets\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:f406c46e-6d64-426c-8e12-a5e0235fb036
-SEQUENCE:0
-DTSTAMP:20250725T171448
+DTSTAMP:20250726T171255
 DTSTART:20250802T080000
 DTEND:20250802T084500
 SUMMARY:🏀 U08 Girls: Arax vs Malvern Tigers Atwell
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Atwell\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8b45a2ac-bc91-4c1c-b184-58f856be7ffb
+UID:8ab5ffa1-183e-4f49-b4d4-769a9f8024f0
 SEQUENCE:0
-DTSTAMP:20250725T171448
+DTSTAMP:20250726T171255
 DTSTART:20250809T080000
 DTEND:20250809T084500
 SUMMARY:🏀 U08 Girls: Arax vs Glen Iris Scorpions Ferndale
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
  is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a4899951-7ecc-482d-aa66-d853b949899b
+UID:b42c2a50-3f98-4fb0-b2d1-418ebe8f71e5
 SEQUENCE:0
-DTSTAMP:20250725T171448
+DTSTAMP:20250726T171255
 DTSTART:20250816T080000
 DTEND:20250816T084500
 SUMMARY:🏀 U08 Girls: Arax vs Solway Stars
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Stars\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:93984236-eb2b-4d9d-864d-c0396cddae7e
+UID:babd3e0a-26eb-452a-bc08-0976e2580ac0
 SEQUENCE:0
-DTSTAMP:20250725T171448
+DTSTAMP:20250726T171255
 DTSTART:20250823T080000
 DTEND:20250823T084500
 SUMMARY:🏀 U08 Girls: Arax vs Malvern Tigers Wallace
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Wallace\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ba6e5c6a-99b8-4458-94aa-c9c08625c6ae
+UID:ace65e95-4f9e-4db9-9d27-c5f1c3a1bcda
 SEQUENCE:0
-DTSTAMP:20250725T171448
+DTSTAMP:20250726T171255
 DTSTART:20250830T080000
 DTEND:20250830T084500
 SUMMARY:🏀 U08 Girls: Arax vs Solway Comets

@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:84bfcd8f-1e48-49bd-9c6b-4e24d0c5b00f
+UID:1f875c10-44c0-48df-b4e5-7d4bd50598ea
 SEQUENCE:0
-DTSTAMP:20250725T171533
-DTSTART:20250726T101500
-DTEND:20250726T110000
-SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Erindale Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Erinda
- le Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:85dd61a9-719d-4344-ae83-1d6e70beeaf9
-SEQUENCE:0
-DTSTAMP:20250725T171533
+DTSTAMP:20250726T171339
 DTSTART:20250802T110000
 DTEND:20250802T114500
 SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Halley Park Piranhas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Halley
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:450fcda6-46c0-4d57-9f96-0ac45d3b0efa
+UID:cd977132-b02b-4f4c-8c5e-e6bb93498e0b
 SEQUENCE:0
-DTSTAMP:20250725T171533
+DTSTAMP:20250726T171339
 DTSTART:20250809T101500
 DTEND:20250809T110000
 SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Solway Blizzards
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Blizzards\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f0eab0a7-202f-4a27-a144-e0c2ad019fe4
+UID:95b066f2-5f22-4f1d-8541-5928ffd78194
 SEQUENCE:0
-DTSTAMP:20250725T171533
+DTSTAMP:20250726T171339
 DTSTART:20250816T110000
 DTEND:20250816T114500
 SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Timberwolves Warriors
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
  olves Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a46c21bc-f8d8-46c5-aeb0-246e33b19b3b
+UID:029354d3-3b54-43fe-88ff-2ec7771b37d8
 SEQUENCE:0
-DTSTAMP:20250725T171533
+DTSTAMP:20250726T171339
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Malvern Tigers Red
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2afaa00e-3426-4ea4-8379-555ae1b3f81a
+UID:b73b9ad1-c00f-480f-9dfc-cc6349b7531a
 SEQUENCE:0
-DTSTAMP:20250725T171533
+DTSTAMP:20250726T171339
 DTSTART:20250830T101500
 DTEND:20250830T110000
 SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Toorak Tangos

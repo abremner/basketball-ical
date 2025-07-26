@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:6e9f9bbe-bb3a-4fb4-8116-cbbd6b6fc8ba
+UID:bd7f4592-5ea3-4496-9dc7-f1db4bb48ad1
 SEQUENCE:0
-DTSTAMP:20250725T171457
-DTSTART:20250726T114500
-DTEND:20250726T123000
-SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Malvern Tigers Black
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
- n Tigers Black\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:f7d46d85-f48b-4c4b-be3f-874896090848
-SEQUENCE:0
-DTSTAMP:20250725T171457
+DTSTAMP:20250726T171304
 DTSTART:20250802T114500
 DTEND:20250802T123000
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Timberwolves Pistols
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Pistols\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:91c3af73-056f-43a8-9056-a117edfae77e
+UID:9b836615-b568-4a04-89ca-82ac1e641af0
 SEQUENCE:0
-DTSTAMP:20250725T171457
+DTSTAMP:20250726T171304
 DTSTART:20250809T110000
 DTEND:20250809T114500
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Malvern Tigers Red
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b1b5cfe9-07ea-4b10-868b-ca43d058bc47
+UID:26e42eb0-7c2e-4cac-8978-0a3d90059a42
 SEQUENCE:0
-DTSTAMP:20250725T171457
+DTSTAMP:20250726T171304
 DTSTART:20250816T123000
 DTEND:20250816T131500
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Toorak Tigercats
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
   Tigercats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:60cc4aa9-da0f-4559-89f2-dce0fb7f8dd8
+UID:d9da9d67-6866-42f1-93ae-da106afff6f7
 SEQUENCE:0
-DTSTAMP:20250725T171457
+DTSTAMP:20250726T171304
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs AlphaWolf Dragons
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AlphaW
  olf Dragons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:58cc849e-4347-43e4-be74-8bb60d52eaef
+UID:9a817adf-4730-4835-ba1d-9c822678aacf
 SEQUENCE:0
-DTSTAMP:20250725T171457
+DTSTAMP:20250726T171304
 DTSTART:20250830T123000
 DTEND:20250830T131500
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Solway Boomers

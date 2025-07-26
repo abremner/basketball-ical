@@ -6,20 +6,9 @@ X-WR-CALNAME:Malvern Tigers Jarry Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2888f2e3-46f3-4196-ac9c-5e1a06265d84
+UID:1c8fafe3-e581-4d19-ad55-2d57337a694e
 SEQUENCE:0
-DTSTAMP:20250725T171720
-DTSTART:20250726T153000
-DTEND:20250726T161500
-SUMMARY:🏀 U14 Girls: Malvern Tigers Jarry vs Malvern Tigers Lavey
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
-  Tigers Lavey\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:8fe18be8-dcb2-4163-a237-5e72c68badd0
-SEQUENCE:0
-DTSTAMP:20250725T171720
+DTSTAMP:20250726T171524
 DTSTART:20250802T170000
 DTEND:20250802T174500
 SUMMARY:🏀 U14 Girls: Malvern Tigers Jarry vs Malvern Tigers Mitchell
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Mitchell\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7f7f2bf1-27bb-4c8f-9021-a9f27ca81359
+UID:8bff810d-dbea-459d-aa5a-48f4cf9c7ea3
 SEQUENCE:0
-DTSTAMP:20250725T171720
+DTSTAMP:20250726T171524
 DTSTART:20250809T161500
 DTEND:20250809T170000
 SUMMARY:🏀 U14 Girls: Malvern Tigers Jarry vs Lauriston Liberty
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston L
  iberty\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:42903aa2-d31b-4a4d-9591-a645eba11c67
+UID:51885eb3-dd0b-41c4-8409-1b850b5c729b
 SEQUENCE:0
-DTSTAMP:20250725T171720
+DTSTAMP:20250726T171524
 DTSTART:20250816T170000
 DTEND:20250816T174500
 SUMMARY:🏀 U14 Girls: Malvern Tigers Jarry vs Solway Emeralds
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Emeralds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a65fa0ff-63da-44ef-ad9c-32305485da31
+UID:6f9fd8aa-37f9-4a31-a4b6-6c92124c3f1f
 SEQUENCE:0
-DTSTAMP:20250725T171720
+DTSTAMP:20250726T171524
 DTSTART:20250823T153000
 DTEND:20250823T161500
 SUMMARY:🏀 U14 Girls: Malvern Tigers Jarry vs Ranfurlie Piranhas
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ranfurl
  ie Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:77116745-3ee4-4610-9b59-1ae0743a86d8
+UID:1253ba18-31a6-47da-bbeb-17d26fd00e17
 SEQUENCE:0
-DTSTAMP:20250725T171720
+DTSTAMP:20250726T171524
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U14 Girls: Malvern Tigers Jarry vs Arax

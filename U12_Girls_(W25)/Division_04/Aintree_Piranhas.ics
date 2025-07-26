@@ -6,20 +6,9 @@ X-WR-CALNAME:Aintree Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:bdddda1d-58c1-4938-9162-d0d6e68b3d5d
+UID:41492f6a-8a47-4a19-839f-9e049ce94f76
 SEQUENCE:0
-DTSTAMP:20250725T171628
-DTSTART:20250726T144500
-DTEND:20250726T153000
-SUMMARY:🏀 U12 Girls: Aintree Piranhas vs Willow Piranhas
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Willow Pira
- nhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:4a57c1ff-40a2-4192-a298-b60302738009
-SEQUENCE:0
-DTSTAMP:20250725T171628
+DTSTAMP:20250726T171434
 DTSTART:20250802T114500
 DTEND:20250802T123000
 SUMMARY:🏀 U12 Girls: Aintree Piranhas vs Maccabi Warriors
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a9a145a8-3777-4bd9-aa4d-4809ab190225
+UID:89d5b511-769b-4e13-81e2-38a48995e9fc
 SEQUENCE:0
-DTSTAMP:20250725T171628
+DTSTAMP:20250726T171434
 DTSTART:20250809T144500
 DTEND:20250809T153000
 SUMMARY:🏀 U12 Girls: Aintree Piranhas vs Timberwolves Thunder
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Timberwolve
  s Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:accf8d75-0119-4fbe-94f2-9421b5a6bfd2
+UID:c88f55d5-e713-48e2-8602-af0c8e589402
 SEQUENCE:0
-DTSTAMP:20250725T171628
+DTSTAMP:20250726T171434
 DTSTART:20250816T140000
 DTEND:20250816T144500
 SUMMARY:🏀 U12 Girls: Aintree Piranhas vs Maccabi Bucks
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:509e1550-76e9-4d20-ab07-7f83a9f5e276
+UID:240ecf17-d88b-4f46-97fb-254c1b16e8c6
 SEQUENCE:0
-DTSTAMP:20250725T171628
+DTSTAMP:20250726T171434
 DTSTART:20250823T144500
 DTEND:20250823T153000
 SUMMARY:🏀 U12 Girls: Aintree Piranhas vs Lauriston Sparks
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston S
  parks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:768812ca-49ce-43f6-8120-0ceff180796c
+UID:428bb691-d388-4145-9db7-6f4cb2036fa0
 SEQUENCE:0
-DTSTAMP:20250725T171628
+DTSTAMP:20250726T171434
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U12 Girls: Aintree Piranhas vs Toorak Talons
