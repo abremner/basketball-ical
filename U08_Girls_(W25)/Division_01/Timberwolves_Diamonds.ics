@@ -6,9 +6,9 @@ X-WR-CALNAME:Timberwolves Diamonds Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:a1c9e996-b9a3-4a25-95d7-16159a7969db
+UID:bb3ebed9-0f87-4e47-9733-480b0f0758ab
 SEQUENCE:0
-DTSTAMP:20250726T171254
+DTSTAMP:20250727T171159
 DTSTART:20250802T080000
 DTEND:20250802T084500
 SUMMARY:🏀 U08 Girls: Timberwolves Diamonds vs Solway Blazes
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Blazes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4d05753e-e8dd-4d91-8d79-b978679f59c1
+UID:f48b40c8-a17c-452d-9ca3-613ab099527d
 SEQUENCE:0
-DTSTAMP:20250726T171254
+DTSTAMP:20250727T171159
 DTSTART:20250809T080000
 DTEND:20250809T084500
 SUMMARY:🏀 U08 Girls: Timberwolves Diamonds vs Solway Fire
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Fire\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9f2d8f94-566c-4096-93f8-fb1ed6797efc
+UID:f12f11cb-94dc-46ff-8a39-ead229f51bbe
 SEQUENCE:0
-DTSTAMP:20250726T171254
+DTSTAMP:20250727T171159
 DTSTART:20250816T080000
 DTEND:20250816T084500
 SUMMARY:🏀 U08 Girls: Timberwolves Diamonds vs Ashy Lightning Gold
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
  ghtning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:40608053-8a11-4385-ae4e-361eae1e6264
+UID:0115234c-ea0b-4b5e-b61a-573132803dac
 SEQUENCE:0
-DTSTAMP:20250726T171254
+DTSTAMP:20250727T171159
 DTSTART:20250823T080000
 DTEND:20250823T084500
 SUMMARY:🏀 U08 Girls: Timberwolves Diamonds vs Solway Blazes
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Blazes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:814cf2dd-7019-4be4-aa90-b04c37a8e20f
+UID:b1998c8a-73a8-480d-948f-1510868089be
 SEQUENCE:0
-DTSTAMP:20250726T171254
+DTSTAMP:20250727T171159
 DTSTART:20250830T080000
 DTEND:20250830T084500
 SUMMARY:🏀 U08 Girls: Timberwolves Diamonds vs Solway Fire
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
  Fire\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ea46c8f1-8228-4905-be07-d18511cf6ff4
+SEQUENCE:0
+DTSTAMP:20250727T171159
+DTSTART:20250906T080000
+DTEND:20250906T084500
+SUMMARY:🏀 U08 Girls: Timberwolves Diamonds vs Ashy Lightning Gold
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
+ ghtning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

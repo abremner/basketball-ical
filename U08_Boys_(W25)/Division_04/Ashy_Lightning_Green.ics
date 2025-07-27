@@ -6,9 +6,9 @@ X-WR-CALNAME:Ashy Lightning Green Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b897743e-4a36-4f07-b098-23fe9a26c672
+UID:13b49918-2ec9-4e7b-9e65-316874227f83
 SEQUENCE:0
-DTSTAMP:20250726T171246
+DTSTAMP:20250727T171153
 DTSTART:20250802T093000
 DTEND:20250802T101500
 SUMMARY:🏀 U08 Boys: Ashy Lightning Green vs Burnley Park Piranhas
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Burnley
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8be39b2b-ca1f-4931-a687-af7f75ea2775
+UID:ad5f630b-29c7-4857-89de-db3b037e863f
 SEQUENCE:0
-DTSTAMP:20250726T171246
+DTSTAMP:20250727T171153
 DTSTART:20250809T093000
 DTEND:20250809T101500
 SUMMARY:🏀 U08 Boys: Ashy Lightning Green vs Solway Mustangs
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Mustangs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a888513a-1cb6-4987-a100-e8020d7ca1ed
+UID:c962aad3-4815-4338-be7d-c947f0a58089
 SEQUENCE:0
-DTSTAMP:20250726T171246
+DTSTAMP:20250727T171153
 DTSTART:20250816T084500
 DTEND:20250816T093000
 SUMMARY:🏀 U08 Boys: Ashy Lightning Green vs Toorak Toucans
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak
  Toucans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f4899e69-7d75-4d46-adc7-cdd5cd25deb1
+UID:e0b88991-aa68-488f-be4b-3af80cd9cc5d
 SEQUENCE:0
-DTSTAMP:20250726T171246
+DTSTAMP:20250727T171153
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U08 Boys: Ashy Lightning Green vs Malvern Tigers Giddey
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Giddey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dfdae97d-d75a-4da3-8c50-07b5f71aaf85
+UID:f1a1b981-017c-4e19-9c93-76ab9c6ba007
 SEQUENCE:0
-DTSTAMP:20250726T171246
+DTSTAMP:20250727T171153
 DTSTART:20250830T101500
 DTEND:20250830T110000
 SUMMARY:🏀 U08 Boys: Ashy Lightning Green vs Maccabi Celtics
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:18817272-6643-47de-bb8d-5fe8bd5bde15
+SEQUENCE:0
+DTSTAMP:20250727T171153
+DTSTART:20250906T093000
+DTEND:20250906T101500
+SUMMARY:🏀 U08 Boys: Ashy Lightning Green vs Burnley Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Burnley
+  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

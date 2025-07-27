@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Giddey Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:eecd0557-3434-4d50-9728-7017a816209e
+UID:b22c22ff-af50-46f5-a377-f6e16e5a0c4c
 SEQUENCE:0
-DTSTAMP:20250726T171247
+DTSTAMP:20250727T171154
 DTSTART:20250802T101500
 DTEND:20250802T110000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Giddey vs Maccabi Celtics
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:478d3e28-6935-46bb-b5a0-6f1f082b4ed0
+UID:c7a70d9e-4775-460b-950d-16185a647bf4
 SEQUENCE:0
-DTSTAMP:20250726T171247
+DTSTAMP:20250727T171154
 DTSTART:20250809T084500
 DTEND:20250809T093000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Giddey vs Toorak Toucans
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak
  Toucans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:036c85bb-cd55-4e6f-a38e-8a334ca829a8
+UID:89c3b3a7-d5aa-477f-9b12-5b8d763d9552
 SEQUENCE:0
-DTSTAMP:20250726T171247
+DTSTAMP:20250727T171154
 DTSTART:20250816T101500
 DTEND:20250816T110000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Giddey vs Burnley Park Piranhas
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Burnley
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9d8d1aa8-95e3-43d7-8a4a-875b3774863d
+UID:a0fcfc16-5a1a-4c32-a6b9-989778a22243
 SEQUENCE:0
-DTSTAMP:20250726T171247
+DTSTAMP:20250727T171154
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Giddey vs Ashy Lightning Green
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7f112aac-ec5c-426f-8b6a-1c73be0fb398
+UID:265c1893-2ebe-4af3-b3f6-daaa759b9bff
 SEQUENCE:0
-DTSTAMP:20250726T171247
+DTSTAMP:20250727T171154
 DTSTART:20250830T093000
 DTEND:20250830T101500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Giddey vs Solway Mustangs
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
  Mustangs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e9d819a9-56e5-4d31-a65f-9395587b933a
+SEQUENCE:0
+DTSTAMP:20250727T171154
+DTSTART:20250906T101500
+DTEND:20250906T110000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Giddey vs Maccabi Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

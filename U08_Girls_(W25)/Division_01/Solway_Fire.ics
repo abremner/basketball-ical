@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Fire Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:85c09c27-1699-49ff-adc4-ec9598a2886f
+UID:fa203b0a-8945-4739-81a0-df3bb2e3e2ac
 SEQUENCE:0
-DTSTAMP:20250726T171253
+DTSTAMP:20250727T171159
 DTSTART:20250802T101500
 DTEND:20250802T110000
 SUMMARY:🏀 U08 Girls: Solway Fire vs Ashy Lightning Gold
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
  ghtning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:af8f31b7-81e5-4c4a-98df-ca1d2bf89a83
+UID:dbb6d72b-d548-46c9-b80b-1dedcf04dcdd
 SEQUENCE:0
-DTSTAMP:20250726T171253
+DTSTAMP:20250727T171159
 DTSTART:20250809T080000
 DTEND:20250809T084500
 SUMMARY:🏀 U08 Girls: Solway Fire vs Timberwolves Diamonds
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Diamonds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2e0adf73-84ee-455f-bd49-338badd1f413
+UID:349fb547-8e65-46aa-b427-b5f4744fadcf
 SEQUENCE:0
-DTSTAMP:20250726T171253
+DTSTAMP:20250727T171159
 DTSTART:20250816T101500
 DTEND:20250816T110000
 SUMMARY:🏀 U08 Girls: Solway Fire vs Solway Blazes
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Blazes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3767174c-e658-42f5-a3dd-786867e226cb
+UID:54e8171a-876c-47c0-8ffd-562127728a08
 SEQUENCE:0
-DTSTAMP:20250726T171253
+DTSTAMP:20250727T171159
 DTSTART:20250823T101500
 DTEND:20250823T110000
 SUMMARY:🏀 U08 Girls: Solway Fire vs Ashy Lightning Gold
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
  ghtning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3c7ae6c1-75c3-46d7-931f-7e10f46d9962
+UID:5e58fa02-8047-4934-ac5d-f44c906bf6a2
 SEQUENCE:0
-DTSTAMP:20250726T171253
+DTSTAMP:20250727T171159
 DTSTART:20250830T080000
 DTEND:20250830T084500
 SUMMARY:🏀 U08 Girls: Solway Fire vs Timberwolves Diamonds
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Diamonds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:92e3eb4c-c25b-4b7b-aaff-23a0d6114b37
+SEQUENCE:0
+DTSTAMP:20250727T171159
+DTSTART:20250906T101500
+DTEND:20250906T110000
+SUMMARY:🏀 U08 Girls: Solway Fire vs Solway Blazes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Blazes\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

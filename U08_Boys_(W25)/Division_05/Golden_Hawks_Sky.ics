@@ -6,9 +6,9 @@ X-WR-CALNAME:Golden Hawks Sky Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:6551a5e3-b4b4-49a8-8968-d3776fc49369
+UID:7b6bde59-d506-40ed-a416-113faced09e6
 SEQUENCE:0
-DTSTAMP:20250726T171249
+DTSTAMP:20250727T171156
 DTSTART:20250802T084500
 DTEND:20250802T093000
 SUMMARY:🏀 U08 Boys: Golden Hawks Sky vs Dorrington Piranhas
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Dorring
  ton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5a75aba7-aa35-419a-9026-513bebd6c4c1
+UID:b4cc0e56-f9ad-4e29-a61a-b2cdfd4f27da
 SEQUENCE:0
-DTSTAMP:20250726T171249
+DTSTAMP:20250727T171156
 DTSTART:20250809T093000
 DTEND:20250809T101500
 SUMMARY:🏀 U08 Boys: Golden Hawks Sky vs Solway Stallions
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Stallions\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f9a5ce17-4f8b-4883-946d-8660d9fba554
+UID:ea59d85f-082c-43a2-ba24-71fad3d1c480
 SEQUENCE:0
-DTSTAMP:20250726T171249
+DTSTAMP:20250727T171156
 DTSTART:20250816T093000
 DTEND:20250816T101500
 SUMMARY:🏀 U08 Boys: Golden Hawks Sky vs Renwick Piranhas
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Renwick
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4e0e263f-7f3e-4d45-b9e5-6a6f96cd51b1
+UID:86d14fcb-1a53-4830-ad39-d09e8ec5e662
 SEQUENCE:0
-DTSTAMP:20250726T171249
+DTSTAMP:20250727T171156
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U08 Boys: Golden Hawks Sky vs Wattletree Piranhas
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Wattlet
  ree Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:603b10b9-3bc5-450d-ac0f-a012fcce3940
+UID:7b60d72d-ba23-4f13-8226-aadcd1a190b9
 SEQUENCE:0
-DTSTAMP:20250726T171249
+DTSTAMP:20250727T171156
 DTSTART:20250830T084500
 DTEND:20250830T093000
 SUMMARY:🏀 U08 Boys: Golden Hawks Sky vs Solway Steeds
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
  Steeds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:af8c15c7-ca14-408c-b6cd-b6ca643bd700
+SEQUENCE:0
+DTSTAMP:20250727T171156
+DTSTART:20250906T084500
+DTEND:20250906T093000
+SUMMARY:🏀 U08 Boys: Golden Hawks Sky vs Dorrington Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Dorring
+ ton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

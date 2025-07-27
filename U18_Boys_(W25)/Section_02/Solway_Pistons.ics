@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Pistons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:a77bb86a-4a6e-4918-893d-261757c762c4
+UID:ede7839b-b1ae-4fa5-b9c5-22904c59f766
 SEQUENCE:0
-DTSTAMP:20250726T171609
-DTSTART:20250727T173000
-DTEND:20250727T181500
-SUMMARY:🏀 U18 Boys: Solway Pistons vs Tooronga Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Tooron
- ga Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:e8aea963-74c0-4fa6-ad45-c6fbac9f6e88
-SEQUENCE:0
-DTSTAMP:20250726T171609
+DTSTAMP:20250727T171457
 DTSTART:20250803T173000
 DTEND:20250803T181500
 SUMMARY:🏀 U18 Boys: Solway Pistons vs Glenbrook Piranhas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glenbr
  ook Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ec927355-c3b3-4bf8-995e-aedf92e3760e
+UID:c2789ff7-4ae5-47e2-ba13-5b224c98936d
 SEQUENCE:0
-DTSTAMP:20250726T171609
+DTSTAMP:20250727T171457
 DTSTART:20250810T181500
 DTEND:20250810T190000
 SUMMARY:🏀 U18 Boys: Solway Pistons vs Glen Iris Scorpions Sixers
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
  ris Scorpions Sixers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e9ef728e-d4e2-4746-90e0-055cf52aca3a
+UID:ae6a26ce-14ac-4648-b25a-dcba5e946771
 SEQUENCE:0
-DTSTAMP:20250726T171609
+DTSTAMP:20250727T171457
 DTSTART:20250817T190000
 DTEND:20250817T194500
 SUMMARY:🏀 U18 Boys: Solway Pistons vs Watson Park Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Watson
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c5cb1309-a85b-4460-8ed0-bac672b1f89c
+UID:b536cdbb-c862-4aee-92d1-6cdd30ce956b
 SEQUENCE:0
-DTSTAMP:20250726T171609
+DTSTAMP:20250727T171457
 DTSTART:20250824T190000
 DTEND:20250824T194500
 SUMMARY:🏀 U18 Boys: Solway Pistons vs Maccabi Lightening
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Lightening\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:75abd2c7-0d75-45eb-873e-350fcfe8a141
+UID:1b318a5e-6a93-40ff-97d6-987a986bac64
 SEQUENCE:0
-DTSTAMP:20250726T171609
+DTSTAMP:20250727T171457
 DTSTART:20250831T190000
 DTEND:20250831T194500
 SUMMARY:🏀 U18 Boys: Solway Pistons vs Tooronga Piranhas

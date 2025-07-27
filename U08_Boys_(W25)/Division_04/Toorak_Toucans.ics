@@ -6,9 +6,9 @@ X-WR-CALNAME:Toorak Toucans Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:485e1cfa-fcdd-4940-9e5c-5c08324a2a84
+UID:cbe2aa72-aefe-4a2f-8e51-279846cf668e
 SEQUENCE:0
-DTSTAMP:20250726T171248
+DTSTAMP:20250727T171155
 DTSTART:20250802T084500
 DTEND:20250802T093000
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Solway Mustangs
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Mustangs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:47a35314-633c-44e8-b802-5825f5f02fb3
+UID:2d8ff3aa-d3b3-4e56-b86f-137407f2aecf
 SEQUENCE:0
-DTSTAMP:20250726T171248
+DTSTAMP:20250727T171155
 DTSTART:20250809T084500
 DTEND:20250809T093000
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Malvern Tigers Giddey
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Giddey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:03efcc83-41e3-42a7-9bd2-ae54249be951
+UID:5a376194-d760-4159-98e4-804042121c8d
 SEQUENCE:0
-DTSTAMP:20250726T171248
+DTSTAMP:20250727T171155
 DTSTART:20250816T084500
 DTEND:20250816T093000
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Ashy Lightning Green
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4176b5b2-ca69-4b67-8cbe-28653cbbe017
+UID:f9a2a490-72e2-4b5c-8cb7-a10e273dcf14
 SEQUENCE:0
-DTSTAMP:20250726T171248
+DTSTAMP:20250727T171155
 DTSTART:20250823T093000
 DTEND:20250823T101500
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Maccabi Celtics
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a6dd37ae-7be4-48f4-8275-b32c0b0cecdf
+UID:a0aec43b-5549-4117-945b-5b945b54b061
 SEQUENCE:0
-DTSTAMP:20250726T171248
+DTSTAMP:20250727T171155
 DTSTART:20250830T084500
 DTEND:20250830T093000
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Burnley Park Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Burnley
   Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cd107450-b578-4191-8ebf-8434838e6148
+SEQUENCE:0
+DTSTAMP:20250727T171155
+DTSTART:20250906T084500
+DTEND:20250906T093000
+SUMMARY:🏀 U08 Boys: Toorak Toucans vs Solway Mustangs
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Mustangs\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

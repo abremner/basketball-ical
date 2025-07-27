@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Steeds Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:851bb6f7-9200-47c8-b6d6-b0138dbc77f3
+UID:0a844f33-672f-425a-b1f3-658f53c4ceda
 SEQUENCE:0
-DTSTAMP:20250726T171251
+DTSTAMP:20250727T171157
 DTSTART:20250802T093000
 DTEND:20250802T101500
 SUMMARY:🏀 U08 Boys: Solway Steeds vs Wattletree Piranhas
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Wattlet
  ree Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fa868ba9-ce24-4022-b880-966bee1ccf2c
+UID:7de79e5d-a520-4ed1-86bd-482e3d69131f
 SEQUENCE:0
-DTSTAMP:20250726T171251
+DTSTAMP:20250727T171157
 DTSTART:20250809T084500
 DTEND:20250809T093000
 SUMMARY:🏀 U08 Boys: Solway Steeds vs Renwick Piranhas
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Renwick
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5896f39b-596e-411a-b8e5-b593c864f2ab
+UID:f4da05d4-b185-4df4-bbbf-3c6d7305812b
 SEQUENCE:0
-DTSTAMP:20250726T171251
+DTSTAMP:20250727T171157
 DTSTART:20250816T084500
 DTEND:20250816T093000
 SUMMARY:🏀 U08 Boys: Solway Steeds vs Dorrington Piranhas
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Dorring
  ton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ee2927e8-c42d-4b88-87ec-27957e2b3b97
+UID:8ef13e3f-3321-432b-8141-783f125c9b56
 SEQUENCE:0
-DTSTAMP:20250726T171251
+DTSTAMP:20250727T171157
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U08 Boys: Solway Steeds vs Solway Stallions
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Stallions\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3010f025-e547-43b3-99bc-d883297dd417
+UID:857c65ba-3299-49d0-be22-5a21264d036a
 SEQUENCE:0
-DTSTAMP:20250726T171251
+DTSTAMP:20250727T171157
 DTSTART:20250830T084500
 DTEND:20250830T093000
 SUMMARY:🏀 U08 Boys: Solway Steeds vs Golden Hawks Sky
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Golden 
  Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d3966e31-ab58-4d3d-8c88-9cdcb672338e
+SEQUENCE:0
+DTSTAMP:20250727T171157
+DTSTART:20250906T093000
+DTEND:20250906T101500
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Wattletree Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Wattlet
+ ree Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,9 +6,9 @@ X-WR-CALNAME:Renwick Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:69c8f0a9-96af-4aea-a9b7-082a1085fc17
+UID:edff2e65-bed2-491f-97a9-cb4b8d4fc4ad
 SEQUENCE:0
-DTSTAMP:20250726T171250
+DTSTAMP:20250727T171156
 DTSTART:20250802T084500
 DTEND:20250802T093000
 SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Solway Stallions
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Stallions\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ef446a3b-a983-46a8-959e-73d942547cfb
+UID:2c56eae8-9a74-488f-b374-ddd6d92f4014
 SEQUENCE:0
-DTSTAMP:20250726T171250
+DTSTAMP:20250727T171156
 DTSTART:20250809T084500
 DTEND:20250809T093000
 SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Solway Steeds
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Steeds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b44709eb-9b7c-4581-9ac1-69acb3bccf19
+UID:2453932d-b246-45e3-aca7-1a5bd2547684
 SEQUENCE:0
-DTSTAMP:20250726T171250
+DTSTAMP:20250727T171156
 DTSTART:20250816T093000
 DTEND:20250816T101500
 SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Golden Hawks Sky
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Golden
  Hawks Sky\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:54a2eef7-da95-412f-b753-02ff848c21e8
+UID:34c21709-246a-4ed1-b8bb-603edcef6531
 SEQUENCE:0
-DTSTAMP:20250726T171250
+DTSTAMP:20250727T171156
 DTSTART:20250823T093000
 DTEND:20250823T101500
 SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Dorrington Piranhas
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Dorring
  ton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c4f52d8e-570e-4d28-b7c5-b3e98857638b
+UID:53cab3ea-a859-4e1f-9792-7a332c8f9891
 SEQUENCE:0
-DTSTAMP:20250726T171250
+DTSTAMP:20250727T171156
 DTSTART:20250830T084500
 DTEND:20250830T093000
 SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Wattletree Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Wattlet
  ree Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5851451d-d11d-4c7c-b636-ee5821fc5fd4
+SEQUENCE:0
+DTSTAMP:20250727T171156
+DTSTART:20250906T084500
+DTEND:20250906T093000
+SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Solway Stallions
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Stallions\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

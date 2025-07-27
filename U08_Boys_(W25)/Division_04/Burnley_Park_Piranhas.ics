@@ -6,9 +6,9 @@ X-WR-CALNAME:Burnley Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2505459a-e3cf-4f69-9663-234f40fbc28e
+UID:b583dc7d-f2f1-4088-a01e-60e1a566edaf
 SEQUENCE:0
-DTSTAMP:20250726T171247
+DTSTAMP:20250727T171153
 DTSTART:20250802T093000
 DTEND:20250802T101500
 SUMMARY:🏀 U08 Boys: Burnley Park Piranhas vs Ashy Lightning Green
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9445cea0-c6c9-4a9f-a1d4-ad8a8f3a3d6e
+UID:13fd9336-063b-447a-b889-7728f21a05f3
 SEQUENCE:0
-DTSTAMP:20250726T171247
+DTSTAMP:20250727T171153
 DTSTART:20250809T101500
 DTEND:20250809T110000
 SUMMARY:🏀 U08 Boys: Burnley Park Piranhas vs Maccabi Celtics
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a28b9120-02ba-4f44-be5f-f4fc5ac55f52
+UID:08aab81e-8cd7-4a3a-a510-6daf0f98cd14
 SEQUENCE:0
-DTSTAMP:20250726T171247
+DTSTAMP:20250727T171153
 DTSTART:20250816T101500
 DTEND:20250816T110000
 SUMMARY:🏀 U08 Boys: Burnley Park Piranhas vs Malvern Tigers Giddey
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Giddey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:35330608-e5a0-43e8-b730-4a0c95611bf2
+UID:9ff33d25-2c4d-4d5c-8882-4b6570ccf3db
 SEQUENCE:0
-DTSTAMP:20250726T171247
+DTSTAMP:20250727T171153
 DTSTART:20250823T101500
 DTEND:20250823T110000
 SUMMARY:🏀 U08 Boys: Burnley Park Piranhas vs Solway Mustangs
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Mustangs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1b228199-015f-4bb0-9042-1f64b7008f45
+UID:ee09f58d-1aaa-4dfc-9f60-c726ec8a15df
 SEQUENCE:0
-DTSTAMP:20250726T171247
+DTSTAMP:20250727T171153
 DTSTART:20250830T084500
 DTEND:20250830T093000
 SUMMARY:🏀 U08 Boys: Burnley Park Piranhas vs Toorak Toucans
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak 
  Toucans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4a39e9ee-13bf-4fe5-a563-e40b87c6152b
+SEQUENCE:0
+DTSTAMP:20250727T171153
+DTSTART:20250906T093000
+DTEND:20250906T101500
+SUMMARY:🏀 U08 Boys: Burnley Park Piranhas vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR
