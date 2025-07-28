@@ -6,9 +6,9 @@ X-WR-CALNAME:Warley Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b028a803-6692-4ec8-92ab-65b196469eff
+UID:0d53eac4-be9c-4f11-a1b2-edfcc51c61b9
 SEQUENCE:0
-DTSTAMP:20250727T171205
+DTSTAMP:20250728T171729
 DTSTART:20250802T093000
 DTEND:20250802T101500
 SUMMARY:🏀 U08 Girls: Warley Piranhas vs Ashy Lightning Green
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Ashy Lightn
  ing Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d4550b29-0348-4cf6-a49a-4249f77cce9d
+UID:877f236c-24e5-4b80-860c-c210046376b7
 SEQUENCE:0
-DTSTAMP:20250727T171205
+DTSTAMP:20250728T171729
 DTSTART:20250809T080000
 DTEND:20250809T084500
 SUMMARY:🏀 U08 Girls: Warley Piranhas vs Solway Sparks
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Sparks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:29dd6e4b-15e7-453a-be6e-21a036236dc7
+UID:d249a51e-bcc7-4b56-8636-007b387b8d07
 SEQUENCE:0
-DTSTAMP:20250727T171205
+DTSTAMP:20250728T171729
 DTSTART:20250816T093000
 DTEND:20250816T101500
 SUMMARY:🏀 U08 Girls: Warley Piranhas vs Solway Meteors
@@ -39,14 +39,25 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Mete
  ors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b4e9c1c4-4771-4c4e-97d2-4625b1341d0b
+UID:519f07bf-4af3-435e-99af-31ad4ea9a6d5
 SEQUENCE:0
-DTSTAMP:20250727T171205
+DTSTAMP:20250728T171729
 DTSTART:20250830T080000
 DTEND:20250830T084500
 SUMMARY:🏀 U08 Girls: Warley Piranhas vs Maccabi Celtics
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fccb4894-366b-4465-926d-e1820a062038
+SEQUENCE:0
+DTSTAMP:20250728T171729
+DTSTART:20250906T094000
+DTEND:20250906T102500
+SUMMARY:🏀 U08 Girls: Warley Piranhas vs Maccabi Bucks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Buc
+ ks\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

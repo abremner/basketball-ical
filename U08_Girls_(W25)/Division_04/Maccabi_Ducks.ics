@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:7da626b5-e73c-42d2-a333-e283922f77a1
+UID:44aa18dd-2d08-4796-a64b-c1b92cf57bb3
 SEQUENCE:0
-DTSTAMP:20250727T171207
+DTSTAMP:20250728T171730
 DTSTART:20250802T084500
 DTEND:20250802T093000
 SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Harleston Park Piranhas
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Harleston P
  ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2c623642-dc96-40cd-b1dc-3a141491d7a6
+UID:c62c33d7-5610-4e89-b349-1f1927b849d5
 SEQUENCE:0
-DTSTAMP:20250727T171207
+DTSTAMP:20250728T171730
 DTSTART:20250809T084500
 DTEND:20250809T093000
 SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Korowa Cherry
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Korowa Cher
  ry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0db85b9d-cece-444c-ac0c-ecb3c79e892a
+UID:042ad51f-b168-4a55-b051-2ea20ccfd01c
 SEQUENCE:0
-DTSTAMP:20250727T171207
+DTSTAMP:20250728T171730
 DTSTART:20250816T084500
 DTEND:20250816T093000
 SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Flowerdale Piranhas
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Flowerdale
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:54168f41-6b80-4bb7-a13c-ca8e5d4c14c2
+UID:d8d3f66c-47ad-4978-ad1d-5dda8d75413a
 SEQUENCE:0
-DTSTAMP:20250727T171207
+DTSTAMP:20250728T171730
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Harleston Park Piranhas
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Harleston P
  ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a2b7a983-aaa9-4dd6-8e1d-6634038eeb8f
+UID:277bb8ba-300e-4598-851c-1a6cb39d99af
 SEQUENCE:0
-DTSTAMP:20250727T171207
+DTSTAMP:20250728T171730
 DTSTART:20250830T084500
 DTEND:20250830T093000
 SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Korowa Cherry
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
 DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Korowa Cher
  ry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:235203a9-5eb3-488e-8522-dbb83969b09d
+SEQUENCE:0
+DTSTAMP:20250728T171730
+DTSTART:20250906T085000
+DTEND:20250906T093500
+SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Flowerdale Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Flowerdale 
+ Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Comets Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:79de722d-5d40-46bd-898c-9964eb7bfe7e
+UID:e1641db5-82e4-4379-92f8-0bf347ad5f48
 SEQUENCE:0
-DTSTAMP:20250727T171202
+DTSTAMP:20250728T171725
 DTSTART:20250802T101500
 DTEND:20250802T110000
 SUMMARY:🏀 U08 Girls: Solway Comets vs Glen Iris Scorpions Ferndale
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Glen Iris S
  corpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:12d6b016-79d3-4c4e-a311-0e2e83b3ae78
+UID:b6ceece2-f183-4070-8b3c-290e96bff1e1
 SEQUENCE:0
-DTSTAMP:20250727T171202
+DTSTAMP:20250728T171725
 DTSTART:20250809T101500
 DTEND:20250809T110000
 SUMMARY:🏀 U08 Girls: Solway Comets vs Solway Stars
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Star
  s\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2617d93f-2907-49f8-8753-2475d853aced
+UID:ee10c929-e387-4c19-803b-286c41409fdf
 SEQUENCE:0
-DTSTAMP:20250727T171202
+DTSTAMP:20250728T171725
 DTSTART:20250816T101500
 DTEND:20250816T110000
 SUMMARY:🏀 U08 Girls: Solway Comets vs Malvern Tigers Wallace
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Wallace\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7d75f79d-f5f2-4071-9111-bba08ff1334d
+UID:450fed68-9c86-47f2-9a23-20687568c97b
 SEQUENCE:0
-DTSTAMP:20250727T171202
+DTSTAMP:20250728T171725
 DTSTART:20250823T101500
 DTEND:20250823T110000
 SUMMARY:🏀 U08 Girls: Solway Comets vs Malvern Tigers Atwell
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Atwell\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6ddb5e1b-6fc0-416e-9467-a6fd558076a1
+UID:e5d3ff51-ab5a-4b85-84c4-ebd25fed2f45
 SEQUENCE:0
-DTSTAMP:20250727T171202
+DTSTAMP:20250728T171725
 DTSTART:20250830T080000
 DTEND:20250830T084500
 SUMMARY:🏀 U08 Girls: Solway Comets vs Arax
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Arax\nA
  rrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6601d08c-8006-46fd-b0a7-f2cf24170bb0
+SEQUENCE:0
+DTSTAMP:20250728T171725
+DTSTART:20250906T103000
+DTEND:20250906T111500
+SUMMARY:🏀 U08 Girls: Solway Comets vs Glen Iris Scorpions Ferndale
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Glen Iris S
+ corpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

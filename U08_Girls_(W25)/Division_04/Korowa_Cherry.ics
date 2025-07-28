@@ -6,9 +6,9 @@ X-WR-CALNAME:Korowa Cherry Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2577cec4-9d56-424a-9302-c9592661fbca
+UID:7b71c3f5-5aca-4221-878d-baf02b2e4e22
 SEQUENCE:0
-DTSTAMP:20250727T171206
+DTSTAMP:20250728T171730
 DTSTART:20250802T084500
 DTEND:20250802T093000
 SUMMARY:🏀 U08 Girls: Korowa Cherry vs Flowerdale Piranhas
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Flowerdale
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bfcbf418-b3c0-49a1-a930-5f2400571d77
+UID:71967f46-88f3-4e01-89b9-bb5dfe3b66cf
 SEQUENCE:0
-DTSTAMP:20250727T171206
+DTSTAMP:20250728T171730
 DTSTART:20250809T084500
 DTEND:20250809T093000
 SUMMARY:🏀 U08 Girls: Korowa Cherry vs Maccabi Ducks
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Duc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5938f032-de02-4f29-ba71-9445cd1a3b16
+UID:f0667a6e-88f1-4ee8-9bae-5104d09460e9
 SEQUENCE:0
-DTSTAMP:20250727T171206
+DTSTAMP:20250728T171730
 DTSTART:20250816T084500
 DTEND:20250816T093000
 SUMMARY:🏀 U08 Girls: Korowa Cherry vs Harleston Park Piranhas
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Harleston P
  ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:18535a4e-c2c0-40db-8dee-a356bcd65cd9
+UID:4e24826d-9141-4033-96e4-acbfb27eeb99
 SEQUENCE:0
-DTSTAMP:20250727T171206
+DTSTAMP:20250728T171730
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U08 Girls: Korowa Cherry vs Flowerdale Piranhas
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Flowerdale
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:62917f8e-a3a1-426f-b811-862514093104
+UID:ffe36121-f9b6-44e2-8d24-24ca0cf9b716
 SEQUENCE:0
-DTSTAMP:20250727T171206
+DTSTAMP:20250728T171730
 DTSTART:20250830T084500
 DTEND:20250830T093000
 SUMMARY:🏀 U08 Girls: Korowa Cherry vs Maccabi Ducks
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
 DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Duc
  ks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:535eca99-f47a-403b-abb6-c23e51d785bb
+SEQUENCE:0
+DTSTAMP:20250728T171730
+DTSTART:20250906T085000
+DTEND:20250906T093500
+SUMMARY:🏀 U08 Girls: Korowa Cherry vs Harleston Park Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Harleston P
+ ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

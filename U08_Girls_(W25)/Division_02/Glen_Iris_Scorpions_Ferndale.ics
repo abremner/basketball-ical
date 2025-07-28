@@ -6,9 +6,9 @@ X-WR-CALNAME:Glen Iris Scorpions Ferndale Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:484e8685-1107-434c-b56a-b61dbbd52c2c
+UID:8c7726ff-6ac1-474f-84af-54da62dc2ea0
 SEQUENCE:0
-DTSTAMP:20250727T171200
+DTSTAMP:20250728T171724
 DTSTART:20250802T101500
 DTEND:20250802T110000
 SUMMARY:🏀 U08 Girls: Glen Iris Scorpions Ferndale vs Solway Comets
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Come
  ts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f37bd0e0-dcc1-452c-b034-dd69a26e3483
+UID:3118fb26-cdb4-446c-901e-dffd9042e97d
 SEQUENCE:0
-DTSTAMP:20250727T171200
+DTSTAMP:20250728T171724
 DTSTART:20250809T080000
 DTEND:20250809T084500
 SUMMARY:🏀 U08 Girls: Glen Iris Scorpions Ferndale vs Arax
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Arax\nA
  rrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:34195b25-c41a-4b76-a310-6fa98e09c367
+UID:81d992d9-ce77-4359-928c-259761b6dbfc
 SEQUENCE:0
-DTSTAMP:20250727T171200
+DTSTAMP:20250728T171724
 DTSTART:20250816T101500
 DTEND:20250816T110000
 SUMMARY:🏀 U08 Girls: Glen Iris Scorpions Ferndale vs Malvern Tigers Atw
@@ -40,9 +40,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Atwell\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:44a8dbdf-fbc9-4197-9e50-058c4ed06aa8
+UID:095926c4-4a48-42d8-8521-afc705abfdda
 SEQUENCE:0
-DTSTAMP:20250727T171200
+DTSTAMP:20250728T171724
 DTSTART:20250823T101500
 DTEND:20250823T110000
 SUMMARY:🏀 U08 Girls: Glen Iris Scorpions Ferndale vs Solway Stars
@@ -51,9 +51,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Star
  s\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ebf5eb64-7ae9-4dbe-b1ae-832be122a112
+UID:0d83f4d2-3178-48e5-bb83-a1dca51a3f90
 SEQUENCE:0
-DTSTAMP:20250727T171200
+DTSTAMP:20250728T171724
 DTSTART:20250830T101500
 DTEND:20250830T110000
 SUMMARY:🏀 U08 Girls: Glen Iris Scorpions Ferndale vs Malvern Tigers Wal
@@ -61,5 +61,16 @@ SUMMARY:🏀 U08 Girls: Glen Iris Scorpions Ferndale vs Malvern Tigers Wal
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
 DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Wallace\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ec65b4fc-4cd3-48dc-9ae4-7c13475f5adb
+SEQUENCE:0
+DTSTAMP:20250728T171724
+DTSTART:20250906T103000
+DTEND:20250906T111500
+SUMMARY:🏀 U08 Girls: Glen Iris Scorpions Ferndale vs Solway Comets
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Come
+ ts\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

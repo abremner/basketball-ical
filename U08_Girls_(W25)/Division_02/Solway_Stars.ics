@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Stars Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0019af6d-8985-48fe-be04-a99a0ad15190
+UID:0d83196f-9660-4a9c-96af-46ebd1c36320
 SEQUENCE:0
-DTSTAMP:20250727T171202
+DTSTAMP:20250728T171726
 DTSTART:20250802T101500
 DTEND:20250802T110000
 SUMMARY:🏀 U08 Girls: Solway Stars vs Malvern Tigers Wallace
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Wallace\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c8b55db5-7316-4694-a02b-51207e28f547
+UID:4be2d8f4-4a17-4e8f-a1c8-2e7a4ba2df8f
 SEQUENCE:0
-DTSTAMP:20250727T171202
+DTSTAMP:20250728T171726
 DTSTART:20250809T101500
 DTEND:20250809T110000
 SUMMARY:🏀 U08 Girls: Solway Stars vs Solway Comets
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Come
  ts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8b9d659b-b264-4e46-a371-7f64703a4598
+UID:1783b232-4ba3-476c-b8ca-4e8e5bfd05ef
 SEQUENCE:0
-DTSTAMP:20250727T171202
+DTSTAMP:20250728T171726
 DTSTART:20250816T080000
 DTEND:20250816T084500
 SUMMARY:🏀 U08 Girls: Solway Stars vs Arax
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Arax\nA
  rrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:799fb8a8-c6f0-4c28-a7b5-145afc78ef15
+UID:23dc8c11-177c-4d82-81e2-0168d0688103
 SEQUENCE:0
-DTSTAMP:20250727T171202
+DTSTAMP:20250728T171726
 DTSTART:20250823T101500
 DTEND:20250823T110000
 SUMMARY:🏀 U08 Girls: Solway Stars vs Glen Iris Scorpions Ferndale
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
  corpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:07e04f55-7d46-4b12-9e4b-43e31dd21c89
+UID:fd799fc6-811d-4735-b198-d3ca96453dec
 SEQUENCE:0
-DTSTAMP:20250727T171202
+DTSTAMP:20250728T171726
 DTSTART:20250830T101500
 DTEND:20250830T110000
 SUMMARY:🏀 U08 Girls: Solway Stars vs Malvern Tigers Atwell
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
 DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Atwell\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9ccdd803-a27b-47ee-a267-ad71980611d8
+SEQUENCE:0
+DTSTAMP:20250728T171726
+DTSTART:20250906T103000
+DTEND:20250906T111500
+SUMMARY:🏀 U08 Girls: Solway Stars vs Malvern Tigers Wallace
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Wallace\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

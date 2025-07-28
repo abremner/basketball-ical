@@ -6,20 +6,20 @@ X-WR-CALNAME:Malvern Tigers Wallace Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:6496808c-01b9-4c88-8bcb-e528f0bf75e5
+UID:0519f2f9-3ce1-4d1a-a85e-42526ce7fa1e
 SEQUENCE:0
-DTSTAMP:20250727T171448
-DTSTART:20250805T174500
-DTEND:20250805T183000
+DTSTAMP:20250728T172029
+DTSTART:20250805T183000
+DTEND:20250805T191500
 SUMMARY:🏀 U16 Girls: Malvern Tigers Wallace vs Timberwolves Emeralds
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Emeralds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fe9e70fe-9cb5-4ef3-a7ed-8af73dc78cd4
+UID:a8f99093-506e-4654-8318-c24b1de2d277
 SEQUENCE:0
-DTSTAMP:20250727T171448
+DTSTAMP:20250728T172029
 DTSTART:20250812T174500
 DTEND:20250812T183000
 SUMMARY:🏀 U16 Girls: Malvern Tigers Wallace vs Solway Angels
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Angels\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:60218a17-acd2-419e-8d2f-9df1b52c6045
+UID:df2d8f2a-9e34-4c11-b9e8-5255a546c7c6
 SEQUENCE:0
-DTSTAMP:20250727T171448
+DTSTAMP:20250728T172029
 DTSTART:20250819T174500
 DTEND:20250819T183000
 SUMMARY:🏀 U16 Girls: Malvern Tigers Wallace vs Solway Phoenix
@@ -39,14 +39,14 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Phoenix\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d164f5c5-a272-4591-8e4c-4c80081afeef
+UID:ebe81744-cd6f-4a10-ac1c-4dc88529dad4
 SEQUENCE:0
-DTSTAMP:20250727T171448
+DTSTAMP:20250728T172029
 DTSTART:20250826T174500
 DTEND:20250826T183000
 SUMMARY:🏀 U16 Girls: Malvern Tigers Wallace vs Maccabi Warriors
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

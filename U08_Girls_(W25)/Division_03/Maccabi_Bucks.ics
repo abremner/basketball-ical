@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f9904f13-cd86-4fc0-95e9-df058b65befe
+UID:ffb03a6b-bd7e-465a-8257-233b0752e06b
 SEQUENCE:0
-DTSTAMP:20250727T171203
+DTSTAMP:20250728T171727
 DTSTART:20250809T093000
 DTEND:20250809T101500
 SUMMARY:🏀 U08 Girls: Maccabi Bucks vs Solway Meteors
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Mete
  ors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:992bac91-a42d-4122-8c33-9677f3323054
+UID:8abe36c9-e6c4-4536-94b4-bd1e71cd1aa5
 SEQUENCE:0
-DTSTAMP:20250727T171203
+DTSTAMP:20250728T171727
 DTSTART:20250816T093000
 DTEND:20250816T101500
 SUMMARY:🏀 U08 Girls: Maccabi Bucks vs Maccabi Celtics
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Cel
  tics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c91036e0-d57f-4645-9d8d-8f5e30022841
+UID:d37461df-6fbe-4242-880a-8d2ae9302cf5
 SEQUENCE:0
-DTSTAMP:20250727T171203
+DTSTAMP:20250728T171727
 DTSTART:20250823T093000
 DTEND:20250823T101500
 SUMMARY:🏀 U08 Girls: Maccabi Bucks vs Maccabi Warriors
@@ -39,14 +39,25 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi War
  riors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:17882bdf-00d7-4a48-a231-8c7c5b03bf18
+UID:33d773e9-28f5-4256-8712-a2b731d5a199
 SEQUENCE:0
-DTSTAMP:20250727T171203
+DTSTAMP:20250728T171727
 DTSTART:20250830T093000
 DTEND:20250830T101500
 SUMMARY:🏀 U08 Girls: Maccabi Bucks vs Ashy Lightning Green
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
 DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
  ing Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ed5b7232-f332-4aed-983e-99c8f56a47df
+SEQUENCE:0
+DTSTAMP:20250728T171727
+DTSTART:20250906T094000
+DTEND:20250906T102500
+SUMMARY:🏀 U08 Girls: Maccabi Bucks vs Warley Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Warley Pira
+ nhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

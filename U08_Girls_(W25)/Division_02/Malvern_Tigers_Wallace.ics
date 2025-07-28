@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Wallace Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b81402c9-e710-46ed-aab5-360931fc7c40
+UID:7e48d650-42c7-4726-96dd-961b2648df51
 SEQUENCE:0
-DTSTAMP:20250727T171201
+DTSTAMP:20250728T171725
 DTSTART:20250802T101500
 DTEND:20250802T110000
 SUMMARY:🏀 U08 Girls: Malvern Tigers Wallace vs Solway Stars
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Star
  s\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ba061ed8-a415-4fd4-afd0-1aa626553603
+UID:4e4942cb-8321-49c9-a9a5-913a5d181303
 SEQUENCE:0
-DTSTAMP:20250727T171201
+DTSTAMP:20250728T171725
 DTSTART:20250809T101500
 DTEND:20250809T110000
 SUMMARY:🏀 U08 Girls: Malvern Tigers Wallace vs Malvern Tigers Atwell
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Atwell\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:357de74e-371b-4e75-86f6-707839be68cd
+UID:73535607-fbf4-4e81-8408-a241a3144d6c
 SEQUENCE:0
-DTSTAMP:20250727T171201
+DTSTAMP:20250728T171725
 DTSTART:20250816T101500
 DTEND:20250816T110000
 SUMMARY:🏀 U08 Girls: Malvern Tigers Wallace vs Solway Comets
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Come
  ts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3fdd6f9d-616d-4a16-92c5-f74ea91d58bf
+UID:e5abd502-6959-4912-980b-7ad22af75f39
 SEQUENCE:0
-DTSTAMP:20250727T171201
+DTSTAMP:20250728T171725
 DTSTART:20250823T080000
 DTEND:20250823T084500
 SUMMARY:🏀 U08 Girls: Malvern Tigers Wallace vs Arax
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Arax\nA
  rrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:be9b9434-f11a-4155-bcf8-43ef5ec8b0e6
+UID:92feab77-d363-4aa6-968a-96db19bb8ff2
 SEQUENCE:0
-DTSTAMP:20250727T171201
+DTSTAMP:20250728T171725
 DTSTART:20250830T101500
 DTEND:20250830T110000
 SUMMARY:🏀 U08 Girls: Malvern Tigers Wallace vs Glen Iris Scorpions Fern
@@ -60,5 +60,16 @@ SUMMARY:🏀 U08 Girls: Malvern Tigers Wallace vs Glen Iris Scorpions Fern
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
 DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Glen Iris S
  corpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7ec79155-16a1-4e80-adad-0897bcc51897
+SEQUENCE:0
+DTSTAMP:20250728T171725
+DTSTART:20250906T103000
+DTEND:20250906T111500
+SUMMARY:🏀 U08 Girls: Malvern Tigers Wallace vs Solway Stars
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Star
+ s\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

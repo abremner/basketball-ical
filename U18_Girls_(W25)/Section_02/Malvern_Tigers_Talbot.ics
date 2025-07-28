@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Talbot Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f89ca819-2e43-4caa-a63b-d88e8e45f909
+UID:f8ed8bd9-8caa-4dd2-995c-01e6bd9c3d3a
 SEQUENCE:0
-DTSTAMP:20250727T171507
+DTSTAMP:20250728T172051
 DTSTART:20250729T191500
 DTEND:20250729T200000
 SUMMARY:🏀 U18 Girls: Malvern Tigers Talbot vs Glen Iris Scorpions Suns
@@ -17,20 +17,20 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
  ris Scorpions Suns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:00f01678-f2e6-49dd-b84f-36597c575daa
+UID:629be103-3fde-468b-966f-12f73315f7ea
 SEQUENCE:0
-DTSTAMP:20250727T171507
-DTSTART:20250805T191500
-DTEND:20250805T200000
+DTSTAMP:20250728T172051
+DTSTART:20250805T200000
+DTEND:20250805T204500
 SUMMARY:🏀 U18 Girls: Malvern Tigers Talbot vs Timberwolves Cheetahs
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Cheetahs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4fee4e45-7795-4a36-9c22-ee5c96df50f9
+UID:ba9d7d31-5dc6-4518-905b-188f8d1905e3
 SEQUENCE:0
-DTSTAMP:20250727T171507
+DTSTAMP:20250728T172051
 DTSTART:20250812T191500
 DTEND:20250812T200000
 SUMMARY:🏀 U18 Girls: Malvern Tigers Talbot vs Ashy Lightning Green
@@ -39,25 +39,25 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:37ba19c3-3eac-4441-a2d6-7bb51b6590a6
+UID:d8d1e0ce-e240-45ee-b92e-28a5dc089042
 SEQUENCE:0
-DTSTAMP:20250727T171507
-DTSTART:20250819T183000
-DTEND:20250819T191500
+DTSTAMP:20250728T172051
+DTSTART:20250819T191500
+DTEND:20250819T200000
 SUMMARY:🏀 U18 Girls: Malvern Tigers Talbot vs Solway Stellars
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Stellars\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1e4737e1-18cf-46be-b957-da4dbe017ac4
+UID:47dcbe49-e0ba-44c9-97c4-0916bbb845a3
 SEQUENCE:0
-DTSTAMP:20250727T171507
-DTSTART:20250826T183000
-DTEND:20250826T191500
+DTSTAMP:20250728T172051
+DTSTART:20250826T191500
+DTEND:20250826T200000
 SUMMARY:🏀 U18 Girls: Malvern Tigers Talbot vs Summerhill Park Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Summer
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Summer
  hill Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

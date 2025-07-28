@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Angels Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0f3e43c6-d30a-48c5-973a-21bcbcb8bbd7
+UID:d5b1907c-391a-4ba0-82f2-da801d381e49
 SEQUENCE:0
-DTSTAMP:20250727T171448
+DTSTAMP:20250728T172029
 DTSTART:20250729T174500
 DTEND:20250729T183000
 SUMMARY:🏀 U16 Girls: Solway Angels vs Solway Phoenix
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Phoenix\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f7c523c5-6e29-4a13-a696-d9c20f3cf255
+UID:a5edff82-dd23-4e48-9148-33ece08bbc3f
 SEQUENCE:0
-DTSTAMP:20250727T171448
+DTSTAMP:20250728T172029
 DTSTART:20250812T174500
 DTEND:20250812T183000
 SUMMARY:🏀 U16 Girls: Solway Angels vs Malvern Tigers Wallace
@@ -28,25 +28,25 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Wallace\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5018bddc-5b79-478f-8607-b2377f30061f
+UID:3b1d8d40-1bef-4968-aba7-50cb71b6efac
 SEQUENCE:0
-DTSTAMP:20250727T171448
-DTSTART:20250819T174500
-DTEND:20250819T183000
+DTSTAMP:20250728T172029
+DTSTART:20250819T183000
+DTEND:20250819T191500
 SUMMARY:🏀 U16 Girls: Solway Angels vs Malvern Tigers Atwell
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Atwell\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8948497f-1be9-4bd0-9944-ccce65752f43
+UID:228868a2-0703-4cb9-a9d5-66e94d7d41bf
 SEQUENCE:0
-DTSTAMP:20250727T171448
+DTSTAMP:20250728T172029
 DTSTART:20250826T174500
 DTEND:20250826T183000
 SUMMARY:🏀 U16 Girls: Solway Angels vs Timberwolves Emeralds
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Emeralds\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,9 +6,9 @@ X-WR-CALNAME:Timberwolves Cheetahs Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f8b276c5-51f8-4b78-8d2d-c113a76b9694
+UID:834e09b1-554a-4adf-a2c8-d6cdec7827e4
 SEQUENCE:0
-DTSTAMP:20250727T171509
+DTSTAMP:20250728T172052
 DTSTART:20250729T191500
 DTEND:20250729T200000
 SUMMARY:🏀 U18 Girls: Timberwolves Cheetahs vs Solway Stellars
@@ -17,20 +17,20 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Stellars\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:77a5a76a-67d5-40bc-84c1-2a0b836b464f
+UID:c42a5ced-0ddc-413f-bff0-f3d16ed7d969
 SEQUENCE:0
-DTSTAMP:20250727T171509
-DTSTART:20250805T191500
-DTEND:20250805T200000
+DTSTAMP:20250728T172052
+DTSTART:20250805T200000
+DTEND:20250805T204500
 SUMMARY:🏀 U18 Girls: Timberwolves Cheetahs vs Malvern Tigers Talbot
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Talbot\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:107ee6c2-1cf0-4a3e-bfdd-f3de71359907
+UID:67fec335-393a-48a0-b92c-332bf7685c86
 SEQUENCE:0
-DTSTAMP:20250727T171509
+DTSTAMP:20250728T172052
 DTSTART:20250812T191500
 DTEND:20250812T200000
 SUMMARY:🏀 U18 Girls: Timberwolves Cheetahs vs Glen Iris Scorpions Suns
@@ -39,25 +39,25 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Suns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:266b981e-83b3-49ae-9c49-7568e7743ff3
+UID:f3cb522e-437c-438e-ab1c-877f61ca9c41
 SEQUENCE:0
-DTSTAMP:20250727T171509
+DTSTAMP:20250728T172052
 DTSTART:20250819T191500
 DTEND:20250819T200000
 SUMMARY:🏀 U18 Girls: Timberwolves Cheetahs vs Summerhill Park Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Summer
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Summer
  hill Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:19a10f24-147d-46ab-996f-a4f1039d55ba
+UID:e602adbb-17a8-49af-a5c6-3406c2db3a1b
 SEQUENCE:0
-DTSTAMP:20250727T171509
-DTSTART:20250826T191500
-DTEND:20250826T200000
+DTSTAMP:20250728T172052
+DTSTART:20250826T200000
+DTEND:20250826T204500
 SUMMARY:🏀 U18 Girls: Timberwolves Cheetahs vs Ashy Lightning Green
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

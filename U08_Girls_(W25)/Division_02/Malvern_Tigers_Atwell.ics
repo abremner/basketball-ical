@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Atwell Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:23695ad3-d631-4458-877e-16213572c986
+UID:ac5f62ca-d41f-49e4-9bd9-1524e3ee5c42
 SEQUENCE:0
-DTSTAMP:20250727T171201
+DTSTAMP:20250728T171724
 DTSTART:20250802T080000
 DTEND:20250802T084500
 SUMMARY:🏀 U08 Girls: Malvern Tigers Atwell vs Arax
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Arax\nA
  rrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d781e640-3165-4505-b7ed-93c91a51f1b6
+UID:e930b44f-37b2-4cd8-934d-69fd07f4034b
 SEQUENCE:0
-DTSTAMP:20250727T171201
+DTSTAMP:20250728T171724
 DTSTART:20250809T101500
 DTEND:20250809T110000
 SUMMARY:🏀 U08 Girls: Malvern Tigers Atwell vs Malvern Tigers Wallace
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Wallace\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6a6ac733-cfcd-4031-8946-f8ee1280ea06
+UID:0f7064ee-277d-441a-92ac-635dd4af2b2a
 SEQUENCE:0
-DTSTAMP:20250727T171201
+DTSTAMP:20250728T171724
 DTSTART:20250816T101500
 DTEND:20250816T110000
 SUMMARY:🏀 U08 Girls: Malvern Tigers Atwell vs Glen Iris Scorpions Fernd
@@ -40,9 +40,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
  corpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3e3559d1-ad4e-46eb-9bd3-771c322aaf8a
+UID:19170713-9631-4184-9966-89007987ba2a
 SEQUENCE:0
-DTSTAMP:20250727T171201
+DTSTAMP:20250728T171724
 DTSTART:20250823T101500
 DTEND:20250823T110000
 SUMMARY:🏀 U08 Girls: Malvern Tigers Atwell vs Solway Comets
@@ -51,14 +51,25 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Come
  ts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bba7e757-8509-41ad-b67e-fe81bf562d81
+UID:1e6c6c2d-91ec-48d7-8699-c7354fbafed0
 SEQUENCE:0
-DTSTAMP:20250727T171201
+DTSTAMP:20250728T171724
 DTSTART:20250830T101500
 DTEND:20250830T110000
 SUMMARY:🏀 U08 Girls: Malvern Tigers Atwell vs Solway Stars
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
 DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Star
  s\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c8a8892f-31e9-43a9-9563-7662e2211590
+SEQUENCE:0
+DTSTAMP:20250728T171724
+DTSTART:20250906T080000
+DTEND:20250906T084500
+SUMMARY:🏀 U08 Girls: Malvern Tigers Atwell vs Arax
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Arax\nA
+ rrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

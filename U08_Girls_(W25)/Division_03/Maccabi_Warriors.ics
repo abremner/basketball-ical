@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:48506edb-e298-402d-91f1-061d447eccf7
+UID:ff339244-d20c-424b-a196-24db53f4d88f
 SEQUENCE:0
-DTSTAMP:20250727T171204
+DTSTAMP:20250728T171727
 DTSTART:20250802T093000
 DTEND:20250802T101500
 SUMMARY:🏀 U08 Girls: Maccabi Warriors vs Maccabi Celtics
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Cel
  tics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1405de29-a9f4-4992-b3a9-c5f1375bd7dc
+UID:e05a1f74-0596-4b3b-91b9-1cf402dfabab
 SEQUENCE:0
-DTSTAMP:20250727T171204
+DTSTAMP:20250728T171727
 DTSTART:20250816T080000
 DTEND:20250816T084500
 SUMMARY:🏀 U08 Girls: Maccabi Warriors vs Solway Sparks
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Sparks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:332c8f26-2834-4bf8-b16e-3093f0a7905d
+UID:3dc20ee6-22e4-4e0a-ae36-00c30fbf3890
 SEQUENCE:0
-DTSTAMP:20250727T171204
+DTSTAMP:20250728T171727
 DTSTART:20250823T093000
 DTEND:20250823T101500
 SUMMARY:🏀 U08 Girls: Maccabi Warriors vs Maccabi Bucks
@@ -39,14 +39,25 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Buc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4c66a556-cb5e-425d-92cf-4ec0cbaf64ce
+UID:a749bcde-fce8-46fc-9d89-e3bd0611b3c9
 SEQUENCE:0
-DTSTAMP:20250727T171204
+DTSTAMP:20250728T171727
 DTSTART:20250830T093000
 DTEND:20250830T101500
 SUMMARY:🏀 U08 Girls: Maccabi Warriors vs Solway Meteors
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
 DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Mete
  ors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dc64d864-4b45-406f-9c27-071d49974938
+SEQUENCE:0
+DTSTAMP:20250728T171727
+DTSTART:20250906T080000
+DTEND:20250906T084500
+SUMMARY:🏀 U08 Girls: Maccabi Warriors vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR
