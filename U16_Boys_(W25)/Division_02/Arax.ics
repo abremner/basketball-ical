@@ -6,9 +6,9 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:fb03ffe0-b54b-47ab-b25c-f243e1409e4c
+UID:47757e05-ea32-4ffc-a583-1c455d1256d4
 SEQUENCE:0
-DTSTAMP:20250729T171953
+DTSTAMP:20250730T171748
 DTSTART:20250802T191500
 DTEND:20250802T200000
 SUMMARY:🏀 U16 Boys: Arax vs Spring Park Piranhas
@@ -17,31 +17,31 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Spring
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d6fb1618-af75-4a04-81e9-aae0e65358d1
+UID:17410b41-1a07-4b22-8166-1945c549c100
 SEQUENCE:0
-DTSTAMP:20250729T171953
+DTSTAMP:20250730T171748
 DTSTART:20250809T191500
 DTEND:20250809T200000
-SUMMARY:🏀 U16 Boys: Arax vs Timberwolves Nuggets
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
- wolves Nuggets\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:dca20950-ad0f-478a-b3ac-72afb2ee7a84
-SEQUENCE:0
-DTSTAMP:20250729T171953
-DTSTART:20250816T191500
-DTEND:20250816T200000
 SUMMARY:🏀 U16 Boys: Arax vs Timberwolves Raiders
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Raiders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:07cbc11d-1a85-4222-b90d-90c36e3b1d18
+UID:97fb25ef-487b-48e8-98d6-4a2affcf10c3
 SEQUENCE:0
-DTSTAMP:20250729T171953
+DTSTAMP:20250730T171748
+DTSTART:20250816T191500
+DTEND:20250816T200000
+SUMMARY:🏀 U16 Boys: Arax vs Timberwolves Nuggets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Nuggets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5fb66d51-2de2-43e5-9fb3-a05993a097f5
+SEQUENCE:0
+DTSTAMP:20250730T171748
 DTSTART:20250823T191500
 DTEND:20250823T200000
 SUMMARY:🏀 U16 Boys: Arax vs Malvern Tigers Red
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ad7a97ff-76e2-40a1-bac8-0ad70096eb88
+UID:d705f185-63c7-412e-8982-95c973454714
 SEQUENCE:0
-DTSTAMP:20250729T171953
+DTSTAMP:20250730T171748
 DTSTART:20250830T183000
 DTEND:20250830T191500
 SUMMARY:🏀 U16 Boys: Arax vs Bailey Reserve Piranhas

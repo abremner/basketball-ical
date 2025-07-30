@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Red Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:136e0ac0-487f-4028-b2d5-fd5dcec143b5
+UID:7c6cea82-fed9-41e7-8c78-002f63e128db
 SEQUENCE:0
-DTSTAMP:20250729T171954
+DTSTAMP:20250730T171749
 DTSTART:20250802T183000
 DTEND:20250802T191500
 SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs Maccabi Half Court Miracles
@@ -17,31 +17,31 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
  i Half Court Miracles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ed851bb1-117d-4984-b218-534e095575fd
+UID:bedf22f8-e9fd-4b4f-9e24-2e858687445e
 SEQUENCE:0
-DTSTAMP:20250729T171954
+DTSTAMP:20250730T171749
 DTSTART:20250809T191500
 DTEND:20250809T200000
-SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs Spring Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Spring
-  Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5732e9bc-e473-409c-8d2d-5d24a2427c88
-SEQUENCE:0
-DTSTAMP:20250729T171954
-DTSTART:20250816T191500
-DTEND:20250816T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs Timberwolves Nuggets
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Nuggets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:21c8fc46-374b-4762-9a04-76677afe03ef
+UID:2fe41c89-a978-4a43-9d2c-0547af03c0d2
 SEQUENCE:0
-DTSTAMP:20250729T171954
+DTSTAMP:20250730T171749
+DTSTART:20250816T191500
+DTEND:20250816T200000
+SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs Spring Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Spring
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2c89cc00-2307-4187-a529-0a4a05e2da42
+SEQUENCE:0
+DTSTAMP:20250730T171749
 DTSTART:20250823T191500
 DTEND:20250823T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs Arax
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9338debd-a8da-4f7e-bd1e-7a35ac86f0b7
+UID:e01b022c-c0a2-4eb2-a26a-99bb40e1efd4
 SEQUENCE:0
-DTSTAMP:20250729T171954
+DTSTAMP:20250730T171749
 DTSTART:20250830T191500
 DTEND:20250830T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs Timberwolves Raiders

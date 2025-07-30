@@ -6,9 +6,9 @@ X-WR-CALNAME:Spring Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:1a48a5b9-3d49-4469-af42-7bf0b0f14f8b
+UID:0374a684-b2d4-4421-ac6f-6492b7f5acb2
 SEQUENCE:0
-DTSTAMP:20250729T171955
+DTSTAMP:20250730T171749
 DTSTART:20250802T191500
 DTEND:20250802T200000
 SUMMARY:🏀 U16 Boys: Spring Park Piranhas vs Arax
@@ -17,31 +17,31 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ad842676-042d-4ce6-b52d-0a965f8de6a2
+UID:ad35f52b-9509-427d-ba06-cfb28c70ca1e
 SEQUENCE:0
-DTSTAMP:20250729T171955
-DTSTART:20250809T191500
-DTEND:20250809T200000
-SUMMARY:🏀 U16 Boys: Spring Park Piranhas vs Malvern Tigers Red
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
- n Tigers Red\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:26e26eae-4a21-4776-9e00-24b88dc17229
-SEQUENCE:0
-DTSTAMP:20250729T171955
-DTSTART:20250816T183000
-DTEND:20250816T191500
+DTSTAMP:20250730T171749
+DTSTART:20250809T183000
+DTEND:20250809T191500
 SUMMARY:🏀 U16 Boys: Spring Park Piranhas vs Maccabi Half Court Miracles
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
  i Half Court Miracles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:303e2d01-ca37-43be-ad5d-330fa2729ce1
+UID:b419d5de-311b-45f2-86a4-dd8b74629fe0
 SEQUENCE:0
-DTSTAMP:20250729T171955
+DTSTAMP:20250730T171749
+DTSTART:20250816T191500
+DTEND:20250816T200000
+SUMMARY:🏀 U16 Boys: Spring Park Piranhas vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:14d9c36c-b3f3-4c98-a98d-a7c232f5e440
+SEQUENCE:0
+DTSTAMP:20250730T171749
 DTSTART:20250823T191500
 DTEND:20250823T200000
 SUMMARY:🏀 U16 Boys: Spring Park Piranhas vs Timberwolves Raiders

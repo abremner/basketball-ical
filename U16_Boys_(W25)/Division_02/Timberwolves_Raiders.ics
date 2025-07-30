@@ -6,31 +6,31 @@ X-WR-CALNAME:Timberwolves Raiders Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:7e5cff72-739a-41fc-8645-6b51eb2bf15e
+UID:262a3d9e-06f1-4103-a5a4-ac629b64ac06
 SEQUENCE:0
-DTSTAMP:20250729T171955
-DTSTART:20250809T183000
-DTEND:20250809T191500
-SUMMARY:🏀 U16 Boys: Timberwolves Raiders vs Bailey Reserve Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Bailey
-  Reserve Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:3a9a388a-91a3-4c46-896d-c64d4c0c23cd
-SEQUENCE:0
-DTSTAMP:20250729T171955
-DTSTART:20250816T191500
-DTEND:20250816T200000
+DTSTAMP:20250730T171750
+DTSTART:20250809T191500
+DTEND:20250809T200000
 SUMMARY:🏀 U16 Boys: Timberwolves Raiders vs Arax
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:55a533f1-9173-414d-b254-d5c40286b6c5
+UID:8d5c47ea-6b26-41e8-aa8b-9cb65572e0ed
 SEQUENCE:0
-DTSTAMP:20250729T171955
+DTSTAMP:20250730T171750
+DTSTART:20250816T183000
+DTEND:20250816T191500
+SUMMARY:🏀 U16 Boys: Timberwolves Raiders vs Bailey Reserve Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Bailey
+  Reserve Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7678eb5b-38fa-4453-bc53-3f055e3f246e
+SEQUENCE:0
+DTSTAMP:20250730T171750
 DTSTART:20250823T191500
 DTEND:20250823T200000
 SUMMARY:🏀 U16 Boys: Timberwolves Raiders vs Spring Park Piranhas
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Spring
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:004d03e4-7c5a-4b54-9e06-cd25c84664fa
+UID:cd9f6af5-fe57-4cc2-9df4-89256f6b0c69
 SEQUENCE:0
-DTSTAMP:20250729T171955
+DTSTAMP:20250730T171750
 DTSTART:20250830T191500
 DTEND:20250830T200000
 SUMMARY:🏀 U16 Boys: Timberwolves Raiders vs Malvern Tigers Red
