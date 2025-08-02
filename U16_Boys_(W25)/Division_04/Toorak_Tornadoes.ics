@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Tornadoes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:7f506949-3fc5-4fba-aa8d-a373b39a448c
+UID:a969f161-3ec0-4a1d-ba23-b52d0c5ab0ab
 SEQUENCE:0
-DTSTAMP:20250801T171903
-DTSTART:20250802T183000
-DTEND:20250802T191500
-SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Maccabi Warriors
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
- i Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:cd025d69-921c-485d-82d7-5312ec46b67c
-SEQUENCE:0
-DTSTAMP:20250801T171903
+DTSTAMP:20250802T171458
 DTSTART:20250809T191500
 DTEND:20250809T200000
 SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Timberwolves Magnum
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Magnum\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e7b6fc6d-2b35-4978-ba13-84d53ef3f676
+UID:c6318ef3-7b3f-4f00-9bce-5ae4358bed4b
 SEQUENCE:0
-DTSTAMP:20250801T171903
+DTSTAMP:20250802T171458
 DTSTART:20250816T191500
 DTEND:20250816T200000
 SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Serrell Park Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Serrell
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1acd4f9f-9464-4875-b875-46858de28aeb
+UID:86578740-4f36-474a-b137-d3e10b303858
 SEQUENCE:0
-DTSTAMP:20250801T171903
+DTSTAMP:20250802T171458
 DTSTART:20250823T183000
 DTEND:20250823T191500
 SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Timberwolves Boulders
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Boulders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e43a17b1-c52b-41e0-b5c9-a8ab6729ab8b
+UID:6e5c8616-009e-43e3-9a05-3868315bdd7d
 SEQUENCE:0
-DTSTAMP:20250801T171903
+DTSTAMP:20250802T171458
 DTSTART:20250830T183000
 DTEND:20250830T191500
 SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Ripponlea Piranhas

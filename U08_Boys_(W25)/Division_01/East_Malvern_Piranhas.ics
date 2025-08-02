@@ -6,20 +6,9 @@ X-WR-CALNAME:East Malvern Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:51d3dc60-7dd0-47b0-9bfe-1dbf409d041e
+UID:29d9181c-e9ff-4960-984b-fb5aa57c31b9
 SEQUENCE:0
-DTSTAMP:20250801T171605
-DTSTART:20250802T101500
-DTEND:20250802T110000
-SUMMARY:🏀 U08 Boys: East Malvern Piranhas vs Maccabi Warriors
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
-  Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:f4524352-4753-4a47-9323-280dab120056
-SEQUENCE:0
-DTSTAMP:20250801T171605
+DTSTAMP:20250802T171200
 DTSTART:20250809T101500
 DTEND:20250809T110000
 SUMMARY:🏀 U08 Boys: East Malvern Piranhas vs Maccabi Bucks
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4ef175d7-9d93-47c4-bb1b-22b221a525a3
+UID:c5d07b48-6f6a-4fb8-bef5-d3bd76d8d099
 SEQUENCE:0
-DTSTAMP:20250801T171605
+DTSTAMP:20250802T171200
 DTSTART:20250816T101500
 DTEND:20250816T110000
 SUMMARY:🏀 U08 Boys: East Malvern Piranhas vs AlphaWolf Tigers
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: AlphaWo
  lf Tigers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:786e2505-0565-43cb-8c32-ae970a262392
+UID:1e0b9831-ee6c-4ae7-8baa-87c8781a42e2
 SEQUENCE:0
-DTSTAMP:20250801T171605
+DTSTAMP:20250802T171200
 DTSTART:20250823T101500
 DTEND:20250823T110000
 SUMMARY:🏀 U08 Boys: East Malvern Piranhas vs Ashy Lightning Gold
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
  ghtning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d246b8b9-8774-4091-b5ec-b97bba323b26
+UID:cd1edeaa-99d9-4aeb-8214-8210eb59df7f
 SEQUENCE:0
-DTSTAMP:20250801T171605
+DTSTAMP:20250802T171200
 DTSTART:20250830T101500
 DTEND:20250830T110000
 SUMMARY:🏀 U08 Boys: East Malvern Piranhas vs Solway Colts
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Colts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e80641cf-aa23-4dcf-9de8-32381b1ce85c
+UID:df0b769c-d542-47b3-b325-4e7c3e0ae54e
 SEQUENCE:0
-DTSTAMP:20250801T171605
+DTSTAMP:20250802T171200
 DTSTART:20250906T103000
 DTEND:20250906T111500
 SUMMARY:🏀 U08 Boys: East Malvern Piranhas vs Maccabi Warriors

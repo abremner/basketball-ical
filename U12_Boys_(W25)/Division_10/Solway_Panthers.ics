@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Panthers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:aeae9472-d480-4cee-8cd1-88ca0450cec1
+UID:a8e040a8-0519-4b99-a919-4c34ce37b723
 SEQUENCE:0
-DTSTAMP:20250801T171738
-DTSTART:20250802T114500
-DTEND:20250802T123000
-SUMMARY:🏀 U12 Boys: Solway Panthers vs Toorak Thunder
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
-  Thunder\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:23383bed-f2ab-4c93-af2b-f2d40cbfeae1
-SEQUENCE:0
-DTSTAMP:20250801T171738
+DTSTAMP:20250802T171336
 DTSTART:20250809T123000
 DTEND:20250809T131500
 SUMMARY:🏀 U12 Boys: Solway Panthers vs Comets Cyclones
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Comets
  Cyclones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:aad5c3a7-0871-4259-b654-471c33503b0c
+UID:01245628-6200-4845-8949-87b8cede247e
 SEQUENCE:0
-DTSTAMP:20250801T171738
+DTSTAMP:20250802T171336
 DTSTART:20250816T131500
 DTEND:20250816T140000
 SUMMARY:🏀 U12 Boys: Solway Panthers vs Malvern Tigers Grey
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6b03e97f-f374-4840-9158-ca835c31b70c
+UID:8b1780c0-c0d0-47ba-ac14-ad664b0888f1
 SEQUENCE:0
-DTSTAMP:20250801T171738
+DTSTAMP:20250802T171336
 DTSTART:20250823T114500
 DTEND:20250823T123000
 SUMMARY:🏀 U12 Boys: Solway Panthers vs Toorak Trouble
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Trouble\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:30a3017d-b938-4a4f-b4ac-f5e439b582b7
+UID:0becd28f-8971-43c6-9ac6-8241f042f077
 SEQUENCE:0
-DTSTAMP:20250801T171738
+DTSTAMP:20250802T171336
 DTSTART:20250830T123000
 DTEND:20250830T131500
 SUMMARY:🏀 U12 Boys: Solway Panthers vs Comets Tigers
