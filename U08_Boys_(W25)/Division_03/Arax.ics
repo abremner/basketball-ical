@@ -6,20 +6,9 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9f1d23c4-3e53-4c46-8121-8ad5704be10e
+UID:1be55605-d303-47d9-8ec6-cbafc2c9dc6b
 SEQUENCE:0
-DTSTAMP:20250808T171138
-DTSTART:20250809T080000
-DTEND:20250809T084500
-SUMMARY:🏀 U08 Boys: Arax vs Glen Iris Scorpions Ferndale
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
- is Scorpions Ferndale\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:68eaebf0-7fb6-4865-b5a1-970af28b8bca
-SEQUENCE:0
-DTSTAMP:20250808T171138
+DTSTAMP:20250809T171117
 DTSTART:20250816T080000
 DTEND:20250816T084500
 SUMMARY:🏀 U08 Boys: Arax vs Malvern Tigers Ingles
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Ingles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6cbfa083-ea58-4401-9a73-d400ccf9fde5
+UID:f8423074-1a01-4fe6-bd06-57fe946c5591
 SEQUENCE:0
-DTSTAMP:20250808T171138
+DTSTAMP:20250809T171117
 DTSTART:20250823T080000
 DTEND:20250823T084500
 SUMMARY:🏀 U08 Boys: Arax vs Timberwolves Pythons
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Pythons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9d5dcf7e-72e3-4816-8b5c-b90e80d568f8
+UID:40bfd51d-ebe1-4b02-9b0d-0609db592fc3
 SEQUENCE:0
-DTSTAMP:20250808T171138
+DTSTAMP:20250809T171117
 DTSTART:20250906T080000
 DTEND:20250906T084500
 SUMMARY:🏀 U08 Boys: Arax vs Solway Brumbies

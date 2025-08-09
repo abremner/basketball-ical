@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Toros Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0dcb6017-1634-431c-943b-926ea7c81173
+UID:906df100-61ea-42b4-ac38-7d9740a61c62
 SEQUENCE:0
-DTSTAMP:20250808T171352
-DTSTART:20250809T174500
-DTEND:20250809T183000
-SUMMARY:🏀 U14 Boys: Toorak Toros vs Elsternwick Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Elster
- nwick Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:009edd70-2fcb-4d0b-85e6-f997498189f1
-SEQUENCE:0
-DTSTAMP:20250808T171352
+DTSTAMP:20250809T171311
 DTSTART:20250816T174500
 DTEND:20250816T183000
 SUMMARY:🏀 U14 Boys: Toorak Toros vs Glen Iris Scorpions Ferndale
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ea4917d2-3a2d-4034-89f0-7c8761d8b04f
+UID:edd94f82-7103-4f90-8e79-c12a5ba1bdd2
 SEQUENCE:0
-DTSTAMP:20250808T171352
+DTSTAMP:20250809T171311
 DTSTART:20250823T174500
 DTEND:20250823T183000
 SUMMARY:🏀 U14 Boys: Toorak Toros vs Tennyson Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Tennyso
  n Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0d8fb429-28b4-44fc-8c2d-afa1a8f3ef41
+UID:daa7435f-08f5-4d3e-8646-230eefad10bd
 SEQUENCE:0
-DTSTAMP:20250808T171352
+DTSTAMP:20250809T171311
 DTSTART:20250830T170000
 DTEND:20250830T174500
 SUMMARY:🏀 U14 Boys: Toorak Toros vs Solway Samurais

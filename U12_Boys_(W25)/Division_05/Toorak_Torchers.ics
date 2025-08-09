@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Torchers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b24a32b5-4385-4946-9214-2efcc2a9eafe
+UID:132cec03-e8f2-422e-9ef9-b91500f01653
 SEQUENCE:0
-DTSTAMP:20250808T171303
-DTSTART:20250809T140000
-DTEND:20250809T144500
-SUMMARY:🏀 U12 Boys: Toorak Torchers vs Solway Lions
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
- Lions\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:97cffcf9-9668-4b09-a306-4b77edfe16bf
-SEQUENCE:0
-DTSTAMP:20250808T171303
+DTSTAMP:20250809T171228
 DTSTART:20250816T140000
 DTEND:20250816T144500
 SUMMARY:🏀 U12 Boys: Toorak Torchers vs Malvern Tigers Green
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0e34c6e1-7eca-42bc-96c8-f64231e2f1e6
+UID:ec2fe1bf-3a2c-475b-9b38-239d9944ff2d
 SEQUENCE:0
-DTSTAMP:20250808T171303
+DTSTAMP:20250809T171228
 DTSTART:20250830T140000
 DTEND:20250830T144500
 SUMMARY:🏀 U12 Boys: Toorak Torchers vs Toorak Tigersnakes

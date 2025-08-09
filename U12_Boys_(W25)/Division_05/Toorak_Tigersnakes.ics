@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Tigersnakes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:ddf80ac7-6ab5-4f28-b95f-3d427769b23a
+UID:de949dcb-e94e-4db7-8b3a-9d6cf03e7d03
 SEQUENCE:0
-DTSTAMP:20250808T171302
-DTSTART:20250809T131500
-DTEND:20250809T140000
-SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Malvern Tigers Green
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
- n Tigers Green\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:2706f16b-11ac-4828-96dc-864c21570d8f
-SEQUENCE:0
-DTSTAMP:20250808T171302
+DTSTAMP:20250809T171227
 DTSTART:20250816T131500
 DTEND:20250816T140000
 SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Timberwolves Heat
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Heat\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c6c88307-944e-49ea-b546-ba402da1040c
+UID:19482da7-5004-48bd-99c5-4ad9f893f871
 SEQUENCE:0
-DTSTAMP:20250808T171302
+DTSTAMP:20250809T171227
 DTSTART:20250823T140000
 DTEND:20250823T144500
 SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Solway Lions
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Lions\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0e8107e5-f7eb-441e-8cf1-62fd7aa86365
+UID:e916cbf5-73d5-4031-bfb1-4185dfda55b5
 SEQUENCE:0
-DTSTAMP:20250808T171302
+DTSTAMP:20250809T171227
 DTSTART:20250830T140000
 DTEND:20250830T144500
 SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Toorak Torchers

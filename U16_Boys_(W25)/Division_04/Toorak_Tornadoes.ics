@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Tornadoes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9fd15105-c581-4974-8a72-23ddf6795b98
+UID:8986754b-5463-4520-b13e-23bcdf76b9f4
 SEQUENCE:0
-DTSTAMP:20250808T171445
-DTSTART:20250809T191500
-DTEND:20250809T200000
-SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Timberwolves Magnum
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
- olves Magnum\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:eb16f409-50c3-4000-a406-f35e595e4a52
-SEQUENCE:0
-DTSTAMP:20250808T171445
+DTSTAMP:20250809T171357
 DTSTART:20250816T191500
 DTEND:20250816T200000
 SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Serrell Park Piranhas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Serrell
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ca10f8a1-316a-483d-8b78-7e200aec7d5a
+UID:4334e32f-1b0e-476d-9de2-d722e16e69e7
 SEQUENCE:0
-DTSTAMP:20250808T171445
+DTSTAMP:20250809T171357
 DTSTART:20250823T183000
 DTEND:20250823T191500
 SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Timberwolves Boulders
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Boulders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d5fa896f-49f7-47e3-a319-87cadac93886
+UID:cf95feb9-ca2b-44f4-88ce-222542c5c5a3
 SEQUENCE:0
-DTSTAMP:20250808T171445
+DTSTAMP:20250809T171357
 DTSTART:20250830T183000
 DTEND:20250830T191500
 SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Ripponlea Piranhas

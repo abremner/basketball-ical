@@ -6,20 +6,9 @@ X-WR-CALNAME:Comets Snake Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:dcf7b46d-0f95-4c7f-bc32-508f7fed057f
+UID:2a4be128-e313-454d-9197-6e3e14929f8e
 SEQUENCE:0
-DTSTAMP:20250808T171219
-DTSTART:20250809T084500
-DTEND:20250809T093000
-SUMMARY:🏀 U10 Boys: Comets Snake vs Timberwolves Bucks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
- wolves Bucks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:11b6bbd5-a6c0-4981-b6bd-4da073339751
-SEQUENCE:0
-DTSTAMP:20250808T171219
+DTSTAMP:20250809T171151
 DTSTART:20250816T110000
 DTEND:20250816T114500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Timberwolves Lightning
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Lightning\nArriv
  e 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4bac692f-0781-417b-8076-e2673ed81613
+UID:3f99e8bc-2d11-422b-8598-ab6d2c8fe192
 SEQUENCE:0
-DTSTAMP:20250808T171219
+DTSTAMP:20250809T171151
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Toorak Thunderbolts
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Toorak
  Thunderbolts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:edafc2b1-ad6b-483d-b104-08e6a8496725
+UID:d5a6d5fd-1b14-49de-8b63-86318768cf5b
 SEQUENCE:0
-DTSTAMP:20250808T171219
+DTSTAMP:20250809T171151
 DTSTART:20250830T084500
 DTEND:20250830T093000
 SUMMARY:🏀 U10 Boys: Comets Snake vs Glen Iris Scorpions Raven

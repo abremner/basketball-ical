@@ -6,20 +6,9 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:aab587a5-636b-4fde-bc7f-823c99b2a7f8
+UID:c49a263a-ebb3-48f7-9bb2-e30e69db0afb
 SEQUENCE:0
-DTSTAMP:20250808T171344
-DTSTART:20250809T131500
-DTEND:20250809T140000
-SUMMARY:🏀 U12 Girls: Arax vs Maccabi Falcons
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
- i Falcons\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:19a321e9-6f1b-4dc5-904f-8c25c1489d43
-SEQUENCE:0
-DTSTAMP:20250808T171344
+DTSTAMP:20250809T171304
 DTSTART:20250823T131500
 DTEND:20250823T140000
 SUMMARY:🏀 U12 Girls: Arax vs Lauriston Suns
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Lauris
  ton Suns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1d11b8a7-026d-43a8-a14f-c00993135c8f
+UID:58b36eaa-942b-454d-97bf-a2ac6d5effac
 SEQUENCE:0
-DTSTAMP:20250808T171344
+DTSTAMP:20250809T171304
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U12 Girls: Arax vs Creswick Piranhas

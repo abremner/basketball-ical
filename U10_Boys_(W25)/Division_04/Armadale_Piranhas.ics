@@ -6,20 +6,9 @@ X-WR-CALNAME:Armadale Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:67f6af7e-4c8a-4029-89a7-cfc41265d954
+UID:03b70a80-b7c2-4434-ba76-e041e5a065bb
 SEQUENCE:0
-DTSTAMP:20250808T171207
-DTSTART:20250809T110000
-DTEND:20250809T114500
-SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Solway Lakers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
-  Lakers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5c152555-a7e4-4cb2-a04d-e28675d28be2
-SEQUENCE:0
-DTSTAMP:20250808T171207
+DTSTAMP:20250809T171140
 DTSTART:20250816T093000
 DTEND:20250816T101500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Arax
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e17600a8-7e1d-4fd5-a8c5-60d4f60f8832
+UID:983eb695-aa71-408f-ae48-c1aa1bc78867
 SEQUENCE:0
-DTSTAMP:20250808T171207
+DTSTAMP:20250809T171140
 DTSTART:20250823T093000
 DTEND:20250823T101500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Maccabi Celtics
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:eeac9dac-b43b-4de5-af2b-eff3d1d768f3
+UID:c6804bcd-d5e5-42a0-9632-bc1216453b09
 SEQUENCE:0
-DTSTAMP:20250808T171207
+DTSTAMP:20250809T171140
 DTSTART:20250830T110000
 DTEND:20250830T114500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Malvern Tigers Green
