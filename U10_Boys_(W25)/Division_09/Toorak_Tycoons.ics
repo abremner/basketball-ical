@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Tycoons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:7a9d570d-1716-4903-a93f-a265b209c425
+UID:55ea5ae3-8ffb-4dcc-a934-3fd7da011d32
 SEQUENCE:0
-DTSTAMP:20250815T171238
-DTSTART:20250816T080000
-DTEND:20250816T084500
-SUMMARY:🏀 U10 Boys: Toorak Tycoons vs Golden Hawks Iron
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Golden
-  Hawks Iron\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:b86be45d-9a73-4a23-9408-364edc4883a6
-SEQUENCE:0
-DTSTAMP:20250815T171238
+DTSTAMP:20250816T171124
 DTSTART:20250823T084500
 DTEND:20250823T093000
 SUMMARY:🏀 U10 Boys: Toorak Tycoons vs Hawksburn Piranhas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Hawksb
  urn Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ba05414e-bc62-4716-ab75-26f44f191538
+UID:27ab97ba-fee0-4701-b284-ab1db4c3544b
 SEQUENCE:0
-DTSTAMP:20250815T171238
+DTSTAMP:20250816T171124
 DTSTART:20250830T101500
 DTEND:20250830T110000
 SUMMARY:🏀 U10 Boys: Toorak Tycoons vs Maccabi Hawks

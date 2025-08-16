@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Meteors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2281f096-b37f-4d6b-8408-ecb119aebd8b
+UID:f12bdf84-c3db-4f1f-9748-d9eb66d0cfb6
 SEQUENCE:0
-DTSTAMP:20250815T171205
-DTSTART:20250816T093000
-DTEND:20250816T101500
-SUMMARY:🏀 U08 Girls: Solway Meteors vs Warley Piranhas
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Warley Pira
- nhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:60be46d3-b18c-40d0-8a0a-39eb79db9a55
-SEQUENCE:0
-DTSTAMP:20250815T171205
+DTSTAMP:20250816T171058
 DTSTART:20250823T093000
 DTEND:20250823T101500
 SUMMARY:🏀 U08 Girls: Solway Meteors vs Maccabi Celtics
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Cel
  tics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0ef8b52a-a6fd-4dd5-8175-17b915fc0142
+UID:085057c3-9c21-4af6-af13-605bc9b4898e
 SEQUENCE:0
-DTSTAMP:20250815T171205
+DTSTAMP:20250816T171058
 DTSTART:20250830T093000
 DTEND:20250830T101500
 SUMMARY:🏀 U08 Girls: Solway Meteors vs Maccabi Warriors

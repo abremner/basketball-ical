@@ -6,20 +6,9 @@ X-WR-CALNAME:Aintree Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f49dbe8e-81a5-4c84-b1a3-5fb51a17073b
+UID:33562be7-0a3f-4a80-a73b-1752eb5ce139
 SEQUENCE:0
-DTSTAMP:20250815T171347
-DTSTART:20250816T140000
-DTEND:20250816T144500
-SUMMARY:🏀 U12 Girls: Aintree Piranhas vs Maccabi Bucks
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
-  Bucks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:dd0c6224-4d20-4f8a-a79c-1df93db885f7
-SEQUENCE:0
-DTSTAMP:20250815T171347
+DTSTAMP:20250816T171221
 DTSTART:20250823T144500
 DTEND:20250823T153000
 SUMMARY:🏀 U12 Girls: Aintree Piranhas vs Lauriston Sparks
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston S
  parks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:693445be-c4d8-4c57-85bc-f9c18317cd29
+UID:b1443b4b-6ef7-4a04-9736-bea977626108
 SEQUENCE:0
-DTSTAMP:20250815T171347
+DTSTAMP:20250816T171221
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U12 Girls: Aintree Piranhas vs Toorak Talons

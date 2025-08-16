@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Giants Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0a994a1f-1739-4904-b14b-185dd5a1ac1b
+UID:81ec5a54-90fd-47bb-822f-e6b5eebce920
 SEQUENCE:0
-DTSTAMP:20250815T171426
-DTSTART:20250816T161500
-DTEND:20250816T170000
-SUMMARY:🏀 U14 Boys: Maccabi Giants vs Golden Hawks Iron
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Golden
-  Hawks Iron\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:86447230-b774-41e3-96ff-4beb6dbc8af5
-SEQUENCE:0
-DTSTAMP:20250815T171426
+DTSTAMP:20250816T171255
 DTSTART:20250823T161500
 DTEND:20250823T170000
 SUMMARY:🏀 U14 Boys: Maccabi Giants vs Maccabi Falcons
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fe481bfc-96a4-4b4c-864d-3ffd09214822
+UID:eddff6c6-3d0a-47dc-a4e3-0b7a401c7f95
 SEQUENCE:0
-DTSTAMP:20250815T171426
+DTSTAMP:20250816T171255
 DTSTART:20250830T153000
 DTEND:20250830T161500
 SUMMARY:🏀 U14 Boys: Maccabi Giants vs Timberwolves Raptors

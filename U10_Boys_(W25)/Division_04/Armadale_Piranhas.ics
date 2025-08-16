@@ -6,20 +6,9 @@ X-WR-CALNAME:Armadale Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:6e825306-21b9-44f2-ab43-8aa32169ab93
+UID:55bcb0ea-9eeb-4a73-b644-ee72b1f6849d
 SEQUENCE:0
-DTSTAMP:20250815T171216
-DTSTART:20250816T093000
-DTEND:20250816T101500
-SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Arax
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Arax\n
- Arrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:ad51ba82-b632-4826-b1a1-7fd2edc08480
-SEQUENCE:0
-DTSTAMP:20250815T171216
+DTSTAMP:20250816T171108
 DTSTART:20250823T093000
 DTEND:20250823T101500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Maccabi Celtics
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:785cc1bd-f5ba-4416-b8d1-06522dfadfd9
+UID:cecd6052-7851-44f3-93e5-cd4d1b281938
 SEQUENCE:0
-DTSTAMP:20250815T171216
+DTSTAMP:20250816T171108
 DTSTART:20250830T110000
 DTEND:20250830T114500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Malvern Tigers Green

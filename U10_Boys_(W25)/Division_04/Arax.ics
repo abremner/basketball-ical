@@ -6,20 +6,9 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:446a5a45-e08d-49b6-b13a-43424414ccc3
+UID:d5614b8d-8a20-4ead-baf1-1e81b45b5f64
 SEQUENCE:0
-DTSTAMP:20250815T171215
-DTSTART:20250816T093000
-DTEND:20250816T101500
-SUMMARY:🏀 U10 Boys: Arax vs Armadale Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Armada
- le Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:b22aba2a-42c2-4039-b86b-42b1ff198bd5
-SEQUENCE:0
-DTSTAMP:20250815T171215
+DTSTAMP:20250816T171107
 DTSTART:20250823T131500
 DTEND:20250823T140000
 SUMMARY:🏀 U10 Boys: Arax vs Glen Iris Scorpions Ferndale
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fdae94f5-6397-4d4f-ae21-cda1c1f5d1cd
+UID:2570094e-4901-4317-a2c8-e81234e6a0ea
 SEQUENCE:0
-DTSTAMP:20250815T171215
+DTSTAMP:20250816T171107
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U10 Boys: Arax vs Maccabi Celtics

@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:135492b3-443a-41b9-91af-3ba60cc78414
+UID:cfe6ffe9-b6b2-4bf5-ad0b-22ed10fbbabe
 SEQUENCE:0
-DTSTAMP:20250815T171226
-DTSTART:20250816T101500
-DTEND:20250816T110000
-SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Penpraze Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Penpra
- ze Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:8586c91c-c3cb-4164-8214-e4a51547520e
-SEQUENCE:0
-DTSTAMP:20250815T171226
+DTSTAMP:20250816T171114
 DTSTART:20250823T101500
 DTEND:20250823T110000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Toorak Torpedoes
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Torpedoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c72ef3ee-0fa6-428d-baa1-a2a82f637351
+UID:a6efed70-5e08-4aca-84ec-ab018ff473cd
 SEQUENCE:0
-DTSTAMP:20250815T171226
+DTSTAMP:20250816T171114
 DTSTART:20250830T101500
 DTEND:20250830T110000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Glen Iris Scorpions Nettleton

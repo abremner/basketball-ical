@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:4f0562a8-5876-4041-9193-2295d72d88cb
+UID:6eaeb502-ee74-48e9-a4fa-b2bc0700d919
 SEQUENCE:0
-DTSTAMP:20250815T171209
-DTSTART:20250816T123000
-DTEND:20250816T131500
-SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Toorak Tigercats
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
-  Tigercats\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:740b52a1-4f0d-4cc0-909e-f2f76c981fd1
-SEQUENCE:0
-DTSTAMP:20250815T171209
+DTSTAMP:20250816T171102
 DTSTART:20250823T110000
 DTEND:20250823T114500
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs AlphaWolf Dragons
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AlphaW
  olf Dragons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ce102015-6b28-4fa5-bf04-00919599c9ca
+UID:fa5663fc-4c3e-45d5-a155-5a89c686d41b
 SEQUENCE:0
-DTSTAMP:20250815T171209
+DTSTAMP:20250816T171102
 DTSTART:20250830T123000
 DTEND:20250830T131500
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Solway Boomers

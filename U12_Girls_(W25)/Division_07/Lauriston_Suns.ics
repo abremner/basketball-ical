@@ -6,20 +6,9 @@ X-WR-CALNAME:Lauriston Suns Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:bdb9aa97-a68a-40fa-9158-d24571a7eb48
+UID:0f5f0be0-dd94-495c-9b97-e25716a03740
 SEQUENCE:0
-DTSTAMP:20250815T171359
-DTSTART:20250816T140000
-DTEND:20250816T144500
-SUMMARY:🏀 U12 Girls: Lauriston Suns vs Creswick Piranhas
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Creswick Pi
- ranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:3134978c-0f59-45ac-9fad-fa1d674efd4d
-SEQUENCE:0
-DTSTAMP:20250815T171359
+DTSTAMP:20250816T171231
 DTSTART:20250823T131500
 DTEND:20250823T140000
 SUMMARY:🏀 U12 Girls: Lauriston Suns vs Arax
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:48fc1a6f-c3bb-42c8-bafa-9834c46c937d
+UID:5c5a7088-d2af-4027-81d5-78ece7ce472a
 SEQUENCE:0
-DTSTAMP:20250815T171359
+DTSTAMP:20250816T171231
 DTSTART:20250830T140000
 DTEND:20250830T144500
 SUMMARY:🏀 U12 Girls: Lauriston Suns vs Maccabi Falcons

@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Trackers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:5d1888c6-e1d7-43ff-8eb5-84acd5c08e48
+UID:2199df71-f93d-45b6-b6d5-2b8fdd88e37f
 SEQUENCE:0
-DTSTAMP:20250815T171456
-DTSTART:20250816T191500
-DTEND:20250816T200000
-SUMMARY:🏀 U16 Boys: Toorak Trackers vs Timberwolves Taipans
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
- wolves Taipans\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:7c429af6-bdbd-4630-b656-2fc0e481cc5b
-SEQUENCE:0
-DTSTAMP:20250815T171456
+DTSTAMP:20250816T171320
 DTSTART:20250823T183000
 DTEND:20250823T191500
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Solway Slammers
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Slammers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7bea34ea-5918-49ef-b7d2-b1c61d40ff0d
+UID:b5411328-5063-4b31-b873-60f52cd81003
 SEQUENCE:0
-DTSTAMP:20250815T171456
+DTSTAMP:20250816T171320
 DTSTART:20250830T183000
 DTEND:20250830T191500
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Timberwolves Cats

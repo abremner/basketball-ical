@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Tigercats Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:31bcccd5-7515-4157-8095-214eadf78a49
+UID:240e3e62-7d9d-46d0-a4cf-a0df80ccc84a
 SEQUENCE:0
-DTSTAMP:20250815T171212
-DTSTART:20250816T123000
-DTEND:20250816T131500
-SUMMARY:🏀 U10 Boys: Toorak Tigercats vs Maccabi Warriors
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
- i Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:fd98df59-233e-41c2-81b3-83db1ad899dc
-SEQUENCE:0
-DTSTAMP:20250815T171212
+DTSTAMP:20250816T171104
 DTSTART:20250823T114500
 DTEND:20250823T123000
 SUMMARY:🏀 U10 Boys: Toorak Tigercats vs Malvern Tigers Red
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3af5d0c2-f5a0-42dd-a5b0-f027d994b8cc
+UID:30da7af5-daf1-420e-b219-944f8e8a8fee
 SEQUENCE:0
-DTSTAMP:20250815T171212
+DTSTAMP:20250816T171104
 DTSTART:20250830T110000
 DTEND:20250830T114500
 SUMMARY:🏀 U10 Boys: Toorak Tigercats vs Malvern Tigers Black

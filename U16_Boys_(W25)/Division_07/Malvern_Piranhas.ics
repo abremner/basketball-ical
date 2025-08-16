@@ -6,20 +6,9 @@ X-WR-CALNAME:Malvern Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d3c80049-d367-4a7f-b783-5e8f0a13d08d
+UID:afc3c1d3-5631-4faf-8c53-b736cae3a9fb
 SEQUENCE:0
-DTSTAMP:20250815T171507
-DTSTART:20250816T174500
-DTEND:20250816T183000
-SUMMARY:🏀 U16 Boys: Malvern Piranhas vs Solway Heat
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
- Heat\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:2345003b-322f-4bf8-b0ac-078cf9afab8b
-SEQUENCE:0
-DTSTAMP:20250815T171507
+DTSTAMP:20250816T171329
 DTSTART:20250823T174500
 DTEND:20250823T183000
 SUMMARY:🏀 U16 Boys: Malvern Piranhas vs Malvern Tigers Orange
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cacec8be-2f24-4f23-8d2b-c9dfa799ebc6
+UID:8a0283b5-87aa-4f67-a8c1-704ec57b74e5
 SEQUENCE:0
-DTSTAMP:20250815T171507
+DTSTAMP:20250816T171329
 DTSTART:20250830T183000
 DTEND:20250830T191500
 SUMMARY:🏀 U16 Boys: Malvern Piranhas vs Maccabi Celtics

@@ -6,20 +6,9 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:4d9c4bf5-6c2e-40db-849c-dea4650913a0
+UID:b8a3f884-0a58-4c3e-9a02-daec7929ccd3
 SEQUENCE:0
-DTSTAMP:20250815T171422
-DTSTART:20250816T131500
-DTEND:20250816T140000
-SUMMARY:🏀 U14 Boys: Arax vs Glen Iris Scorpions Summerhill
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
- ris Scorpions Summerhill\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:922fcc60-e4de-4d37-9856-ddbcdc5075fc
-SEQUENCE:0
-DTSTAMP:20250815T171422
+DTSTAMP:20250816T171251
 DTSTART:20250823T131500
 DTEND:20250823T140000
 SUMMARY:🏀 U14 Boys: Arax vs Solway Mavericks
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Mavericks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2f41fe15-25b6-440d-86ea-f79785933612
+UID:2ea392ba-0ec8-4702-853f-334d5eabd3c1
 SEQUENCE:0
-DTSTAMP:20250815T171422
+DTSTAMP:20250816T171251
 DTSTART:20250830T131500
 DTEND:20250830T140000
 SUMMARY:🏀 U14 Boys: Arax vs Malvern Tigers Purple

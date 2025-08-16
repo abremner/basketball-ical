@@ -6,20 +6,9 @@ X-WR-CALNAME:Comets Cyclones Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:8eee44b6-93e5-4663-85b2-4b43e2b6bf81
+UID:0c097648-1b1c-4238-99ea-b3ee60feff5c
 SEQUENCE:0
-DTSTAMP:20250815T171328
-DTSTART:20250816T123000
-DTEND:20250816T131500
-SUMMARY:🏀 U12 Boys: Comets Cyclones vs Comets Tigers
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Comets 
- Tigers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:a2316bf0-1edc-4a78-9c66-c5a425cc9394
-SEQUENCE:0
-DTSTAMP:20250815T171328
+DTSTAMP:20250816T171205
 DTSTART:20250823T123000
 DTEND:20250823T131500
 SUMMARY:🏀 U12 Boys: Comets Cyclones vs Toorak Thunder
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak
  Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5cbac358-86cc-41bb-ad26-a8a6d0c2e52e
+UID:e23fde1c-84a4-4fc7-9893-36f2e9c6c912
 SEQUENCE:0
-DTSTAMP:20250815T171328
+DTSTAMP:20250816T171205
 DTSTART:20250830T114500
 DTEND:20250830T123000
 SUMMARY:🏀 U12 Boys: Comets Cyclones vs Stonnington Piranhas

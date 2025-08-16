@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Tornadoes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:273b390f-a5d6-4559-9d66-2643c45150f0
+UID:e044c1d0-e12d-4c55-a58f-4594af51849f
 SEQUENCE:0
-DTSTAMP:20250815T171500
-DTSTART:20250816T191500
-DTEND:20250816T200000
-SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Serrell Park Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Serrell
-  Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:bf7d8727-0d61-4214-a7d8-f81889741c49
-SEQUENCE:0
-DTSTAMP:20250815T171500
+DTSTAMP:20250816T171323
 DTSTART:20250823T183000
 DTEND:20250823T191500
 SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Timberwolves Boulders
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Boulders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:75763506-7f44-4e46-98a9-b406cc3e9a19
+UID:32f7adc3-87ac-48f4-ad8b-79bd77e6773d
 SEQUENCE:0
-DTSTAMP:20250815T171500
+DTSTAMP:20250816T171323
 DTSTART:20250830T183000
 DTEND:20250830T191500
 SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Ripponlea Piranhas
