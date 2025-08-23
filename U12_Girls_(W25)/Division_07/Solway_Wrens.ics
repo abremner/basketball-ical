@@ -5,15 +5,4 @@ NAME:Solway Wrens Fixtures
 X-WR-CALNAME:Solway Wrens Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:424f9794-e602-4a76-a557-33390747f16a
-SEQUENCE:0
-DTSTAMP:20250822T171336
-DTSTART:20250823T140000
-DTEND:20250823T144500
-SUMMARY:🏀 U12 Girls: Solway Wrens vs Creswick Piranhas
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Creswick Pi
- ranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

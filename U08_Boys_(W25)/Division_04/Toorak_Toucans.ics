@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Toucans Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c2c43ea3-95b9-4ce7-8dc1-49d7d807344c
+UID:99e9c847-9762-48d8-8a20-ee78ea5807e1
 SEQUENCE:0
-DTSTAMP:20250822T171148
-DTSTART:20250823T093000
-DTEND:20250823T101500
-SUMMARY:🏀 U08 Boys: Toorak Toucans vs Maccabi Celtics
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
-  Celtics\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:f8655639-81f1-4efb-99f9-0c31cbc4930d
-SEQUENCE:0
-DTSTAMP:20250822T171148
+DTSTAMP:20250823T171014
 DTSTART:20250830T084500
 DTEND:20250830T093000
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Burnley Park Piranhas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Burnley
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:31cf69e0-8b35-41d6-9805-e88b9e8ae5ae
+UID:5048560c-7c7b-45ef-8217-47c5e524163a
 SEQUENCE:0
-DTSTAMP:20250822T171148
+DTSTAMP:20250823T171014
 DTSTART:20250906T085000
 DTEND:20250906T093500
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Solway Mustangs

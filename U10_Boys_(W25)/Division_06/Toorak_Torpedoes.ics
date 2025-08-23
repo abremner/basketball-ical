@@ -5,15 +5,4 @@ NAME:Toorak Torpedoes Fixtures
 X-WR-CALNAME:Toorak Torpedoes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:b5444050-c2c1-46b9-9d13-59f6ae824066
-SEQUENCE:0
-DTSTAMP:20250822T171214
-DTSTART:20250823T101500
-DTEND:20250823T110000
-SUMMARY:🏀 U10 Boys: Toorak Torpedoes vs Maccabi Ducks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
- i Ducks\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

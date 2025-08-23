@@ -5,15 +5,4 @@ NAME:Korowa Grey Fixtures
 X-WR-CALNAME:Korowa Grey Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:3f780bd8-62d2-4f35-be6b-6f5679fd2ce7
-SEQUENCE:0
-DTSTAMP:20250822T171242
-DTSTART:20250823T084500
-DTEND:20250823T093000
-SUMMARY:🏀 U10 Girls: Korowa Grey vs Timberwolves Gems
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
- wolves Gems\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR
