@@ -5,15 +5,4 @@ NAME:Solway Stellars Fixtures
 X-WR-CALNAME:Solway Stellars Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:227e4d65-f7ad-4ef1-9fce-30d5ff741e5f
-SEQUENCE:0
-DTSTAMP:20250825T171350
-DTSTART:20250826T191500
-DTEND:20250826T200000
-SUMMARY:🏀 U18 Girls: Solway Stellars vs Glen Iris Scorpions Suns
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
- ris Scorpions Suns\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

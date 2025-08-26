@@ -5,15 +5,4 @@ NAME:Solway Phoenix Fixtures
 X-WR-CALNAME:Solway Phoenix Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:8aafb3d2-1d02-4396-b22d-4eece3db8aaf
-SEQUENCE:0
-DTSTAMP:20250825T171331
-DTSTART:20250826T183000
-DTEND:20250826T191500
-SUMMARY:🏀 U16 Girls: Solway Phoenix vs Solway Demons
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
-  Demons\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

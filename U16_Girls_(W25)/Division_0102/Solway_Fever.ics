@@ -5,15 +5,4 @@ NAME:Solway Fever Fixtures
 X-WR-CALNAME:Solway Fever Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:889be8e5-8a2d-4ce3-8f08-1c2b2b74b893
-SEQUENCE:0
-DTSTAMP:20250825T171328
-DTSTART:20250826T183000
-DTEND:20250826T191500
-SUMMARY:🏀 U16 Girls: Solway Fever vs Finch Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Finch 
- Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR
