@@ -5,4 +5,15 @@ NAME:Malvern Tigers Black Fixtures
 X-WR-CALNAME:Malvern Tigers Black Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c011a96d-1a63-4169-8840-9363abcaff1c
+SEQUENCE:0
+DTSTAMP:20250827T171525
+DTSTART:20250902T194000
+DTEND:20250902T202500
+SUMMARY:🏀 U21 Womens: Malvern Tigers Black vs Solway Dream
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Dream\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

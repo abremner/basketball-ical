@@ -5,4 +5,15 @@ NAME:Timberwolves Panthers Fixtures
 X-WR-CALNAME:Timberwolves Panthers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a1f65e93-1fef-4120-a2d8-73e297c9e202
+SEQUENCE:0
+DTSTAMP:20250827T171515
+DTSTART:20250902T194000
+DTEND:20250902T202500
+SUMMARY:🏀 U18 Girls: Timberwolves Panthers vs Toorak Trailblazers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Trailblazers\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

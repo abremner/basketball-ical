@@ -5,4 +5,15 @@ NAME:Timberwolves Cheetahs Fixtures
 X-WR-CALNAME:Timberwolves Cheetahs Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:11a5f2da-def3-4316-8dd9-c5606286d531
+SEQUENCE:0
+DTSTAMP:20250827T171518
+DTSTART:20250902T194000
+DTEND:20250902T202500
+SUMMARY:🏀 U18 Girls: Timberwolves Cheetahs vs Glen Iris Scorpions Suns
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
+ ris Scorpions Suns\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

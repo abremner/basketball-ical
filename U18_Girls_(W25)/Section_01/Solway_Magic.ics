@@ -5,4 +5,15 @@ NAME:Solway Magic Fixtures
 X-WR-CALNAME:Solway Magic Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1b8024d2-bf3c-4577-8246-72f3c180e314
+SEQUENCE:0
+DTSTAMP:20250827T171514
+DTSTART:20250902T185000
+DTEND:20250902T193500
+SUMMARY:🏀 U18 Girls: Solway Magic vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

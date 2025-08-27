@@ -5,4 +5,15 @@ NAME:Malvern Tigers Wallace Fixtures
 X-WR-CALNAME:Malvern Tigers Wallace Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:32aa0005-c3e9-497b-807c-111792999475
+SEQUENCE:0
+DTSTAMP:20250827T171454
+DTSTART:20250902T180000
+DTEND:20250902T184500
+SUMMARY:🏀 U16 Girls: Malvern Tigers Wallace vs Timberwolves Emeralds
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Emeralds\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

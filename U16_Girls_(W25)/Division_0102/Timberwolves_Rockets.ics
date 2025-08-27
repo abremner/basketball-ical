@@ -5,4 +5,15 @@ NAME:Timberwolves Rockets Fixtures
 X-WR-CALNAME:Timberwolves Rockets Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ab9d8a91-c38f-499b-850f-14042710d4a4
+SEQUENCE:0
+DTSTAMP:20250827T171453
+DTSTART:20250902T180000
+DTEND:20250902T184500
+SUMMARY:🏀 U16 Girls: Timberwolves Rockets vs Solway Fever
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Fever\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

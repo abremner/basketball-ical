@@ -5,4 +5,15 @@ NAME:Malvern Tigers Tolo Fixtures
 X-WR-CALNAME:Malvern Tigers Tolo Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c912c2b3-c3b4-436d-b552-457b465daeea
+SEQUENCE:0
+DTSTAMP:20250827T171452
+DTSTART:20250902T185000
+DTEND:20250902T193500
+SUMMARY:🏀 U16 Girls: Malvern Tigers Tolo vs Glen Iris Scorpions Sixers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
+ ris Scorpions Sixers\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR
