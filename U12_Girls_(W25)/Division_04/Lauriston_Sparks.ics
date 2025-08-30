@@ -5,15 +5,4 @@ NAME:Lauriston Sparks Fixtures
 X-WR-CALNAME:Lauriston Sparks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:79b633d2-5655-4034-9109-acf876c4f2e9
-SEQUENCE:0
-DTSTAMP:20250829T171248
-DTSTART:20250830T144500
-DTEND:20250830T153000
-SUMMARY:🏀 U12 Girls: Lauriston Sparks vs Timberwolves Thunder
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Timberwolve
- s Thunder\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

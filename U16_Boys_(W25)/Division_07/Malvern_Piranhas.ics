@@ -5,15 +5,4 @@ NAME:Malvern Piranhas Fixtures
 X-WR-CALNAME:Malvern Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:f4a6b96a-f381-4eb1-8147-1cd69e32db10
-SEQUENCE:0
-DTSTAMP:20250829T171358
-DTSTART:20250830T183000
-DTEND:20250830T191500
-SUMMARY:🏀 U16 Boys: Malvern Piranhas vs Maccabi Celtics
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
-  Celtics\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

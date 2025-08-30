@@ -5,15 +5,4 @@ NAME:Solway Finches Fixtures
 X-WR-CALNAME:Solway Finches Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:7938f9a5-b2dd-47da-9115-0bedb8548d65
-SEQUENCE:0
-DTSTAMP:20250829T171243
-DTSTART:20250830T140000
-DTEND:20250830T144500
-SUMMARY:🏀 U12 Girls: Solway Finches vs Malvern Tigers Taylor
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
- n Tigers Taylor\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

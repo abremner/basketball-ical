@@ -5,15 +5,4 @@ NAME:Maccabi Celtics Fixtures
 X-WR-CALNAME:Maccabi Celtics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:9bd586f8-e3f6-4697-8f29-d581b9187f42
-SEQUENCE:0
-DTSTAMP:20250829T171311
-DTSTART:20250830T161500
-DTEND:20250830T170000
-SUMMARY:🏀 U14 Boys: Maccabi Celtics vs Solway Warriors
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
-  Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,4 @@ NAME:Maccabi Warriors Fixtures
 X-WR-CALNAME:Maccabi Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:c5aa068b-504a-4b25-bc92-6ac9407e1577
-SEQUENCE:0
-DTSTAMP:20250829T171326
-DTSTART:20250830T174500
-DTEND:20250830T183000
-SUMMARY:🏀 U14 Girls: Maccabi Warriors vs Timberwolves Comets
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
- wolves Comets\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

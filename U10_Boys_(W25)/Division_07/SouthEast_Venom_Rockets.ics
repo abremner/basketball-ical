@@ -5,15 +5,4 @@ NAME:SouthEast Venom Rockets Fixtures
 X-WR-CALNAME:SouthEast Venom Rockets Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:31361787-6cda-496c-a71f-cbcb76c0ed1d
-SEQUENCE:0
-DTSTAMP:20250829T171142
-DTSTART:20250830T093000
-DTEND:20250830T101500
-SUMMARY:🏀 U10 Boys: SouthEast Venom Rockets vs Orrong Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Orrong
-  Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

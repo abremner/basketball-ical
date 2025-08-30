@@ -5,15 +5,4 @@ NAME:AlphaWolf Legends Fixtures
 X-WR-CALNAME:AlphaWolf Legends Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:806ca8c4-2868-48a5-85f3-1220734bf4a6
-SEQUENCE:0
-DTSTAMP:20250829T171217
-DTSTART:20250830T140000
-DTEND:20250830T144500
-SUMMARY:🏀 U12 Boys: AlphaWolf Legends vs Maccabi Celtics
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
- i Celtics\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

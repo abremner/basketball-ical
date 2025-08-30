@@ -5,15 +5,4 @@ NAME:Maccabi Kings Fixtures
 X-WR-CALNAME:Maccabi Kings Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:420b9d7d-cf34-49a1-b57f-678f8f75e9c9
-SEQUENCE:0
-DTSTAMP:20250829T171237
-DTSTART:20250830T123000
-DTEND:20250830T131500
-SUMMARY:🏀 U12 Boys: Maccabi Kings vs Solway Crocodiles
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
- Crocodiles\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

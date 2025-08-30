@@ -5,15 +5,4 @@ NAME:Korowa Cherry Fixtures
 X-WR-CALNAME:Korowa Cherry Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:0bfc33dc-8cb7-4222-b938-1ee84cb8da65
-SEQUENCE:0
-DTSTAMP:20250829T171155
-DTSTART:20250830T123000
-DTEND:20250830T131500
-SUMMARY:🏀 U10 Girls: Korowa Cherry vs Malvern Tigers Black
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
- n Tigers Black\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

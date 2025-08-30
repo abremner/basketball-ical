@@ -5,15 +5,4 @@ NAME:Maccabi Giants Fixtures
 X-WR-CALNAME:Maccabi Giants Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:6ce9d44b-a0f0-4006-b5d8-b29de1108f30
-SEQUENCE:0
-DTSTAMP:20250829T171322
-DTSTART:20250830T153000
-DTEND:20250830T161500
-SUMMARY:🏀 U14 Boys: Maccabi Giants vs Timberwolves Raptors
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
- wolves Raptors\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,4 @@ NAME:Toorak Tangos Fixtures
 X-WR-CALNAME:Toorak Tangos Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:6e9cd693-f3df-4195-b802-ffee6d401447
-SEQUENCE:0
-DTSTAMP:20250829T171200
-DTSTART:20250830T101500
-DTEND:20250830T110000
-SUMMARY:🏀 U10 Girls: Toorak Tangos vs Maccabi Warriors
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
- i Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

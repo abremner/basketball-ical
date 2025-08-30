@@ -5,15 +5,4 @@ NAME:Toorak Thunderbolts Fixtures
 X-WR-CALNAME:Toorak Thunderbolts Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:79af4cd1-64d1-41a7-8a9a-c1aed70c0d85
-SEQUENCE:0
-DTSTAMP:20250829T171146
-DTSTART:20250830T084500
-DTEND:20250830T093000
-SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs Maccabi Falcons
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
- i Falcons\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

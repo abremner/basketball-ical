@@ -5,15 +5,4 @@ NAME:Maccabi Ducks Fixtures
 X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:55e424ce-ff0b-43e7-a90d-37ee5fe1d2f3
-SEQUENCE:0
-DTSTAMP:20250829T171222
-DTSTART:20250830T140000
-DTEND:20250830T144500
-SUMMARY:🏀 U12 Boys: Maccabi Ducks vs Timberwolves Howlers
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Howlers\nArrive 
- 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

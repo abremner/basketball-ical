@@ -5,15 +5,4 @@ NAME:Maccabi Eagles Fixtures
 X-WR-CALNAME:Maccabi Eagles Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:078e8df1-5680-4333-8834-6e74e5814848
-SEQUENCE:0
-DTSTAMP:20250829T171148
-DTSTART:20250830T084500
-DTEND:20250830T093000
-SUMMARY:🏀 U10 Boys: Maccabi Eagles vs Solway Nets
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
-  Nets\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

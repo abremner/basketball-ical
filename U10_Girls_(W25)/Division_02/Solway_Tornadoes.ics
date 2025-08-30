@@ -5,15 +5,4 @@ NAME:Solway Tornadoes Fixtures
 X-WR-CALNAME:Solway Tornadoes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:42b614a5-90c1-47e4-a7b0-7bcec044114b
-SEQUENCE:0
-DTSTAMP:20250829T171159
-DTSTART:20250830T101500
-DTEND:20250830T110000
-SUMMARY:🏀 U10 Girls: Solway Tornadoes vs Solway Blizzards
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
-  Blizzards\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

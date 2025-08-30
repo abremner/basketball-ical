@@ -5,15 +5,4 @@ NAME:AlphaWolf Sparks Fixtures
 X-WR-CALNAME:AlphaWolf Sparks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:7f6266f8-f88c-47e2-afd3-3e4cceafb50e
-SEQUENCE:0
-DTSTAMP:20250829T171201
-DTSTART:20250830T110000
-DTEND:20250830T114500
-SUMMARY:🏀 U10 Girls: AlphaWolf Sparks vs Lauriston Fire
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Lauris
- ton Fire\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,4 @@ NAME:SouthEast Venom Magic Fixtures
 X-WR-CALNAME:SouthEast Venom Magic Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:c849fafa-a1a5-472b-8b39-63bdc9018efd
-SEQUENCE:0
-DTSTAMP:20250829T171153
-DTSTART:20250830T084500
-DTEND:20250830T093000
-SUMMARY:🏀 U10 Boys: SouthEast Venom Magic vs Maccabi Jaguars
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Jaguars\nArrive 15 mi
- ns early for warm-up
-END:VEVENT
 END:VCALENDAR

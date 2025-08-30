@@ -5,15 +5,4 @@ NAME:Arax Fixtures
 X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:5a0e4008-0407-40a2-ad0c-9ffea7da2c6e
-SEQUENCE:0
-DTSTAMP:20250829T171343
-DTSTART:20250830T183000
-DTEND:20250830T191500
-SUMMARY:🏀 U16 Boys: Arax vs Bailey Reserve Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Bailey
-  Reserve Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

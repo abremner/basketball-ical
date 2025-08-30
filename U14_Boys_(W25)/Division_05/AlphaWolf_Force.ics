@@ -5,15 +5,4 @@ NAME:AlphaWolf Force Fixtures
 X-WR-CALNAME:AlphaWolf Force Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:e4596a21-a9b5-4fa8-a8f9-debc9b8091c6
-SEQUENCE:0
-DTSTAMP:20250829T171310
-DTSTART:20250830T140000
-DTEND:20250830T144500
-SUMMARY:🏀 U14 Boys: AlphaWolf Force vs Comets Lightning
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
-  Lightning\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

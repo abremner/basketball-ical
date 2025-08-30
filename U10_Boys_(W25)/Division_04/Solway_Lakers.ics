@@ -5,15 +5,4 @@ NAME:Solway Lakers Fixtures
 X-WR-CALNAME:Solway Lakers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:df99a7cf-1a42-4c6b-8935-001740e19a86
-SEQUENCE:0
-DTSTAMP:20250829T171134
-DTSTART:20250830T110000
-DTEND:20250830T114500
-SUMMARY:🏀 U10 Boys: Solway Lakers vs Toorak Tigersharks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
-  Tigersharks\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

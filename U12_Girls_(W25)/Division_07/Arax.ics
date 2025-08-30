@@ -5,15 +5,4 @@ NAME:Arax Fixtures
 X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:ee26d47d-b59a-4efa-83e6-19d1fc424465
-SEQUENCE:0
-DTSTAMP:20250829T171257
-DTSTART:20250830T131500
-DTEND:20250830T140000
-SUMMARY:🏀 U12 Girls: Arax vs Creswick Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Creswi
- ck Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

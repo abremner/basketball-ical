@@ -5,15 +5,4 @@ NAME:Maccabi Falcons Fixtures
 X-WR-CALNAME:Maccabi Falcons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:0717d3c5-ed8f-4dde-8e5e-720a4b6bc14b
-SEQUENCE:0
-DTSTAMP:20250829T171229
-DTSTART:20250830T131500
-DTEND:20250830T140000
-SUMMARY:🏀 U12 Boys: Maccabi Falcons vs Central Park Piranhas
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Central Park Piranhas\nArrive
-  15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

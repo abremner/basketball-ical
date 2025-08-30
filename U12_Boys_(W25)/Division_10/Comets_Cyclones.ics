@@ -5,15 +5,4 @@ NAME:Comets Cyclones Fixtures
 X-WR-CALNAME:Comets Cyclones Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:a7c46e1c-b0cf-4efe-8f5b-ab5c62520381
-SEQUENCE:0
-DTSTAMP:20250829T171231
-DTSTART:20250830T114500
-DTEND:20250830T123000
-SUMMARY:🏀 U12 Boys: Comets Cyclones vs Stonnington Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Stonni
- ngton Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

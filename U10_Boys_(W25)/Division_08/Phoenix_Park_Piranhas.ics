@@ -5,15 +5,4 @@ NAME:Phoenix Park Piranhas Fixtures
 X-WR-CALNAME:Phoenix Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:a556202d-09de-430d-872c-855c1c9c7d93
-SEQUENCE:0
-DTSTAMP:20250829T171144
-DTSTART:20250830T080000
-DTEND:20250830T084500
-SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Timberwolves Bucks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
- wolves Bucks\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

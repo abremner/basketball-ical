@@ -5,15 +5,4 @@ NAME:Solway Ninjas Fixtures
 X-WR-CALNAME:Solway Ninjas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:7f576b42-6d65-4ea9-9ec6-e98b2de10387
-SEQUENCE:0
-DTSTAMP:20250829T171321
-DTSTART:20250830T161500
-DTEND:20250830T170000
-SUMMARY:🏀 U14 Boys: Solway Ninjas vs Solway Mavericks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
-  Mavericks\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

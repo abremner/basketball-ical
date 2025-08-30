@@ -5,15 +5,4 @@ NAME:Toorak Tigersnakes Fixtures
 X-WR-CALNAME:Toorak Tigersnakes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:fca9ce86-6abf-4d85-bf04-d5cfd97581a8
-SEQUENCE:0
-DTSTAMP:20250829T171220
-DTSTART:20250830T140000
-DTEND:20250830T144500
-SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Toorak Torchers
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
- Torchers\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

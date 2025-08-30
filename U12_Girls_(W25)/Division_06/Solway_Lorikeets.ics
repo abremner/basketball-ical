@@ -5,15 +5,4 @@ NAME:Solway Lorikeets Fixtures
 X-WR-CALNAME:Solway Lorikeets Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:e398ce15-b449-4cf8-8f89-0f00c2f3c477
-SEQUENCE:0
-DTSTAMP:20250829T171256
-DTSTART:20250830T140000
-DTEND:20250830T144500
-SUMMARY:🏀 U12 Girls: Solway Lorikeets vs Lauriston Storm
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston S
- torm\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

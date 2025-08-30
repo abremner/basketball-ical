@@ -5,15 +5,4 @@ NAME:Lauriston Suns Fixtures
 X-WR-CALNAME:Lauriston Suns Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:c3adf088-3787-4bf8-bd2c-e3c0eb1d448c
-SEQUENCE:0
-DTSTAMP:20250829T171258
-DTSTART:20250830T140000
-DTEND:20250830T144500
-SUMMARY:🏀 U12 Girls: Lauriston Suns vs Maccabi Falcons
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Fal
- cons\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,4 @@ NAME:Solway Bucks Fixtures
 X-WR-CALNAME:Solway Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:7ee2a5a8-c717-43a0-bd2e-0f0ef406a917
-SEQUENCE:0
-DTSTAMP:20250829T171145
-DTSTART:20250830T110000
-DTEND:20250830T114500
-SUMMARY:🏀 U10 Boys: Solway Bucks vs Timberwolves Lightning
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
- olves Lightning\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,4 @@ NAME:Toorak Tornadoes Fixtures
 X-WR-CALNAME:Toorak Tornadoes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:82d08e15-b769-4d1a-adb1-97c87c4173b7
-SEQUENCE:0
-DTSTAMP:20250829T171352
-DTSTART:20250830T183000
-DTEND:20250830T191500
-SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Ripponlea Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ripponl
- ea Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

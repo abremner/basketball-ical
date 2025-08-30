@@ -5,15 +5,4 @@ NAME:Toorak TopGuns Fixtures
 X-WR-CALNAME:Toorak TopGuns Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:28effb71-eefb-4425-b797-de1e216f7c55
-SEQUENCE:0
-DTSTAMP:20250829T171328
-DTSTART:20250830T161500
-DTEND:20250830T170000
-SUMMARY:🏀 U14 Girls: Toorak TopGuns vs Malvern Tigers Phillips
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
-  Tigers Phillips\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,4 @@ NAME:Timberwolves Boomers Fixtures
 X-WR-CALNAME:Timberwolves Boomers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:a66885dc-d467-48b3-8494-6f2825d259b0
-SEQUENCE:0
-DTSTAMP:20250829T171137
-DTSTART:20250830T101500
-DTEND:20250830T110000
-SUMMARY:🏀 U10 Boys: Timberwolves Boomers vs Solway Celtics
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
-  Celtics\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

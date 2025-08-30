@@ -5,15 +5,4 @@ NAME:Toorak Tropics Fixtures
 X-WR-CALNAME:Toorak Tropics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:17f2019c-fc76-4308-9f62-2f83d7f186db
-SEQUENCE:0
-DTSTAMP:20250829T171343
-DTSTART:20250830T191500
-DTEND:20250830T200000
-SUMMARY:🏀 U16 Boys: Toorak Tropics vs Malvern Tigers Black
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
- n Tigers Black\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR
