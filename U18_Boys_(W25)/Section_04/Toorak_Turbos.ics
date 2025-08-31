@@ -5,15 +5,4 @@ NAME:Toorak Turbos Fixtures
 X-WR-CALNAME:Toorak Turbos Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:8c4571f2-05ab-416d-a6b1-e1ba6fb66dc6
-SEQUENCE:0
-DTSTAMP:20250830T171332
-DTSTART:20250831T181500
-DTEND:20250831T190000
-SUMMARY:🏀 U18 Boys: Toorak Turbos vs Golden Hawks Sky
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Golden
-  Hawks Sky\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

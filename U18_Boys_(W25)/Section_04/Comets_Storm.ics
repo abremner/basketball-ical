@@ -5,15 +5,4 @@ NAME:Comets Storm Fixtures
 X-WR-CALNAME:Comets Storm Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:cc0eb794-12a1-432b-8bd5-f8b3709ed0d3
-SEQUENCE:0
-DTSTAMP:20250830T171330
-DTSTART:20250831T181500
-DTEND:20250831T190000
-SUMMARY:🏀 U18 Boys: Comets Storm vs Timberwolves Wildcats
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
- wolves Wildcats\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

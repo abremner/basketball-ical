@@ -5,15 +5,4 @@ NAME:Glenbrook Piranhas Fixtures
 X-WR-CALNAME:Glenbrook Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:a42b6778-9e7a-4153-bd36-e38b60c5f144
-SEQUENCE:0
-DTSTAMP:20250830T171325
-DTSTART:20250831T181500
-DTEND:20250831T190000
-SUMMARY:🏀 U18 Boys: Glenbrook Piranhas vs Maccabi Lightening
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
- i Lightening\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR
