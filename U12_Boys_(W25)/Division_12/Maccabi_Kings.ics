@@ -5,4 +5,15 @@ NAME:Maccabi Kings Fixtures
 X-WR-CALNAME:Maccabi Kings Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d8349381-15c6-4ec5-ad10-4fc268846b64
+SEQUENCE:0
+DTSTAMP:20250901T072542
+DTSTART:20250906T112000
+DTEND:20250906T120500
+SUMMARY:🏀 U12 Boys: Maccabi Kings vs Solway Dingoes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Dingoes\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

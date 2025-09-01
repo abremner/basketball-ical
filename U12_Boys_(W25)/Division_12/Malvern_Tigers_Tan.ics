@@ -5,4 +5,15 @@ NAME:Malvern Tigers Tan Fixtures
 X-WR-CALNAME:Malvern Tigers Tan Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:85c79256-cba7-4b10-9ceb-976cfa419690
+SEQUENCE:0
+DTSTAMP:20250901T072542
+DTSTART:20250906T121000
+DTEND:20250906T125500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Tan vs Timberwolves Fury
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Fury\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

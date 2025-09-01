@@ -5,4 +5,15 @@ NAME:Malvern Tigers Blue Fixtures
 X-WR-CALNAME:Malvern Tigers Blue Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7a911c28-4d2f-4812-b6a4-5dcb30d26518
+SEQUENCE:0
+DTSTAMP:20250901T072507
+DTSTART:20250906T103000
+DTEND:20250906T111500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Blue vs AlphaWolf Sparks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AlphaW
+ olf Sparks\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

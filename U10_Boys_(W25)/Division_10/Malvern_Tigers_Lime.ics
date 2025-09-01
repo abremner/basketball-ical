@@ -5,4 +5,15 @@ NAME:Malvern Tigers Lime Fixtures
 X-WR-CALNAME:Malvern Tigers Lime Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:35e2c5ea-89c0-49a9-8ea0-7d93a543dac7
+SEQUENCE:0
+DTSTAMP:20250901T072456
+DTSTART:20250906T085000
+DTEND:20250906T093500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Lime vs AlphaWolf Kings
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
+ olf Kings\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

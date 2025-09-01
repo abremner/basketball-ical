@@ -5,4 +5,15 @@ NAME:Malvern Tigers Red Fixtures
 X-WR-CALNAME:Malvern Tigers Red Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:114d12e2-3ff0-4013-80fd-73c0598d624a
+SEQUENCE:0
+DTSTAMP:20250901T072432
+DTSTART:20250906T094000
+DTEND:20250906T102500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Red vs Toorak Tigercats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
+  Tigercats\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

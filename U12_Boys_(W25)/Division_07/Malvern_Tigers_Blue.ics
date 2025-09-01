@@ -5,4 +5,15 @@ NAME:Malvern Tigers Blue Fixtures
 X-WR-CALNAME:Malvern Tigers Blue Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9c1e516e-772c-439c-bd8d-764d412cebae
+SEQUENCE:0
+DTSTAMP:20250901T072530
+DTSTART:20250906T121000
+DTEND:20250906T125500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Blue vs AlphaWolf Lakers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: AlphaWo
+ lf Lakers\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

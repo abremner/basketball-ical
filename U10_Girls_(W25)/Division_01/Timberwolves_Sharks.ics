@@ -5,4 +5,15 @@ NAME:Timberwolves Sharks Fixtures
 X-WR-CALNAME:Timberwolves Sharks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f19f3356-3253-4897-b118-ee67d2e215b3
+SEQUENCE:0
+DTSTAMP:20250901T072501
+DTSTART:20250906T112000
+DTEND:20250906T120500
+SUMMARY:🏀 U10 Girls: Timberwolves Sharks vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

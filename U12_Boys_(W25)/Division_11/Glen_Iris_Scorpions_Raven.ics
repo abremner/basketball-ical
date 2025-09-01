@@ -5,4 +5,15 @@ NAME:Glen Iris Scorpions Raven Fixtures
 X-WR-CALNAME:Glen Iris Scorpions Raven Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b153602c-249f-483c-b430-2cac6787ea4b
+SEQUENCE:0
+DTSTAMP:20250901T072540
+DTSTART:20250906T121000
+DTEND:20250906T125500
+SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Raven vs Ardrie Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ardrie
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

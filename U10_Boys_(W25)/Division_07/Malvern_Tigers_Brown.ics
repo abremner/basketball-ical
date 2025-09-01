@@ -5,4 +5,15 @@ NAME:Malvern Tigers Brown Fixtures
 X-WR-CALNAME:Malvern Tigers Brown Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:531263db-2eb9-47a2-8c86-4dfdd8f3433a
+SEQUENCE:0
+DTSTAMP:20250901T072445
+DTSTART:20250906T080000
+DTEND:20250906T084500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs Timberwolves Cobras
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Cobras\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

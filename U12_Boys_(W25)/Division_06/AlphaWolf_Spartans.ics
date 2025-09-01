@@ -5,4 +5,15 @@ NAME:AlphaWolf Spartans Fixtures
 X-WR-CALNAME:AlphaWolf Spartans Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a56b023f-ed3a-42a2-9e83-ff4770f2351e
+SEQUENCE:0
+DTSTAMP:20250901T072525
+DTSTART:20250906T130000
+DTEND:20250906T134500
+SUMMARY:🏀 U12 Boys: AlphaWolf Spartans vs Malvern Tigers Orange
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

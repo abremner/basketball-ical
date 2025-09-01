@@ -5,4 +5,15 @@ NAME:Comets Tigers Fixtures
 X-WR-CALNAME:Comets Tigers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:28145946-2a70-4629-a369-d3e114f018c6
+SEQUENCE:0
+DTSTAMP:20250901T072537
+DTSTART:20250906T121000
+DTEND:20250906T125500
+SUMMARY:🏀 U12 Boys: Comets Tigers vs Solway Panthers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Panthers\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

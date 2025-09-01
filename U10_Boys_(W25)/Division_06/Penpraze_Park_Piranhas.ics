@@ -5,4 +5,15 @@ NAME:Penpraze Park Piranhas Fixtures
 X-WR-CALNAME:Penpraze Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7d631e8e-e3a4-4a8b-a1dd-5207066df38b
+SEQUENCE:0
+DTSTAMP:20250901T072444
+DTSTART:20250906T094000
+DTEND:20250906T102500
+SUMMARY:🏀 U10 Boys: Penpraze Park Piranhas vs Golden Hawks Sky
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Golden
+  Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

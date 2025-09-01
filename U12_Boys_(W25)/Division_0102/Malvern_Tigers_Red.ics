@@ -5,4 +5,15 @@ NAME:Malvern Tigers Red Fixtures
 X-WR-CALNAME:Malvern Tigers Red Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3a02f2fa-3b6a-4184-9929-9f9297005942
+SEQUENCE:0
+DTSTAMP:20250901T072517
+DTSTART:20250906T135000
+DTEND:20250906T143500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Red vs Glen Iris Scorpions Ferndale
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
+ ris Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

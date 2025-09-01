@@ -5,4 +5,15 @@ NAME:Malvern Tigers Purple Fixtures
 X-WR-CALNAME:Malvern Tigers Purple Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:821a51d0-5123-469e-b67b-242e2a68133f
+SEQUENCE:0
+DTSTAMP:20250901T072532
+DTSTART:20250906T135000
+DTEND:20250906T143500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Purple vs Timberwolves Stealers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Stealers\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

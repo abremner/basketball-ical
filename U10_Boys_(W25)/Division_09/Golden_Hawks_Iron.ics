@@ -5,4 +5,15 @@ NAME:Golden Hawks Iron Fixtures
 X-WR-CALNAME:Golden Hawks Iron Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:73d9af62-1b20-493c-a02c-211687501f77
+SEQUENCE:0
+DTSTAMP:20250901T072452
+DTSTART:20250906T085000
+DTEND:20250906T093500
+SUMMARY:🏀 U10 Boys: Golden Hawks Iron vs Maccabi Hawks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

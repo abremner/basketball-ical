@@ -5,4 +5,15 @@ NAME:Windsor Piranhas Fixtures
 X-WR-CALNAME:Windsor Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:bb5a440a-ed63-4603-bb4d-4c18f27d33c4
+SEQUENCE:0
+DTSTAMP:20250901T072520
+DTSTART:20250906T121000
+DTEND:20250906T125500
+SUMMARY:🏀 U12 Boys: Windsor Piranhas vs Malvern Tigers Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

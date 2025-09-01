@@ -5,4 +5,15 @@ NAME:Malvern Tigers White Fixtures
 X-WR-CALNAME:Malvern Tigers White Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:52d3df81-1250-4dfb-a93c-f3b46f84949a
+SEQUENCE:0
+DTSTAMP:20250901T072435
+DTSTART:20250906T094000
+DTEND:20250906T102500
+SUMMARY:🏀 U10 Boys: Malvern Tigers White vs Maccabi Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

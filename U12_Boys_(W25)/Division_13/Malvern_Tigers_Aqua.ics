@@ -5,4 +5,15 @@ NAME:Malvern Tigers Aqua Fixtures
 X-WR-CALNAME:Malvern Tigers Aqua Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6e816b42-a8e4-4cec-98e6-e83eece018f9
+SEQUENCE:0
+DTSTAMP:20250901T072545
+DTSTART:20250906T112000
+DTEND:20250906T120500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Timberwolves Cavs
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Cavs\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

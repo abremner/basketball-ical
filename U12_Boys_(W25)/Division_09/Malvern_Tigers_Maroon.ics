@@ -5,4 +5,15 @@ NAME:Malvern Tigers Maroon Fixtures
 X-WR-CALNAME:Malvern Tigers Maroon Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:890f96c2-bc7e-4921-976c-af23b7d120a3
+SEQUENCE:0
+DTSTAMP:20250901T072535
+DTSTART:20250906T121000
+DTEND:20250906T125500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Maroon vs Maccabi Giants
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Giants\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

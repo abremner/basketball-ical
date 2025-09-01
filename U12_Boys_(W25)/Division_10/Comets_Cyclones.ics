@@ -5,4 +5,15 @@ NAME:Comets Cyclones Fixtures
 X-WR-CALNAME:Comets Cyclones Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e8adafb7-b17f-4e66-984d-fc64ffb4cc42
+SEQUENCE:0
+DTSTAMP:20250901T072536
+DTSTART:20250906T130000
+DTEND:20250906T134500
+SUMMARY:🏀 U12 Boys: Comets Cyclones vs Malvern Tigers Grey
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Grey\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

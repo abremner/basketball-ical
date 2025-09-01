@@ -5,4 +5,15 @@ NAME:Solway Cubs Fixtures
 X-WR-CALNAME:Solway Cubs Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b6a198b2-d5ef-4bf5-9d92-15a99823bb8f
+SEQUENCE:0
+DTSTAMP:20250901T072522
+DTSTART:20250906T121000
+DTEND:20250906T125500
+SUMMARY:🏀 U12 Boys: Solway Cubs vs Malvern Tigers White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

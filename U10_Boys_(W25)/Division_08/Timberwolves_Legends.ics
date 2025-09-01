@@ -5,4 +5,15 @@ NAME:Timberwolves Legends Fixtures
 X-WR-CALNAME:Timberwolves Legends Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:95fba6df-f059-420f-9a64-d11c2b7253a1
+SEQUENCE:0
+DTSTAMP:20250901T072450
+DTSTART:20250906T085000
+DTEND:20250906T093500
+SUMMARY:🏀 U10 Boys: Timberwolves Legends vs Timberwolves Lightning
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Lightning\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

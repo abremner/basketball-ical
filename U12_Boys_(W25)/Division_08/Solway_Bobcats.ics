@@ -5,4 +5,15 @@ NAME:Solway Bobcats Fixtures
 X-WR-CALNAME:Solway Bobcats Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ab99d8f7-2efc-42ba-850c-8d3d0702dd1c
+SEQUENCE:0
+DTSTAMP:20250901T072532
+DTSTART:20250906T121000
+DTEND:20250906T125500
+SUMMARY:🏀 U12 Boys: Solway Bobcats vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

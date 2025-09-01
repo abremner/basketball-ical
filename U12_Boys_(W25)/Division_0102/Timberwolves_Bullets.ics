@@ -5,4 +5,15 @@ NAME:Timberwolves Bullets Fixtures
 X-WR-CALNAME:Timberwolves Bullets Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:40ff5c04-d380-48db-9051-3b03e2a2bddf
+SEQUENCE:0
+DTSTAMP:20250901T072517
+DTSTART:20250906T130000
+DTEND:20250906T134500
+SUMMARY:🏀 U12 Boys: Timberwolves Bullets vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

@@ -5,4 +5,15 @@ NAME:Malvern Tigers Blue Fixtures
 X-WR-CALNAME:Malvern Tigers Blue Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:46283355-6a01-42b8-a682-7d471201e7de
+SEQUENCE:0
+DTSTAMP:20250901T072440
+DTSTART:20250906T112000
+DTEND:20250906T120500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Blue vs Solway Hawks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

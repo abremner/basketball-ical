@@ -5,4 +5,15 @@ NAME:Solway Lions Fixtures
 X-WR-CALNAME:Solway Lions Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:24c0497f-49b5-4426-88c5-813da388506f
+SEQUENCE:0
+DTSTAMP:20250901T072524
+DTSTART:20250906T135000
+DTEND:20250906T143500
+SUMMARY:🏀 U12 Boys: Solway Lions vs Toorak Tigersnakes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
+  Tigersnakes\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

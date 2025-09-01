@@ -5,4 +5,15 @@ NAME:Maccabi Jaguars Fixtures
 X-WR-CALNAME:Maccabi Jaguars Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c41fd536-8320-40b5-8584-b3dd2a8cb7e4
+SEQUENCE:0
+DTSTAMP:20250901T072457
+DTSTART:20250906T085000
+DTEND:20250906T093500
+SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Ashy Lightning Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+ ightning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

@@ -5,4 +5,15 @@ NAME:Korowa Cherry Fixtures
 X-WR-CALNAME:Korowa Cherry Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:83277859-7822-4252-bf9f-82767a8ecf9d
+SEQUENCE:0
+DTSTAMP:20250901T072500
+DTSTART:20250906T112000
+DTEND:20250906T120500
+SUMMARY:🏀 U10 Girls: Korowa Cherry vs Toorak Troublemakers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Troublemakers\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

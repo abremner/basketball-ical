@@ -5,4 +5,15 @@ NAME:AlphaWolf Lakers Fixtures
 X-WR-CALNAME:AlphaWolf Lakers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:65125f01-d80c-4ebc-9851-1ca00e3bfa26
+SEQUENCE:0
+DTSTAMP:20250901T072529
+DTSTART:20250906T121000
+DTEND:20250906T125500
+SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs Malvern Tigers Blue
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR
