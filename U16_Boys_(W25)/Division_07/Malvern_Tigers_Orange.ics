@@ -5,4 +5,15 @@ NAME:Malvern Tigers Orange Fixtures
 X-WR-CALNAME:Malvern Tigers Orange Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:cc387a2b-76b4-445a-909c-a216c8170b0b
+SEQUENCE:0
+DTSTAMP:20250901T171409
+DTSTART:20250906T180000
+DTEND:20250906T184500
+SUMMARY:🏀 U16 Boys: Malvern Tigers Orange vs Timberwolves Blaze
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Blaze\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

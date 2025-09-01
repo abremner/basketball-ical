@@ -5,4 +5,15 @@ NAME:Yanakie Piranhas Fixtures
 X-WR-CALNAME:Yanakie Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f3ff76e6-a056-46f5-9b4a-e1583c22541f
+SEQUENCE:0
+DTSTAMP:20250901T171249
+DTSTART:20250906T130000
+DTEND:20250906T134500
+SUMMARY:🏀 U12 Girls: Yanakie Piranhas vs Solway Finches
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Finches\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

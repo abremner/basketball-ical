@@ -5,4 +5,15 @@ NAME:Glen Iris Scorpions Sixers Fixtures
 X-WR-CALNAME:Glen Iris Scorpions Sixers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:367d5d13-4987-4823-b728-e94f73efd56e
+SEQUENCE:0
+DTSTAMP:20250901T171423
+DTSTART:20250907T185000
+DTEND:20250907T193500
+SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Sixers vs Tooronga Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Tooron
+ ga Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

@@ -5,4 +5,15 @@ NAME:Malvern Tigers Black Fixtures
 X-WR-CALNAME:Malvern Tigers Black Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:35cff4b6-c153-466d-91a2-a9b38995c651
+SEQUENCE:0
+DTSTAMP:20250901T171422
+DTSTART:20250907T185000
+DTEND:20250907T193500
+SUMMARY:🏀 U18 Boys: Malvern Tigers Black vs Southside Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Souths
+ ide Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

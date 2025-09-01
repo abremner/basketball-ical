@@ -5,4 +5,15 @@ NAME:Maccabi Ducks Fixtures
 X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0ec541cb-7544-427b-838e-ef9e2780a927
+SEQUENCE:0
+DTSTAMP:20250901T171258
+DTSTART:20250906T144000
+DTEND:20250906T152500
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Erica Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Erica 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

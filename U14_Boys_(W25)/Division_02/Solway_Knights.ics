@@ -5,4 +5,15 @@ NAME:Solway Knights Fixtures
 X-WR-CALNAME:Solway Knights Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:aab53ede-1f03-4f04-9b1d-8702a380aa96
+SEQUENCE:0
+DTSTAMP:20250901T171310
+DTSTART:20250906T153000
+DTEND:20250906T161500
+SUMMARY:🏀 U14 Boys: Solway Knights vs Toorak Toros
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Toros\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

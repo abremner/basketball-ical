@@ -5,4 +5,15 @@ NAME:Malvern Tigers Red Fixtures
 X-WR-CALNAME:Malvern Tigers Red Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a33744c5-4f26-4ea9-820c-e1c7815155fa
+SEQUENCE:0
+DTSTAMP:20250901T171430
+DTSTART:20250907T180000
+DTEND:20250907T184500
+SUMMARY:🏀 U18 Boys: Malvern Tigers Red vs Golden Hawks Sky
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Golden
+  Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

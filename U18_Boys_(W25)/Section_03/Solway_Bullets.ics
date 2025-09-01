@@ -5,4 +5,15 @@ NAME:Solway Bullets Fixtures
 X-WR-CALNAME:Solway Bullets Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:cc7028b5-63fb-40ff-a4bd-a677f817b097
+SEQUENCE:0
+DTSTAMP:20250901T171427
+DTSTART:20250907T185000
+DTEND:20250907T193500
+SUMMARY:🏀 U18 Boys: Solway Bullets vs Ferncroft Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ferncr
+ oft Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

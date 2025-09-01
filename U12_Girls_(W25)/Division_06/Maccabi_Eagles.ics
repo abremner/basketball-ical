@@ -5,4 +5,15 @@ NAME:Maccabi Eagles Fixtures
 X-WR-CALNAME:Maccabi Eagles Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0e3a5b4b-b212-4cea-b3e6-1f453fe8bd70
+SEQUENCE:0
+DTSTAMP:20250901T171301
+DTSTART:20250906T135000
+DTEND:20250906T143500
+SUMMARY:🏀 U12 Girls: Maccabi Eagles vs Timberwolves Pearls
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Pearls\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

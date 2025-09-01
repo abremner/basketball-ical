@@ -5,4 +5,15 @@ NAME:Glen Iris Scorpions Ferndale Fixtures
 X-WR-CALNAME:Glen Iris Scorpions Ferndale Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9d7c43d6-0ec1-4e51-8348-65cc51bea0f2
+SEQUENCE:0
+DTSTAMP:20250901T171309
+DTSTART:20250906T162000
+DTEND:20250906T170500
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Ferndale vs Tennyson Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Tennys
+ on Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

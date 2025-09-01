@@ -5,4 +5,15 @@ NAME:Maccabi Warriors Fixtures
 X-WR-CALNAME:Maccabi Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0a34f1b1-3573-4124-bcee-ad9a3c832c4b
+SEQUENCE:0
+DTSTAMP:20250901T171422
+DTSTART:20250907T180000
+DTEND:20250907T184500
+SUMMARY:🏀 U18 Boys: Maccabi Warriors vs Hazelwood Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Hazelw
+ ood Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

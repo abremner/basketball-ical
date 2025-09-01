@@ -5,4 +5,15 @@ NAME:Bailey Reserve Piranhas Fixtures
 X-WR-CALNAME:Bailey Reserve Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9aa026dc-d6be-4fea-b8e6-b6c181fcafd9
+SEQUENCE:0
+DTSTAMP:20250901T171353
+DTSTART:20250906T180000
+DTEND:20250906T184500
+SUMMARY:🏀 U16 Boys: Bailey Reserve Piranhas vs Malvern Tigers Red
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

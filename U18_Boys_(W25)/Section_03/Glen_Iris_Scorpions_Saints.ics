@@ -5,4 +5,15 @@ NAME:Glen Iris Scorpions Saints Fixtures
 X-WR-CALNAME:Glen Iris Scorpions Saints Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:581bd3cb-dab4-44b5-868f-e0f6fa13577b
+SEQUENCE:0
+DTSTAMP:20250901T171426
+DTSTART:20250907T180000
+DTEND:20250907T184500
+SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Saints vs Solway Torpedoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Torpedoes\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

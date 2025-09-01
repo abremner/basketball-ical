@@ -5,4 +5,15 @@ NAME:Serrell Park Piranhas Fixtures
 X-WR-CALNAME:Serrell Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:67138642-f063-4cd0-8065-77f7802ecdaa
+SEQUENCE:0
+DTSTAMP:20250901T171400
+DTSTART:20250906T171000
+DTEND:20250906T175500
+SUMMARY:🏀 U16 Boys: Serrell Park Piranhas vs Solway Super Sonics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Super Sonics\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

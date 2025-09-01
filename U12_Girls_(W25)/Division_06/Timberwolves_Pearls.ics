@@ -5,4 +5,15 @@ NAME:Timberwolves Pearls Fixtures
 X-WR-CALNAME:Timberwolves Pearls Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:00721cc4-8b6c-4c9a-9390-8769f22d817d
+SEQUENCE:0
+DTSTAMP:20250901T171302
+DTSTART:20250906T135000
+DTEND:20250906T143500
+SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

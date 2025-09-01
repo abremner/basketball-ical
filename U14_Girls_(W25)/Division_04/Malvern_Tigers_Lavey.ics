@@ -5,4 +5,15 @@ NAME:Malvern Tigers Lavey Fixtures
 X-WR-CALNAME:Malvern Tigers Lavey Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5f69b6cc-fcfe-4902-88d3-e70c82a6db30
+SEQUENCE:0
+DTSTAMP:20250901T171342
+DTSTART:20250906T144000
+DTEND:20250906T152500
+SUMMARY:🏀 U14 Girls: Malvern Tigers Lavey vs Ashy Lightning Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
+ ghtning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

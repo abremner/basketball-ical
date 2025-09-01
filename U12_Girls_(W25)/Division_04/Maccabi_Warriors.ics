@@ -5,4 +5,15 @@ NAME:Maccabi Warriors Fixtures
 X-WR-CALNAME:Maccabi Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5d9b39f4-1c1e-4db6-bcde-6451719c2458
+SEQUENCE:0
+DTSTAMP:20250901T171254
+DTSTART:20250906T135000
+DTEND:20250906T143500
+SUMMARY:🏀 U12 Girls: Maccabi Warriors vs Glen Iris Scorpions Gardiner
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

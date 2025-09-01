@@ -5,4 +5,15 @@ NAME:Glen Iris Scorpions Nettleton Fixtures
 X-WR-CALNAME:Glen Iris Scorpions Nettleton Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3a00ad21-b755-4e6b-a0d3-e9d80a9ef610
+SEQUENCE:0
+DTSTAMP:20250901T171347
+DTSTART:20250906T144000
+DTEND:20250906T152500
+SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Nettleton vs Maccabi Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

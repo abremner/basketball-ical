@@ -5,4 +5,15 @@ NAME:Timberwolves Stones Fixtures
 X-WR-CALNAME:Timberwolves Stones Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f2fbecfc-74e8-4cd9-a9a0-104bfe421018
+SEQUENCE:0
+DTSTAMP:20250901T171323
+DTSTART:20250906T153000
+DTEND:20250906T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Stones vs AlphaWolf Conquerors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
+ olf Conquerors\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

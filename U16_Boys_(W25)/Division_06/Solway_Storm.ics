@@ -5,4 +5,15 @@ NAME:Solway Storm Fixtures
 X-WR-CALNAME:Solway Storm Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e9b95d3a-f24f-4c58-9279-50f6be09c274
+SEQUENCE:0
+DTSTAMP:20250901T171407
+DTSTART:20250906T180000
+DTEND:20250906T184500
+SUMMARY:🏀 U16 Boys: Solway Storm vs AlphaWolf Shadows
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
+ olf Shadows\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

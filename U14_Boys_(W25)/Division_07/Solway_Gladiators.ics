@@ -5,4 +5,15 @@ NAME:Solway Gladiators Fixtures
 X-WR-CALNAME:Solway Gladiators Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6ddf53e6-4e78-4f79-aa47-42a510a88247
+SEQUENCE:0
+DTSTAMP:20250901T171324
+DTSTART:20250906T144000
+DTEND:20250906T152500
+SUMMARY:🏀 U14 Boys: Solway Gladiators vs Timberwolves Terriers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Terriers\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

@@ -5,4 +5,15 @@ NAME:Solway Lorikeets Fixtures
 X-WR-CALNAME:Solway Lorikeets Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1a777a6d-d53c-4a0e-970e-2be10dfb4a4f
+SEQUENCE:0
+DTSTAMP:20250901T171302
+DTSTART:20250906T121000
+DTEND:20250906T125500
+SUMMARY:🏀 U12 Girls: Solway Lorikeets vs Timberwolves Hurricanes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Hurricanes\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

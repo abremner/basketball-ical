@@ -5,4 +5,15 @@ NAME:Malvern Tigers Mitchell Fixtures
 X-WR-CALNAME:Malvern Tigers Mitchell Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:23f83515-98cb-4f2f-a617-1afff81dd39b
+SEQUENCE:0
+DTSTAMP:20250901T171251
+DTSTART:20250906T135000
+DTEND:20250906T143500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Mitchell vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

@@ -5,4 +5,15 @@ NAME:Comets Sharks Fixtures
 X-WR-CALNAME:Comets Sharks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:52a34f1c-2ff5-4498-a41b-bcd13fc5424e
+SEQUENCE:0
+DTSTAMP:20250901T171326
+DTSTART:20250906T153000
+DTEND:20250906T161500
+SUMMARY:🏀 U14 Boys: Comets Sharks vs Malvern Tigers Purple
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Purple\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

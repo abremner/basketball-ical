@@ -5,4 +5,15 @@ NAME:Maccabi Warriors Fixtures
 X-WR-CALNAME:Maccabi Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:bdd4b16b-75e1-4ff9-a965-ecbd00e16132
+SEQUENCE:0
+DTSTAMP:20250901T171359
+DTSTART:20250906T180000
+DTEND:20250906T184500
+SUMMARY:🏀 U16 Boys: Maccabi Warriors vs Timberwolves Boulders
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Boulders\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

@@ -5,4 +5,15 @@ NAME:Toorak Titans Fixtures
 X-WR-CALNAME:Toorak Titans Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:77a235aa-3bf7-446b-a19f-ab4fcec5dca0
+SEQUENCE:0
+DTSTAMP:20250901T171346
+DTSTART:20250906T144000
+DTEND:20250906T152500
+SUMMARY:🏀 U14 Girls: Toorak Titans vs Malvern Tigers Burton
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Burton\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

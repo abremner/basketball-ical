@@ -5,4 +5,15 @@ NAME:Solway Rockets Fixtures
 X-WR-CALNAME:Solway Rockets Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e9d5b249-ca9c-4d73-af6d-0f67f130c140
+SEQUENCE:0
+DTSTAMP:20250901T171351
+DTSTART:20250906T180000
+DTEND:20250906T184500
+SUMMARY:🏀 U16 Boys: Solway Rockets vs Timberwolves Hustlers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Hustlers\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

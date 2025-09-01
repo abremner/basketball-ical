@@ -5,4 +5,15 @@ NAME:SouthEast Venom Heat Fixtures
 X-WR-CALNAME:SouthEast Venom Heat Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3c339f2e-cb76-43a1-b088-0c917627ef03
+SEQUENCE:0
+DTSTAMP:20250901T171331
+DTSTART:20250906T153000
+DTEND:20250906T161500
+SUMMARY:🏀 U14 Boys: SouthEast Venom Heat vs Golden Hawks Iron
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Golden 
+ Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

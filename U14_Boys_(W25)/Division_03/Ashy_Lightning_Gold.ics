@@ -5,4 +5,15 @@ NAME:Ashy Lightning Gold Fixtures
 X-WR-CALNAME:Ashy Lightning Gold Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3be9e657-a1c5-4f24-b21e-4bd4d3352197
+SEQUENCE:0
+DTSTAMP:20250901T171312
+DTSTART:20250906T171000
+DTEND:20250906T175500
+SUMMARY:🏀 U14 Boys: Ashy Lightning Gold vs Malvern Tigers Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

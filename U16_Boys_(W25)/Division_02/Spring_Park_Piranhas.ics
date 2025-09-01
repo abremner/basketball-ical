@@ -5,4 +5,15 @@ NAME:Spring Park Piranhas Fixtures
 X-WR-CALNAME:Spring Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ec4e0c21-555c-4106-9ceb-f6d5627b7560
+SEQUENCE:0
+DTSTAMP:20250901T171354
+DTSTART:20250906T180000
+DTEND:20250906T184500
+SUMMARY:🏀 U16 Boys: Spring Park Piranhas vs Timberwolves Raiders
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Raiders\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

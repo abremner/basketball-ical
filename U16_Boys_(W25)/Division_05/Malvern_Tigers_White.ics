@@ -5,4 +5,15 @@ NAME:Malvern Tigers White Fixtures
 X-WR-CALNAME:Malvern Tigers White Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:db76e842-7d22-4ef0-9741-e327e6ee8db9
+SEQUENCE:0
+DTSTAMP:20250901T171404
+DTSTART:20250906T171000
+DTEND:20250906T175500
+SUMMARY:🏀 U16 Boys: Malvern Tigers White vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

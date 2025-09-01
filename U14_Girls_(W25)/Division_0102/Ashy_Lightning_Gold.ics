@@ -5,4 +5,15 @@ NAME:Ashy Lightning Gold Fixtures
 X-WR-CALNAME:Ashy Lightning Gold Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0e8669f7-75fd-4811-b6a3-225f7d3d16dd
+SEQUENCE:0
+DTSTAMP:20250901T171333
+DTSTART:20250906T162000
+DTEND:20250906T170500
+SUMMARY:🏀 U14 Girls: Ashy Lightning Gold vs Timberwolves Comets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Comets\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

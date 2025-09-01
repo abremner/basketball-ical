@@ -5,4 +5,15 @@ NAME:Maccabi Le Boomers Fixtures
 X-WR-CALNAME:Maccabi Le Boomers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2161fd66-51a7-49b5-be43-5d0bc7cc3702
+SEQUENCE:0
+DTSTAMP:20250901T171441
+DTSTART:20250907T185000
+DTEND:20250907T193500
+SUMMARY:🏀 U21 Mens: Maccabi Le Boomers vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

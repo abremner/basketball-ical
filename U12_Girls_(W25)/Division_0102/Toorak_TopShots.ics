@@ -5,4 +5,15 @@ NAME:Toorak TopShots Fixtures
 X-WR-CALNAME:Toorak TopShots Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:23d5fe78-5347-4f61-b878-b2611bdfcd08
+SEQUENCE:0
+DTSTAMP:20250901T171249
+DTSTART:20250906T135000
+DTEND:20250906T143500
+SUMMARY:🏀 U12 Girls: Toorak TopShots vs Malvern Tigers Taylor
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Taylor\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

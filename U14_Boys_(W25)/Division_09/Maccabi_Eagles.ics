@@ -5,4 +5,15 @@ NAME:Maccabi Eagles Fixtures
 X-WR-CALNAME:Maccabi Eagles Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b279ff26-1f4a-41a6-8af3-54692bb3547e
+SEQUENCE:0
+DTSTAMP:20250901T171330
+DTSTART:20250906T144000
+DTEND:20250906T152500
+SUMMARY:🏀 U14 Boys: Maccabi Eagles vs Solway Spartans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Spartans\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

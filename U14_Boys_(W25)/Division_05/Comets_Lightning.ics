@@ -5,4 +5,15 @@ NAME:Comets Lightning Fixtures
 X-WR-CALNAME:Comets Lightning Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4da6a587-dfdb-4df1-8f6f-6ee1e16778a1
+SEQUENCE:0
+DTSTAMP:20250901T171318
+DTSTART:20250906T153000
+DTEND:20250906T161500
+SUMMARY:🏀 U14 Boys: Comets Lightning vs Solway Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

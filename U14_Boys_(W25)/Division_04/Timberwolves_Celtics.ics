@@ -5,4 +5,15 @@ NAME:Timberwolves Celtics Fixtures
 X-WR-CALNAME:Timberwolves Celtics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2104c3cf-c471-4a3b-b019-097155fc06f6
+SEQUENCE:0
+DTSTAMP:20250901T171316
+DTSTART:20250906T171000
+DTEND:20250906T175500
+SUMMARY:🏀 U14 Boys: Timberwolves Celtics vs Maccabi Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

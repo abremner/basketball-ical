@@ -5,4 +5,15 @@ NAME:Hazelwood Park Piranhas Fixtures
 X-WR-CALNAME:Hazelwood Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:550b9965-b4ab-4a9b-a2a0-a25577454ec8
+SEQUENCE:0
+DTSTAMP:20250901T171421
+DTSTART:20250907T180000
+DTEND:20250907T184500
+SUMMARY:🏀 U18 Boys: Hazelwood Park Piranhas vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

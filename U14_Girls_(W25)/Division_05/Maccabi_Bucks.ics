@@ -5,4 +5,15 @@ NAME:Maccabi Bucks Fixtures
 X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:99874bfd-a9e5-4cc7-9865-afe46c0691bd
+SEQUENCE:0
+DTSTAMP:20250901T171344
+DTSTART:20250906T153000
+DTEND:20250906T161500
+SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Ashy Lightning White
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning White\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

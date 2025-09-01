@@ -5,4 +5,15 @@ NAME:Timberwolves 36ers Fixtures
 X-WR-CALNAME:Timberwolves 36ers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c899acfe-0225-4a8b-a984-2e046114b0a5
+SEQUENCE:0
+DTSTAMP:20250901T171404
+DTSTART:20250906T171000
+DTEND:20250906T175500
+SUMMARY:🏀 U16 Boys: Timberwolves 36ers vs AlphaWolf Tornados
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: AlphaW
+ olf Tornados\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

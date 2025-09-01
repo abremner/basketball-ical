@@ -5,4 +5,15 @@ NAME:Solway Pistons Fixtures
 X-WR-CALNAME:Solway Pistons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4d67e262-cf41-456a-930f-082510d263f9
+SEQUENCE:0
+DTSTAMP:20250901T171424
+DTSTART:20250907T180000
+DTEND:20250907T184500
+SUMMARY:🏀 U18 Boys: Solway Pistons vs Glenbrook Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glenbr
+ ook Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

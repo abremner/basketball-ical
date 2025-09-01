@@ -5,4 +5,15 @@ NAME:Maccabi Falcons Fixtures
 X-WR-CALNAME:Maccabi Falcons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:66673de2-fa25-4ded-82f5-d680208da244
+SEQUENCE:0
+DTSTAMP:20250901T171304
+DTSTART:20250906T121000
+DTEND:20250906T125500
+SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Creswick Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Creswick Pi
+ ranhas\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

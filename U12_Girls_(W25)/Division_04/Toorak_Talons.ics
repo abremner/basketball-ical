@@ -5,4 +5,15 @@ NAME:Toorak Talons Fixtures
 X-WR-CALNAME:Toorak Talons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:dc3600c1-1137-47ed-8f5e-bcffadc5d277
+SEQUENCE:0
+DTSTAMP:20250901T171255
+DTSTART:20250906T121000
+DTEND:20250906T125500
+SUMMARY:🏀 U12 Girls: Toorak Talons vs Aintree Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Aintre
+ e Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR
