@@ -5,4 +5,15 @@ NAME:Timberwolves Emeralds Fixtures
 X-WR-CALNAME:Timberwolves Emeralds Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4d7d4798-aefa-4a0c-b8f4-402a7eb4cd94
+SEQUENCE:0
+DTSTAMP:20250903T171402
+DTSTART:20250909T184500
+DTEND:20250909T193000
+SUMMARY:🏀 U16 Girls: Timberwolves Emeralds vs Malvern Tigers Atwell
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Atwell\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

@@ -5,4 +5,15 @@ NAME:Harold Piranhas Fixtures
 X-WR-CALNAME:Harold Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c519dc6a-0136-4e09-bc35-16022abb6b76
+SEQUENCE:0
+DTSTAMP:20250903T171404
+DTSTART:20250909T174500
+DTEND:20250909T183000
+SUMMARY:🏀 U16 Girls: Harold Piranhas vs Korowa Cherry
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Korowa
+  Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

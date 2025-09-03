@@ -5,4 +5,15 @@ NAME:Malvern Tigers Atwell Fixtures
 X-WR-CALNAME:Malvern Tigers Atwell Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8023bad3-2038-4d66-91e6-3bfe76ecf438
+SEQUENCE:0
+DTSTAMP:20250903T171400
+DTSTART:20250909T184500
+DTEND:20250909T193000
+SUMMARY:🏀 U16 Girls: Malvern Tigers Atwell vs Timberwolves Emeralds
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Emeralds\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

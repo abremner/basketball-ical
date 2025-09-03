@@ -5,4 +5,15 @@ NAME:Toorak Trailblazers Fixtures
 X-WR-CALNAME:Toorak Trailblazers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c8388f79-0986-45ff-b7e7-9deedf7b02ec
+SEQUENCE:0
+DTSTAMP:20250903T171421
+DTSTART:20250909T184500
+DTEND:20250909T193000
+SUMMARY:🏀 U18 Girls: Toorak Trailblazers vs Solway Magic
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Magic\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR
