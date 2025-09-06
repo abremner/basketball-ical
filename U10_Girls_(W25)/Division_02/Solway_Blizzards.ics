@@ -5,15 +5,4 @@ NAME:Solway Blizzards Fixtures
 X-WR-CALNAME:Solway Blizzards Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:e6bdb3cb-6f59-4227-b7b4-e7c13d9d06da
-SEQUENCE:0
-DTSTAMP:20250905T171151
-DTSTART:20250906T112000
-DTEND:20250906T120500
-SUMMARY:🏀 U10 Girls: Solway Blizzards vs Halley Park Piranhas
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Halley Park
-  Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

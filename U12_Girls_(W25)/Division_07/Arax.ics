@@ -5,15 +5,4 @@ NAME:Arax Fixtures
 X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:10ca75a0-9120-43db-b830-39b4f1792ee0
-SEQUENCE:0
-DTSTAMP:20250905T171257
-DTSTART:20250906T121000
-DTEND:20250906T125500
-SUMMARY:🏀 U12 Girls: Arax vs Solway Wrens
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Wren
- s\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

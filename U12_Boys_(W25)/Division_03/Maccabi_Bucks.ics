@@ -5,15 +5,4 @@ NAME:Maccabi Bucks Fixtures
 X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:58887a25-6940-4982-ad49-720a3c27fc64
-SEQUENCE:0
-DTSTAMP:20250905T171208
-DTSTART:20250906T135000
-DTEND:20250906T143500
-SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Alma Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Alma P
- ark Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

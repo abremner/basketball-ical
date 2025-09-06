@@ -5,15 +5,4 @@ NAME:Maccabi Bucks Fixtures
 X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:8b65a836-e228-406f-ba31-68a92baabbaa
-SEQUENCE:0
-DTSTAMP:20250905T171111
-DTSTART:20250906T094000
-DTEND:20250906T102500
-SUMMARY:🏀 U08 Girls: Maccabi Bucks vs Warley Piranhas
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Warley Pira
- nhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,4 @@ NAME:Korowa Cherry Fixtures
 X-WR-CALNAME:Korowa Cherry Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:ca334771-d9a0-4b2c-92dd-ffb94292bced
-SEQUENCE:0
-DTSTAMP:20250905T171247
-DTSTART:20250906T130000
-DTEND:20250906T134500
-SUMMARY:🏀 U12 Girls: Korowa Cherry vs Willow Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Willow
-  Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

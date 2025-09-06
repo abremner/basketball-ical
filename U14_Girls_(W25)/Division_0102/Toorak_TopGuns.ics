@@ -5,15 +5,4 @@ NAME:Toorak TopGuns Fixtures
 X-WR-CALNAME:Toorak TopGuns Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:7ae5de78-3604-43ab-8c96-21a3d191b9cc
-SEQUENCE:0
-DTSTAMP:20250905T171330
-DTSTART:20250906T171000
-DTEND:20250906T175500
-SUMMARY:🏀 U14 Girls: Toorak TopGuns vs Gardenvale Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Garden
- vale Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,4 @@ NAME:Solway Tornadoes Fixtures
 X-WR-CALNAME:Solway Tornadoes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:550a1f44-f9f1-4898-8c4c-46088a28a203
-SEQUENCE:0
-DTSTAMP:20250905T171151
-DTSTART:20250906T112000
-DTEND:20250906T120500
-SUMMARY:🏀 U10 Girls: Solway Tornadoes vs Toorak Tangos
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
-  Tangos\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

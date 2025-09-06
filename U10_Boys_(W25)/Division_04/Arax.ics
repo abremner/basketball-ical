@@ -5,15 +5,4 @@ NAME:Arax Fixtures
 X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:d50914f1-a793-4e5e-a68f-afef761c1d88
-SEQUENCE:0
-DTSTAMP:20250905T171122
-DTSTART:20250906T094000
-DTEND:20250906T102500
-SUMMARY:🏀 U10 Boys: Arax vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
- ightning Gold\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

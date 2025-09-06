@@ -5,15 +5,4 @@ NAME:AlphaWolf Dragons Fixtures
 X-WR-CALNAME:AlphaWolf Dragons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:880a71b3-f296-4714-afa6-e1221678f558
-SEQUENCE:0
-DTSTAMP:20250905T171116
-DTSTART:20250906T112000
-DTEND:20250906T120500
-SUMMARY:🏀 U10 Boys: AlphaWolf Dragons vs Solway Boomers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
-  Boomers\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,4 @@ NAME:Central Park Piranhas Fixtures
 X-WR-CALNAME:Central Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:6912da6b-13de-42bd-9799-403fd4580fdf
-SEQUENCE:0
-DTSTAMP:20250905T171223
-DTSTART:20250906T130000
-DTEND:20250906T134500
-SUMMARY:🏀 U12 Boys: Central Park Piranhas vs Maccabi Falcons
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
-  Falcons\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

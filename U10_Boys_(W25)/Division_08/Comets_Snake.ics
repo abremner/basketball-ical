@@ -5,15 +5,4 @@ NAME:Comets Snake Fixtures
 X-WR-CALNAME:Comets Snake Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:dc543d3c-8fb1-4695-b4b6-bdadd3da3d5a
-SEQUENCE:0
-DTSTAMP:20250905T171134
-DTSTART:20250906T080000
-DTEND:20250906T084500
-SUMMARY:🏀 U10 Boys: Comets Snake vs Maccabi Falcons
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
- i Falcons\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

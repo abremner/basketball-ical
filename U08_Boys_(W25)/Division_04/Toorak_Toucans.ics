@@ -5,15 +5,4 @@ NAME:Toorak Toucans Fixtures
 X-WR-CALNAME:Toorak Toucans Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:d1ed2987-48e8-49d4-ab0d-0ac70d797813
-SEQUENCE:0
-DTSTAMP:20250905T171102
-DTSTART:20250906T085000
-DTEND:20250906T093500
-SUMMARY:🏀 U08 Boys: Toorak Toucans vs Solway Mustangs
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
- Mustangs\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

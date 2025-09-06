@@ -5,15 +5,4 @@ NAME:Solway Sparks Fixtures
 X-WR-CALNAME:Solway Sparks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:55312e46-0314-439a-ba6b-1783cbfe2fd9
-SEQUENCE:0
-DTSTAMP:20250905T171112
-DTSTART:20250906T094000
-DTEND:20250906T102500
-SUMMARY:🏀 U08 Girls: Solway Sparks vs Maccabi Celtics
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Cel
- tics\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

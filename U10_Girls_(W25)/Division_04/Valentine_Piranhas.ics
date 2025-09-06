@@ -5,15 +5,4 @@ NAME:Valentine Piranhas Fixtures
 X-WR-CALNAME:Valentine Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:1b04cb7a-201f-49df-ae61-1f5c3ccd89ae
-SEQUENCE:0
-DTSTAMP:20250905T171158
-DTSTART:20250906T135000
-DTEND:20250906T143500
-SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Embling Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Emblin
- g Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

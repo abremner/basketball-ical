@@ -5,15 +5,4 @@ NAME:Solway Bluebirds Fixtures
 X-WR-CALNAME:Solway Bluebirds Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:acf051f2-4aa1-4037-8cd1-d4c1e5f50d13
-SEQUENCE:0
-DTSTAMP:20250905T171242
-DTSTART:20250906T144000
-DTEND:20250906T152500
-SUMMARY:🏀 U12 Girls: Solway Bluebirds vs Malvern Tigers Phillips
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
- n Tigers Phillips\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

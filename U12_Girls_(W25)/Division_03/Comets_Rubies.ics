@@ -5,15 +5,4 @@ NAME:Comets Rubies Fixtures
 X-WR-CALNAME:Comets Rubies Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:55213384-807b-42ff-a149-6e48bf15e758
-SEQUENCE:0
-DTSTAMP:20250905T171244
-DTSTART:20250906T130000
-DTEND:20250906T134500
-SUMMARY:🏀 U12 Girls: Comets Rubies vs Solway Rosellas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
-  Rosellas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

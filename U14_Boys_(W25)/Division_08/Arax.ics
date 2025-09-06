@@ -5,15 +5,4 @@ NAME:Arax Fixtures
 X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:0e777519-74e3-4225-8ce2-8b25f859c88f
-SEQUENCE:0
-DTSTAMP:20250905T171320
-DTSTART:20250906T144000
-DTEND:20250906T152500
-SUMMARY:🏀 U14 Boys: Arax vs Solway Mavericks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
-  Mavericks\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,4 @@ NAME:Glen Iris Scorpions Ferndale Fixtures
 X-WR-CALNAME:Glen Iris Scorpions Ferndale Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:fd98f9d6-56a5-4fe6-99ac-7626408ad8a0
-SEQUENCE:0
-DTSTAMP:20250905T171123
-DTSTART:20250906T103000
-DTEND:20250906T111500
-SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Ferndale vs Solway Lakers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
-  Lakers\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

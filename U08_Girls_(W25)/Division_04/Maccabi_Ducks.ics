@@ -5,15 +5,4 @@ NAME:Maccabi Ducks Fixtures
 X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:87618170-d1fd-447e-a176-5ece9abe357c
-SEQUENCE:0
-DTSTAMP:20250905T171115
-DTSTART:20250906T085000
-DTEND:20250906T093500
-SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Flowerdale Piranhas
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Flowerdale 
- Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

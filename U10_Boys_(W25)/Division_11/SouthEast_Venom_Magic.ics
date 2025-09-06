@@ -5,15 +5,4 @@ NAME:SouthEast Venom Magic Fixtures
 X-WR-CALNAME:SouthEast Venom Magic Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:3d0bc7a8-1422-4c0b-813f-287051ad68bd
-SEQUENCE:0
-DTSTAMP:20250905T171145
-DTSTART:20250906T080000
-DTEND:20250906T084500
-SUMMARY:🏀 U10 Boys: SouthEast Venom Magic vs Solway Hornets
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
-  Hornets\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

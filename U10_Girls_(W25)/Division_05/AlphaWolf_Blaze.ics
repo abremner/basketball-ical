@@ -5,15 +5,4 @@ NAME:AlphaWolf Blaze Fixtures
 X-WR-CALNAME:AlphaWolf Blaze Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:01a8cb9b-5a53-4f93-b4e2-b9f4488ec6ea
-SEQUENCE:0
-DTSTAMP:20250905T171159
-DTSTART:20250906T094000
-DTEND:20250906T102500
-SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Korowa Grey
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Korowa
-  Grey\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

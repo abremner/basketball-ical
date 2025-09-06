@@ -5,15 +5,4 @@ NAME:AlphaWolf Force Fixtures
 X-WR-CALNAME:AlphaWolf Force Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:665eca6a-5be1-495b-b20a-e5e4c257d0b9
-SEQUENCE:0
-DTSTAMP:20250905T171311
-DTSTART:20250906T153000
-DTEND:20250906T161500
-SUMMARY:🏀 U14 Boys: AlphaWolf Force vs Toorak Tomcats
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
-  Tomcats\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR
