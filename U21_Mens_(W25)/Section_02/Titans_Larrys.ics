@@ -5,15 +5,4 @@ NAME:Titans Larrys Fixtures
 X-WR-CALNAME:Titans Larrys Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:23393cf8-1113-4955-b0e3-d12e46aaf22b
-SEQUENCE:0
-DTSTAMP:20250906T171336
-DTSTART:20250907T180000
-DTEND:20250907T184500
-SUMMARY:🏀 U21 Mens: Titans Larrys vs Solway Cobras
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
-  Cobras\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR
