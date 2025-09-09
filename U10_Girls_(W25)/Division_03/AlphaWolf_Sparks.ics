@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Sparks Fixtures
+X-WR-CALNAME:AlphaWolf Sparks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4415b101-1ea8-4a40-9c50-daf500dd1316
+SEQUENCE:0
+DTSTAMP:20250909T171223
+DTSTART:20250913T103000
+DTEND:20250913T111500
+SUMMARY:🏀 U10 Girls: AlphaWolf Sparks vs Solway Mistrals
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Mistrals\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

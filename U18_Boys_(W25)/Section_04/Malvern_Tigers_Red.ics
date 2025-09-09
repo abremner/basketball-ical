@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Red Fixtures
+X-WR-CALNAME:Malvern Tigers Red Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:76c88efa-1a15-47fc-a2bb-4f1b7e2ef682
+SEQUENCE:0
+DTSTAMP:20250909T171453
+DTSTART:20250914T184500
+DTEND:20250914T193000
+SUMMARY:🏀 U18 Boys: Malvern Tigers Red vs Timberwolves Stars
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Stars\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

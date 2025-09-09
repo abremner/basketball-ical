@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Shadows Fixtures
+X-WR-CALNAME:AlphaWolf Shadows Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a21111a2-c106-47d3-bafc-4b77d92ff567
+SEQUENCE:0
+DTSTAMP:20250909T171428
+DTSTART:20250913T183000
+DTEND:20250913T191500
+SUMMARY:🏀 U16 Boys: AlphaWolf Shadows vs Malvern Tigers Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

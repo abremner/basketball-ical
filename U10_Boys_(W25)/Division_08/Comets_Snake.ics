@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Comets Snake Fixtures
+X-WR-CALNAME:Comets Snake Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:77de2b94-a5d0-41b3-923c-25e3728fbcf7
+SEQUENCE:0
+DTSTAMP:20250909T171203
+DTSTART:20250913T080000
+DTEND:20250913T084500
+SUMMARY:🏀 U10 Boys: Comets Snake vs Timberwolves Lightning
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Lightning\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

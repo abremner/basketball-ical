@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Thunder Fixtures
+X-WR-CALNAME:Timberwolves Thunder Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d23fa9ee-efc4-4167-9288-5fab64b44565
+SEQUENCE:0
+DTSTAMP:20250909T171316
+DTSTART:20250913T133000
+DTEND:20250913T141500
+SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Korowa Cherry
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Korowa
+  Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

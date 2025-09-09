@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ferncroft Piranhas Fixtures
+X-WR-CALNAME:Ferncroft Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7a4d85f3-e697-4e71-b896-5ba3e1aaffd1
+SEQUENCE:0
+DTSTAMP:20250909T171449
+DTSTART:20250914T174500
+DTEND:20250914T183000
+SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Glen Iris Scorpions Saints
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Saints\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

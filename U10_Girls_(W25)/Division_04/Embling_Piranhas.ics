@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Embling Piranhas Fixtures
+X-WR-CALNAME:Embling Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b29177f1-b8f3-4e81-bafe-d2c453abb47d
+SEQUENCE:0
+DTSTAMP:20250909T171226
+DTSTART:20250913T100000
+DTEND:20250913T104500
+SUMMARY:🏀 U10 Girls: Embling Piranhas vs Malvern Tigers Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

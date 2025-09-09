@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tractors Fixtures
+X-WR-CALNAME:Toorak Tractors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2be2f67a-e567-4138-8684-f8c81b6576c7
+SEQUENCE:0
+DTSTAMP:20250909T171347
+DTSTART:20250913T160000
+DTEND:20250913T164500
+SUMMARY:🏀 U14 Boys: Toorak Tractors vs Timberwolves Terriers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Terriers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Blaze Fixtures
+X-WR-CALNAME:AlphaWolf Blaze Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6d3e41cd-c62f-4964-9734-5e1577a393db
+SEQUENCE:0
+DTSTAMP:20250909T171229
+DTSTART:20250913T080000
+DTEND:20250913T084500
+SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

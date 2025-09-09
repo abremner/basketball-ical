@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Celtics Fixtures
+X-WR-CALNAME:Timberwolves Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e80f6f49-de7e-47fa-8f1f-30413547be38
+SEQUENCE:0
+DTSTAMP:20250909T171338
+DTSTART:20250913T173000
+DTEND:20250913T181500
+SUMMARY:🏀 U14 Boys: Timberwolves Celtics vs Malvern Tigers White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

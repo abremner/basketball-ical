@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Purple Fixtures
+X-WR-CALNAME:Malvern Tigers Purple Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b929786e-d2df-47c1-8e8c-035a7edde7f7
+SEQUENCE:0
+DTSTAMP:20250909T171251
+DTSTART:20250913T123000
+DTEND:20250913T131500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Purple vs Solway Bobcats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Bobcats\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

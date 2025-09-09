@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak TopShots Fixtures
+X-WR-CALNAME:Toorak TopShots Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:606cd7af-785d-4b3f-9b02-eb55b24a443a
+SEQUENCE:0
+DTSTAMP:20250909T171310
+DTSTART:20250913T150000
+DTEND:20250913T154500
+SUMMARY:🏀 U12 Girls: Toorak TopShots vs Yanakie Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Yanaki
+ e Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Sapphires Fixtures
+X-WR-CALNAME:Timberwolves Sapphires Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1c680b02-8d88-43a0-ae71-d0917f0c09bc
+SEQUENCE:0
+DTSTAMP:20250909T171411
+DTSTART:20250913T163000
+DTEND:20250913T171500
+SUMMARY:🏀 U14 Girls: Timberwolves Sapphires vs Maccabi Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

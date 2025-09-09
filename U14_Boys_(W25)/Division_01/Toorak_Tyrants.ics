@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tyrants Fixtures
+X-WR-CALNAME:Toorak Tyrants Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a7d72a47-4501-4688-834d-c1ee70491814
+SEQUENCE:0
+DTSTAMP:20250909T171329
+DTSTART:20250913T180000
+DTEND:20250913T184500
+SUMMARY:🏀 U14 Boys: Toorak Tyrants vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

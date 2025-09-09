@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Blaze Fixtures
+X-WR-CALNAME:Timberwolves Blaze Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b679988f-b320-4748-8192-76905c2ab534
+SEQUENCE:0
+DTSTAMP:20250909T171433
+DTSTART:20250913T183000
+DTEND:20250913T191500
+SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Maccabi Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

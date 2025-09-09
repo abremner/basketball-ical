@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Taipans Fixtures
+X-WR-CALNAME:Toorak Taipans Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:227e8b45-71a3-4749-90d5-dab97fe8a0b0
+SEQUENCE:0
+DTSTAMP:20250909T171237
+DTSTART:20250913T150000
+DTEND:20250913T154500
+SUMMARY:🏀 U12 Boys: Toorak Taipans vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

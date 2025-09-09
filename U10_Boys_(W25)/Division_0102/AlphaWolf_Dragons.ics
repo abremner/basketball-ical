@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Dragons Fixtures
+X-WR-CALNAME:AlphaWolf Dragons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:539dc255-3e38-44a6-b7f2-91639decf4ea
+SEQUENCE:0
+DTSTAMP:20250909T171146
+DTSTART:20250913T110000
+DTEND:20250913T114500
+SUMMARY:🏀 U10 Boys: AlphaWolf Dragons vs Toorak Tigercats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Tigercats\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

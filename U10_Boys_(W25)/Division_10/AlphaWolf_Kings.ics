@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Kings Fixtures
+X-WR-CALNAME:AlphaWolf Kings Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:664b28b3-f161-4a06-b439-2bae916c87f6
+SEQUENCE:0
+DTSTAMP:20250909T171211
+DTSTART:20250913T083000
+DTEND:20250913T091500
+SUMMARY:🏀 U10 Boys: AlphaWolf Kings vs Maccabi Giants
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Giants\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

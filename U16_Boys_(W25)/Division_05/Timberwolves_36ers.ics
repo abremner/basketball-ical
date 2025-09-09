@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves 36ers Fixtures
+X-WR-CALNAME:Timberwolves 36ers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:71228e3d-9cd0-4357-a155-6e1acd91368e
+SEQUENCE:0
+DTSTAMP:20250909T171427
+DTSTART:20250913T190000
+DTEND:20250913T194500
+SUMMARY:🏀 U16 Boys: Timberwolves 36ers vs Maccabi Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

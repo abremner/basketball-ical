@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Alma Park Piranhas Fixtures
+X-WR-CALNAME:Alma Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:fe8290c6-d398-40e1-bb0c-cdbeddecc81d
+SEQUENCE:0
+DTSTAMP:20250909T171237
+DTSTART:20250913T143000
+DTEND:20250913T151500
+SUMMARY:🏀 U12 Boys: Alma Park Piranhas vs Windsor Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Windso
+ r Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

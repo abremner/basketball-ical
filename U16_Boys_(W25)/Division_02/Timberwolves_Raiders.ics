@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Raiders Fixtures
+X-WR-CALNAME:Timberwolves Raiders Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:818d1375-9cf8-47e4-8d84-ba23b88b1250
+SEQUENCE:0
+DTSTAMP:20250909T171418
+DTSTART:20250913T193000
+DTEND:20250913T201500
+SUMMARY:🏀 U16 Boys: Timberwolves Raiders vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

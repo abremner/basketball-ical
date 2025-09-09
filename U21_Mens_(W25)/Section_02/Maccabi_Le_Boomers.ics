@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Le Boomers Fixtures
+X-WR-CALNAME:Maccabi Le Boomers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:cff6142c-d7e2-4fe9-9a43-18409849d9ea
+SEQUENCE:0
+DTSTAMP:20250909T171505
+DTSTART:20250914T184500
+DTEND:20250914T193000
+SUMMARY:🏀 U21 Mens: Maccabi Le Boomers vs Solway Cobras
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Cobras\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

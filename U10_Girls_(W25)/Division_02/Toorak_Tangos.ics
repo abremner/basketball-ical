@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tangos Fixtures
+X-WR-CALNAME:Toorak Tangos Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d842208f-de2a-4685-89d9-43afe846860e
+SEQUENCE:0
+DTSTAMP:20250909T171222
+DTSTART:20250913T090000
+DTEND:20250913T094500
+SUMMARY:🏀 U10 Girls: Toorak Tangos vs Halley Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Halley
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

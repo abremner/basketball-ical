@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Black Fixtures
+X-WR-CALNAME:Malvern Tigers Black Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e6dc8d58-fd58-4eb2-bd13-832959c570e5
+SEQUENCE:0
+DTSTAMP:20250909T171146
+DTSTART:20250913T090000
+DTEND:20250913T094500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Black vs Timberwolves Crusaders
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Crusaders\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Lavey Fixtures
+X-WR-CALNAME:Malvern Tigers Lavey Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a83fa7ac-bf38-4d00-916c-a7cc7f6e743b
+SEQUENCE:0
+DTSTAMP:20250909T171319
+DTSTART:20250913T140000
+DTEND:20250913T144500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Lavey vs Erica Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Erica 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Warriors Fixtures
+X-WR-CALNAME:Maccabi Warriors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c101c488-84c7-43df-9d0d-21d2695bbc3f
+SEQUENCE:0
+DTSTAMP:20250909T171422
+DTSTART:20250913T190000
+DTEND:20250913T194500
+SUMMARY:🏀 U16 Boys: Maccabi Warriors vs Solway Super Sonics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Super Sonics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

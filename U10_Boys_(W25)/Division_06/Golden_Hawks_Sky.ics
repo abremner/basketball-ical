@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Golden Hawks Sky Fixtures
+X-WR-CALNAME:Golden Hawks Sky Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:66f738a3-5403-4e93-8009-d2eba8fad99e
+SEQUENCE:0
+DTSTAMP:20250909T171159
+DTSTART:20250913T093000
+DTEND:20250913T101500
+SUMMARY:🏀 U10 Boys: Golden Hawks Sky vs AlphaWolf Hunters
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AlphaW
+ olf Hunters\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

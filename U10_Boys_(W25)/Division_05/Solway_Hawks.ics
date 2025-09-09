@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Hawks Fixtures
+X-WR-CALNAME:Solway Hawks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e7e0cddf-df91-49f3-9574-3e361c04035f
+SEQUENCE:0
+DTSTAMP:20250909T171157
+DTSTART:20250913T113000
+DTEND:20250913T121500
+SUMMARY:🏀 U10 Boys: Solway Hawks vs Solway Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

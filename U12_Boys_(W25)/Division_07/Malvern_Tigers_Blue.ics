@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Blue Fixtures
+X-WR-CALNAME:Malvern Tigers Blue Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f2497b64-88b3-4858-9efb-2cced722be46
+SEQUENCE:0
+DTSTAMP:20250909T171249
+DTSTART:20250913T130000
+DTEND:20250913T134500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Blue vs Maccabi Eagles
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

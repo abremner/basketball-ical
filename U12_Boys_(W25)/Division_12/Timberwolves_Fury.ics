@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Fury Fixtures
+X-WR-CALNAME:Timberwolves Fury Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6680b490-2174-4173-8bec-82f4f2826a0d
+SEQUENCE:0
+DTSTAMP:20250909T171304
+DTSTART:20250913T113000
+DTEND:20250913T121500
+SUMMARY:🏀 U12 Boys: Timberwolves Fury vs Solway Dingoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Dingoes\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

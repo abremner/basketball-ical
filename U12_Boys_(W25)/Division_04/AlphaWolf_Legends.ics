@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Legends Fixtures
+X-WR-CALNAME:AlphaWolf Legends Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:919ba5f5-c7a4-489e-ae56-373aec92022e
+SEQUENCE:0
+DTSTAMP:20250909T171240
+DTSTART:20250913T140000
+DTEND:20250913T144500
+SUMMARY:🏀 U12 Boys: AlphaWolf Legends vs Solway Cubs
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Cubs\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

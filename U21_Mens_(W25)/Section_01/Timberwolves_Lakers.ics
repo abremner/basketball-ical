@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Lakers Fixtures
+X-WR-CALNAME:Timberwolves Lakers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e158fe73-b161-45e8-9ab3-e1445e6bca54
+SEQUENCE:0
+DTSTAMP:20250909T171503
+DTSTART:20250914T184500
+DTEND:20250914T193000
+SUMMARY:🏀 U21 Mens: Timberwolves Lakers vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Aqua Fixtures
+X-WR-CALNAME:Malvern Tigers Aqua Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:10a0b7ce-9504-44fd-baba-55d05d2323e9
+SEQUENCE:0
+DTSTAMP:20250909T171306
+DTSTART:20250913T110000
+DTEND:20250913T114500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Balaclava Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Balacl
+ ava Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

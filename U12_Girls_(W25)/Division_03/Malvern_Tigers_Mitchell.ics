@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Mitchell Fixtures
+X-WR-CALNAME:Malvern Tigers Mitchell Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:68779626-4ca6-4190-9921-3e97dc0c8cbb
+SEQUENCE:0
+DTSTAMP:20250909T171312
+DTSTART:20250913T140000
+DTEND:20250913T144500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Mitchell vs Solway Rosellas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Rosellas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

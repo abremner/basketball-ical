@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:SouthEast Venom Heat Fixtures
+X-WR-CALNAME:SouthEast Venom Heat Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:eba187d9-426d-4a6d-a306-d6f68a704c48
+SEQUENCE:0
+DTSTAMP:20250909T171354
+DTSTART:20250913T153000
+DTEND:20250913T161500
+SUMMARY:🏀 U14 Boys: SouthEast Venom Heat vs Maccabi Eagles
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR
