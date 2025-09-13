@@ -5,15 +5,4 @@ NAME:Solway Rockets Fixtures
 X-WR-CALNAME:Solway Rockets Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:2dbd4ee0-5d81-4a33-94bb-ca5d1c3fbd9d
-SEQUENCE:0
-DTSTAMP:20250912T171319
-DTSTART:20250913T190000
-DTEND:20250913T194500
-SUMMARY:🏀 U16 Boys: Solway Rockets vs Timberwolves United
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
- wolves United\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

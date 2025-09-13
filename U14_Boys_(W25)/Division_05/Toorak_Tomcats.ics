@@ -5,15 +5,4 @@ NAME:Toorak Tomcats Fixtures
 X-WR-CALNAME:Toorak Tomcats Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:57f8e0f9-8f39-4797-b693-fb444a8886aa
-SEQUENCE:0
-DTSTAMP:20250912T171245
-DTSTART:20250913T170000
-DTEND:20250913T174500
-SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Comets Lightning
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
-  Lightning\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

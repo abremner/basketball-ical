@@ -5,15 +5,4 @@ NAME:Korowa Cherry Fixtures
 X-WR-CALNAME:Korowa Cherry Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:325f40a3-b6f7-4b8f-a06f-13007a3a6941
-SEQUENCE:0
-DTSTAMP:20250912T171218
-DTSTART:20250913T133000
-DTEND:20250913T141500
-SUMMARY:🏀 U12 Girls: Korowa Cherry vs Timberwolves Thunder
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
- wolves Thunder\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

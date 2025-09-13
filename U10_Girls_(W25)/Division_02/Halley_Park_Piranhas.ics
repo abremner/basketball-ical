@@ -5,15 +5,4 @@ NAME:Halley Park Piranhas Fixtures
 X-WR-CALNAME:Halley Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:29d89af7-14ef-4165-8d02-8f9e75d85b80
-SEQUENCE:0
-DTSTAMP:20250912T171122
-DTSTART:20250913T090000
-DTEND:20250913T094500
-SUMMARY:🏀 U10 Girls: Halley Park Piranhas vs Toorak Tangos
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
-  Tangos\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

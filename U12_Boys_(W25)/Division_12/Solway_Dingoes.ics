@@ -5,15 +5,4 @@ NAME:Solway Dingoes Fixtures
 X-WR-CALNAME:Solway Dingoes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:ec441114-01f1-41fd-be66-05215c4b85ed
-SEQUENCE:0
-DTSTAMP:20250912T171206
-DTSTART:20250913T113000
-DTEND:20250913T121500
-SUMMARY:🏀 U12 Boys: Solway Dingoes vs Timberwolves Fury
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
- wolves Fury\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

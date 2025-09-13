@@ -5,15 +5,4 @@ NAME:Toorak TopGuns Fixtures
 X-WR-CALNAME:Toorak TopGuns Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:d86d5a26-8dcd-4a34-8d99-8f2dcef5baef
-SEQUENCE:0
-DTSTAMP:20250912T171303
-DTSTART:20250913T123000
-DTEND:20250913T131500
-SUMMARY:🏀 U14 Girls: Toorak TopGuns vs Maccabi Warriors
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
- i Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

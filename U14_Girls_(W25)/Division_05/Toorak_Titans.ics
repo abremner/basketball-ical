@@ -5,15 +5,4 @@ NAME:Toorak Titans Fixtures
 X-WR-CALNAME:Toorak Titans Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:f64a64fb-d11c-4239-8fcd-d0f51bf12baf
-SEQUENCE:0
-DTSTAMP:20250912T171313
-DTSTART:20250913T170000
-DTEND:20250913T174500
-SUMMARY:🏀 U14 Girls: Toorak Titans vs Maccabi Bucks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
- i Bucks\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

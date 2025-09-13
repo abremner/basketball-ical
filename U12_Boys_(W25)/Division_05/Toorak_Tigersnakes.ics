@@ -5,15 +5,4 @@ NAME:Toorak Tigersnakes Fixtures
 X-WR-CALNAME:Toorak Tigersnakes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:be852f8f-9a13-4d27-8224-1babeeddf8ae
-SEQUENCE:0
-DTSTAMP:20250912T171146
-DTSTART:20250913T133000
-DTEND:20250913T141500
-SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Toorak Torchers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
-  Torchers\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR
