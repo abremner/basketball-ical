@@ -5,15 +5,4 @@ NAME:Maccabi Le Boomers Fixtures
 X-WR-CALNAME:Maccabi Le Boomers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:35b6d354-99ba-4774-9cfd-e7e8d45827fc
-SEQUENCE:0
-DTSTAMP:20250913T171234
-DTSTART:20250914T184500
-DTEND:20250914T193000
-SUMMARY:🏀 U21 Mens: Maccabi Le Boomers vs Solway Cobras
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
-  Cobras\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR
