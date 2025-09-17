@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Renwick Piranhas Fixtures
+X-WR-CALNAME:Renwick Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4002530f-62e7-43c1-9ec7-640618e16030
+SEQUENCE:0
+DTSTAMP:20250917T171036
+DTSTART:20251011T084500
+DTEND:20251011T093000
+SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Timberwolves Pythons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Pythons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad55d12-3021-4da5-b35b-a4146210b25a
+SEQUENCE:0
+DTSTAMP:20250917T171036
+DTSTART:20251018T093000
+DTEND:20251018T101500
+SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:aa89aca9-7092-43da-8fb6-eb12e7513267
+SEQUENCE:0
+DTSTAMP:20250917T171036
+DTSTART:20251025T101500
+DTEND:20251025T110000
+SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Solway Broncos
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Broncos\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:56d3f23d-2502-40eb-9aea-a81107cf565b
+SEQUENCE:0
+DTSTAMP:20250917T171036
+DTSTART:20251101T084500
+DTEND:20251101T093000
+SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Glen Iris Scorpions Nettleton
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
+ is Scorpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d1e9a931-a7f7-408e-a98c-18a62d3af8f1
+SEQUENCE:0
+DTSTAMP:20250917T171036
+DTSTART:20251108T093000
+DTEND:20251108T101500
+SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Malvern Tigers Baynes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Baynes\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR
