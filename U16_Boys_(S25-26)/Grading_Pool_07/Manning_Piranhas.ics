@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Manning Piranhas Fixtures
+X-WR-CALNAME:Manning Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e40645f2-4442-4f80-83ad-09761c30b427
+SEQUENCE:0
+DTSTAMP:20250930T171528
+DTSTART:20251011T191500
+DTEND:20251011T200000
+SUMMARY:🏀 U16 Boys: Manning Piranhas vs Solway Rangers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Rangers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4fb39176-ba03-478a-b81e-067ad8f501ec
+SEQUENCE:0
+DTSTAMP:20250930T171528
+DTSTART:20251018T183000
+DTEND:20251018T191500
+SUMMARY:🏀 U16 Boys: Manning Piranhas vs Timberwolves Bulls
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Bulls\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:57262802-90f9-43e0-b596-154145b7c6cf
+SEQUENCE:0
+DTSTAMP:20250930T171528
+DTSTART:20251025T183000
+DTEND:20251025T191500
+SUMMARY:🏀 U16 Boys: Manning Piranhas vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Gold Fixtures
+X-WR-CALNAME:Ashy Lightning Gold Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c58cfe0b-2238-4977-8215-50996c556f84
+SEQUENCE:0
+DTSTAMP:20250930T171449
+DTSTART:20251011T170000
+DTEND:20251011T174500
+SUMMARY:🏀 U14 Girls: Ashy Lightning Gold vs Solway Emeralds
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Emeralds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:94eed097-f248-4387-97f2-ff3915b554f4
+SEQUENCE:0
+DTSTAMP:20250930T171449
+DTSTART:20251018T170000
+DTEND:20251018T174500
+SUMMARY:🏀 U14 Girls: Ashy Lightning Gold vs Malvern Tigers Lewis
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Lewis\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d1129f41-47f9-4755-b583-e4758f1bb6cd
+SEQUENCE:0
+DTSTAMP:20250930T171449
+DTSTART:20251025T174500
+DTEND:20251025T183000
+SUMMARY:🏀 U14 Girls: Ashy Lightning Gold vs Solway Jewels
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Jewels\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

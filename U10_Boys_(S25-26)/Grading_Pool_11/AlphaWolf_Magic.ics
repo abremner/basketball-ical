@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Magic Fixtures
+X-WR-CALNAME:AlphaWolf Magic Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:370abae4-e84d-4eec-b768-f21abb4f6c95
+SEQUENCE:0
+DTSTAMP:20250930T171252
+DTSTART:20251011T110000
+DTEND:20251011T114500
+SUMMARY:🏀 U10 Boys: AlphaWolf Magic vs Malvern Tigers Lime
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Lime\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ebe6477e-8b02-4efd-836e-f37ffb180bea
+SEQUENCE:0
+DTSTAMP:20250930T171252
+DTSTART:20251018T093000
+DTEND:20251018T101500
+SUMMARY:🏀 U10 Boys: AlphaWolf Magic vs Heyington Piranhas
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Heyington Piranhas\nArrive 15
+  mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e8ce1523-5fc8-4af1-8bc1-9191993a08e3
+SEQUENCE:0
+DTSTAMP:20250930T171252
+DTSTART:20251025T080000
+DTEND:20251025T084500
+SUMMARY:🏀 U10 Boys: AlphaWolf Magic vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

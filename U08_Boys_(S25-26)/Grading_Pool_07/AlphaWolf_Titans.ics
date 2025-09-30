@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Titans Fixtures
+X-WR-CALNAME:AlphaWolf Titans Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:fdff1128-ad40-47a3-87c3-e9190fb71ac9
+SEQUENCE:0
+DTSTAMP:20250930T171204
+DTSTART:20251011T080000
+DTEND:20251011T084500
+SUMMARY:🏀 U08 Boys: AlphaWolf Titans vs Clyde Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Clyde P
+ iranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9a9561b0-8cf6-4423-9f6e-177e565308f2
+SEQUENCE:0
+DTSTAMP:20250930T171204
+DTSTART:20251018T080000
+DTEND:20251018T084500
+SUMMARY:🏀 U08 Boys: AlphaWolf Titans vs Arax
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Arax\nA
+ rrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:88bbebd7-55b2-45a3-9897-8422ce2dfc05
+SEQUENCE:0
+DTSTAMP:20250930T171204
+DTSTART:20251025T093000
+DTEND:20251025T101500
+SUMMARY:🏀 U08 Boys: AlphaWolf Titans vs Malvern Tigers Gaze
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Gaze\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

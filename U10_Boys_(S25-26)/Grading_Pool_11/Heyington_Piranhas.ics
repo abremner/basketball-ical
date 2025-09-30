@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Heyington Piranhas Fixtures
+X-WR-CALNAME:Heyington Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1b7a4afe-89a5-4c97-a706-7ca4716748d4
+SEQUENCE:0
+DTSTAMP:20250930T171252
+DTSTART:20251011T080000
+DTEND:20251011T084500
+SUMMARY:🏀 U10 Boys: Heyington Piranhas vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:00897d95-ed95-486b-9e0c-fdfd0c6972eb
+SEQUENCE:0
+DTSTAMP:20250930T171252
+DTSTART:20251018T093000
+DTEND:20251018T101500
+SUMMARY:🏀 U10 Boys: Heyington Piranhas vs AlphaWolf Magic
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: AlphaWolf Magic\nArrive 15 mi
+ ns early for warm-up
+END:VEVENT
+END:VCALENDAR

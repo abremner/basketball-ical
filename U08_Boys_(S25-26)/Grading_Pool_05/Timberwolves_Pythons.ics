@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Pythons Fixtures
+X-WR-CALNAME:Timberwolves Pythons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:17f22e9c-e96c-410b-840f-549486f1072f
+SEQUENCE:0
+DTSTAMP:20250930T171200
+DTSTART:20251011T084500
+DTEND:20251011T093000
+SUMMARY:🏀 U08 Boys: Timberwolves Pythons vs Renwick Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Renwick
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ad1e107c-3e10-4ae4-86c5-3fffa901a0df
+SEQUENCE:0
+DTSTAMP:20250930T171200
+DTSTART:20251018T084500
+DTEND:20251018T093000
+SUMMARY:🏀 U08 Boys: Timberwolves Pythons vs Malvern Tigers Baynes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Baynes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0fbbb9e3-6e96-459c-85c6-7f60bb4d79da
+SEQUENCE:0
+DTSTAMP:20250930T171200
+DTSTART:20251025T093000
+DTEND:20251025T101500
+SUMMARY:🏀 U08 Boys: Timberwolves Pythons vs Glen Iris Scorpions Nettlet
+ on
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
+ is Scorpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

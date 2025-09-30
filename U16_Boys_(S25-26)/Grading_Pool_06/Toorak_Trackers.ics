@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Trackers Fixtures
+X-WR-CALNAME:Toorak Trackers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3cc0f4b8-10e6-4a59-b766-dddbc93c674b
+SEQUENCE:0
+DTSTAMP:20250930T171526
+DTSTART:20251011T191500
+DTEND:20251011T200000
+SUMMARY:🏀 U16 Boys: Toorak Trackers vs Timberwolves Magic
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Magic\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4e0f1d8c-d6c0-4303-b063-fdd533a34f2d
+SEQUENCE:0
+DTSTAMP:20250930T171526
+DTSTART:20251018T183000
+DTEND:20251018T191500
+SUMMARY:🏀 U16 Boys: Toorak Trackers vs Tennyson Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Tennyso
+ n Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:892d235d-dfda-4608-a8b6-558772c30a82
+SEQUENCE:0
+DTSTAMP:20250930T171526
+DTSTART:20251025T174500
+DTEND:20251025T183000
+SUMMARY:🏀 U16 Boys: Toorak Trackers vs Maccabi Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Yellow Fixtures
+X-WR-CALNAME:Ashy Lightning Yellow Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:92d0b280-8381-4cee-991b-f41df2d92c42
+SEQUENCE:0
+DTSTAMP:20250930T171459
+DTSTART:20251011T153000
+DTEND:20251011T161500
+SUMMARY:🏀 U14 Girls: Ashy Lightning Yellow vs Toorak Topshots
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak 
+ Topshots\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:952c5266-5fe6-4b82-ba78-db21d39467b5
+SEQUENCE:0
+DTSTAMP:20250930T171459
+DTSTART:20251025T161500
+DTEND:20251025T170000
+SUMMARY:🏀 U14 Girls: Ashy Lightning Yellow vs Maccabi Celtics
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Cel
+ tics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

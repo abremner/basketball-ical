@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ormond Piranhas Fixtures
+X-WR-CALNAME:Ormond Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:057771c5-91a5-4d34-836c-722bfc035539
+SEQUENCE:0
+DTSTAMP:20250930T171528
+DTSTART:20251011T183000
+DTEND:20251011T191500
+SUMMARY:🏀 U16 Boys: Ormond Piranhas vs Timberwolves Bulls
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Bulls\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f14c4929-7f3f-49b1-a879-c298b23fcbf0
+SEQUENCE:0
+DTSTAMP:20250930T171528
+DTSTART:20251018T191500
+DTEND:20251018T200000
+SUMMARY:🏀 U16 Boys: Ormond Piranhas vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:45340dfa-d345-4cfc-9598-8b77082fddc0
+SEQUENCE:0
+DTSTAMP:20250930T171528
+DTSTART:20251025T191500
+DTEND:20251025T200000
+SUMMARY:🏀 U16 Boys: Ormond Piranhas vs Timberwolves Blaze
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Blaze\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

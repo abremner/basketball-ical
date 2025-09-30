@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Wallis Piranhas Fixtures
+X-WR-CALNAME:Wallis Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a039627e-7734-4558-88fd-3146d713e4e6
+SEQUENCE:0
+DTSTAMP:20250930T171219
+DTSTART:20251011T093000
+DTEND:20251011T101500
+SUMMARY:🏀 U08 Girls: Wallis Piranhas vs Malvern Tigers Wilson
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Wilson\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ea1c6b5b-4b79-4976-9309-3aa9a74f8162
+SEQUENCE:0
+DTSTAMP:20250930T171219
+DTSTART:20251018T084500
+DTEND:20251018T093000
+SUMMARY:🏀 U08 Girls: Wallis Piranhas vs Glen Iris Scorpions Ferndale
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
+ corpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:eb448cf1-5d21-4bb0-920f-2f78ad19ff89
+SEQUENCE:0
+DTSTAMP:20250930T171219
+DTSTART:20251025T101500
+DTEND:20251025T110000
+SUMMARY:🏀 U08 Girls: Wallis Piranhas vs Malvern Tigers Allen
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Allen\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

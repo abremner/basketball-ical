@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Warriors Fixtures
+X-WR-CALNAME:Timberwolves Warriors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0b085d0a-3cfc-4496-96d8-96ba62b995cc
+SEQUENCE:0
+DTSTAMP:20250930T171304
+DTSTART:20251011T110000
+DTEND:20251011T114500
+SUMMARY:🏀 U10 Girls: Timberwolves Warriors vs Dairy Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Dairy 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:df7a9157-0206-4b29-8b6d-493b8f032a41
+SEQUENCE:0
+DTSTAMP:20250930T171304
+DTSTART:20251018T110000
+DTEND:20251018T114500
+SUMMARY:🏀 U10 Girls: Timberwolves Warriors vs Erindale Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Erinda
+ le Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f1844834-b52a-4517-afc5-f82c1b350c40
+SEQUENCE:0
+DTSTAMP:20250930T171304
+DTSTART:20251025T110000
+DTEND:20251025T114500
+SUMMARY:🏀 U10 Girls: Timberwolves Warriors vs Glen Iris Scorpions Fernd
+ ale
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
+ ris Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

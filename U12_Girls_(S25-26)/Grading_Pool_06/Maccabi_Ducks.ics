@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Ducks Fixtures
+X-WR-CALNAME:Maccabi Ducks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:82962218-686c-4869-afc2-b07f4d5038d6
+SEQUENCE:0
+DTSTAMP:20250930T171410
+DTSTART:20251018T131500
+DTEND:20251018T140000
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Solway Red Robins
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Red Robins\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5bfb835a-54b4-462c-8396-339fa598e380
+SEQUENCE:0
+DTSTAMP:20250930T171410
+DTSTART:20251025T140000
+DTEND:20251025T144500
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Lauriston Storm
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston S
+ torm\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

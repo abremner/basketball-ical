@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Green Fixtures
+X-WR-CALNAME:Malvern Tigers Green Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:80e8673e-6cb6-4863-a96e-802e6e530588
+SEQUENCE:0
+DTSTAMP:20250930T171430
+DTSTART:20251011T170000
+DTEND:20251011T174500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Green vs Glen Iris Scorpions Nettlet
+ on
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
+ is Scorpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:207afebb-f342-45b7-802b-29fe1e04f3ef
+SEQUENCE:0
+DTSTAMP:20250930T171430
+DTSTART:20251018T161500
+DTEND:20251018T170000
+SUMMARY:🏀 U14 Boys: Malvern Tigers Green vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e70308e5-a7c3-4df0-8f7a-690944f0f6c2
+SEQUENCE:0
+DTSTAMP:20250930T171430
+DTSTART:20251025T153000
+DTEND:20251025T161500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Green vs Toorak Triple-Threat
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
+ Triple-Threat\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

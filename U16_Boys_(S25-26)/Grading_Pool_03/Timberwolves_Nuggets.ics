@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Nuggets Fixtures
+X-WR-CALNAME:Timberwolves Nuggets Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b1088ea8-4ea1-4877-80bf-357ba5868185
+SEQUENCE:0
+DTSTAMP:20250930T171516
+DTSTART:20251011T191500
+DTEND:20251011T200000
+SUMMARY:🏀 U16 Boys: Timberwolves Nuggets vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:18614903-96da-4931-ad0e-aa90a35b3811
+SEQUENCE:0
+DTSTAMP:20250930T171516
+DTSTART:20251018T191500
+DTEND:20251018T200000
+SUMMARY:🏀 U16 Boys: Timberwolves Nuggets vs Malvern Tigers Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:55ac1016-2715-42b9-8bbd-46dc0cebb9e3
+SEQUENCE:0
+DTSTAMP:20250930T171516
+DTSTART:20251025T174500
+DTEND:20251025T183000
+SUMMARY:🏀 U16 Boys: Timberwolves Nuggets vs Maccabi Half Court Miracles
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Half Court Miracles\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

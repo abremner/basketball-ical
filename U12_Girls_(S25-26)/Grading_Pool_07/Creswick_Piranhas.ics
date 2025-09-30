@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Creswick Piranhas Fixtures
+X-WR-CALNAME:Creswick Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6e5fb42f-41d2-491e-a201-ed920a83a086
+SEQUENCE:0
+DTSTAMP:20250930T171412
+DTSTART:20251011T123000
+DTEND:20251011T131500
+SUMMARY:🏀 U12 Girls: Creswick Piranhas vs Timberwolves Hurricanes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Hurricanes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b9a61d50-f9b1-42f8-99cd-96ddeb002670
+SEQUENCE:0
+DTSTAMP:20250930T171412
+DTSTART:20251018T123000
+DTEND:20251018T131500
+SUMMARY:🏀 U12 Girls: Creswick Piranhas vs Lauriston Suns
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Lauris
+ ton Suns\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ac8213ea-db6b-4b06-8ce4-b4392ed3f05b
+SEQUENCE:0
+DTSTAMP:20250930T171412
+DTSTART:20251025T131500
+DTEND:20251025T140000
+SUMMARY:🏀 U12 Girls: Creswick Piranhas vs Maccabi Giants
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Gia
+ nts\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

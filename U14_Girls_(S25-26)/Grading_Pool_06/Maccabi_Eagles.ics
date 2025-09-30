@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Eagles Fixtures
+X-WR-CALNAME:Maccabi Eagles Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:422dcdac-b91c-4194-b6eb-0ea574e8b614
+SEQUENCE:0
+DTSTAMP:20250930T171504
+DTSTART:20251011T161500
+DTEND:20251011T170000
+SUMMARY:🏀 U14 Girls: Maccabi Eagles vs Solway Sapphires
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Sapphires\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c31b7fd2-8900-4059-b784-e242259dd7d1
+SEQUENCE:0
+DTSTAMP:20250930T171504
+DTSTART:20251018T153000
+DTEND:20251018T161500
+SUMMARY:🏀 U14 Girls: Maccabi Eagles vs Lauriston Leaders
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston L
+ eaders\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e0fdb446-0f84-4dc8-a065-4800cd43d539
+SEQUENCE:0
+DTSTAMP:20250930T171504
+DTSTART:20251025T161500
+DTEND:20251025T170000
+SUMMARY:🏀 U14 Girls: Maccabi Eagles vs Malvern Tigers Hill
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Hill\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

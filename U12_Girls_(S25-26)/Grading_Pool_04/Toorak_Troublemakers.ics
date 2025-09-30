@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Troublemakers Fixtures
+X-WR-CALNAME:Toorak Troublemakers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d179d21b-4017-45f5-9766-265132972a13
+SEQUENCE:0
+DTSTAMP:20250930T171403
+DTSTART:20251011T144500
+DTEND:20251011T153000
+SUMMARY:🏀 U12 Girls: Toorak Troublemakers vs Solway Sparrows
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Sparrows\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7b74edaf-5036-4329-b3b9-26eb9d68bb4c
+SEQUENCE:0
+DTSTAMP:20250930T171403
+DTSTART:20251018T140000
+DTEND:20251018T144500
+SUMMARY:🏀 U12 Girls: Toorak Troublemakers vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2e633d0c-ad6d-4cef-8aac-aab125fcab56
+SEQUENCE:0
+DTSTAMP:20250930T171403
+DTSTART:20251025T144500
+DTEND:20251025T153000
+SUMMARY:🏀 U12 Girls: Toorak Troublemakers vs Malvern Tigers Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

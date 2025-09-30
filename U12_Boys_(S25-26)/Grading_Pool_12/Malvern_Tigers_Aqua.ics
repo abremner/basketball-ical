@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Aqua Fixtures
+X-WR-CALNAME:Malvern Tigers Aqua Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a4fa6e22-1554-4856-b4d1-2c1052bce72f
+SEQUENCE:0
+DTSTAMP:20250930T171349
+DTSTART:20251011T140000
+DTEND:20251011T144500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Glen Iris Scorpions Raven
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
+ is Scorpions Raven\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:af144924-84a5-4fd3-853b-ad48c30b1194
+SEQUENCE:0
+DTSTAMP:20250930T171349
+DTSTART:20251018T123000
+DTEND:20251018T131500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Balaclava Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Balaclava Piranhas\nArrive 15
+  mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5f880058-8693-42f3-b48b-7e64549d64b7
+SEQUENCE:0
+DTSTAMP:20250930T171349
+DTSTART:20251025T140000
+DTEND:20251025T144500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Timberwolves Fury
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Fury\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

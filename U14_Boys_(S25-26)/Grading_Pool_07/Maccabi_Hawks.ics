@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Hawks Fixtures
+X-WR-CALNAME:Maccabi Hawks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2d59afbe-2c8b-4cd8-a3a1-dbafb70ad5f2
+SEQUENCE:0
+DTSTAMP:20250930T171439
+DTSTART:20251011T170000
+DTEND:20251011T174500
+SUMMARY:🏀 U14 Boys: Maccabi Hawks vs Ashy Lightning Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+ ightning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:40303e30-8b1c-4e8c-9bc0-62530ab3299b
+SEQUENCE:0
+DTSTAMP:20250930T171439
+DTSTART:20251018T153000
+DTEND:20251018T161500
+SUMMARY:🏀 U14 Boys: Maccabi Hawks vs Solway Ninjas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Ninjas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6527abd7-160b-43d4-a6fc-1323cb53a111
+SEQUENCE:0
+DTSTAMP:20250930T171439
+DTSTART:20251025T170000
+DTEND:20251025T174500
+SUMMARY:🏀 U14 Boys: Maccabi Hawks vs AlphaWolf Hustle
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: AlphaW
+ olf Hustle\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

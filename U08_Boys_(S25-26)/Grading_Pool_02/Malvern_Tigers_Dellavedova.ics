@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Dellavedova Fixtures
+X-WR-CALNAME:Malvern Tigers Dellavedova Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:00bbf0e4-c1ea-4f41-9d1e-0b0ec2fc288a
+SEQUENCE:0
+DTSTAMP:20250930T171148
+DTSTART:20251011T110000
+DTEND:20251011T114500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Dellavedova vs Claremont Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Claremo
+ nt Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0f6087ca-9447-424a-b638-dc08220ad6f2
+SEQUENCE:0
+DTSTAMP:20250930T171148
+DTSTART:20251018T110000
+DTEND:20251018T114500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Dellavedova vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:731927d1-0959-43a9-91a7-9de58addffe5
+SEQUENCE:0
+DTSTAMP:20250930T171148
+DTSTART:20251025T093000
+DTEND:20251025T101500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Dellavedova vs Ashy Lightning Gold
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
+ ghtning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

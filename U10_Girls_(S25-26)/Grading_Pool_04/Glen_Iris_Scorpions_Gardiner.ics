@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Gardiner Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Gardiner Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:da407bd5-8d7f-4104-9c03-2031b3a41283
+SEQUENCE:0
+DTSTAMP:20250930T171306
+DTSTART:20251011T084500
+DTEND:20251011T093000
+SUMMARY:🏀 U10 Girls: Glen Iris Scorpions Gardiner vs Maccabi Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c18b984d-7c0a-45df-a8cf-373d72c5a4fd
+SEQUENCE:0
+DTSTAMP:20250930T171306
+DTSTART:20251025T110000
+DTEND:20251025T114500
+SUMMARY:🏀 U10 Girls: Glen Iris Scorpions Gardiner vs Netherlee Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Nether
+ lee Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

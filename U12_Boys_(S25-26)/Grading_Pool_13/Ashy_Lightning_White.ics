@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning White Fixtures
+X-WR-CALNAME:Ashy Lightning White Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b13e9862-8930-425f-afb2-1d99beff1d25
+SEQUENCE:0
+DTSTAMP:20250930T171351
+DTSTART:20251011T114500
+DTEND:20251011T123000
+SUMMARY:🏀 U12 Boys: Ashy Lightning White vs SE Venom RBT Spurs
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: SE Venom RBT Spurs\nArrive 15
+  mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:88ae4eb5-1b44-49f5-aaeb-36edd444f9ed
+SEQUENCE:0
+DTSTAMP:20250930T171351
+DTSTART:20251018T114500
+DTEND:20251018T123000
+SUMMARY:🏀 U12 Boys: Ashy Lightning White vs Timberwolves Cavs
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Cavs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3cb9f4da-3376-47d8-b8ce-a8f21ec71d80
+SEQUENCE:0
+DTSTAMP:20250930T171351
+DTSTART:20251025T114500
+DTEND:20251025T123000
+SUMMARY:🏀 U12 Boys: Ashy Lightning White vs Wilson Piranhas
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Wilson Piranhas\nArrive 15 mi
+ ns early for warm-up
+END:VEVENT
+END:VCALENDAR

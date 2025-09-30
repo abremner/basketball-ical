@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Falcons Fixtures
+X-WR-CALNAME:Maccabi Falcons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c78dc6fd-b4b0-4e7a-a35a-453242e462f3
+SEQUENCE:0
+DTSTAMP:20250930T171413
+DTSTART:20251011T131500
+DTEND:20251011T140000
+SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Malvern Tigers Blue
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:aa995fd8-46eb-4dd9-ae4b-85d4cb476fde
+SEQUENCE:0
+DTSTAMP:20250930T171413
+DTSTART:20251018T131500
+DTEND:20251018T140000
+SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Malvern Tigers Orange
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6f2035ad-554c-4296-9ad0-cdfe3942ca68
+SEQUENCE:0
+DTSTAMP:20250930T171413
+DTSTART:20251025T123000
+DTEND:20251025T131500
+SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Timberwolves Hurricanes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Hurricanes\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

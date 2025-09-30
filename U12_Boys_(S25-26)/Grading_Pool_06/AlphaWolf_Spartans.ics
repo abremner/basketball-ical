@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Spartans Fixtures
+X-WR-CALNAME:AlphaWolf Spartans Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:72ff1d56-bf2c-4814-83f7-32c94d8a8cc1
+SEQUENCE:0
+DTSTAMP:20250930T171329
+DTSTART:20251018T144500
+DTEND:20251018T153000
+SUMMARY:🏀 U12 Boys: AlphaWolf Spartans vs Maccabi Falcons
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Falcons\nArrive 15 mi
+ ns early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:06d0eb1f-d78f-4302-b757-845405d1428d
+SEQUENCE:0
+DTSTAMP:20250930T171329
+DTSTART:20251025T131500
+DTEND:20251025T140000
+SUMMARY:🏀 U12 Boys: AlphaWolf Spartans vs Malvern Tigers Orange
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e270ceb8-9614-4176-bf02-eae4bbe66931
+SEQUENCE:0
+DTSTAMP:20250930T171310
+DTSTART:20251018T101500
+DTEND:20251018T110000
+SUMMARY:🏀 U10 Girls: Maccabi Celtics vs Timberwolves Gems
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Gems\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c13beefa-ae3c-414b-b9b2-47e521ac24bb
+SEQUENCE:0
+DTSTAMP:20250930T171310
+DTSTART:20251025T110000
+DTEND:20251025T114500
+SUMMARY:🏀 U10 Girls: Maccabi Celtics vs Malvern Tigers Ellis
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Ellis\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

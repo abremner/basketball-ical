@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Trailblazers Fixtures
+X-WR-CALNAME:Timberwolves Trailblazers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:63e94c7e-b589-48cd-bb47-29b8bce7ad01
+SEQUENCE:0
+DTSTAMP:20250930T171557
+DTSTART:20251012T181500
+DTEND:20251012T190000
+SUMMARY:🏀 U18 Boys: Timberwolves Trailblazers vs Spring Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Spring
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5895bc14-7fee-4f55-a0f3-731dabdfadcd
+SEQUENCE:0
+DTSTAMP:20250930T171557
+DTSTART:20251019T173000
+DTEND:20251019T181500
+SUMMARY:🏀 U18 Boys: Timberwolves Trailblazers vs Comets Storm
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
+  Storm\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f9f69292-3d3c-4990-983d-79fe16047c2e
+SEQUENCE:0
+DTSTAMP:20250930T171557
+DTSTART:20251026T173000
+DTEND:20251026T181500
+SUMMARY:🏀 U18 Boys: Timberwolves Trailblazers vs Solway Mambas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Mambas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

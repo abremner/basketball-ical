@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Maroon Fixtures
+X-WR-CALNAME:Malvern Tigers Maroon Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c5960637-e1c9-4f9b-a1f3-bc731fd04c50
+SEQUENCE:0
+DTSTAMP:20250930T171445
+DTSTART:20251011T144500
+DTEND:20251011T153000
+SUMMARY:🏀 U14 Boys: Malvern Tigers Maroon vs Ashy Lightning White
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Ashy Lightning White\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4d22a817-3f83-45fb-b40d-2f93cb32784a
+SEQUENCE:0
+DTSTAMP:20250930T171445
+DTSTART:20251018T153000
+DTEND:20251018T161500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Maroon vs Glen Iris Scorpions Summer
+ hill
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Glen Iris Scorpions Summerhil
+ l\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f2c589cd-004d-498c-b6b3-ed890c2b6bb1
+SEQUENCE:0
+DTSTAMP:20250930T171445
+DTSTART:20251025T153000
+DTEND:20251025T161500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Maroon vs Beckett Park Piranhas
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Beckett Park Piranhas\nArrive
+  15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

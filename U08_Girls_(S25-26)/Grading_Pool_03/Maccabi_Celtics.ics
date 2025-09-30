@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9d403ef5-2405-4e15-9cdc-8886baa1c69b
+SEQUENCE:0
+DTSTAMP:20250930T171214
+DTSTART:20251011T080000
+DTEND:20251011T084500
+SUMMARY:🏀 U08 Girls: Maccabi Celtics vs Harleston Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Harlest
+ on Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f2e1b206-3bff-4fe0-af19-4042f6de69f4
+SEQUENCE:0
+DTSTAMP:20250930T171214
+DTSTART:20251018T101500
+DTEND:20251018T110000
+SUMMARY:🏀 U08 Girls: Maccabi Celtics vs Solway Sparks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Sparks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:80fadacd-9c06-4a4a-9071-74009c8ed8c4
+SEQUENCE:0
+DTSTAMP:20250930T171214
+DTSTART:20251025T080000
+DTEND:20251025T084500
+SUMMARY:🏀 U08 Girls: Maccabi Celtics vs Warley Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Warley 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Thrashers Fixtures
+X-WR-CALNAME:Toorak Thrashers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:716ca032-142a-4674-9233-b9be0c32953b
+SEQUENCE:0
+DTSTAMP:20250930T171240
+DTSTART:20251018T093000
+DTEND:20251018T101500
+SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Solway Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:db0b79d0-70ab-43ff-b3c7-6ab66f712363
+SEQUENCE:0
+DTSTAMP:20250930T171240
+DTSTART:20251025T080000
+DTEND:20251025T084500
+SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Golden Hawks Iron
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Golden
+  Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Knicks Fixtures
+X-WR-CALNAME:Timberwolves Knicks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:75027e63-eb45-485d-aee2-244c4de4ab0d
+SEQUENCE:0
+DTSTAMP:20250930T171331
+DTSTART:20251011T131500
+DTEND:20251011T140000
+SUMMARY:🏀 U12 Boys: Timberwolves Knicks vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:16c21299-3931-4f4d-a4fe-99a8b6e1ccfb
+SEQUENCE:0
+DTSTAMP:20250930T171331
+DTSTART:20251018T131500
+DTEND:20251018T140000
+SUMMARY:🏀 U12 Boys: Timberwolves Knicks vs Malvern Tigers Blue
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a6f387c0-2085-4ae1-9306-e2254f20e856
+SEQUENCE:0
+DTSTAMP:20250930T171331
+DTSTART:20251025T144500
+DTEND:20251025T153000
+SUMMARY:🏀 U12 Boys: Timberwolves Knicks vs Maccabi Falcons
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Falcons\nArrive 15 mi
+ ns early for warm-up
+END:VEVENT
+END:VCALENDAR

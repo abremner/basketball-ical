@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Suns Fixtures
+X-WR-CALNAME:Solway Suns Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6363111d-30e2-41d4-858f-cbdf21577e29
+SEQUENCE:0
+DTSTAMP:20250930T171600
+DTSTART:20251007T191500
+DTEND:20251007T200000
+SUMMARY:🏀 U18 Girls: Solway Suns vs Malvern Tigers Jackson
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Jackson\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1d41ca48-5a9c-405c-acd7-35f8b2a4a76d
+SEQUENCE:0
+DTSTAMP:20250930T171600
+DTSTART:20251014T200000
+DTEND:20251014T204500
+SUMMARY:🏀 U18 Girls: Solway Suns vs Glen Iris Scorpions Suns
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
+ ris Scorpions Suns\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:38bfa651-679a-4c4a-843d-b913639266f7
+SEQUENCE:0
+DTSTAMP:20250930T171600
+DTSTART:20251021T200000
+DTEND:20251021T204500
+SUMMARY:🏀 U18 Girls: Solway Suns vs Toorak Trailblazers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
+  Trailblazers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

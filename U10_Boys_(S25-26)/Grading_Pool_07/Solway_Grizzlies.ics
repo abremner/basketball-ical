@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Grizzlies Fixtures
+X-WR-CALNAME:Solway Grizzlies Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:74c9fb77-3b8d-42ca-a42f-af2a45fd963c
+SEQUENCE:0
+DTSTAMP:20250930T171239
+DTSTART:20251011T093000
+DTEND:20251011T101500
+SUMMARY:🏀 U10 Boys: Solway Grizzlies vs Golden Hawks Iron
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Golden
+  Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:41e1187a-ad40-4187-863f-5d8710a9a8b0
+SEQUENCE:0
+DTSTAMP:20250930T171239
+DTSTART:20251025T084500
+DTEND:20251025T093000
+SUMMARY:🏀 U10 Boys: Solway Grizzlies vs Maccabi Eagles
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

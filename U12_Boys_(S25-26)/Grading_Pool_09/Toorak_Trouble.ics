@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Trouble Fixtures
+X-WR-CALNAME:Toorak Trouble Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:73f3a21e-d2e7-470c-ad54-26bf06228391
+SEQUENCE:0
+DTSTAMP:20250930T171342
+DTSTART:20251018T131500
+DTEND:20251018T140000
+SUMMARY:🏀 U12 Boys: Toorak Trouble vs Glen Iris Scorpions Nettleton
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Glen Iris Scorpions Nettleton
+ \nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2737e703-b8a4-4c8c-b3e1-ccd09199b783
+SEQUENCE:0
+DTSTAMP:20250930T171342
+DTSTART:20251025T123000
+DTEND:20251025T131500
+SUMMARY:🏀 U12 Boys: Toorak Trouble vs Maccabi Lakers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Lakers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

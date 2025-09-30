@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Ellis Fixtures
+X-WR-CALNAME:Malvern Tigers Ellis Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:088ec337-d139-4925-b869-dee4f5d9cf53
+SEQUENCE:0
+DTSTAMP:20250930T171311
+DTSTART:20251011T084500
+DTEND:20251011T093000
+SUMMARY:🏀 U10 Girls: Malvern Tigers Ellis vs Timberwolves Gems
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Gems\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c6a74a45-a19b-4110-861b-268a7e914349
+SEQUENCE:0
+DTSTAMP:20250930T171311
+DTSTART:20251025T110000
+DTEND:20251025T114500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Ellis vs Maccabi Celtics
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Cel
+ tics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Raven Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Raven Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9155f273-f216-4420-8a79-ec122f60e425
+SEQUENCE:0
+DTSTAMP:20250930T171244
+DTSTART:20251011T110000
+DTEND:20251011T114500
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Toorak Tycoons
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Toorak Tycoons\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dfce1d8b-0dd7-4bf4-aea2-c492f578f9b0
+SEQUENCE:0
+DTSTAMP:20250930T171244
+DTSTART:20251018T080000
+DTEND:20251018T084500
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Koornang Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Koorna
+ ng Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:aba15fda-e2f9-4c9f-92dd-ebd0ad4e55f6
+SEQUENCE:0
+DTSTAMP:20250930T171244
+DTSTART:20251025T114500
+DTEND:20251025T123000
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs AlphaWolf Tigers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: AlphaW
+ olf Tigers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

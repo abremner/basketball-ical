@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Gold Fixtures
+X-WR-CALNAME:Ashy Lightning Gold Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5e761233-5208-4ba5-8aec-1afa96f91fed
+SEQUENCE:0
+DTSTAMP:20250930T171536
+DTSTART:20251007T183000
+DTEND:20251007T191500
+SUMMARY:🏀 U16 Girls: Ashy Lightning Gold vs Timberwolves Rockets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Rockets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:375eaa9c-7dc9-45a0-82c3-76c3c07c6c0e
+SEQUENCE:0
+DTSTAMP:20250930T171536
+DTSTART:20251014T174500
+DTEND:20251014T183000
+SUMMARY:🏀 U16 Girls: Ashy Lightning Gold vs Solway Phoenix
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Phoenix\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b6828b2e-b05e-4368-8ede-04c6ddf7bb30
+SEQUENCE:0
+DTSTAMP:20250930T171536
+DTSTART:20251021T174500
+DTEND:20251021T183000
+SUMMARY:🏀 U16 Girls: Ashy Lightning Gold vs Finch Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Finch 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

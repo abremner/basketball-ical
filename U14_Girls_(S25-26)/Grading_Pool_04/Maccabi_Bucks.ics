@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ee25d33b-10d2-47ac-9d88-ba59fd73bad4
+SEQUENCE:0
+DTSTAMP:20250930T171456
+DTSTART:20251011T131500
+DTEND:20251011T140000
+SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d83a5506-1603-4d85-ad90-97d525ce8d89
+SEQUENCE:0
+DTSTAMP:20250930T171456
+DTSTART:20251018T170000
+DTEND:20251018T174500
+SUMMARY:🏀 U14 Girls: Maccabi Bucks vs McArthur Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: McArthu
+ r Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:509b825d-a77d-4429-9909-387fd56995e3
+SEQUENCE:0
+DTSTAMP:20250930T171456
+DTSTART:20251025T170000
+DTEND:20251025T174500
+SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Timberwolves Rubies
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Rubies\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

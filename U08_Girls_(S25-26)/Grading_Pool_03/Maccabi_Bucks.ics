@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2665fca8-e00d-47f6-b468-6a966e87de92
+SEQUENCE:0
+DTSTAMP:20250930T171213
+DTSTART:20251011T093000
+DTEND:20251011T101500
+SUMMARY:🏀 U08 Girls: Maccabi Bucks vs Flowerdale Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Flowerdale 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1f733fba-fc4b-46e0-82c2-aba50bab5330
+SEQUENCE:0
+DTSTAMP:20250930T171213
+DTSTART:20251018T084500
+DTEND:20251018T093000
+SUMMARY:🏀 U08 Girls: Maccabi Bucks vs Warley Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Warley Pira
+ nhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0977653e-4f7a-487a-af13-e5dc65618422
+SEQUENCE:0
+DTSTAMP:20250930T171213
+DTSTART:20251025T101500
+DTEND:20251025T110000
+SUMMARY:🏀 U08 Girls: Maccabi Bucks vs Harleston Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Harlest
+ on Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

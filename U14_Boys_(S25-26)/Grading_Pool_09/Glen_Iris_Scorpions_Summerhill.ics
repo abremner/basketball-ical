@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Summerhill Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Summerhill Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:319638a4-f072-456f-b4ff-732a0326b4af
+SEQUENCE:0
+DTSTAMP:20250930T171445
+DTSTART:20251011T153000
+DTEND:20251011T161500
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Summerhill vs Beckett Park Pira
+ nhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Becket
+ t Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c9770ce9-8bd8-4e32-8846-ec783d7f510a
+SEQUENCE:0
+DTSTAMP:20250930T171445
+DTSTART:20251018T153000
+DTEND:20251018T161500
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Summerhill vs Malvern Tigers Ma
+ roon
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Maroon\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:90ae96a1-49c1-4d53-8272-db2a040251b7
+SEQUENCE:0
+DTSTAMP:20250930T171445
+DTSTART:20251025T144500
+DTEND:20251025T153000
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Summerhill vs AlphaWolf Legends
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: AlphaWolf Legends\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+END:VCALENDAR

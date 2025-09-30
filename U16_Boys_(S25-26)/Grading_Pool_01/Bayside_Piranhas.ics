@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Bayside Piranhas Fixtures
+X-WR-CALNAME:Bayside Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2b3f253c-5d9a-4b35-a6cb-91c6536523b0
+SEQUENCE:0
+DTSTAMP:20250930T171508
+DTSTART:20251011T191500
+DTEND:20251011T200000
+SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9518f4fe-a3fd-480c-ab78-d40cb9e28d61
+SEQUENCE:0
+DTSTAMP:20250930T171508
+DTSTART:20251018T191500
+DTEND:20251018T200000
+SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Timberwolves Hustlers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Hustlers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7615816e-ae8c-412f-9989-c5b00ff3c601
+SEQUENCE:0
+DTSTAMP:20250930T171508
+DTSTART:20251025T183000
+DTEND:20251025T191500
+SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Toorak Tropics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
+  Tropics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

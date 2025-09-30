@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Korowa Cherry Fixtures
+X-WR-CALNAME:Korowa Cherry Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8dcea78b-7e86-4804-835f-89ad88b7a3a1
+SEQUENCE:0
+DTSTAMP:20250930T171453
+DTSTART:20251011T161500
+DTEND:20251011T170000
+SUMMARY:🏀 U14 Girls: Korowa Cherry vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:195a8059-7974-47fc-aff7-ce4ad874ea08
+SEQUENCE:0
+DTSTAMP:20250930T171453
+DTSTART:20251018T153000
+DTEND:20251018T161500
+SUMMARY:🏀 U14 Girls: Korowa Cherry vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:58af779a-a009-4708-879b-5c4effb00a8f
+SEQUENCE:0
+DTSTAMP:20250930T171453
+DTSTART:20251025T161500
+DTEND:20251025T170000
+SUMMARY:🏀 U14 Girls: Korowa Cherry vs Toorak Topguns
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
+  Topguns\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Eagles Fixtures
+X-WR-CALNAME:Maccabi Eagles Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1a9c1baf-3e3c-4d32-a41e-497515dffb81
+SEQUENCE:0
+DTSTAMP:20250930T171413
+DTSTART:20251011T123000
+DTEND:20251011T131500
+SUMMARY:🏀 U12 Girls: Maccabi Eagles vs Lauriston Suns
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Laurist
+ on Suns\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b9d3602c-87c5-4a21-8a20-37e4361821d6
+SEQUENCE:0
+DTSTAMP:20250930T171413
+DTSTART:20251018T131500
+DTEND:20251018T140000
+SUMMARY:🏀 U12 Girls: Maccabi Eagles vs Ashy Lightning White
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Ashy Lightn
+ ing White\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

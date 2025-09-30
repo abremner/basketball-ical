@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Jets Fixtures
+X-WR-CALNAME:Solway Jets Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:14deb471-6519-48d8-8a55-016278f3b975
+SEQUENCE:0
+DTSTAMP:20250930T171525
+DTSTART:20251011T174500
+DTEND:20251011T183000
+SUMMARY:🏀 U16 Boys: Solway Jets vs Tennyson Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Tennys
+ on Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bbf53593-a38b-4c25-a161-8ef0bbba2209
+SEQUENCE:0
+DTSTAMP:20250930T171525
+DTSTART:20251018T174500
+DTEND:20251018T183000
+SUMMARY:🏀 U16 Boys: Solway Jets vs Maccabi Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3ce27a1b-6b88-416f-ae7d-7392493ca2bc
+SEQUENCE:0
+DTSTAMP:20250930T171525
+DTSTART:20251025T183000
+DTEND:20251025T191500
+SUMMARY:🏀 U16 Boys: Solway Jets vs Glen Iris Scorpions Spurs
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
+ is Scorpions Spurs\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

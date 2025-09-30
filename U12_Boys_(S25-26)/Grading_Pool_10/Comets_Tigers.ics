@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Comets Tigers Fixtures
+X-WR-CALNAME:Comets Tigers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c1eddecc-3eb8-4a0b-8975-dad5c8a76e57
+SEQUENCE:0
+DTSTAMP:20250930T171344
+DTSTART:20251011T131500
+DTEND:20251011T140000
+SUMMARY:🏀 U12 Boys: Comets Tigers vs Malvern Tigers Grey
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Grey\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2e09e977-9476-4ef6-bd91-848ca92a2d20
+SEQUENCE:0
+DTSTAMP:20250930T171344
+DTSTART:20251018T123000
+DTEND:20251018T131500
+SUMMARY:🏀 U12 Boys: Comets Tigers vs Solway Dingoes
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Solway Dingoes\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:29ae47b2-bad5-4de2-a222-ad77e9f6b734
+SEQUENCE:0
+DTSTAMP:20250930T171344
+DTSTART:20251101T123000
+DTEND:20251101T131500
+SUMMARY:🏀 U12 Boys: Comets Tigers vs Toorak Thunder
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Toorak 
+ Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f4455069-10a5-4d49-8b69-23093208b6e5
+SEQUENCE:0
+DTSTAMP:20250930T171344
+DTSTART:20251108T131500
+DTEND:20251108T140000
+SUMMARY:🏀 U12 Boys: Comets Tigers vs Stonnington Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Stonnington Piranhas\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

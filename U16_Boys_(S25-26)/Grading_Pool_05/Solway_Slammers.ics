@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Slammers Fixtures
+X-WR-CALNAME:Solway Slammers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:35f9ed6f-3e89-48da-9422-c2545c0a120f
+SEQUENCE:0
+DTSTAMP:20250930T171523
+DTSTART:20251011T191500
+DTEND:20251011T200000
+SUMMARY:🏀 U16 Boys: Solway Slammers vs Glen Iris Scorpions Sixers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
+ is Scorpions Sixers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:63f7bc4a-975e-4540-bf06-a7276724e6c5
+SEQUENCE:0
+DTSTAMP:20250930T171523
+DTSTART:20251018T183000
+DTEND:20251018T191500
+SUMMARY:🏀 U16 Boys: Solway Slammers vs Maccabi Haifa
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Haifa\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a1d04491-95c7-4335-8cc7-2a5e22391840
+SEQUENCE:0
+DTSTAMP:20250930T171523
+DTSTART:20251025T183000
+DTEND:20251025T191500
+SUMMARY:🏀 U16 Boys: Solway Slammers vs Timberwolves 36ers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves 36ers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

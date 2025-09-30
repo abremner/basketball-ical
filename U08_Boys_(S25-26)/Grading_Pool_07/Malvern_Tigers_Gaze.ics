@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Gaze Fixtures
+X-WR-CALNAME:Malvern Tigers Gaze Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:769071ec-2832-4a38-aab6-82e4f045460a
+SEQUENCE:0
+DTSTAMP:20250930T171206
+DTSTART:20251011T093000
+DTEND:20251011T101500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Gaze vs Solway Pacers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Pacers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:07dec976-78c5-474d-b519-39b6da9c898b
+SEQUENCE:0
+DTSTAMP:20250930T171206
+DTSTART:20251018T084500
+DTEND:20251018T093000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Gaze vs Ferndale Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ferndal
+ e Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1980dbe6-d93e-4706-9990-625ea3bd9b35
+SEQUENCE:0
+DTSTAMP:20250930T171206
+DTSTART:20251025T093000
+DTEND:20251025T101500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Gaze vs AlphaWolf Titans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: AlphaWo
+ lf Titans\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

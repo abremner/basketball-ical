@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Lauriston Fire Fixtures
+X-WR-CALNAME:Lauriston Fire Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5866ab34-f423-4541-a2d8-cc1bb30e37f6
+SEQUENCE:0
+DTSTAMP:20250930T171303
+DTSTART:20251011T123000
+DTEND:20251011T131500
+SUMMARY:🏀 U10 Girls: Lauriston Fire vs Ashy Lightning Gold
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Ashy Lightn
+ ing Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7f32d10e-ca0f-42fc-a388-a2e9c088cf6d
+SEQUENCE:0
+DTSTAMP:20250930T171303
+DTSTART:20251018T114500
+DTEND:20251018T123000
+SUMMARY:🏀 U10 Girls: Lauriston Fire vs Malvern Tigers Jarry
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Jarry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1cb882b9-e55c-4a92-86b9-46d8d11be04e
+SEQUENCE:0
+DTSTAMP:20250930T171303
+DTSTART:20251025T114500
+DTEND:20251025T123000
+SUMMARY:🏀 U10 Girls: Lauriston Fire vs Maccabi Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

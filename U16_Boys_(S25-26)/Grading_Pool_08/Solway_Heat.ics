@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Heat Fixtures
+X-WR-CALNAME:Solway Heat Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3dc9cce7-a2a7-4582-bd9c-8ff5ab934e59
+SEQUENCE:0
+DTSTAMP:20250930T171532
+DTSTART:20251011T183000
+DTEND:20251011T191500
+SUMMARY:🏀 U16 Boys: Solway Heat vs Ashy Lightning Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:835bba27-a21d-498f-af4c-7b7b7deb4867
+SEQUENCE:0
+DTSTAMP:20250930T171532
+DTSTART:20251018T191500
+DTEND:20251018T200000
+SUMMARY:🏀 U16 Boys: Solway Heat vs Malvern Tigers Blue
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3cea9078-b1db-4787-9a81-c5f6f605acb7
+SEQUENCE:0
+DTSTAMP:20250930T171532
+DTSTART:20251025T183000
+DTEND:20251025T191500
+SUMMARY:🏀 U16 Boys: Solway Heat vs Malvern Tigers Orange
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

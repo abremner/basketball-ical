@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Boulders Fixtures
+X-WR-CALNAME:Timberwolves Boulders Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0e8310f9-41d0-430c-a427-0623dcdc4294
+SEQUENCE:0
+DTSTAMP:20250930T171518
+DTSTART:20251011T174500
+DTEND:20251011T183000
+SUMMARY:🏀 U16 Boys: Timberwolves Boulders vs Toorak Tornadoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Tornadoes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3a1d7f5e-14ff-4864-9cfa-c30eb2188bba
+SEQUENCE:0
+DTSTAMP:20250930T171518
+DTSTART:20251018T183000
+DTEND:20251018T191500
+SUMMARY:🏀 U16 Boys: Timberwolves Boulders vs Toorak Tyrants
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Tyrants\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:68f8d997-de52-41c5-ad51-6486edab3184
+SEQUENCE:0
+DTSTAMP:20250930T171518
+DTSTART:20251025T191500
+DTEND:20251025T200000
+SUMMARY:🏀 U16 Boys: Timberwolves Boulders vs AlphaWolf Sixseveners
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
+ olf Sixseveners\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

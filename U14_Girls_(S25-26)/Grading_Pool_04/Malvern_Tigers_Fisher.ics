@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Fisher Fixtures
+X-WR-CALNAME:Malvern Tigers Fisher Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2d129b2d-8614-4956-b556-26c4468db082
+SEQUENCE:0
+DTSTAMP:20250930T171457
+DTSTART:20251011T153000
+DTEND:20251011T161500
+SUMMARY:🏀 U14 Girls: Malvern Tigers Fisher vs Toorak Titans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
+  Titans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0687e6bc-40c8-4ee0-a13e-42643f8c124c
+SEQUENCE:0
+DTSTAMP:20250930T171457
+DTSTART:20251018T131500
+DTEND:20251018T140000
+SUMMARY:🏀 U14 Girls: Malvern Tigers Fisher vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a07ccac9-0288-4690-9247-aa51c506e4c0
+SEQUENCE:0
+DTSTAMP:20250930T171457
+DTSTART:20251025T161500
+DTEND:20251025T170000
+SUMMARY:🏀 U14 Girls: Malvern Tigers Fisher vs McArthur Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: McArthu
+ r Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

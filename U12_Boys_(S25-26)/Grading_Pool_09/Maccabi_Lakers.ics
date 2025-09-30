@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Lakers Fixtures
+X-WR-CALNAME:Maccabi Lakers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:aa135106-d5d4-4825-bfd9-6011fa509a4a
+SEQUENCE:0
+DTSTAMP:20250930T171340
+DTSTART:20251011T123000
+DTEND:20251011T131500
+SUMMARY:🏀 U12 Boys: Maccabi Lakers vs Warrawee Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Warraw
+ ee Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cfdd9cac-9e93-4ec8-8355-b7b5e499c1e9
+SEQUENCE:0
+DTSTAMP:20250930T171340
+DTSTART:20251018T140000
+DTEND:20251018T144500
+SUMMARY:🏀 U12 Boys: Maccabi Lakers vs Malvern Tigers Maroon
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Maroon\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a51dd098-541b-4a17-a313-0ba19c561620
+SEQUENCE:0
+DTSTAMP:20250930T171340
+DTSTART:20251025T123000
+DTEND:20251025T131500
+SUMMARY:🏀 U12 Boys: Maccabi Lakers vs Toorak Trouble
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
+ Trouble\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

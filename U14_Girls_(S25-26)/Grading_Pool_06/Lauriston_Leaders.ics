@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Lauriston Leaders Fixtures
+X-WR-CALNAME:Lauriston Leaders Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:27a5a38d-8c1f-46c4-ba93-b701197a9046
+SEQUENCE:0
+DTSTAMP:20250930T171503
+DTSTART:20251011T153000
+DTEND:20251011T161500
+SUMMARY:🏀 U14 Girls: Lauriston Leaders vs Korowa Grey
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Korowa Grey
+ \nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b9ab5e51-5424-48b7-96de-b94e654b7a7f
+SEQUENCE:0
+DTSTAMP:20250930T171503
+DTSTART:20251018T153000
+DTEND:20251018T161500
+SUMMARY:🏀 U14 Girls: Lauriston Leaders vs Maccabi Eagles
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Eag
+ les\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:82471636-a2d1-4e57-abd3-b1660d682718
+SEQUENCE:0
+DTSTAMP:20250930T171503
+DTSTART:20251025T153000
+DTEND:20251025T161500
+SUMMARY:🏀 U14 Girls: Lauriston Leaders vs Solway Sapphires
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Sapp
+ hires\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Stallions Fixtures
+X-WR-CALNAME:Solway Stallions Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:39956133-2d6f-4eb7-88f5-420e0c7c0c74
+SEQUENCE:0
+DTSTAMP:20250930T171152
+DTSTART:20251011T114500
+DTEND:20251011T123000
+SUMMARY:🏀 U08 Boys: Solway Stallions vs Malvern Tigers Longley
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Longley\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7836026e-af73-40c8-9efd-e7d15bf2e2d0
+SEQUENCE:0
+DTSTAMP:20250930T171152
+DTSTART:20251018T093000
+DTEND:20251018T101500
+SUMMARY:🏀 U08 Boys: Solway Stallions vs Malvern Tigers Daniels
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Daniels\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e7e8c035-38c0-490c-8238-4973a8be6965
+SEQUENCE:0
+DTSTAMP:20250930T171152
+DTSTART:20251025T084500
+DTEND:20251025T093000
+SUMMARY:🏀 U08 Boys: Solway Stallions vs Toorak Toucans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Toucans\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

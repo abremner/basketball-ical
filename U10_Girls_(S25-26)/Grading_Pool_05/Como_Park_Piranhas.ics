@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Como Park Piranhas Fixtures
+X-WR-CALNAME:Como Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:69bebd7c-0a14-47cb-be5e-c9f7f572cd79
+SEQUENCE:0
+DTSTAMP:20250930T171309
+DTSTART:20251011T110000
+DTEND:20251011T114500
+SUMMARY:🏀 U10 Girls: Como Park Piranhas vs Ashy Lightning Green
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Ashy Lightn
+ ing Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0ef475cb-31f9-434e-8eb7-290ddd9fff70
+SEQUENCE:0
+DTSTAMP:20250930T171309
+DTSTART:20251018T110000
+DTEND:20251018T114500
+SUMMARY:🏀 U10 Girls: Como Park Piranhas vs Malvern Tigers Woods
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Woods\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd5a8f4-3561-4a46-9cae-cd8eb9c2942a
+SEQUENCE:0
+DTSTAMP:20250930T171309
+DTSTART:20251025T093000
+DTEND:20251025T101500
+SUMMARY:🏀 U10 Girls: Como Park Piranhas vs Maccabi Ducks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

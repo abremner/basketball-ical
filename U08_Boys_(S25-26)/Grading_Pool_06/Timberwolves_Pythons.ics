@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Pythons Fixtures
+X-WR-CALNAME:Timberwolves Pythons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d680728b-e39b-4bd8-8621-c1fad01ce622
+SEQUENCE:0
+DTSTAMP:20250930T171203
+DTSTART:20251011T110000
+DTEND:20251011T114500
+SUMMARY:🏀 U08 Boys: Timberwolves Pythons vs Glen Iris Scorpions Raven
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
+ is Scorpions Raven\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5cefc9cd-297f-4ca8-a6d7-cf8580a5901b
+SEQUENCE:0
+DTSTAMP:20250930T171203
+DTSTART:20251018T110000
+DTEND:20251018T114500
+SUMMARY:🏀 U08 Boys: Timberwolves Pythons vs Malvern Tigers Landale
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Landale\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

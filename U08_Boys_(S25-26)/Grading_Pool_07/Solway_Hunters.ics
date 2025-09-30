@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Hunters Fixtures
+X-WR-CALNAME:Solway Hunters Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d81082f5-6dec-46c8-8227-84a8089d3a1b
+SEQUENCE:0
+DTSTAMP:20250930T171207
+DTSTART:20251011T101500
+DTEND:20251011T110000
+SUMMARY:🏀 U08 Boys: Solway Hunters vs Nettleton Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Nettlet
+ on Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:36ee2342-4945-4183-bec0-1fbe91f6510f
+SEQUENCE:0
+DTSTAMP:20250930T171207
+DTSTART:20251025T084500
+DTEND:20251025T093000
+SUMMARY:🏀 U08 Boys: Solway Hunters vs Clyde Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Clyde P
+ iranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Giants Fixtures
+X-WR-CALNAME:Maccabi Giants Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a5bf5e7e-63e2-4188-8256-6b0b37c4f87f
+SEQUENCE:0
+DTSTAMP:20250930T171414
+DTSTART:20251011T131500
+DTEND:20251011T140000
+SUMMARY:🏀 U12 Girls: Maccabi Giants vs Ashy Lightning White
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
+ ing White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:98041212-a4fb-42ee-a7bc-69c30393cbf2
+SEQUENCE:0
+DTSTAMP:20250930T171414
+DTSTART:20251025T131500
+DTEND:20251025T140000
+SUMMARY:🏀 U12 Girls: Maccabi Giants vs Creswick Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Creswick Pi
+ ranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

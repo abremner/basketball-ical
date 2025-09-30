@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Gold Fixtures
+X-WR-CALNAME:Ashy Lightning Gold Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:14d6f040-ea0b-4437-abdb-96f685b33b98
+SEQUENCE:0
+DTSTAMP:20250930T171545
+DTSTART:20251012T173000
+DTEND:20251012T181500
+SUMMARY:🏀 U18 Boys: Ashy Lightning Gold vs Solway Bullets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Bullets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:595b2041-67a4-44f8-acb7-fb93e4b41276
+SEQUENCE:0
+DTSTAMP:20250930T171545
+DTSTART:20251019T173000
+DTEND:20251019T181500
+SUMMARY:🏀 U18 Boys: Ashy Lightning Gold vs Glen Iris Scorpions Sixers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
+ ris Scorpions Sixers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:50696691-a5d6-49aa-a567-92a5f36df96a
+SEQUENCE:0
+DTSTAMP:20250930T171545
+DTSTART:20251026T173000
+DTEND:20251026T181500
+SUMMARY:🏀 U18 Boys: Ashy Lightning Gold vs Solway Torpedoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Torpedoes\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

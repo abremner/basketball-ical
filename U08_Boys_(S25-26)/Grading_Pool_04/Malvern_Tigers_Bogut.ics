@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Bogut Fixtures
+X-WR-CALNAME:Malvern Tigers Bogut Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f29660c6-5426-4397-b2af-ac40f7bd80f3
+SEQUENCE:0
+DTSTAMP:20250930T171155
+DTSTART:20251011T110000
+DTEND:20251011T114500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Bogut vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0c038976-9c57-4246-b08e-d4751b3bb79d
+SEQUENCE:0
+DTSTAMP:20250930T171155
+DTSTART:20251018T101500
+DTEND:20251018T110000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Bogut vs Solway Chargers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Chargers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:59e2bd35-d27d-49cf-ab7a-61f29f0b46ec
+SEQUENCE:0
+DTSTAMP:20250930T171155
+DTSTART:20251025T080000
+DTEND:20251025T084500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Bogut vs Packer Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Packer 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

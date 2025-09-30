@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Windsor Piranhas Fixtures
+X-WR-CALNAME:Windsor Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b094ff97-a281-4ea4-9c8f-899fa325cd64
+SEQUENCE:0
+DTSTAMP:20250930T171319
+DTSTART:20251011T140000
+DTEND:20251011T144500
+SUMMARY:🏀 U12 Boys: Windsor Piranhas vs Timberwolves Bullets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Bullets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:be8aa0f7-2c3a-411f-be75-ebfb5f2f6479
+SEQUENCE:0
+DTSTAMP:20250930T171319
+DTSTART:20251018T144500
+DTEND:20251018T153000
+SUMMARY:🏀 U12 Boys: Windsor Piranhas vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:19b73796-c152-443f-9ae1-dc15766d4e41
+SEQUENCE:0
+DTSTAMP:20250930T171319
+DTSTART:20251025T161500
+DTEND:20251025T170000
+SUMMARY:🏀 U12 Boys: Windsor Piranhas vs AUBD Prime
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AUBD P
+ rime\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

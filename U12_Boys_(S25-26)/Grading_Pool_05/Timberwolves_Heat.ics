@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Heat Fixtures
+X-WR-CALNAME:Timberwolves Heat Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d44631b4-04d5-44eb-9741-298c03732cd2
+SEQUENCE:0
+DTSTAMP:20250930T171328
+DTSTART:20251018T144500
+DTEND:20251018T153000
+SUMMARY:🏀 U12 Boys: Timberwolves Heat vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ab899892-d8e9-4ffd-8a64-df1a2679bea0
+SEQUENCE:0
+DTSTAMP:20250930T171328
+DTSTART:20251025T140000
+DTEND:20251025T144500
+SUMMARY:🏀 U12 Boys: Timberwolves Heat vs AlphaWolf Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: AlphaW
+ olf Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

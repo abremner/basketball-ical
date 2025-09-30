@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Comets Lightning Fixtures
+X-WR-CALNAME:Comets Lightning Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c0b90a37-ece6-48bf-accd-642d3966bb39
+SEQUENCE:0
+DTSTAMP:20250930T171429
+DTSTART:20251018T170000
+DTEND:20251018T174500
+SUMMARY:🏀 U14 Boys: Comets Lightning vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ffcc0b98-9287-43f0-a879-8eccb00959db
+SEQUENCE:0
+DTSTAMP:20250930T171429
+DTSTART:20251025T161500
+DTEND:20251025T170000
+SUMMARY:🏀 U14 Boys: Comets Lightning vs Timberwolves Stones
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Stones\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

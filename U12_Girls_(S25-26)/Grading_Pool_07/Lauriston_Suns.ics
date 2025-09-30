@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Lauriston Suns Fixtures
+X-WR-CALNAME:Lauriston Suns Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4ec863bd-484a-44f2-b5f9-ac17ce0dc6fc
+SEQUENCE:0
+DTSTAMP:20250930T171412
+DTSTART:20251011T123000
+DTEND:20251011T131500
+SUMMARY:🏀 U12 Girls: Lauriston Suns vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6a84d89c-c8bc-4864-969e-3ac9a37fa582
+SEQUENCE:0
+DTSTAMP:20250930T171412
+DTSTART:20251018T123000
+DTEND:20251018T131500
+SUMMARY:🏀 U12 Girls: Lauriston Suns vs Creswick Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Creswi
+ ck Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:94d289e1-8d94-4028-ad85-8086c3b65c70
+SEQUENCE:0
+DTSTAMP:20250930T171412
+DTSTART:20251025T123000
+DTEND:20251025T131500
+SUMMARY:🏀 U12 Girls: Lauriston Suns vs Malvern Tigers Orange
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

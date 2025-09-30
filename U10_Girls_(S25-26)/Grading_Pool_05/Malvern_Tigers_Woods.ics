@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Woods Fixtures
+X-WR-CALNAME:Malvern Tigers Woods Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:112d1d26-0cc9-4780-bc9f-7ce9aea3d86e
+SEQUENCE:0
+DTSTAMP:20250930T171311
+DTSTART:20251011T093000
+DTEND:20251011T101500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Woods vs Glen Iris Scorpions Nettle
+ ton
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
+ ris Scorpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:077c8807-4dea-4abf-b9c7-78f22883027f
+SEQUENCE:0
+DTSTAMP:20250930T171311
+DTSTART:20251018T110000
+DTEND:20251018T114500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Woods vs Como Park Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Como Park P
+ iranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ea2e5da8-f997-4df4-87c9-ae1c8f748f13
+SEQUENCE:0
+DTSTAMP:20250930T171311
+DTSTART:20251025T084500
+DTEND:20251025T093000
+SUMMARY:🏀 U10 Girls: Malvern Tigers Woods vs Grace Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Grace 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

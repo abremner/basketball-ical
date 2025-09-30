@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:TImberwolves Diamonds Fixtures
+X-WR-CALNAME:TImberwolves Diamonds Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:28140337-2a0a-452a-a7ac-f6fea272a158
+SEQUENCE:0
+DTSTAMP:20250930T171211
+DTSTART:20251011T080000
+DTEND:20251011T084500
+SUMMARY:🏀 U08 Girls: TImberwolves Diamonds vs Malvern Tigers Atwell
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Atwell\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c86e5afe-c951-4111-bd84-e7f36c2478ac
+SEQUENCE:0
+DTSTAMP:20250930T171211
+DTSTART:20251018T080000
+DTEND:20251018T084500
+SUMMARY:🏀 U08 Girls: TImberwolves Diamonds vs Solway Blazes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Blazes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7be2bc3a-c819-446d-807e-c8f3299c3096
+SEQUENCE:0
+DTSTAMP:20250930T171211
+DTSTART:20251025T080000
+DTEND:20251025T084500
+SUMMARY:🏀 U08 Girls: TImberwolves Diamonds vs Solway Meteors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Meteors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

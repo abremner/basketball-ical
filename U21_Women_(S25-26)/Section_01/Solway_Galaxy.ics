@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Galaxy Fixtures
+X-WR-CALNAME:Solway Galaxy Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:220ce4f3-0c43-4ac7-bcbd-8307264def9f
+SEQUENCE:0
+DTSTAMP:20250930T171615
+DTSTART:20251007T204500
+DTEND:20251007T213000
+SUMMARY:🏀 U21 Women: Solway Galaxy vs Glen Iris Scorpions Sixers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Sixers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:52c80fec-f5c7-4721-9fee-764e94db61f9
+SEQUENCE:0
+DTSTAMP:20250930T171615
+DTSTART:20251021T204500
+DTEND:20251021T213000
+SUMMARY:🏀 U21 Women: Solway Galaxy vs Malvern Tigers George
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers George\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

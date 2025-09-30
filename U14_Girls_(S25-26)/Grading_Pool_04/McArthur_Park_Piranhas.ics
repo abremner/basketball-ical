@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:McArthur Park Piranhas Fixtures
+X-WR-CALNAME:McArthur Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e8874863-16a2-4aef-b601-4ad5a2d48882
+SEQUENCE:0
+DTSTAMP:20250930T171457
+DTSTART:20251011T170000
+DTEND:20251011T174500
+SUMMARY:🏀 U14 Girls: McArthur Park Piranhas vs Lauriston Liberty
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Laurist
+ on Liberty\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1ec24ded-a35f-44e4-b15b-1c36192e481b
+SEQUENCE:0
+DTSTAMP:20250930T171457
+DTSTART:20251018T170000
+DTEND:20251018T174500
+SUMMARY:🏀 U14 Girls: McArthur Park Piranhas vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1d75510a-5dd8-47fb-8fe8-6725996ba704
+SEQUENCE:0
+DTSTAMP:20250930T171457
+DTSTART:20251025T161500
+DTEND:20251025T170000
+SUMMARY:🏀 U14 Girls: McArthur Park Piranhas vs Malvern Tigers Fisher
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Fisher\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ardrie Park Piranhas Fixtures
+X-WR-CALNAME:Ardrie Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b6a3861c-2c3e-4873-8ba2-96f3cd2ab32c
+SEQUENCE:0
+DTSTAMP:20250930T171343
+DTSTART:20251011T123000
+DTEND:20251011T131500
+SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Solway Dingoes
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Solway Dingoes\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4194f308-9919-4169-a49b-e12fd69d145c
+SEQUENCE:0
+DTSTAMP:20250930T171343
+DTSTART:20251018T131500
+DTEND:20251018T140000
+SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Malvern Tigers Lime
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Lime\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:37cb19d1-80e0-4b90-a5bf-aef6eec94b55
+SEQUENCE:0
+DTSTAMP:20250930T171343
+DTSTART:20251025T123000
+DTEND:20251025T131500
+SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Toorak Thunder
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9454a2a1-e17b-45bc-b72b-5b2555e18715
+SEQUENCE:0
+DTSTAMP:20250930T171343
+DTSTART:20251101T131500
+DTEND:20251101T140000
+SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Timberwolves Cyclones
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Cyclones\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8450d6aa-7079-42c8-99a7-a79199a79377
+SEQUENCE:0
+DTSTAMP:20250930T171343
+DTSTART:20251108T123000
+DTEND:20251108T131500
+SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Comets Cyclones
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Comets 
+ Cyclones\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

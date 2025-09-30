@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Warriors Fixtures
+X-WR-CALNAME:Maccabi Warriors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:173362fe-310d-4a52-956e-2891de5db28f
+SEQUENCE:0
+DTSTAMP:20250930T171303
+DTSTART:20251011T110000
+DTEND:20251011T114500
+SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Erindale Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Erinda
+ le Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1e0cf619-02f7-4052-aacc-3b88e062e9d2
+SEQUENCE:0
+DTSTAMP:20250930T171303
+DTSTART:20251018T114500
+DTEND:20251018T123000
+SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Malvern Tigers Mitchell
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Mitchell\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:de823c7e-847e-4cd0-9737-cdc6420527dd
+SEQUENCE:0
+DTSTAMP:20250930T171303
+DTSTART:20251025T114500
+DTEND:20251025T123000
+SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Lauriston Fire
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Laurist
+ on Fire\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

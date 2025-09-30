@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Paxton Piranhas Fixtures
+X-WR-CALNAME:Paxton Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0903a9b4-d58e-4b97-a3d6-bc0502dadafb
+SEQUENCE:0
+DTSTAMP:20250930T171421
+DTSTART:20251011T174500
+DTEND:20251011T183000
+SUMMARY:🏀 U14 Boys: Paxton Piranhas vs Timberwolves Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6b27b52e-df16-4c21-85b4-f6a2c1580b26
+SEQUENCE:0
+DTSTAMP:20250930T171421
+DTSTART:20251018T170000
+DTEND:20251018T174500
+SUMMARY:🏀 U14 Boys: Paxton Piranhas vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8c711297-0233-428d-85e9-fa169ec79a5f
+SEQUENCE:0
+DTSTAMP:20250930T171421
+DTSTART:20251025T174500
+DTEND:20251025T183000
+SUMMARY:🏀 U14 Boys: Paxton Piranhas vs Timberwolves Rocks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Rocks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

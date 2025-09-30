@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Green Fixtures
+X-WR-CALNAME:Malvern Tigers Green Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1b13b750-ed2e-4bf5-95c5-bc46c45d2929
+SEQUENCE:0
+DTSTAMP:20250930T171527
+DTSTART:20251018T191500
+DTEND:20251018T200000
+SUMMARY:🏀 U16 Boys: Malvern Tigers Green vs Solway Rangers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Rangers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4a938127-3a4c-470b-af6f-4e6154b6d08f
+SEQUENCE:0
+DTSTAMP:20250930T171527
+DTSTART:20251025T191500
+DTEND:20251025T200000
+SUMMARY:🏀 U16 Boys: Malvern Tigers Green vs Timberwolves Bulls
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Bulls\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

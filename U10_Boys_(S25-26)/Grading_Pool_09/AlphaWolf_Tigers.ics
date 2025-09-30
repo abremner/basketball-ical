@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Tigers Fixtures
+X-WR-CALNAME:AlphaWolf Tigers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e13d2aff-4ed2-40dd-a6c0-da11b4c13f6d
+SEQUENCE:0
+DTSTAMP:20250930T171244
+DTSTART:20251011T080000
+DTEND:20251011T084500
+SUMMARY:🏀 U10 Boys: AlphaWolf Tigers vs Maccabi Giants
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Giants\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8033a5d5-fe53-4981-8898-e703aa513851
+SEQUENCE:0
+DTSTAMP:20250930T171244
+DTSTART:20251018T101500
+DTEND:20251018T110000
+SUMMARY:🏀 U10 Boys: AlphaWolf Tigers vs Toorak Tycoons
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Toorak Tycoons\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:eb5e03aa-811e-4a74-8bb4-7f397393726d
+SEQUENCE:0
+DTSTAMP:20250930T171244
+DTSTART:20251025T114500
+DTEND:20251025T123000
+SUMMARY:🏀 U10 Boys: AlphaWolf Tigers vs Glen Iris Scorpions Raven
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
+ ris Scorpions Raven\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

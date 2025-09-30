@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Viewbank Piranhas Fixtures
+X-WR-CALNAME:Viewbank Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e1cc91cc-6cf1-42ef-beef-a5da3da74c2d
+SEQUENCE:0
+DTSTAMP:20250930T171255
+DTSTART:20251011T093000
+DTEND:20251011T101500
+SUMMARY:🏀 U10 Boys: Viewbank Piranhas vs Solway Force
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Solway Force\nArrive 15 mins 
+ early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:99e31fc0-e5e2-4281-8955-f351873e8eea
+SEQUENCE:0
+DTSTAMP:20250930T171255
+DTSTART:20251018T110000
+DTEND:20251018T114500
+SUMMARY:🏀 U10 Boys: Viewbank Piranhas vs Maccabi Kings
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Kings\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2dde6f1e-4ce0-406e-bca1-28eed095dfe0
+SEQUENCE:0
+DTSTAMP:20250930T171255
+DTSTART:20251025T093000
+DTEND:20251025T101500
+SUMMARY:🏀 U10 Boys: Viewbank Piranhas vs Maccabi Lakers
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Lakers\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+END:VCALENDAR

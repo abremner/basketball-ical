@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers White Fixtures
+X-WR-CALNAME:Malvern Tigers White Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c4169c85-e011-4256-830a-514a50a638cc
+SEQUENCE:0
+DTSTAMP:20250930T171402
+DTSTART:20251011T140000
+DTEND:20251011T144500
+SUMMARY:🏀 U12 Girls: Malvern Tigers White vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5dc761db-0ecf-42a8-aa50-09b7bafbaa2e
+SEQUENCE:0
+DTSTAMP:20250930T171402
+DTSTART:20251018T144500
+DTEND:20251018T153000
+SUMMARY:🏀 U12 Girls: Malvern Tigers White vs Lauriston Sparks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Laurist
+ on Sparks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

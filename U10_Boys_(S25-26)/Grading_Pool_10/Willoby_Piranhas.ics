@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Willoby Piranhas Fixtures
+X-WR-CALNAME:Willoby Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5ae59413-cc6a-45bc-a3c0-cc0e9dba380b
+SEQUENCE:0
+DTSTAMP:20250930T171251
+DTSTART:20251011T080000
+DTEND:20251011T084500
+SUMMARY:🏀 U10 Boys: Willoby Piranhas vs Maccabi Jaguars
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Jaguars\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2d70b644-3f99-47f4-876c-da95ac5c120b
+SEQUENCE:0
+DTSTAMP:20250930T171251
+DTSTART:20251018T101500
+DTEND:20251018T110000
+SUMMARY:🏀 U10 Boys: Willoby Piranhas vs Ashy Lightning White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+ ightning White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:28b13b90-ea73-4b0c-b2e8-509da7e0c96c
+SEQUENCE:0
+DTSTAMP:20250930T171251
+DTSTART:20251025T093000
+DTEND:20251025T101500
+SUMMARY:🏀 U10 Boys: Willoby Piranhas vs Malvern Tigers Grey
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Grey\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

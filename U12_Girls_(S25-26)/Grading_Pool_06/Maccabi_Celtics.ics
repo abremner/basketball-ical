@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:af943550-d3b4-4f50-9364-3771d9db601a
+SEQUENCE:0
+DTSTAMP:20250930T171409
+DTSTART:20251011T140000
+DTEND:20251011T144500
+SUMMARY:🏀 U12 Girls: Maccabi Celtics vs Lauriston Storm
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston S
+ torm\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b736a26d-fd42-4296-819e-34415b1cc8a8
+SEQUENCE:0
+DTSTAMP:20250930T171409
+DTSTART:20251018T140000
+DTEND:20251018T144500
+SUMMARY:🏀 U12 Girls: Maccabi Celtics vs Glen Iris Scorpions Gardiner
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
+ corpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:32691698-24b9-434f-aa36-61e163e8d5a2
+SEQUENCE:0
+DTSTAMP:20250930T171409
+DTSTART:20251025T140000
+DTEND:20251025T144500
+SUMMARY:🏀 U12 Girls: Maccabi Celtics vs Solway Red Robins
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Red 
+ Robins\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

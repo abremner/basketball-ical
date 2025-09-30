@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Topshots Fixtures
+X-WR-CALNAME:Toorak Topshots Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0c117eaa-7d79-4fcc-b832-85113af7abc5
+SEQUENCE:0
+DTSTAMP:20250930T171501
+DTSTART:20251011T153000
+DTEND:20251011T161500
+SUMMARY:🏀 U14 Girls: Toorak Topshots vs Ashy Lightning Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1fc2db09-c25c-482a-8fb3-e8414afa80bd
+SEQUENCE:0
+DTSTAMP:20250930T171501
+DTSTART:20251018T161500
+DTEND:20251018T170000
+SUMMARY:🏀 U14 Girls: Toorak Topshots vs Maccabi Celtics
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Cel
+ tics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5308451d-a1d8-4397-9bc7-8df20ea41e29
+SEQUENCE:0
+DTSTAMP:20250930T171501
+DTSTART:20251025T161500
+DTEND:20251025T170000
+SUMMARY:🏀 U14 Girls: Toorak Topshots vs Lauriston Legacy
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston L
+ egacy\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

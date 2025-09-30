@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Exum Fixtures
+X-WR-CALNAME:Malvern Tigers Exum Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:66bcea57-4568-408a-a427-2a812f34b24c
+SEQUENCE:0
+DTSTAMP:20250930T171148
+DTSTART:20251011T093000
+DTEND:20251011T101500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Exum vs Solway Brumbies
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Brumbies\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f61cbc1b-5ecc-47f2-83a3-6e5193856746
+SEQUENCE:0
+DTSTAMP:20250930T171148
+DTSTART:20251018T093000
+DTEND:20251018T101500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Exum vs Ashy Lightning Gold
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
+ ghtning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c9ccbb89-d5f3-4a99-aa81-22d61805b72d
+SEQUENCE:0
+DTSTAMP:20250930T171148
+DTSTART:20251025T110000
+DTEND:20251025T114500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Exum vs Claremont Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Claremo
+ nt Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

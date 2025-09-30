@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Yellow Fixtures
+X-WR-CALNAME:Malvern Tigers Yellow Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ca07da9c-41f4-4cec-aedf-c3c6523a4ef1
+SEQUENCE:0
+DTSTAMP:20250930T171423
+DTSTART:20251011T174500
+DTEND:20251011T183000
+SUMMARY:🏀 U14 Boys: Malvern Tigers Yellow vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ba859bb8-6c3c-438a-8104-a03795c11be8
+SEQUENCE:0
+DTSTAMP:20250930T171423
+DTSTART:20251025T174500
+DTEND:20251025T183000
+SUMMARY:🏀 U14 Boys: Malvern Tigers Yellow vs Solway Titans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Titans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6d889dca-c538-4a1e-a9f4-89676a75d6bd
+SEQUENCE:0
+DTSTAMP:20250930T171423
+DTSTART:20251101T153000
+DTEND:20251101T161500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Yellow vs Glen Iris Scorpions Gardin
+ er
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
+ is Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a8d85c79-7340-42e4-8790-beb737143364
+SEQUENCE:0
+DTSTAMP:20250930T171423
+DTSTART:20251108T170000
+DTEND:20251108T174500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Yellow vs Timberwolves Phoenix
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Phoenix\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Orange Fixtures
+X-WR-CALNAME:Malvern Tigers Orange Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:14407666-6849-431c-bd1f-9ca9a0a29f05
+SEQUENCE:0
+DTSTAMP:20250930T171231
+DTSTART:20251011T084500
+DTEND:20251011T093000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Orange vs Dendy Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Dendy 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ad0c5da0-8896-418f-9073-8f0d23636fa7
+SEQUENCE:0
+DTSTAMP:20250930T171231
+DTSTART:20251018T101500
+DTEND:20251018T110000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Orange vs Timberwolves Cubs
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Cubs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:971f4c5d-d41a-4d61-989f-aabc6048874c
+SEQUENCE:0
+DTSTAMP:20250930T171231
+DTSTART:20251025T093000
+DTEND:20251025T101500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Orange vs Solway Thunder
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

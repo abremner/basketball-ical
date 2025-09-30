@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Brown Fixtures
+X-WR-CALNAME:Malvern Tigers Brown Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:17731928-ed66-4939-b010-e90c458da639
+SEQUENCE:0
+DTSTAMP:20250930T171238
+DTSTART:20251011T080000
+DTEND:20251011T084500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs Timberwolves Lightning
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Lightning\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3d7fe330-8d44-4fcf-98be-d5c0ea7d5366
+SEQUENCE:0
+DTSTAMP:20250930T171238
+DTSTART:20251018T084500
+DTEND:20251018T093000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs Golden Hawks Iron
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Golden
+  Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

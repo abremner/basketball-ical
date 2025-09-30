@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Mills Fixtures
+X-WR-CALNAME:Malvern Tigers Mills Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7aecf9bc-a650-42f5-a6be-6a443e27129e
+SEQUENCE:0
+DTSTAMP:20250930T171145
+DTSTART:20251011T093000
+DTEND:20251011T101500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Mills vs East Malvern Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: East Ma
+ lvern Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5dc140ca-494e-478b-b60a-e261c69cb5b8
+SEQUENCE:0
+DTSTAMP:20250930T171145
+DTSTART:20251018T093000
+DTEND:20251018T101500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Mills vs Maccabi Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2b5f94cf-9990-4606-8ea5-94ddd0074e60
+SEQUENCE:0
+DTSTAMP:20250930T171145
+DTSTART:20251025T114500
+DTEND:20251025T123000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Mills vs Timberwolves Blasters
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Blasters\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Ducks Fixtures
+X-WR-CALNAME:Maccabi Ducks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5c1607bf-9e18-4eaf-85ae-59f89e8aa11c
+SEQUENCE:0
+DTSTAMP:20250930T171327
+DTSTART:20251011T144500
+DTEND:20251011T153000
+SUMMARY:🏀 U12 Boys: Maccabi Ducks vs Malvern Tigers Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8209dce0-3c69-4729-b5a3-966265e1d95a
+SEQUENCE:0
+DTSTAMP:20250930T171327
+DTSTART:20251018T144500
+DTEND:20251018T153000
+SUMMARY:🏀 U12 Boys: Maccabi Ducks vs Timberwolves Heat
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Heat\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4cc67c3a-aea8-49d4-ae98-6e5b17253eed
+SEQUENCE:0
+DTSTAMP:20250930T171327
+DTSTART:20251025T144500
+DTEND:20251025T153000
+SUMMARY:🏀 U12 Boys: Maccabi Ducks vs Timberwolves Howlers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Howlers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

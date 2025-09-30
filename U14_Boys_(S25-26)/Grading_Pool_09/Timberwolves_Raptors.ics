@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Raptors Fixtures
+X-WR-CALNAME:Timberwolves Raptors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7a0cb5ef-8397-4d0e-ab76-7266069604b9
+SEQUENCE:0
+DTSTAMP:20250930T171445
+DTSTART:20251011T153000
+DTEND:20251011T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs AlphaWolf Legends
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: AlphaWolf Legends\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e48b39f3-4603-49f1-a2be-c476142372f6
+SEQUENCE:0
+DTSTAMP:20250930T171445
+DTSTART:20251018T144500
+DTEND:20251018T153000
+SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Beckett Park Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Beckett Park Piranhas\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6292a313-50ee-4aae-84c3-84e079fcc985
+SEQUENCE:0
+DTSTAMP:20250930T171445
+DTSTART:20251025T153000
+DTEND:20251025T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Ashy Lightning White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+ ightning White\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Thunder Fixtures
+X-WR-CALNAME:Solway Thunder Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9b73a205-db94-4a55-a35d-705e4adb44c7
+SEQUENCE:0
+DTSTAMP:20250930T171232
+DTSTART:20251011T110000
+DTEND:20251011T114500
+SUMMARY:🏀 U10 Boys: Solway Thunder vs Timberwolves Cobras
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Cobras\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:93b0325d-64cb-4387-951f-a4ecb9f59698
+SEQUENCE:0
+DTSTAMP:20250930T171232
+DTSTART:20251018T084500
+DTEND:20251018T093000
+SUMMARY:🏀 U10 Boys: Solway Thunder vs Tollington Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Tollin
+ gton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f5ba80f6-7b46-4218-9cb4-d86232b97458
+SEQUENCE:0
+DTSTAMP:20250930T171232
+DTSTART:20251025T093000
+DTEND:20251025T101500
+SUMMARY:🏀 U10 Boys: Solway Thunder vs Malvern Tigers Orange
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

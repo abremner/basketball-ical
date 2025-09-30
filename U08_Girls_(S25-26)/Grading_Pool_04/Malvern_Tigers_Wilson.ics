@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Wilson Fixtures
+X-WR-CALNAME:Malvern Tigers Wilson Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:17f1532d-7367-4866-9cc7-7516bb24f1f4
+SEQUENCE:0
+DTSTAMP:20250930T171218
+DTSTART:20251011T093000
+DTEND:20251011T101500
+SUMMARY:🏀 U08 Girls: Malvern Tigers Wilson vs Wallis Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Wallis Pira
+ nhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a970cdcf-a108-4000-bf14-52e381ec5da7
+SEQUENCE:0
+DTSTAMP:20250930T171218
+DTSTART:20251018T101500
+DTEND:20251018T110000
+SUMMARY:🏀 U08 Girls: Malvern Tigers Wilson vs Korowa Cherry
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Korowa 
+ Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:313f633c-2cd8-490d-9ac2-bf4b5426af0d
+SEQUENCE:0
+DTSTAMP:20250930T171218
+DTSTART:20251025T110000
+DTEND:20251025T114500
+SUMMARY:🏀 U08 Girls: Malvern Tigers Wilson vs Kerferd Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Kerferd
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway  Devils Fixtures
+X-WR-CALNAME:Solway  Devils Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e160a75d-6cb2-4149-9394-7d04eb78cdca
+SEQUENCE:0
+DTSTAMP:20250930T171338
+DTSTART:20251011T131500
+DTEND:20251011T140000
+SUMMARY:🏀 U12 Boys: Solway  Devils vs Glen Iris Scorpions Gardiner
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
+ is Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b96b12c4-48af-4ce9-a88f-e68340e5884e
+SEQUENCE:0
+DTSTAMP:20250930T171338
+DTSTART:20251025T131500
+DTEND:20251025T140000
+SUMMARY:🏀 U12 Boys: Solway  Devils vs Malvern Tigers Purple
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Purple\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Deacon Fixtures
+X-WR-CALNAME:Malvern Tigers Deacon Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d80a6a64-966e-4594-ab89-4787f33c26a0
+SEQUENCE:0
+DTSTAMP:20250930T171454
+DTSTART:20251011T170000
+DTEND:20251011T174500
+SUMMARY:🏀 U14 Girls: Malvern Tigers Deacon vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b7eb1285-60a9-4399-b88e-9c53d65aa7a9
+SEQUENCE:0
+DTSTAMP:20250930T171454
+DTSTART:20251025T153000
+DTEND:20251025T161500
+SUMMARY:🏀 U14 Girls: Malvern Tigers Deacon vs Maccabi Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

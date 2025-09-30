@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Spartans Fixtures
+X-WR-CALNAME:Solway Spartans Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5cfbd4fc-fc54-40be-b0a6-cdf58e944133
+SEQUENCE:0
+DTSTAMP:20250930T171442
+DTSTART:20251011T161500
+DTEND:20251011T170000
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Glen Iris Scorpions Raven
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Glen Iris Scorpions Raven\nAr
+ rive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:14e19fdc-168a-4ba2-9d45-7835a5692bf5
+SEQUENCE:0
+DTSTAMP:20250930T171442
+DTSTART:20251018T161500
+DTEND:20251018T170000
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Comets Sharks
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Comets Sharks\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9a07e1f6-2b8d-4533-9176-8633edb4232f
+SEQUENCE:0
+DTSTAMP:20250930T171442
+DTSTART:20251025T153000
+DTEND:20251025T161500
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Prahran Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Prahran Piranhas\nArrive 15 m
+ ins early for warm-up
+END:VEVENT
+END:VCALENDAR

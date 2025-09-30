@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Giddey Fixtures
+X-WR-CALNAME:Malvern Tigers Giddey Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:01b50ff4-701f-44ac-afce-9bf8d6cdd4cd
+SEQUENCE:0
+DTSTAMP:20250930T171151
+DTSTART:20251011T093000
+DTEND:20251011T101500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Giddey vs Glen Iris Scorpions Fernda
+ le
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
+ is Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b27c178b-cbe1-4383-b3c5-04ef93cc4dcd
+SEQUENCE:0
+DTSTAMP:20250930T171151
+DTSTART:20251018T084500
+DTEND:20251018T093000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Giddey vs Solway Mustangs
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Mustangs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:32c9d13b-80fc-4e2b-b18c-1216faa9e81f
+SEQUENCE:0
+DTSTAMP:20250930T171151
+DTSTART:20251025T110000
+DTEND:20251025T114500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Giddey vs Maccabi Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Apex Fixtures
+X-WR-CALNAME:AlphaWolf Apex Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6f4c7862-467c-4593-acb2-5f72ce43b52d
+SEQUENCE:0
+DTSTAMP:20250930T171432
+DTSTART:20251011T170000
+DTEND:20251011T174500
+SUMMARY:🏀 U14 Boys: AlphaWolf Apex vs Maccabi Falcons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Falcons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4361b8e3-dd87-4325-aa94-4bdbda258927
+SEQUENCE:0
+DTSTAMP:20250930T171432
+DTSTART:20251018T153000
+DTEND:20251018T161500
+SUMMARY:🏀 U14 Boys: AlphaWolf Apex vs Malvern Tigers Blue
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:62958a40-ec6f-4496-9990-b948c70ce836
+SEQUENCE:0
+DTSTAMP:20250930T171432
+DTSTART:20251025T170000
+DTEND:20251025T174500
+SUMMARY:🏀 U14 Boys: AlphaWolf Apex vs Solway Mavericks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Mavericks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

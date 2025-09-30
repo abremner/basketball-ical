@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Golden Hawks Iron Fixtures
+X-WR-CALNAME:Golden Hawks Iron Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ff8df2de-8ba2-4572-a543-0a1e4a0139c0
+SEQUENCE:0
+DTSTAMP:20250930T171340
+DTSTART:20251011T131500
+DTEND:20251011T140000
+SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Golden Hawks Rising
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Golden Hawks Rising\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:75ffc91a-6752-4348-afe1-d65904be4e28
+SEQUENCE:0
+DTSTAMP:20250930T171340
+DTSTART:20251018T123000
+DTEND:20251018T131500
+SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Maccabi Mavericks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Mavericks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:655292a9-d645-403b-b1b2-e844734433df
+SEQUENCE:0
+DTSTAMP:20250930T171340
+DTSTART:20251025T140000
+DTEND:20251025T144500
+SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Warrawee Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Warrawee Piranhas\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+END:VCALENDAR

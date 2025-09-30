@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Embling Piranhas Fixtures
+X-WR-CALNAME:Embling Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:da926286-f635-44b2-9bb5-e6ab321f6e7a
+SEQUENCE:0
+DTSTAMP:20250930T171259
+DTSTART:20251011T114500
+DTEND:20251011T123000
+SUMMARY:🏀 U10 Girls: Embling Piranhas vs Malvern Tigers Taylor
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Taylor\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ae53a18a-f855-42d8-936f-2452db094429
+SEQUENCE:0
+DTSTAMP:20250930T171259
+DTSTART:20251018T114500
+DTEND:20251018T123000
+SUMMARY:🏀 U10 Girls: Embling Piranhas vs Korowa Cherry
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Korowa
+  Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bd425eef-7d2a-468c-a663-eab070f38422
+SEQUENCE:0
+DTSTAMP:20250930T171259
+DTSTART:20251025T123000
+DTEND:20251025T131500
+SUMMARY:🏀 U10 Girls: Embling Piranhas vs Malvern Tigers Hodges
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Hodges\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

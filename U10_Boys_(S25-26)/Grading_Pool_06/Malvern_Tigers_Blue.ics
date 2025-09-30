@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Blue Fixtures
+X-WR-CALNAME:Malvern Tigers Blue Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:77ad6bcf-6258-4dcf-bf58-bc4bc4a6658b
+SEQUENCE:0
+DTSTAMP:20250930T171235
+DTSTART:20251011T084500
+DTEND:20251011T093000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Blue vs Orrong Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Orrong
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a7578f65-9d9e-46c0-809f-39e505be1800
+SEQUENCE:0
+DTSTAMP:20250930T171235
+DTSTART:20251018T093000
+DTEND:20251018T101500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Blue vs Maccabi Ducks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:59b3f378-edbb-48fb-b32f-4c52626f3a3d
+SEQUENCE:0
+DTSTAMP:20250930T171235
+DTSTART:20251025T101500
+DTEND:20251025T110000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Blue vs Solway Bulls
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Bulls\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

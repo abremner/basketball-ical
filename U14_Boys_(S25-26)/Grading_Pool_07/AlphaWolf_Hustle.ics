@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Hustle Fixtures
+X-WR-CALNAME:AlphaWolf Hustle Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b44a2b2c-f1c7-433a-a185-293332f582d4
+SEQUENCE:0
+DTSTAMP:20250930T171437
+DTSTART:20251011T161500
+DTEND:20251011T170000
+SUMMARY:🏀 U14 Boys: AlphaWolf Hustle vs Inkerman Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Inkerm
+ an Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d8b14e4a-c35f-44b4-b999-f3205ee0eee6
+SEQUENCE:0
+DTSTAMP:20250930T171437
+DTSTART:20251018T161500
+DTEND:20251018T170000
+SUMMARY:🏀 U14 Boys: AlphaWolf Hustle vs Malvern Tigers Brown
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Brown\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:95bead26-78ba-4409-a65d-6ddb2eafd0ec
+SEQUENCE:0
+DTSTAMP:20250930T171437
+DTSTART:20251025T170000
+DTEND:20251025T174500
+SUMMARY:🏀 U14 Boys: AlphaWolf Hustle vs Maccabi Hawks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Lauriston Liberty Fixtures
+X-WR-CALNAME:Lauriston Liberty Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:859b9b9a-6fc6-45df-903e-66767835beb1
+SEQUENCE:0
+DTSTAMP:20250930T171456
+DTSTART:20251011T170000
+DTEND:20251011T174500
+SUMMARY:🏀 U14 Girls: Lauriston Liberty vs McArthur Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: McArthu
+ r Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:04af9562-9dbe-46a9-855d-14224fe91def
+SEQUENCE:0
+DTSTAMP:20250930T171456
+DTSTART:20251018T153000
+DTEND:20251018T161500
+SUMMARY:🏀 U14 Girls: Lauriston Liberty vs Timberwolves Rubies
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Rubies\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:49c657a8-bb19-4abb-8929-7294944ec4df
+SEQUENCE:0
+DTSTAMP:20250930T171456
+DTSTART:20251025T153000
+DTEND:20251025T161500
+SUMMARY:🏀 U14 Girls: Lauriston Liberty vs Ranfurlie Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ranfur
+ lie Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

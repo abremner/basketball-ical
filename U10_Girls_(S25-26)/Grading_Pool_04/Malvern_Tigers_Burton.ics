@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Burton Fixtures
+X-WR-CALNAME:Malvern Tigers Burton Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5946c215-2014-4e5b-b191-6a27265731c7
+SEQUENCE:0
+DTSTAMP:20250930T171307
+DTSTART:20251011T114500
+DTEND:20251011T123000
+SUMMARY:🏀 U10 Girls: Malvern Tigers Burton vs Solway Typhoons
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Typh
+ oons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:84660bea-b137-49de-b932-6dfa907c6813
+SEQUENCE:0
+DTSTAMP:20250930T171307
+DTSTART:20251018T084500
+DTEND:20251018T093000
+SUMMARY:🏀 U10 Girls: Malvern Tigers Burton vs Netherlee Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Nether
+ lee Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:45919bd2-1ff6-4d58-962c-7ed4e72d8597
+SEQUENCE:0
+DTSTAMP:20250930T171307
+DTSTART:20251025T114500
+DTEND:20251025T123000
+SUMMARY:🏀 U10 Girls: Malvern Tigers Burton vs Maccabi Bucks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Buc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

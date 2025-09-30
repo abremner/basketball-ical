@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Grey Fixtures
+X-WR-CALNAME:Malvern Tigers Grey Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:233128c8-e18a-4ccf-8f09-efcb4629ff4a
+SEQUENCE:0
+DTSTAMP:20250930T171344
+DTSTART:20251011T131500
+DTEND:20251011T140000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Grey vs Comets Tigers
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Comets Tigers\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:df3c7ba5-544e-4754-8c4f-70ec20df7915
+SEQUENCE:0
+DTSTAMP:20250930T171344
+DTSTART:20251018T123000
+DTEND:20251018T131500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Grey vs Toorak Thunder
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:529ad3a2-c5c2-448d-9b13-590c0dc240dc
+SEQUENCE:0
+DTSTAMP:20250930T171344
+DTSTART:20251025T131500
+DTEND:20251025T140000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Grey vs Stonnington Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Stonnington Piranhas\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6180fbfe-fb05-49ed-9030-1c242af1d694
+SEQUENCE:0
+DTSTAMP:20250930T171344
+DTSTART:20251101T123000
+DTEND:20251101T131500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Grey vs Comets Cyclones
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Comets Cyclones\nArrive 15 mi
+ ns early for warm-up
+END:VEVENT
+END:VCALENDAR

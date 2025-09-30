@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Torchers Fixtures
+X-WR-CALNAME:Toorak Torchers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ce07778f-eaa9-4909-a76f-099b046c80f6
+SEQUENCE:0
+DTSTAMP:20250930T171325
+DTSTART:20251018T140000
+DTEND:20251018T144500
+SUMMARY:🏀 U12 Boys: Toorak Torchers vs Maccabi Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:653dec10-41ab-414a-8e90-d1a74e4a2c22
+SEQUENCE:0
+DTSTAMP:20250930T171325
+DTSTART:20251025T144500
+DTEND:20251025T153000
+SUMMARY:🏀 U12 Boys: Toorak Torchers vs Toorak Tarantulas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Tarantulas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

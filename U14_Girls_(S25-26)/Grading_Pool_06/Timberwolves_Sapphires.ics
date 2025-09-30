@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Sapphires Fixtures
+X-WR-CALNAME:Timberwolves Sapphires Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1fd794bb-beaf-41e3-9ee7-a427b7f2abe1
+SEQUENCE:0
+DTSTAMP:20250930T171505
+DTSTART:20251018T161500
+DTEND:20251018T170000
+SUMMARY:🏀 U14 Girls: Timberwolves Sapphires vs Ashy Lightning White
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1e449a18-7b98-4e25-91f5-c8deae2da02c
+SEQUENCE:0
+DTSTAMP:20250930T171505
+DTSTART:20251025T153000
+DTEND:20251025T161500
+SUMMARY:🏀 U14 Girls: Timberwolves Sapphires vs Lauriston Legends
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston L
+ egends\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Emeralds Fixtures
+X-WR-CALNAME:Solway Emeralds Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:953478d8-08e8-4c2e-adea-bcf93605fdab
+SEQUENCE:0
+DTSTAMP:20250930T171451
+DTSTART:20251011T170000
+DTEND:20251011T174500
+SUMMARY:🏀 U14 Girls: Solway Emeralds vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:05cf2d45-40b6-49d5-87ce-2a1ba1b67e36
+SEQUENCE:0
+DTSTAMP:20250930T171451
+DTSTART:20251018T174500
+DTEND:20251018T183000
+SUMMARY:🏀 U14 Girls: Solway Emeralds vs Malvern Tigers Boston
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Boston\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

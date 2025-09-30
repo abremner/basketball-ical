@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tigersnakes Fixtures
+X-WR-CALNAME:Toorak Tigersnakes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d78b316f-341a-4f36-98d4-7c7dbcbf5f4b
+SEQUENCE:0
+DTSTAMP:20250930T171324
+DTSTART:20251011T144500
+DTEND:20251011T153000
+SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cfad7b11-43b8-4b22-ba0b-a50267b0115a
+SEQUENCE:0
+DTSTAMP:20250930T171324
+DTSTART:20251018T144500
+DTEND:20251018T153000
+SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Malvern Tigers White
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

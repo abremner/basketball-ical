@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Phoenix Park Piranhas Fixtures
+X-WR-CALNAME:Phoenix Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4e7c0d2f-7a1f-434a-853e-005912cc3546
+SEQUENCE:0
+DTSTAMP:20250930T171246
+DTSTART:20251011T101500
+DTEND:20251011T110000
+SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Koornang Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Koornang Piranhas\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7496d3d9-a74e-4bd1-ba03-9b0999b85044
+SEQUENCE:0
+DTSTAMP:20250930T171246
+DTSTART:20251018T110000
+DTEND:20251018T114500
+SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Maccabi Giants
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Giants\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+END:VCALENDAR

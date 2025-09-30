@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Falcons Fixtures
+X-WR-CALNAME:Maccabi Falcons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:627d1530-9a72-427e-ae8a-9d4c85bd3f12
+SEQUENCE:0
+DTSTAMP:20250930T171242
+DTSTART:20251011T093000
+DTEND:20251011T101500
+SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Comets Snake
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
+  Snake\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:02f36e9d-f8b4-4a4f-9b50-4a36dfde66ba
+SEQUENCE:0
+DTSTAMP:20250930T171242
+DTSTART:20251018T093000
+DTEND:20251018T101500
+SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Toorak Thunderbolts
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Thunderbolts\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:04ad55b4-170d-4ac2-a9c2-a058823dd680
+SEQUENCE:0
+DTSTAMP:20250930T171242
+DTSTART:20251025T080000
+DTEND:20251025T084500
+SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Malvern Tigers Purple
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Purple\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

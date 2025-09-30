@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Gardiner Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Gardiner Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:bef02cc5-4687-432a-944b-95eefcce4a0e
+SEQUENCE:0
+DTSTAMP:20250930T171241
+DTSTART:20251018T084500
+DTEND:20251018T093000
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Gardiner vs Ashy Lightning Yell
+ ow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+ ightning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7e660953-9177-48f3-ad26-91f748730ee8
+SEQUENCE:0
+DTSTAMP:20250930T171241
+DTSTART:20251025T084500
+DTEND:20251025T093000
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Gardiner vs Toorak Thunderbolts
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Thunderbolts\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Renwick Piranhas Fixtures
+X-WR-CALNAME:Renwick Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:03229406-4086-4468-ac8e-304440b12cf0
+SEQUENCE:0
+DTSTAMP:20250930T171159
+DTSTART:20251011T084500
+DTEND:20251011T093000
+SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Timberwolves Pythons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Pythons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:33ee3a98-62aa-442c-9505-9c97f164448f
+SEQUENCE:0
+DTSTAMP:20250930T171159
+DTSTART:20251018T093000
+DTEND:20251018T101500
+SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:92606c8d-946e-42ed-ae45-f654ccf7e03d
+SEQUENCE:0
+DTSTAMP:20250930T171159
+DTSTART:20251025T101500
+DTEND:20251025T110000
+SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Solway Broncos
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Broncos\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

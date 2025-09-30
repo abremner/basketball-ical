@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Jewels Fixtures
+X-WR-CALNAME:Solway Jewels Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:dc12e995-65aa-4104-87e9-9806ce7de88c
+SEQUENCE:0
+DTSTAMP:20250930T171451
+DTSTART:20251011T174500
+DTEND:20251011T183000
+SUMMARY:🏀 U14 Girls: Solway Jewels vs Malvern Tigers Lewis
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Lewis\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d983a0a9-9607-4978-8c05-409ef46867bf
+SEQUENCE:0
+DTSTAMP:20250930T171451
+DTSTART:20251018T174500
+DTEND:20251018T183000
+SUMMARY:🏀 U14 Girls: Solway Jewels vs Timberwolves Flames
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Flames\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:08850fc6-a93b-4aa2-98c0-7fa71a40d4d1
+SEQUENCE:0
+DTSTAMP:20250930T171451
+DTSTART:20251025T174500
+DTEND:20251025T183000
+SUMMARY:🏀 U14 Girls: Solway Jewels vs Ashy Lightning Gold
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
+ ghtning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

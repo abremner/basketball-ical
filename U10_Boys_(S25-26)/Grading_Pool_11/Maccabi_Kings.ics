@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Kings Fixtures
+X-WR-CALNAME:Maccabi Kings Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f03ca102-99fa-4db6-a524-a134de4a0b6a
+SEQUENCE:0
+DTSTAMP:20250930T171253
+DTSTART:20251018T110000
+DTEND:20251018T114500
+SUMMARY:🏀 U10 Boys: Maccabi Kings vs Viewbank Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Viewba
+ nk Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b0bb18ea-c392-4cb5-979e-fc663cb19a4f
+SEQUENCE:0
+DTSTAMP:20250930T171253
+DTSTART:20251025T101500
+DTEND:20251025T110000
+SUMMARY:🏀 U10 Boys: Maccabi Kings vs Timberwolves Hawks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

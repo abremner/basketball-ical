@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Orange Fixtures
+X-WR-CALNAME:Malvern Tigers Orange Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ad929d95-6e8c-4449-a713-37c2372b7623
+SEQUENCE:0
+DTSTAMP:20250930T171434
+DTSTART:20251011T161500
+DTEND:20251011T170000
+SUMMARY:🏀 U14 Boys: Malvern Tigers Orange vs Solway Mavericks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Mavericks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b9d3c0ef-6193-4dee-917c-64e3291886f6
+SEQUENCE:0
+DTSTAMP:20250930T171434
+DTSTART:20251018T161500
+DTEND:20251018T170000
+SUMMARY:🏀 U14 Boys: Malvern Tigers Orange vs Toorak Tactix
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
+ Tactix\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:da9dd8a9-03c7-45c7-ba7e-144fd674c936
+SEQUENCE:0
+DTSTAMP:20250930T171434
+DTSTART:20251025T153000
+DTEND:20251025T161500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Orange vs Maccabi Giants
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Giants\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

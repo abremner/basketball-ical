@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Hawksburn Piranhas Fixtures
+X-WR-CALNAME:Hawksburn Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:449991b4-8e84-4b27-9d12-8847e0930684
+SEQUENCE:0
+DTSTAMP:20250930T171245
+DTSTART:20251011T114500
+DTEND:20251011T123000
+SUMMARY:🏀 U10 Boys: Hawksburn Piranhas vs Timberwolves Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+ wolves Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5d10e9d0-ecc8-49e8-bcbf-bef57accedb3
+SEQUENCE:0
+DTSTAMP:20250930T171245
+DTSTART:20251025T110000
+DTEND:20251025T114500
+SUMMARY:🏀 U10 Boys: Hawksburn Piranhas vs Toorak Tycoons
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Toorak Tycoons\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+END:VCALENDAR

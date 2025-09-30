@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Jackson Fixtures
+X-WR-CALNAME:Malvern Tigers Jackson Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:56231c2d-a7dd-4fd1-833e-5996dd01f2ca
+SEQUENCE:0
+DTSTAMP:20250930T171559
+DTSTART:20251007T191500
+DTEND:20251007T200000
+SUMMARY:🏀 U18 Girls: Malvern Tigers Jackson vs Solway Suns
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Suns\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:994cb99f-83bb-4e27-b6d0-20b4867f0472
+SEQUENCE:0
+DTSTAMP:20250930T171559
+DTSTART:20251014T191500
+DTEND:20251014T200000
+SUMMARY:🏀 U18 Girls: Malvern Tigers Jackson vs Toorak Trailblazers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
+  Trailblazers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f4cdf782-9ea7-4072-90b1-f5a7ac0c0586
+SEQUENCE:0
+DTSTAMP:20250930T171559
+DTSTART:20251021T191500
+DTEND:20251021T200000
+SUMMARY:🏀 U18 Girls: Malvern Tigers Jackson vs SCBC Brilliant Diamonds
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: SCBC B
+ rilliant Diamonds\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

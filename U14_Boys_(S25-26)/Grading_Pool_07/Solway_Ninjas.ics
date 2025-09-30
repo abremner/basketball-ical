@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Ninjas Fixtures
+X-WR-CALNAME:Solway Ninjas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:addd06d9-c20f-4eee-96cf-4e9b1e2779c4
+SEQUENCE:0
+DTSTAMP:20250930T171440
+DTSTART:20251018T153000
+DTEND:20251018T161500
+SUMMARY:🏀 U14 Boys: Solway Ninjas vs Maccabi Hawks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0598f80f-5d82-40f7-848c-15c245c440e1
+SEQUENCE:0
+DTSTAMP:20250930T171440
+DTSTART:20251025T161500
+DTEND:20251025T170000
+SUMMARY:🏀 U14 Boys: Solway Ninjas vs Golden Hawks Iron
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Golden
+  Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

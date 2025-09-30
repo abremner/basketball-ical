@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Korowa Cherry Fixtures
+X-WR-CALNAME:Korowa Cherry Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:aa05a637-e5fd-4a4f-abf2-817c688e202e
+SEQUENCE:0
+DTSTAMP:20250930T171259
+DTSTART:20251011T123000
+DTEND:20251011T131500
+SUMMARY:🏀 U10 Girls: Korowa Cherry vs Malvern Tigers Hodges
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Hodges\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0208b968-ea00-4117-a5b2-a1f8ac5c1441
+SEQUENCE:0
+DTSTAMP:20250930T171259
+DTSTART:20251018T114500
+DTEND:20251018T123000
+SUMMARY:🏀 U10 Girls: Korowa Cherry vs Embling Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Emblin
+ g Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:98cef50b-5cc7-409c-8329-06ed34f01c0e
+SEQUENCE:0
+DTSTAMP:20250930T171259
+DTSTART:20251025T114500
+DTEND:20251025T123000
+SUMMARY:🏀 U10 Girls: Korowa Cherry vs Solway Mistrals
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Mistrals\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

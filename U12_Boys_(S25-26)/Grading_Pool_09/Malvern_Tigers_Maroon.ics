@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Maroon Fixtures
+X-WR-CALNAME:Malvern Tigers Maroon Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9e2cf555-3d5e-45b0-9fee-4725c072ead6
+SEQUENCE:0
+DTSTAMP:20250930T171341
+DTSTART:20251011T123000
+DTEND:20251011T131500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Maroon vs Glen Iris Scorpions Nettle
+ ton
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
+ is Scorpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1961c8fa-6798-4b9a-81df-599f05469790
+SEQUENCE:0
+DTSTAMP:20250930T171341
+DTSTART:20251018T140000
+DTEND:20251018T144500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Maroon vs Maccabi Lakers
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Lakers\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:276d1f10-a360-418b-ae19-4b0afb718248
+SEQUENCE:0
+DTSTAMP:20250930T171341
+DTSTART:20251025T123000
+DTEND:20251025T131500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Maroon vs Ashy Lightning Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

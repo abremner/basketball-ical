@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Rebels Fixtures
+X-WR-CALNAME:Solway Rebels Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5342a76d-4e79-4783-b1eb-223be971fbda
+SEQUENCE:0
+DTSTAMP:20250930T171424
+DTSTART:20251011T153000
+DTEND:20251011T161500
+SUMMARY:🏀 U14 Boys: Solway Rebels vs Glen Iris Scorpions Gardiner
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
+ is Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:147d485b-509e-445c-9255-c350f62b64d9
+SEQUENCE:0
+DTSTAMP:20250930T171424
+DTSTART:20251018T174500
+DTEND:20251018T183000
+SUMMARY:🏀 U14 Boys: Solway Rebels vs Timberwolves Phoenix
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Phoenix\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:08cf81a8-fac0-4559-acef-26830ebc72f4
+SEQUENCE:0
+DTSTAMP:20250930T171424
+DTSTART:20251101T174500
+DTEND:20251101T183000
+SUMMARY:🏀 U14 Boys: Solway Rebels vs Toorak Tomcats
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Tomcats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f5a2612a-46e6-4326-9fa5-8140d58c9249
+SEQUENCE:0
+DTSTAMP:20250930T171424
+DTSTART:20251108T153000
+DTEND:20251108T161500
+SUMMARY:🏀 U14 Boys: Solway Rebels vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

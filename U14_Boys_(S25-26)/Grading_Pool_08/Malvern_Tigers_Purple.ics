@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers  Purple Fixtures
+X-WR-CALNAME:Malvern Tigers  Purple Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9d2559c2-c861-4fac-8699-ca6f3a057aca
+SEQUENCE:0
+DTSTAMP:20250930T171441
+DTSTART:20251011T153000
+DTEND:20251011T161500
+SUMMARY:🏀 U14 Boys: Malvern Tigers  Purple vs Comets Sharks
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Comets Sharks\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a4be50ff-e021-433c-a740-f7c02782f8ce
+SEQUENCE:0
+DTSTAMP:20250930T171441
+DTSTART:20251018T161500
+DTEND:20251018T170000
+SUMMARY:🏀 U14 Boys: Malvern Tigers  Purple vs Timberwolves Dragons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+ wolves Dragons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0467f4ba-d867-422e-9cc6-0321c2bc7778
+SEQUENCE:0
+DTSTAMP:20250930T171441
+DTSTART:20251025T161500
+DTEND:20251025T170000
+SUMMARY:🏀 U14 Boys: Malvern Tigers  Purple vs Glen Iris Scorpions Raven
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Glen Iris Scorpions Raven\nAr
+ rive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Jaguars Fixtures
+X-WR-CALNAME:Maccabi Jaguars Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:615e5dea-66bd-4ba9-ba06-22ebff985dd9
+SEQUENCE:0
+DTSTAMP:20250930T171336
+DTSTART:20251011T123000
+DTEND:20251011T131500
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Malvern Tigers Purple
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Purple\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:71213cf3-4fae-4c8c-8f04-91d3fd1ffbc5
+SEQUENCE:0
+DTSTAMP:20250930T171336
+DTSTART:20251018T131500
+DTEND:20251018T140000
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Central Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Central
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b4501911-849b-4d27-bc9c-9ef09dfb6cf7
+SEQUENCE:0
+DTSTAMP:20250930T171336
+DTSTART:20251025T123000
+DTEND:20251025T131500
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Solway Panthers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Panthers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

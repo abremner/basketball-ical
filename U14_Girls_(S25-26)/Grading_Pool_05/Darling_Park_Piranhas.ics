@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Darling Park Piranhas Fixtures
+X-WR-CALNAME:Darling Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:508aa5ab-2961-43d8-937b-26639be42b2a
+SEQUENCE:0
+DTSTAMP:20250930T171459
+DTSTART:20251018T153000
+DTEND:20251018T161500
+SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:57fd3faa-9634-4c23-ba06-30cfefa6c7fa
+SEQUENCE:0
+DTSTAMP:20250930T171459
+DTSTART:20251025T153000
+DTEND:20251025T161500
+SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Malvern Tigers Nelson
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Nelson\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

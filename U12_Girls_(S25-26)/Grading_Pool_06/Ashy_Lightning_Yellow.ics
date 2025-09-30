@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Yellow Fixtures
+X-WR-CALNAME:Ashy Lightning Yellow Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:50dbb89f-3e0a-4ca5-94b3-7102ed731f39
+SEQUENCE:0
+DTSTAMP:20250930T171408
+DTSTART:20251011T131500
+DTEND:20251011T140000
+SUMMARY:🏀 U12 Girls: Ashy Lightning Yellow vs Glen Iris Scorpions Gardi
+ ner
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
+ is Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:eebe0fc7-600a-483b-b595-5c9da0cf492d
+SEQUENCE:0
+DTSTAMP:20250930T171408
+DTSTART:20251018T140000
+DTEND:20251018T144500
+SUMMARY:🏀 U12 Girls: Ashy Lightning Yellow vs Timberwolves Pearls
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Timberwolve
+ s Pearls\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

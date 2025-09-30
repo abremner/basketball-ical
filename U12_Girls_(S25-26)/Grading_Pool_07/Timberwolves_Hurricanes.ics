@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Hurricanes Fixtures
+X-WR-CALNAME:Timberwolves Hurricanes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:23fe9f7c-d4d4-4351-bf1a-ad75ada206fa
+SEQUENCE:0
+DTSTAMP:20250930T171415
+DTSTART:20251011T123000
+DTEND:20251011T131500
+SUMMARY:🏀 U12 Girls: Timberwolves Hurricanes vs Creswick Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Creswi
+ ck Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8716555c-ba27-4d28-93ac-aa78ff997b4a
+SEQUENCE:0
+DTSTAMP:20250930T171415
+DTSTART:20251018T123000
+DTEND:20251018T131500
+SUMMARY:🏀 U12 Girls: Timberwolves Hurricanes vs Malvern Tigers Blue
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f8fcfbe7-5c4e-4b1e-9ff6-5c52faa787f4
+SEQUENCE:0
+DTSTAMP:20250930T171415
+DTSTART:20251025T123000
+DTEND:20251025T131500
+SUMMARY:🏀 U12 Girls: Timberwolves Hurricanes vs Maccabi Falcons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Falcons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Sixers Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Sixers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:895e8f97-0bc2-48d8-b04e-588c9c43563e
+SEQUENCE:0
+DTSTAMP:20250930T171610
+DTSTART:20251012T194500
+DTEND:20251012T203000
+SUMMARY:🏀 U21 Men: Glen Iris Scorpions Sixers vs Solway Wizards
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Wizards\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:583dde71-7048-44a5-88c0-2f5fe61fc87a
+SEQUENCE:0
+DTSTAMP:20250930T171610
+DTSTART:20251019T194500
+DTEND:20251019T203000
+SUMMARY:🏀 U21 Men: Glen Iris Scorpions Sixers vs Solway Cobras
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Cobras\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fc14f78b-f193-43a3-b512-a9b010491af7
+SEQUENCE:0
+DTSTAMP:20250930T171610
+DTSTART:20251026T190000
+DTEND:20251026T194500
+SUMMARY:🏀 U21 Men: Glen Iris Scorpions Sixers vs Solway Taipans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Taipans\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

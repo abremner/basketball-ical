@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Diamonds Fixtures
+X-WR-CALNAME:Solway Diamonds Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:bba7b51f-7c2f-495d-b232-335438b2bbcf
+SEQUENCE:0
+DTSTAMP:20250930T171454
+DTSTART:20251011T153000
+DTEND:20251011T161500
+SUMMARY:🏀 U14 Girls: Solway Diamonds vs Toorak Topguns
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Topguns\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a9051f18-f5c1-4e1e-ba8a-4861820aedb5
+SEQUENCE:0
+DTSTAMP:20250930T171454
+DTSTART:20251018T161500
+DTEND:20251018T170000
+SUMMARY:🏀 U14 Girls: Solway Diamonds vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ee6388d5-bc00-4edd-bf69-10403c213339
+SEQUENCE:0
+DTSTAMP:20250930T171454
+DTSTART:20251025T170000
+DTEND:20251025T174500
+SUMMARY:🏀 U14 Girls: Solway Diamonds vs Glen Iris Scorpions Gardiner
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
+ is Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

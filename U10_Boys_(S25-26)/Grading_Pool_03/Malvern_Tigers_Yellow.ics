@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Yellow Fixtures
+X-WR-CALNAME:Malvern Tigers Yellow Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a6a242e1-b081-40f4-bdea-5733ab584d44
+SEQUENCE:0
+DTSTAMP:20250930T171225
+DTSTART:20251011T110000
+DTEND:20251011T114500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Yellow vs Solway Boomers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Boomers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5112bdb0-e6fe-45b0-b178-eb44f86c7085
+SEQUENCE:0
+DTSTAMP:20250930T171225
+DTSTART:20251018T114500
+DTEND:20251018T123000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Yellow vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4c882768-61a5-4139-a331-158178abf05e
+SEQUENCE:0
+DTSTAMP:20250930T171225
+DTSTART:20251025T114500
+DTEND:20251025T123000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Yellow vs Solway Spurs
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Spurs\nArrive 15 mins 
+ early for warm-up
+END:VEVENT
+END:VCALENDAR

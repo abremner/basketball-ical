@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Red Fixtures
+X-WR-CALNAME:Malvern Tigers Red Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:85552b82-fd6b-4015-a858-24028255e70c
+SEQUENCE:0
+DTSTAMP:20250930T171359
+DTSTART:20251011T140000
+DTEND:20251011T144500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Red vs Ashy Lightning Gold
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
+ ghtning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2c97532b-99fb-4987-89f2-602fbdc153bc
+SEQUENCE:0
+DTSTAMP:20250930T171359
+DTSTART:20251018T140000
+DTEND:20251018T144500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Red vs Korowa Cherry
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Korowa 
+ Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:76b9c861-f199-424d-ac4e-b78475aee06b
+SEQUENCE:0
+DTSTAMP:20250930T171359
+DTSTART:20251025T144500
+DTEND:20251025T153000
+SUMMARY:🏀 U12 Girls: Malvern Tigers Red vs Comets Rubies
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
+  Rubies\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

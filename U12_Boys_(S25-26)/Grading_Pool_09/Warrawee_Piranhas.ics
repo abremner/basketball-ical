@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Warrawee Piranhas Fixtures
+X-WR-CALNAME:Warrawee Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b1764383-d2e6-432c-8104-626bdbfa8f5e
+SEQUENCE:0
+DTSTAMP:20250930T171342
+DTSTART:20251011T123000
+DTEND:20251011T131500
+SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Maccabi Lakers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Lakers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1d1f21c7-6720-46a2-a89e-810ffdd466d8
+SEQUENCE:0
+DTSTAMP:20250930T171342
+DTSTART:20251018T123000
+DTEND:20251018T131500
+SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Ashy Lightning Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b98d4693-48ae-4116-a542-e342078bd95c
+SEQUENCE:0
+DTSTAMP:20250930T171342
+DTSTART:20251025T140000
+DTEND:20251025T144500
+SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Golden Hawks Iron
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Golden Hawks Iron\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+END:VCALENDAR

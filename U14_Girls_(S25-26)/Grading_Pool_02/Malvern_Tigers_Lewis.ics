@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Lewis Fixtures
+X-WR-CALNAME:Malvern Tigers Lewis Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ad72a241-94db-4c30-984b-6be5b22fe9df
+SEQUENCE:0
+DTSTAMP:20250930T171450
+DTSTART:20251011T174500
+DTEND:20251011T183000
+SUMMARY:🏀 U14 Girls: Malvern Tigers Lewis vs Solway Jewels
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Jewels\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:05f65e3b-d4e8-4952-aa96-53e36eff95e1
+SEQUENCE:0
+DTSTAMP:20250930T171450
+DTSTART:20251018T170000
+DTEND:20251018T174500
+SUMMARY:🏀 U14 Girls: Malvern Tigers Lewis vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:072a21f0-bffd-4e52-bdde-bdff5bb0151b
+SEQUENCE:0
+DTSTAMP:20250930T171450
+DTSTART:20251025T174500
+DTEND:20251025T183000
+SUMMARY:🏀 U14 Girls: Malvern Tigers Lewis vs Cato Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Cato Pa
+ rk Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

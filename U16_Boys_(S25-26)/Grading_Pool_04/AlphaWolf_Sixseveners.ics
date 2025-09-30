@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Sixseveners Fixtures
+X-WR-CALNAME:AlphaWolf Sixseveners Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:660bc6f9-c369-4da4-b3cb-3bd2144a9c81
+SEQUENCE:0
+DTSTAMP:20250930T171516
+DTSTART:20251018T191500
+DTEND:20251018T200000
+SUMMARY:🏀 U16 Boys: AlphaWolf Sixseveners vs Maccabi Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b4b8728c-d253-4ced-a550-51413286cb92
+SEQUENCE:0
+DTSTAMP:20250930T171516
+DTSTART:20251025T191500
+DTEND:20251025T200000
+SUMMARY:🏀 U16 Boys: AlphaWolf Sixseveners vs Timberwolves Boulders
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Boulders\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

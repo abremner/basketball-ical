@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Fawkner Park Piranhas Fixtures
+X-WR-CALNAME:Fawkner Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:27d8d89d-501d-4e09-a8fc-d7a53b729ab3
+SEQUENCE:0
+DTSTAMP:20250930T171517
+DTSTART:20251011T191500
+DTEND:20251011T200000
+SUMMARY:🏀 U16 Boys: Fawkner Park Piranhas vs Solway Blades
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Blades\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:79ddd572-ac64-4dd1-bb53-44af99fa03db
+SEQUENCE:0
+DTSTAMP:20250930T171517
+DTSTART:20251018T191500
+DTEND:20251018T200000
+SUMMARY:🏀 U16 Boys: Fawkner Park Piranhas vs Timberwolves Taipans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Taipans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7c917a09-8dc0-41fb-9107-c31e0921ef50
+SEQUENCE:0
+DTSTAMP:20250930T171517
+DTSTART:20251025T183000
+DTEND:20251025T191500
+SUMMARY:🏀 U16 Boys: Fawkner Park Piranhas vs Toorak Tornadoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Tornadoes\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

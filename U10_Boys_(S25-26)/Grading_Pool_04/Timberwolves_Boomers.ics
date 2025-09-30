@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Boomers Fixtures
+X-WR-CALNAME:Timberwolves Boomers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1d1c6997-6ef9-46f8-b7f3-8d60a328e8d0
+SEQUENCE:0
+DTSTAMP:20250930T171229
+DTSTART:20251011T114500
+DTEND:20251011T123000
+SUMMARY:🏀 U10 Boys: Timberwolves Boomers vs Toorak Tigersharks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
+ Tigersharks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bec44635-c951-47b7-8996-15ab44fd6a3a
+SEQUENCE:0
+DTSTAMP:20250930T171229
+DTSTART:20251018T110000
+DTEND:20251018T114500
+SUMMARY:🏀 U10 Boys: Timberwolves Boomers vs Armadale Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Armada
+ le Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:84600ce2-a26b-461f-8cec-fc4c73b0950b
+SEQUENCE:0
+DTSTAMP:20250930T171229
+DTSTART:20251025T114500
+DTEND:20251025T123000
+SUMMARY:🏀 U10 Boys: Timberwolves Boomers vs Penpraze Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Penpraz
+ e Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

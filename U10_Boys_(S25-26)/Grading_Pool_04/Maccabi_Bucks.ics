@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e0bf6516-6d85-4164-bdf4-f212e8a2f934
+SEQUENCE:0
+DTSTAMP:20250930T171228
+DTSTART:20251011T110000
+DTEND:20251011T114500
+SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Armadale Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Armada
+ le Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d31bd485-05f3-440c-bee7-2549513d39d6
+SEQUENCE:0
+DTSTAMP:20250930T171228
+DTSTART:20251018T114500
+DTEND:20251018T123000
+SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

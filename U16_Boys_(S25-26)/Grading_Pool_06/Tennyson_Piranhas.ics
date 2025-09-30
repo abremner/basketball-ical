@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Tennyson Piranhas Fixtures
+X-WR-CALNAME:Tennyson Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a36dc128-1688-4096-8d63-cf10d44c2b41
+SEQUENCE:0
+DTSTAMP:20250930T171525
+DTSTART:20251011T174500
+DTEND:20251011T183000
+SUMMARY:🏀 U16 Boys: Tennyson Piranhas vs Solway Jets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Jets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:52c0e9d6-b381-4263-acc6-dd3da49c37af
+SEQUENCE:0
+DTSTAMP:20250930T171525
+DTSTART:20251018T183000
+DTEND:20251018T191500
+SUMMARY:🏀 U16 Boys: Tennyson Piranhas vs Toorak Trackers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Trackers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5b519fb4-680e-4a0a-8bee-df04eaa99d4a
+SEQUENCE:0
+DTSTAMP:20250930T171525
+DTSTART:20251025T191500
+DTEND:20251025T200000
+SUMMARY:🏀 U16 Boys: Tennyson Piranhas vs Timberwolves Magic
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Magic\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

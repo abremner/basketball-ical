@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Inkerman Piranhas Fixtures
+X-WR-CALNAME:Inkerman Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:07ad26d8-8d36-4f96-83e6-071ac06c47e3
+SEQUENCE:0
+DTSTAMP:20250930T171438
+DTSTART:20251011T161500
+DTEND:20251011T170000
+SUMMARY:🏀 U14 Boys: Inkerman Piranhas vs AlphaWolf Hustle
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AlphaW
+ olf Hustle\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:efc6e907-4607-451c-9f11-69938f1e6273
+SEQUENCE:0
+DTSTAMP:20250930T171438
+DTSTART:20251018T170000
+DTEND:20251018T174500
+SUMMARY:🏀 U14 Boys: Inkerman Piranhas vs Golden Hawks Iron
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Golden
+  Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b386cd81-73fd-4d6a-9fa4-67a5dd1e10f9
+SEQUENCE:0
+DTSTAMP:20250930T171438
+DTSTART:20251025T153000
+DTEND:20251025T161500
+SUMMARY:🏀 U14 Boys: Inkerman Piranhas vs Malvern Tigers Brown
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Brown\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Lightening Fixtures
+X-WR-CALNAME:Maccabi Lightening Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:28afe497-49eb-4219-81d2-349fe83e1867
+SEQUENCE:0
+DTSTAMP:20250930T171552
+DTSTART:20251012T173000
+DTEND:20251012T181500
+SUMMARY:🏀 U18 Boys: Maccabi Lightening vs Ferncroft Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ferncr
+ oft Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d7dd5722-0433-45fa-82bb-0b0e140c4926
+SEQUENCE:0
+DTSTAMP:20250930T171552
+DTSTART:20251019T190000
+DTEND:20251019T194500
+SUMMARY:🏀 U18 Boys: Maccabi Lightening vs Maccabi Thunder
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7a5fb126-1e85-49bf-9f60-3961d5f2ebee
+SEQUENCE:0
+DTSTAMP:20250930T171552
+DTSTART:20251026T190000
+DTEND:20251026T194500
+SUMMARY:🏀 U18 Boys: Maccabi Lightening vs Timberwolves Wildcats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Wildcats\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

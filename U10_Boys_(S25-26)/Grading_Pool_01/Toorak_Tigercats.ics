@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tigercats Fixtures
+X-WR-CALNAME:Toorak Tigercats Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:605edf14-8c94-42d1-a9a2-236ff3bc708e
+SEQUENCE:0
+DTSTAMP:20250930T171223
+DTSTART:20251011T114500
+DTEND:20251011T123000
+SUMMARY:🏀 U10 Boys: Toorak Tigercats vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:96cd2848-6693-44e8-bb42-c17d7a97b91d
+SEQUENCE:0
+DTSTAMP:20250930T171223
+DTSTART:20251018T131500
+DTEND:20251018T140000
+SUMMARY:🏀 U10 Boys: Toorak Tigercats vs AUBD Storm
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AUBD S
+ torm\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0ea98174-f22e-4223-a743-db3a20882074
+SEQUENCE:0
+DTSTAMP:20250930T171223
+DTSTART:20251025T123000
+DTEND:20251025T131500
+SUMMARY:🏀 U10 Boys: Toorak Tigercats vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

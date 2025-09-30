@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Falcons Fixtures
+X-WR-CALNAME:Maccabi Falcons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ab338ce2-00f3-41ab-8f5b-0d44c1eb352e
+SEQUENCE:0
+DTSTAMP:20250930T171432
+DTSTART:20251011T170000
+DTEND:20251011T174500
+SUMMARY:🏀 U14 Boys: Maccabi Falcons vs AlphaWolf Apex
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: AlphaWo
+ lf Apex\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cc69f923-ff99-4e17-9b55-bdc689f5cf7e
+SEQUENCE:0
+DTSTAMP:20250930T171432
+DTSTART:20251018T153000
+DTEND:20251018T161500
+SUMMARY:🏀 U14 Boys: Maccabi Falcons vs Toorak Tractors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
+  Tractors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1b80dfc9-6437-4b2f-831c-5b10842ca2d6
+SEQUENCE:0
+DTSTAMP:20250930T171432
+DTSTART:20251025T161500
+DTEND:20251025T170000
+SUMMARY:🏀 U14 Boys: Maccabi Falcons vs Malvern Tigers Blue
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

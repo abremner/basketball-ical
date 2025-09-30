@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Nettleton Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Nettleton Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e36417e9-bb6c-4ca8-ad47-aa81abbd0808
+SEQUENCE:0
+DTSTAMP:20250930T171339
+DTSTART:20251011T123000
+DTEND:20251011T131500
+SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Nettleton vs Malvern Tigers Mar
+ oon
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Maroon\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d025ac89-0c1d-4ba5-832f-fc2cc6281ec6
+SEQUENCE:0
+DTSTAMP:20250930T171339
+DTSTART:20251018T131500
+DTEND:20251018T140000
+SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Nettleton vs Toorak Trouble
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Toorak Trouble\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+END:VCALENDAR

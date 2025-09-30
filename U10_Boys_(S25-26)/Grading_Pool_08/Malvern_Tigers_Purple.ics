@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Purple Fixtures
+X-WR-CALNAME:Malvern Tigers Purple Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c73294c4-11b0-4ae5-995a-c015cfcceec5
+SEQUENCE:0
+DTSTAMP:20250930T171242
+DTSTART:20251011T084500
+DTEND:20251011T093000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Purple vs Solway Hornets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Hornets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7b680dc1-f76f-462e-a8fe-c780e27a5727
+SEQUENCE:0
+DTSTAMP:20250930T171242
+DTSTART:20251025T080000
+DTEND:20251025T084500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Purple vs Maccabi Falcons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Falcons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

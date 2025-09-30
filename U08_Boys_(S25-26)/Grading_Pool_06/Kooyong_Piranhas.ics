@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Kooyong Piranhas Fixtures
+X-WR-CALNAME:Kooyong Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6657a6d9-ebfe-4d6c-be44-6313170625d1
+SEQUENCE:0
+DTSTAMP:20250930T171201
+DTSTART:20251011T080000
+DTEND:20251011T084500
+SUMMARY:🏀 U08 Boys: Kooyong Piranhas vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1be85e85-e27f-4688-9a94-61f545c6e474
+SEQUENCE:0
+DTSTAMP:20250930T171201
+DTSTART:20251025T110000
+DTEND:20251025T114500
+SUMMARY:🏀 U08 Boys: Kooyong Piranhas vs Solway Colts
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Colts\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Nicholson Fixtures
+X-WR-CALNAME:Malvern Tigers Nicholson Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0066c146-3784-4836-aca1-240f120a39c6
+SEQUENCE:0
+DTSTAMP:20250930T171603
+DTSTART:20251007T191500
+DTEND:20251007T200000
+SUMMARY:🏀 U18 Girls: Malvern Tigers Nicholson vs SCBC Dazzling Diamonds
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: SCBC D
+ azzling Diamonds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9930fae7-ea06-4867-803b-07fa0326584a
+SEQUENCE:0
+DTSTAMP:20250930T171603
+DTSTART:20251014T191500
+DTEND:20251014T200000
+SUMMARY:🏀 U18 Girls: Malvern Tigers Nicholson vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a34b7303-87c1-42ef-aa0f-f447371d3c40
+SEQUENCE:0
+DTSTAMP:20250930T171603
+DTSTART:20251021T191500
+DTEND:20251021T200000
+SUMMARY:🏀 U18 Girls: Malvern Tigers Nicholson vs Maccabi Holy Hoopers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Holy Hoopers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Turbos Fixtures
+X-WR-CALNAME:Toorak Turbos Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1157a5cc-0abb-4ce3-9b6d-98c03adb570d
+SEQUENCE:0
+DTSTAMP:20250930T171557
+DTSTART:20251012T173000
+DTEND:20251012T181500
+SUMMARY:🏀 U18 Boys: Toorak Turbos vs Comets Storm
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
+  Storm\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fbcecac6-7486-4ae0-a556-2e6154fa5cd8
+SEQUENCE:0
+DTSTAMP:20250930T171557
+DTSTART:20251019T181500
+DTEND:20251019T190000
+SUMMARY:🏀 U18 Boys: Toorak Turbos vs Timberwolves Stars
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+ wolves Stars\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:74b87813-1428-47a0-9a81-0b005374fb53
+SEQUENCE:0
+DTSTAMP:20250930T171557
+DTSTART:20251026T173000
+DTEND:20251026T181500
+SUMMARY:🏀 U18 Boys: Toorak Turbos vs Spring Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Spring
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

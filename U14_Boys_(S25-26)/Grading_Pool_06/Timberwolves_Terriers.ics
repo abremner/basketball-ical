@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Terriers Fixtures
+X-WR-CALNAME:Timberwolves Terriers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6f0191a0-5e85-4191-8d8a-3cf662dcbaff
+SEQUENCE:0
+DTSTAMP:20250930T171435
+DTSTART:20251011T161500
+DTEND:20251011T170000
+SUMMARY:🏀 U14 Boys: Timberwolves Terriers vs Toorak Tactix
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
+ Tactix\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d9d52a01-7e0c-4f4c-9fd4-e826d0724e2e
+SEQUENCE:0
+DTSTAMP:20250930T171435
+DTSTART:20251018T161500
+DTEND:20251018T170000
+SUMMARY:🏀 U14 Boys: Timberwolves Terriers vs Maccabi Giants
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Giants\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7eea1c2a-aa52-4f00-ae40-18626e9d6dff
+SEQUENCE:0
+DTSTAMP:20250930T171435
+DTSTART:20251025T161500
+DTEND:20251025T170000
+SUMMARY:🏀 U14 Boys: Timberwolves Terriers vs Toorak Tractors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Tractors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

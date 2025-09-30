@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tomcats Fixtures
+X-WR-CALNAME:Toorak Tomcats Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b5c9f2d6-4f38-4935-9c29-bc03d5777d41
+SEQUENCE:0
+DTSTAMP:20250930T171425
+DTSTART:20251011T170000
+DTEND:20251011T174500
+SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Solway Titans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Titans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cbafc557-3a3b-40ac-84db-4f7ce7a0a4dc
+SEQUENCE:0
+DTSTAMP:20250930T171425
+DTSTART:20251018T170000
+DTEND:20251018T174500
+SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Glen Iris Scorpions Gardiner
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
+ ris Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7e161196-c7c1-4cfe-aa2d-5af3bc65575e
+SEQUENCE:0
+DTSTAMP:20250930T171425
+DTSTART:20251025T153000
+DTEND:20251025T161500
+SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Timberwolves Phoenix
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Phoenix\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:272000d4-73a0-48ee-af43-e4361ed15c3e
+SEQUENCE:0
+DTSTAMP:20250930T171425
+DTSTART:20251101T174500
+DTEND:20251101T183000
+SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Solway Rebels
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Rebels\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tycoons Fixtures
+X-WR-CALNAME:Toorak Tycoons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7f08cb1d-79e4-4a9b-bc67-9d7514cf91bb
+SEQUENCE:0
+DTSTAMP:20250930T171247
+DTSTART:20251011T110000
+DTEND:20251011T114500
+SUMMARY:🏀 U10 Boys: Toorak Tycoons vs Glen Iris Scorpions Raven
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Glen Iris Scorpions Raven\nAr
+ rive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a86af434-b6a9-4495-b280-de276901b5f6
+SEQUENCE:0
+DTSTAMP:20250930T171247
+DTSTART:20251018T101500
+DTEND:20251018T110000
+SUMMARY:🏀 U10 Boys: Toorak Tycoons vs AlphaWolf Tigers
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: AlphaWolf Tigers\nArrive 15 m
+ ins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:09091cc0-5a90-4cc2-a45f-c507b203b5ed
+SEQUENCE:0
+DTSTAMP:20250930T171247
+DTSTART:20251025T110000
+DTEND:20251025T114500
+SUMMARY:🏀 U10 Boys: Toorak Tycoons vs Hawksburn Piranhas
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Hawksburn Piranhas\nArrive 15
+  mins early for warm-up
+END:VEVENT
+END:VCALENDAR

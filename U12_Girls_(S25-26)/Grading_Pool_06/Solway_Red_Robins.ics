@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Red Robins Fixtures
+X-WR-CALNAME:Solway Red Robins Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e9f6a0e9-2c4a-4317-8115-b8e0fb4ca10d
+SEQUENCE:0
+DTSTAMP:20250930T171410
+DTSTART:20251011T140000
+DTEND:20251011T144500
+SUMMARY:🏀 U12 Girls: Solway Red Robins vs Timberwolves Pearls
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Timberwolve
+ s Pearls\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3ce77552-8048-4d23-bfa7-5ae023f935f5
+SEQUENCE:0
+DTSTAMP:20250930T171410
+DTSTART:20251018T131500
+DTEND:20251018T140000
+SUMMARY:🏀 U12 Girls: Solway Red Robins vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:24828adb-fea9-4b59-87bf-462226d04a14
+SEQUENCE:0
+DTSTAMP:20250930T171410
+DTSTART:20251025T140000
+DTEND:20251025T144500
+SUMMARY:🏀 U12 Girls: Solway Red Robins vs Maccabi Celtics
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Cel
+ tics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

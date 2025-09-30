@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Tolo Fixtures
+X-WR-CALNAME:Malvern Tigers Tolo Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:782ab9ec-6c42-4ccc-ae95-d5cdd4fc7a03
+SEQUENCE:0
+DTSTAMP:20250930T171534
+DTSTART:20251007T183000
+DTEND:20251007T191500
+SUMMARY:🏀 U16 Girls: Malvern Tigers Tolo vs Solway Fever
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Fever\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7f866b91-507c-4151-9826-f18829242361
+SEQUENCE:0
+DTSTAMP:20250930T171534
+DTSTART:20251014T174500
+DTEND:20251014T183000
+SUMMARY:🏀 U16 Girls: Malvern Tigers Tolo vs Solway Marvels
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Marvels\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:58b629ca-94d7-4532-8582-b0798dab4156
+SEQUENCE:0
+DTSTAMP:20250930T171534
+DTSTART:20251021T183000
+DTEND:20251021T191500
+SUMMARY:🏀 U16 Girls: Malvern Tigers Tolo vs Malvern Tigers Rocci
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Rocci\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

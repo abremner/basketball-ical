@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Red Fixtures
+X-WR-CALNAME:Malvern Tigers Red Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ea1aad32-7d58-4c0e-96fc-1526fe7eac28
+SEQUENCE:0
+DTSTAMP:20250930T171549
+DTSTART:20251012T181500
+DTEND:20251012T190000
+SUMMARY:🏀 U18 Boys: Malvern Tigers Red vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:03bbc3ca-4d47-4714-99fe-37d36c148fa0
+SEQUENCE:0
+DTSTAMP:20250930T171549
+DTSTART:20251019T173000
+DTEND:20251019T181500
+SUMMARY:🏀 U18 Boys: Malvern Tigers Red vs Solway Vampires
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Vampires\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:85c2a1d3-648a-4654-9a72-8c70fc7e0f57
+SEQUENCE:0
+DTSTAMP:20250930T171549
+DTSTART:20251026T173000
+DTEND:20251026T181500
+SUMMARY:🏀 U18 Boys: Malvern Tigers Red vs Stanhope Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Stanho
+ pe Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

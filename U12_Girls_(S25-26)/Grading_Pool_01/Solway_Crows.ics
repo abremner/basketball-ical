@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Crows Fixtures
+X-WR-CALNAME:Solway Crows Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d6bf013d-d010-417e-8178-3bcb6ba3065c
+SEQUENCE:0
+DTSTAMP:20250930T171355
+DTSTART:20251011T144500
+DTEND:20251011T153000
+SUMMARY:🏀 U12 Girls: Solway Crows vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:49fd7021-cc58-4c2a-8df3-8908927ad883
+SEQUENCE:0
+DTSTAMP:20250930T171355
+DTSTART:20251018T140000
+DTEND:20251018T144500
+SUMMARY:🏀 U12 Girls: Solway Crows vs Timberwolves Strikers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Strikers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6ce9cd2f-2e72-464e-b31e-e6b05c750556
+SEQUENCE:0
+DTSTAMP:20250930T171355
+DTSTART:20251025T144500
+DTEND:20251025T153000
+SUMMARY:🏀 U12 Girls: Solway Crows vs Yanakie Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Yanaki
+ e Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

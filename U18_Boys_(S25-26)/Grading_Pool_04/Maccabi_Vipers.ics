@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Vipers Fixtures
+X-WR-CALNAME:Maccabi Vipers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5d8a0ea1-1cd7-410b-90ca-596b5a6b037c
+SEQUENCE:0
+DTSTAMP:20250930T171553
+DTSTART:20251012T190000
+DTEND:20251012T194500
+SUMMARY:🏀 U18 Boys: Maccabi Vipers vs Maccabi Thunder
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d8445cde-b92e-49dc-bb4c-c80a4e5fd56f
+SEQUENCE:0
+DTSTAMP:20250930T171553
+DTSTART:20251019T173000
+DTEND:20251019T181500
+SUMMARY:🏀 U18 Boys: Maccabi Vipers vs Timberwolves Wildcats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Wildcats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:69ef7d4b-287d-4059-b7d4-bb740a835912
+SEQUENCE:0
+DTSTAMP:20250930T171553
+DTSTART:20251026T173000
+DTEND:20251026T181500
+SUMMARY:🏀 U18 Boys: Maccabi Vipers vs Maccabi Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

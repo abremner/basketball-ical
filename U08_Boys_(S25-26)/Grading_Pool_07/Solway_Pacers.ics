@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Pacers Fixtures
+X-WR-CALNAME:Solway Pacers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:13269a94-9de9-4238-bec5-90f0c3b4f23f
+SEQUENCE:0
+DTSTAMP:20250930T171207
+DTSTART:20251011T093000
+DTEND:20251011T101500
+SUMMARY:🏀 U08 Boys: Solway Pacers vs Malvern Tigers Gaze
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Gaze\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b0d35cf5-5e75-47e9-8837-2d924dfb41cc
+SEQUENCE:0
+DTSTAMP:20250930T171207
+DTSTART:20251018T093000
+DTEND:20251018T101500
+SUMMARY:🏀 U08 Boys: Solway Pacers vs Nettleton Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Nettlet
+ on Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:90446346-04c7-4ba5-8885-91d029d5478d
+SEQUENCE:0
+DTSTAMP:20250930T171207
+DTSTART:20251025T101500
+DTEND:20251025T110000
+SUMMARY:🏀 U08 Boys: Solway Pacers vs Ferndale Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ferndal
+ e Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

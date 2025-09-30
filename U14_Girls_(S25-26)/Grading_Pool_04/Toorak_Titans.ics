@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Titans Fixtures
+X-WR-CALNAME:Toorak Titans Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:af4fdd68-f718-403e-8497-ff22db1a9019
+SEQUENCE:0
+DTSTAMP:20250930T171458
+DTSTART:20251011T153000
+DTEND:20251011T161500
+SUMMARY:🏀 U14 Girls: Toorak Titans vs Malvern Tigers Fisher
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Fisher\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:87f29683-8102-4356-8278-6cb527907bb6
+SEQUENCE:0
+DTSTAMP:20250930T171458
+DTSTART:20251018T161500
+DTEND:20251018T170000
+SUMMARY:🏀 U14 Girls: Toorak Titans vs Ranfurlie Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ranfurl
+ ie Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f0187d54-5f19-4c92-be62-dc19d7037629
+SEQUENCE:0
+DTSTAMP:20250930T171458
+DTSTART:20251025T131500
+DTEND:20251025T140000
+SUMMARY:🏀 U14 Girls: Toorak Titans vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

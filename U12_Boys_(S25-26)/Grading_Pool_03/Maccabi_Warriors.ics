@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Warriors Fixtures
+X-WR-CALNAME:Maccabi Warriors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:68cbdfc2-21cc-4c78-9274-fb5f8d9d7343
+SEQUENCE:0
+DTSTAMP:20250930T171321
+DTSTART:20251011T140000
+DTEND:20251011T144500
+SUMMARY:🏀 U12 Boys: Maccabi Warriors vs Malvern Tigers Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:25daf927-759f-4066-9367-99def15bcaf1
+SEQUENCE:0
+DTSTAMP:20250930T171321
+DTSTART:20251018T140000
+DTEND:20251018T144500
+SUMMARY:🏀 U12 Boys: Maccabi Warriors vs Glen Iris Scorpions Ferndale
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:af033b6d-c1c7-46f7-a376-2f5794874a68
+SEQUENCE:0
+DTSTAMP:20250930T171321
+DTSTART:20251025T144500
+DTEND:20251025T153000
+SUMMARY:🏀 U12 Boys: Maccabi Warriors vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

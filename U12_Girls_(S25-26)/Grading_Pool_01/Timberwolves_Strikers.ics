@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Strikers Fixtures
+X-WR-CALNAME:Timberwolves Strikers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:634b8c63-7d85-40b6-be29-596443a8390c
+SEQUENCE:0
+DTSTAMP:20250930T171356
+DTSTART:20251011T140000
+DTEND:20251011T144500
+SUMMARY:🏀 U12 Girls: Timberwolves Strikers vs Yanakie Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Yanaki
+ e Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9820f5c7-b6eb-448c-a82c-77d9409fb462
+SEQUENCE:0
+DTSTAMP:20250930T171356
+DTSTART:20251018T140000
+DTEND:20251018T144500
+SUMMARY:🏀 U12 Girls: Timberwolves Strikers vs Solway Crows
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Crows\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f4aaa97c-c1b5-4b54-8097-0e7c53dea369
+SEQUENCE:0
+DTSTAMP:20250930T171356
+DTSTART:20251025T140000
+DTEND:20251025T144500
+SUMMARY:🏀 U12 Girls: Timberwolves Strikers vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

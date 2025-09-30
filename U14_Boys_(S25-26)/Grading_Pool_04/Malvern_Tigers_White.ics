@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers White Fixtures
+X-WR-CALNAME:Malvern Tigers White Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b15ec382-4864-403c-9967-4ff5ca96e5c2
+SEQUENCE:0
+DTSTAMP:20250930T171427
+DTSTART:20251011T153000
+DTEND:20251011T161500
+SUMMARY:🏀 U14 Boys: Malvern Tigers White vs Maccabi Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9ee0daf8-f5f6-4ca9-b573-519e0e43fe72
+SEQUENCE:0
+DTSTAMP:20250930T171427
+DTSTART:20251018T170000
+DTEND:20251018T174500
+SUMMARY:🏀 U14 Boys: Malvern Tigers White vs Toorak Taipans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Taipans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6ce8d50f-669c-43e0-ac20-348bb9f35fff
+SEQUENCE:0
+DTSTAMP:20250930T171427
+DTSTART:20251025T153000
+DTEND:20251025T161500
+SUMMARY:🏀 U14 Boys: Malvern Tigers White vs AlphaWolf Conquerors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: AlphaW
+ olf Conquerors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:295c30f9-9686-491f-a985-405d5a17dab7
+SEQUENCE:0
+DTSTAMP:20250930T171427
+DTSTART:20251101T174500
+DTEND:20251101T183000
+SUMMARY:🏀 U14 Boys: Malvern Tigers White vs Maccabi Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e4eb4f67-0c38-4f6f-b106-30d496ab0783
+SEQUENCE:0
+DTSTAMP:20250930T171427
+DTSTART:20251108T174500
+DTEND:20251108T183000
+SUMMARY:🏀 U14 Boys: Malvern Tigers White vs Solway Vikings
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Vikings\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

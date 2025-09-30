@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Supernovas Fixtures
+X-WR-CALNAME:Solway Supernovas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0736dc1b-b56a-4783-a0b0-442c86215c2a
+SEQUENCE:0
+DTSTAMP:20250930T171219
+DTSTART:20251011T110000
+DTEND:20251011T114500
+SUMMARY:🏀 U08 Girls: Solway Supernovas vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c4d99897-19cb-416e-a064-797af2a17420
+SEQUENCE:0
+DTSTAMP:20250930T171219
+DTSTART:20251025T084500
+DTEND:20251025T093000
+SUMMARY:🏀 U08 Girls: Solway Supernovas vs Korowa Cherry
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Korowa Cher
+ ry\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

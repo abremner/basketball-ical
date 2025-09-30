@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Lauriston Legacy Fixtures
+X-WR-CALNAME:Lauriston Legacy Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7825ae85-c5b1-48b1-a31c-8c891f01a01b
+SEQUENCE:0
+DTSTAMP:20250930T171500
+DTSTART:20251011T161500
+DTEND:20251011T170000
+SUMMARY:🏀 U14 Girls: Lauriston Legacy vs Maccabi Ducks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Duc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6d9f1a66-dfb5-48e0-899f-47354044b76d
+SEQUENCE:0
+DTSTAMP:20250930T171500
+DTSTART:20251018T161500
+DTEND:20251018T170000
+SUMMARY:🏀 U14 Girls: Lauriston Legacy vs Malvern Tigers Nelson
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Nelson\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:18fa1750-17d9-4a0a-95fa-fe2d410f32d6
+SEQUENCE:0
+DTSTAMP:20250930T171500
+DTSTART:20251025T161500
+DTEND:20251025T170000
+SUMMARY:🏀 U14 Girls: Lauriston Legacy vs Toorak Topshots
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Toorak Tops
+ hots\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

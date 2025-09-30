@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Saints Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Saints Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:18cb83a4-b642-43cb-99ad-477afa7733df
+SEQUENCE:0
+DTSTAMP:20250930T171521
+DTSTART:20251011T183000
+DTEND:20251011T191500
+SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Saints vs Maccabi Haifa
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Haifa\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:45057107-4440-4e19-b6a3-56e90a9bc94e
+SEQUENCE:0
+DTSTAMP:20250930T171521
+DTSTART:20251018T183000
+DTEND:20251018T191500
+SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Saints vs Timberwolves 36ers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves 36ers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:048d5571-db0b-4d3d-a331-3b9395319350
+SEQUENCE:0
+DTSTAMP:20250930T171521
+DTSTART:20251025T183000
+DTEND:20251025T191500
+SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Saints vs AlphaWolf Tornados
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
+ lf Tornados\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

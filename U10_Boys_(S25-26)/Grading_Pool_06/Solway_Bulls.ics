@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Bulls Fixtures
+X-WR-CALNAME:Solway Bulls Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:40fc082c-0efe-4fe4-aeb8-2c64ef52fbb7
+SEQUENCE:0
+DTSTAMP:20250930T171236
+DTSTART:20251011T101500
+DTEND:20251011T110000
+SUMMARY:🏀 U10 Boys: Solway Bulls vs AlphaWolf Kings
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: AlphaWolf Kings\nArrive 15 mi
+ ns early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9c91fc89-9194-458f-8fce-b717ab914233
+SEQUENCE:0
+DTSTAMP:20250930T171236
+DTSTART:20251018T101500
+DTEND:20251018T110000
+SUMMARY:🏀 U10 Boys: Solway Bulls vs Orrong Park Piranhas
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Orrong Park Piranhas\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a5e12e45-b75f-4f33-b13d-0d3095bf3cfb
+SEQUENCE:0
+DTSTAMP:20250930T171236
+DTSTART:20251025T101500
+DTEND:20251025T110000
+SUMMARY:🏀 U10 Boys: Solway Bulls vs Malvern Tigers Blue
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

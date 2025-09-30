@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Legends Fixtures
+X-WR-CALNAME:AlphaWolf Legends Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:02a0a871-54b8-4e2c-8f35-51c212a2535c
+SEQUENCE:0
+DTSTAMP:20250930T171443
+DTSTART:20251011T153000
+DTEND:20251011T161500
+SUMMARY:🏀 U14 Boys: AlphaWolf Legends vs Timberwolves Raptors
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Timberwolves Raptors\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cac5fe3e-66ae-4410-a0fd-2cd3f1e1fc6f
+SEQUENCE:0
+DTSTAMP:20250930T171443
+DTSTART:20251018T153000
+DTEND:20251018T161500
+SUMMARY:🏀 U14 Boys: AlphaWolf Legends vs Ashy Lightning White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+ ightning White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:beed1133-fc7b-4f45-a896-bdeda956a1aa
+SEQUENCE:0
+DTSTAMP:20250930T171443
+DTSTART:20251025T144500
+DTEND:20251025T153000
+SUMMARY:🏀 U14 Boys: AlphaWolf Legends vs Glen Iris Scorpions Summerhill
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Glen Iris Scorpions Summerhil
+ l\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

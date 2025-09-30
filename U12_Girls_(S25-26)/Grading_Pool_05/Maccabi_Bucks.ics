@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ef9f5f27-7d44-4c8d-b81c-bbe5a20d3c31
+SEQUENCE:0
+DTSTAMP:20250930T171406
+DTSTART:20251011T140000
+DTEND:20251011T144500
+SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Willow Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Willow 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9fb795d4-de7f-47fd-97f9-b9943dc45faa
+SEQUENCE:0
+DTSTAMP:20250930T171406
+DTSTART:20251018T144500
+DTEND:20251018T153000
+SUMMARY:🏀 U12 Girls: Maccabi Bucks vs AlphaWolf Sparks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: AlphaWolf S
+ parks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ff20fe7d-ba1b-45be-b169-702ef4a13c95
+SEQUENCE:0
+DTSTAMP:20250930T171406
+DTSTART:20251025T144500
+DTEND:20251025T153000
+SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Timberwolves Thunder
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Timberwolve
+ s Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

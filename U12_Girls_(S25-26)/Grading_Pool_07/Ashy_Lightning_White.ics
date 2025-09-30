@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning White Fixtures
+X-WR-CALNAME:Ashy Lightning White Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6ddb21db-f962-4a97-9341-d69b9563013b
+SEQUENCE:0
+DTSTAMP:20250930T171411
+DTSTART:20251011T131500
+DTEND:20251011T140000
+SUMMARY:🏀 U12 Girls: Ashy Lightning White vs Maccabi Giants
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Gia
+ nts\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c8fbd412-0286-424d-8224-c4e46e5acba2
+SEQUENCE:0
+DTSTAMP:20250930T171411
+DTSTART:20251018T131500
+DTEND:20251018T140000
+SUMMARY:🏀 U12 Girls: Ashy Lightning White vs Maccabi Eagles
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Eag
+ les\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:25385bb6-3a9c-4cb4-b284-04418b885cb4
+SEQUENCE:0
+DTSTAMP:20250930T171411
+DTSTART:20251025T131500
+DTEND:20251025T140000
+SUMMARY:🏀 U12 Girls: Ashy Lightning White vs Malvern Tigers Blue
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

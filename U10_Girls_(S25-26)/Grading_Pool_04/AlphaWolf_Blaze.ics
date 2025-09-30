@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Blaze Fixtures
+X-WR-CALNAME:AlphaWolf Blaze Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:289d13a8-bb45-4f09-8514-e395ab658d67
+SEQUENCE:0
+DTSTAMP:20250930T171305
+DTSTART:20251011T110000
+DTEND:20251011T114500
+SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Malvern Tigers Lavey
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Lavey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f25d6a53-a846-4c73-98f6-860071415bba
+SEQUENCE:0
+DTSTAMP:20250930T171305
+DTSTART:20251018T114500
+DTEND:20251018T123000
+SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Maccabi Bucks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Buc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a3836f8f-09c8-4add-aefa-46954cbd5f22
+SEQUENCE:0
+DTSTAMP:20250930T171305
+DTSTART:20251025T084500
+DTEND:20251025T093000
+SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Solway Typhoons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Typhoons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

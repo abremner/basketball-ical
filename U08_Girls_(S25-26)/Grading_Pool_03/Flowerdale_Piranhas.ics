@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Flowerdale Piranhas Fixtures
+X-WR-CALNAME:Flowerdale Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b7725831-7c7b-4920-91c7-4a7f05bc10eb
+SEQUENCE:0
+DTSTAMP:20250930T171212
+DTSTART:20251011T093000
+DTEND:20251011T101500
+SUMMARY:🏀 U08 Girls: Flowerdale Piranhas vs Maccabi Bucks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Buc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b39eeec6-79c8-45f3-a923-473cf7857eb4
+SEQUENCE:0
+DTSTAMP:20250930T171212
+DTSTART:20251025T084500
+DTEND:20251025T093000
+SUMMARY:🏀 U08 Girls: Flowerdale Piranhas vs Malvern Tigers Wallace
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Wallace\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

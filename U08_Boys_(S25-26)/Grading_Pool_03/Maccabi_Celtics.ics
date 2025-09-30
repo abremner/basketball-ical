@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f6c3d281-ae0a-42dd-ae7e-1b7c7afd065b
+SEQUENCE:0
+DTSTAMP:20250930T171150
+DTSTART:20251011T110000
+DTEND:20251011T114500
+SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Solway Mustangs
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Mustangs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0e45a624-3d4d-48fd-9c9a-32460dd67d53
+SEQUENCE:0
+DTSTAMP:20250930T171150
+DTSTART:20251025T110000
+DTEND:20251025T114500
+SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Malvern Tigers Giddey
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Giddey\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

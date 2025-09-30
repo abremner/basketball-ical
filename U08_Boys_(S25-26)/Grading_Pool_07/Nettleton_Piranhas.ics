@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Nettleton Piranhas Fixtures
+X-WR-CALNAME:Nettleton Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:82f1e2e0-f22f-40ee-8e41-e20109a7c724
+SEQUENCE:0
+DTSTAMP:20250930T171206
+DTSTART:20251011T101500
+DTEND:20251011T110000
+SUMMARY:🏀 U08 Boys: Nettleton Piranhas vs Solway Hunters
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Hunters\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:289fb0ca-a52a-48aa-8c5e-4e49649212f0
+SEQUENCE:0
+DTSTAMP:20250930T171206
+DTSTART:20251018T093000
+DTEND:20251018T101500
+SUMMARY:🏀 U08 Boys: Nettleton Piranhas vs Solway Pacers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Pacers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:508bb4c5-c039-430a-8a2d-77ddc606be5a
+SEQUENCE:0
+DTSTAMP:20250930T171206
+DTSTART:20251025T080000
+DTEND:20251025T084500
+SUMMARY:🏀 U08 Boys: Nettleton Piranhas vs Arax
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Arax\nA
+ rrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

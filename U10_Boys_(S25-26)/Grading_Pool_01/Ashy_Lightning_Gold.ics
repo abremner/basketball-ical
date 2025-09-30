@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Gold Fixtures
+X-WR-CALNAME:Ashy Lightning Gold Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3158faf6-6a61-4356-8aac-716d95119826
+SEQUENCE:0
+DTSTAMP:20250930T171221
+DTSTART:20251011T114500
+DTEND:20251011T123000
+SUMMARY:🏀 U10 Boys: Ashy Lightning Gold vs Toorak Tigercats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
+  Tigercats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f5e86fa2-6a0a-4bbd-ae35-7a8fcbb31abb
+SEQUENCE:0
+DTSTAMP:20250930T171221
+DTSTART:20251018T123000
+DTEND:20251018T131500
+SUMMARY:🏀 U10 Boys: Ashy Lightning Gold vs Timberwolves Crusaders
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Crusaders\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:27ae5d6a-37cb-419d-a6e1-c2b7b7de1543
+SEQUENCE:0
+DTSTAMP:20250930T171221
+DTSTART:20251025T131500
+DTEND:20251025T140000
+SUMMARY:🏀 U10 Boys: Ashy Lightning Gold vs AUBD Storm
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AUBD S
+ torm\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Jarry Fixtures
+X-WR-CALNAME:Malvern Tigers Jarry Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:39af46a0-7b65-430a-9134-be4883584583
+SEQUENCE:0
+DTSTAMP:20250930T171303
+DTSTART:20251011T114500
+DTEND:20251011T123000
+SUMMARY:🏀 U10 Girls: Malvern Tigers Jarry vs Glen Iris Scorpions Fernda
+ le
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
+ is Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f17ecdac-2932-442e-b125-4098b1cf2fe7
+SEQUENCE:0
+DTSTAMP:20250930T171303
+DTSTART:20251018T114500
+DTEND:20251018T123000
+SUMMARY:🏀 U10 Girls: Malvern Tigers Jarry vs Lauriston Fire
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston F
+ ire\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:84031ec4-abc9-454f-b408-54003872173a
+SEQUENCE:0
+DTSTAMP:20250930T171303
+DTSTART:20251025T123000
+DTEND:20251025T131500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Jarry vs Dairy Park Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Dairy Park 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

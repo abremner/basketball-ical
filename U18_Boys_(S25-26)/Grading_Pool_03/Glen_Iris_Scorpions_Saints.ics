@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Saints Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Saints Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1e1ab798-ee7b-4598-94ff-9936b8ea62ef
+SEQUENCE:0
+DTSTAMP:20250930T171548
+DTSTART:20251012T173000
+DTEND:20251012T181500
+SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Saints vs Stanhope Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Stanho
+ pe Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:37725e59-7208-464a-a8c3-f360564a4621
+SEQUENCE:0
+DTSTAMP:20250930T171548
+DTSTART:20251019T181500
+DTEND:20251019T190000
+SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Saints vs Timberwolves Wizards
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Wizards\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:74562e61-b1d8-46fd-bf8d-0cbab3965687
+SEQUENCE:0
+DTSTAMP:20250930T171548
+DTSTART:20251026T190000
+DTEND:20251026T194500
+SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Saints vs Solway Vampires
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Vampires\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

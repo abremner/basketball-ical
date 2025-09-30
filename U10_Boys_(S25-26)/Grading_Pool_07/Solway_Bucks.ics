@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Bucks Fixtures
+X-WR-CALNAME:Solway Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:61f91b42-1d90-4652-b704-0f0eb0d9a917
+SEQUENCE:0
+DTSTAMP:20250930T171238
+DTSTART:20251011T084500
+DTEND:20251011T093000
+SUMMARY:🏀 U10 Boys: Solway Bucks vs Maccabi Eagles
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:13b8a1e0-f3c5-47ce-b4d7-0e2892a1125e
+SEQUENCE:0
+DTSTAMP:20250930T171238
+DTSTART:20251018T093000
+DTEND:20251018T101500
+SUMMARY:🏀 U10 Boys: Solway Bucks vs Toorak Thrashers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Thrashers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:caf5ff9c-c58a-4d66-be67-a6da05d5cf89
+SEQUENCE:0
+DTSTAMP:20250930T171238
+DTSTART:20251025T093000
+DTEND:20251025T101500
+SUMMARY:🏀 U10 Boys: Solway Bucks vs Timberwolves Lightning
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+ wolves Lightning\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

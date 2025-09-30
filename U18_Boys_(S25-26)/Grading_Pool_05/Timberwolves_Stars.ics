@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Stars Fixtures
+X-WR-CALNAME:Timberwolves Stars Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b783fd29-58af-450c-a60b-2278598316e8
+SEQUENCE:0
+DTSTAMP:20250930T171556
+DTSTART:20251012T181500
+DTEND:20251012T190000
+SUMMARY:🏀 U18 Boys: Timberwolves Stars vs Solway Mambas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Mambas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ba2d5432-cfec-4ec1-ba7b-754bc402a084
+SEQUENCE:0
+DTSTAMP:20250930T171556
+DTSTART:20251019T181500
+DTEND:20251019T190000
+SUMMARY:🏀 U18 Boys: Timberwolves Stars vs Toorak Turbos
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Turbos\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5c0dfc16-bae8-4682-915d-b248c02d929c
+SEQUENCE:0
+DTSTAMP:20250930T171556
+DTSTART:20251026T181500
+DTEND:20251026T190000
+SUMMARY:🏀 U18 Boys: Timberwolves Stars vs Maccabi Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

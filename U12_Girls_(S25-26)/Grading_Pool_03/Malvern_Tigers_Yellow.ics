@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Yellow Fixtures
+X-WR-CALNAME:Malvern Tigers Yellow Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:06012313-dc6f-488a-b4fb-6e9d0b7eb765
+SEQUENCE:0
+DTSTAMP:20250930T171400
+DTSTART:20251011T144500
+DTEND:20251011T153000
+SUMMARY:🏀 U12 Girls: Malvern Tigers Yellow vs Glen Iris Scorpions Fernd
+ ale
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
+ ris Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bd068db4-a4d7-465e-aa5b-ece740aaf1ab
+SEQUENCE:0
+DTSTAMP:20250930T171400
+DTSTART:20251018T144500
+DTEND:20251018T153000
+SUMMARY:🏀 U12 Girls: Malvern Tigers Yellow vs Aintree Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Aintre
+ e Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e8b399f8-d61d-4ee8-8e37-a7f94ef1d5e3
+SEQUENCE:0
+DTSTAMP:20250930T171400
+DTSTART:20251025T144500
+DTEND:20251025T153000
+SUMMARY:🏀 U12 Girls: Malvern Tigers Yellow vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

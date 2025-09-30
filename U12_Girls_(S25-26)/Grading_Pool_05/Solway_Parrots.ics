@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Parrots Fixtures
+X-WR-CALNAME:Solway Parrots Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:bfa22626-ec55-410a-bb2d-c982e499415a
+SEQUENCE:0
+DTSTAMP:20250930T171407
+DTSTART:20251011T144500
+DTEND:20251011T153000
+SUMMARY:🏀 U12 Girls: Solway Parrots vs Korowa Grey
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Korowa Grey
+ \nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7b49efca-9c88-4b02-b775-4fc57800b688
+SEQUENCE:0
+DTSTAMP:20250930T171407
+DTSTART:20251018T144500
+DTEND:20251018T153000
+SUMMARY:🏀 U12 Girls: Solway Parrots vs Ashy Lightning Green
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
+ ing Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

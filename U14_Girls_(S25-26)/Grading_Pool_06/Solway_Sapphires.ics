@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Sapphires Fixtures
+X-WR-CALNAME:Solway Sapphires Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f627606f-0d88-4f71-9136-16db0a7162b9
+SEQUENCE:0
+DTSTAMP:20250930T171505
+DTSTART:20251011T161500
+DTEND:20251011T170000
+SUMMARY:🏀 U14 Girls: Solway Sapphires vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8474ee3d-7dd1-46f1-bfaf-793042b2e155
+SEQUENCE:0
+DTSTAMP:20250930T171505
+DTSTART:20251025T153000
+DTEND:20251025T161500
+SUMMARY:🏀 U14 Girls: Solway Sapphires vs Lauriston Leaders
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston L
+ eaders\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

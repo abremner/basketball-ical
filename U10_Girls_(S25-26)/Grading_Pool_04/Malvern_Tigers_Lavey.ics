@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Lavey Fixtures
+X-WR-CALNAME:Malvern Tigers Lavey Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:94e9c654-86e7-469f-bd56-e1b4ab045543
+SEQUENCE:0
+DTSTAMP:20250930T171307
+DTSTART:20251011T110000
+DTEND:20251011T114500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Lavey vs AlphaWolf Blaze
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: AlphaW
+ olf Blaze\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:90e7d802-d39f-4fd5-92f4-44a8d2f15076
+SEQUENCE:0
+DTSTAMP:20250930T171307
+DTSTART:20251018T110000
+DTEND:20251018T114500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Lavey vs Solway Typhoons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Typhoons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

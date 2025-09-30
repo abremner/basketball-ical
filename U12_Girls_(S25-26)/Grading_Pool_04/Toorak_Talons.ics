@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Talons Fixtures
+X-WR-CALNAME:Toorak Talons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9e0c4519-65a3-4d24-9cbd-963e426d1f05
+SEQUENCE:0
+DTSTAMP:20250930T171403
+DTSTART:20251018T144500
+DTEND:20251018T153000
+SUMMARY:🏀 U12 Girls: Toorak Talons vs Solway Sparrows
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Sparrows\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:36599bf6-323d-43e3-829b-4ee4c295907b
+SEQUENCE:0
+DTSTAMP:20250930T171403
+DTSTART:20251025T140000
+DTEND:20251025T144500
+SUMMARY:🏀 U12 Girls: Toorak Talons vs Lauriston Sparks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Lauris
+ ton Sparks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

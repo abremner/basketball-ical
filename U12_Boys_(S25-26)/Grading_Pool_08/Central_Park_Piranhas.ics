@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Central Park Piranhas Fixtures
+X-WR-CALNAME:Central Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ba4671ac-0de0-4bf1-a144-c3c9f55606ed
+SEQUENCE:0
+DTSTAMP:20250930T171335
+DTSTART:20251011T123000
+DTEND:20251011T131500
+SUMMARY:🏀 U12 Boys: Central Park Piranhas vs Maccabi Kings
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Kings\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:314b5cc7-1c5f-4d79-94cd-e22a6a83a153
+SEQUENCE:0
+DTSTAMP:20250930T171335
+DTSTART:20251018T131500
+DTEND:20251018T140000
+SUMMARY:🏀 U12 Boys: Central Park Piranhas vs Maccabi Jaguars
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Jaguars\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

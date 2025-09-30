@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AUBD Prime Fixtures
+X-WR-CALNAME:AUBD Prime Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:980e8006-67b5-4236-84af-ba8a112ba40f
+SEQUENCE:0
+DTSTAMP:20250930T171317
+DTSTART:20251011T161500
+DTEND:20251011T170000
+SUMMARY:🏀 U12 Boys: AUBD Prime vs Alma Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Alma P
+ ark Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:824c860b-9afa-4792-bf34-210f5464d748
+SEQUENCE:0
+DTSTAMP:20250930T171317
+DTSTART:20251018T161500
+DTEND:20251018T170000
+SUMMARY:🏀 U12 Boys: AUBD Prime vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:07a7da30-7289-4f51-8f74-5fa2ab91ef79
+SEQUENCE:0
+DTSTAMP:20250930T171317
+DTSTART:20251025T161500
+DTEND:20251025T170000
+SUMMARY:🏀 U12 Boys: AUBD Prime vs Windsor Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Windso
+ r Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

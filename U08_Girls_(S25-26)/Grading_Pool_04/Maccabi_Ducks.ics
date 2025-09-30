@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Ducks Fixtures
+X-WR-CALNAME:Maccabi Ducks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4b70a2ac-b930-4255-a96a-2b91cdb4e24b
+SEQUENCE:0
+DTSTAMP:20250930T171218
+DTSTART:20251011T110000
+DTEND:20251011T114500
+SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Solway Supernovas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Supernovas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:42246812-a159-4341-8aa2-d155066dc1ef
+SEQUENCE:0
+DTSTAMP:20250930T171218
+DTSTART:20251018T110000
+DTEND:20251018T114500
+SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Malvern Tigers Allen
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Allen\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:49e89959-f925-4874-87e2-abafefc48b51
+SEQUENCE:0
+DTSTAMP:20250930T171218
+DTSTART:20251025T093000
+DTEND:20251025T101500
+SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Ashy Lightning Green
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
+ ing Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

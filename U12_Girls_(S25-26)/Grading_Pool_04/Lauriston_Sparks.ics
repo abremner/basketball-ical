@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Lauriston Sparks Fixtures
+X-WR-CALNAME:Lauriston Sparks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0cc44dff-22ea-43cf-b685-d44b0518a558
+SEQUENCE:0
+DTSTAMP:20250930T171401
+DTSTART:20251011T144500
+DTEND:20251011T153000
+SUMMARY:🏀 U12 Girls: Lauriston Sparks vs Malvern Tigers Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6eefbc3e-386a-4470-b3b5-a8fb9a2ee5d5
+SEQUENCE:0
+DTSTAMP:20250930T171401
+DTSTART:20251018T144500
+DTEND:20251018T153000
+SUMMARY:🏀 U12 Girls: Lauriston Sparks vs Malvern Tigers White
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6779fd1e-b405-4254-b346-03d3fbd7e038
+SEQUENCE:0
+DTSTAMP:20250930T171401
+DTSTART:20251025T140000
+DTEND:20251025T144500
+SUMMARY:🏀 U12 Girls: Lauriston Sparks vs Toorak Talons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
+  Talons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

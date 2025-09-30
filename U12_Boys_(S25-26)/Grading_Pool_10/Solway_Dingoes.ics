@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Dingoes Fixtures
+X-WR-CALNAME:Solway Dingoes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:03288cc4-46c2-4426-b778-6bbb81354f50
+SEQUENCE:0
+DTSTAMP:20250930T171345
+DTSTART:20251011T123000
+DTEND:20251011T131500
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Ardrie Park Piranhas
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Ardrie Park Piranhas\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b274471a-fbd2-4b15-aab1-c0547af83583
+SEQUENCE:0
+DTSTAMP:20250930T171345
+DTSTART:20251018T123000
+DTEND:20251018T131500
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Comets Tigers
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Comets Tigers\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:42526d9d-927b-4f4e-8808-77f6aedbd6ec
+SEQUENCE:0
+DTSTAMP:20250930T171345
+DTSTART:20251025T123000
+DTEND:20251025T131500
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Malvern Tigers Lime
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Lime\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:361a3dc2-078b-4247-bcf5-02a9a8f5e345
+SEQUENCE:0
+DTSTAMP:20250930T171345
+DTSTART:20251101T123000
+DTEND:20251101T131500
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Stonnington Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Stonni
+ ngton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2b4b228d-f792-4278-9abb-7443c67b162e
+SEQUENCE:0
+DTSTAMP:20250930T171345
+DTSTART:20251108T123000
+DTEND:20251108T131500
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Timberwolves Cyclones
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+ wolves Cyclones\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

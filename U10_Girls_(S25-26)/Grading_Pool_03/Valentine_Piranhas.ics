@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Valentine Piranhas Fixtures
+X-WR-CALNAME:Valentine Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1be945bf-f2fe-4eeb-b2d3-a0a4f8d44c95
+SEQUENCE:0
+DTSTAMP:20250930T171305
+DTSTART:20251011T114500
+DTEND:20251011T123000
+SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Malvern Tigers Mitchell
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Mitchell\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:49413fa3-0531-41f1-ad64-68f53f0e82fc
+SEQUENCE:0
+DTSTAMP:20250930T171305
+DTSTART:20251018T123000
+DTEND:20251018T131500
+SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Glen Iris Scorpions Ferndale
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Glen Iris S
+ corpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3544ac53-c73a-4555-a61d-0da711b8c361
+SEQUENCE:0
+DTSTAMP:20250930T171305
+DTSTART:20251025T110000
+DTEND:20251025T114500
+SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

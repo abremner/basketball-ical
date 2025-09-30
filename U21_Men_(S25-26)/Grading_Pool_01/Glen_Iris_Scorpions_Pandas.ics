@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Pandas Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Pandas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3adc72f4-20f8-4a74-86e1-da9f41009a65
+SEQUENCE:0
+DTSTAMP:20250930T171607
+DTSTART:20251012T194500
+DTEND:20251012T203000
+SUMMARY:🏀 U21 Men: Glen Iris Scorpions Pandas vs Timberwolves Rizzly Be
+ ars
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Rizzly Bears\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:30738db1-cc2c-4e64-bd7c-2e1f4bf570e0
+SEQUENCE:0
+DTSTAMP:20250930T171607
+DTSTART:20251019T190000
+DTEND:20251019T194500
+SUMMARY:🏀 U21 Men: Glen Iris Scorpions Pandas vs Solway Vipers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Vipers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f0c8ed56-b67b-4f71-b56b-fc74d8bd3df2
+SEQUENCE:0
+DTSTAMP:20250930T171607
+DTSTART:20251026T190000
+DTEND:20251026T194500
+SUMMARY:🏀 U21 Men: Glen Iris Scorpions Pandas vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

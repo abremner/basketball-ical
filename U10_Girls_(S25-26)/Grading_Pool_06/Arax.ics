@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Arax Fixtures
+X-WR-CALNAME:Arax Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:fd1893e3-4890-44a9-9f87-81cb8a8c67d9
+SEQUENCE:0
+DTSTAMP:20250930T171312
+DTSTART:20251011T080000
+DTEND:20251011T084500
+SUMMARY:🏀 U10 Girls: Arax vs Korowa Grey
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Korowa
+  Grey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dc5e2884-4360-4da5-aab8-d87b092debe9
+SEQUENCE:0
+DTSTAMP:20250930T171312
+DTSTART:20251018T080000
+DTEND:20251018T084500
+SUMMARY:🏀 U10 Girls: Arax vs Maccabi Eagles
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

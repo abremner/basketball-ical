@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Toucans Fixtures
+X-WR-CALNAME:Toorak Toucans Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3cebd6ef-8ba7-4aed-95bd-ce9dedb429ad
+SEQUENCE:0
+DTSTAMP:20250930T171153
+DTSTART:20251018T110000
+DTEND:20251018T114500
+SUMMARY:🏀 U08 Boys: Toorak Toucans vs Golden Hawks Sky
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Golden 
+ Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fa2e4f3b-f806-4737-baf8-32e061948f91
+SEQUENCE:0
+DTSTAMP:20250930T171153
+DTSTART:20251025T084500
+DTEND:20251025T093000
+SUMMARY:🏀 U08 Boys: Toorak Toucans vs Solway Stallions
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Stallions\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

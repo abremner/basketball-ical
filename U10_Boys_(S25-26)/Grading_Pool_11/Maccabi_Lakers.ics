@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Lakers Fixtures
+X-WR-CALNAME:Maccabi Lakers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a7168d96-030e-45d1-a8e0-3f321167517e
+SEQUENCE:0
+DTSTAMP:20250930T171253
+DTSTART:20251011T084500
+DTEND:20251011T093000
+SUMMARY:🏀 U10 Boys: Maccabi Lakers vs Timberwolves Hawks
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Hawks\nArrive 15
+  mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fb88d984-8e9c-452e-872d-918dd91cc5c2
+SEQUENCE:0
+DTSTAMP:20250930T171253
+DTSTART:20251018T101500
+DTEND:20251018T110000
+SUMMARY:🏀 U10 Boys: Maccabi Lakers vs Malvern Tigers Lime
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Lime\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:232aed95-d666-4659-aa9d-4a3c61a5658f
+SEQUENCE:0
+DTSTAMP:20250930T171253
+DTSTART:20251025T093000
+DTEND:20251025T101500
+SUMMARY:🏀 U10 Boys: Maccabi Lakers vs Viewbank Piranhas
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Viewbank Piranhas\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+END:VCALENDAR

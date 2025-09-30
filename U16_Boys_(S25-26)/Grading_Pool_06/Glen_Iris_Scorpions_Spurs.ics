@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Spurs Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Spurs Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5fbfbe5e-c91f-4f1b-84a5-6f3453ea30a8
+SEQUENCE:0
+DTSTAMP:20250930T171524
+DTSTART:20251018T191500
+DTEND:20251018T200000
+SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Spurs vs Malvern Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f480cf99-c453-4d4f-933a-cbe91f5af7f8
+SEQUENCE:0
+DTSTAMP:20250930T171524
+DTSTART:20251025T183000
+DTEND:20251025T191500
+SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Spurs vs Solway Jets
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Jets\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

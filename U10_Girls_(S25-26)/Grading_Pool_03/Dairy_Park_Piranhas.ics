@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Dairy Park Piranhas Fixtures
+X-WR-CALNAME:Dairy Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:de987d27-8ab3-425b-8b85-01288712d7cd
+SEQUENCE:0
+DTSTAMP:20250930T171301
+DTSTART:20251011T110000
+DTEND:20251011T114500
+SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Timberwolves Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3781960f-83b6-488a-abb0-7401ef524545
+SEQUENCE:0
+DTSTAMP:20250930T171301
+DTSTART:20251018T110000
+DTEND:20251018T114500
+SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b07d755d-4113-4c63-b7f5-8c39fcdf502f
+SEQUENCE:0
+DTSTAMP:20250930T171301
+DTSTART:20251025T123000
+DTEND:20251025T131500
+SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Malvern Tigers Jarry
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Jarry\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

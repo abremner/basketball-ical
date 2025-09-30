@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Gardiner Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Gardiner Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:89b22512-3496-4dfb-a69e-77551f5c518c
+SEQUENCE:0
+DTSTAMP:20250930T171453
+DTSTART:20251018T170000
+DTEND:20251018T174500
+SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Gardiner vs Toorak Topguns
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Toorak 
+ Topguns\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:31265d50-7925-4d40-9679-35196ce23006
+SEQUENCE:0
+DTSTAMP:20250930T171453
+DTSTART:20251025T170000
+DTEND:20251025T174500
+SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Gardiner vs Solway Diamonds
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Diamonds\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

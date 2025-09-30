@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Gold Fixtures
+X-WR-CALNAME:Ashy Lightning Gold Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f39a8d77-4c81-4742-a06f-feeb452c8829
+SEQUENCE:0
+DTSTAMP:20250930T171602
+DTSTART:20251007T191500
+DTEND:20251007T200000
+SUMMARY:🏀 U18 Girls: Ashy Lightning Gold vs Summerhill Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Summer
+ hill Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:21ac6805-975d-43df-b813-1f3b82bb8cf6
+SEQUENCE:0
+DTSTAMP:20250930T171602
+DTSTART:20251014T191500
+DTEND:20251014T200000
+SUMMARY:🏀 U18 Girls: Ashy Lightning Gold vs Malvern Tigers Nicholson
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Nicholson\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:88859473-4af1-4f48-82f6-7074787d9a0c
+SEQUENCE:0
+DTSTAMP:20250930T171602
+DTSTART:20251021T191500
+DTEND:20251021T200000
+SUMMARY:🏀 U18 Girls: Ashy Lightning Gold vs Glen Iris Scorpions Saints
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
+ ris Scorpions Saints\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

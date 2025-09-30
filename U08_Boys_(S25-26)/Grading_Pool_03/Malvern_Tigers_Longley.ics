@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Longley Fixtures
+X-WR-CALNAME:Malvern Tigers Longley Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b33d4357-8ed0-49ff-9f1f-dd1e24f6711b
+SEQUENCE:0
+DTSTAMP:20250930T171151
+DTSTART:20251011T114500
+DTEND:20251011T123000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Solway Stallions
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Stallions\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a2860a06-5af1-4731-8dde-7096d349538e
+SEQUENCE:0
+DTSTAMP:20250930T171151
+DTSTART:20251018T114500
+DTEND:20251018T123000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Glen Iris Scorpions Fernd
+ ale
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
+ is Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:59d6a1de-2af8-4f49-9b6d-210496721ec7
+SEQUENCE:0
+DTSTAMP:20250930T171151
+DTSTART:20251025T093000
+DTEND:20251025T101500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Solway Mustangs
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Mustangs\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

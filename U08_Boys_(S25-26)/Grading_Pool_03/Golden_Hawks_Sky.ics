@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Golden Hawks Sky Fixtures
+X-WR-CALNAME:Golden Hawks Sky Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3cb023b2-474e-4cfe-ba1f-521151e9e2a4
+SEQUENCE:0
+DTSTAMP:20250930T171150
+DTSTART:20251011T084500
+DTEND:20251011T093000
+SUMMARY:🏀 U08 Boys: Golden Hawks Sky vs Malvern Tigers Daniels
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Daniels\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b9cf1235-c213-4e08-b48a-8e6f7f90b8f8
+SEQUENCE:0
+DTSTAMP:20250930T171150
+DTSTART:20251018T110000
+DTEND:20251018T114500
+SUMMARY:🏀 U08 Boys: Golden Hawks Sky vs Toorak Toucans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Toucans\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

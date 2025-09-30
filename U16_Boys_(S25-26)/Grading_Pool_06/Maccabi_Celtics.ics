@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:63174f8c-97bd-45d4-b7c7-448831dc5882
+SEQUENCE:0
+DTSTAMP:20250930T171524
+DTSTART:20251011T183000
+DTEND:20251011T191500
+SUMMARY:🏀 U16 Boys: Maccabi Celtics vs Malvern Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:320a3471-7d09-4ec2-a83f-a42882eb5d30
+SEQUENCE:0
+DTSTAMP:20250930T171524
+DTSTART:20251018T174500
+DTEND:20251018T183000
+SUMMARY:🏀 U16 Boys: Maccabi Celtics vs Solway Jets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Jets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3225ecb7-daa7-4edc-89a4-e4073e45dbce
+SEQUENCE:0
+DTSTAMP:20250930T171524
+DTSTART:20251025T174500
+DTEND:20251025T183000
+SUMMARY:🏀 U16 Boys: Maccabi Celtics vs Toorak Trackers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Trackers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

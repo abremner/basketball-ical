@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Green Fixtures
+X-WR-CALNAME:Ashy Lightning Green Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4cc04be1-7c74-42ef-85c6-526fe4aa9207
+SEQUENCE:0
+DTSTAMP:20250930T171216
+DTSTART:20251011T101500
+DTEND:20251011T110000
+SUMMARY:🏀 U08 Girls: Ashy Lightning Green vs Glen Iris Scorpions Fernda
+ le
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
+ is Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e2679316-e660-4f09-b97b-6bc9cbdee3d4
+SEQUENCE:0
+DTSTAMP:20250930T171216
+DTSTART:20251018T093000
+DTEND:20251018T101500
+SUMMARY:🏀 U08 Girls: Ashy Lightning Green vs Kerferd Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Kerferd Pir
+ anhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8e8bd581-19f4-4930-8783-d81f18307251
+SEQUENCE:0
+DTSTAMP:20250930T171216
+DTSTART:20251025T093000
+DTEND:20251025T101500
+SUMMARY:🏀 U08 Girls: Ashy Lightning Green vs Maccabi Ducks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Duc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

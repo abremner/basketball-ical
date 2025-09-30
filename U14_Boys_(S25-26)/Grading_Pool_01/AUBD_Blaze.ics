@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AUBD Blaze Fixtures
+X-WR-CALNAME:AUBD Blaze Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ba072964-e673-4b46-ae55-a88d3046e2fe
+SEQUENCE:0
+DTSTAMP:20250930T171417
+DTSTART:20251018T174500
+DTEND:20251018T183000
+SUMMARY:🏀 U14 Boys: AUBD Blaze vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3e83f8fa-62d6-4142-a1cc-86241a232b58
+SEQUENCE:0
+DTSTAMP:20250930T171417
+DTSTART:20251025T174500
+DTEND:20251025T183000
+SUMMARY:🏀 U14 Boys: AUBD Blaze vs Toorak Toros
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
+  Toros\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

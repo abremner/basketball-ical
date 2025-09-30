@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Arax Fixtures
+X-WR-CALNAME:Arax Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1a30e0b6-2e2c-4a88-a37a-90e3efc9339a
+SEQUENCE:0
+DTSTAMP:20250930T171204
+DTSTART:20251018T080000
+DTEND:20251018T084500
+SUMMARY:🏀 U08 Boys: Arax vs AlphaWolf Titans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: AlphaWo
+ lf Titans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5979000e-3079-409d-a365-5c2138c77e75
+SEQUENCE:0
+DTSTAMP:20250930T171204
+DTSTART:20251025T080000
+DTEND:20251025T084500
+SUMMARY:🏀 U08 Boys: Arax vs Nettleton Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Nettlet
+ on Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Flames Fixtures
+X-WR-CALNAME:Timberwolves Flames Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:befdcaff-e9ba-4d81-b653-832132fb166b
+SEQUENCE:0
+DTSTAMP:20250930T171452
+DTSTART:20251018T174500
+DTEND:20251018T183000
+SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Solway Jewels
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Jewels\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:03d415ce-27b2-43c1-8cbc-4388f9d22e3e
+SEQUENCE:0
+DTSTAMP:20250930T171452
+DTSTART:20251025T170000
+DTEND:20251025T174500
+SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Malvern Tigers Boston
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Boston\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

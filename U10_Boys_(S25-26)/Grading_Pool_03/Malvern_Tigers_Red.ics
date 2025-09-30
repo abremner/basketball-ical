@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Red Fixtures
+X-WR-CALNAME:Malvern Tigers Red Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8320c05d-8d12-47f4-a946-25538d4576e4
+SEQUENCE:0
+DTSTAMP:20250930T171225
+DTSTART:20251011T114500
+DTEND:20251011T123000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Red vs Glen Iris Scorpions Ferndale
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Glen Iris Scorpions Ferndale\
+ nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f1a93e7b-4078-462c-921a-74e3d3ec1056
+SEQUENCE:0
+DTSTAMP:20250930T171225
+DTSTART:20251018T110000
+DTEND:20251018T114500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Red vs Solway Spurs
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Spurs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bc1d9977-cfb3-4817-88aa-726758be0428
+SEQUENCE:0
+DTSTAMP:20250930T171225
+DTSTART:20251025T114500
+DTEND:20251025T123000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Red vs Solway Boomers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Boomers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

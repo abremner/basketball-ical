@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Nettleton Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Nettleton Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d44670ee-bd4e-47ca-b4cb-70e651b917c7
+SEQUENCE:0
+DTSTAMP:20250930T171503
+DTSTART:20251011T161500
+DTEND:20251011T170000
+SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Nettleton vs Ashy Lightning Wh
+ ite
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bd8e60c0-ea37-4ccf-a566-632b1e377d8d
+SEQUENCE:0
+DTSTAMP:20250930T171503
+DTSTART:20251018T153000
+DTEND:20251018T161500
+SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Nettleton vs Lauriston Legends
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston L
+ egends\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3254177c-5ddc-4208-91ec-56b0066d42d0
+SEQUENCE:0
+DTSTAMP:20250930T171503
+DTSTART:20251025T161500
+DTEND:20251025T170000
+SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Nettleton vs Korowa Grey
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Korowa
+  Grey\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

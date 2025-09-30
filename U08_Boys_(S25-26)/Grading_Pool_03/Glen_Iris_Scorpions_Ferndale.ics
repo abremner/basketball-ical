@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Ferndale Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Ferndale Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ba5c8128-8ff6-445d-a3bb-aba038413fe2
+SEQUENCE:0
+DTSTAMP:20250930T171149
+DTSTART:20251011T093000
+DTEND:20251011T101500
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Ferndale vs Malvern Tigers Gidd
+ ey
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Giddey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9dae54ac-1f11-4af1-981a-323e07201c51
+SEQUENCE:0
+DTSTAMP:20250930T171149
+DTSTART:20251018T114500
+DTEND:20251018T123000
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Ferndale vs Malvern Tigers Long
+ ley
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Longley\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f114088a-851b-4a64-9871-6bf7acb9c20d
+SEQUENCE:0
+DTSTAMP:20250930T171149
+DTSTART:20251025T114500
+DTEND:20251025T123000
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Ferndale vs Malvern Tigers Dani
+ els
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Daniels\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

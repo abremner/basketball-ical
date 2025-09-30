@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Ramblers Fixtures
+X-WR-CALNAME:Timberwolves Ramblers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9e60043b-6652-43fe-b933-8871d781795d
+SEQUENCE:0
+DTSTAMP:20250930T171435
+DTSTART:20251011T153000
+DTEND:20251011T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Ramblers vs Malvern Tigers Blue
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f176996f-f94f-4dfb-894d-af811a0e2db4
+SEQUENCE:0
+DTSTAMP:20250930T171435
+DTSTART:20251018T170000
+DTEND:20251018T174500
+SUMMARY:🏀 U14 Boys: Timberwolves Ramblers vs Solway Mavericks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Mavericks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:86b035c9-2dce-4d33-a4bf-8a786de40cd1
+SEQUENCE:0
+DTSTAMP:20250930T171435
+DTSTART:20251025T153000
+DTEND:20251025T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Ramblers vs Toorak Tactix
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Tactix\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

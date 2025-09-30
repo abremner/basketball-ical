@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Chargers Fixtures
+X-WR-CALNAME:Timberwolves Chargers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:293ed22c-d431-45af-93fb-a131089ef038
+SEQUENCE:0
+DTSTAMP:20250930T171335
+DTSTART:20251011T123000
+DTEND:20251011T131500
+SUMMARY:🏀 U12 Boys: Timberwolves Chargers vs Maccabi Giants
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Giants\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:623a8377-9952-4d7f-838b-87bd08bad072
+SEQUENCE:0
+DTSTAMP:20250930T171335
+DTSTART:20251018T123000
+DTEND:20251018T131500
+SUMMARY:🏀 U12 Boys: Timberwolves Chargers vs AlphaWolf Lakers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
+ lf Lakers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1d1726fe-970a-435c-a00a-ee72ffec227a
+SEQUENCE:0
+DTSTAMP:20250930T171335
+DTSTART:20251025T131500
+DTEND:20251025T140000
+SUMMARY:🏀 U12 Boys: Timberwolves Chargers vs Solway Lions
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Lions\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

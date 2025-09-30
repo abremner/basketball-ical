@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Clyde Piranhas Fixtures
+X-WR-CALNAME:Clyde Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:64a4c18f-17ef-4c55-b803-6f1410d6666f
+SEQUENCE:0
+DTSTAMP:20250930T171205
+DTSTART:20251011T080000
+DTEND:20251011T084500
+SUMMARY:🏀 U08 Boys: Clyde Piranhas vs AlphaWolf Titans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: AlphaWo
+ lf Titans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:58207f15-3140-41d0-a966-098c8a000d6d
+SEQUENCE:0
+DTSTAMP:20250930T171205
+DTSTART:20251018T101500
+DTEND:20251018T110000
+SUMMARY:🏀 U08 Boys: Clyde Piranhas vs Golden Hawks Iron
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Golden 
+ Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1d66011f-fbc0-48c5-8210-6e06585aab7a
+SEQUENCE:0
+DTSTAMP:20250930T171205
+DTSTART:20251025T084500
+DTEND:20251025T093000
+SUMMARY:🏀 U08 Boys: Clyde Piranhas vs Solway Hunters
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Hunters\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

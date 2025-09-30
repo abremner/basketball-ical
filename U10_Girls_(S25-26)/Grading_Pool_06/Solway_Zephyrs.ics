@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Zephyrs Fixtures
+X-WR-CALNAME:Solway Zephyrs Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a9b545f5-b68a-4574-90d6-07061ec9366e
+SEQUENCE:0
+DTSTAMP:20250930T171315
+DTSTART:20251011T093000
+DTEND:20251011T101500
+SUMMARY:🏀 U10 Girls: Solway Zephyrs vs Malvern Tigers Smith
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Smith\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3824e8d9-d1f5-4ed1-af4d-f518efedc6bb
+SEQUENCE:0
+DTSTAMP:20250930T171315
+DTSTART:20251025T110000
+DTEND:20251025T114500
+SUMMARY:🏀 U10 Girls: Solway Zephyrs vs Korowa Grey
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Korowa Grey
+ \nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

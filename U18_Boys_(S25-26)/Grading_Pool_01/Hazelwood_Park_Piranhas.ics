@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Hazelwood Park Piranhas Fixtures
+X-WR-CALNAME:Hazelwood Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2bb3bc99-54ad-409b-820f-72d95950fee0
+SEQUENCE:0
+DTSTAMP:20250930T171543
+DTSTART:20251012T190000
+DTEND:20251012T194500
+SUMMARY:🏀 U18 Boys: Hazelwood Park Piranhas vs Solway Pistons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Pistons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6025e423-a441-46e5-b047-7a3bcde3163c
+SEQUENCE:0
+DTSTAMP:20250930T171543
+DTSTART:20251026T190000
+DTEND:20251026T194500
+SUMMARY:🏀 U18 Boys: Hazelwood Park Piranhas vs Timberwolves Lakers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Lakers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

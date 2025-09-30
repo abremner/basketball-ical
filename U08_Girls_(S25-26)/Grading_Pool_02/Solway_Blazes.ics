@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Blazes Fixtures
+X-WR-CALNAME:Solway Blazes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2e9c16e4-dc66-4973-8117-ed8899542a6e
+SEQUENCE:0
+DTSTAMP:20250930T171210
+DTSTART:20251011T101500
+DTEND:20251011T110000
+SUMMARY:🏀 U08 Girls: Solway Blazes vs Ashy Lightning Gold
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
+ ing Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:77c8da7a-ca56-4149-ab82-5d287642232a
+SEQUENCE:0
+DTSTAMP:20250930T171210
+DTSTART:20251018T080000
+DTEND:20251018T084500
+SUMMARY:🏀 U08 Girls: Solway Blazes vs TImberwolves Diamonds
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: TImberw
+ olves Diamonds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:408520d8-f5fa-46cf-9539-8976af37cf9c
+SEQUENCE:0
+DTSTAMP:20250930T171210
+DTSTART:20251025T101500
+DTEND:20251025T110000
+SUMMARY:🏀 U08 Girls: Solway Blazes vs Malvern Tigers Atwell
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Atwell\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

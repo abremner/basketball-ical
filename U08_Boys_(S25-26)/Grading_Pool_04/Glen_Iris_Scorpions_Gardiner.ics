@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Gardiner Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Gardiner Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8623513f-c32f-4c33-b2e1-32308e6d580e
+SEQUENCE:0
+DTSTAMP:20250930T171154
+DTSTART:20251011T101500
+DTEND:20251011T110000
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Dorrington Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Dorring
+ ton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:64067e4b-a839-4690-a902-d9fb446280f6
+SEQUENCE:0
+DTSTAMP:20250930T171154
+DTSTART:20251018T080000
+DTEND:20251018T084500
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:caf1d07d-bde7-4752-b504-2a71ed67768a
+SEQUENCE:0
+DTSTAMP:20250930T171154
+DTSTART:20251025T101500
+DTEND:20251025T110000
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Burnley Park Piranh
+ as
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Burnley
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Crusaders Fixtures
+X-WR-CALNAME:Timberwolves Crusaders Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:89845028-611e-4343-891a-d12fc4f96e7d
+SEQUENCE:0
+DTSTAMP:20250930T171222
+DTSTART:20251011T123000
+DTEND:20251011T131500
+SUMMARY:🏀 U10 Boys: Timberwolves Crusaders vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7ebb2558-e8a3-4c66-9ef1-d98f4d1a421f
+SEQUENCE:0
+DTSTAMP:20250930T171222
+DTSTART:20251018T123000
+DTEND:20251018T131500
+SUMMARY:🏀 U10 Boys: Timberwolves Crusaders vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e405ea2a-28bc-4ce1-b0fa-6def017b50c8
+SEQUENCE:0
+DTSTAMP:20250930T171222
+DTSTART:20251025T114500
+DTEND:20251025T123000
+SUMMARY:🏀 U10 Boys: Timberwolves Crusaders vs AlphaWolf Dragons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AlphaW
+ olf Dragons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

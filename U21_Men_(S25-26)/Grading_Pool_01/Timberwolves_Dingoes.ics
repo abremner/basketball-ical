@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Dingoes Fixtures
+X-WR-CALNAME:Timberwolves Dingoes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6745046a-2996-4476-a093-a56039aa2a7c
+SEQUENCE:0
+DTSTAMP:20250930T171608
+DTSTART:20251012T190000
+DTEND:20251012T194500
+SUMMARY:🏀 U21 Men: Timberwolves Dingoes vs Solway Vipers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Vipers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:adf26f4c-e00a-4f5c-a64d-2073e6a13c5c
+SEQUENCE:0
+DTSTAMP:20250930T171608
+DTSTART:20251019T194500
+DTEND:20251019T203000
+SUMMARY:🏀 U21 Men: Timberwolves Dingoes vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

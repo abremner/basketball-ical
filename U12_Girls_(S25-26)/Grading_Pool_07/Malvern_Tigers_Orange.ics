@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Orange Fixtures
+X-WR-CALNAME:Malvern Tigers Orange Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d18b854f-2d72-40da-a0d6-a583a1441311
+SEQUENCE:0
+DTSTAMP:20250930T171414
+DTSTART:20251018T131500
+DTEND:20251018T140000
+SUMMARY:🏀 U12 Girls: Malvern Tigers Orange vs Maccabi Falcons
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Fal
+ cons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1d2c2763-005c-490b-a309-fa00ff7a70d0
+SEQUENCE:0
+DTSTAMP:20250930T171414
+DTSTART:20251025T123000
+DTEND:20251025T131500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Orange vs Lauriston Suns
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Laurist
+ on Suns\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

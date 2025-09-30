@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Storm Fixtures
+X-WR-CALNAME:Solway Storm Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:30840eeb-d7f6-4111-b2b0-24abfe3673ef
+SEQUENCE:0
+DTSTAMP:20250930T171518
+DTSTART:20251011T183000
+DTEND:20251011T191500
+SUMMARY:🏀 U16 Boys: Solway Storm vs Timberwolves Taipans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+ wolves Taipans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a0cecbb6-0286-4c82-8127-c1ec456ee75d
+SEQUENCE:0
+DTSTAMP:20250930T171518
+DTSTART:20251018T174500
+DTEND:20251018T183000
+SUMMARY:🏀 U16 Boys: Solway Storm vs Toorak Tornadoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Tornadoes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:326200bf-956d-4671-b081-4e3129b97ad3
+SEQUENCE:0
+DTSTAMP:20250930T171518
+DTSTART:20251025T174500
+DTEND:20251025T183000
+SUMMARY:🏀 U16 Boys: Solway Storm vs Toorak Tyrants
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Tyrants\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

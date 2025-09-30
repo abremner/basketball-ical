@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ranfurlie Piranhas Fixtures
+X-WR-CALNAME:Ranfurlie Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e5047002-7bd3-4809-b9cc-f8b1637155e0
+SEQUENCE:0
+DTSTAMP:20250930T171457
+DTSTART:20251011T161500
+DTEND:20251011T170000
+SUMMARY:🏀 U14 Girls: Ranfurlie Piranhas vs Timberwolves Rubies
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Rubies\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a03d1cf8-e94a-4460-a42a-8c8e06379932
+SEQUENCE:0
+DTSTAMP:20250930T171457
+DTSTART:20251018T161500
+DTEND:20251018T170000
+SUMMARY:🏀 U14 Girls: Ranfurlie Piranhas vs Toorak Titans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Titans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:aba052b2-e444-41a3-a914-c2a94933c3dd
+SEQUENCE:0
+DTSTAMP:20250930T171457
+DTSTART:20251025T153000
+DTEND:20251025T161500
+SUMMARY:🏀 U14 Girls: Ranfurlie Piranhas vs Lauriston Liberty
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Lauris
+ ton Liberty\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

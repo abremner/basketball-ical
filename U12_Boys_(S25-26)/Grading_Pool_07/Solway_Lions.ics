@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Lions Fixtures
+X-WR-CALNAME:Solway Lions Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3c536a8a-0cc3-467e-9c5d-8bbecd27931d
+SEQUENCE:0
+DTSTAMP:20250930T171334
+DTSTART:20251018T140000
+DTEND:20251018T144500
+SUMMARY:🏀 U12 Boys: Solway Lions vs Maccabi Hawks
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Hawks\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b752e1e9-b101-48d7-8b87-d68853389e95
+SEQUENCE:0
+DTSTAMP:20250930T171334
+DTSTART:20251025T131500
+DTEND:20251025T140000
+SUMMARY:🏀 U12 Boys: Solway Lions vs Timberwolves Chargers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Chargers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

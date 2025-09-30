@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Arax Fixtures
+X-WR-CALNAME:Arax Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a6ccd69f-0035-4f8a-9065-796b26bc8809
+SEQUENCE:0
+DTSTAMP:20250930T171455
+DTSTART:20251011T131500
+DTEND:20251011T140000
+SUMMARY:🏀 U14 Girls: Arax vs Maccabi Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dab3ca2c-b847-4378-bf16-420eabb44c23
+SEQUENCE:0
+DTSTAMP:20250930T171455
+DTSTART:20251018T131500
+DTEND:20251018T140000
+SUMMARY:🏀 U14 Girls: Arax vs Malvern Tigers Fisher
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Fisher\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d981f877-0c66-45db-a2cd-35720632f301
+SEQUENCE:0
+DTSTAMP:20250930T171455
+DTSTART:20251025T131500
+DTEND:20251025T140000
+SUMMARY:🏀 U14 Girls: Arax vs Toorak Titans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
+  Titans\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

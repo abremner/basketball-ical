@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b715ecbb-f2a8-46e3-bb42-24b849dc6f6b
+SEQUENCE:0
+DTSTAMP:20250930T171306
+DTSTART:20251011T084500
+DTEND:20251011T093000
+SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Glen Iris Scorpions Gardiner
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
+ ris Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f4af125d-4135-4e91-82df-a3402c3a50d4
+SEQUENCE:0
+DTSTAMP:20250930T171306
+DTSTART:20251018T114500
+DTEND:20251018T123000
+SUMMARY:🏀 U10 Girls: Maccabi Bucks vs AlphaWolf Blaze
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: AlphaWolf B
+ laze\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:32e11772-c819-49bd-84fb-4bbacf981b8b
+SEQUENCE:0
+DTSTAMP:20250930T171306
+DTSTART:20251025T114500
+DTEND:20251025T123000
+SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Malvern Tigers Burton
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Burton\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR
