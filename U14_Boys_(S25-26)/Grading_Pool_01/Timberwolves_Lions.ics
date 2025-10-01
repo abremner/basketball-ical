@@ -6,36 +6,36 @@ X-WR-CALNAME:Timberwolves Lions Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d2ce1b6e-7791-4c94-ade3-184b3b77d668
+UID:63aa8dc0-4b23-490d-827d-60884f6c75ea
 SEQUENCE:0
-DTSTAMP:20250930T171418
+DTSTAMP:20251001T171550
 DTSTART:20251011T170000
 DTEND:20251011T174500
-SUMMARY:🏀 U14 Boys: Timberwolves Lions vs Ashy Lightning Gold
+SUMMARY:🏀 U14 Boys: Timberwolves Lions vs AUBD Blaze
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
- ightning Gold\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AUBD B
+ laze\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e1b0238a-129d-49f1-b871-e2844c6c22fe
+UID:a4b133d2-c640-4c2d-a273-7ea02324e4e7
 SEQUENCE:0
-DTSTAMP:20250930T171418
-DTSTART:20251018T174500
-DTEND:20251018T183000
-SUMMARY:🏀 U14 Boys: Timberwolves Lions vs Glen Iris Scorpions Ferndale
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
- ris Scorpions Ferndale\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:8ddfed86-494e-4821-aa62-def7546c7af9
-SEQUENCE:0
-DTSTAMP:20250930T171418
-DTSTART:20251025T174500
-DTEND:20251025T183000
+DTSTAMP:20251001T171550
+DTSTART:20251018T170000
+DTEND:20251018T174500
 SUMMARY:🏀 U14 Boys: Timberwolves Lions vs Malvern Tigers Black
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d86367ab-bf4a-4626-b391-6856a4c3e3ae
+SEQUENCE:0
+DTSTAMP:20251001T171550
+DTSTART:20251025T174500
+DTEND:20251025T183000
+SUMMARY:🏀 U14 Boys: Timberwolves Lions vs Solway Knights
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Knights\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

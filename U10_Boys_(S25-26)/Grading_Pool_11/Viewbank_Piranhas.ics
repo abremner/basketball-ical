@@ -6,36 +6,36 @@ X-WR-CALNAME:Viewbank Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e1cc91cc-6cf1-42ef-beef-a5da3da74c2d
+UID:a8b2ba8a-92d0-412c-b0ed-39e11e4cd716
 SEQUENCE:0
-DTSTAMP:20250930T171255
-DTSTART:20251011T093000
-DTEND:20251011T101500
-SUMMARY:🏀 U10 Boys: Viewbank Piranhas vs Solway Force
-LOCATION:DLS1
-DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Solway Force\nArrive 15 mins 
- early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:99e31fc0-e5e2-4281-8955-f351873e8eea
-SEQUENCE:0
-DTSTAMP:20250930T171255
-DTSTART:20251018T110000
-DTEND:20251018T114500
-SUMMARY:🏀 U10 Boys: Viewbank Piranhas vs Maccabi Kings
+DTSTAMP:20251001T171429
+DTSTART:20251011T080000
+DTEND:20251011T084500
+SUMMARY:🏀 U10 Boys: Viewbank Piranhas vs Arax
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
- i Kings\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2dde6f1e-4ce0-406e-bca1-28eed095dfe0
+UID:52bf027f-2740-4893-a3e9-b6a8c197c23e
 SEQUENCE:0
-DTSTAMP:20250930T171255
-DTSTART:20251025T093000
-DTEND:20251025T101500
+DTSTAMP:20251001T171429
+DTSTART:20251018T093000
+DTEND:20251018T101500
 SUMMARY:🏀 U10 Boys: Viewbank Piranhas vs Maccabi Lakers
 LOCATION:DLS1
 DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Lakers\nArrive 15 min
  s early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ae76eb65-99de-4e98-903e-44d8c8892c44
+SEQUENCE:0
+DTSTAMP:20251001T171429
+DTSTART:20251025T101500
+DTEND:20251025T110000
+SUMMARY:🏀 U10 Boys: Viewbank Piranhas vs Timberwolves Hawks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Hawks\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

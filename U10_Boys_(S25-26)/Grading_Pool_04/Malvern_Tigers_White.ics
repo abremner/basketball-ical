@@ -6,25 +6,36 @@ X-WR-CALNAME:Malvern Tigers White Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:8e673459-4f09-4952-8768-ac90b207955a
+UID:8b6735bf-ca5a-4212-be26-1f290737b133
 SEQUENCE:0
-DTSTAMP:20250930T171228
-DTSTART:20251018T101500
-DTEND:20251018T110000
-SUMMARY:🏀 U10 Boys: Malvern Tigers White vs Toorak Tigersharks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
-  Tigersharks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:4f6f1c6e-a800-4668-b78a-e98e14bb7015
-SEQUENCE:0
-DTSTAMP:20250930T171228
-DTSTART:20251025T110000
-DTEND:20251025T114500
+DTSTAMP:20251001T171402
+DTSTART:20251011T110000
+DTEND:20251011T114500
 SUMMARY:🏀 U10 Boys: Malvern Tigers White vs Ashy Lightning Green
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e37e9358-bead-444a-a0bb-8366503916e9
+SEQUENCE:0
+DTSTAMP:20251001T171402
+DTSTART:20251018T114500
+DTEND:20251018T123000
+SUMMARY:🏀 U10 Boys: Malvern Tigers White vs Penpraze Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Penpraz
+ e Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:501b6284-4902-4f8a-a8b2-af8505398b8b
+SEQUENCE:0
+DTSTAMP:20251001T171402
+DTSTART:20251025T101500
+DTEND:20251025T110000
+SUMMARY:🏀 U10 Boys: Malvern Tigers White vs Timberwolves Boomers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Boomers\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

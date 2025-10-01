@@ -6,25 +6,36 @@ X-WR-CALNAME:Timberwolves Hawks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:a7d841ae-fce2-47e0-b43e-d9d5a470022f
+UID:2ba8a27f-57d1-4555-9416-21061337715c
 SEQUENCE:0
-DTSTAMP:20250930T171254
-DTSTART:20251011T084500
-DTEND:20251011T093000
-SUMMARY:🏀 U10 Boys: Timberwolves Hawks vs Maccabi Lakers
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Lakers\nArrive 15 min
- s early for warm-up
+DTSTAMP:20251001T171428
+DTSTART:20251011T093000
+DTEND:20251011T101500
+SUMMARY:🏀 U10 Boys: Timberwolves Hawks vs Maccabi Kings
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Kings\nArrive 15 mins
+  early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:31ccaa1c-166c-4cf5-b32d-c79922a9efef
+UID:3acef208-1271-425b-8914-6116a44f0289
 SEQUENCE:0
-DTSTAMP:20250930T171254
+DTSTAMP:20251001T171428
+DTSTART:20251018T101500
+DTEND:20251018T110000
+SUMMARY:🏀 U10 Boys: Timberwolves Hawks vs AlphaWolf Magic
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AlphaW
+ olf Magic\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fb5ece86-8298-4d0c-b796-774dd9a402c8
+SEQUENCE:0
+DTSTAMP:20251001T171428
 DTSTART:20251025T101500
 DTEND:20251025T110000
-SUMMARY:🏀 U10 Boys: Timberwolves Hawks vs Maccabi Kings
+SUMMARY:🏀 U10 Boys: Timberwolves Hawks vs Viewbank Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
- i Kings\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Viewba
+ nk Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

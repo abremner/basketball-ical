@@ -6,36 +6,36 @@ X-WR-CALNAME:Maccabi Falcons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:627d1530-9a72-427e-ae8a-9d4c85bd3f12
+UID:d1a616f8-3c83-4b78-868e-45190263ccfd
 SEQUENCE:0
-DTSTAMP:20250930T171242
+DTSTAMP:20251001T171415
 DTSTART:20251011T093000
 DTEND:20251011T101500
-SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Comets Snake
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
-  Snake\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:02f36e9d-f8b4-4a4f-9b50-4a36dfde66ba
-SEQUENCE:0
-DTSTAMP:20250930T171242
-DTSTART:20251018T093000
-DTEND:20251018T101500
-SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Toorak Thunderbolts
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
-  Thunderbolts\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:04ad55b4-170d-4ac2-a9c2-a058823dd680
-SEQUENCE:0
-DTSTAMP:20250930T171242
-DTSTART:20251025T080000
-DTEND:20251025T084500
 SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Malvern Tigers Purple
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Purple\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a69d5b14-a852-436c-8904-07030ac5194e
+SEQUENCE:0
+DTSTAMP:20251001T171415
+DTSTART:20251018T110000
+DTEND:20251018T114500
+SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Toorak Tigersharks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Tigersharks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:162da156-279d-4c89-9a2c-ee1338d2f62e
+SEQUENCE:0
+DTSTAMP:20251001T171415
+DTSTART:20251025T110000
+DTEND:20251025T114500
+SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Glen Iris Scorpions Gardiner
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

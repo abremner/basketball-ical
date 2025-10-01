@@ -6,26 +6,37 @@ X-WR-CALNAME:Glen Iris Scorpions Ferndale Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:454d790b-0f8f-425c-a582-a7f041d74ce6
+UID:0bf54e6c-1389-4dd9-8c12-9a186df23fb3
 SEQUENCE:0
-DTSTAMP:20250930T171417
+DTSTAMP:20251001T171549
 DTSTART:20251011T174500
 DTEND:20251011T183000
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Ferndale vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c4324f77-ce35-452b-925d-ce90ab0e6c16
+SEQUENCE:0
+DTSTAMP:20251001T171549
+DTSTART:20251018T174500
+DTEND:20251018T183000
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Ferndale vs AUBD Blaze
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AUBD B
+ laze\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:59acfa5f-1b43-471a-991a-7084522a6012
+SEQUENCE:0
+DTSTAMP:20251001T171549
+DTSTART:20251025T174500
+DTEND:20251025T183000
 SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Ferndale vs Malvern Tigers Blac
  k
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5ab09875-30fc-4b4f-a0e4-acc8c44cc716
-SEQUENCE:0
-DTSTAMP:20250930T171417
-DTSTART:20251018T174500
-DTEND:20251018T183000
-SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Ferndale vs Timberwolves Lions
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
- wolves Lions\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

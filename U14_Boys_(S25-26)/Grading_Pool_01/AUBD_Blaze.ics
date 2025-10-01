@@ -6,25 +6,36 @@ X-WR-CALNAME:AUBD Blaze Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:ba072964-e673-4b46-ae55-a88d3046e2fe
+UID:aa3ef0dd-720a-428d-b9d5-b4ba360f6f18
 SEQUENCE:0
-DTSTAMP:20250930T171417
+DTSTAMP:20251001T171549
+DTSTART:20251011T170000
+DTEND:20251011T174500
+SUMMARY:🏀 U14 Boys: AUBD Blaze vs Timberwolves Lions
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Lions\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f4928d9e-4d85-4a65-aed4-094cb92bdd97
+SEQUENCE:0
+DTSTAMP:20251001T171549
 DTSTART:20251018T174500
 DTEND:20251018T183000
+SUMMARY:🏀 U14 Boys: AUBD Blaze vs Glen Iris Scorpions Ferndale
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
+ ris Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d1344de1-93cc-41f1-a1b8-4106afb0d4c9
+SEQUENCE:0
+DTSTAMP:20251001T171549
+DTSTART:20251025T170000
+DTEND:20251025T174500
 SUMMARY:🏀 U14 Boys: AUBD Blaze vs Ashy Lightning Gold
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:3e83f8fa-62d6-4142-a1cc-86241a232b58
-SEQUENCE:0
-DTSTAMP:20250930T171417
-DTSTART:20251025T174500
-DTEND:20251025T183000
-SUMMARY:🏀 U14 Boys: AUBD Blaze vs Toorak Toros
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
-  Toros\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

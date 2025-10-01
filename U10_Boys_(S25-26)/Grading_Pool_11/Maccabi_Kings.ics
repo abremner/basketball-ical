@@ -6,25 +6,36 @@ X-WR-CALNAME:Maccabi Kings Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f03ca102-99fa-4db6-a524-a134de4a0b6a
+UID:7b8373c4-8cd0-4e51-82c6-e144fb95b2b8
 SEQUENCE:0
-DTSTAMP:20250930T171253
-DTSTART:20251018T110000
-DTEND:20251018T114500
-SUMMARY:🏀 U10 Boys: Maccabi Kings vs Viewbank Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Viewba
- nk Piranhas\nArrive 15 mins early for warm-up
+DTSTAMP:20251001T171427
+DTSTART:20251011T093000
+DTEND:20251011T101500
+SUMMARY:🏀 U10 Boys: Maccabi Kings vs Timberwolves Hawks
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Timberwolves Hawks\nArrive 15
+  mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b0bb18ea-c392-4cb5-979e-fc663cb19a4f
+UID:f1433601-8ede-4caf-9962-daf64835c4ac
 SEQUENCE:0
-DTSTAMP:20250930T171253
-DTSTART:20251025T101500
-DTEND:20251025T110000
-SUMMARY:🏀 U10 Boys: Maccabi Kings vs Timberwolves Hawks
+DTSTAMP:20251001T171427
+DTSTART:20251018T080000
+DTEND:20251018T084500
+SUMMARY:🏀 U10 Boys: Maccabi Kings vs Heyington Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
- wolves Hawks\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Heying
+ ton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a9f23a83-4e2a-4de2-b5e6-764f2ba26830
+SEQUENCE:0
+DTSTAMP:20251001T171427
+DTSTART:20251025T093000
+DTEND:20251025T101500
+SUMMARY:🏀 U10 Boys: Maccabi Kings vs Malvern Tigers Lime
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Lime\nArrive 1
+ 5 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

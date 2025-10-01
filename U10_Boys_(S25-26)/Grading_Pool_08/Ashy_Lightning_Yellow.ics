@@ -6,37 +6,36 @@ X-WR-CALNAME:Ashy Lightning Yellow Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:ad720f2c-009c-4411-ad75-352243807c33
+UID:f2302a11-3343-48b7-be7f-eb1227164447
 SEQUENCE:0
-DTSTAMP:20250930T171240
+DTSTAMP:20251001T171414
 DTSTART:20251011T080000
 DTEND:20251011T084500
+SUMMARY:🏀 U10 Boys: Ashy Lightning Yellow vs Comets Snake
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Comets
+  Snake\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ec881f95-ea95-4c46-9f2d-f49447185d43
+SEQUENCE:0
+DTSTAMP:20251001T171414
+DTSTART:20251018T084500
+DTEND:20251018T093000
 SUMMARY:🏀 U10 Boys: Ashy Lightning Yellow vs Toorak Thunderbolts
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
   Thunderbolts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:153291c2-082a-4531-b70f-0217d401f5b6
+UID:a22639cb-f4be-4792-a79d-1e5984151873
 SEQUENCE:0
-DTSTAMP:20250930T171240
-DTSTART:20251018T084500
-DTEND:20251018T093000
-SUMMARY:🏀 U10 Boys: Ashy Lightning Yellow vs Glen Iris Scorpions Gardin
- er
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
- ris Scorpions Gardiner\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:ff0c775f-f1ec-42f7-8ad2-8effc45984e7
-SEQUENCE:0
-DTSTAMP:20250930T171240
+DTSTAMP:20251001T171414
 DTSTART:20251025T093000
 DTEND:20251025T101500
-SUMMARY:🏀 U10 Boys: Ashy Lightning Yellow vs Comets Snake
+SUMMARY:🏀 U10 Boys: Ashy Lightning Yellow vs Malvern Tigers Purple
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
-  Snake\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Purple\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

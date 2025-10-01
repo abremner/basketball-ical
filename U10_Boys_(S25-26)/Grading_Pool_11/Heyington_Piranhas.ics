@@ -6,25 +6,36 @@ X-WR-CALNAME:Heyington Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:1b7a4afe-89a5-4c97-a706-7ca4716748d4
+UID:c7753b1a-1ccf-444e-811d-ee858d71dfbb
 SEQUENCE:0
-DTSTAMP:20250930T171252
-DTSTART:20251011T080000
-DTEND:20251011T084500
-SUMMARY:🏀 U10 Boys: Heyington Piranhas vs Arax
+DTSTAMP:20251001T171426
+DTSTART:20251011T101500
+DTEND:20251011T110000
+SUMMARY:🏀 U10 Boys: Heyington Piranhas vs Solway Force
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Arax\n
- Arrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Force\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:00897d95-ed95-486b-9e0c-fdfd0c6972eb
+UID:6fe96a03-f64e-4a1f-9219-4705a0787aa0
 SEQUENCE:0
-DTSTAMP:20250930T171252
-DTSTART:20251018T093000
-DTEND:20251018T101500
+DTSTAMP:20251001T171426
+DTSTART:20251018T080000
+DTEND:20251018T084500
+SUMMARY:🏀 U10 Boys: Heyington Piranhas vs Maccabi Kings
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Kings\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c1d75308-fc6b-40df-a60a-fa374cd26f74
+SEQUENCE:0
+DTSTAMP:20251001T171426
+DTSTART:20251025T084500
+DTEND:20251025T093000
 SUMMARY:🏀 U10 Boys: Heyington Piranhas vs AlphaWolf Magic
-LOCATION:DLS1
-DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: AlphaWolf Magic\nArrive 15 mi
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: AlphaWolf Magic\nArrive 15 mi
  ns early for warm-up
 END:VEVENT
 END:VCALENDAR

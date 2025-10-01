@@ -6,20 +6,20 @@ X-WR-CALNAME:Timberwolves Boomers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:1d1c6997-6ef9-46f8-b7f3-8d60a328e8d0
+UID:7d6c138f-d803-4c46-9def-d1d5b43d97bc
 SEQUENCE:0
-DTSTAMP:20250930T171229
+DTSTAMP:20251001T171403
 DTSTART:20251011T114500
 DTEND:20251011T123000
-SUMMARY:🏀 U10 Boys: Timberwolves Boomers vs Toorak Tigersharks
+SUMMARY:🏀 U10 Boys: Timberwolves Boomers vs Penpraze Park Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
- Tigersharks\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Penpraz
+ e Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bec44635-c951-47b7-8996-15ab44fd6a3a
+UID:d74c2b6b-ca3f-4f65-a5c1-e897310771b6
 SEQUENCE:0
-DTSTAMP:20250930T171229
+DTSTAMP:20251001T171403
 DTSTART:20251018T110000
 DTEND:20251018T114500
 SUMMARY:🏀 U10 Boys: Timberwolves Boomers vs Armadale Piranhas
@@ -28,14 +28,14 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Armada
  le Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:84600ce2-a26b-461f-8cec-fc4c73b0950b
+UID:7414e551-15e9-49a4-bbed-358c1e1f0cc8
 SEQUENCE:0
-DTSTAMP:20250930T171229
-DTSTART:20251025T114500
-DTEND:20251025T123000
-SUMMARY:🏀 U10 Boys: Timberwolves Boomers vs Penpraze Park Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Penpraz
- e Park Piranhas\nArrive 15 mins early for warm-up
+DTSTAMP:20251001T171403
+DTSTART:20251025T101500
+DTEND:20251025T110000
+SUMMARY:🏀 U10 Boys: Timberwolves Boomers vs Malvern Tigers White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

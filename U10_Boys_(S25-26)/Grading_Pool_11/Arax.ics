@@ -6,36 +6,25 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:fb679164-5dd0-491d-b616-f4bf40b6137e
+UID:acf877e5-faad-47ae-9468-247f08841da8
 SEQUENCE:0
-DTSTAMP:20250930T171252
+DTSTAMP:20251001T171426
 DTSTART:20251011T080000
 DTEND:20251011T084500
-SUMMARY:🏀 U10 Boys: Arax vs Heyington Piranhas
+SUMMARY:🏀 U10 Boys: Arax vs Viewbank Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Heying
- ton Piranhas\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Viewba
+ nk Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:16042350-b2c9-453c-8500-e8caa9deccc7
+UID:93b3da5f-e52e-4aba-8937-b83d00b97f51
 SEQUENCE:0
-DTSTAMP:20250930T171252
-DTSTART:20251018T084500
-DTEND:20251018T093000
-SUMMARY:🏀 U10 Boys: Arax vs Solway Force
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Force\nArrive 15 mins 
- early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:05f92d62-4d6e-4cc0-89d3-61b0dd72455e
-SEQUENCE:0
-DTSTAMP:20250930T171252
+DTSTAMP:20251001T171426
 DTSTART:20251025T080000
 DTEND:20251025T084500
-SUMMARY:🏀 U10 Boys: Arax vs AlphaWolf Magic
+SUMMARY:🏀 U10 Boys: Arax vs Maccabi Lakers
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: AlphaW
- olf Magic\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Lakers\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

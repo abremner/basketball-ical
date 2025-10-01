@@ -6,25 +6,36 @@ X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e0bf6516-6d85-4164-bdf4-f212e8a2f934
+UID:0124f900-12d3-48ed-a847-bcae43b52cf0
 SEQUENCE:0
-DTSTAMP:20250930T171228
-DTSTART:20251011T110000
-DTEND:20251011T114500
+DTSTAMP:20251001T171402
+DTSTART:20251011T101500
+DTEND:20251011T110000
 SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Armadale Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Armada
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Armada
  le Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d31bd485-05f3-440c-bee7-2549513d39d6
+UID:47606124-186b-4af8-b621-bac3c85e7184
 SEQUENCE:0
-DTSTAMP:20250930T171228
-DTSTART:20251018T114500
-DTEND:20251018T123000
+DTSTAMP:20251001T171402
+DTSTART:20251018T101500
+DTEND:20251018T110000
 SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Ashy Lightning Green
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
- ghtning Green\nArrive 15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5ddb67d9-265e-4b82-8dbf-bd01cf8c07a4
+SEQUENCE:0
+DTSTAMP:20251001T171402
+DTSTART:20251025T110000
+DTEND:20251025T114500
+SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Penpraze Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Penpra
+ ze Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

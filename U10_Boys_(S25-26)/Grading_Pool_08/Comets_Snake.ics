@@ -6,36 +6,36 @@ X-WR-CALNAME:Comets Snake Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:8eac3469-873d-4085-93b1-8269a999d958
+UID:a67e20fe-03f2-4c62-9caa-63c2d94a206e
 SEQUENCE:0
-DTSTAMP:20250930T171241
-DTSTART:20251011T093000
-DTEND:20251011T101500
-SUMMARY:🏀 U10 Boys: Comets Snake vs Maccabi Falcons
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
- i Falcons\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:c6d8e345-2863-4437-968f-f28603879ba0
-SEQUENCE:0
-DTSTAMP:20250930T171241
-DTSTART:20251018T080000
-DTEND:20251018T084500
-SUMMARY:🏀 U10 Boys: Comets Snake vs Solway Hornets
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
-  Hornets\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:c9836ef7-f7f8-4e96-9cb8-34befe7e31d7
-SEQUENCE:0
-DTSTAMP:20250930T171241
-DTSTART:20251025T093000
-DTEND:20251025T101500
+DTSTAMP:20251001T171415
+DTSTART:20251011T080000
+DTEND:20251011T084500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Ashy Lightning Yellow
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
  ightning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9b5f1259-61b1-46c0-9aed-9df8f3b0531f
+SEQUENCE:0
+DTSTAMP:20251001T171415
+DTSTART:20251018T080000
+DTEND:20251018T084500
+SUMMARY:🏀 U10 Boys: Comets Snake vs Malvern Tigers Purple
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Purple\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dabb8ee2-1908-4393-a24c-b91ba92d8fb2
+SEQUENCE:0
+DTSTAMP:20251001T171415
+DTSTART:20251025T084500
+DTEND:20251025T093000
+SUMMARY:🏀 U10 Boys: Comets Snake vs Toorak Tigersharks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Tigersharks\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR
