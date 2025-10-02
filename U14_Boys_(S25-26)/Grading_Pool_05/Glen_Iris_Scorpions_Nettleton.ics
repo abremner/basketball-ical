@@ -6,9 +6,9 @@ X-WR-CALNAME:Glen Iris Scorpions Nettleton Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e1ce203d-2426-4f1f-8d92-a4470b528bbd
+UID:900aff06-7f3a-4f21-8c23-3be4015656f3
 SEQUENCE:0
-DTSTAMP:20251001T171600
+DTSTAMP:20251002T171150
 DTSTART:20251011T170000
 DTEND:20251011T174500
 SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Nettleton vs Malvern Tigers Gre
@@ -18,9 +18,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:127fa21c-8e9f-4fe9-b8dd-63a6672408bd
+UID:8137fa18-4557-4dd7-a7a4-6d07f3cbf658
 SEQUENCE:0
-DTSTAMP:20251001T171600
+DTSTAMP:20251002T171150
+DTSTART:20251018T170000
+DTEND:20251018T174500
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Nettleton vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d52d09b3-5f5e-42bd-874b-42685b5c7539
+SEQUENCE:0
+DTSTAMP:20251002T171150
 DTSTART:20251025T170000
 DTEND:20251025T174500
 SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Nettleton vs Maccabi Ducks

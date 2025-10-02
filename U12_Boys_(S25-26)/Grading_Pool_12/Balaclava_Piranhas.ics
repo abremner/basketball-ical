@@ -6,36 +6,36 @@ X-WR-CALNAME:Balaclava Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:7fcf626b-fd00-4d9d-bf66-c0cc0c50072b
+UID:bc4df930-82a4-472c-8885-88475430b632
 SEQUENCE:0
-DTSTAMP:20251001T171520
-DTSTART:20251011T131500
-DTEND:20251011T140000
-SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Timberwolves Stealers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
- wolves Stealers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:7222cb1f-8384-410e-9503-b1bce68e1497
-SEQUENCE:0
-DTSTAMP:20251001T171520
-DTSTART:20251018T123000
-DTEND:20251018T131500
-SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Malvern Tigers Aqua
+DTSTAMP:20251002T171110
+DTSTART:20251011T123000
+DTEND:20251011T131500
+SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Glen Iris Scorpions Raven
 LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Aqua\nArrive 1
- 5 mins early for warm-up
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Glen Iris Scorpions Raven\nAr
+ rive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:69ec6ade-15d2-46bb-a040-5e0d881d7a69
+UID:79707bc4-1814-4ee8-a4fe-8296f734d0de
 SEQUENCE:0
-DTSTAMP:20251001T171520
+DTSTAMP:20251002T171110
+DTSTART:20251018T131500
+DTEND:20251018T140000
+SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Malvern Tigers Aqua
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Aqua\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fa352d30-06dd-4e41-8ec0-610530090eea
+SEQUENCE:0
+DTSTAMP:20251002T171110
 DTSTART:20251025T131500
 DTEND:20251025T140000
 SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Malvern Tigers Tan
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
-  Tigers Tan\nArrive 15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Tan\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

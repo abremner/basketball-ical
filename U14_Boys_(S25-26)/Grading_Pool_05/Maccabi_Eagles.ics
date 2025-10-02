@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Eagles Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:8f1d4f32-ed10-4b7b-afd3-ed07a0d4d832
+UID:8a2e7d3c-0bc4-48f1-9f8d-3454dfa46da9
 SEQUENCE:0
-DTSTAMP:20251001T171601
+DTSTAMP:20251002T171151
 DTSTART:20251011T161500
 DTEND:20251011T170000
 SUMMARY:🏀 U14 Boys: Maccabi Eagles vs Toorak Triple-Threat
@@ -17,14 +17,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Toorak
  Triple-Threat\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6763d205-3c57-420e-b97d-e52cc2603f6e
+UID:562a6041-b715-41be-9ba7-275647441f06
 SEQUENCE:0
-DTSTAMP:20251001T171601
+DTSTAMP:20251002T171151
 DTSTART:20251018T170000
 DTEND:20251018T174500
-SUMMARY:🏀 U14 Boys: Maccabi Eagles vs Comets Lightning
+SUMMARY:🏀 U14 Boys: Maccabi Eagles vs Glen Iris Scorpions Nettleton
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Comets 
- Lightning\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
+ is Scorpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:84c18e0d-9ff9-41e7-bcec-3a58d383bb90
+SEQUENCE:0
+DTSTAMP:20251002T171151
+DTSTART:20251025T161500
+DTEND:20251025T170000
+SUMMARY:🏀 U14 Boys: Maccabi Eagles vs Timberwolves Stones
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Stones\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

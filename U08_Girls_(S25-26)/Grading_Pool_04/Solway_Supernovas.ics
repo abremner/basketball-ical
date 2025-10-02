@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Supernovas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2978d75e-6e8c-46fa-8042-ff75a569ee53
+UID:ea9f43a2-d3f3-4ff1-bdb8-011fd658f9a7
 SEQUENCE:0
-DTSTAMP:20251001T171353
+DTSTAMP:20251002T170947
 DTSTART:20251011T110000
 DTEND:20251011T114500
 SUMMARY:🏀 U08 Girls: Solway Supernovas vs Maccabi Ducks
@@ -17,9 +17,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:61e247fa-df44-49c5-947e-8d3895e60e7b
+UID:f0aa9b9e-149e-4627-b320-c75e4e03d9de
 SEQUENCE:0
-DTSTAMP:20251001T171353
+DTSTAMP:20251002T170947
+DTSTART:20251018T084500
+DTEND:20251018T093000
+SUMMARY:🏀 U08 Girls: Solway Supernovas vs Wallis Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Wallis Pira
+ nhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a5891eda-c03f-414e-ab2a-2a0445dc35ac
+SEQUENCE:0
+DTSTAMP:20251002T170947
 DTSTART:20251025T084500
 DTEND:20251025T093000
 SUMMARY:🏀 U08 Girls: Solway Supernovas vs Korowa Cherry

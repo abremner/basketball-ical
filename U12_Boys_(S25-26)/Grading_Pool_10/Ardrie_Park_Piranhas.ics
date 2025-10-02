@@ -6,9 +6,9 @@ X-WR-CALNAME:Ardrie Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:cfa96bcc-8f35-4ecf-8bfc-d3b164716aa7
+UID:ae251b1b-b2c4-43b0-9ef9-335e3110962d
 SEQUENCE:0
-DTSTAMP:20251001T171515
+DTSTAMP:20251002T171106
 DTSTART:20251011T123000
 DTEND:20251011T131500
 SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Solway Dingoes
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Solway Dingoes\nArrive 15 min
  s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c69cf464-25a0-4ecf-bbae-90efddb59658
+UID:aebe0f5d-d943-46e1-8007-3abeac950f45
 SEQUENCE:0
-DTSTAMP:20251001T171515
+DTSTAMP:20251002T171106
 DTSTART:20251018T131500
 DTEND:20251018T140000
 SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Malvern Tigers Lime
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Lime\nArrive 1
  5 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e95475bc-8e26-4d40-a7c6-1798b6767f80
+UID:c2ff506f-076b-4497-b085-b6ecd9b63acb
 SEQUENCE:0
-DTSTAMP:20251001T171515
+DTSTAMP:20251002T171106
 DTSTART:20251025T123000
 DTEND:20251025T131500
 SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Toorak Thunder
@@ -39,20 +39,20 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
   Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d5fa650c-4b80-42d7-b3da-2e546cb5f80f
+UID:aafb8043-d6ef-4452-a130-f272c74390cb
 SEQUENCE:0
-DTSTAMP:20251001T171515
+DTSTAMP:20251002T171106
 DTSTART:20251101T131500
 DTEND:20251101T140000
-SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Timberwolves Cyclones
+SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Timberwolves Suns
 LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Cyclones\nArrive
-  15 mins early for warm-up
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Suns\nArrive 15 
+ mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1dfa61ce-ad4a-4ce6-8608-748eec1f277c
+UID:285c2f82-2cce-47da-8f90-764027ef449c
 SEQUENCE:0
-DTSTAMP:20251001T171515
+DTSTAMP:20251002T171106
 DTSTART:20251108T123000
 DTEND:20251108T131500
 SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Comets Cyclones

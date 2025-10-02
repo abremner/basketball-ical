@@ -6,36 +6,36 @@ X-WR-CALNAME:Solway Knights Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:ab588942-9d3e-4d8e-8951-dab9d7ec0308
+UID:dfd2c299-dae5-42b9-897c-6bf6cb70a3d6
 SEQUENCE:0
-DTSTAMP:20251001T171550
+DTSTAMP:20251002T171140
 DTSTART:20251011T174500
 DTEND:20251011T183000
-SUMMARY:🏀 U14 Boys: Solway Knights vs Malvern Tigers Black
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
- n Tigers Black\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:78be6030-a635-4dfc-8937-1a470ab216f6
-SEQUENCE:0
-DTSTAMP:20251001T171550
-DTSTART:20251018T174500
-DTEND:20251018T183000
 SUMMARY:🏀 U14 Boys: Solway Knights vs Ashy Lightning Gold
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2978b2b6-564d-4826-a42b-9ebf8c9f11b6
+UID:1b09b6eb-983f-45bc-bcd6-4669242e7ec6
 SEQUENCE:0
-DTSTAMP:20251001T171550
-DTSTART:20251025T174500
-DTEND:20251025T183000
+DTSTAMP:20251002T171140
+DTSTART:20251018T174500
+DTEND:20251018T183000
 SUMMARY:🏀 U14 Boys: Solway Knights vs Timberwolves Lions
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Lions\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:866a32ba-b498-4c66-89dd-0f2d0c36f66f
+SEQUENCE:0
+DTSTAMP:20251002T171140
+DTSTART:20251025T174500
+DTEND:20251025T183000
+SUMMARY:🏀 U14 Boys: Solway Knights vs AUBD Blaze
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: AUBD B
+ laze\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

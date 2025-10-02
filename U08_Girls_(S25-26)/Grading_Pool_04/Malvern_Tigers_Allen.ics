@@ -6,9 +6,20 @@ X-WR-CALNAME:Malvern Tigers Allen Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:bf7ca238-3c86-4e05-b922-8b3c9b89cd01
+UID:766ecddf-529f-4775-b919-8a3cd89bb35b
 SEQUENCE:0
-DTSTAMP:20251001T171353
+DTSTAMP:20251002T170946
+DTSTART:20251011T101500
+DTEND:20251011T110000
+SUMMARY:🏀 U08 Girls: Malvern Tigers Allen vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:db9af9ed-9c45-45c8-9736-9c4aa9025d01
+SEQUENCE:0
+DTSTAMP:20251002T170946
 DTSTART:20251018T110000
 DTEND:20251018T114500
 SUMMARY:🏀 U08 Girls: Malvern Tigers Allen vs Maccabi Ducks
@@ -17,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1e0c756b-8882-4a2d-af78-a184cbd1e0fe
+UID:c7d9a76c-3e75-44e7-a0d9-fa5a35dcc49b
 SEQUENCE:0
-DTSTAMP:20251001T171353
+DTSTAMP:20251002T170946
 DTSTART:20251025T101500
 DTEND:20251025T110000
 SUMMARY:🏀 U08 Girls: Malvern Tigers Allen vs Wallis Piranhas

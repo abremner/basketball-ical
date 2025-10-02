@@ -6,36 +6,36 @@ X-WR-CALNAME:Ashy Lightning Gold Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e039db9b-8930-4b8e-a2f5-34345a9b079d
+UID:e77fd6a0-9d5b-43ba-94c9-082271e30839
 SEQUENCE:0
-DTSTAMP:20251001T171548
+DTSTAMP:20251002T171138
 DTSTART:20251011T174500
 DTEND:20251011T183000
-SUMMARY:🏀 U14 Boys: Ashy Lightning Gold vs Glen Iris Scorpions Ferndale
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
- ris Scorpions Ferndale\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:9a15f7d3-f66c-47c8-bf35-c79349b5a873
-SEQUENCE:0
-DTSTAMP:20251001T171548
-DTSTART:20251018T174500
-DTEND:20251018T183000
 SUMMARY:🏀 U14 Boys: Ashy Lightning Gold vs Solway Knights
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Knights\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7db05dd3-7c47-4076-ab7c-9516f43801c3
+UID:da629949-af79-4d91-9cf9-7540679d5f90
 SEQUENCE:0
-DTSTAMP:20251001T171548
+DTSTAMP:20251002T171138
+DTSTART:20251018T170000
+DTEND:20251018T174500
+SUMMARY:🏀 U14 Boys: Ashy Lightning Gold vs Comets Lightning
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Comets
+  Lightning\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:37c8bdfa-da2e-4a4d-a975-fb0c7a616642
+SEQUENCE:0
+DTSTAMP:20251002T171138
 DTSTART:20251025T170000
 DTEND:20251025T174500
-SUMMARY:🏀 U14 Boys: Ashy Lightning Gold vs AUBD Blaze
+SUMMARY:🏀 U14 Boys: Ashy Lightning Gold vs Timberwolves Lions
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AUBD B
- laze\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Lions\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

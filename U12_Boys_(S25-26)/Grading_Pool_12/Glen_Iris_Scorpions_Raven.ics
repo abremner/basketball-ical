@@ -6,36 +6,36 @@ X-WR-CALNAME:Glen Iris Scorpions Raven Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:3b12fbc6-8266-4dbd-9f7e-1660bd53ad77
+UID:f77fe292-7ca0-4b9e-b9e6-7625f79b58a6
 SEQUENCE:0
-DTSTAMP:20251001T171520
-DTSTART:20251011T140000
-DTEND:20251011T144500
-SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Raven vs Malvern Tigers Aqua
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
-  Tigers Aqua\nArrive 15 mins early for warm-up
+DTSTAMP:20251002T171111
+DTSTART:20251011T123000
+DTEND:20251011T131500
+SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Raven vs Balaclava Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Balaclava Piranhas\nArrive 15
+  mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9b134262-a535-4888-85d4-45b1ffae230e
+UID:b8f6bbc6-1eb0-49ce-8d22-c14bccdbec22
 SEQUENCE:0
-DTSTAMP:20251001T171520
-DTSTART:20251018T140000
-DTEND:20251018T144500
+DTSTAMP:20251002T171111
+DTSTART:20251018T131500
+DTEND:20251018T140000
 SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Raven vs Timberwolves Fury
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Fury\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9233072d-93a5-4f0e-bb0a-fc88e310d704
+UID:bf1bb384-7bd0-4a8c-9525-521be4464cf8
 SEQUENCE:0
-DTSTAMP:20251001T171520
-DTSTART:20251025T123000
-DTEND:20251025T131500
-SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Raven vs Solway Crocodiles
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Crocodiles\nArrive 15 
- mins early for warm-up
+DTSTAMP:20251002T171111
+DTSTART:20251025T140000
+DTEND:20251025T144500
+SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Raven vs Timberwolves Cyclones
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Cyclones\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

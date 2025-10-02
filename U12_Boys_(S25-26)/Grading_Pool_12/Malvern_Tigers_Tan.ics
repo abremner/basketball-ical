@@ -6,36 +6,36 @@ X-WR-CALNAME:Malvern Tigers Tan Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2b85a95c-1e2b-4c1b-8eeb-c0c2ed2c9e88
+UID:90ecfe61-b2bb-4bbd-be7b-73d7579fb718
 SEQUENCE:0
-DTSTAMP:20251001T171522
-DTSTART:20251011T123000
-DTEND:20251011T131500
+DTSTAMP:20251002T171112
+DTSTART:20251011T131500
+DTEND:20251011T140000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Tan vs Solway Crocodiles
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Crocodiles\nArrive 15 
- mins early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Crocodiles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8e394f11-f857-4d7f-a9cc-0700ce8ee6c9
+UID:98457d5f-a815-4a31-be79-3014defe6af6
 SEQUENCE:0
-DTSTAMP:20251001T171522
-DTSTART:20251018T131500
-DTEND:20251018T140000
+DTSTAMP:20251002T171112
+DTSTART:20251018T123000
+DTEND:20251018T131500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Tan vs Timberwolves Stealers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
- wolves Stealers\nArrive 15 mins early for warm-up
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Stealers\nArrive
+  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:be964937-d2a9-4ff9-8265-5543947a32b6
+UID:41bec4e1-2d90-4051-96df-b493ee439c3c
 SEQUENCE:0
-DTSTAMP:20251001T171522
+DTSTAMP:20251002T171112
 DTSTART:20251025T131500
 DTEND:20251025T140000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Tan vs Balaclava Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Balacla
- va Piranhas\nArrive 15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Balacl
+ ava Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

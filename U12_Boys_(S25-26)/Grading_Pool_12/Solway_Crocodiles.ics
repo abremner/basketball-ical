@@ -6,36 +6,25 @@ X-WR-CALNAME:Solway Crocodiles Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:be8649cd-b058-4cb2-a60f-3e416f772efc
+UID:4d790cf4-f3ae-4cd6-b7a1-13fe4cb0fa7e
 SEQUENCE:0
-DTSTAMP:20251001T171522
-DTSTART:20251011T123000
-DTEND:20251011T131500
+DTSTAMP:20251002T171112
+DTSTART:20251011T131500
+DTEND:20251011T140000
 SUMMARY:🏀 U12 Boys: Solway Crocodiles vs Malvern Tigers Tan
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Tan\nArrive 15
-  mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:c502d0be-9e2a-441c-8107-eb957620322e
-SEQUENCE:0
-DTSTAMP:20251001T171522
-DTSTART:20251018T131500
-DTEND:20251018T140000
-SUMMARY:🏀 U12 Boys: Solway Crocodiles vs Malvern Tigers Amber
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
-  Tigers Amber\nArrive 15 mins early for warm-up
+  Tigers Tan\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:22fbc31c-475a-4682-b928-c1191d9120b1
+UID:95d12504-5576-4738-8bd8-f4a9b3302f90
 SEQUENCE:0
-DTSTAMP:20251001T171522
-DTSTART:20251025T123000
-DTEND:20251025T131500
-SUMMARY:🏀 U12 Boys: Solway Crocodiles vs Glen Iris Scorpions Raven
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Glen Iris Scorpions Raven\nAr
- rive 15 mins early for warm-up
+DTSTAMP:20251002T171112
+DTSTART:20251018T140000
+DTEND:20251018T144500
+SUMMARY:🏀 U12 Boys: Solway Crocodiles vs Malvern Tigers Amber
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Amber\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -1,50 +1,50 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
-NAME:Timberwolves Cyclones Fixtures
-X-WR-CALNAME:Timberwolves Cyclones Fixtures
+NAME:Timberwolves Suns Fixtures
+X-WR-CALNAME:Timberwolves Suns Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:aaa524a3-2dd5-4e81-b8b1-20a8eb31203b
+UID:152fce9e-19aa-40f2-af5b-f3e290f99866
 SEQUENCE:0
-DTSTAMP:20251001T171518
+DTSTAMP:20251002T171109
 DTSTART:20251011T123000
 DTEND:20251011T131500
-SUMMARY:🏀 U12 Boys: Timberwolves Cyclones vs Toorak Thunder
+SUMMARY:🏀 U12 Boys: Timberwolves Suns vs Toorak Thunder
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Toorak 
  Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:31b51a6d-36db-4a68-b69b-3c7bbb22ccfb
+UID:0629492c-cc29-4d37-93c0-5d59e5fefe2b
 SEQUENCE:0
-DTSTAMP:20251001T171518
+DTSTAMP:20251002T171109
 DTSTART:20251025T123000
 DTEND:20251025T131500
-SUMMARY:🏀 U12 Boys: Timberwolves Cyclones vs Comets Cyclones
+SUMMARY:🏀 U12 Boys: Timberwolves Suns vs Comets Cyclones
 LOCATION:DLS1
 DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Comets Cyclones\nArrive 15 mi
  ns early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:77b9073b-c2dd-46cb-b762-e5cb48d4f8e9
+UID:fcc4a99d-cbe1-4c5e-8b41-bedd8c81950d
 SEQUENCE:0
-DTSTAMP:20251001T171518
+DTSTAMP:20251002T171109
 DTSTART:20251101T131500
 DTEND:20251101T140000
-SUMMARY:🏀 U12 Boys: Timberwolves Cyclones vs Ardrie Park Piranhas
+SUMMARY:🏀 U12 Boys: Timberwolves Suns vs Ardrie Park Piranhas
 LOCATION:ASB1
 DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Ardrie Park Piranhas\nArrive 
  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e35f5f5e-5025-4737-9655-c993fb01f5de
+UID:394e644f-dec7-4374-8ed5-601d506a302b
 SEQUENCE:0
-DTSTAMP:20251001T171518
+DTSTAMP:20251002T171109
 DTSTART:20251108T123000
 DTEND:20251108T131500
-SUMMARY:🏀 U12 Boys: Timberwolves Cyclones vs Solway Dingoes
+SUMMARY:🏀 U12 Boys: Timberwolves Suns vs Solway Dingoes
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Dingoes\nArrive 15 mins early for warm-up
