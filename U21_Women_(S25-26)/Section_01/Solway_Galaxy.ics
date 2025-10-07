@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Galaxy Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b0754f32-aca7-434c-817d-af4f47c1ef5b
+UID:cd09dcaa-d31c-4e50-94e2-819a198ddb4c
 SEQUENCE:0
-DTSTAMP:20251006T171635
-DTSTART:20251007T204500
-DTEND:20251007T213000
-SUMMARY:🏀 U21 Women: Solway Galaxy vs Malvern Tigers Black
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
- n Tigers Black\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:35e2d88e-02eb-4cc8-8138-71ba568dbdec
-SEQUENCE:0
-DTSTAMP:20251006T171635
+DTSTAMP:20251007T171530
 DTSTART:20251014T204500
 DTEND:20251014T213000
 SUMMARY:🏀 U21 Women: Solway Galaxy vs Malvern Tigers George
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers George\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:68d29d88-4049-43ab-841b-e3b613107817
+UID:f1172782-325f-4d67-a45c-861499ab8887
 SEQUENCE:0
-DTSTAMP:20251006T171635
+DTSTAMP:20251007T171530
 DTSTART:20251021T204500
 DTEND:20251021T213000
 SUMMARY:🏀 U21 Women: Solway Galaxy vs Solway Dream
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Dream\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3ea1cfd6-444e-44c4-a202-a0dcf49b83ac
+UID:0c31babf-0b41-44d2-8154-c009e7242866
 SEQUENCE:0
-DTSTAMP:20251006T171635
+DTSTAMP:20251007T171530
 DTSTART:20251028T204500
 DTEND:20251028T213000
 SUMMARY:🏀 U21 Women: Solway Galaxy vs Malvern Tigers Black
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fa4b81e4-0671-4f3a-a18b-3ae4c83b8dd5
+UID:642ceda7-f78c-4ec8-8112-955fb55b7872
 SEQUENCE:0
-DTSTAMP:20251006T171635
+DTSTAMP:20251007T171530
 DTSTART:20251111T204500
 DTEND:20251111T213000
 SUMMARY:🏀 U21 Women: Solway Galaxy vs Malvern Tigers George
