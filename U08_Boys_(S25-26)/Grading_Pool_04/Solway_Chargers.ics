@@ -6,25 +6,36 @@ X-WR-CALNAME:Solway Chargers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:3d2b3f91-096e-4a43-81a9-5bfc9914d11b
+UID:bb13f772-c934-4891-b147-0c6c9f6a2b75
 SEQUENCE:0
-DTSTAMP:20251007T171139
-DTSTART:20251011T080000
-DTEND:20251011T084500
-SUMMARY:🏀 U08 Boys: Solway Chargers vs Malvern Tigers Ingles
+DTSTAMP:20251008T171151
+DTSTART:20251011T084500
+DTEND:20251011T093000
+SUMMARY:🏀 U08 Boys: Solway Chargers vs Burnley Park Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
-  Tigers Ingles\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Burnley
+  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:13ffd2ef-f07d-4dc1-b6e0-ad3f9bd6fef7
+UID:3847cdc3-0dc3-4e0e-931b-a00545c30728
 SEQUENCE:0
-DTSTAMP:20251007T171139
-DTSTART:20251018T101500
-DTEND:20251018T110000
-SUMMARY:🏀 U08 Boys: Solway Chargers vs Malvern Tigers Bogut
+DTSTAMP:20251008T171151
+DTSTART:20251018T084500
+DTEND:20251018T093000
+SUMMARY:🏀 U08 Boys: Solway Chargers vs Packer Park Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
-  Tigers Bogut\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Packer 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:98bbaa8c-2666-4898-baf8-71a7c02730e5
+SEQUENCE:0
+DTSTAMP:20251008T171151
+DTSTART:20251025T110000
+DTEND:20251025T114500
+SUMMARY:🏀 U08 Boys: Solway Chargers vs Malvern Tigers Ingles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Ingles\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

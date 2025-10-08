@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Comets Eagles Fixtures
+X-WR-CALNAME:Comets Eagles Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d6999770-51c5-4a17-bffd-ef54634c76eb
+SEQUENCE:0
+DTSTAMP:20251008T171244
+DTSTART:20251018T093000
+DTEND:20251018T101500
+SUMMARY:🏀 U10 Boys: Comets Eagles vs Willoby Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Willoby Piranhas\nArrive 15 m
+ ins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ab950afd-2d78-41a0-8e81-540c513d0f1e
+SEQUENCE:0
+DTSTAMP:20251008T171244
+DTSTART:20251025T084500
+DTEND:20251025T093000
+SUMMARY:🏀 U10 Boys: Comets Eagles vs Timberwolves Legends
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Timberwolves Legends\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -6,36 +6,36 @@ X-WR-CALNAME:Ashy Lightning White Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c1e8a57e-89a5-4388-9b99-66c4799af85d
+UID:208b9e62-6f5e-4a4b-a0e9-ef26b84fb0c5
 SEQUENCE:0
-DTSTAMP:20251007T171225
-DTSTART:20251011T093000
-DTEND:20251011T101500
-SUMMARY:🏀 U10 Boys: Ashy Lightning White vs Maccabi Hawks
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Hawks\nArrive 15 mins
-  early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:a0dcf67a-8b52-4e9e-a2d1-8a486405deca
-SEQUENCE:0
-DTSTAMP:20251007T171225
-DTSTART:20251018T101500
-DTEND:20251018T110000
+DTSTAMP:20251008T171243
+DTSTART:20251011T080000
+DTEND:20251011T084500
 SUMMARY:🏀 U10 Boys: Ashy Lightning White vs Willoby Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Willob
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Willob
  y Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:983e0d9e-b32d-4495-9da5-d5ee5b1718ce
+UID:e0982011-46c1-498a-944d-3c984af44081
 SEQUENCE:0
-DTSTAMP:20251007T171225
-DTSTART:20251025T084500
-DTEND:20251025T093000
-SUMMARY:🏀 U10 Boys: Ashy Lightning White vs Timberwolves Legends
-LOCATION:DLS1
-DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Timberwolves Legends\nArrive 
- 15 mins early for warm-up
+DTSTAMP:20251008T171243
+DTSTART:20251018T101500
+DTEND:20251018T110000
+SUMMARY:🏀 U10 Boys: Ashy Lightning White vs SE Venom Magic
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: SE Ven
+ om Magic\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bd1dc37c-a073-458e-90a8-0422de27871a
+SEQUENCE:0
+DTSTAMP:20251008T171243
+DTSTART:20251025T080000
+DTEND:20251025T084500
+SUMMARY:🏀 U10 Boys: Ashy Lightning White vs Bambra Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Bambra
+  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

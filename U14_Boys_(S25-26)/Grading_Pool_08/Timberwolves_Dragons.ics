@@ -6,36 +6,25 @@ X-WR-CALNAME:Timberwolves Dragons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:8dfef6e9-2498-42ef-b48c-07eb909f8268
+UID:c52f8eb4-561b-4d99-8f45-73a7793e4e2e
 SEQUENCE:0
-DTSTAMP:20251007T171409
-DTSTART:20251011T161500
-DTEND:20251011T170000
+DTSTAMP:20251008T171441
+DTSTART:20251011T153000
+DTEND:20251011T161500
 SUMMARY:🏀 U14 Boys: Timberwolves Dragons vs Prahran Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Prahra
- n Piranhas\nArrive 15 mins early for warm-up
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Prahran Piranhas\nArrive 15 m
+ ins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:488fe3fd-9f18-4634-ae09-894c05309d77
+UID:dadc5074-df44-405f-89dc-5739e1a8fd44
 SEQUENCE:0
-DTSTAMP:20251007T171409
+DTSTAMP:20251008T171441
 DTSTART:20251018T161500
 DTEND:20251018T170000
 SUMMARY:🏀 U14 Boys: Timberwolves Dragons vs Malvern Tigers  Purple
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
- n Tigers  Purple\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:46518893-9572-4e9c-beb6-78104b6af90d
-SEQUENCE:0
-DTSTAMP:20251007T171409
-DTSTART:20251025T161500
-DTEND:20251025T170000
-SUMMARY:🏀 U14 Boys: Timberwolves Dragons vs Comets Sharks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
-  Sharks\nArrive 15 mins early for warm-up
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers  Purple\nArriv
+ e 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

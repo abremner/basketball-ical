@@ -6,20 +6,20 @@ X-WR-CALNAME:Prahran Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:97a15014-5757-4735-bd6b-f857b699aec4
+UID:5fbcd99f-fae0-48a7-9731-ce688b26a0c3
 SEQUENCE:0
-DTSTAMP:20251007T171405
-DTSTART:20251011T161500
-DTEND:20251011T170000
+DTSTAMP:20251008T171440
+DTSTART:20251011T153000
+DTEND:20251011T161500
 SUMMARY:🏀 U14 Boys: Prahran Piranhas vs Timberwolves Dragons
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
- wolves Dragons\nArrive 15 mins early for warm-up
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Dragons\nArrive 
+ 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c6f87ae3-52c3-4bbe-87e2-0eaca141bacc
+UID:7edd2ff7-3ffd-4472-95e7-bbd41f3cb992
 SEQUENCE:0
-DTSTAMP:20251007T171405
+DTSTAMP:20251008T171440
 DTSTART:20251018T153000
 DTEND:20251018T161500
 SUMMARY:🏀 U14 Boys: Prahran Piranhas vs Glen Iris Scorpions Raven
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Glen Iris Scorpions Raven\nAr
  rive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:759c0a14-d9b8-48d3-b4c4-ad9be8c1dd80
+UID:47245356-6e4a-4a56-8ccc-ba5b89386d64
 SEQUENCE:0
-DTSTAMP:20251007T171405
+DTSTAMP:20251008T171440
 DTSTART:20251025T153000
 DTEND:20251025T161500
 SUMMARY:🏀 U14 Boys: Prahran Piranhas vs Solway Spartans

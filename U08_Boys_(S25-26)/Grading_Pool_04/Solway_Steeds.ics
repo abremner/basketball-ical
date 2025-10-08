@@ -6,36 +6,25 @@ X-WR-CALNAME:Solway Steeds Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9b1df83c-9dab-427b-af26-1c10e83b9076
+UID:899afbd4-1b7b-4a69-bfc1-0491e1ceeed6
 SEQUENCE:0
-DTSTAMP:20251007T171140
-DTSTART:20251011T084500
-DTEND:20251011T093000
-SUMMARY:🏀 U08 Boys: Solway Steeds vs Burnley Park Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Burnley
-  Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:564655b9-d215-4f2f-8aa0-3b097fdf7020
-SEQUENCE:0
-DTSTAMP:20251007T171140
-DTSTART:20251018T084500
-DTEND:20251018T093000
-SUMMARY:🏀 U08 Boys: Solway Steeds vs Packer Park Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Packer 
- Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:8667ea3f-0be6-4bda-8d99-c69d31d0395a
-SEQUENCE:0
-DTSTAMP:20251007T171140
-DTSTART:20251025T110000
-DTEND:20251025T114500
+DTSTAMP:20251008T171152
+DTSTART:20251011T080000
+DTEND:20251011T084500
 SUMMARY:🏀 U08 Boys: Solway Steeds vs Malvern Tigers Ingles
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Ingles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:36e2b789-916a-4427-9231-a955aec9df9b
+SEQUENCE:0
+DTSTAMP:20251008T171152
+DTSTART:20251018T101500
+DTEND:20251018T110000
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Malvern Tigers Bogut
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Bogut\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

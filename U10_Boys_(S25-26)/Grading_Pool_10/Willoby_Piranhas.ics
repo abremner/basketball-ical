@@ -6,36 +6,36 @@ X-WR-CALNAME:Willoby Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9d8acd6a-5236-4bb0-9011-78fb408d18fe
+UID:c7c272e3-0e9c-4a1a-a047-5a69a6be32e0
 SEQUENCE:0
-DTSTAMP:20251007T171227
+DTSTAMP:20251008T171246
 DTSTART:20251011T080000
 DTEND:20251011T084500
-SUMMARY:🏀 U10 Boys: Willoby Piranhas vs Maccabi Jaguars
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
- i Jaguars\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5586bf2a-9525-40b4-82dc-b3738e07b9f6
-SEQUENCE:0
-DTSTAMP:20251007T171227
-DTSTART:20251018T101500
-DTEND:20251018T110000
 SUMMARY:🏀 U10 Boys: Willoby Piranhas vs Ashy Lightning White
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
  ightning White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5890aeec-0920-4d2b-9ffe-8f3d16cdd513
+UID:2c0792ae-6976-4025-9d59-86baa0508d99
 SEQUENCE:0
-DTSTAMP:20251007T171227
-DTSTART:20251025T093000
-DTEND:20251025T101500
-SUMMARY:🏀 U10 Boys: Willoby Piranhas vs Malvern Tigers Grey
+DTSTAMP:20251008T171246
+DTSTART:20251018T093000
+DTEND:20251018T101500
+SUMMARY:🏀 U10 Boys: Willoby Piranhas vs Comets Eagles
 LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Grey\nArrive 1
- 5 mins early for warm-up
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Comets Eagles\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:68aaa192-8414-4572-8b52-7680d730bd2e
+SEQUENCE:0
+DTSTAMP:20251008T171246
+DTSTART:20251025T101500
+DTEND:20251025T110000
+SUMMARY:🏀 U10 Boys: Willoby Piranhas vs Maccabi Jaguars
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Jaguars\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR
