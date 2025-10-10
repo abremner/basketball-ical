@@ -6,9 +6,9 @@ X-WR-CALNAME:Ashy Lightning White Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:7ef3b6e7-6bb1-4ea7-b7f6-38ff4bedeea6
+UID:23787667-2c9c-422f-9c16-fd24303a2618
 SEQUENCE:0
-DTSTAMP:20251009T171518
+DTSTAMP:20251010T171513
 DTSTART:20251011T161500
 DTEND:20251011T170000
 SUMMARY:🏀 U14 Girls: Ashy Lightning White vs Glen Iris Scorpions Nettle
@@ -18,11 +18,22 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e16045ad-bca1-4a87-923a-96251c5ebf62
+UID:be1cb1d3-cfe3-4b86-b96e-73a432b42bb8
 SEQUENCE:0
-DTSTAMP:20251009T171518
-DTSTART:20251018T161500
-DTEND:20251018T170000
+DTSTAMP:20251010T171513
+DTSTART:20251018T153000
+DTEND:20251018T161500
+SUMMARY:🏀 U14 Girls: Ashy Lightning White vs Solway Sapphires
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Sapp
+ hires\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a12d3c38-effe-47b3-8876-18c1f93942d3
+SEQUENCE:0
+DTSTAMP:20251010T171513
+DTSTART:20251025T161500
+DTEND:20251025T170000
 SUMMARY:🏀 U14 Girls: Ashy Lightning White vs Timberwolves Sapphires
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw

@@ -6,25 +6,25 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:dce6e206-6a6f-437b-ad9b-4f5495cb42c9
+UID:2182f9ea-2b45-4111-a572-9112b4da83b6
 SEQUENCE:0
-DTSTAMP:20251009T171328
-DTSTART:20251011T080000
-DTEND:20251011T084500
-SUMMARY:🏀 U10 Girls: Arax vs Korowa Grey
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Korowa
-  Grey\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:e7e796e2-e472-4095-9138-aacfd3740b24
-SEQUENCE:0
-DTSTAMP:20251009T171328
+DTSTAMP:20251010T171323
 DTSTART:20251018T080000
 DTEND:20251018T084500
-SUMMARY:🏀 U10 Girls: Arax vs Maccabi Eagles
+SUMMARY:🏀 U10 Girls: Arax vs Timberwolves Hornets
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
- i Eagles\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Hornets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7a53a061-54c6-4c32-a931-90935e5d63c0
+SEQUENCE:0
+DTSTAMP:20251010T171323
+DTSTART:20251025T080000
+DTEND:20251025T084500
+SUMMARY:🏀 U10 Girls: Arax vs Lauriston Flames
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Lauris
+ ton Flames\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

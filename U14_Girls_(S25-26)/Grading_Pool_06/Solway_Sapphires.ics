@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Sapphires Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:3192b686-a3be-44f6-ae4b-692539517b06
+UID:90f5a63c-8da6-4234-bee8-ae1c2266b3ca
 SEQUENCE:0
-DTSTAMP:20251009T171521
+DTSTAMP:20251010T171516
 DTSTART:20251011T161500
 DTEND:20251011T170000
 SUMMARY:🏀 U14 Girls: Solway Sapphires vs Maccabi Eagles
@@ -17,14 +17,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:de780fd7-a5f9-40d1-952a-99f277b24d99
+UID:1c8cf89a-6662-4076-ba22-24b139c5bd17
 SEQUENCE:0
-DTSTAMP:20251009T171521
+DTSTAMP:20251010T171516
+DTSTART:20251018T153000
+DTEND:20251018T161500
+SUMMARY:🏀 U14 Girls: Solway Sapphires vs Ashy Lightning White
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
+ ing White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:61fb8794-0420-4756-8773-1fa4e274a2e4
+SEQUENCE:0
+DTSTAMP:20251010T171516
 DTSTART:20251025T153000
 DTEND:20251025T161500
-SUMMARY:🏀 U14 Girls: Solway Sapphires vs Lauriston Leaders
+SUMMARY:🏀 U14 Girls: Solway Sapphires vs Glen Iris Scorpions Nettleton
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston L
- eaders\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
+ corpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

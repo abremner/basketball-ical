@@ -6,36 +6,25 @@ X-WR-CALNAME:Malvern Tigers Hill Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:80dbdd85-c946-474c-8978-ce215655e368
+UID:860349e8-01ae-484b-9fae-9d5779905a42
 SEQUENCE:0
-DTSTAMP:20251009T171521
+DTSTAMP:20251010T171515
 DTSTART:20251011T153000
 DTEND:20251011T161500
-SUMMARY:🏀 U14 Girls: Malvern Tigers Hill vs Lauriston Legends
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston L
- egends\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:172258ec-31ab-4ffa-823f-a74af1d72b82
-SEQUENCE:0
-DTSTAMP:20251009T171521
-DTSTART:20251018T161500
-DTEND:20251018T170000
 SUMMARY:🏀 U14 Girls: Malvern Tigers Hill vs Korowa Grey
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Korowa
-  Grey\nArrive 15 mins early for warm-up
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Korowa Grey
+ \nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4b34cdf1-9368-4cb3-9f4d-410fa13e4648
+UID:136a06ff-a641-443c-b03b-aa2ce7491e34
 SEQUENCE:0
-DTSTAMP:20251009T171521
-DTSTART:20251025T161500
-DTEND:20251025T170000
+DTSTAMP:20251010T171515
+DTSTART:20251025T153000
+DTEND:20251025T161500
 SUMMARY:🏀 U14 Girls: Malvern Tigers Hill vs Maccabi Eagles
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
-  Eagles\nArrive 15 mins early for warm-up
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Eag
+ les\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

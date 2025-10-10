@@ -6,25 +6,25 @@ X-WR-CALNAME:Timberwolves Sapphires Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:35ac2b32-a1f2-4e19-9c99-56d2d7dfc599
+UID:7d4add2f-f0ff-42e1-9a51-9b709df7f8cb
 SEQUENCE:0
-DTSTAMP:20251009T171521
-DTSTART:20251018T161500
-DTEND:20251018T170000
+DTSTAMP:20251010T171516
+DTSTART:20251018T153000
+DTEND:20251018T161500
+SUMMARY:🏀 U14 Girls: Timberwolves Sapphires vs Korowa Grey
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Korowa Grey
+ \nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:252887e4-c7a0-49de-9cf7-e9d124cf994b
+SEQUENCE:0
+DTSTAMP:20251010T171516
+DTSTART:20251025T161500
+DTEND:20251025T170000
 SUMMARY:🏀 U14 Girls: Timberwolves Sapphires vs Ashy Lightning White
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
  ghtning White\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:fd818951-c0f8-4655-b597-0843c910d277
-SEQUENCE:0
-DTSTAMP:20251009T171521
-DTSTART:20251025T153000
-DTEND:20251025T161500
-SUMMARY:🏀 U14 Girls: Timberwolves Sapphires vs Lauriston Legends
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston L
- egends\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

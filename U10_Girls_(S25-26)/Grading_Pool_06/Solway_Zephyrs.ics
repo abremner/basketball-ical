@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Zephyrs Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:a8c59697-e4cd-4d4c-ac98-d81b980a7afa
+UID:43ee7109-8661-47a7-8425-a09d7ab475f4
 SEQUENCE:0
-DTSTAMP:20251009T171330
+DTSTAMP:20251010T171325
 DTSTART:20251011T093000
 DTEND:20251011T101500
 SUMMARY:🏀 U10 Girls: Solway Zephyrs vs Malvern Tigers Smith
@@ -17,14 +17,25 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Smith\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:675d09e2-cdf6-4e00-a35e-4f405495d1e3
+UID:80656464-edcd-49b3-9676-65f9cfebdf32
 SEQUENCE:0
-DTSTAMP:20251009T171330
+DTSTAMP:20251010T171325
+DTSTART:20251018T093000
+DTEND:20251018T101500
+SUMMARY:🏀 U10 Girls: Solway Zephyrs vs Maccabi Falcons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Falcons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e0fd13f0-74ba-4cab-b343-bc999609c9d1
+SEQUENCE:0
+DTSTAMP:20251010T171325
 DTSTART:20251025T110000
 DTEND:20251025T114500
-SUMMARY:🏀 U10 Girls: Solway Zephyrs vs Korowa Grey
+SUMMARY:🏀 U10 Girls: Solway Zephyrs vs Maccabi Eagles
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Korowa Grey
- \nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Eag
+ les\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Eagles Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:856c7b51-3891-47b7-a274-65e978ee0016
+UID:81228fc4-3819-4e39-947d-2cdf33a9b19a
 SEQUENCE:0
-DTSTAMP:20251009T171520
+DTSTAMP:20251010T171515
 DTSTART:20251011T161500
 DTEND:20251011T170000
 SUMMARY:🏀 U14 Girls: Maccabi Eagles vs Solway Sapphires
@@ -17,25 +17,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Sapphires\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1fff4b02-d081-4068-bb80-fa31280fe676
+UID:888a9bbc-ea06-4764-a2d7-0e562e30b641
 SEQUENCE:0
-DTSTAMP:20251009T171520
-DTSTART:20251018T153000
-DTEND:20251018T161500
-SUMMARY:🏀 U14 Girls: Maccabi Eagles vs Lauriston Leaders
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston L
- eaders\nArrive 15 mins early for warm-up
+DTSTAMP:20251010T171515
+DTSTART:20251018T161500
+DTEND:20251018T170000
+SUMMARY:🏀 U14 Girls: Maccabi Eagles vs Glen Iris Scorpions Nettleton
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
+ is Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:819be6d8-5caa-4e13-b4f0-bac6d7d03f07
+UID:14bdc8f0-cee0-43f0-9bca-affd40e6c279
 SEQUENCE:0
-DTSTAMP:20251009T171520
-DTSTART:20251025T161500
-DTEND:20251025T170000
+DTSTAMP:20251010T171515
+DTSTART:20251025T153000
+DTEND:20251025T161500
 SUMMARY:🏀 U14 Girls: Maccabi Eagles vs Malvern Tigers Hill
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
-  Tigers Hill\nArrive 15 mins early for warm-up
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Hill\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

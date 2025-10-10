@@ -6,36 +6,25 @@ X-WR-CALNAME:Korowa Grey Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f4f9d0b4-5ad6-43b1-95c1-77fb6023c495
+UID:3325d429-1665-4aee-ac33-6175de2a6872
 SEQUENCE:0
-DTSTAMP:20251009T171519
+DTSTAMP:20251010T171514
 DTSTART:20251011T153000
 DTEND:20251011T161500
-SUMMARY:🏀 U14 Girls: Korowa Grey vs Lauriston Leaders
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston L
- eaders\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:a96699bc-cb7b-4ea2-a99e-384b7e032c7d
-SEQUENCE:0
-DTSTAMP:20251009T171519
-DTSTART:20251018T161500
-DTEND:20251018T170000
 SUMMARY:🏀 U14 Girls: Korowa Grey vs Malvern Tigers Hill
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
- n Tigers Hill\nArrive 15 mins early for warm-up
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Hill\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0f137bef-38f1-42bc-9c7b-d8a4bb2655e1
+UID:18f603a3-7f31-4688-9b9e-07e8ef2b9828
 SEQUENCE:0
-DTSTAMP:20251009T171519
-DTSTART:20251025T161500
-DTEND:20251025T170000
-SUMMARY:🏀 U14 Girls: Korowa Grey vs Glen Iris Scorpions Nettleton
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
- ris Scorpions Nettleton\nArrive 15 mins early for warm-up
+DTSTAMP:20251010T171514
+DTSTART:20251018T153000
+DTEND:20251018T161500
+SUMMARY:🏀 U14 Girls: Korowa Grey vs Timberwolves Sapphires
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Timberwolve
+ s Sapphires\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Falcons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2d4c83e0-e69a-49fd-b51d-95f3426dd517
+UID:2393f100-5eb7-420b-91a0-1b3577da59d5
 SEQUENCE:0
-DTSTAMP:20251009T171329
+DTSTAMP:20251010T171324
 DTSTART:20251011T110000
 DTEND:20251011T114500
 SUMMARY:🏀 U10 Girls: Maccabi Falcons vs Maccabi Eagles
@@ -17,25 +17,14 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Eag
  les\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:68150186-f6f8-4cf8-b440-5a167b3e5cb3
+UID:d9bb0f61-8ea5-4620-976d-300dc69e9dbd
 SEQUENCE:0
-DTSTAMP:20251009T171329
-DTSTART:20251018T110000
-DTEND:20251018T114500
-SUMMARY:🏀 U10 Girls: Maccabi Falcons vs Malvern Tigers Smith
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
- ers Smith\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:dbaa5cb7-ae3e-48b6-b5d5-b044fcf257f8
-SEQUENCE:0
-DTSTAMP:20251009T171329
-DTSTART:20251025T093000
-DTEND:20251025T101500
-SUMMARY:🏀 U10 Girls: Maccabi Falcons vs Timberwolves Hornets
+DTSTAMP:20251010T171324
+DTSTART:20251018T093000
+DTEND:20251018T101500
+SUMMARY:🏀 U10 Girls: Maccabi Falcons vs Solway Zephyrs
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
- wolves Hornets\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Zephyrs\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR
