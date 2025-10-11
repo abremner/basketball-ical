@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Tornadoes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:5d3fdf6d-8f70-4892-a274-11f58925b76c
+UID:3a01934e-432b-4030-accb-328e3ca9b730
 SEQUENCE:0
-DTSTAMP:20251010T171530
-DTSTART:20251011T174500
-DTEND:20251011T183000
-SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Timberwolves Boulders
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
- wolves Boulders\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:7d516cf2-b742-447e-8632-53a631d0ae06
-SEQUENCE:0
-DTSTAMP:20251010T171530
+DTSTAMP:20251011T171303
 DTSTART:20251018T174500
 DTEND:20251018T183000
 SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Solway Storm
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Storm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c4086a47-a847-44c3-894d-3d462b19a37b
+UID:c3e86683-8d99-4275-93b7-3078ae74b4aa
 SEQUENCE:0
-DTSTAMP:20251010T171530
+DTSTAMP:20251011T171303
 DTSTART:20251025T183000
 DTEND:20251025T191500
 SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs Fawkner Park Piranhas

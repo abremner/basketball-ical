@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Tropics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:782740e3-2299-4b20-84d6-bcbd1edbd65f
+UID:666b7a00-67b3-408b-95fb-9a3f3910e7e8
 SEQUENCE:0
-DTSTAMP:20251010T171520
-DTSTART:20251011T183000
-DTEND:20251011T191500
-SUMMARY:🏀 U16 Boys: Toorak Tropics vs AUBD United
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: AUBD U
- nited\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:0d7011e4-ce7a-4e99-a4db-39cb21864b5b
-SEQUENCE:0
-DTSTAMP:20251010T171520
+DTSTAMP:20251011T171254
 DTSTART:20251018T191500
 DTEND:20251018T200000
 SUMMARY:🏀 U16 Boys: Toorak Tropics vs Timberwolves United
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves United\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:30c5c10b-77e9-4216-82d6-a302b32429e5
+UID:7784d1ac-1a51-42b1-8bf6-adeb0b3cfd34
 SEQUENCE:0
-DTSTAMP:20251010T171520
+DTSTAMP:20251011T171254
 DTSTART:20251025T183000
 DTEND:20251025T191500
 SUMMARY:🏀 U16 Boys: Toorak Tropics vs Bayside Piranhas

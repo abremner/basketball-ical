@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Tyrants Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:5041c867-53c6-4e97-87c2-448e86159e97
+UID:2466ac63-2115-46a3-a2b8-9f22636e7474
 SEQUENCE:0
-DTSTAMP:20251010T171530
-DTSTART:20251011T191500
-DTEND:20251011T200000
-SUMMARY:🏀 U16 Boys: Toorak Tyrants vs Maccabi Bucks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
- i Bucks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:626f09f2-1442-4415-b89f-6ef5779bbfd4
-SEQUENCE:0
-DTSTAMP:20251010T171530
+DTSTAMP:20251011T171303
 DTSTART:20251018T183000
 DTEND:20251018T191500
 SUMMARY:🏀 U16 Boys: Toorak Tyrants vs Timberwolves Boulders
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Boulders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5cc3bc2f-7fec-44ca-afa3-7f8ece906b28
+UID:9406c005-174f-43da-87a9-7f3ff4629c4e
 SEQUENCE:0
-DTSTAMP:20251010T171530
+DTSTAMP:20251011T171303
 DTSTART:20251025T174500
 DTEND:20251025T183000
 SUMMARY:🏀 U16 Boys: Toorak Tyrants vs Solway Storm

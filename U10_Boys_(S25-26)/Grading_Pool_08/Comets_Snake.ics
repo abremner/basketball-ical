@@ -6,20 +6,9 @@ X-WR-CALNAME:Comets Snake Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:7a34b041-d425-4bec-9099-c6a1df9d617d
+UID:98be6ea1-feb4-49c5-9671-7868b81b350b
 SEQUENCE:0
-DTSTAMP:20251010T171250
-DTSTART:20251011T080000
-DTEND:20251011T084500
-SUMMARY:🏀 U10 Boys: Comets Snake vs Ashy Lightning Yellow
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
- ightning Yellow\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:30a7203b-064b-4b0f-8e0f-864de835ec15
-SEQUENCE:0
-DTSTAMP:20251010T171250
+DTSTAMP:20251011T171030
 DTSTART:20251018T080000
 DTEND:20251018T084500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Malvern Tigers Purple
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Purple\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cc046a46-33a5-474b-b830-f06e453fa4ed
+UID:37f880c7-875c-4042-85ec-a6cc9f81d954
 SEQUENCE:0
-DTSTAMP:20251010T171250
+DTSTAMP:20251011T171030
 DTSTART:20251025T084500
 DTEND:20251025T093000
 SUMMARY:🏀 U10 Boys: Comets Snake vs Toorak Tigersharks

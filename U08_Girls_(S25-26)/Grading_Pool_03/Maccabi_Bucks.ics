@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:4b822ac4-e462-4d61-aa5f-f68280b80d0f
+UID:c5b13cbf-df22-46d8-aa2c-7e27d6b9849c
 SEQUENCE:0
-DTSTAMP:20251010T171222
-DTSTART:20251011T093000
-DTEND:20251011T101500
-SUMMARY:🏀 U08 Girls: Maccabi Bucks vs Flowerdale Piranhas
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Flowerdale 
- Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:c92d5248-9e60-4fa8-8d29-8d1c5dc3ccb4
-SEQUENCE:0
-DTSTAMP:20251010T171222
+DTSTAMP:20251011T171003
 DTSTART:20251018T084500
 DTEND:20251018T093000
 SUMMARY:🏀 U08 Girls: Maccabi Bucks vs Warley Piranhas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Warley Pira
  nhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2680bc27-b129-4191-875f-ee6b7d46547b
+UID:316ca1b2-8efc-4488-a811-56709318778a
 SEQUENCE:0
-DTSTAMP:20251010T171222
+DTSTAMP:20251011T171003
 DTSTART:20251025T101500
 DTEND:20251025T110000
 SUMMARY:🏀 U08 Girls: Maccabi Bucks vs Harleston Park Piranhas

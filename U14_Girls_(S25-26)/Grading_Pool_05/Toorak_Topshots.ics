@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Topshots Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:1f637b91-5363-4363-8374-d68f78b69717
+UID:47dab333-6207-474e-8456-40391d1b69f8
 SEQUENCE:0
-DTSTAMP:20251010T171513
-DTSTART:20251011T153000
-DTEND:20251011T161500
-SUMMARY:🏀 U14 Girls: Toorak Topshots vs Ashy Lightning Yellow
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
- ghtning Yellow\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:63fd49dd-e93c-46c9-95b9-9009a28cc18b
-SEQUENCE:0
-DTSTAMP:20251010T171513
+DTSTAMP:20251011T171246
 DTSTART:20251018T161500
 DTEND:20251018T170000
 SUMMARY:🏀 U14 Girls: Toorak Topshots vs Maccabi Celtics
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Cel
  tics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8c4ede40-ab48-4b7f-91be-5969e9ccf219
+UID:f96e2c42-bc1e-4f5a-9629-4252d4b220a0
 SEQUENCE:0
-DTSTAMP:20251010T171513
+DTSTAMP:20251011T171246
 DTSTART:20251025T161500
 DTEND:20251025T170000
 SUMMARY:🏀 U14 Girls: Toorak Topshots vs Lauriston Legacy

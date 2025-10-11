@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Eagles Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:245b7fc6-3cc2-4ab1-840b-2c8c5154a511
+UID:1bad96a2-3e65-4de2-bff9-04b1faca1ada
 SEQUENCE:0
-DTSTAMP:20251010T171246
-DTSTART:20251011T084500
-DTEND:20251011T093000
-SUMMARY:🏀 U10 Boys: Maccabi Eagles vs Solway Bucks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
-  Bucks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:d97cc68d-7d3f-4325-a845-6e962a8daf56
-SEQUENCE:0
-DTSTAMP:20251010T171246
+DTSTAMP:20251011T171026
 DTSTART:20251018T080000
 DTEND:20251018T084500
 SUMMARY:🏀 U10 Boys: Maccabi Eagles vs Timberwolves Lightning
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:16240baf-15ab-48cc-bd76-9780f1a606db
+UID:c3621529-bce7-420c-897d-d2c3f68c6eac
 SEQUENCE:0
-DTSTAMP:20251010T171246
+DTSTAMP:20251011T171026
 DTSTART:20251025T084500
 DTEND:20251025T093000
 SUMMARY:🏀 U10 Boys: Maccabi Eagles vs Solway Grizzlies

@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Haifa Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9c5797a0-8a27-4a9b-b888-725c4495185a
+UID:dd70ebe2-e083-4f07-b469-584f9374bd69
 SEQUENCE:0
-DTSTAMP:20251010T171532
-DTSTART:20251011T183000
-DTEND:20251011T191500
-SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Glen Iris Scorpions Saints
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
- ris Scorpions Saints\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:4c855d43-d8d7-4bce-8028-a29c0ba2bb6d
-SEQUENCE:0
-DTSTAMP:20251010T171532
+DTSTAMP:20251011T171305
 DTSTART:20251018T183000
 DTEND:20251018T191500
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Solway Slammers
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Slammers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a29967d8-f9f8-4090-9a90-ace49f993bfc
+UID:3b9d55b5-c1bf-4f0d-85f3-4d31cad1e30c
 SEQUENCE:0
-DTSTAMP:20251010T171532
+DTSTAMP:20251011T171305
 DTSTART:20251025T191500
 DTEND:20251025T200000
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Glen Iris Scorpions Sixers

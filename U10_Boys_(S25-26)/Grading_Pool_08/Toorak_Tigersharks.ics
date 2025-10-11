@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Tigersharks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:131db77b-2627-4dc6-881f-c6ec12297945
+UID:439cfb99-72a6-4870-af27-64e48d791ab1
 SEQUENCE:0
-DTSTAMP:20251010T171252
-DTSTART:20251011T110000
-DTEND:20251011T114500
-SUMMARY:🏀 U10 Boys: Toorak Tigersharks vs Solway Hornets
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
-  Hornets\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:d9e600a5-f269-443a-a3da-e493aa0b1da5
-SEQUENCE:0
-DTSTAMP:20251010T171252
+DTSTAMP:20251011T171032
 DTSTART:20251018T110000
 DTEND:20251018T114500
 SUMMARY:🏀 U10 Boys: Toorak Tigersharks vs Maccabi Falcons
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8daf2b40-010c-4c35-bb5f-1916b3195868
+UID:50c6e860-a636-4859-8541-206373414c13
 SEQUENCE:0
-DTSTAMP:20251010T171252
+DTSTAMP:20251011T171032
 DTSTART:20251025T084500
 DTEND:20251025T093000
 SUMMARY:🏀 U10 Boys: Toorak Tigersharks vs Comets Snake
