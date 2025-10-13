@@ -6,9 +6,9 @@ X-WR-CALNAME:Warrawee Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:6bbea4aa-ed9f-4df6-a09d-d475aeef6780
+UID:e7855057-2240-4f99-b270-ab68b3de923c
 SEQUENCE:0
-DTSTAMP:20251012T171131
+DTSTAMP:20251013T171328
 DTSTART:20251018T123000
 DTEND:20251018T131500
 SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Ashy Lightning Yellow
@@ -17,14 +17,36 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
  ightning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:aa4a5911-7757-43fa-ae71-c25bf33047d3
+UID:245a5dde-3032-4062-a29e-1909a22b0af5
 SEQUENCE:0
-DTSTAMP:20251012T171131
+DTSTAMP:20251013T171328
 DTSTART:20251025T140000
 DTEND:20251025T144500
 SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Golden Hawks Iron
 LOCATION:ASB1
 DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Golden Hawks Iron\nArrive 15 
  mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8e580002-a863-495d-a731-9f973a655896
+SEQUENCE:0
+DTSTAMP:20251013T171328
+DTSTART:20251101T123000
+DTEND:20251101T131500
+SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Golden Hawks Rising
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Golden 
+ Hawks Rising\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3470629d-8bae-422d-bc73-6e96c4ee3b34
+SEQUENCE:0
+DTSTAMP:20251013T171328
+DTSTART:20251109T164500
+DTEND:20251109T173000
+SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Maccabi Mavericks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Mavericks\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,9 +6,9 @@ X-WR-CALNAME:Glen Iris Scorpions Nettleton Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:476644db-f1b5-4e9a-af32-c65ddb88ba40
+UID:a416eea8-e0d5-447a-b850-b214908fb28e
 SEQUENCE:0
-DTSTAMP:20251012T171033
+DTSTAMP:20251013T171227
 DTSTART:20251018T101500
 DTEND:20251018T110000
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Nettleton vs AlphaWolf Kings
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
  olf Kings\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c0e2d711-85ce-4c22-b8d7-f2deae1f053f
+UID:9176ea11-8ca2-489c-a860-5f5df0887edd
 SEQUENCE:0
-DTSTAMP:20251012T171033
+DTSTAMP:20251013T171227
 DTSTART:20251025T084500
 DTEND:20251025T093000
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Nettleton vs Orrong Park Piranh
@@ -27,5 +27,28 @@ SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Nettleton vs Orrong Park Piranh
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Orrong
   Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3f8c991b-81de-4c77-983c-19e96289d937
+SEQUENCE:0
+DTSTAMP:20251013T171227
+DTSTART:20251101T093000
+DTEND:20251101T101500
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Nettleton vs Solway Bulls
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Bulls\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:20f5873b-118a-4688-bb64-e951ce7da0a1
+SEQUENCE:0
+DTSTAMP:20251013T171227
+DTSTART:20251109T160000
+DTEND:20251109T164500
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Nettleton vs Malvern Tigers Blu
+ e
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Blue\nArrive 1
+ 5 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

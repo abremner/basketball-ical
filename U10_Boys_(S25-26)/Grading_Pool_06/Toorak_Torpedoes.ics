@@ -6,9 +6,9 @@ X-WR-CALNAME:Toorak Torpedoes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:40b3edb5-0a63-4e2c-87f0-7fcffa260995
+UID:9e8b94a1-89ab-4bc4-861f-b1932003e0da
 SEQUENCE:0
-DTSTAMP:20251012T171035
+DTSTAMP:20251013T171229
 DTSTART:20251018T084500
 DTEND:20251018T093000
 SUMMARY:🏀 U10 Boys: Toorak Torpedoes vs Solway Nets
@@ -17,14 +17,36 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Nets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:94255823-566a-4167-ba68-91d8b308cc29
+UID:3e45457f-c722-4e15-a512-2696d17e8751
 SEQUENCE:0
-DTSTAMP:20251012T171035
+DTSTAMP:20251013T171229
 DTSTART:20251025T093000
 DTEND:20251025T101500
 SUMMARY:🏀 U10 Boys: Toorak Torpedoes vs AlphaWolf Kings
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AlphaW
  olf Kings\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c0a66d41-70aa-4f7e-9318-8fdcbeea3273
+SEQUENCE:0
+DTSTAMP:20251013T171229
+DTSTART:20251102T160000
+DTEND:20251102T164500
+SUMMARY:🏀 U10 Boys: Toorak Torpedoes vs Orrong Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Orrong
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6d96c057-f187-4945-bb1c-cf7628f79264
+SEQUENCE:0
+DTSTAMP:20251013T171229
+DTSTART:20251108T084500
+DTEND:20251108T093000
+SUMMARY:🏀 U10 Boys: Toorak Torpedoes vs Solway Bulls
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Bulls\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

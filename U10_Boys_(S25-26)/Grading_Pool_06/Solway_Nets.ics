@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Nets Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:a7209c17-e7ea-4f1f-bb7f-fab09d27a176
+UID:41392555-d585-4b34-a1db-54388f697d31
 SEQUENCE:0
-DTSTAMP:20251012T171035
+DTSTAMP:20251013T171228
 DTSTART:20251018T084500
 DTEND:20251018T093000
 SUMMARY:🏀 U10 Boys: Solway Nets vs Toorak Torpedoes
@@ -17,14 +17,36 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
   Torpedoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:357a8c99-6472-4870-a3bd-c4a20099f5fd
+UID:2e0c42db-0ee4-4ee1-81de-0b66d5a9081c
 SEQUENCE:0
-DTSTAMP:20251012T171035
-DTSTART:20251025T101500
-DTEND:20251025T110000
+DTSTAMP:20251013T171228
+DTSTART:20251026T160000
+DTEND:20251026T164500
 SUMMARY:🏀 U10 Boys: Solway Nets vs Maccabi Ducks
-LOCATION:DLS1
-DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Ducks\nArrive 15 mins
-  early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c0f652d8-aa1f-4b58-85a7-77a457246081
+SEQUENCE:0
+DTSTAMP:20251013T171228
+DTSTART:20251101T084500
+DTEND:20251101T093000
+SUMMARY:🏀 U10 Boys: Solway Nets vs Malvern Tigers Blue
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7d76b66f-fa3f-42fe-86e0-e3969a9c9b09
+SEQUENCE:0
+DTSTAMP:20251013T171228
+DTSTART:20251108T093000
+DTEND:20251108T101500
+SUMMARY:🏀 U10 Boys: Solway Nets vs AlphaWolf Kings
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AlphaW
+ olf Kings\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

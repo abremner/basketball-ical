@@ -6,9 +6,9 @@ X-WR-CALNAME:Golden Hawks Iron Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:07556244-0298-4b26-9f67-ddd37d06d057
+UID:013975ba-abda-4be0-95aa-7d9d8e37c11b
 SEQUENCE:0
-DTSTAMP:20251012T171129
+DTSTAMP:20251013T171325
 DTSTART:20251018T123000
 DTEND:20251018T131500
 SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Maccabi Mavericks
@@ -17,14 +17,36 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Mavericks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b88c5805-b38c-4ebe-8921-e17cd443cadc
+UID:b8c1f0da-9f5a-486c-889e-f0a001034fd6
 SEQUENCE:0
-DTSTAMP:20251012T171129
+DTSTAMP:20251013T171325
 DTSTART:20251025T140000
 DTEND:20251025T144500
 SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Warrawee Piranhas
 LOCATION:ASB1
 DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Warrawee Piranhas\nArrive 15 
  mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9de259cc-9cdb-4885-bde6-5cd9ecedc136
+SEQUENCE:0
+DTSTAMP:20251013T171325
+DTSTART:20251101T123000
+DTEND:20251101T131500
+SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Malvern Tigers Maroon
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Maroon\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1698c5f2-a2e7-433c-ad22-b4e93887a5b7
+SEQUENCE:0
+DTSTAMP:20251013T171325
+DTSTART:20251108T123000
+DTEND:20251108T131500
+SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Toorak Trouble
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Trouble\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

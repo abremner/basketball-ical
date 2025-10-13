@@ -6,9 +6,9 @@ X-WR-CALNAME:AlphaWolf Kings Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:30f18ca3-f612-4556-8e8b-841a8b6653b7
+UID:2d93ecf6-a4e3-42d2-a9b6-cae0ba525757
 SEQUENCE:0
-DTSTAMP:20251012T171033
+DTSTAMP:20251013T171226
 DTSTART:20251018T101500
 DTEND:20251018T110000
 SUMMARY:🏀 U10 Boys: AlphaWolf Kings vs Glen Iris Scorpions Nettleton
@@ -17,14 +17,36 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f78aa32b-ed95-4366-97a7-d4d534fe7aa6
+UID:f302c6f3-7447-470b-9866-ed7ad9b5de6e
 SEQUENCE:0
-DTSTAMP:20251012T171033
+DTSTAMP:20251013T171226
 DTSTART:20251025T093000
 DTEND:20251025T101500
 SUMMARY:🏀 U10 Boys: AlphaWolf Kings vs Toorak Torpedoes
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Torpedoes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c1485056-c257-401f-8f7b-1620f47c8d8f
+SEQUENCE:0
+DTSTAMP:20251013T171226
+DTSTART:20251101T101500
+DTEND:20251101T110000
+SUMMARY:🏀 U10 Boys: AlphaWolf Kings vs Maccabi Ducks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c28f9bbd-5b89-4b37-a062-b263f950979e
+SEQUENCE:0
+DTSTAMP:20251013T171226
+DTSTART:20251108T093000
+DTEND:20251108T101500
+SUMMARY:🏀 U10 Boys: AlphaWolf Kings vs Solway Nets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Nets\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

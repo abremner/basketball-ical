@@ -6,9 +6,9 @@ X-WR-CALNAME:Toorak Tycoons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:3f577345-23ef-4e57-93ac-423fa17dcf17
+UID:8d124f88-2e6a-4f4c-9d63-fd51d0b91a5b
 SEQUENCE:0
-DTSTAMP:20251012T171044
+DTSTAMP:20251013T171239
 DTSTART:20251018T101500
 DTEND:20251018T110000
 SUMMARY:🏀 U10 Boys: Toorak Tycoons vs AlphaWolf Tigers
@@ -17,14 +17,14 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: AlphaWolf Tigers\nArrive 15 m
  ins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:792c3a8d-f342-4db8-b5bf-99682e17c861
+UID:dfd94b1a-8b64-4adf-96db-39c73536ea2b
 SEQUENCE:0
-DTSTAMP:20251012T171044
-DTSTART:20251025T110000
-DTEND:20251025T114500
+DTSTAMP:20251013T171239
+DTSTART:20251026T160000
+DTEND:20251026T164500
 SUMMARY:🏀 U10 Boys: Toorak Tycoons vs Hawksburn Piranhas
-LOCATION:DLS1
-DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Hawksburn Piranhas\nArrive 15
-  mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Hawksb
+ urn Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

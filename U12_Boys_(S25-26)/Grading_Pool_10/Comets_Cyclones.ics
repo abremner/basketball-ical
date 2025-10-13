@@ -6,9 +6,9 @@ X-WR-CALNAME:Comets Cyclones Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:04986f02-1b7e-48f8-951e-23bfad68288a
+UID:12b284f1-6581-411c-a08b-86d0d00fa9d0
 SEQUENCE:0
-DTSTAMP:20251012T171132
+DTSTAMP:20251013T171329
 DTSTART:20251018T123000
 DTEND:20251018T131500
 SUMMARY:🏀 U12 Boys: Comets Cyclones vs Stonnington Piranhas
@@ -17,36 +17,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Stonnin
  gton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0c8dc259-35ae-40ff-a80e-88c43aeb2d3b
+UID:11590910-43bc-4fb8-b75f-e2c553c5a6f4
 SEQUENCE:0
-DTSTAMP:20251012T171132
-DTSTART:20251025T123000
-DTEND:20251025T131500
+DTSTAMP:20251013T171329
+DTSTART:20251026T164500
+DTEND:20251026T173000
 SUMMARY:🏀 U12 Boys: Comets Cyclones vs Timberwolves Suns
-LOCATION:DLS1
-DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Timberwolves Suns\nArrive 15 
- mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:6e385858-7ad8-45b9-96e6-9a3c4f3ccb5a
-SEQUENCE:0
-DTSTAMP:20251012T171132
-DTSTART:20251101T123000
-DTEND:20251101T131500
-SUMMARY:🏀 U12 Boys: Comets Cyclones vs Malvern Tigers Grey
-LOCATION:DLS1
-DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Grey\nArrive 1
- 5 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:462db375-0f0a-4388-827d-3424b4ba9745
-SEQUENCE:0
-DTSTAMP:20251012T171132
-DTSTART:20251108T123000
-DTEND:20251108T131500
-SUMMARY:🏀 U12 Boys: Comets Cyclones vs Ardrie Park Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ardrie 
- Park Piranhas\nArrive 15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Suns\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,9 +6,9 @@ X-WR-CALNAME:Stonnington Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:505ed649-6520-45c0-9ff8-94e450085f54
+UID:34768186-33f4-4606-b82c-bc477e4f0009
 SEQUENCE:0
-DTSTAMP:20251012T171134
+DTSTAMP:20251013T171331
 DTSTART:20251018T123000
 DTEND:20251018T131500
 SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Comets Cyclones
@@ -17,36 +17,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Comets
  Cyclones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0bda865c-40d5-42c5-8bc5-088cf3eed3b9
+UID:8ca821d4-e2f9-48e9-bd5d-0f8eaed89c76
 SEQUENCE:0
-DTSTAMP:20251012T171134
+DTSTAMP:20251013T171331
 DTSTART:20251025T131500
 DTEND:20251025T140000
 SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Malvern Tigers Grey
 LOCATION:ASB1
 DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Grey\nArrive 1
  5 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:8b4b696c-1d82-4563-84cc-9d4df8cfa221
-SEQUENCE:0
-DTSTAMP:20251012T171134
-DTSTART:20251101T123000
-DTEND:20251101T131500
-SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Solway Dingoes
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
-  Dingoes\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:132b784d-5b16-47df-b2f4-303715d03db8
-SEQUENCE:0
-DTSTAMP:20251012T171134
-DTSTART:20251108T131500
-DTEND:20251108T140000
-SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Comets Tigers
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Comets Tigers\nArrive 15 mins
-  early for warm-up
 END:VEVENT
 END:VCALENDAR

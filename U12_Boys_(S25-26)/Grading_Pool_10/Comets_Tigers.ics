@@ -6,36 +6,14 @@ X-WR-CALNAME:Comets Tigers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9c1c45ee-6022-447e-8874-7cf8a3b00462
+UID:a82be354-de76-4b75-be7d-f264495a1d58
 SEQUENCE:0
-DTSTAMP:20251012T171133
+DTSTAMP:20251013T171329
 DTSTART:20251018T123000
 DTEND:20251018T131500
 SUMMARY:🏀 U12 Boys: Comets Tigers vs Solway Dingoes
 LOCATION:DLS1
 DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Solway Dingoes\nArrive 15 min
  s early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:65ad46d8-a241-4308-85ed-b5d3bee612a8
-SEQUENCE:0
-DTSTAMP:20251012T171133
-DTSTART:20251101T123000
-DTEND:20251101T131500
-SUMMARY:🏀 U12 Boys: Comets Tigers vs Toorak Thunder
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Toorak 
- Thunder\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:bc03d6fb-079c-480c-b4cb-e762fc6f31fd
-SEQUENCE:0
-DTSTAMP:20251012T171133
-DTSTART:20251108T131500
-DTEND:20251108T140000
-SUMMARY:🏀 U12 Boys: Comets Tigers vs Stonnington Piranhas
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Stonnington Piranhas\nArrive 
- 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

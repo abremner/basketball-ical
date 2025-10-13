@@ -6,9 +6,9 @@ X-WR-CALNAME:Ashy Lightning Yellow Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:ea0524ba-3370-409e-979a-31048c3ee3d3
+UID:5ae1dd62-32af-4597-9bd6-d93117eee1a5
 SEQUENCE:0
-DTSTAMP:20251012T171128
+DTSTAMP:20251013T171325
 DTSTART:20251018T123000
 DTEND:20251018T131500
 SUMMARY:🏀 U12 Boys: Ashy Lightning Yellow vs Warrawee Piranhas
@@ -17,14 +17,37 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Warraw
  ee Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:baedcead-8cd6-4873-8811-42ac8e9e02b6
+UID:c7c00e18-f334-403b-9580-d8050be68ac1
 SEQUENCE:0
-DTSTAMP:20251012T171128
+DTSTAMP:20251013T171325
 DTSTART:20251025T123000
 DTEND:20251025T131500
 SUMMARY:🏀 U12 Boys: Ashy Lightning Yellow vs Malvern Tigers Maroon
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Maroon\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:04affd3a-1562-46cb-b94b-4abd95375fd2
+SEQUENCE:0
+DTSTAMP:20251013T171325
+DTSTART:20251101T140000
+DTEND:20251101T144500
+SUMMARY:🏀 U12 Boys: Ashy Lightning Yellow vs Toorak Trouble
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Toorak Trouble\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b8419c4d-9f21-42d9-9883-d27678595b87
+SEQUENCE:0
+DTSTAMP:20251013T171325
+DTSTART:20251108T123000
+DTEND:20251108T131500
+SUMMARY:🏀 U12 Boys: Ashy Lightning Yellow vs Glen Iris Scorpions Nettle
+ ton
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
+ is Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

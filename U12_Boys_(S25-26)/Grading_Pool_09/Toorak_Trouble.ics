@@ -6,9 +6,9 @@ X-WR-CALNAME:Toorak Trouble Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:bfbfdb7b-4c16-441b-ab68-16a6a0101f2c
+UID:17a2f73d-8745-41aa-91eb-9bd7f0631d58
 SEQUENCE:0
-DTSTAMP:20251012T171131
+DTSTAMP:20251013T171327
 DTSTART:20251018T131500
 DTEND:20251018T140000
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Glen Iris Scorpions Nettleton
@@ -17,14 +17,36 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Glen Iris Scorpions Nettleton
  \nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3457afd1-7ef0-4f1b-bbc0-2ec14d93e679
+UID:5f2d2e11-a99b-4c65-a443-c7cf9b4a945f
 SEQUENCE:0
-DTSTAMP:20251012T171131
+DTSTAMP:20251013T171327
 DTSTART:20251025T123000
 DTEND:20251025T131500
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Maccabi Lakers
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Lakers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ba3e8d09-3f67-4022-9682-baba13b57eaa
+SEQUENCE:0
+DTSTAMP:20251013T171327
+DTSTART:20251101T140000
+DTEND:20251101T144500
+SUMMARY:🏀 U12 Boys: Toorak Trouble vs Ashy Lightning Yellow
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Ashy Lightning Yellow\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0bc5e56d-4ace-429b-98ca-4dbe0b3f85ec
+SEQUENCE:0
+DTSTAMP:20251013T171327
+DTSTART:20251108T123000
+DTEND:20251108T131500
+SUMMARY:🏀 U12 Boys: Toorak Trouble vs Golden Hawks Iron
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Golden
+  Hawks Iron\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Kings Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:a5b51361-d820-4bb1-b7b5-5cf3e513314a
+UID:7179825d-6ecc-4878-a5a6-f036e022b29f
 SEQUENCE:0
-DTSTAMP:20251012T171049
+DTSTAMP:20251013T171244
 DTSTART:20251018T080000
 DTEND:20251018T084500
 SUMMARY:🏀 U10 Boys: Maccabi Kings vs Heyington Piranhas
@@ -17,14 +17,14 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Heying
  ton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:625d290c-6aec-4a3f-a916-8b78e2545586
+UID:d73ab78a-f99c-474e-9a62-80fc639aa82a
 SEQUENCE:0
-DTSTAMP:20251012T171049
-DTSTART:20251025T093000
-DTEND:20251025T101500
+DTSTAMP:20251013T171244
+DTSTART:20251026T160000
+DTEND:20251026T164500
 SUMMARY:🏀 U10 Boys: Maccabi Kings vs Malvern Tigers Lime
-LOCATION:DLS1
-DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Lime\nArrive 1
- 5 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Lime\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

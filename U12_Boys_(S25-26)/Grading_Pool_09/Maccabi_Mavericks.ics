@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Mavericks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:7923ea20-a878-4d7f-84b3-cd252c4f05f8
+UID:67168be1-b2f4-476d-8233-8c14c241d7d7
 SEQUENCE:0
-DTSTAMP:20251012T171130
+DTSTAMP:20251013T171327
 DTSTART:20251018T123000
 DTEND:20251018T131500
 SUMMARY:🏀 U12 Boys: Maccabi Mavericks vs Golden Hawks Iron
@@ -17,14 +17,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Golden
  Hawks Iron\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b20f214c-4d7e-4f81-8cc4-b25b6eb5854f
+UID:41d1fc0d-12fc-4159-877f-0e38020e400b
 SEQUENCE:0
-DTSTAMP:20251012T171130
-DTSTART:20251025T131500
-DTEND:20251025T140000
+DTSTAMP:20251013T171327
+DTSTART:20251026T164500
+DTEND:20251026T173000
 SUMMARY:🏀 U12 Boys: Maccabi Mavericks vs Golden Hawks Rising
-LOCATION:DLS1
-DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Golden Hawks Rising\nArrive 1
- 5 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Golden
+  Hawks Rising\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1f2874ca-4596-453f-ada6-d09e9386ae49
+SEQUENCE:0
+DTSTAMP:20251013T171327
+DTSTART:20251109T164500
+DTEND:20251109T173000
+SUMMARY:🏀 U12 Boys: Maccabi Mavericks vs Warrawee Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Warraw
+ ee Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

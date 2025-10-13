@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Maroon Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:66efe716-50b3-4cf9-a5b2-7d19c8b60892
+UID:f5daf4c0-310a-4097-99ea-6d145caa63bf
 SEQUENCE:0
-DTSTAMP:20251012T171130
+DTSTAMP:20251013T171327
 DTSTART:20251018T140000
 DTEND:20251018T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Maroon vs Maccabi Lakers
@@ -17,14 +17,36 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Lakers\nArrive 15 min
  s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b57aac43-7c55-4984-90ee-5d8bae51d6c5
+UID:3bd0657d-468f-4552-9a0e-659b07212f0d
 SEQUENCE:0
-DTSTAMP:20251012T171130
+DTSTAMP:20251013T171327
 DTSTART:20251025T123000
 DTEND:20251025T131500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Maroon vs Ashy Lightning Yellow
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
  ightning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:10222042-ec7d-4095-9c64-b34e35f1efcd
+SEQUENCE:0
+DTSTAMP:20251013T171327
+DTSTART:20251101T123000
+DTEND:20251101T131500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Maroon vs Golden Hawks Iron
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Golden
+  Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0bcd5ee2-615a-4632-9ebd-d81a7bb26cb6
+SEQUENCE:0
+DTSTAMP:20251013T171327
+DTSTART:20251108T140000
+DTEND:20251108T144500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Maroon vs Golden Hawks Rising
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Golden Hawks Rising\nArrive 1
+ 5 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

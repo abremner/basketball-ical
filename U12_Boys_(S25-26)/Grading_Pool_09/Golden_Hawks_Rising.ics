@@ -6,14 +6,36 @@ X-WR-CALNAME:Golden Hawks Rising Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b42d55f1-b678-4359-ba50-57222e3c83a0
+UID:cfcb022d-3df5-4b0c-8ee8-1ea1080722ed
 SEQUENCE:0
-DTSTAMP:20251012T171129
-DTSTART:20251025T131500
-DTEND:20251025T140000
+DTSTAMP:20251013T171326
+DTSTART:20251026T164500
+DTEND:20251026T173000
 SUMMARY:🏀 U12 Boys: Golden Hawks Rising vs Maccabi Mavericks
-LOCATION:DLS1
-DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Mavericks\nArrive 15 
- mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Mavericks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:10b07d5e-0d27-4e7a-af2a-145ff379f452
+SEQUENCE:0
+DTSTAMP:20251013T171326
+DTSTART:20251101T123000
+DTEND:20251101T131500
+SUMMARY:🏀 U12 Boys: Golden Hawks Rising vs Warrawee Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Warrawe
+ e Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fc289411-7e18-42f9-9492-7fd83e69e0cf
+SEQUENCE:0
+DTSTAMP:20251013T171326
+DTSTART:20251108T140000
+DTEND:20251108T144500
+SUMMARY:🏀 U12 Boys: Golden Hawks Rising vs Malvern Tigers Maroon
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Maroon\nArrive
+  15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

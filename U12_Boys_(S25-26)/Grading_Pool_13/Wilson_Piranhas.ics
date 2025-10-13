@@ -6,9 +6,9 @@ X-WR-CALNAME:Wilson Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0a409825-f3ec-4e7c-9bb9-41a0f2ef058e
+UID:d6fff5fd-de80-4d4a-9095-6ec0d6b613f3
 SEQUENCE:0
-DTSTAMP:20251012T171141
+DTSTAMP:20251013T171339
 DTSTART:20251018T114500
 DTEND:20251018T123000
 SUMMARY:🏀 U12 Boys: Wilson Piranhas vs Golden Hawks Blaze
@@ -17,14 +17,14 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Golden Hawks Blaze\nArrive 15
   mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:910af0f7-50b3-4375-922c-5eb3f506deb5
+UID:28b202ff-3ddb-472d-9d57-7bbd2b4398b0
 SEQUENCE:0
-DTSTAMP:20251012T171141
-DTSTART:20251025T114500
-DTEND:20251025T123000
+DTSTAMP:20251013T171339
+DTSTART:20251026T160000
+DTEND:20251026T164500
 SUMMARY:🏀 U12 Boys: Wilson Piranhas vs Ashy Lightning White
-LOCATION:DLS1
-DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Ashy Lightning White\nArrive 
- 15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ashy L
+ ightning White\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

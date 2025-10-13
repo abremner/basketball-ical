@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Lime Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c08feed2-4b0c-488f-9b62-d17719ca1146
+UID:de5e7f94-b5ce-4c1b-909c-c89862ee5ab5
 SEQUENCE:0
-DTSTAMP:20251012T171133
+DTSTAMP:20251013T171330
 DTSTART:20251018T131500
 DTEND:20251018T140000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Lime vs Ardrie Park Piranhas
@@ -17,25 +17,14 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Ardrie Park Piranhas\nArrive
  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6c17ba2f-589c-4a8b-aecd-4ef9acdeaf48
+UID:fe84b1fc-c6e0-4876-9360-d52d6a47643b
 SEQUENCE:0
-DTSTAMP:20251012T171133
+DTSTAMP:20251013T171330
 DTSTART:20251025T123000
 DTEND:20251025T131500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Lime vs Solway Dingoes
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
  Dingoes\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:c3d25fe1-737f-4dd1-b216-423a8bdb71ed
-SEQUENCE:0
-DTSTAMP:20251012T171133
-DTSTART:20251108T123000
-DTEND:20251108T131500
-SUMMARY:🏀 U12 Boys: Malvern Tigers Lime vs Toorak Thunder
-LOCATION:DLS1
-DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Toorak Thunder\nArrive 15 min
- s early for warm-up
 END:VEVENT
 END:VCALENDAR

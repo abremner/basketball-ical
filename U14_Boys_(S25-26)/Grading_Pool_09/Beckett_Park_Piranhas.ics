@@ -6,9 +6,9 @@ X-WR-CALNAME:Beckett Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:cedbc426-6bef-45f9-ad81-2b6bd756911f
+UID:df5c512c-70be-4327-93e6-b633120ece2c
 SEQUENCE:0
-DTSTAMP:20251012T171225
+DTSTAMP:20251013T171423
 DTSTART:20251018T144500
 DTEND:20251018T153000
 SUMMARY:🏀 U14 Boys: Beckett Park Piranhas vs Timberwolves Raptors
@@ -17,14 +17,14 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Raptors\nArrive
  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1a07edc5-16fa-480c-81a0-513a02058a6f
+UID:05c87d26-21a1-4ebe-821a-ff072d6939f6
 SEQUENCE:0
-DTSTAMP:20251012T171225
-DTSTART:20251025T153000
-DTEND:20251025T161500
+DTSTAMP:20251013T171423
+DTSTART:20251026T164500
+DTEND:20251026T173000
 SUMMARY:🏀 U14 Boys: Beckett Park Piranhas vs Malvern Tigers Maroon
-LOCATION:DLS1
-DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Maroon\nArrive
-  15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Maroon\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,9 +6,9 @@ X-WR-CALNAME:Ardrie Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:85530e3d-3bed-4196-ac12-768e64785d6e
+UID:901f8bc3-ad84-46b9-a277-e8bc082f420b
 SEQUENCE:0
-DTSTAMP:20251012T171132
+DTSTAMP:20251013T171329
 DTSTART:20251018T131500
 DTEND:20251018T140000
 SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Malvern Tigers Lime
@@ -17,36 +17,14 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Lime\nArrive 1
  5 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7085c1a9-dc10-44c1-a1cc-b39f9e619498
+UID:2401b1dd-65aa-4cb9-b217-925820360d8a
 SEQUENCE:0
-DTSTAMP:20251012T171132
+DTSTAMP:20251013T171329
 DTSTART:20251025T123000
 DTEND:20251025T131500
 SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Toorak Thunder
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
   Thunder\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:33c679f9-dc4b-4b21-b5ed-fb5611d71d10
-SEQUENCE:0
-DTSTAMP:20251012T171132
-DTSTART:20251101T131500
-DTEND:20251101T140000
-SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Timberwolves Suns
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Suns\nArrive 15 
- mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:7d64b290-d5e9-42c1-a7d5-8407db0a15a6
-SEQUENCE:0
-DTSTAMP:20251012T171132
-DTSTART:20251108T123000
-DTEND:20251108T131500
-SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Comets Cyclones
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Comets 
- Cyclones\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

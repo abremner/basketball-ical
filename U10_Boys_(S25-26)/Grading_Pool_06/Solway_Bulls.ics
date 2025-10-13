@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Bulls Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:dae806b9-104f-4808-8a79-b96636bb3501
+UID:ec925f74-a681-45f5-a91d-5a3a7c4926ce
 SEQUENCE:0
-DTSTAMP:20251012T171034
+DTSTAMP:20251013T171228
 DTSTART:20251018T101500
 DTEND:20251018T110000
 SUMMARY:🏀 U10 Boys: Solway Bulls vs Orrong Park Piranhas
@@ -17,14 +17,36 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Orrong Park Piranhas\nArrive
  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c8bc3aa3-84c4-4fdf-9077-7146fc0f9f5d
+UID:02aae53b-b019-41fc-8984-a42ea8c0310a
 SEQUENCE:0
-DTSTAMP:20251012T171034
+DTSTAMP:20251013T171228
 DTSTART:20251025T101500
 DTEND:20251025T110000
 SUMMARY:🏀 U10 Boys: Solway Bulls vs Malvern Tigers Blue
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:91d42edb-1a34-4c2a-bbcc-2963d72b290b
+SEQUENCE:0
+DTSTAMP:20251013T171228
+DTSTART:20251101T093000
+DTEND:20251101T101500
+SUMMARY:🏀 U10 Boys: Solway Bulls vs Glen Iris Scorpions Nettleton
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
+ ris Scorpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b7ab4dd6-7068-43b4-8ea4-ca74e052dc12
+SEQUENCE:0
+DTSTAMP:20251013T171228
+DTSTART:20251108T084500
+DTEND:20251108T093000
+SUMMARY:🏀 U10 Boys: Solway Bulls vs Toorak Torpedoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
+  Torpedoes\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

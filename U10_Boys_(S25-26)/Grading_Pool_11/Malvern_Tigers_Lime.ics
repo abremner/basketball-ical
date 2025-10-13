@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Lime Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:560ce019-b65a-4c40-818e-2811976690de
+UID:5bee0d10-9d27-4a07-86da-aae9a6f19675
 SEQUENCE:0
-DTSTAMP:20251012T171050
+DTSTAMP:20251013T171245
 DTSTART:20251018T084500
 DTEND:20251018T093000
 SUMMARY:🏀 U10 Boys: Malvern Tigers Lime vs Solway Force
@@ -17,14 +17,14 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Force\nArrive 15 mins
  early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:74c5a614-1f10-415c-8ac5-cccb87331ab1
+UID:77a8bb5a-f15e-432f-9257-36392a3467d7
 SEQUENCE:0
-DTSTAMP:20251012T171050
-DTSTART:20251025T093000
-DTEND:20251025T101500
+DTSTAMP:20251013T171245
+DTSTART:20251026T160000
+DTEND:20251026T164500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Lime vs Maccabi Kings
-LOCATION:DLS1
-DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Kings\nArrive 15 mins
-  early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Kings\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

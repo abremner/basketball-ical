@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Blue Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:51e98a94-ef0c-4b15-9034-f36a98bb27ba
+UID:82a00b4d-871f-42c9-905c-de0fe36029a4
 SEQUENCE:0
-DTSTAMP:20251012T171034
+DTSTAMP:20251013T171227
 DTSTART:20251018T093000
 DTEND:20251018T101500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Blue vs Maccabi Ducks
@@ -17,14 +17,37 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a2962f25-ab32-4d68-978f-239dcd61aa5b
+UID:d263e58b-d64e-408c-9bb2-32ca77e87bc6
 SEQUENCE:0
-DTSTAMP:20251012T171034
+DTSTAMP:20251013T171227
 DTSTART:20251025T101500
 DTEND:20251025T110000
 SUMMARY:🏀 U10 Boys: Malvern Tigers Blue vs Solway Bulls
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Bulls\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:584d7a37-15c9-4923-b5e3-f297240932c6
+SEQUENCE:0
+DTSTAMP:20251013T171227
+DTSTART:20251101T084500
+DTEND:20251101T093000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Blue vs Solway Nets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Nets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dc0a9852-3e19-4602-8d5a-07d50b168394
+SEQUENCE:0
+DTSTAMP:20251013T171227
+DTSTART:20251109T160000
+DTEND:20251109T164500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Blue vs Glen Iris Scorpions Nettleto
+ n
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Glen Iris Scorpions Nettleton
+ \nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

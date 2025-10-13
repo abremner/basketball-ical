@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Lakers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:bdb86c62-0c71-4b4f-a169-c1046371c3cc
+UID:a0eae732-6c23-4256-98eb-90708e0e38f1
 SEQUENCE:0
-DTSTAMP:20251012T171130
+DTSTAMP:20251013T171326
 DTSTART:20251018T140000
 DTEND:20251018T144500
 SUMMARY:🏀 U12 Boys: Maccabi Lakers vs Malvern Tigers Maroon
@@ -17,14 +17,25 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Maroon\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f6fb4937-61ac-454d-8c4b-4be10091d422
+UID:cd9abf58-ca07-4367-ab11-0f22970e3c68
 SEQUENCE:0
-DTSTAMP:20251012T171130
+DTSTAMP:20251013T171326
 DTSTART:20251025T123000
 DTEND:20251025T131500
 SUMMARY:🏀 U12 Boys: Maccabi Lakers vs Toorak Trouble
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
  Trouble\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:77820632-e390-468a-91ec-4cb622f9dd69
+SEQUENCE:0
+DTSTAMP:20251013T171326
+DTSTART:20251102T164500
+DTEND:20251102T173000
+SUMMARY:🏀 U12 Boys: Maccabi Lakers vs Glen Iris Scorpions Nettleton
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

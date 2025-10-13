@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Dingoes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b7ac6fe0-7c1f-4d12-9840-e8beb4228e11
+UID:363cdf64-91eb-4edb-b326-2f5b03720a33
 SEQUENCE:0
-DTSTAMP:20251012T171134
+DTSTAMP:20251013T171330
 DTSTART:20251018T123000
 DTEND:20251018T131500
 SUMMARY:🏀 U12 Boys: Solway Dingoes vs Comets Tigers
@@ -17,36 +17,14 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Comets Tigers\nArrive 15 mins
   early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d95784c3-8635-43aa-a1e4-d175c7fd00f3
+UID:4d512e7c-8c10-4834-976b-674c9b96737d
 SEQUENCE:0
-DTSTAMP:20251012T171134
+DTSTAMP:20251013T171330
 DTSTART:20251025T123000
 DTEND:20251025T131500
 SUMMARY:🏀 U12 Boys: Solway Dingoes vs Malvern Tigers Lime
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Lime\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:3fc9b5bf-0dbe-4c83-9184-ee1ce8bb9f67
-SEQUENCE:0
-DTSTAMP:20251012T171134
-DTSTART:20251101T123000
-DTEND:20251101T131500
-SUMMARY:🏀 U12 Boys: Solway Dingoes vs Stonnington Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Stonni
- ngton Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:a7ae367d-80ae-47b0-81cd-e083bda0c672
-SEQUENCE:0
-DTSTAMP:20251012T171134
-DTSTART:20251108T123000
-DTEND:20251108T131500
-SUMMARY:🏀 U12 Boys: Solway Dingoes vs Timberwolves Suns
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
- wolves Suns\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR
