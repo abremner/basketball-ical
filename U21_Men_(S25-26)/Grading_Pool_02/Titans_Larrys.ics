@@ -6,25 +6,36 @@ X-WR-CALNAME:Titans Larrys Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f970b74d-5e5b-4b39-9506-1fca4469fc02
+UID:0bc69b5d-5b4f-4428-b142-ff37e1f016fe
 SEQUENCE:0
-DTSTAMP:20251013T171542
-DTSTART:20251019T194500
-DTEND:20251019T203000
-SUMMARY:🏀 U21 Men: Titans Larrys vs Solway Pythons
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
-  Pythons\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:0b602971-f0e1-401f-9a56-b7db371089e2
-SEQUENCE:0
-DTSTAMP:20251013T171542
+DTSTAMP:20251014T171625
 DTSTART:20251026T194500
 DTEND:20251026T203000
 SUMMARY:🏀 U21 Men: Titans Larrys vs Ashy Lightning Green
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:29f457e3-2da6-4e32-8957-a25477a33281
+SEQUENCE:0
+DTSTAMP:20251014T171625
+DTSTART:20251102T190000
+DTEND:20251102T194500
+SUMMARY:🏀 U21 Men: Titans Larrys vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d1deeeb5-f2a0-4106-96e5-66540ead9da3
+SEQUENCE:0
+DTSTAMP:20251014T171625
+DTSTART:20251109T190000
+DTEND:20251109T194500
+SUMMARY:🏀 U21 Men: Titans Larrys vs Glen Iris Scorpions Sixers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Sixers\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,25 +6,36 @@ X-WR-CALNAME:Solway Wizards Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:8c4cbf0b-ffd9-4a34-b64d-acd1096caafb
+UID:78130470-e5be-46db-a864-5107e4a27671
 SEQUENCE:0
-DTSTAMP:20251013T171541
+DTSTAMP:20251014T171625
 DTSTART:20251019T190000
 DTEND:20251019T194500
-SUMMARY:🏀 U21 Men: Solway Wizards vs Ashy Lightning Green
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
- ightning Green\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:dded5ab5-d39c-43f7-995f-b95cb9830406
-SEQUENCE:0
-DTSTAMP:20251013T171541
-DTSTART:20251026T194500
-DTEND:20251026T203000
 SUMMARY:🏀 U21 Men: Solway Wizards vs Ashy Lightning Gold
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0ea5ddf6-0d08-4aed-8c1e-fa327b54dac9
+SEQUENCE:0
+DTSTAMP:20251014T171625
+DTSTART:20251026T190000
+DTEND:20251026T194500
+SUMMARY:🏀 U21 Men: Solway Wizards vs Ashy Lightning Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d92b6192-1862-48df-a05c-298be44a4a42
+SEQUENCE:0
+DTSTAMP:20251014T171625
+DTSTART:20251109T194500
+DTEND:20251109T203000
+SUMMARY:🏀 U21 Men: Solway Wizards vs Solway Cobras
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Cobras\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

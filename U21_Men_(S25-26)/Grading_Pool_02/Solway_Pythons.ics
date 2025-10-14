@@ -6,25 +6,47 @@ X-WR-CALNAME:Solway Pythons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:70a3719b-fac1-4040-bb6e-7a8b416cb6c8
+UID:eb70f7f6-5880-4918-b9b3-95b12dd69630
 SEQUENCE:0
-DTSTAMP:20251013T171540
+DTSTAMP:20251014T171624
 DTSTART:20251019T194500
 DTEND:20251019T203000
-SUMMARY:🏀 U21 Men: Solway Pythons vs Titans Larrys
+SUMMARY:🏀 U21 Men: Solway Pythons vs Glen Iris Scorpions Sixers
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Titans
-  Larrys\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
+ ris Scorpions Sixers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:81f163fd-9a0f-41c3-b0fd-18e6e3aab6f9
+UID:a9aada23-f20a-4cc6-9d4b-d517df6353c5
 SEQUENCE:0
-DTSTAMP:20251013T171540
-DTSTART:20251026T190000
-DTEND:20251026T194500
+DTSTAMP:20251014T171624
+DTSTART:20251026T194500
+DTEND:20251026T203000
+SUMMARY:🏀 U21 Men: Solway Pythons vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a4150691-2574-4065-ab18-18a73d5a4634
+SEQUENCE:0
+DTSTAMP:20251014T171624
+DTSTART:20251102T190000
+DTEND:20251102T194500
 SUMMARY:🏀 U21 Men: Solway Pythons vs Solway Cobras
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Cobras\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:78a9cd65-f083-4d24-b233-557309126c1f
+SEQUENCE:0
+DTSTAMP:20251014T171624
+DTSTART:20251109T190000
+DTEND:20251109T194500
+SUMMARY:🏀 U21 Men: Solway Pythons vs Ashy Lightning Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+ ightning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

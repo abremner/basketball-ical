@@ -6,25 +6,47 @@ X-WR-CALNAME:Glen Iris Scorpions Sixers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d21be0da-a6e4-4c5d-bbd5-794a1947e926
+UID:930c2431-1f1e-4b0b-a723-cf476c627962
 SEQUENCE:0
-DTSTAMP:20251013T171540
+DTSTAMP:20251014T171623
 DTSTART:20251019T194500
 DTEND:20251019T203000
-SUMMARY:🏀 U21 Men: Glen Iris Scorpions Sixers vs Solway Cobras
+SUMMARY:🏀 U21 Men: Glen Iris Scorpions Sixers vs Solway Pythons
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
-  Cobras\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Pythons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e91d0da6-0199-48da-a82d-eb720957ca9f
+UID:ee184ae7-314b-4f00-94bd-5b1a47001401
 SEQUENCE:0
-DTSTAMP:20251013T171540
+DTSTAMP:20251014T171623
 DTSTART:20251026T190000
 DTEND:20251026T194500
 SUMMARY:🏀 U21 Men: Glen Iris Scorpions Sixers vs Solway Taipans
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Taipans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fbc9d273-ed72-444a-aaf3-92f718175794
+SEQUENCE:0
+DTSTAMP:20251014T171623
+DTSTART:20251102T194500
+DTEND:20251102T203000
+SUMMARY:🏀 U21 Men: Glen Iris Scorpions Sixers vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:68f0e707-9a9b-4da8-bd4f-3256df24aee5
+SEQUENCE:0
+DTSTAMP:20251014T171623
+DTSTART:20251109T190000
+DTEND:20251109T194500
+SUMMARY:🏀 U21 Men: Glen Iris Scorpions Sixers vs Titans Larrys
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Titans
+  Larrys\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

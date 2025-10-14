@@ -6,25 +6,36 @@ X-WR-CALNAME:Ashy Lightning Green Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c86941c5-e43b-499c-a15b-463206afe240
+UID:82caf61e-2298-453e-8bfd-880b824e1f6d
 SEQUENCE:0
-DTSTAMP:20251013T171539
+DTSTAMP:20251014T171622
 DTSTART:20251019T190000
 DTEND:20251019T194500
-SUMMARY:🏀 U21 Men: Ashy Lightning Green vs Solway Wizards
+SUMMARY:🏀 U21 Men: Ashy Lightning Green vs Solway Taipans
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
-  Wizards\nArrive 15 mins early for warm-up
+  Taipans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f3167f16-ab7c-4140-bfea-b5759fb69c1c
+UID:88cf4453-0686-4636-9eed-d9661186221e
 SEQUENCE:0
-DTSTAMP:20251013T171539
+DTSTAMP:20251014T171622
 DTSTART:20251026T194500
 DTEND:20251026T203000
 SUMMARY:🏀 U21 Men: Ashy Lightning Green vs Titans Larrys
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Titans
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Titans
   Larrys\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ef53ce33-10af-40fc-8ab7-4e0590d83888
+SEQUENCE:0
+DTSTAMP:20251014T171622
+DTSTART:20251102T194500
+DTEND:20251102T203000
+SUMMARY:🏀 U21 Men: Ashy Lightning Green vs Glen Iris Scorpions Sixers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Sixers\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

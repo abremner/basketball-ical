@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Yellow Fixtures
+X-WR-CALNAME:Ashy Lightning Yellow Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:51c9c865-9464-4cbd-8a5a-38d092bd12f3
+SEQUENCE:0
+DTSTAMP:20251014T171623
+DTSTART:20251019T194500
+DTEND:20251019T203000
+SUMMARY:🏀 U21 Men: Ashy Lightning Yellow vs Solway Cobras
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Cobras\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e2872a9c-7fe7-48ca-8752-1c4383b130a8
+SEQUENCE:0
+DTSTAMP:20251014T171623
+DTSTART:20251026T190000
+DTEND:20251026T194500
+SUMMARY:🏀 U21 Men: Ashy Lightning Yellow vs Solway Wizards
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Wizards\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1355fa52-98a2-4fe3-b105-336535a792a3
+SEQUENCE:0
+DTSTAMP:20251014T171623
+DTSTART:20251102T194500
+DTEND:20251102T203000
+SUMMARY:🏀 U21 Men: Ashy Lightning Yellow vs Solway Taipans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Taipans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6b30aec7-7c50-43cb-bb8a-1dc27169ef5f
+SEQUENCE:0
+DTSTAMP:20251014T171623
+DTSTART:20251109T190000
+DTEND:20251109T194500
+SUMMARY:🏀 U21 Men: Ashy Lightning Yellow vs Solway Pythons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Pythons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR
