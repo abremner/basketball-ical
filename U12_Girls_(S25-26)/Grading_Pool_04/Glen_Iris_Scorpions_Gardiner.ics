@@ -1,28 +1,28 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
-NAME:Solway Sparrows Fixtures
-X-WR-CALNAME:Solway Sparrows Fixtures
+NAME:Glen Iris Scorpions Gardiner Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Gardiner Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:73d2f0c4-39a2-4226-84fc-cab678187ce7
+UID:fe4dabc1-a908-4f6f-a84b-c88fc6d9f9ab
 SEQUENCE:0
-DTSTAMP:20251014T171420
+DTSTAMP:20251015T171410
 DTSTART:20251018T144500
 DTEND:20251018T153000
-SUMMARY:🏀 U12 Girls: Solway Sparrows vs Toorak Talons
+SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Gardiner vs Toorak Talons
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
  Talons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:579749a2-9bd3-4e22-8d47-2e9aaa88ded4
+UID:6b611e0a-6dcd-40ef-b23b-b897b10a030b
 SEQUENCE:0
-DTSTAMP:20251014T171420
+DTSTAMP:20251015T171410
 DTSTART:20251025T144500
 DTEND:20251025T153000
-SUMMARY:🏀 U12 Girls: Solway Sparrows vs Maccabi Warriors
+SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Gardiner vs Maccabi Warriors
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Warriors\nArrive 15 mins early for warm-up
