@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d9b2ecbd-b615-4479-a391-30e016915d69
+UID:cc5b989e-b8bf-4905-95c7-67a6aea8fe70
 SEQUENCE:0
-DTSTAMP:20251017T171206
-DTSTART:20251018T093000
-DTEND:20251018T101500
-SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Malvern Tigers Blue
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
- n Tigers Blue\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:bb450321-6024-432c-96ac-b48ffd0a10bf
-SEQUENCE:0
-DTSTAMP:20251017T171206
+DTSTAMP:20251018T171020
 DTSTART:20251026T160000
 DTEND:20251026T164500
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Solway Nets
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Nets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fe42cc13-1c94-4b90-9e18-2337b886f49c
+UID:4fef9fee-dd97-45cc-b9c8-35c74e75086d
 SEQUENCE:0
-DTSTAMP:20251017T171206
+DTSTAMP:20251018T171020
 DTSTART:20251101T101500
 DTEND:20251101T110000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs AlphaWolf Kings
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
  olf Kings\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:48e696b1-5371-4d6f-be1a-9241e12ee640
+UID:82c424f2-ae97-47a7-a445-ceee744fdca0
 SEQUENCE:0
-DTSTAMP:20251017T171206
+DTSTAMP:20251018T171020
 DTSTART:20251108T101500
 DTEND:20251108T110000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Orrong Park Piranhas

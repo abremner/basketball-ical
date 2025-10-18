@@ -5,15 +5,4 @@ NAME:Maccabi Falcons Fixtures
 X-WR-CALNAME:Maccabi Falcons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:f477d4a6-56de-4028-9c70-c7f9136e1aca
-SEQUENCE:0
-DTSTAMP:20251017T171245
-DTSTART:20251018T093000
-DTEND:20251018T101500
-SUMMARY:🏀 U10 Girls: Maccabi Falcons vs Solway Zephyrs
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
-  Zephyrs\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

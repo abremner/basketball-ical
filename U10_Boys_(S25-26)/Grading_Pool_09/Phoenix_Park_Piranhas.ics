@@ -5,15 +5,4 @@ NAME:Phoenix Park Piranhas Fixtures
 X-WR-CALNAME:Phoenix Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:15c763b7-a803-4a8e-aa79-4ab6aaaa707c
-SEQUENCE:0
-DTSTAMP:20251017T171218
-DTSTART:20251018T110000
-DTEND:20251018T114500
-SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Maccabi Giants
-LOCATION:DLS1
-DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Giants\nArrive 15 min
- s early for warm-up
-END:VEVENT
 END:VCALENDAR
