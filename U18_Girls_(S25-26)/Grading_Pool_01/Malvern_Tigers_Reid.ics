@@ -6,14 +6,36 @@ X-WR-CALNAME:Malvern Tigers Reid Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:349e2d63-b86d-411f-b73c-167698e44f56
+UID:300501cf-aa28-4cbd-b542-d1fd8d30f1dd
 SEQUENCE:0
-DTSTAMP:20251019T171434
+DTSTAMP:20251020T171529
 DTSTART:20251021T191500
 DTEND:20251021T200000
 SUMMARY:🏀 U18 Girls: Malvern Tigers Reid vs Malvern Tigers Jackson
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Jackson\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:60d35076-698e-4edc-9b62-a6ba1558e92a
+SEQUENCE:0
+DTSTAMP:20251020T171529
+DTSTART:20251028T191500
+DTEND:20251028T200000
+SUMMARY:🏀 U18 Girls: Malvern Tigers Reid vs Glen Iris Scorpions Suns
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glen I
+ ris Scorpions Suns\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bb7f3d90-b920-47cb-b81e-0fc7b95d64c4
+SEQUENCE:0
+DTSTAMP:20251020T171529
+DTSTART:20251111T191500
+DTEND:20251111T200000
+SUMMARY:🏀 U18 Girls: Malvern Tigers Reid vs Solway Suns
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Suns\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,9 +6,9 @@ X-WR-CALNAME:SCBC Brilliant Diamonds Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:8b140969-5e25-416f-8a47-99087b590848
+UID:8f6217a7-4ec1-4149-b05b-d30e42732d3d
 SEQUENCE:0
-DTSTAMP:20251019T171435
+DTSTAMP:20251020T171530
 DTSTART:20251021T191500
 DTEND:20251021T200000
 SUMMARY:🏀 U18 Girls: SCBC Brilliant Diamonds vs Glen Iris Scorpions Sun
@@ -16,5 +16,27 @@ SUMMARY:🏀 U18 Girls: SCBC Brilliant Diamonds vs Glen Iris Scorpions Sun
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glen I
  ris Scorpions Suns\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3fe8b5b0-df82-442f-a4f1-30261afec6b8
+SEQUENCE:0
+DTSTAMP:20251020T171530
+DTSTART:20251028T191500
+DTEND:20251028T200000
+SUMMARY:🏀 U18 Girls: SCBC Brilliant Diamonds vs Solway Suns
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Suns\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a09b844e-488d-4d33-b589-187d35f62207
+SEQUENCE:0
+DTSTAMP:20251020T171530
+DTSTART:20251111T200000
+DTEND:20251111T204500
+SUMMARY:🏀 U18 Girls: SCBC Brilliant Diamonds vs Solway Magic
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Magic\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,9 +6,9 @@ X-WR-CALNAME:Glen Iris Scorpions Suns Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:7d9feecf-3c45-48b6-8f81-a2800fceace4
+UID:dd114fbc-30f1-43b9-bf26-511f5e6563b7
 SEQUENCE:0
-DTSTAMP:20251019T171433
+DTSTAMP:20251020T171529
 DTSTART:20251021T191500
 DTEND:20251021T200000
 SUMMARY:🏀 U18 Girls: Glen Iris Scorpions Suns vs SCBC Brilliant Diamond
@@ -16,5 +16,27 @@ SUMMARY:🏀 U18 Girls: Glen Iris Scorpions Suns vs SCBC Brilliant Diamond
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: SCBC B
  rilliant Diamonds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f15bb27e-b33b-4624-8797-24f43fcff51f
+SEQUENCE:0
+DTSTAMP:20251020T171529
+DTSTART:20251028T191500
+DTEND:20251028T200000
+SUMMARY:🏀 U18 Girls: Glen Iris Scorpions Suns vs Malvern Tigers Reid
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Reid\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fc414add-3e61-496a-b822-4ce21b26a828
+SEQUENCE:0
+DTSTAMP:20251020T171529
+DTSTART:20251111T191500
+DTEND:20251111T200000
+SUMMARY:🏀 U18 Girls: Glen Iris Scorpions Suns vs Malvern Tigers Jackson
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Jackson\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR
