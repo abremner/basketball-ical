@@ -5,15 +5,4 @@ NAME:Solway Marvels Fixtures
 X-WR-CALNAME:Solway Marvels Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:cb8838fb-f9bb-4d60-a65a-e3a3b9e962a3
-SEQUENCE:0
-DTSTAMP:20251020T171507
-DTSTART:20251021T174500
-DTEND:20251021T183000
-SUMMARY:🏀 U16 Girls: Solway Marvels vs Solway Fever
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
-  Fever\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR
