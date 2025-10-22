@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Lauriston Legacy Fixtures
+X-WR-CALNAME:Lauriston Legacy Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b514f69f-1036-43f8-acdd-fcabfd6bb095
+SEQUENCE:0
+DTSTAMP:20251022T171536
+DTSTART:20251025T161500
+DTEND:20251025T170000
+SUMMARY:🏀 U14 Girls: Lauriston Legacy vs Malvern Tigers Fisher
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Fisher\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

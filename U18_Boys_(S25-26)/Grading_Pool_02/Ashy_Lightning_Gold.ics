@@ -6,14 +6,25 @@ X-WR-CALNAME:Ashy Lightning Gold Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:a1709d1c-b65d-4f32-b1b0-4285d6cd1d3d
+UID:117e49d9-5877-42a1-94e6-510f6d5943d6
 SEQUENCE:0
-DTSTAMP:20251021T171641
+DTSTAMP:20251022T171618
 DTSTART:20251026T173000
 DTEND:20251026T181500
 SUMMARY:🏀 U18 Boys: Ashy Lightning Gold vs Solway Torpedoes
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Torpedoes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9c16d4bb-aa85-4212-be5c-378449f7f210
+SEQUENCE:0
+DTSTAMP:20251022T171618
+DTSTART:20251102T181500
+DTEND:20251102T190000
+SUMMARY:🏀 U18 Boys: Ashy Lightning Gold vs Glenbrook Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glenbr
+ ook Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

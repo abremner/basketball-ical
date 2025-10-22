@@ -6,14 +6,36 @@ X-WR-CALNAME:Solway Bullets Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:403a0ed0-9080-4e6a-8e0a-da8e52e9e630
+UID:e53cc15b-8c16-4882-97b3-d3290a87aba5
 SEQUENCE:0
-DTSTAMP:20251021T171642
+DTSTAMP:20251022T171619
 DTSTART:20251026T181500
 DTEND:20251026T190000
 SUMMARY:🏀 U18 Boys: Solway Bullets vs Glenbrook Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glenbr
  ook Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:abebc56d-c272-4b59-82b8-1de8b3f6189d
+SEQUENCE:0
+DTSTAMP:20251022T171619
+DTSTART:20251102T173000
+DTEND:20251102T181500
+SUMMARY:🏀 U18 Boys: Solway Bullets vs Glen Iris Scorpions Sixers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
+ ris Scorpions Sixers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:50d96beb-89c3-4c46-a582-6fcf42e9b03b
+SEQUENCE:0
+DTSTAMP:20251022T171619
+DTSTART:20251109T181500
+DTEND:20251109T190000
+SUMMARY:🏀 U18 Boys: Solway Bullets vs Solway Torpedoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Torpedoes\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

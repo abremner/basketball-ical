@@ -6,14 +6,25 @@ X-WR-CALNAME:Glen Iris Scorpions Sixers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0f940873-bc90-4ba1-9706-69b163213a36
+UID:f6d95a7e-bec9-418e-89d0-acb0d9cd8a7d
 SEQUENCE:0
-DTSTAMP:20251021T171641
-DTSTART:20251026T173000
-DTEND:20251026T181500
-SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Sixers vs Golden Hawks Sky
+DTSTAMP:20251022T171618
+DTSTART:20251102T173000
+DTEND:20251102T181500
+SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Sixers vs Solway Bullets
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Golden
-  Hawks Sky\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Bullets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:786a5c51-682e-4c11-bde6-caa823438a4e
+SEQUENCE:0
+DTSTAMP:20251022T171618
+DTSTART:20251109T173000
+DTEND:20251109T181500
+SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Sixers vs Glenbrook Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glenbr
+ ook Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR
