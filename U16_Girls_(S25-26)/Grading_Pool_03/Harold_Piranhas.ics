@@ -5,4 +5,26 @@ NAME:Harold Piranhas Fixtures
 X-WR-CALNAME:Harold Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0561353d-0e95-4f29-89e2-4df313f23aa1
+SEQUENCE:0
+DTSTAMP:20251023T171540
+DTSTART:20251028T174500
+DTEND:20251028T183000
+SUMMARY:🏀 U16 Girls: Harold Piranhas vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:05b2c53f-3445-4e54-8757-bfd2ea3eacc5
+SEQUENCE:0
+DTSTAMP:20251023T171540
+DTSTART:20251111T174500
+DTEND:20251111T183000
+SUMMARY:🏀 U16 Girls: Harold Piranhas vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

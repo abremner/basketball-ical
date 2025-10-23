@@ -5,4 +5,26 @@ NAME:Solway Marvels Fixtures
 X-WR-CALNAME:Solway Marvels Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:dbea7a47-bcb1-4fcd-a67a-1e410b3b7261
+SEQUENCE:0
+DTSTAMP:20251023T171537
+DTSTART:20251028T174500
+DTEND:20251028T183000
+SUMMARY:🏀 U16 Girls: Solway Marvels vs Malvern Tigers Rocci
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Rocci\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0d941648-1910-461f-9c08-958d6483d900
+SEQUENCE:0
+DTSTAMP:20251023T171537
+DTSTART:20251111T174500
+DTEND:20251111T183000
+SUMMARY:🏀 U16 Girls: Solway Marvels vs Timberwolves Rockets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Rockets\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

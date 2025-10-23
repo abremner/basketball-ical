@@ -5,4 +5,26 @@ NAME:Solway Fever Fixtures
 X-WR-CALNAME:Solway Fever Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a8389439-5895-4570-b013-dbfe77f5b748
+SEQUENCE:0
+DTSTAMP:20251023T171537
+DTSTART:20251028T183000
+DTEND:20251028T191500
+SUMMARY:🏀 U16 Girls: Solway Fever vs Timberwolves Rockets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Rockets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4b3b84fc-aa6f-47e3-bc73-b335893f9809
+SEQUENCE:0
+DTSTAMP:20251023T171537
+DTSTART:20251111T183000
+DTEND:20251111T191500
+SUMMARY:🏀 U16 Girls: Solway Fever vs Malvern Tigers Rocci
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Rocci\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

@@ -5,4 +5,27 @@ NAME:Malvern Tigers Wallace Fixtures
 X-WR-CALNAME:Malvern Tigers Wallace Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1933b99e-99fc-42a4-ac94-54d74c975354
+SEQUENCE:0
+DTSTAMP:20251023T171544
+DTSTART:20251028T183000
+DTEND:20251028T191500
+SUMMARY:🏀 U16 Girls: Malvern Tigers Wallace vs Korowa Cherry
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Korowa
+  Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:df2b9daf-f6e1-4a4a-b59f-f95be73cdb59
+SEQUENCE:0
+DTSTAMP:20251023T171544
+DTSTART:20251111T174500
+DTEND:20251111T183000
+SUMMARY:🏀 U16 Girls: Malvern Tigers Wallace vs Glen Iris Scorpions Sixe
+ rs
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
+ ris Scorpions Sixers\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

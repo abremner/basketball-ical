@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Green Fixtures
+X-WR-CALNAME:Ashy Lightning Green Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:31b4f68f-9fc7-4dcf-b31f-f7c82f040e65
+SEQUENCE:0
+DTSTAMP:20251023T171539
+DTSTART:20251028T183000
+DTEND:20251028T191500
+SUMMARY:🏀 U16 Girls: Ashy Lightning Green vs Timberwolves Storm
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Storm\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2583ccf6-7307-48de-ae3a-43176e06acd6
+SEQUENCE:0
+DTSTAMP:20251023T171539
+DTSTART:20251111T174500
+DTEND:20251111T183000
+SUMMARY:🏀 U16 Girls: Ashy Lightning Green vs Harold Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Harold
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

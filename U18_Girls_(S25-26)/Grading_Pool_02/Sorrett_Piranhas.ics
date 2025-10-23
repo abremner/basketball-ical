@@ -5,4 +5,15 @@ NAME:Sorrett Piranhas Fixtures
 X-WR-CALNAME:Sorrett Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b0ce3cb9-5afa-47ae-afa9-b2c437a6ad0c
+SEQUENCE:0
+DTSTAMP:20251023T171606
+DTSTART:20251111T200000
+DTEND:20251111T204500
+SUMMARY:🏀 U18 Girls: Sorrett Piranhas vs Malvern Tigers Nicholson
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Nicholson\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

@@ -5,4 +5,26 @@ NAME:Malvern Tigers Atwell Fixtures
 X-WR-CALNAME:Malvern Tigers Atwell Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:fe16d4ee-a9cd-4940-842e-f938d96efc94
+SEQUENCE:0
+DTSTAMP:20251023T171540
+DTSTART:20251028T174500
+DTEND:20251028T183000
+SUMMARY:🏀 U16 Girls: Malvern Tigers Atwell vs Finch Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Finch 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8f3aef4e-1931-47fc-812f-8b1d3281c77a
+SEQUENCE:0
+DTSTAMP:20251023T171540
+DTSTART:20251111T174500
+DTEND:20251111T183000
+SUMMARY:🏀 U16 Girls: Malvern Tigers Atwell vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

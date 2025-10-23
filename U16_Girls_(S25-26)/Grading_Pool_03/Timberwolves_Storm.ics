@@ -5,4 +5,26 @@ NAME:Timberwolves Storm Fixtures
 X-WR-CALNAME:Timberwolves Storm Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e1fff428-ea2d-4557-9852-79efaa962f6b
+SEQUENCE:0
+DTSTAMP:20251023T171542
+DTSTART:20251028T183000
+DTEND:20251028T191500
+SUMMARY:🏀 U16 Girls: Timberwolves Storm vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:924f83c2-d982-4370-afca-841b0296fa37
+SEQUENCE:0
+DTSTAMP:20251023T171542
+DTSTART:20251111T183000
+DTEND:20251111T191500
+SUMMARY:🏀 U16 Girls: Timberwolves Storm vs Solway Phoenix
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Phoenix\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

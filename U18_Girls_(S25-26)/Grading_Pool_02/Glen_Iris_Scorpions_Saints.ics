@@ -5,4 +5,26 @@ NAME:Glen Iris Scorpions Saints Fixtures
 X-WR-CALNAME:Glen Iris Scorpions Saints Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:065c79b0-c5aa-4484-902f-8d9eeba51dd0
+SEQUENCE:0
+DTSTAMP:20251023T171603
+DTSTART:20251028T191500
+DTEND:20251028T200000
+SUMMARY:🏀 U18 Girls: Glen Iris Scorpions Saints vs Maccabi Holy Hoopers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Holy Hoopers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2c65911d-98cc-42c4-ab2a-467fc11b5890
+SEQUENCE:0
+DTSTAMP:20251023T171603
+DTSTART:20251111T191500
+DTEND:20251111T200000
+SUMMARY:🏀 U18 Girls: Glen Iris Scorpions Saints vs Solway Stellars
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Stellars\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

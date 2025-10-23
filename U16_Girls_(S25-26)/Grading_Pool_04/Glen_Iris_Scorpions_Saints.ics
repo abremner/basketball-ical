@@ -5,4 +5,27 @@ NAME:Glen Iris Scorpions Saints Fixtures
 X-WR-CALNAME:Glen Iris Scorpions Saints Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:938bfb9b-942b-4ecb-97c9-6162dcffabbd
+SEQUENCE:0
+DTSTAMP:20251023T171543
+DTSTART:20251028T174500
+DTEND:20251028T183000
+SUMMARY:🏀 U16 Girls: Glen Iris Scorpions Saints vs Glen Iris Scorpions 
+ Sixers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
+ ris Scorpions Sixers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8e84538b-9420-493e-8f33-c0a049b542e7
+SEQUENCE:0
+DTSTAMP:20251023T171543
+DTSTART:20251111T183000
+DTEND:20251111T191500
+SUMMARY:🏀 U16 Girls: Glen Iris Scorpions Saints vs Korowa Cherry
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Korowa
+  Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR

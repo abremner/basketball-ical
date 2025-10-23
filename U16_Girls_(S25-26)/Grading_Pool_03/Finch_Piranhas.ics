@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Finch Piranhas Fixtures
+X-WR-CALNAME:Finch Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:82c12a52-0234-4f45-bfe6-ea5c8084711b
+SEQUENCE:0
+DTSTAMP:20251023T171540
+DTSTART:20251028T174500
+DTEND:20251028T183000
+SUMMARY:🏀 U16 Girls: Finch Piranhas vs Malvern Tigers Atwell
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Atwell\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ad4154f6-2a79-42b6-bf03-20f7fb455ac7
+SEQUENCE:0
+DTSTAMP:20251023T171540
+DTSTART:20251111T183000
+DTEND:20251111T191500
+SUMMARY:🏀 U16 Girls: Finch Piranhas vs Timberwolves Emeralds
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Emeralds\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

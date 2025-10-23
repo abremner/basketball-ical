@@ -5,4 +5,26 @@ NAME:Malvern Tigers Nicholson Fixtures
 X-WR-CALNAME:Malvern Tigers Nicholson Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:05c37981-48a8-4b53-bdc1-febf78424a91
+SEQUENCE:0
+DTSTAMP:20251023T171605
+DTSTART:20251028T191500
+DTEND:20251028T200000
+SUMMARY:🏀 U18 Girls: Malvern Tigers Nicholson vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:51a59bc6-89b2-4e34-8a0a-940646fb0817
+SEQUENCE:0
+DTSTAMP:20251023T171605
+DTSTART:20251111T200000
+DTEND:20251111T204500
+SUMMARY:🏀 U18 Girls: Malvern Tigers Nicholson vs Sorrett Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Sorret
+ t Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
 END:VCALENDAR
