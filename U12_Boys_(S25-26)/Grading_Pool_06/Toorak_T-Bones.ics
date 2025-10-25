@@ -5,15 +5,4 @@ NAME:Toorak T-Bones Fixtures
 X-WR-CALNAME:Toorak T-Bones Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:22fe84b6-ed8f-4bc7-9da2-a4d1747f5024
-SEQUENCE:0
-DTSTAMP:20251024T171330
-DTSTART:20251025T140000
-DTEND:20251025T144500
-SUMMARY:🏀 U12 Boys: Toorak T-Bones vs Malvern Tigers Blue
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
-  Tigers Blue\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

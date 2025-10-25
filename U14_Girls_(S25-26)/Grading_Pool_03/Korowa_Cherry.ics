@@ -5,15 +5,4 @@ NAME:Korowa Cherry Fixtures
 X-WR-CALNAME:Korowa Cherry Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:8bcd7ddb-1a74-4a81-8fb4-260360bc9a78
-SEQUENCE:0
-DTSTAMP:20251024T171448
-DTSTART:20251025T161500
-DTEND:20251025T170000
-SUMMARY:🏀 U14 Girls: Korowa Cherry vs Toorak Topguns
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
-  Topguns\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

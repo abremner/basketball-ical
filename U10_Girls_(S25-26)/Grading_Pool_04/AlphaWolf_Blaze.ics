@@ -5,15 +5,4 @@ NAME:AlphaWolf Blaze Fixtures
 X-WR-CALNAME:AlphaWolf Blaze Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:34adfa30-499a-4c79-a85f-f1294aacfe2b
-SEQUENCE:0
-DTSTAMP:20251024T171306
-DTSTART:20251025T084500
-DTEND:20251025T093000
-SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Solway Typhoons
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
-  Typhoons\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

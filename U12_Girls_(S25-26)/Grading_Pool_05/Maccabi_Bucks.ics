@@ -5,15 +5,4 @@ NAME:Maccabi Bucks Fixtures
 X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:7e0b350d-0a79-4f2a-a972-17e7f100e67e
-SEQUENCE:0
-DTSTAMP:20251024T171403
-DTSTART:20251025T144500
-DTEND:20251025T153000
-SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Timberwolves Thunder
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Timberwolve
- s Thunder\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

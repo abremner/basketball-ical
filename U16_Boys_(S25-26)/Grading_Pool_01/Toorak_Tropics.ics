@@ -5,15 +5,4 @@ NAME:Toorak Tropics Fixtures
 X-WR-CALNAME:Toorak Tropics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:52dc33fa-6fdf-41a5-a783-145603ed07fe
-SEQUENCE:0
-DTSTAMP:20251024T171504
-DTSTART:20251025T183000
-DTEND:20251025T191500
-SUMMARY:🏀 U16 Boys: Toorak Tropics vs Bayside Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Baysid
- e Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

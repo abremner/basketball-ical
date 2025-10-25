@@ -5,15 +5,4 @@ NAME:Como Park Piranhas Fixtures
 X-WR-CALNAME:Como Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:54c5b187-670d-4ce7-a269-106dafcf60e4
-SEQUENCE:0
-DTSTAMP:20251024T171309
-DTSTART:20251025T093000
-DTEND:20251025T101500
-SUMMARY:🏀 U10 Girls: Como Park Piranhas vs Maccabi Ducks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
- i Ducks\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

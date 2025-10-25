@@ -5,15 +5,4 @@ NAME:Maccabi Celtics Fixtures
 X-WR-CALNAME:Maccabi Celtics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:99f5df97-e06b-4146-a581-44cc716253ab
-SEQUENCE:0
-DTSTAMP:20251024T171406
-DTSTART:20251025T140000
-DTEND:20251025T144500
-SUMMARY:🏀 U12 Girls: Maccabi Celtics vs Solway Red Robins
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Red 
- Robins\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

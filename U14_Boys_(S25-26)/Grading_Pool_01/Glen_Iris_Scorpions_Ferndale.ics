@@ -5,15 +5,4 @@ NAME:Glen Iris Scorpions Ferndale Fixtures
 X-WR-CALNAME:Glen Iris Scorpions Ferndale Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:e7ab3728-f81a-4fd7-90db-bd452ddf5694
-SEQUENCE:0
-DTSTAMP:20251024T171414
-DTSTART:20251025T174500
-DTEND:20251025T183000
-SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Ferndale vs Comets Lightning
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Comets
-  Lightning\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

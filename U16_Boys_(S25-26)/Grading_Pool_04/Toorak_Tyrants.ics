@@ -5,15 +5,4 @@ NAME:Toorak Tyrants Fixtures
 X-WR-CALNAME:Toorak Tyrants Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:6aa3d89a-2d29-4d78-93cc-4604d8045f49
-SEQUENCE:0
-DTSTAMP:20251024T171513
-DTSTART:20251025T174500
-DTEND:20251025T183000
-SUMMARY:🏀 U16 Boys: Toorak Tyrants vs Solway Storm
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
-  Storm\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

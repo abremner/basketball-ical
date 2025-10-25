@@ -5,15 +5,4 @@ NAME:Maccabi Bucks Fixtures
 X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:3c31230b-fdbf-4bbe-a90d-128d73954fe9
-SEQUENCE:0
-DTSTAMP:20251024T171307
-DTSTART:20251025T114500
-DTEND:20251025T123000
-SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Malvern Tigers Burton
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
- ers Burton\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

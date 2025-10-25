@@ -5,15 +5,4 @@ NAME:Solway Tornadoes Fixtures
 X-WR-CALNAME:Solway Tornadoes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:ae18ea2d-f09e-4c40-a8a3-4beb014e436c
-SEQUENCE:0
-DTSTAMP:20251024T171258
-DTSTART:20251025T123000
-DTEND:20251025T131500
-SUMMARY:🏀 U10 Girls: Solway Tornadoes vs Halley Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Halley
-  Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

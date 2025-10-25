@@ -5,15 +5,4 @@ NAME:Maccabi Bucks Fixtures
 X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:c2d7fe25-1bfc-4545-bb63-93767c29e8eb
-SEQUENCE:0
-DTSTAMP:20251024T171229
-DTSTART:20251025T110000
-DTEND:20251025T114500
-SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Penpraze Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Penpra
- ze Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

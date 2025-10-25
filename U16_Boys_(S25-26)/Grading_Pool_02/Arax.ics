@@ -5,15 +5,4 @@ NAME:Arax Fixtures
 X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:c98616d9-e9da-4a0f-9e87-07350e37a76f
-SEQUENCE:0
-DTSTAMP:20251024T171504
-DTSTART:20251025T183000
-DTEND:20251025T191500
-SUMMARY:🏀 U16 Boys: Arax vs Timberwolves Raiders
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
- wolves Raiders\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

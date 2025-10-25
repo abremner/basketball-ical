@@ -5,15 +5,4 @@ NAME:Korowa Cherry Fixtures
 X-WR-CALNAME:Korowa Cherry Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:45b15748-6aec-4431-a362-7e60395e39af
-SEQUENCE:0
-DTSTAMP:20251024T171300
-DTSTART:20251025T114500
-DTEND:20251025T123000
-SUMMARY:🏀 U10 Girls: Korowa Cherry vs Solway Mistrals
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
-  Mistrals\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

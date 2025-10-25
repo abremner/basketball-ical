@@ -5,15 +5,4 @@ NAME:Arax Fixtures
 X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:55905647-18f6-4ba6-a7dc-e750b7ec4b68
-SEQUENCE:0
-DTSTAMP:20251024T171349
-DTSTART:20251025T131500
-DTEND:20251025T140000
-SUMMARY:🏀 U12 Boys: Arax vs Malvern Tigers Mauve
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
- n Tigers Mauve\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

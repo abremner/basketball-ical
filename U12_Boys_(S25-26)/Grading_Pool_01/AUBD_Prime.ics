@@ -5,15 +5,4 @@ NAME:AUBD Prime Fixtures
 X-WR-CALNAME:AUBD Prime Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:cebea2eb-185c-4e5a-962a-ff71bba0a2c4
-SEQUENCE:0
-DTSTAMP:20251024T171317
-DTSTART:20251025T161500
-DTEND:20251025T170000
-SUMMARY:🏀 U12 Boys: AUBD Prime vs Windsor Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Windso
- r Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

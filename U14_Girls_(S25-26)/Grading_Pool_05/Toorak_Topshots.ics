@@ -5,15 +5,4 @@ NAME:Toorak Topshots Fixtures
 X-WR-CALNAME:Toorak Topshots Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:d20c3ffc-9be8-479a-869f-8d1df7af9a0b
-SEQUENCE:0
-DTSTAMP:20251024T171456
-DTSTART:20251025T153000
-DTEND:20251025T161500
-SUMMARY:🏀 U14 Girls: Toorak Topshots vs Darling Park Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Darling
-  Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

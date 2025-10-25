@@ -5,15 +5,4 @@ NAME:Toorak Talons Fixtures
 X-WR-CALNAME:Toorak Talons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:ecf40b26-5fcb-4956-bf8d-03775a74d173
-SEQUENCE:0
-DTSTAMP:20251024T171400
-DTSTART:20251025T140000
-DTEND:20251025T144500
-SUMMARY:🏀 U12 Girls: Toorak Talons vs Lauriston Sparks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Lauris
- ton Sparks\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

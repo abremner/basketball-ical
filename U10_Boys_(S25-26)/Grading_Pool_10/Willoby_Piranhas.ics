@@ -5,15 +5,4 @@ NAME:Willoby Piranhas Fixtures
 X-WR-CALNAME:Willoby Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:0767a4d3-d328-4876-a7f1-62da1eb79eab
-SEQUENCE:0
-DTSTAMP:20251024T171252
-DTSTART:20251025T101500
-DTEND:20251025T110000
-SUMMARY:🏀 U10 Boys: Willoby Piranhas vs Maccabi Jaguars
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
- i Jaguars\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

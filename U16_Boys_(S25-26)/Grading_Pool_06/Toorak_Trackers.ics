@@ -5,15 +5,4 @@ NAME:Toorak Trackers Fixtures
 X-WR-CALNAME:Toorak Trackers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:1f4ae286-c056-4c01-a806-15c74b5c6371
-SEQUENCE:0
-DTSTAMP:20251024T171520
-DTSTART:20251025T174500
-DTEND:20251025T183000
-SUMMARY:🏀 U16 Boys: Toorak Trackers vs Maccabi Celtics
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
- i Celtics\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

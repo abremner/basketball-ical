@@ -5,15 +5,4 @@ NAME:Arax Fixtures
 X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:2523701e-4fb6-402f-9648-4f0cd4e2ded9
-SEQUENCE:0
-DTSTAMP:20251024T171313
-DTSTART:20251025T080000
-DTEND:20251025T084500
-SUMMARY:🏀 U10 Girls: Arax vs Lauriston Flames
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Lauris
- ton Flames\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

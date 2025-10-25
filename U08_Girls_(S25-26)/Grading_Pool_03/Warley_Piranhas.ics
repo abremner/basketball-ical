@@ -5,15 +5,4 @@ NAME:Warley Piranhas Fixtures
 X-WR-CALNAME:Warley Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:20c8cf53-27ff-47a5-8134-9cc6656308ab
-SEQUENCE:0
-DTSTAMP:20251024T171217
-DTSTART:20251025T080000
-DTEND:20251025T084500
-SUMMARY:🏀 U08 Girls: Warley Piranhas vs Maccabi Celtics
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
-  Celtics\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

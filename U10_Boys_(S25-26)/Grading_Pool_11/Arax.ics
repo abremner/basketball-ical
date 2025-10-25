@@ -5,15 +5,4 @@ NAME:Arax Fixtures
 X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:23adeb3e-2d11-401d-a39a-b21905aab844
-SEQUENCE:0
-DTSTAMP:20251024T171253
-DTSTART:20251025T080000
-DTEND:20251025T084500
-SUMMARY:🏀 U10 Boys: Arax vs Maccabi Lakers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
- i Lakers\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

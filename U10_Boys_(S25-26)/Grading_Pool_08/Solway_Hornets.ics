@@ -5,15 +5,4 @@ NAME:Solway Hornets Fixtures
 X-WR-CALNAME:Solway Hornets Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:f1a1a87b-18ad-49c7-803d-0f39f391daff
-SEQUENCE:0
-DTSTAMP:20251024T171243
-DTSTART:20251025T080000
-DTEND:20251025T084500
-SUMMARY:🏀 U10 Boys: Solway Hornets vs Toorak Thunderbolts
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
-  Thunderbolts\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

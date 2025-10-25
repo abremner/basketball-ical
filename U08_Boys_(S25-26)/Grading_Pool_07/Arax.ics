@@ -5,15 +5,4 @@ NAME:Arax Fixtures
 X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:f44e4c8e-f082-4e0c-9538-8d53e8299d70
-SEQUENCE:0
-DTSTAMP:20251024T171206
-DTSTART:20251025T080000
-DTEND:20251025T084500
-SUMMARY:🏀 U08 Boys: Arax vs Nettleton Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Nettlet
- on Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

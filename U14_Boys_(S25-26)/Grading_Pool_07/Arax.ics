@@ -5,15 +5,4 @@ NAME:Arax Fixtures
 X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:ef38f1d9-ea12-44f2-987c-9eda035679a9
-SEQUENCE:0
-DTSTAMP:20251024T171432
-DTSTART:20251025T131500
-DTEND:20251025T140000
-SUMMARY:🏀 U14 Boys: Arax vs SE Venom RBT Heat
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: SE Ven
- om RBT Heat\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

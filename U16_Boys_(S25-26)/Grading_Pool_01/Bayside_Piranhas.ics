@@ -5,15 +5,4 @@ NAME:Bayside Piranhas Fixtures
 X-WR-CALNAME:Bayside Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:ccb272d0-702e-49dc-8653-321f7b63e14a
-SEQUENCE:0
-DTSTAMP:20251024T171502
-DTSTART:20251025T183000
-DTEND:20251025T191500
-SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Toorak Tropics
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
-  Tropics\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,4 @@ NAME:Timberwolves Magnum Fixtures
 X-WR-CALNAME:Timberwolves Magnum Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:b8e0eb05-e8eb-43a7-bb3b-7ed735223786
-SEQUENCE:0
-DTSTAMP:20251024T171509
-DTSTART:20251025T191500
-DTEND:20251025T200000
-SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs Solway Super Sonics
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
-  Super Sonics\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,4 @@ NAME:Solway Mistrals Fixtures
 X-WR-CALNAME:Solway Mistrals Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:8d673072-6e9f-44e4-9976-e691824b59e2
-SEQUENCE:0
-DTSTAMP:20251024T171301
-DTSTART:20251025T114500
-DTEND:20251025T123000
-SUMMARY:🏀 U10 Girls: Solway Mistrals vs Korowa Cherry
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Korowa
-  Cherry\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

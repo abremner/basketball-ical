@@ -5,15 +5,4 @@ NAME:Solway Crows Fixtures
 X-WR-CALNAME:Solway Crows Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:971d7021-cafa-42be-9dc8-f1ff0b70dc2b
-SEQUENCE:0
-DTSTAMP:20251024T171353
-DTSTART:20251025T144500
-DTEND:20251025T153000
-SUMMARY:🏀 U12 Girls: Solway Crows vs Yanakie Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Yanaki
- e Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

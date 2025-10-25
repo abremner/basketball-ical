@@ -5,15 +5,4 @@ NAME:AUBD Storm Fixtures
 X-WR-CALNAME:AUBD Storm Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:d46c57e4-ecc2-4683-9d52-b6e585ebac55
-SEQUENCE:0
-DTSTAMP:20251024T171223
-DTSTART:20251025T131500
-DTEND:20251025T140000
-SUMMARY:🏀 U10 Boys: AUBD Storm vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
- ightning Gold\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

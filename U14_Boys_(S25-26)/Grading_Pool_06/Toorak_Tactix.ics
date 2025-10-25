@@ -5,15 +5,4 @@ NAME:Toorak Tactix Fixtures
 X-WR-CALNAME:Toorak Tactix Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:ab138de9-99cb-4928-afc8-8578a57479e1
-SEQUENCE:0
-DTSTAMP:20251024T171431
-DTSTART:20251025T153000
-DTEND:20251025T161500
-SUMMARY:🏀 U14 Boys: Toorak Tactix vs Timberwolves Ramblers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
- wolves Ramblers\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

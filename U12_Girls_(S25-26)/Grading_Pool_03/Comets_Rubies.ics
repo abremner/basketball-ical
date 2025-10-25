@@ -5,15 +5,4 @@ NAME:Comets Rubies Fixtures
 X-WR-CALNAME:Comets Rubies Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:db2409f6-1e1b-4d7d-ab3f-7424a2b40fa7
-SEQUENCE:0
-DTSTAMP:20251024T171356
-DTSTART:20251025T144500
-DTEND:20251025T153000
-SUMMARY:🏀 U12 Girls: Comets Rubies vs Malvern Tigers Red
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
- n Tigers Red\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

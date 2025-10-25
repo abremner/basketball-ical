@@ -5,15 +5,4 @@ NAME:Toorak Titans Fixtures
 X-WR-CALNAME:Toorak Titans Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:01da7389-be0d-471a-bfe7-c10c970714dd
-SEQUENCE:0
-DTSTAMP:20251024T171453
-DTSTART:20251025T153000
-DTEND:20251025T161500
-SUMMARY:🏀 U14 Girls: Toorak Titans vs Lauriston Liberty
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Lauris
- ton Liberty\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR
