@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Pythons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:358c5cf2-5144-4b98-8ce0-0964c98589f0
+UID:b93e81fd-85e2-41f2-9dc4-6dd2caa3c079
 SEQUENCE:0
-DTSTAMP:20251025T171426
-DTSTART:20251026T194500
-DTEND:20251026T203000
-SUMMARY:🏀 U21 Men: Solway Pythons vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
- ightning Gold\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:23331cd1-722c-4337-9270-d1029b225e7d
-SEQUENCE:0
-DTSTAMP:20251025T171426
+DTSTAMP:20251026T171444
 DTSTART:20251102T190000
 DTEND:20251102T194500
 SUMMARY:🏀 U21 Men: Solway Pythons vs Solway Cobras
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Cobras\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:559a4538-cd5a-4c2d-ac0c-aeb74df4371c
+UID:8394db94-caa1-4fe5-a2cf-7b2d9dba7702
 SEQUENCE:0
-DTSTAMP:20251025T171426
+DTSTAMP:20251026T171444
 DTSTART:20251109T190000
 DTEND:20251109T194500
 SUMMARY:🏀 U21 Men: Solway Pythons vs Ashy Lightning Yellow

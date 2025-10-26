@@ -5,15 +5,4 @@ NAME:Toorak Thunder Fixtures
 X-WR-CALNAME:Toorak Thunder Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:6b433707-9b8c-460c-ba9b-68ff723c9605
-SEQUENCE:0
-DTSTAMP:20251025T171205
-DTSTART:20251026T160000
-DTEND:20251026T164500
-SUMMARY:🏀 U12 Boys: Toorak Thunder vs Ardrie Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ardrie
-  Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

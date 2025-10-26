@@ -5,15 +5,4 @@ NAME:Maccabi Warriors Fixtures
 X-WR-CALNAME:Maccabi Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:fca40625-90b1-4174-a946-661e076adf09
-SEQUENCE:0
-DTSTAMP:20251025T171403
-DTSTART:20251026T181500
-DTEND:20251026T190000
-SUMMARY:🏀 U18 Boys: Maccabi Warriors vs Timberwolves Wizards
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
- wolves Wizards\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

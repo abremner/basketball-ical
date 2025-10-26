@@ -5,15 +5,4 @@ NAME:Comets Cyclones Fixtures
 X-WR-CALNAME:Comets Cyclones Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:e57356ad-ba38-4336-a21f-dd6c221f9191
-SEQUENCE:0
-DTSTAMP:20251025T171202
-DTSTART:20251026T164500
-DTEND:20251026T173000
-SUMMARY:🏀 U12 Boys: Comets Cyclones vs Timberwolves Suns
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
- wolves Suns\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR
