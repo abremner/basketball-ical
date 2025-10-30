@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Jets Fixtures
+X-WR-CALNAME:Solway Jets Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:15d93e5f-cb6b-4274-9fb7-7c6d56388103
+SEQUENCE:0
+DTSTAMP:20251030T025749
+DTSTART:20251101T183000
+DTEND:20251101T191500
+SUMMARY:🏀 U16 Boys: Solway Jets vs Manning Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Manning
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f479d90a-023e-46d3-823b-e2235bc70856
+SEQUENCE:0
+DTSTAMP:20251030T025749
+DTSTART:20251108T191500
+DTEND:20251108T200000
+SUMMARY:🏀 U16 Boys: Solway Jets vs Malvern Tigers Orange
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

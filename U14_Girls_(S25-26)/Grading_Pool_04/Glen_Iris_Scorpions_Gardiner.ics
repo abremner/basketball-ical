@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Gardiner Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Gardiner Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:139232f1-8b89-4cf8-8e5e-31339f48d7ae
+SEQUENCE:0
+DTSTAMP:20251030T025723
+DTSTART:20251101T153000
+DTEND:20251101T161500
+SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Gardiner vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ae915353-0c47-4098-9b5f-90e9cd0a0315
+SEQUENCE:0
+DTSTAMP:20251030T025723
+DTSTART:20251108T153000
+DTEND:20251108T161500
+SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Gardiner vs Lauriston Legacy
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Laurist
+ on Legacy\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

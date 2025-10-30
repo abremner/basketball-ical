@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Terriers Fixtures
+X-WR-CALNAME:Timberwolves Terriers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a19868dd-fd70-4fce-9622-0aeff303b286
+SEQUENCE:0
+DTSTAMP:20251030T025711
+DTSTART:20251101T153000
+DTEND:20251101T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Terriers vs Malvern Tigers Blue
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2b04778f-83fc-4c0e-80a8-acb1e4c59cb4
+SEQUENCE:0
+DTSTAMP:20251030T025711
+DTSTART:20251108T161500
+DTEND:20251108T170000
+SUMMARY:🏀 U14 Boys: Timberwolves Terriers vs Golden Hawks Iron
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Golden 
+ Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

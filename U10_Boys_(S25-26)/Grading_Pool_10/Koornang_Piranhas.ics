@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Koornang Piranhas Fixtures
+X-WR-CALNAME:Koornang Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e7575dc5-31a6-460d-8f84-95f6c02530b1
+SEQUENCE:0
+DTSTAMP:20251030T025548
+DTSTART:20251101T114500
+DTEND:20251101T123000
+SUMMARY:🏀 U10 Boys: Koornang Piranhas vs Phoenix Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Phoeni
+ x Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c60941a7-1e7a-4b95-8a43-9b137c825634
+SEQUENCE:0
+DTSTAMP:20251030T025548
+DTSTART:20251108T101500
+DTEND:20251108T110000
+SUMMARY:🏀 U10 Boys: Koornang Piranhas vs Maccabi Giants
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Giants\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+END:VCALENDAR

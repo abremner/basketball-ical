@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Triple-Threat Fixtures
+X-WR-CALNAME:Toorak Triple-Threat Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:13a02a0d-7fd7-4235-a2c2-2e30b61db027
+SEQUENCE:0
+DTSTAMP:20251030T025705
+DTSTART:20251101T170000
+DTEND:20251101T174500
+SUMMARY:🏀 U14 Boys: Toorak Triple-Threat vs AlphaWolf Conquerors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
+ lf Conquerors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:59693969-c9c8-4187-8110-a12c9810c2b0
+SEQUENCE:0
+DTSTAMP:20251030T025705
+DTSTART:20251108T174500
+DTEND:20251108T183000
+SUMMARY:🏀 U14 Boys: Toorak Triple-Threat vs Malvern Tigers White
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

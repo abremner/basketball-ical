@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Green Fixtures
+X-WR-CALNAME:Malvern Tigers Green Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8ee2521b-0b54-4565-8d27-b2d943ae3dbb
+SEQUENCE:0
+DTSTAMP:20251030T025537
+DTSTART:20251101T101500
+DTEND:20251101T110000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Green vs Solway Spurs
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Spurs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3496161b-79dd-4adc-bd78-44ad6c8ebb7b
+SEQUENCE:0
+DTSTAMP:20251030T025537
+DTSTART:20251108T093000
+DTEND:20251108T101500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Green vs Dendy Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Dendy 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

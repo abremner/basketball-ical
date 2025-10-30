@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Grace Park Piranhas Fixtures
+X-WR-CALNAME:Grace Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8f30ace7-61b6-44a5-8fab-5d0561645e5c
+SEQUENCE:0
+DTSTAMP:20251030T025605
+DTSTART:20251101T114500
+DTEND:20251101T123000
+SUMMARY:🏀 U10 Girls: Grace Park Piranhas vs Malvern Tigers Burton
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Burton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c6fc66c5-0bd8-479b-99fd-3b2ef2c9b1fb
+SEQUENCE:0
+DTSTAMP:20251030T025605
+DTSTART:20251108T114500
+DTEND:20251108T123000
+SUMMARY:🏀 U10 Girls: Grace Park Piranhas vs Netherlee Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Netherl
+ ee Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

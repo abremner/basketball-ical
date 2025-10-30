@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Blizzards Fixtures
+X-WR-CALNAME:Solway Blizzards Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:367a1363-6db4-4fc1-998e-1f90bd4218c2
+SEQUENCE:0
+DTSTAMP:20251030T025558
+DTSTART:20251101T114500
+DTEND:20251101T123000
+SUMMARY:🏀 U10 Girls: Solway Blizzards vs Malvern Tigers Phillips
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Phillips\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bbec1364-486d-4c67-a72a-503844a9fa68
+SEQUENCE:0
+DTSTAMP:20251030T025558
+DTSTART:20251108T114500
+DTEND:20251108T123000
+SUMMARY:🏀 U10 Girls: Solway Blizzards vs Halley Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Halley
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

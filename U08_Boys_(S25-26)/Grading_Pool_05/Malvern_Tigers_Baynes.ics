@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Baynes Fixtures
+X-WR-CALNAME:Malvern Tigers Baynes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4d01f17e-1ccb-4b80-b96c-a19de048a807
+SEQUENCE:0
+DTSTAMP:20251030T025514
+DTSTART:20251101T084500
+DTEND:20251101T093000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Baynes vs Renwick Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Renwick
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:72e941b5-f26a-43a9-8d55-7400a9838146
+SEQUENCE:0
+DTSTAMP:20251030T025514
+DTSTART:20251108T101500
+DTEND:20251108T110000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Baynes vs Solway Broncos
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Broncos\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

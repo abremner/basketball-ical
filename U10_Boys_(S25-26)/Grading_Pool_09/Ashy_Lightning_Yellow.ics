@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Yellow Fixtures
+X-WR-CALNAME:Ashy Lightning Yellow Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8f5dd1eb-5e7e-4b36-9c31-036c07bbf3a8
+SEQUENCE:0
+DTSTAMP:20251030T025545
+DTSTART:20251101T080000
+DTEND:20251101T084500
+SUMMARY:🏀 U10 Boys: Ashy Lightning Yellow vs Solway Hornets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Hornets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d44b155e-e639-463e-9f3e-f3b8a9b8e6e0
+SEQUENCE:0
+DTSTAMP:20251030T025545
+DTSTART:20251108T093000
+DTEND:20251108T101500
+SUMMARY:🏀 U10 Boys: Ashy Lightning Yellow vs Toorak Tigersharks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Tigersharks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

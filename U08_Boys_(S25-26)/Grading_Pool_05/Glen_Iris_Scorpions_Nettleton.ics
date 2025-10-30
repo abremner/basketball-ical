@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Nettleton Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Nettleton Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:edd3c3e8-a04f-4266-9b4e-a18f471c2dac
+SEQUENCE:0
+DTSTAMP:20251030T025514
+DTSTART:20251101T093000
+DTEND:20251101T101500
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Nettleton vs Ashy Lightning Gre
+ en
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9afd4949-3a31-44c9-88c9-58feb51f304c
+SEQUENCE:0
+DTSTAMP:20251030T025514
+DTSTART:20251108T093000
+DTEND:20251108T101500
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Nettleton vs Renwick Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Renwick
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

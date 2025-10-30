@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Hustle Fixtures
+X-WR-CALNAME:AlphaWolf Hustle Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:86e650cb-bf81-456a-bcf8-888a2f877b79
+SEQUENCE:0
+DTSTAMP:20251030T025706
+DTSTART:20251101T170000
+DTEND:20251101T174500
+SUMMARY:🏀 U14 Boys: AlphaWolf Hustle vs AlphaWolf Apex
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: AlphaWo
+ lf Apex\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bbe47799-5a37-415b-b9e3-f1dda8406c9e
+SEQUENCE:0
+DTSTAMP:20251030T025706
+DTSTART:20251108T153000
+DTEND:20251108T161500
+SUMMARY:🏀 U14 Boys: AlphaWolf Hustle vs Maccabi Ducks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

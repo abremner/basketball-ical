@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Blades Fixtures
+X-WR-CALNAME:Solway Blades Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3627e443-f0e5-4151-8df2-cbf4475bea5b
+SEQUENCE:0
+DTSTAMP:20251030T025744
+DTSTART:20251101T183000
+DTEND:20251101T191500
+SUMMARY:🏀 U16 Boys: Solway Blades vs Glen Iris Scorpions Saints
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
+ is Scorpions Saints\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2edb064f-d53e-49b7-bc35-d2ef8e7a1c2c
+SEQUENCE:0
+DTSTAMP:20251030T025744
+DTSTART:20251108T191500
+DTEND:20251108T200000
+SUMMARY:🏀 U16 Boys: Solway Blades vs Maccabi Haifa
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Haifa\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

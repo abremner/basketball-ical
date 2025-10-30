@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves United Fixtures
+X-WR-CALNAME:Timberwolves United Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b3e5e17b-fab9-4e0b-8fe3-7ea40354510b
+SEQUENCE:0
+DTSTAMP:20251030T025735
+DTSTART:20251101T191500
+DTEND:20251101T200000
+SUMMARY:🏀 U16 Boys: Timberwolves United vs Bayside Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Baysid
+ e Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:51dfcd0e-7320-43c1-9af1-2629542c1242
+SEQUENCE:0
+DTSTAMP:20251030T025735
+DTSTART:20251108T191500
+DTEND:20251108T200000
+SUMMARY:🏀 U16 Boys: Timberwolves United vs Timberwolves Hustlers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Hustlers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

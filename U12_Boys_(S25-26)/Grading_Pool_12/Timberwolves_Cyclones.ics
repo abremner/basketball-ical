@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Cyclones Fixtures
+X-WR-CALNAME:Timberwolves Cyclones Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:01127ae1-6482-489d-839e-8b47cf82a6c1
+SEQUENCE:0
+DTSTAMP:20251030T025637
+DTSTART:20251101T123000
+DTEND:20251101T131500
+SUMMARY:🏀 U12 Boys: Timberwolves Cyclones vs Solway Dingoes
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Dingoes\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3c3d1a0b-a145-4496-a885-c3851efce5fc
+SEQUENCE:0
+DTSTAMP:20251030T025637
+DTSTART:20251108T114500
+DTEND:20251108T123000
+SUMMARY:🏀 U12 Boys: Timberwolves Cyclones vs Malvern Tigers Lime
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Lime\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Blue Fixtures
+X-WR-CALNAME:Malvern Tigers Blue Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:daccf2ed-14ec-4f73-bbdf-ab40fc1997a4
+SEQUENCE:0
+DTSTAMP:20251030T025709
+DTSTART:20251101T153000
+DTEND:20251101T161500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Blue vs Timberwolves Terriers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Terriers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0a6498ca-0693-4bbb-a04c-bcc92f57bb73
+SEQUENCE:0
+DTSTAMP:20251030T025709
+DTSTART:20251108T153000
+DTEND:20251108T161500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Blue vs Solway Mavericks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Mavericks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

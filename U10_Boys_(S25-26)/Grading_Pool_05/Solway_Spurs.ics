@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Spurs Fixtures
+X-WR-CALNAME:Solway Spurs Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e335734b-2b6a-430e-905f-4cad61180c38
+SEQUENCE:0
+DTSTAMP:20251030T025537
+DTSTART:20251101T101500
+DTEND:20251101T110000
+SUMMARY:🏀 U10 Boys: Solway Spurs vs Malvern Tigers Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:73ed4aed-dbb2-49b6-a398-c00f6e5df386
+SEQUENCE:0
+DTSTAMP:20251030T025537
+DTSTART:20251108T110000
+DTEND:20251108T114500
+SUMMARY:🏀 U10 Boys: Solway Spurs vs Maccabi Celtics
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Celtics\nArrive 15 mi
+ ns early for warm-up
+END:VEVENT
+END:VCALENDAR

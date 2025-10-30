@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Vampires Fixtures
+X-WR-CALNAME:Solway Vampires Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ad72ee67-6945-4786-8ee6-3f5e9cf1fdff
+SEQUENCE:0
+DTSTAMP:20251030T025803
+DTSTART:20251102T181500
+DTEND:20251102T190000
+SUMMARY:🏀 U18 Boys: Solway Vampires vs Solway Torpedoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Torpedoes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6f5eeaf9-2743-4c81-b4d2-54306ac91011
+SEQUENCE:0
+DTSTAMP:20251030T025803
+DTSTART:20251109T181500
+DTEND:20251109T190000
+SUMMARY:🏀 U18 Boys: Solway Vampires vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Gardiner Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Gardiner Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ff90c581-3046-4304-8784-9732fb5a5696
+SEQUENCE:0
+DTSTAMP:20251030T025604
+DTSTART:20251101T114500
+DTEND:20251101T123000
+SUMMARY:🏀 U10 Girls: Glen Iris Scorpions Gardiner vs AlphaWolf Blaze
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: AlphaWolf B
+ laze\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:05a4cdb5-1b74-406d-afab-f478822edb7c
+SEQUENCE:0
+DTSTAMP:20251030T025604
+DTSTART:20251108T114500
+DTEND:20251108T123000
+SUMMARY:🏀 U10 Girls: Glen Iris Scorpions Gardiner vs Solway Typhoons
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Typh
+ oons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

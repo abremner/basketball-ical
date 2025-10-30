@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Ducks Fixtures
+X-WR-CALNAME:Maccabi Ducks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e706c1aa-a472-42a6-b6e2-d5dad177f06d
+SEQUENCE:0
+DTSTAMP:20251030T025651
+DTSTART:20251101T131500
+DTEND:20251101T140000
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Maccabi Falcons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Falcons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:787f8b1c-5037-4f12-8846-4b3f122cd6ed
+SEQUENCE:0
+DTSTAMP:20251030T025651
+DTSTART:20251108T123000
+DTEND:20251108T131500
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Timberwolves Pearls
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Pearls\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

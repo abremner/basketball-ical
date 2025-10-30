@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Lewis Fixtures
+X-WR-CALNAME:Malvern Tigers Lewis Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f5c674bb-27a3-406c-9928-e8792f33866f
+SEQUENCE:0
+DTSTAMP:20251030T025722
+DTSTART:20251101T174500
+DTEND:20251101T183000
+SUMMARY:🏀 U14 Girls: Malvern Tigers Lewis vs Glen Iris Scorpions Fernda
+ le
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
+ is Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:652b883a-f02d-4479-9023-d9477ab30139
+SEQUENCE:0
+DTSTAMP:20251030T025722
+DTSTART:20251108T170000
+DTEND:20251108T174500
+SUMMARY:🏀 U14 Girls: Malvern Tigers Lewis vs Cato Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Cato Pa
+ rk Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Green Fixtures
+X-WR-CALNAME:Malvern Tigers Green Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:54ea3fb3-716e-4680-adb7-197962ed06fa
+SEQUENCE:0
+DTSTAMP:20251030T025707
+DTSTART:20251101T161500
+DTEND:20251101T170000
+SUMMARY:🏀 U14 Boys: Malvern Tigers Green vs Timberwolves Stones
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Stones\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:949f0204-3aa8-407f-a1e0-56c5ed91be70
+SEQUENCE:0
+DTSTAMP:20251030T025707
+DTSTART:20251108T161500
+DTEND:20251108T170000
+SUMMARY:🏀 U14 Boys: Malvern Tigers Green vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

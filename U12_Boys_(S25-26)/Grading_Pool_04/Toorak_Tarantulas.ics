@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tarantulas Fixtures
+X-WR-CALNAME:Toorak Tarantulas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7a2f4263-99a1-4c95-8ca5-e61e8f892978
+SEQUENCE:0
+DTSTAMP:20251030T025618
+DTSTART:20251101T140000
+DTEND:20251101T144500
+SUMMARY:🏀 U12 Boys: Toorak Tarantulas vs Maccabi Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e6ab8eaf-7c0e-437a-bbf1-33e476b2ef6b
+SEQUENCE:0
+DTSTAMP:20251030T025618
+DTSTART:20251108T144500
+DTEND:20251108T153000
+SUMMARY:🏀 U12 Boys: Toorak Tarantulas vs Malvern Tigers White
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

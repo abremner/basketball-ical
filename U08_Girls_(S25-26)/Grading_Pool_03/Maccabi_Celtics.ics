@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8a578dcf-9a46-4dbf-8829-fc34bdff4e7e
+SEQUENCE:0
+DTSTAMP:20251030T025524
+DTSTART:20251101T084500
+DTEND:20251101T093000
+SUMMARY:🏀 U08 Girls: Maccabi Celtics vs Malvern Tigers Atwell
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Atwell\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:15567fb7-853e-481a-af8f-12aabd81e024
+SEQUENCE:0
+DTSTAMP:20251030T025524
+DTSTART:20251108T084500
+DTEND:20251108T093000
+SUMMARY:🏀 U08 Girls: Maccabi Celtics vs Malvern Tigers Wallace
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Wallace\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

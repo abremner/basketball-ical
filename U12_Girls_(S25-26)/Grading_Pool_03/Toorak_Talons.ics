@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Talons Fixtures
+X-WR-CALNAME:Toorak Talons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:efba0993-5bcf-48bc-8b91-ed0a5b25d23a
+SEQUENCE:0
+DTSTAMP:20251030T025645
+DTSTART:20251101T140000
+DTEND:20251101T144500
+SUMMARY:🏀 U12 Girls: Toorak Talons vs Ashy Lightning Gold
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
+ ghtning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c936c9df-d18a-4acf-ba24-ee968b58fa32
+SEQUENCE:0
+DTSTAMP:20251030T025645
+DTSTART:20251108T140000
+DTEND:20251108T144500
+SUMMARY:🏀 U12 Girls: Toorak Talons vs Aintree Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Aintree
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

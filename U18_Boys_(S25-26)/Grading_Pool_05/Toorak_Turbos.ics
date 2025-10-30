@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Turbos Fixtures
+X-WR-CALNAME:Toorak Turbos Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ffb996ac-9486-4462-adc8-474eb35694e2
+SEQUENCE:0
+DTSTAMP:20251030T025808
+DTSTART:20251102T181500
+DTEND:20251102T190000
+SUMMARY:🏀 U18 Boys: Toorak Turbos vs Timberwolves Trailblazers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Trailblazers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b82162bb-56dd-405e-a431-651c5c4ea8d2
+SEQUENCE:0
+DTSTAMP:20251030T025808
+DTSTART:20251109T173000
+DTEND:20251109T181500
+SUMMARY:🏀 U18 Boys: Toorak Turbos vs Timberwolves Knights
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Knights\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

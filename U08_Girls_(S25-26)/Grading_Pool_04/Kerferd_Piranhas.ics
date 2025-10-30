@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Kerferd Piranhas Fixtures
+X-WR-CALNAME:Kerferd Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c14a8f9d-f02d-4d3e-a901-cef88192d4a0
+SEQUENCE:0
+DTSTAMP:20251030T025527
+DTSTART:20251101T101500
+DTEND:20251101T110000
+SUMMARY:🏀 U08 Girls: Kerferd Piranhas vs Solway Supernovas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Supernovas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4eb1a28c-a21e-4a44-b9b1-a7581137f911
+SEQUENCE:0
+DTSTAMP:20251030T025527
+DTSTART:20251108T093000
+DTEND:20251108T101500
+SUMMARY:🏀 U08 Girls: Kerferd Piranhas vs Korowa Cherry
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Korowa Cher
+ ry\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Typhoons Fixtures
+X-WR-CALNAME:Solway Typhoons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8ab3b782-ce73-4ec0-a200-39a0cad494c7
+SEQUENCE:0
+DTSTAMP:20251030T025606
+DTSTART:20251101T110000
+DTEND:20251101T114500
+SUMMARY:🏀 U10 Girls: Solway Typhoons vs Netherlee Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Nether
+ lee Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3a726aa5-7a96-403f-afbb-0d01f0fcb3a9
+SEQUENCE:0
+DTSTAMP:20251030T025606
+DTSTART:20251108T114500
+DTEND:20251108T123000
+SUMMARY:🏀 U10 Girls: Solway Typhoons vs Glen Iris Scorpions Gardiner
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
+ corpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

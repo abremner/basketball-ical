@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tractors Fixtures
+X-WR-CALNAME:Toorak Tractors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b9ec2c7a-2cc4-42be-a9db-8126d02c2ef3
+SEQUENCE:0
+DTSTAMP:20251030T025708
+DTSTART:20251101T153000
+DTEND:20251101T161500
+SUMMARY:🏀 U14 Boys: Toorak Tractors vs Glen Iris Scorpions Nettleton
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
+ ris Scorpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e0f68799-9779-49b5-9f28-d26b836b0a86
+SEQUENCE:0
+DTSTAMP:20251030T025708
+DTSTART:20251108T170000
+DTEND:20251108T174500
+SUMMARY:🏀 U14 Boys: Toorak Tractors vs Timberwolves Stones
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Stones\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

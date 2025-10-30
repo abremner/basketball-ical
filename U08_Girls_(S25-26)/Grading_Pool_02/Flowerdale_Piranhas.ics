@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Flowerdale Piranhas Fixtures
+X-WR-CALNAME:Flowerdale Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:41eb9a29-9173-40d2-b07c-4316dc2e467f
+SEQUENCE:0
+DTSTAMP:20251030T025521
+DTSTART:20251101T110000
+DTEND:20251101T114500
+SUMMARY:🏀 U08 Girls: Flowerdale Piranhas vs Solway Meteors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Meteors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5f02c9ad-6538-43d2-9bd6-50a3fa9a26c7
+SEQUENCE:0
+DTSTAMP:20251030T025521
+DTSTART:20251108T101500
+DTEND:20251108T110000
+SUMMARY:🏀 U08 Girls: Flowerdale Piranhas vs Harleston Park Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Harleston P
+ ark Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

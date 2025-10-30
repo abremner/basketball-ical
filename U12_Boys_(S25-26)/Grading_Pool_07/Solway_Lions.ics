@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Lions Fixtures
+X-WR-CALNAME:Solway Lions Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:480d4eff-f3df-4d89-b595-a62ab47529dc
+SEQUENCE:0
+DTSTAMP:20251030T025626
+DTSTART:20251101T123000
+DTEND:20251101T131500
+SUMMARY:🏀 U12 Boys: Solway Lions vs Central Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Central
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:93ec0546-20b7-4b3d-8b78-c2354ed5e4e8
+SEQUENCE:0
+DTSTAMP:20251030T025626
+DTSTART:20251108T123000
+DTEND:20251108T131500
+SUMMARY:🏀 U12 Boys: Solway Lions vs Malvern Tigers Purple
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Purple\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

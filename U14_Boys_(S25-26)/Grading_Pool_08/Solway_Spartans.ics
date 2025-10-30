@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Spartans Fixtures
+X-WR-CALNAME:Solway Spartans Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:00c16767-bb10-40d9-abec-472ef6458b89
+SEQUENCE:0
+DTSTAMP:20251030T025714
+DTSTART:20251102T164500
+DTEND:20251102T173000
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Timberwolves Raptors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+ wolves Raptors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:30209142-93c1-4024-9bbf-a3b3f0e95336
+SEQUENCE:0
+DTSTAMP:20251030T025714
+DTSTART:20251108T161500
+DTEND:20251108T170000
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Timberwolves Dragons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+ wolves Dragons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

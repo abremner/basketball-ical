@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Renwick Piranhas Fixtures
+X-WR-CALNAME:Renwick Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d81415b9-df89-48ae-8436-cf4661c16e4d
+SEQUENCE:0
+DTSTAMP:20251030T025514
+DTSTART:20251101T084500
+DTEND:20251101T093000
+SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Malvern Tigers Baynes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Baynes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b5b30fe6-bbf1-4417-97a0-38434b59a8e2
+SEQUENCE:0
+DTSTAMP:20251030T025514
+DTSTART:20251108T093000
+DTEND:20251108T101500
+SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Glen Iris Scorpions Nettleton
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
+ is Scorpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

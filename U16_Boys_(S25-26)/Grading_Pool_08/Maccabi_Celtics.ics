@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:19e68286-0e3a-4182-9e7b-1e5283468f86
+SEQUENCE:0
+DTSTAMP:20251030T025751
+DTSTART:20251101T183000
+DTEND:20251101T191500
+SUMMARY:🏀 U16 Boys: Maccabi Celtics vs Ashy Lightning Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f6d18c6b-4259-4743-81fb-c081806ff6ef
+SEQUENCE:0
+DTSTAMP:20251030T025751
+DTSTART:20251108T183000
+DTEND:20251108T191500
+SUMMARY:🏀 U16 Boys: Maccabi Celtics vs Glen Iris Scorpions Suns
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
+ is Scorpions Suns\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

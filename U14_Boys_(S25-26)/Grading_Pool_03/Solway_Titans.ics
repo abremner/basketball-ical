@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Titans Fixtures
+X-WR-CALNAME:Solway Titans Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:cb32f407-c9a9-4afc-a85b-84995fbd30e0
+SEQUENCE:0
+DTSTAMP:20251030T025702
+DTSTART:20251101T170000
+DTEND:20251101T174500
+SUMMARY:🏀 U14 Boys: Solway Titans vs Timberwolves Phoenix
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Phoenix\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ffef43ea-64ba-4e4b-9907-5d693f6e1074
+SEQUENCE:0
+DTSTAMP:20251030T025702
+DTSTART:20251108T153000
+DTEND:20251108T161500
+SUMMARY:🏀 U14 Boys: Solway Titans vs Glen Iris Scorpions Gardiner
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
+ is Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Netherlee Piranhas Fixtures
+X-WR-CALNAME:Netherlee Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:90103d3e-caa1-4c5a-9b70-d23f225fcd5d
+SEQUENCE:0
+DTSTAMP:20251030T025606
+DTSTART:20251101T110000
+DTEND:20251101T114500
+SUMMARY:🏀 U10 Girls: Netherlee Piranhas vs Solway Typhoons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Typhoons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:55101c1b-6e9d-4f9e-8fd8-e5a08ec65f30
+SEQUENCE:0
+DTSTAMP:20251030T025606
+DTSTART:20251108T114500
+DTEND:20251108T123000
+SUMMARY:🏀 U10 Girls: Netherlee Piranhas vs Grace Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Grace P
+ ark Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

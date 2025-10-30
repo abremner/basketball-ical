@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Cats Fixtures
+X-WR-CALNAME:Timberwolves Cats Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b83bc64a-e101-4946-95d1-7ad3c6358553
+SEQUENCE:0
+DTSTAMP:20251030T025736
+DTSTART:20251101T183000
+DTEND:20251101T191500
+SUMMARY:🏀 U16 Boys: Timberwolves Cats vs Timberwolves Taipans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Taipans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:96d1c34b-eb8f-49db-b3f2-cbe6fac83b0e
+SEQUENCE:0
+DTSTAMP:20251030T025736
+DTSTART:20251108T174500
+DTEND:20251108T183000
+SUMMARY:🏀 U16 Boys: Timberwolves Cats vs Timberwolves Raiders
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Raiders\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

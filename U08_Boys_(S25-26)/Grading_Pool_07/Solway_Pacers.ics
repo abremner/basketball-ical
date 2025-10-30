@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Pacers Fixtures
+X-WR-CALNAME:Solway Pacers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7b028c5e-c367-4bed-aa31-05dcf755d321
+SEQUENCE:0
+DTSTAMP:20251030T025519
+DTSTART:20251101T093000
+DTEND:20251101T101500
+SUMMARY:🏀 U08 Boys: Solway Pacers vs Solway Hunters
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Hunters\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

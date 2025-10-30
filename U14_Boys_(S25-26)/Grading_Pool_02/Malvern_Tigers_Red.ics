@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Red Fixtures
+X-WR-CALNAME:Malvern Tigers Red Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:153ee1d8-57fb-4f4c-a17e-ff7a9bed4e8d
+SEQUENCE:0
+DTSTAMP:20251030T025700
+DTSTART:20251101T170000
+DTEND:20251101T174500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Red vs Timberwolves Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1bd73cb1-1155-4f73-855d-9a5d8ddb94c4
+SEQUENCE:0
+DTSTAMP:20251030T025700
+DTSTART:20251108T170000
+DTEND:20251108T174500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Red vs Elsternwick Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Elster
+ nwick Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Green Fixtures
+X-WR-CALNAME:Ashy Lightning Green Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0112f2d4-26eb-4f5d-8522-0ea894174df1
+SEQUENCE:0
+DTSTAMP:20251030T025748
+DTSTART:20251101T191500
+DTEND:20251101T200000
+SUMMARY:🏀 U16 Boys: Ashy Lightning Green vs Malvern Tigers Orange
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:78df9bd3-522c-403e-b396-133e6cb1ec22
+SEQUENCE:0
+DTSTAMP:20251030T025748
+DTSTART:20251108T183000
+DTEND:20251108T191500
+SUMMARY:🏀 U16 Boys: Ashy Lightning Green vs Solway Rangers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Rangers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

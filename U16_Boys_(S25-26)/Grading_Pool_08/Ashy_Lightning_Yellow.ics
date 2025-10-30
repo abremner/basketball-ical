@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Yellow Fixtures
+X-WR-CALNAME:Ashy Lightning Yellow Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d599d103-ad8e-420a-be93-50f96e3dfabb
+SEQUENCE:0
+DTSTAMP:20251030T025750
+DTSTART:20251101T183000
+DTEND:20251101T191500
+SUMMARY:🏀 U16 Boys: Ashy Lightning Yellow vs Maccabi Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:29b71d47-329f-424e-a421-b69ddccf4f7f
+SEQUENCE:0
+DTSTAMP:20251030T025750
+DTSTART:20251108T191500
+DTEND:20251108T200000
+SUMMARY:🏀 U16 Boys: Ashy Lightning Yellow vs Solway Rockets
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Rockets\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

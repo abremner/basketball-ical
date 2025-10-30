@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Suns Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Suns Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a58b92e3-aa65-49e2-b140-1cc766a7ce85
+SEQUENCE:0
+DTSTAMP:20251030T025750
+DTSTART:20251101T183000
+DTEND:20251101T191500
+SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Suns vs Malvern Tigers Blue
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8b0c4dbe-a925-4340-81c1-848fcdba8b0f
+SEQUENCE:0
+DTSTAMP:20251030T025750
+DTSTART:20251108T183000
+DTEND:20251108T191500
+SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Suns vs Maccabi Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

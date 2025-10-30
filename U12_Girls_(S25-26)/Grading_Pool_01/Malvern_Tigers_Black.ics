@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Black Fixtures
+X-WR-CALNAME:Malvern Tigers Black Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9025474b-a19c-4af4-a7c7-1482e1965175
+SEQUENCE:0
+DTSTAMP:20251030T025641
+DTSTART:20251101T144500
+DTEND:20251101T153000
+SUMMARY:🏀 U12 Girls: Malvern Tigers Black vs Comets Rubies
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
+  Rubies\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:af06e838-f1a5-4ccf-9d36-f0072d144690
+SEQUENCE:0
+DTSTAMP:20251030T025641
+DTSTART:20251108T144500
+DTEND:20251108T153000
+SUMMARY:🏀 U12 Girls: Malvern Tigers Black vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

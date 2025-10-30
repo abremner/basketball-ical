@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Maroon Fixtures
+X-WR-CALNAME:Malvern Tigers Maroon Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:75b9042a-9c6f-4b2d-930f-5f717cb911cd
+SEQUENCE:0
+DTSTAMP:20251030T025717
+DTSTART:20251101T144500
+DTEND:20251101T153000
+SUMMARY:🏀 U14 Boys: Malvern Tigers Maroon vs Malvern Tigers  Purple
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers  Purple\nArriv
+ e 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8d08b094-d0aa-4720-b807-e602100a263b
+SEQUENCE:0
+DTSTAMP:20251030T025717
+DTSTART:20251109T164500
+DTEND:20251109T173000
+SUMMARY:🏀 U14 Boys: Malvern Tigers Maroon vs Maccabi Hawks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

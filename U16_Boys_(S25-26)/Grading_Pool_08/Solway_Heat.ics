@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Heat Fixtures
+X-WR-CALNAME:Solway Heat Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:fd629b67-2399-45c5-8029-f9d644473097
+SEQUENCE:0
+DTSTAMP:20251030T025751
+DTSTART:20251101T191500
+DTEND:20251101T200000
+SUMMARY:🏀 U16 Boys: Solway Heat vs Solway Rockets
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Rockets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:69333756-8496-4615-af88-4ac60dde7bb6
+SEQUENCE:0
+DTSTAMP:20251030T025751
+DTSTART:20251108T183000
+DTEND:20251108T191500
+SUMMARY:🏀 U16 Boys: Solway Heat vs Malvern Tigers Blue
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

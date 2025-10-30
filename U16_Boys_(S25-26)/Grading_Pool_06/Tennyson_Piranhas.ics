@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Tennyson Piranhas Fixtures
+X-WR-CALNAME:Tennyson Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f1837278-1630-445a-b26d-2f31bbaf4ccc
+SEQUENCE:0
+DTSTAMP:20251030T025747
+DTSTART:20251101T183000
+DTEND:20251101T191500
+SUMMARY:🏀 U16 Boys: Tennyson Piranhas vs Malvern Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:72c03719-3496-4544-9ab7-81afa804a83b
+SEQUENCE:0
+DTSTAMP:20251030T025747
+DTSTART:20251108T183000
+DTEND:20251108T191500
+SUMMARY:🏀 U16 Boys: Tennyson Piranhas vs Timberwolves Bulls
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Bulls\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Blaze Fixtures
+X-WR-CALNAME:Timberwolves Blaze Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:732beb31-81c5-4b61-acbb-84b86af079ac
+SEQUENCE:0
+DTSTAMP:20251030T025749
+DTSTART:20251101T191500
+DTEND:20251101T200000
+SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Solway Rangers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Rangers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:660f176d-93ec-4047-8b44-114b6ab89d44
+SEQUENCE:0
+DTSTAMP:20251030T025749
+DTSTART:20251108T191500
+DTEND:20251108T200000
+SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Manning Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Manning
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

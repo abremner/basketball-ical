@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Giddey Fixtures
+X-WR-CALNAME:Malvern Tigers Giddey Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3f2458b2-1dfd-44ba-b13f-d86bfd6c6deb
+SEQUENCE:0
+DTSTAMP:20251030T025509
+DTSTART:20251101T084500
+DTEND:20251101T093000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Giddey vs Burnley Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Burnley
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4a8ffab5-faf6-45a2-b610-297d328771ea
+SEQUENCE:0
+DTSTAMP:20251030T025509
+DTSTART:20251108T084500
+DTEND:20251108T093000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Giddey vs Solway Stallions
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Stallions\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

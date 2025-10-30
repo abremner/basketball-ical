@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Blue Fixtures
+X-WR-CALNAME:Malvern Tigers Blue Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:098e912f-8f83-4d87-8a16-747f2380d47a
+SEQUENCE:0
+DTSTAMP:20251030T025652
+DTSTART:20251101T140000
+DTEND:20251101T144500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Blue vs Solway Red Robins
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Red 
+ Robins\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7dd2e69e-0adc-44fd-b208-9b26105f1404
+SEQUENCE:0
+DTSTAMP:20251030T025652
+DTSTART:20251108T140000
+DTEND:20251108T144500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Blue vs Maccabi Falcons
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Fal
+ cons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

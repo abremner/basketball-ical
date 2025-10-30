@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Wilson Piranhas Fixtures
+X-WR-CALNAME:Wilson Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:af50e768-a658-49eb-8247-c6accdb48eb6
+SEQUENCE:0
+DTSTAMP:20251030T025640
+DTSTART:20251102T160000
+DTEND:20251102T164500
+SUMMARY:🏀 U12 Boys: Wilson Piranhas vs Timberwolves Fury
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Fury\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7e829af0-9020-4f2c-807f-30d9c3034069
+SEQUENCE:0
+DTSTAMP:20251030T025640
+DTSTART:20251108T114500
+DTEND:20251108T123000
+SUMMARY:🏀 U12 Boys: Wilson Piranhas vs Timberwolves Cavs
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Cavs\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

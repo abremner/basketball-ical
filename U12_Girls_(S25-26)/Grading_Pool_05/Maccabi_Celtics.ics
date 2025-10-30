@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a1154029-1e15-4013-9fe7-ad2b7604abbd
+SEQUENCE:0
+DTSTAMP:20251030T025649
+DTSTART:20251101T144500
+DTEND:20251101T153000
+SUMMARY:🏀 U12 Girls: Maccabi Celtics vs AlphaWolf Sparks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: AlphaWolf S
+ parks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d66f928e-191e-4da8-8fef-5113b269e27a
+SEQUENCE:0
+DTSTAMP:20251030T025649
+DTSTART:20251108T144500
+DTEND:20251108T153000
+SUMMARY:🏀 U12 Girls: Maccabi Celtics vs Korowa Grey
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Korowa Grey
+ \nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

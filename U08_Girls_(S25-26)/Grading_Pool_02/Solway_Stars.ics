@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Stars Fixtures
+X-WR-CALNAME:Solway Stars Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4b4150f2-bef2-40f7-9102-bb9536fc7dce
+SEQUENCE:0
+DTSTAMP:20251030T025523
+DTSTART:20251101T101500
+DTEND:20251101T110000
+SUMMARY:🏀 U08 Girls: Solway Stars vs Ashy Lightning Gold
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Ashy Lightn
+ ing Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1dfb4fe6-3939-4f4b-ab0d-74e2d13aae9f
+SEQUENCE:0
+DTSTAMP:20251030T025523
+DTSTART:20251108T110000
+DTEND:20251108T114500
+SUMMARY:🏀 U08 Girls: Solway Stars vs Solway Blazes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Blazes\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Exum Fixtures
+X-WR-CALNAME:Malvern Tigers Exum Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:35db8e6f-df3e-4fdc-bb75-05e99c07955b
+SEQUENCE:0
+DTSTAMP:20251030T025509
+DTSTART:20251108T110000
+DTEND:20251108T114500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Exum vs Solway Steeds
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Steeds\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Giants Fixtures
+X-WR-CALNAME:Maccabi Giants Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6d1955b1-ddd3-4986-a63c-830820824fbe
+SEQUENCE:0
+DTSTAMP:20251030T025712
+DTSTART:20251101T131500
+DTEND:20251101T140000
+SUMMARY:🏀 U14 Boys: Maccabi Giants vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c565829f-8cad-4de2-a7ff-c101b759bda7
+SEQUENCE:0
+DTSTAMP:20251030T025712
+DTSTART:20251108T161500
+DTEND:20251108T170000
+SUMMARY:🏀 U14 Boys: Maccabi Giants vs Ashy Lightning Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

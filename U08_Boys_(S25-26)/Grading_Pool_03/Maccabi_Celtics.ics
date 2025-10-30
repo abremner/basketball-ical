@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:acadc4ff-693e-44cb-841c-71b37be54878
+SEQUENCE:0
+DTSTAMP:20251030T025508
+DTSTART:20251101T110000
+DTEND:20251101T114500
+SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Malvern Tigers Dellavedova
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Dellavedova\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:30e23e5f-aa12-4054-aeef-d1fe5786ba46
+SEQUENCE:0
+DTSTAMP:20251030T025508
+DTSTART:20251108T093000
+DTEND:20251108T101500
+SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Burnley Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Burnley
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

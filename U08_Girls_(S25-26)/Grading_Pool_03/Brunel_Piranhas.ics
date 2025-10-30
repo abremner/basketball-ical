@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Brunel Piranhas Fixtures
+X-WR-CALNAME:Brunel Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:31daf7a1-34c1-4509-a07c-ba6d4a093153
+SEQUENCE:0
+DTSTAMP:20251030T025524
+DTSTART:20251101T101500
+DTEND:20251101T110000
+SUMMARY:🏀 U08 Girls: Brunel Piranhas vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:da385a09-1dbb-4eca-93f9-82eb20a08634
+SEQUENCE:0
+DTSTAMP:20251030T025524
+DTSTART:20251108T080000
+DTEND:20251108T084500
+SUMMARY:🏀 U08 Girls: Brunel Piranhas vs Malvern Tigers Wilson
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Wilson\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

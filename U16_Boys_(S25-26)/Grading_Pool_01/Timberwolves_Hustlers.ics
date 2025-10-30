@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Hustlers Fixtures
+X-WR-CALNAME:Timberwolves Hustlers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:558f0b1a-5fa9-470f-9259-d17a4539f345
+SEQUENCE:0
+DTSTAMP:20251030T025734
+DTSTART:20251101T183000
+DTEND:20251101T191500
+SUMMARY:🏀 U16 Boys: Timberwolves Hustlers vs Bailey Reserve Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Bailey
+  Reserve Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e59b6f27-e491-4da7-b80f-7dbf5dd0feae
+SEQUENCE:0
+DTSTAMP:20251030T025734
+DTSTART:20251108T191500
+DTEND:20251108T200000
+SUMMARY:🏀 U16 Boys: Timberwolves Hustlers vs Timberwolves United
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves United\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

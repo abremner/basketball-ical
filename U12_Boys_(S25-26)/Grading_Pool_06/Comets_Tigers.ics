@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Comets Tigers Fixtures
+X-WR-CALNAME:Comets Tigers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5216d45e-06f9-4df0-8389-aa0f089a5500
+SEQUENCE:0
+DTSTAMP:20251030T025622
+DTSTART:20251102T164500
+DTEND:20251102T173000
+SUMMARY:🏀 U12 Boys: Comets Tigers vs Malvern Tigers Blue
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5adcb37d-b655-497f-895c-005c89473037
+SEQUENCE:0
+DTSTAMP:20251030T025622
+DTSTART:20251109T164500
+DTEND:20251109T173000
+SUMMARY:🏀 U12 Boys: Comets Tigers vs Maccabi Falcons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Falcons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

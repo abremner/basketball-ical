@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Green Fixtures
+X-WR-CALNAME:Ashy Lightning Green Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0302acbb-715d-40c0-b31d-443f78d12aed
+SEQUENCE:0
+DTSTAMP:20251030T025534
+DTSTART:20251101T110000
+DTEND:20251101T114500
+SUMMARY:🏀 U10 Boys: Ashy Lightning Green vs Penpraze Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Penpra
+ ze Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:acfd7117-4a14-4ed7-9135-7cd768e31295
+SEQUENCE:0
+DTSTAMP:20251030T025534
+DTSTART:20251108T101500
+DTEND:20251108T110000
+SUMMARY:🏀 U10 Boys: Ashy Lightning Green vs Timberwolves Boomers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Boomers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

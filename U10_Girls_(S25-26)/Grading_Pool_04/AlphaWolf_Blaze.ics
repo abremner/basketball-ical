@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Blaze Fixtures
+X-WR-CALNAME:AlphaWolf Blaze Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5960e8f5-46d1-4fa7-a339-fb41312991ab
+SEQUENCE:0
+DTSTAMP:20251030T025604
+DTSTART:20251101T114500
+DTEND:20251101T123000
+SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Glen Iris Scorpions Gardiner
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
+ corpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:209e9832-9d8f-4fe4-bfc9-895f452936e8
+SEQUENCE:0
+DTSTAMP:20251030T025604
+DTSTART:20251108T080000
+DTEND:20251108T084500
+SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

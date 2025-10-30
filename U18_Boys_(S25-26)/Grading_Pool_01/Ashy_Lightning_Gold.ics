@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Gold Fixtures
+X-WR-CALNAME:Ashy Lightning Gold Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ab59d5f7-0e20-467d-a328-290e1a5e3c4f
+SEQUENCE:0
+DTSTAMP:20251030T025759
+DTSTART:20251102T190000
+DTEND:20251102T194500
+SUMMARY:🏀 U18 Boys: Ashy Lightning Gold vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:22213ac3-7a6d-424e-bdad-c7e100f06f40
+SEQUENCE:0
+DTSTAMP:20251030T025759
+DTSTART:20251109T181500
+DTEND:20251109T190000
+SUMMARY:🏀 U18 Boys: Ashy Lightning Gold vs Hazelwood Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Hazelw
+ ood Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

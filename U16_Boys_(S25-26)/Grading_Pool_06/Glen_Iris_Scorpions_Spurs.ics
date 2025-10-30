@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Spurs Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Spurs Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7f161f49-2e90-448e-8432-b0ba60ed5a16
+SEQUENCE:0
+DTSTAMP:20251030T025745
+DTSTART:20251101T183000
+DTEND:20251101T191500
+SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Spurs vs Timberwolves Bulls
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Bulls\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:af1cc34f-2190-4ea5-8f75-68d5fa8fad9f
+SEQUENCE:0
+DTSTAMP:20251030T025745
+DTSTART:20251108T174500
+DTEND:20251108T183000
+SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Spurs vs Malvern Tigers Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

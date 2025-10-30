@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Lauriston Legends Fixtures
+X-WR-CALNAME:Lauriston Legends Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3c53d6f7-e563-4f3d-888a-29b8782978b8
+SEQUENCE:0
+DTSTAMP:20251030T025729
+DTSTART:20251101T153000
+DTEND:20251101T161500
+SUMMARY:🏀 U14 Girls: Lauriston Legends vs Ashy Lightning Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7380b3ca-adea-483b-910a-372beee45bf4
+SEQUENCE:0
+DTSTAMP:20251030T025729
+DTSTART:20251108T161500
+DTEND:20251108T170000
+SUMMARY:🏀 U14 Girls: Lauriston Legends vs Malvern Tigers Nelson
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Nelson\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

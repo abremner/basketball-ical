@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Eagles Fixtures
+X-WR-CALNAME:Maccabi Eagles Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:850e6c33-c3b1-49a1-9fbc-8ecde2c7f1f3
+SEQUENCE:0
+DTSTAMP:20251030T025651
+DTSTART:20251101T140000
+DTEND:20251101T144500
+SUMMARY:🏀 U12 Girls: Maccabi Eagles vs Lauriston Storm
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston S
+ torm\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4bd71443-d416-4750-a505-40a12e3c8b58
+SEQUENCE:0
+DTSTAMP:20251030T025651
+DTSTART:20251108T131500
+DTEND:20251108T140000
+SUMMARY:🏀 U12 Girls: Maccabi Eagles vs Solway Red Robins
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Red Robins\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

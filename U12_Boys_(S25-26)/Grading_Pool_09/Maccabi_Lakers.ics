@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Lakers Fixtures
+X-WR-CALNAME:Maccabi Lakers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:aecb0396-7927-4bfd-b4b7-42e5413653ae
+SEQUENCE:0
+DTSTAMP:20251030T025631
+DTSTART:20251102T164500
+DTEND:20251102T173000
+SUMMARY:🏀 U12 Boys: Maccabi Lakers vs Glen Iris Scorpions Nettleton
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:40c16d72-1284-4d09-963e-fc6633123e1b
+SEQUENCE:0
+DTSTAMP:20251030T025631
+DTSTART:20251108T140000
+DTEND:20251108T144500
+SUMMARY:🏀 U12 Boys: Maccabi Lakers vs Ashy Lightning Yellow
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Ashy Lightning Yellow\nArrive
+  15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

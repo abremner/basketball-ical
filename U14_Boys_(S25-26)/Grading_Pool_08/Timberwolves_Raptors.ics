@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Raptors Fixtures
+X-WR-CALNAME:Timberwolves Raptors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6349ab9c-607e-45db-8632-92ea902f5fd3
+SEQUENCE:0
+DTSTAMP:20251030T025715
+DTSTART:20251102T164500
+DTEND:20251102T173000
+SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Solway Spartans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Spartans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e2a4b7e5-c5df-485a-bb10-de6c5884c60d
+SEQUENCE:0
+DTSTAMP:20251030T025715
+DTSTART:20251108T153000
+DTEND:20251108T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Beckett Park Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Beckett Park Piranhas\nArrive
+  15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

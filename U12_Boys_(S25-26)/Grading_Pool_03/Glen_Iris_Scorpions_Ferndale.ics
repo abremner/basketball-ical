@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Ferndale Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Ferndale Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:40767e1c-4ec1-4eee-8b5b-b569cdb3a415
+SEQUENCE:0
+DTSTAMP:20251030T025615
+DTSTART:20251101T144500
+DTEND:20251101T153000
+SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Ferndale vs Timberwolves Colts
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Colts\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d9cc1130-f2fb-49c9-a7ea-ab3b82213181
+SEQUENCE:0
+DTSTAMP:20251030T025615
+DTSTART:20251108T140000
+DTEND:20251108T144500
+SUMMARY:🏀 U12 Boys: Glen Iris Scorpions Ferndale vs Solway Cubs
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Cubs\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

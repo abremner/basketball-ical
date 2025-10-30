@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Green Fixtures
+X-WR-CALNAME:Malvern Tigers Green Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:39be9a8f-b24b-4858-8338-dd68180799fe
+SEQUENCE:0
+DTSTAMP:20251030T025647
+DTSTART:20251101T131500
+DTEND:20251101T140000
+SUMMARY:🏀 U12 Girls: Malvern Tigers Green vs Malvern Tigers White
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1b00a50f-a3aa-4f1e-86ed-48be27ee22dc
+SEQUENCE:0
+DTSTAMP:20251030T025647
+DTSTART:20251108T144500
+DTEND:20251108T153000
+SUMMARY:🏀 U12 Girls: Malvern Tigers Green vs Maccabi Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Emeralds Fixtures
+X-WR-CALNAME:Solway Emeralds Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8cc47851-9140-491e-bd78-79fed6269ad4
+SEQUENCE:0
+DTSTAMP:20251030T025725
+DTSTART:20251101T170000
+DTEND:20251101T174500
+SUMMARY:🏀 U14 Girls: Solway Emeralds vs Solway Diamonds
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Diamonds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:356a5cda-e690-4f64-9279-3ced6e62f749
+SEQUENCE:0
+DTSTAMP:20251030T025725
+DTSTART:20251108T170000
+DTEND:20251108T174500
+SUMMARY:🏀 U14 Girls: Solway Emeralds vs Malvern Tigers Deacon
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Deacon\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

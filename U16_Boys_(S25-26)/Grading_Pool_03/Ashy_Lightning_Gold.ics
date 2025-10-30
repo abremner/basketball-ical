@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Gold Fixtures
+X-WR-CALNAME:Ashy Lightning Gold Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e0c510a5-22f4-4af0-85e2-4c94447e18d3
+SEQUENCE:0
+DTSTAMP:20251030T025738
+DTSTART:20251101T174500
+DTEND:20251101T183000
+SUMMARY:🏀 U16 Boys: Ashy Lightning Gold vs AUBD Thunder
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AUBD T
+ hunder\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:97b0d679-5809-46cd-99f9-54a12f4576c5
+SEQUENCE:0
+DTSTAMP:20251030T025738
+DTSTART:20251108T183000
+DTEND:20251108T191500
+SUMMARY:🏀 U16 Boys: Ashy Lightning Gold vs Timberwolves Nuggets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Nuggets\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

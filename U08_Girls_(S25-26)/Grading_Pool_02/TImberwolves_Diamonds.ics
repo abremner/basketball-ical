@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:TImberwolves Diamonds Fixtures
+X-WR-CALNAME:TImberwolves Diamonds Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3275f240-0b8e-463d-a761-a4713ff6d6fb
+SEQUENCE:0
+DTSTAMP:20251030T025523
+DTSTART:20251101T080000
+DTEND:20251101T084500
+SUMMARY:🏀 U08 Girls: TImberwolves Diamonds vs Harleston Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Harlest
+ on Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e67b92cb-4cba-48fd-9c2d-f3b82c0c5bd4
+SEQUENCE:0
+DTSTAMP:20251030T025523
+DTSTART:20251108T080000
+DTEND:20251108T084500
+SUMMARY:🏀 U08 Girls: TImberwolves Diamonds vs Maccabi Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Wallis Piranhas Fixtures
+X-WR-CALNAME:Wallis Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3da6c17a-4d41-4fa6-bd3a-d2bd93e80186
+SEQUENCE:0
+DTSTAMP:20251030T025528
+DTSTART:20251108T084500
+DTEND:20251108T093000
+SUMMARY:🏀 U08 Girls: Wallis Piranhas vs Lauriston Flyers
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston F
+ lyers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

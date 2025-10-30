@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Falcons Fixtures
+X-WR-CALNAME:Maccabi Falcons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e1c8b5b3-ed33-4b92-95c2-2ad0c594b2f4
+SEQUENCE:0
+DTSTAMP:20251030T025622
+DTSTART:20251101T140000
+DTEND:20251101T144500
+SUMMARY:🏀 U12 Boys: Maccabi Falcons vs Toorak Tigersnakes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
+ Tigersnakes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6e3d8b15-2e69-4779-88bb-1314609c69d3
+SEQUENCE:0
+DTSTAMP:20251030T025622
+DTSTART:20251109T164500
+DTEND:20251109T173000
+SUMMARY:🏀 U12 Boys: Maccabi Falcons vs Comets Tigers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Comets
+  Tigers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

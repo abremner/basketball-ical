@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Nettleton Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Nettleton Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:fd16fcc1-ac34-4bf0-9eba-5ce00fef7144
+SEQUENCE:0
+DTSTAMP:20251030T025539
+DTSTART:20251101T084500
+DTEND:20251101T093000
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Nettleton vs Solway Bulls
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Bulls\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:74ce0a25-aa7e-4858-8721-23ecf922d789
+SEQUENCE:0
+DTSTAMP:20251030T025539
+DTSTART:20251109T160000
+DTEND:20251109T164500
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Nettleton vs Timberwolves Cubs
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Cubs\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

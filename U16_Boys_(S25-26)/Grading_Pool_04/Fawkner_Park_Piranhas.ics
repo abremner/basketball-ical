@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Fawkner Park Piranhas Fixtures
+X-WR-CALNAME:Fawkner Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:47a4132a-838c-43d3-9667-6673944f55d0
+SEQUENCE:0
+DTSTAMP:20251030T025741
+DTSTART:20251101T183000
+DTEND:20251101T191500
+SUMMARY:🏀 U16 Boys: Fawkner Park Piranhas vs AlphaWolf Sixseveners
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: AlphaW
+ olf Sixseveners\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:406ea759-8350-4551-9766-28de3d6b4372
+SEQUENCE:0
+DTSTAMP:20251030T025741
+DTSTART:20251108T183000
+DTEND:20251108T191500
+SUMMARY:🏀 U16 Boys: Fawkner Park Piranhas vs Timberwolves 36ers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+ wolves 36ers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway  Devils Fixtures
+X-WR-CALNAME:Solway  Devils Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:db872f95-0546-4ab8-93d2-3aee640c10fc
+SEQUENCE:0
+DTSTAMP:20251030T025629
+DTSTART:20251101T131500
+DTEND:20251101T140000
+SUMMARY:🏀 U12 Boys: Solway  Devils vs Toorak Trouble
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Toorak 
+ Trouble\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1062716b-b4c1-485b-97e4-94d0cc1afd74
+SEQUENCE:0
+DTSTAMP:20251030T025629
+DTSTART:20251108T131500
+DTEND:20251108T140000
+SUMMARY:🏀 U12 Boys: Solway  Devils vs Comets Cyclones
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Comets Cyclones\nArrive 15 mi
+ ns early for warm-up
+END:VEVENT
+END:VCALENDAR

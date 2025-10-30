@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Arax Fixtures
+X-WR-CALNAME:Arax Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7e627a95-51f3-4455-8d31-69c6222f3a5c
+SEQUENCE:0
+DTSTAMP:20251030T025554
+DTSTART:20251101T080000
+DTEND:20251101T084500
+SUMMARY:🏀 U10 Boys: Arax vs Malvern Tigers Lime
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Lime\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6da2d216-fe98-487f-a1b7-ac5267446366
+SEQUENCE:0
+DTSTAMP:20251030T025554
+DTSTART:20251108T080000
+DTEND:20251108T084500
+SUMMARY:🏀 U10 Boys: Arax vs Heyington Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Heying
+ ton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

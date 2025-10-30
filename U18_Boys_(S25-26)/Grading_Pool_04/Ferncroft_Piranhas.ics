@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ferncroft Piranhas Fixtures
+X-WR-CALNAME:Ferncroft Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7ca86f6b-7005-4bac-b11c-a3357f4f9ac4
+SEQUENCE:0
+DTSTAMP:20251030T025803
+DTSTART:20251102T190000
+DTEND:20251102T194500
+SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Timberwolves Wildcats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Wildcats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b43bbaca-4e8b-493a-ad98-9e89d6b81dcd
+SEQUENCE:0
+DTSTAMP:20251030T025803
+DTSTART:20251109T181500
+DTEND:20251109T190000
+SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Timberwolves Wizards
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Wizards\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

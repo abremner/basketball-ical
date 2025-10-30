@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Longley Fixtures
+X-WR-CALNAME:Malvern Tigers Longley Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:33beb730-4d31-4ceb-af10-0b4d5e73e5ed
+SEQUENCE:0
+DTSTAMP:20251030T025512
+DTSTART:20251101T110000
+DTEND:20251101T114500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Golden Hawks Sky
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Golden 
+ Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9e5c390e-441f-41fa-9158-f339686776e8
+SEQUENCE:0
+DTSTAMP:20251030T025512
+DTSTART:20251108T110000
+DTEND:20251108T114500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs AlphaWolf Titans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: AlphaWo
+ lf Titans\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

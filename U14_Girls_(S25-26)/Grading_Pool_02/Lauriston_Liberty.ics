@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Lauriston Liberty Fixtures
+X-WR-CALNAME:Lauriston Liberty Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2792ef6c-2cfe-4c34-a2e3-c53a7a8ed990
+SEQUENCE:0
+DTSTAMP:20251030T025719
+DTSTART:20251101T174500
+DTEND:20251101T183000
+SUMMARY:🏀 U14 Girls: Lauriston Liberty vs Maccabi Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:79421a76-0997-4c23-b162-b218da0dee24
+SEQUENCE:0
+DTSTAMP:20251030T025719
+DTSTART:20251108T170000
+DTEND:20251108T174500
+SUMMARY:🏀 U14 Girls: Lauriston Liberty vs Ranfurlie Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ranfur
+ lie Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

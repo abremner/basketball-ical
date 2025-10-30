@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Tornados Fixtures
+X-WR-CALNAME:AlphaWolf Tornados Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3456dcf5-7bb1-46fd-993e-7250e4a219ab
+SEQUENCE:0
+DTSTAMP:20251030T025742
+DTSTART:20251101T191500
+DTEND:20251101T200000
+SUMMARY:🏀 U16 Boys: AlphaWolf Tornados vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6cf56479-29e4-45ec-b7d7-883ef31dbd0a
+SEQUENCE:0
+DTSTAMP:20251030T025742
+DTSTART:20251108T183000
+DTEND:20251108T191500
+SUMMARY:🏀 U16 Boys: AlphaWolf Tornados vs Solway Storm
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Storm\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

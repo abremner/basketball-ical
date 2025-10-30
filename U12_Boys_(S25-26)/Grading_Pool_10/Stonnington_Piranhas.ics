@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Stonnington Piranhas Fixtures
+X-WR-CALNAME:Stonnington Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:998f729b-30d7-4c2a-bbce-eef6a13503cc
+SEQUENCE:0
+DTSTAMP:20251030T025634
+DTSTART:20251101T131500
+DTEND:20251101T140000
+SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cdc09853-b63a-4fd4-aeaf-fb45c68401c4
+SEQUENCE:0
+DTSTAMP:20251030T025634
+DTSTART:20251108T123000
+DTEND:20251108T131500
+SUMMARY:🏀 U12 Boys: Stonnington Piranhas vs Malvern Tigers Amber
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Amber\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Green Fixtures
+X-WR-CALNAME:Ashy Lightning Green Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:322ae3d9-57cb-4783-adb9-b80c53903bca
+SEQUENCE:0
+DTSTAMP:20251030T025701
+DTSTART:20251101T174500
+DTEND:20251101T183000
+SUMMARY:🏀 U14 Boys: Ashy Lightning Green vs Malvern Tigers Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8639117c-cf66-4a1e-8e3c-c844bc567a5b
+SEQUENCE:0
+DTSTAMP:20251030T025701
+DTSTART:20251108T170000
+DTEND:20251108T174500
+SUMMARY:🏀 U14 Boys: Ashy Lightning Green vs Solway Rebels
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Rebels\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

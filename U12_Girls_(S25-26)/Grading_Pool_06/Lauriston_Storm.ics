@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Lauriston Storm Fixtures
+X-WR-CALNAME:Lauriston Storm Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:33a8990d-e9f4-4d6d-98f7-45b397658d0d
+SEQUENCE:0
+DTSTAMP:20251030T025650
+DTSTART:20251101T140000
+DTEND:20251101T144500
+SUMMARY:🏀 U12 Girls: Lauriston Storm vs Maccabi Eagles
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Eag
+ les\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ec5fbca5-c144-4981-883b-307e7e9317a0
+SEQUENCE:0
+DTSTAMP:20251030T025650
+DTSTART:20251108T140000
+DTEND:20251108T144500
+SUMMARY:🏀 U12 Girls: Lauriston Storm vs Solway Sparrows
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Spar
+ rows\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Brown Fixtures
+X-WR-CALNAME:Malvern Tigers Brown Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2dbc0bbb-512f-4a87-8392-bd9f4f4d4b62
+SEQUENCE:0
+DTSTAMP:20251030T025542
+DTSTART:20251101T093000
+DTEND:20251101T101500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs Solway Thunder
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8f1410c2-80a7-4645-acb8-5962612357b4
+SEQUENCE:0
+DTSTAMP:20251030T025542
+DTSTART:20251108T084500
+DTEND:20251108T093000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs Toorak Thrashers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
+  Thrashers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

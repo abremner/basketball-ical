@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Golden Hawks Iron Fixtures
+X-WR-CALNAME:Golden Hawks Iron Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:46923421-6ee5-43b0-ada1-b661573cb4c8
+SEQUENCE:0
+DTSTAMP:20251030T025709
+DTSTART:20251101T161500
+DTEND:20251101T170000
+SUMMARY:🏀 U14 Boys: Golden Hawks Iron vs Malvern Tigers Orange
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ddbfc748-06ab-4bff-ab05-415979a606cd
+SEQUENCE:0
+DTSTAMP:20251030T025709
+DTSTART:20251108T161500
+DTEND:20251108T170000
+SUMMARY:🏀 U14 Boys: Golden Hawks Iron vs Timberwolves Terriers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Terriers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

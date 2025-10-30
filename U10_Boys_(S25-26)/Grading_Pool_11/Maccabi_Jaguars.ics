@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Jaguars Fixtures
+X-WR-CALNAME:Maccabi Jaguars Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:43f55705-5740-4e17-beb6-fbc0b8f4322f
+SEQUENCE:0
+DTSTAMP:20251030T025552
+DTSTART:20251101T093000
+DTEND:20251101T101500
+SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Malvern Tigers Grey
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Grey\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9fc04970-16c0-497b-bbf2-0eccaa936220
+SEQUENCE:0
+DTSTAMP:20251030T025552
+DTSTART:20251108T080000
+DTEND:20251108T084500
+SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Bambra Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Bambra
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Jewels Fixtures
+X-WR-CALNAME:Solway Jewels Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e8cf3402-d9af-478e-9679-265c283e64e9
+SEQUENCE:0
+DTSTAMP:20251030T025726
+DTSTART:20251108T161500
+DTEND:20251108T170000
+SUMMARY:🏀 U14 Girls: Solway Jewels vs Solway Diamonds
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Diamonds\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

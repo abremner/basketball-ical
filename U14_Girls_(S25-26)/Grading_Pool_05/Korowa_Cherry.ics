@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Korowa Cherry Fixtures
+X-WR-CALNAME:Korowa Cherry Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b2bd4558-2dc6-4469-9a00-4cb1321c3664
+SEQUENCE:0
+DTSTAMP:20251030T025724
+DTSTART:20251101T161500
+DTEND:20251101T170000
+SUMMARY:🏀 U14 Girls: Korowa Cherry vs Malvern Tigers Deacon
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Deacon\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Taylor Fixtures
+X-WR-CALNAME:Malvern Tigers Taylor Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5ef1e2f1-c553-46f8-92aa-3d61211a679e
+SEQUENCE:0
+DTSTAMP:20251030T025602
+DTSTART:20251101T110000
+DTEND:20251101T114500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Taylor vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:726f7d88-a07e-4d6c-bcf3-88ec00dc08d6
+SEQUENCE:0
+DTSTAMP:20251030T025602
+DTSTART:20251108T110000
+DTEND:20251108T114500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Taylor vs Erindale Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Erinda
+ le Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

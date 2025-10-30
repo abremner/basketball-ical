@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Gardiner Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Gardiner Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:45cdf460-85e8-429b-a061-ffcfd0fa4948
+SEQUENCE:0
+DTSTAMP:20251030T025511
+DTSTART:20251101T084500
+DTEND:20251101T093000
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Packer Park Piranha
+ s
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Packer 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cfe3a368-e8e6-407b-9d17-61e0fd0f9a3c
+SEQUENCE:0
+DTSTAMP:20251030T025511
+DTSTART:20251108T080000
+DTEND:20251108T084500
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Solway Chargers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Chargers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Warriors Fixtures
+X-WR-CALNAME:Maccabi Warriors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:bed03177-779b-47f7-a678-df191df2a256
+SEQUENCE:0
+DTSTAMP:20251030T025646
+DTSTART:20251101T140000
+DTEND:20251101T144500
+SUMMARY:🏀 U12 Girls: Maccabi Warriors vs Solway Doves
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Doves\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5d9d3cdc-cfa7-448e-b75e-ff234524635f
+SEQUENCE:0
+DTSTAMP:20251030T025646
+DTSTART:20251108T144500
+DTEND:20251108T153000
+SUMMARY:🏀 U12 Girls: Maccabi Warriors vs Malvern Tigers Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

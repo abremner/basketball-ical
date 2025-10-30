@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Lauriston Flames Fixtures
+X-WR-CALNAME:Lauriston Flames Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:faa6a810-4a48-4453-9212-aa7bc8348d46
+SEQUENCE:0
+DTSTAMP:20251030T025610
+DTSTART:20251101T110000
+DTEND:20251101T114500
+SUMMARY:🏀 U10 Girls: Lauriston Flames vs Timberwolves Swifts
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Timberwolve
+ s Swifts\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:844c5757-aed4-4725-ac60-686ed0c1fbe6
+SEQUENCE:0
+DTSTAMP:20251030T025610
+DTSTART:20251108T110000
+DTEND:20251108T114500
+SUMMARY:🏀 U10 Girls: Lauriston Flames vs Maccabi Falcons
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Fal
+ cons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

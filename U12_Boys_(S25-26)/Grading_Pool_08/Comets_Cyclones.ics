@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Comets Cyclones Fixtures
+X-WR-CALNAME:Comets Cyclones Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:bcda42fa-19bb-4a97-8726-d93efa961af9
+SEQUENCE:0
+DTSTAMP:20251030T025627
+DTSTART:20251101T123000
+DTEND:20251101T131500
+SUMMARY:🏀 U12 Boys: Comets Cyclones vs Solway Panthers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Panthers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d99933ba-93eb-4049-acfc-a29acf1c5578
+SEQUENCE:0
+DTSTAMP:20251030T025627
+DTSTART:20251108T131500
+DTEND:20251108T140000
+SUMMARY:🏀 U12 Boys: Comets Cyclones vs Solway  Devils
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway  Devils\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+END:VCALENDAR

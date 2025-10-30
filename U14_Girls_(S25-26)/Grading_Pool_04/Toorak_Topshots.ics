@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Topshots Fixtures
+X-WR-CALNAME:Toorak Topshots Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4c84a13b-f99c-4f07-8d15-1188d22525f3
+SEQUENCE:0
+DTSTAMP:20251030T025724
+DTSTART:20251101T161500
+DTEND:20251101T170000
+SUMMARY:🏀 U14 Girls: Toorak Topshots vs Lauriston Legacy
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Lauris
+ ton Legacy\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:816bf084-6e33-4ee6-800f-8d92516a8866
+SEQUENCE:0
+DTSTAMP:20251030T025724
+DTSTART:20251108T161500
+DTEND:20251108T170000
+SUMMARY:🏀 U14 Girls: Toorak Topshots vs Maccabi Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

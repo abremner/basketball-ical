@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Dairy Park Piranhas Fixtures
+X-WR-CALNAME:Dairy Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:93b26b20-1506-4a42-a2c3-a8d59d204ea4
+SEQUENCE:0
+DTSTAMP:20251030T025600
+DTSTART:20251101T123000
+DTEND:20251101T131500
+SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Glen Iris Scorpions Ferndal
+ e
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
+ corpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3ed140ea-cce1-44d1-b59c-45d0df52b3e0
+SEQUENCE:0
+DTSTAMP:20251030T025600
+DTSTART:20251108T110000
+DTEND:20251108T114500
+SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Malvern Tigers Hodges
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Hodges\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Purple Fixtures
+X-WR-CALNAME:Malvern Tigers Purple Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ec7d40de-9db7-4a41-b8ed-439223bfaf2d
+SEQUENCE:0
+DTSTAMP:20251030T025626
+DTSTART:20251101T131500
+DTEND:20251101T140000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Purple vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:93026462-cde5-4960-8073-993a63434e3d
+SEQUENCE:0
+DTSTAMP:20251030T025626
+DTSTART:20251108T123000
+DTEND:20251108T131500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Purple vs Solway Lions
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Lions\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

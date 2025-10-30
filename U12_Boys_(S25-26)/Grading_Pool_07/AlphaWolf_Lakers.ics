@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Lakers Fixtures
+X-WR-CALNAME:AlphaWolf Lakers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5e6c3623-3e26-43e9-b739-7e39e9f39a53
+SEQUENCE:0
+DTSTAMP:20251030T025624
+DTSTART:20251102T164500
+DTEND:20251102T173000
+SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs Malvern Tigers Brown
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Brown\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:47f5b95d-f569-480e-a827-06a880980f1f
+SEQUENCE:0
+DTSTAMP:20251030T025624
+DTSTART:20251109T164500
+DTEND:20251109T173000
+SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs Central Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Centra
+ l Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

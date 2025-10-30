@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Chargers Fixtures
+X-WR-CALNAME:Solway Chargers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9b41df42-b89c-4f84-a533-10bb49c9cc39
+SEQUENCE:0
+DTSTAMP:20251030T025513
+DTSTART:20251101T101500
+DTEND:20251101T110000
+SUMMARY:🏀 U08 Boys: Solway Chargers vs AlphaWolf Titans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: AlphaWo
+ lf Titans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:04d5c482-95c3-45b8-98de-2ea0e66709ca
+SEQUENCE:0
+DTSTAMP:20251030T025513
+DTSTART:20251108T080000
+DTEND:20251108T084500
+SUMMARY:🏀 U08 Boys: Solway Chargers vs Glen Iris Scorpions Gardiner
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
+ is Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

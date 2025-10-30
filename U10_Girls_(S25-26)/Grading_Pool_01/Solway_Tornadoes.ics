@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Tornadoes Fixtures
+X-WR-CALNAME:Solway Tornadoes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1c2379e3-ba55-4db8-ae4a-d8c665245b26
+SEQUENCE:0
+DTSTAMP:20251030T025559
+DTSTART:20251101T123000
+DTEND:20251101T131500
+SUMMARY:🏀 U10 Girls: Solway Tornadoes vs Korowa Cherry
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Korowa
+  Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:be03a178-e8c0-420d-b265-116c2045c799
+SEQUENCE:0
+DTSTAMP:20251030T025559
+DTSTART:20251108T123000
+DTEND:20251108T131500
+SUMMARY:🏀 U10 Girls: Solway Tornadoes vs Timberwolves Sharks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Sharks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Torpedoes Fixtures
+X-WR-CALNAME:Toorak Torpedoes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2f0e39e1-3909-499a-af01-6729dd1f96c7
+SEQUENCE:0
+DTSTAMP:20251030T025540
+DTSTART:20251102T160000
+DTEND:20251102T164500
+SUMMARY:🏀 U10 Boys: Toorak Torpedoes vs Timberwolves Cubs
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Cubs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:493e11f9-b397-4615-9412-f605082cc8d0
+SEQUENCE:0
+DTSTAMP:20251030T025540
+DTSTART:20251108T084500
+DTEND:20251108T093000
+SUMMARY:🏀 U10 Boys: Toorak Torpedoes vs Orrong Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Orrong
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

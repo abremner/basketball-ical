@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Arax Fixtures
+X-WR-CALNAME:Arax Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:956d1c91-8f33-4898-ac8a-d5da2f639a4e
+SEQUENCE:0
+DTSTAMP:20251030T025711
+DTSTART:20251101T131500
+DTEND:20251101T140000
+SUMMARY:🏀 U14 Boys: Arax vs Maccabi Giants
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Giants\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:87246799-27f9-42df-9d25-d9d48ca72669
+SEQUENCE:0
+DTSTAMP:20251030T025711
+DTSTART:20251108T131500
+DTEND:20251108T140000
+SUMMARY:🏀 U14 Boys: Arax vs Solway Ninjas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Ninjas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

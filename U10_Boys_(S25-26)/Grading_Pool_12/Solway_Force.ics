@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Force Fixtures
+X-WR-CALNAME:Solway Force Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:78763e0d-80a4-413f-b15e-df9a1db9007e
+SEQUENCE:0
+DTSTAMP:20251030T025556
+DTSTART:20251102T160000
+DTEND:20251102T164500
+SUMMARY:🏀 U10 Boys: Solway Force vs Timberwolves Hawks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c7403bb5-6f86-423f-89c5-1344b5bd15b0
+SEQUENCE:0
+DTSTAMP:20251030T025556
+DTSTART:20251108T101500
+DTEND:20251108T110000
+SUMMARY:🏀 U10 Boys: Solway Force vs Maccabi Lakers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Lakers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

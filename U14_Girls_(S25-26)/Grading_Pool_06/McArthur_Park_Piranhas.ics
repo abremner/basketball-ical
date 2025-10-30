@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:McArthur Park Piranhas Fixtures
+X-WR-CALNAME:McArthur Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1c0c2409-c650-4f2e-8510-c01f55b6af22
+SEQUENCE:0
+DTSTAMP:20251030T025727
+DTSTART:20251101T131500
+DTEND:20251101T140000
+SUMMARY:🏀 U14 Girls: McArthur Park Piranhas vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:87b06fbe-47ca-4dcf-801a-2a5234e4e514
+SEQUENCE:0
+DTSTAMP:20251030T025727
+DTSTART:20251108T131500
+DTEND:20251108T140000
+SUMMARY:🏀 U14 Girls: McArthur Park Piranhas vs Malvern Tigers Fisher
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Fisher\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

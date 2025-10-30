@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Phillips Fixtures
+X-WR-CALNAME:Malvern Tigers Phillips Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:31fdaa7b-9f7a-407c-8d5e-74340d554405
+SEQUENCE:0
+DTSTAMP:20251030T025558
+DTSTART:20251101T114500
+DTEND:20251101T123000
+SUMMARY:🏀 U10 Girls: Malvern Tigers Phillips vs Solway Blizzards
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Blizzards\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e45f961f-b84e-4a25-9d28-f53e52771bfa
+SEQUENCE:0
+DTSTAMP:20251030T025558
+DTSTART:20251108T114500
+DTEND:20251108T123000
+SUMMARY:🏀 U10 Girls: Malvern Tigers Phillips vs Korowa Cherry
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Korowa
+  Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Nelson Fixtures
+X-WR-CALNAME:Malvern Tigers Nelson Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:23c92346-d7d1-4236-9ff4-24e2c05cea21
+SEQUENCE:0
+DTSTAMP:20251030T025729
+DTSTART:20251101T161500
+DTEND:20251101T170000
+SUMMARY:🏀 U14 Girls: Malvern Tigers Nelson vs Maccabi Celtics
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Cel
+ tics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0f330d58-00ca-42b5-bb47-926246f2a43d
+SEQUENCE:0
+DTSTAMP:20251030T025729
+DTSTART:20251108T161500
+DTEND:20251108T170000
+SUMMARY:🏀 U14 Girls: Malvern Tigers Nelson vs Lauriston Legends
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston L
+ egends\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

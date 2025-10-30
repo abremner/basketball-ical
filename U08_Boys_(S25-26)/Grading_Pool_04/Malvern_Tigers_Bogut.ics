@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Bogut Fixtures
+X-WR-CALNAME:Malvern Tigers Bogut Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5e7431d8-a0a8-4a3c-8f4f-ab3d401d4472
+SEQUENCE:0
+DTSTAMP:20251030T025512
+DTSTART:20251101T080000
+DTEND:20251101T084500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Bogut vs Dorrington Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Dorring
+ ton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:06403a15-585c-449e-a051-8b59fad9c7c8
+SEQUENCE:0
+DTSTAMP:20251030T025512
+DTSTART:20251108T101500
+DTEND:20251108T110000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Bogut vs Malvern Tigers Ingles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Ingles\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

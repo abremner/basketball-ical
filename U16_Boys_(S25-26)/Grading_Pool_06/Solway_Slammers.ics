@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Slammers Fixtures
+X-WR-CALNAME:Solway Slammers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d6b063fe-ece6-4af0-9069-65e935078a83
+SEQUENCE:0
+DTSTAMP:20251030T025746
+DTSTART:20251101T174500
+DTEND:20251101T183000
+SUMMARY:🏀 U16 Boys: Solway Slammers vs Malvern Tigers Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ca29aed5-6bdb-41aa-90e4-9a1d96dcd16f
+SEQUENCE:0
+DTSTAMP:20251030T025746
+DTSTART:20251108T183000
+DTEND:20251108T191500
+SUMMARY:🏀 U16 Boys: Solway Slammers vs Timberwolves Magic
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Magic\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

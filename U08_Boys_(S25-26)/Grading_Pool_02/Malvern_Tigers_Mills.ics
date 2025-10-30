@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Mills Fixtures
+X-WR-CALNAME:Malvern Tigers Mills Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:64afd7d2-cfc1-4942-a066-e5a32ef189c1
+SEQUENCE:0
+DTSTAMP:20251030T025506
+DTSTART:20251101T084500
+DTEND:20251101T093000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Mills vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:aa01cdb6-a824-4674-9b23-900eaaa3f1a3
+SEQUENCE:0
+DTSTAMP:20251030T025506
+DTSTART:20251108T084500
+DTEND:20251108T093000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Mills vs Glen Iris Scorpions Ferndal
+ e
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
+ is Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

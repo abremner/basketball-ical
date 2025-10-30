@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Darling Park Piranhas Fixtures
+X-WR-CALNAME:Darling Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ae77f949-f893-4fd3-b9b7-ac337e45741e
+SEQUENCE:0
+DTSTAMP:20251030T025728
+DTSTART:20251101T161500
+DTEND:20251101T170000
+SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Glen Iris Scorpions Nettl
+ eton
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Glen Iris S
+ corpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3d9693c5-2097-4f2b-b3bd-6e04315bbc0e
+SEQUENCE:0
+DTSTAMP:20251030T025728
+DTSTART:20251108T153000
+DTEND:20251108T161500
+SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Maccabi Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

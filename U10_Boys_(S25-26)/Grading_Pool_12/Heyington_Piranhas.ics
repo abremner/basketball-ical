@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Heyington Piranhas Fixtures
+X-WR-CALNAME:Heyington Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:02b1edc7-3be5-47fd-82b2-f043ca59e57c
+SEQUENCE:0
+DTSTAMP:20251030T025555
+DTSTART:20251101T084500
+DTEND:20251101T093000
+SUMMARY:🏀 U10 Boys: Heyington Piranhas vs Maccabi Lakers
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Lakers\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ae49d23f-95b6-41bf-9f7a-5ec84af57344
+SEQUENCE:0
+DTSTAMP:20251030T025555
+DTSTART:20251108T080000
+DTEND:20251108T084500
+SUMMARY:🏀 U10 Boys: Heyington Piranhas vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

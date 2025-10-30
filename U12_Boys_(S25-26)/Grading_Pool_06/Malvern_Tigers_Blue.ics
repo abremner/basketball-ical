@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Blue Fixtures
+X-WR-CALNAME:Malvern Tigers Blue Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:fa10a473-5092-475f-8c9b-d50591ab37f0
+SEQUENCE:0
+DTSTAMP:20251030T025623
+DTSTART:20251102T164500
+DTEND:20251102T173000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Blue vs Comets Tigers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Comets
+  Tigers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:52bc7c7e-7174-44ec-b735-25d087b7a8fa
+SEQUENCE:0
+DTSTAMP:20251030T025623
+DTSTART:20251108T131500
+DTEND:20251108T140000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Blue vs AlphaWolf Spartans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: AlphaWo
+ lf Spartans\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

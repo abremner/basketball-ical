@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Steeds Fixtures
+X-WR-CALNAME:Solway Steeds Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5809d446-22f1-4070-b9c6-3287272bfdb6
+SEQUENCE:0
+DTSTAMP:20251030T025509
+DTSTART:20251101T093000
+DTEND:20251101T101500
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Solway Stallions
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Stallions\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3459c9af-f4b7-4ca8-88dd-9862a7269f2e
+SEQUENCE:0
+DTSTAMP:20251030T025509
+DTSTART:20251108T110000
+DTEND:20251108T114500
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Malvern Tigers Exum
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Exum\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

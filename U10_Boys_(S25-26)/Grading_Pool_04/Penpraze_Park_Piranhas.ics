@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Penpraze Park Piranhas Fixtures
+X-WR-CALNAME:Penpraze Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9b250aa3-bfc0-4f5d-906f-5f68e9bcb904
+SEQUENCE:0
+DTSTAMP:20251030T025535
+DTSTART:20251101T110000
+DTEND:20251101T114500
+SUMMARY:🏀 U10 Boys: Penpraze Park Piranhas vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6bba6041-5c90-483f-953d-a46e6a75f93e
+SEQUENCE:0
+DTSTAMP:20251030T025535
+DTSTART:20251108T110000
+DTEND:20251108T114500
+SUMMARY:🏀 U10 Boys: Penpraze Park Piranhas vs Armadale Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Armada
+ le Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

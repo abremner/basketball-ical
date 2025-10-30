@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Gold Fixtures
+X-WR-CALNAME:Ashy Lightning Gold Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:19bcbd98-0ebd-4ddc-bed9-627af6f2028a
+SEQUENCE:0
+DTSTAMP:20251030T025521
+DTSTART:20251101T101500
+DTEND:20251101T110000
+SUMMARY:🏀 U08 Girls: Ashy Lightning Gold vs Solway Stars
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Star
+ s\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

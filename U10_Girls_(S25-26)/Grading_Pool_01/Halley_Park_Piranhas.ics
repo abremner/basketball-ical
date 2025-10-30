@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Halley Park Piranhas Fixtures
+X-WR-CALNAME:Halley Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ffaa4f6f-1130-4ebe-b3ff-d6f1a687eba3
+SEQUENCE:0
+DTSTAMP:20251030T025558
+DTSTART:20251101T114500
+DTEND:20251101T123000
+SUMMARY:🏀 U10 Girls: Halley Park Piranhas vs Timberwolves Sharks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Sharks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5aa8c826-b1ca-4cd4-8924-445ffa6a0814
+SEQUENCE:0
+DTSTAMP:20251030T025558
+DTSTART:20251108T114500
+DTEND:20251108T123000
+SUMMARY:🏀 U10 Girls: Halley Park Piranhas vs Solway Blizzards
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Blizzards\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

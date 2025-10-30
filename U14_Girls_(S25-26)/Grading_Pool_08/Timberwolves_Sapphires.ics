@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Sapphires Fixtures
+X-WR-CALNAME:Timberwolves Sapphires Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e61beb95-d151-43ee-9b96-a5b6c35a3357
+SEQUENCE:0
+DTSTAMP:20251030T025732
+DTSTART:20251101T153000
+DTEND:20251101T161500
+SUMMARY:🏀 U14 Girls: Timberwolves Sapphires vs Malvern Tigers Hill
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Hill\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c925213a-e157-4e48-9974-cdc78cfacaff
+SEQUENCE:0
+DTSTAMP:20251030T025732
+DTSTART:20251108T153000
+DTEND:20251108T161500
+SUMMARY:🏀 U14 Girls: Timberwolves Sapphires vs Solway Sapphires
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Sapp
+ hires\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Dorrington Piranhas Fixtures
+X-WR-CALNAME:Dorrington Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a6e4821d-1b47-422e-a5e8-3e56f233585a
+SEQUENCE:0
+DTSTAMP:20251030T025510
+DTSTART:20251101T080000
+DTEND:20251101T084500
+SUMMARY:🏀 U08 Boys: Dorrington Piranhas vs Malvern Tigers Bogut
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Bogut\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:81e3aa6d-121b-40a6-9eb7-8d9f5ff33aea
+SEQUENCE:0
+DTSTAMP:20251030T025510
+DTSTART:20251108T084500
+DTEND:20251108T093000
+SUMMARY:🏀 U08 Boys: Dorrington Piranhas vs Packer Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Packer 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

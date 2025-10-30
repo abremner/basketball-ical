@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Bucks Fixtures
+X-WR-CALNAME:Solway Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5ff7cfed-5fe1-4d27-9935-4eda295c05db
+SEQUENCE:0
+DTSTAMP:20251030T025542
+DTSTART:20251101T084500
+DTEND:20251101T093000
+SUMMARY:🏀 U10 Boys: Solway Bucks vs Malvern Tigers Blue
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4ef4fe6e-a6f0-492a-81d5-1cf5a77ba312
+SEQUENCE:0
+DTSTAMP:20251030T025542
+DTSTART:20251108T093000
+DTEND:20251108T101500
+SUMMARY:🏀 U10 Boys: Solway Bucks vs Solway Thunder
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

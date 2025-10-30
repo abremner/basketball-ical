@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Burnley Park Piranhas Fixtures
+X-WR-CALNAME:Burnley Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c8231f16-56e5-484d-bce7-75df52c34963
+SEQUENCE:0
+DTSTAMP:20251030T025508
+DTSTART:20251101T084500
+DTEND:20251101T093000
+SUMMARY:🏀 U08 Boys: Burnley Park Piranhas vs Malvern Tigers Giddey
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Giddey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7a0bfb71-2d98-4e68-a3e3-734a27d1ff3f
+SEQUENCE:0
+DTSTAMP:20251030T025508
+DTSTART:20251108T093000
+DTEND:20251108T101500
+SUMMARY:🏀 U08 Boys: Burnley Park Piranhas vs Maccabi Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

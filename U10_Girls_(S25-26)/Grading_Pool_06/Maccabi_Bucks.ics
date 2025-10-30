@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:dc37e918-4bb5-4ae4-a57a-338ac126e64b
+SEQUENCE:0
+DTSTAMP:20251030T025609
+DTSTART:20251101T101500
+DTEND:20251101T110000
+SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6375fcd9-f350-4f73-8ec8-db105727d3d0
+SEQUENCE:0
+DTSTAMP:20251030T025609
+DTSTART:20251108T084500
+DTEND:20251108T093000
+SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Timberwolves Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

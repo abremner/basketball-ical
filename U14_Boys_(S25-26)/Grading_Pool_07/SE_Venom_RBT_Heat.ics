@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:SE Venom RBT Heat Fixtures
+X-WR-CALNAME:SE Venom RBT Heat Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1f6a42e4-3649-4e30-8adb-695f409be5af
+SEQUENCE:0
+DTSTAMP:20251030T025712
+DTSTART:20251101T153000
+DTEND:20251101T161500
+SUMMARY:🏀 U14 Boys: SE Venom RBT Heat vs Solway Ninjas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Ninjas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0aad0231-683a-4e09-9e17-552b0af0f679
+SEQUENCE:0
+DTSTAMP:20251030T025712
+DTSTART:20251108T153000
+DTEND:20251108T161500
+SUMMARY:🏀 U14 Boys: SE Venom RBT Heat vs Inkerman Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Inkerma
+ n Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Jaguars Fixtures
+X-WR-CALNAME:Maccabi Jaguars Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1246fd85-cc33-455d-bba1-e934234d882d
+SEQUENCE:0
+DTSTAMP:20251030T025628
+DTSTART:20251101T123000
+DTEND:20251101T131500
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Maccabi Kings
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Kings\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fc695c3f-484f-4aae-99c6-b89322c38fb2
+SEQUENCE:0
+DTSTAMP:20251030T025628
+DTSTART:20251108T123000
+DTEND:20251108T131500
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Maccabi Hawks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

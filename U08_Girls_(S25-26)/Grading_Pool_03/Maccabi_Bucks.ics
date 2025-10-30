@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:704cd4d5-12d3-43ec-b6f5-a010feaf598b
+SEQUENCE:0
+DTSTAMP:20251030T025524
+DTSTART:20251101T101500
+DTEND:20251101T110000
+SUMMARY:🏀 U08 Girls: Maccabi Bucks vs Brunel Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Brunel 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7c350090-8fd8-405f-bb2e-3dd545941ca5
+SEQUENCE:0
+DTSTAMP:20251030T025524
+DTSTART:20251108T101500
+DTEND:20251108T110000
+SUMMARY:🏀 U08 Girls: Maccabi Bucks vs Solway Sparks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Sparks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

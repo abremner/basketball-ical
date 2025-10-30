@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tornadoes Fixtures
+X-WR-CALNAME:Toorak Tornadoes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:24a4b08f-107a-4657-8418-3fa6fa6b6baf
+SEQUENCE:0
+DTSTAMP:20251030T025742
+DTSTART:20251108T191500
+DTEND:20251108T200000
+SUMMARY:🏀 U16 Boys: Toorak Tornadoes vs AlphaWolf Sixseveners
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: AlphaW
+ olf Sixseveners\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

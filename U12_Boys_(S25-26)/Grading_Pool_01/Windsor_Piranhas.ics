@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Windsor Piranhas Fixtures
+X-WR-CALNAME:Windsor Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:33917f64-0e0d-4847-916b-23b34bcad81d
+SEQUENCE:0
+DTSTAMP:20251030T025614
+DTSTART:20251101T161500
+DTEND:20251101T170000
+SUMMARY:🏀 U12 Boys: Windsor Piranhas vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3ae9acb3-a655-4876-9826-264b90ef9e65
+SEQUENCE:0
+DTSTAMP:20251030T025614
+DTSTART:20251108T161500
+DTEND:20251108T170000
+SUMMARY:🏀 U12 Boys: Windsor Piranhas vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

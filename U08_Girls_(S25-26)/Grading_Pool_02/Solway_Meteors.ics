@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Meteors Fixtures
+X-WR-CALNAME:Solway Meteors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:31e04e38-dcac-44b0-94b7-dded8ae07274
+SEQUENCE:0
+DTSTAMP:20251030T025523
+DTSTART:20251101T110000
+DTEND:20251101T114500
+SUMMARY:🏀 U08 Girls: Solway Meteors vs Flowerdale Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Flowerd
+ ale Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c839d3e8-b233-4821-9a61-2d76214edd0f
+SEQUENCE:0
+DTSTAMP:20251030T025523
+DTSTART:20251108T101500
+DTEND:20251108T110000
+SUMMARY:🏀 U08 Girls: Solway Meteors vs Warley Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Warley Pira
+ nhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

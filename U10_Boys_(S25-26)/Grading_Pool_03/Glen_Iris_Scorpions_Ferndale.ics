@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Ferndale Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Ferndale Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c4c892d9-50f6-45f7-afe2-40ca0d1f9b45
+SEQUENCE:0
+DTSTAMP:20251030T025532
+DTSTART:20251101T114500
+DTEND:20251101T123000
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Ferndale vs Toorak Tigercats
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Toorak Tigercats\nArrive 15 m
+ ins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:59f4677a-3dfb-44a3-8261-78be83256317
+SEQUENCE:0
+DTSTAMP:20251030T025532
+DTSTART:20251108T114500
+DTEND:20251108T123000
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Ferndale vs Malvern Tigers Yell
+ ow
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Yellow\nArrive
+  15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

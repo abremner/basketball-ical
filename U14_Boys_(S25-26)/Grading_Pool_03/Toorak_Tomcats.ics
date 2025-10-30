@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tomcats Fixtures
+X-WR-CALNAME:Toorak Tomcats Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a1b4fe53-a211-4b45-a118-20001a5ed4cc
+SEQUENCE:0
+DTSTAMP:20251030T025703
+DTSTART:20251101T153000
+DTEND:20251101T161500
+SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Solway Rebels
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Rebels\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

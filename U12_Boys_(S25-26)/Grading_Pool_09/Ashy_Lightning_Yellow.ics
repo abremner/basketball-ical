@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Yellow Fixtures
+X-WR-CALNAME:Ashy Lightning Yellow Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5f3de585-80fe-4277-8ec0-11d22d5f0664
+SEQUENCE:0
+DTSTAMP:20251030T025630
+DTSTART:20251101T123000
+DTEND:20251101T131500
+SUMMARY:🏀 U12 Boys: Ashy Lightning Yellow vs Balaclava Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Balacla
+ va Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d70d88b4-2ad5-4448-a470-31f344ebf7d1
+SEQUENCE:0
+DTSTAMP:20251030T025630
+DTSTART:20251108T140000
+DTEND:20251108T144500
+SUMMARY:🏀 U12 Boys: Ashy Lightning Yellow vs Maccabi Lakers
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Lakers\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+END:VCALENDAR

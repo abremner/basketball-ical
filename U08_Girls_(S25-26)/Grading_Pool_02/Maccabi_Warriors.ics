@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Warriors Fixtures
+X-WR-CALNAME:Maccabi Warriors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:38e8f449-b0fc-4505-bb6a-939b0812eb21
+SEQUENCE:0
+DTSTAMP:20251030T025522
+DTSTART:20251101T101500
+DTEND:20251101T110000
+SUMMARY:🏀 U08 Girls: Maccabi Warriors vs Warley Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Warley Pira
+ nhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:34b93943-4ef6-42ac-9674-d1a378bc7080
+SEQUENCE:0
+DTSTAMP:20251030T025522
+DTSTART:20251108T080000
+DTEND:20251108T084500
+SUMMARY:🏀 U08 Girls: Maccabi Warriors vs TImberwolves Diamonds
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: TImberw
+ olves Diamonds\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

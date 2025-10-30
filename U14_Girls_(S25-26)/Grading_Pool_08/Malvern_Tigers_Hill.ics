@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Hill Fixtures
+X-WR-CALNAME:Malvern Tigers Hill Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:49e09903-bd02-408d-b630-5661dc4451a0
+SEQUENCE:0
+DTSTAMP:20251030T025731
+DTSTART:20251101T153000
+DTEND:20251101T161500
+SUMMARY:🏀 U14 Girls: Malvern Tigers Hill vs Timberwolves Sapphires
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Timberwolve
+ s Sapphires\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4f499f24-e524-4e49-9a66-a6b2031dc90e
+SEQUENCE:0
+DTSTAMP:20251030T025731
+DTSTART:20251108T153000
+DTEND:20251108T161500
+SUMMARY:🏀 U14 Girls: Malvern Tigers Hill vs Toorak Titanium
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Toorak Tita
+ nium\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Crocodiles Fixtures
+X-WR-CALNAME:Solway Crocodiles Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:61e452da-9a95-4ca1-bfd6-ef8930bee265
+SEQUENCE:0
+DTSTAMP:20251030T025636
+DTSTART:20251101T114500
+DTEND:20251101T123000
+SUMMARY:🏀 U12 Boys: Solway Crocodiles vs Glen Iris Scorpions Raven
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
+ is Scorpions Raven\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d4b89da5-9768-4f82-90fd-3090b4011df2
+SEQUENCE:0
+DTSTAMP:20251030T025636
+DTSTART:20251108T123000
+DTEND:20251108T131500
+SUMMARY:🏀 U12 Boys: Solway Crocodiles vs Solway Dingoes
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Dingoes\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+END:VCALENDAR

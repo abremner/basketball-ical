@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Paxton Piranhas Fixtures
+X-WR-CALNAME:Paxton Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d1f544f9-43c1-4ca8-8666-1a2acf529336
+SEQUENCE:0
+DTSTAMP:20251030T025700
+DTSTART:20251101T170000
+DTEND:20251101T174500
+SUMMARY:🏀 U14 Boys: Paxton Piranhas vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0efc6367-6f4b-49cb-acb7-54e0c0b04fa7
+SEQUENCE:0
+DTSTAMP:20251030T025700
+DTSTART:20251108T174500
+DTEND:20251108T183000
+SUMMARY:🏀 U14 Boys: Paxton Piranhas vs Timberwolves Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

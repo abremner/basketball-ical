@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Lavey Fixtures
+X-WR-CALNAME:Malvern Tigers Lavey Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ac7688ea-2733-4183-b9f5-d1fd25a8a930
+SEQUENCE:0
+DTSTAMP:20251030T025605
+DTSTART:20251101T080000
+DTEND:20251101T084500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Lavey vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1bf102f4-9506-4266-9189-aaf0c189c604
+SEQUENCE:0
+DTSTAMP:20251030T025605
+DTSTART:20251108T110000
+DTEND:20251108T114500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Lavey vs Malvern Tigers Burton
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Burton\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

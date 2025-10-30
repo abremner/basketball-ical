@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Warriors Fixtures
+X-WR-CALNAME:Maccabi Warriors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8c4f91b6-da75-41d5-8a38-2bc366fdc93c
+SEQUENCE:0
+DTSTAMP:20251030T025601
+DTSTART:20251101T110000
+DTEND:20251101T114500
+SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Malvern Tigers Taylor
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Taylor\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2965e326-e1fe-4aea-86bd-772fbbb186a2
+SEQUENCE:0
+DTSTAMP:20251030T025601
+DTSTART:20251108T114500
+DTEND:20251108T123000
+SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

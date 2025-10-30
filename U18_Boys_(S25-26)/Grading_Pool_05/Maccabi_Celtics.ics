@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:84f3f65a-a6a2-4d6d-ac81-737b6813faa9
+SEQUENCE:0
+DTSTAMP:20251030T025806
+DTSTART:20251102T181500
+DTEND:20251102T190000
+SUMMARY:🏀 U18 Boys: Maccabi Celtics vs Comets Storm
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
+  Storm\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5dd13998-d0d1-4a8c-b709-52ace770711a
+SEQUENCE:0
+DTSTAMP:20251030T025806
+DTSTART:20251109T181500
+DTEND:20251109T190000
+SUMMARY:🏀 U18 Boys: Maccabi Celtics vs Spring Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Spring
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

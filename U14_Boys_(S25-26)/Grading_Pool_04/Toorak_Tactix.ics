@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tactix Fixtures
+X-WR-CALNAME:Toorak Tactix Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4db44234-9237-4ae9-a010-9f616f1c7acc
+SEQUENCE:0
+DTSTAMP:20251030T025705
+DTSTART:20251101T174500
+DTEND:20251101T183000
+SUMMARY:🏀 U14 Boys: Toorak Tactix vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5e531358-9bc0-4381-8144-c048daeb4036
+SEQUENCE:0
+DTSTAMP:20251030T025705
+DTSTART:20251108T170000
+DTEND:20251108T174500
+SUMMARY:🏀 U14 Boys: Toorak Tactix vs AlphaWolf Conquerors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
+ lf Conquerors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

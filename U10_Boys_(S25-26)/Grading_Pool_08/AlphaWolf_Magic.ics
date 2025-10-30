@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Magic Fixtures
+X-WR-CALNAME:AlphaWolf Magic Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3756dbf9-f5a5-4980-81ac-ad069102a63c
+SEQUENCE:0
+DTSTAMP:20251030T025544
+DTSTART:20251101T110000
+DTEND:20251101T114500
+SUMMARY:🏀 U10 Boys: AlphaWolf Magic vs Glen Iris Scorpions Gardiner
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:727a1fec-5fa4-4bff-bfec-91bd0a5fa573
+SEQUENCE:0
+DTSTAMP:20251030T025544
+DTSTART:20251108T084500
+DTEND:20251108T093000
+SUMMARY:🏀 U10 Boys: AlphaWolf Magic vs Comets Snake
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
+  Snake\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Korowa Cherry Fixtures
+X-WR-CALNAME:Korowa Cherry Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:792eae12-be12-487d-877e-b67fcf236833
+SEQUENCE:0
+DTSTAMP:20251030T025558
+DTSTART:20251101T123000
+DTEND:20251101T131500
+SUMMARY:🏀 U10 Girls: Korowa Cherry vs Solway Tornadoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Tornadoes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:99648f6d-9e8c-4490-9fc7-2c373a9612d5
+SEQUENCE:0
+DTSTAMP:20251030T025558
+DTSTART:20251108T114500
+DTEND:20251108T123000
+SUMMARY:🏀 U10 Girls: Korowa Cherry vs Malvern Tigers Phillips
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Phillips\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

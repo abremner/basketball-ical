@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Ferndale Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Ferndale Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a7d0f6b7-b1c5-46e5-8268-c0b671fde92a
+SEQUENCE:0
+DTSTAMP:20251030T025644
+DTSTART:20251101T144500
+DTEND:20251101T153000
+SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Ferndale vs Aintree Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Aintre
+ e Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:eb7eadee-5f11-4b3c-95e0-bfef691099d6
+SEQUENCE:0
+DTSTAMP:20251030T025644
+DTSTART:20251108T140000
+DTEND:20251108T144500
+SUMMARY:🏀 U12 Girls: Glen Iris Scorpions Ferndale vs Malvern Tigers Yel
+ low
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

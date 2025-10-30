@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e2eb0acf-6b77-4807-a5d0-c21c945992f4
+SEQUENCE:0
+DTSTAMP:20251030T025804
+DTSTART:20251102T181500
+DTEND:20251102T190000
+SUMMARY:🏀 U18 Boys: Maccabi Bucks vs Glen Iris Scorpions Saints
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
+ ris Scorpions Saints\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:56f113cd-07d9-4b10-a189-76a15d432360
+SEQUENCE:0
+DTSTAMP:20251030T025804
+DTSTART:20251109T190000
+DTEND:20251109T194500
+SUMMARY:🏀 U18 Boys: Maccabi Bucks vs Maccabi Thunder
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

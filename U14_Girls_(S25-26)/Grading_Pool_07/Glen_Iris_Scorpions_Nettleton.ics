@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Nettleton Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Nettleton Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:657d412a-7dbd-4d34-a946-1924b26217be
+SEQUENCE:0
+DTSTAMP:20251030T025729
+DTSTART:20251101T161500
+DTEND:20251101T170000
+SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Nettleton vs Darling Park Pira
+ nhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Darling Par
+ k Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d580933f-1578-4376-9e33-47115f0a2f40
+SEQUENCE:0
+DTSTAMP:20251030T025729
+DTSTART:20251108T161500
+DTEND:20251108T170000
+SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Nettleton vs Ashy Lightning Ye
+ llow
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Ashy Lightn
+ ing Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

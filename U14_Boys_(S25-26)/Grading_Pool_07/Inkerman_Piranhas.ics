@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Inkerman Piranhas Fixtures
+X-WR-CALNAME:Inkerman Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8bde72af-cc3a-4e1d-80ae-4ff544af90b0
+SEQUENCE:0
+DTSTAMP:20251030T025712
+DTSTART:20251101T161500
+DTEND:20251101T170000
+SUMMARY:🏀 U14 Boys: Inkerman Piranhas vs Ashy Lightning Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:03adf083-64dc-41ef-b1e0-fa9d780922e3
+SEQUENCE:0
+DTSTAMP:20251030T025712
+DTSTART:20251108T153000
+DTEND:20251108T161500
+SUMMARY:🏀 U14 Boys: Inkerman Piranhas vs SE Venom RBT Heat
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: SE Veno
+ m RBT Heat\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

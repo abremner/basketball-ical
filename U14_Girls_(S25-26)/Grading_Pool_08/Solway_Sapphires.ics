@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Sapphires Fixtures
+X-WR-CALNAME:Solway Sapphires Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:00042d0e-a79c-4c71-9102-51e5e19e3938
+SEQUENCE:0
+DTSTAMP:20251030T025732
+DTSTART:20251101T170000
+DTEND:20251101T174500
+SUMMARY:🏀 U14 Girls: Solway Sapphires vs Maccabi Ducks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a58e27d0-72bd-43f3-91f4-7dc66a621529
+SEQUENCE:0
+DTSTAMP:20251030T025732
+DTSTART:20251108T153000
+DTEND:20251108T161500
+SUMMARY:🏀 U14 Girls: Solway Sapphires vs Timberwolves Sapphires
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Timberwolve
+ s Sapphires\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

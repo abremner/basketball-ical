@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Golden Hawks Rising Fixtures
+X-WR-CALNAME:Golden Hawks Rising Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3d8c8f1b-2c78-44bb-9619-5015020a4ed7
+SEQUENCE:0
+DTSTAMP:20251030T025628
+DTSTART:20251101T131500
+DTEND:20251101T140000
+SUMMARY:🏀 U12 Boys: Golden Hawks Rising vs Maccabi Hawks
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Hawks\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9ba83a38-97a0-4ab6-b321-f76ed98a810d
+SEQUENCE:0
+DTSTAMP:20251030T025628
+DTSTART:20251108T123000
+DTEND:20251108T131500
+SUMMARY:🏀 U12 Boys: Golden Hawks Rising vs Toorak Trouble
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
+  Trouble\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

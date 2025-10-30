@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Arax Fixtures
+X-WR-CALNAME:Arax Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:31cf38a7-6ad8-4a2c-a535-7dd0211adeb2
+SEQUENCE:0
+DTSTAMP:20251030T025604
+DTSTART:20251101T080000
+DTEND:20251101T084500
+SUMMARY:🏀 U10 Girls: Arax vs Malvern Tigers Lavey
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Lavey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4173f758-f8c9-4b20-9d4a-46516d5a5db7
+SEQUENCE:0
+DTSTAMP:20251030T025604
+DTSTART:20251108T080000
+DTEND:20251108T084500
+SUMMARY:🏀 U10 Girls: Arax vs AlphaWolf Blaze
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AlphaW
+ olf Blaze\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

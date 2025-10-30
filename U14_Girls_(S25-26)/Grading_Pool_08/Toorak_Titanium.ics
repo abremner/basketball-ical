@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Titanium Fixtures
+X-WR-CALNAME:Toorak Titanium Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:459b42b0-b1a7-4599-9b95-3b218e25bcf1
+SEQUENCE:0
+DTSTAMP:20251030T025732
+DTSTART:20251101T161500
+DTEND:20251101T170000
+SUMMARY:🏀 U14 Girls: Toorak Titanium vs Ashy Lightning White
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:20ed492f-fb45-40ad-b45b-0c0c5652f3c9
+SEQUENCE:0
+DTSTAMP:20251030T025732
+DTSTART:20251108T153000
+DTEND:20251108T161500
+SUMMARY:🏀 U14 Girls: Toorak Titanium vs Malvern Tigers Hill
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Hill\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

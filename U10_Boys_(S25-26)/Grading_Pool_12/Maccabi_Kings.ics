@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Kings Fixtures
+X-WR-CALNAME:Maccabi Kings Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:feb2db96-9e0d-45cc-aade-ca7cfa7282d0
+SEQUENCE:0
+DTSTAMP:20251030T025555
+DTSTART:20251108T084500
+DTEND:20251108T093000
+SUMMARY:🏀 U10 Boys: Maccabi Kings vs Comets Eagles
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Comets Eagles\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+END:VCALENDAR

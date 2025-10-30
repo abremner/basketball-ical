@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Pearls Fixtures
+X-WR-CALNAME:Timberwolves Pearls Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:978914c3-37e1-4ee4-86ee-60e22760855e
+SEQUENCE:0
+DTSTAMP:20251030T025653
+DTSTART:20251101T123000
+DTEND:20251101T131500
+SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8fe30169-15a6-4e30-802d-ee40274c3994
+SEQUENCE:0
+DTSTAMP:20251030T025653
+DTSTART:20251108T123000
+DTEND:20251108T131500
+SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

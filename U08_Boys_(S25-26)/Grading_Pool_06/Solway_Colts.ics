@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Colts Fixtures
+X-WR-CALNAME:Solway Colts Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d3cdd5ed-db02-48bb-b3f0-f372661b5527
+SEQUENCE:0
+DTSTAMP:20251030T025517
+DTSTART:20251101T114500
+DTEND:20251101T123000
+SUMMARY:🏀 U08 Boys: Solway Colts vs Ferndale Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ferndal
+ e Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8b596d88-945e-40f7-bf2d-d9a3ccba2d0e
+SEQUENCE:0
+DTSTAMP:20251030T025517
+DTSTART:20251108T110000
+DTEND:20251108T114500
+SUMMARY:🏀 U08 Boys: Solway Colts vs Malvern Tigers Landale
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Landale\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

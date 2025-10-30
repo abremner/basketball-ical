@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Gold Fixtures
+X-WR-CALNAME:Ashy Lightning Gold Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:af2baa6d-5910-479c-918c-2d23af8d5d72
+SEQUENCE:0
+DTSTAMP:20251030T025613
+DTSTART:20251101T161500
+DTEND:20251101T170000
+SUMMARY:🏀 U12 Boys: Ashy Lightning Gold vs AUBD Prime
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AUBD P
+ rime\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7706dc1c-2d84-4dde-b207-ac48e7a989fe
+SEQUENCE:0
+DTSTAMP:20251030T025613
+DTSTART:20251108T144500
+DTEND:20251108T153000
+SUMMARY:🏀 U12 Boys: Ashy Lightning Gold vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

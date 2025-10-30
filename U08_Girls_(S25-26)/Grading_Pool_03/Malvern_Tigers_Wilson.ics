@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Wilson Fixtures
+X-WR-CALNAME:Malvern Tigers Wilson Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9b1ceca5-f334-451f-b60e-0f9f2e7bb1db
+SEQUENCE:0
+DTSTAMP:20251030T025526
+DTSTART:20251101T093000
+DTEND:20251101T101500
+SUMMARY:🏀 U08 Girls: Malvern Tigers Wilson vs Malvern Tigers Allen
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Allen\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:21c7a888-4a1a-4877-a356-da19a1cddc48
+SEQUENCE:0
+DTSTAMP:20251030T025526
+DTSTART:20251108T080000
+DTEND:20251108T084500
+SUMMARY:🏀 U08 Girls: Malvern Tigers Wilson vs Brunel Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Brunel 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Green Fixtures
+X-WR-CALNAME:Malvern Tigers Green Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ed2d8b67-81ac-4cf2-bf4e-f3820c305a78
+SEQUENCE:0
+DTSTAMP:20251030T025746
+DTSTART:20251101T174500
+DTEND:20251101T183000
+SUMMARY:🏀 U16 Boys: Malvern Tigers Green vs Solway Slammers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Slammers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9e49c042-0933-49eb-b5f4-876ee8a00b45
+SEQUENCE:0
+DTSTAMP:20251030T025746
+DTSTART:20251108T174500
+DTEND:20251108T183000
+SUMMARY:🏀 U16 Boys: Malvern Tigers Green vs Glen Iris Scorpions Spurs
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Spurs\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

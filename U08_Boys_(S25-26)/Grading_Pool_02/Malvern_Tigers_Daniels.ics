@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Daniels Fixtures
+X-WR-CALNAME:Malvern Tigers Daniels Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:70bace89-89b2-4cb3-bf7f-78df65591a5f
+SEQUENCE:0
+DTSTAMP:20251030T025506
+DTSTART:20251108T110000
+DTEND:20251108T114500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Solway Brumbies
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Brumbies\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

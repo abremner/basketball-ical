@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Rizzly Bears Fixtures
+X-WR-CALNAME:Timberwolves Rizzly Bears Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:89bb9fa7-72a1-48d2-b922-665fa9c07572
+SEQUENCE:0
+DTSTAMP:20251030T025817
+DTSTART:20251102T190000
+DTEND:20251102T194500
+SUMMARY:🏀 U21 Men: Timberwolves Rizzly Bears vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f1e9110a-9343-4406-81d8-abc6fcda28d9
+SEQUENCE:0
+DTSTAMP:20251030T025817
+DTSTART:20251109T190000
+DTEND:20251109T194500
+SUMMARY:🏀 U21 Men: Timberwolves Rizzly Bears vs Timberwolves Dingoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Dingoes\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

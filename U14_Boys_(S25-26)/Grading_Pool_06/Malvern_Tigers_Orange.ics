@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Orange Fixtures
+X-WR-CALNAME:Malvern Tigers Orange Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5bf1841d-344a-4d60-947f-2304ba6fd79e
+SEQUENCE:0
+DTSTAMP:20251030T025710
+DTSTART:20251101T161500
+DTEND:20251101T170000
+SUMMARY:🏀 U14 Boys: Malvern Tigers Orange vs Golden Hawks Iron
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Golden 
+ Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:efbb1c27-21d3-4cd5-b5b9-5233584ebfa1
+SEQUENCE:0
+DTSTAMP:20251030T025710
+DTSTART:20251108T153000
+DTEND:20251108T161500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Orange vs Maccabi Falcons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Falcons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

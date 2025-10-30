@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Claremont Piranhas Fixtures
+X-WR-CALNAME:Claremont Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a99702b9-9a1f-4986-a18b-82f3702d94e9
+SEQUENCE:0
+DTSTAMP:20251030T025504
+DTSTART:20251101T114500
+DTEND:20251101T123000
+SUMMARY:🏀 U08 Boys: Claremont Piranhas vs East Malvern Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: East Ma
+ lvern Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d018ce11-6728-415a-b73c-8c978a61f7b4
+SEQUENCE:0
+DTSTAMP:20251030T025504
+DTSTART:20251108T093000
+DTEND:20251108T101500
+SUMMARY:🏀 U08 Boys: Claremont Piranhas vs Timberwolves Blasters
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Blasters\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

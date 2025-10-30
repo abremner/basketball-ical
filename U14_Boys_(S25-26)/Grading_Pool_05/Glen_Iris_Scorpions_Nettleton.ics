@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Nettleton Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Nettleton Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e6ff9b2e-b6ed-4720-ae86-bfc08b538e12
+SEQUENCE:0
+DTSTAMP:20251030T025706
+DTSTART:20251101T153000
+DTEND:20251101T161500
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Nettleton vs Toorak Tractors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Tractors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b11396f0-e6ae-487c-bc92-71ecdedea919
+SEQUENCE:0
+DTSTAMP:20251030T025706
+DTSTART:20251108T153000
+DTEND:20251108T161500
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Nettleton vs AlphaWolf Apex
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: AlphaWo
+ lf Apex\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

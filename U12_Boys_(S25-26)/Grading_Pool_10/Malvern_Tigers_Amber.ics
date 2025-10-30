@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Amber Fixtures
+X-WR-CALNAME:Malvern Tigers Amber Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:21931dd7-3464-41b0-b523-9d4fcb8e4a95
+SEQUENCE:0
+DTSTAMP:20251030T025633
+DTSTART:20251101T123000
+DTEND:20251101T131500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Amber vs Ardrie Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ardrie
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e38fae2c-d4c8-415c-b4ae-1b13553b7ba5
+SEQUENCE:0
+DTSTAMP:20251030T025633
+DTSTART:20251108T123000
+DTEND:20251108T131500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Amber vs Stonnington Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Stonni
+ ngton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

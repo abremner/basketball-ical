@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Black Fixtures
+X-WR-CALNAME:Malvern Tigers Black Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:08a1269b-1e91-4b88-8e54-0997a4040741
+SEQUENCE:0
+DTSTAMP:20251030T025734
+DTSTART:20251101T183000
+DTEND:20251101T191500
+SUMMARY:🏀 U16 Boys: Malvern Tigers Black vs AUBD United
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: AUBD U
+ nited\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:40006836-6e46-45a4-b5e5-bb1292145430
+SEQUENCE:0
+DTSTAMP:20251030T025734
+DTSTART:20251108T183000
+DTEND:20251108T191500
+SUMMARY:🏀 U16 Boys: Malvern Tigers Black vs Bayside Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Baysid
+ e Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

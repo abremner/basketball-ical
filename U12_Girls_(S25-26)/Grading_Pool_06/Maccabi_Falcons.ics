@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Falcons Fixtures
+X-WR-CALNAME:Maccabi Falcons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:33ed456e-eb0b-4a06-9e50-e20da586dd38
+SEQUENCE:0
+DTSTAMP:20251030T025652
+DTSTART:20251101T131500
+DTEND:20251101T140000
+SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:15a0896c-b93c-4e6d-92fa-8588b5d61535
+SEQUENCE:0
+DTSTAMP:20251030T025652
+DTSTART:20251108T140000
+DTEND:20251108T144500
+SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Malvern Tigers Blue
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Raven Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Raven Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e7034c1a-3e1b-4623-b26b-5755ce6233db
+SEQUENCE:0
+DTSTAMP:20251030T025518
+DTSTART:20251101T084500
+DTEND:20251101T093000
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Raven vs Malvern Tigers Gaze
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Gaze\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f5232d59-a1a1-4085-aa27-9bb168efbd58
+SEQUENCE:0
+DTSTAMP:20251030T025518
+DTSTART:20251108T093000
+DTEND:20251108T101500
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Raven vs Solway Hunters
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Hunters\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

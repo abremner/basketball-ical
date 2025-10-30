@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Orange Fixtures
+X-WR-CALNAME:Malvern Tigers Orange Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c02a8b59-8ab8-4078-9c8d-731c10b55451
+SEQUENCE:0
+DTSTAMP:20251030T025620
+DTSTART:20251101T144500
+DTEND:20251101T153000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Orange vs Heywood Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Heywood
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9419f441-b493-4d65-8c4a-c856bd0d4a4e
+SEQUENCE:0
+DTSTAMP:20251030T025620
+DTSTART:20251108T144500
+DTEND:20251108T153000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Orange vs Timberwolves Heat
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Heat\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

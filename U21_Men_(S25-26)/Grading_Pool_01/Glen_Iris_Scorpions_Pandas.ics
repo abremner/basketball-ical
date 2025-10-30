@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Pandas Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Pandas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8b6f2dc1-f656-4d3c-b61f-e8a96f2a9f5d
+SEQUENCE:0
+DTSTAMP:20251030T025815
+DTSTART:20251102T194500
+DTEND:20251102T203000
+SUMMARY:🏀 U21 Men: Glen Iris Scorpions Pandas vs Timberwolves Dingoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Dingoes\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

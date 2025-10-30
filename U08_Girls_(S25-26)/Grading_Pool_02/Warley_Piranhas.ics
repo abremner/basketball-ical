@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Warley Piranhas Fixtures
+X-WR-CALNAME:Warley Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7b75490b-405e-4d7b-9342-218f51020184
+SEQUENCE:0
+DTSTAMP:20251030T025523
+DTSTART:20251101T101500
+DTEND:20251101T110000
+SUMMARY:🏀 U08 Girls: Warley Piranhas vs Maccabi Warriors
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi War
+ riors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:79a5875f-5297-4cbe-9adc-2ce3e9acb853
+SEQUENCE:0
+DTSTAMP:20251030T025523
+DTSTART:20251108T101500
+DTEND:20251108T110000
+SUMMARY:🏀 U08 Girls: Warley Piranhas vs Solway Meteors
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Mete
+ ors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

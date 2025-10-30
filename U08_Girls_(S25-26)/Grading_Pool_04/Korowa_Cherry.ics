@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Korowa Cherry Fixtures
+X-WR-CALNAME:Korowa Cherry Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:50a43db9-b62d-4b5f-adfe-2c05d016f806
+SEQUENCE:0
+DTSTAMP:20251030T025527
+DTSTART:20251101T084500
+DTEND:20251101T093000
+SUMMARY:🏀 U08 Girls: Korowa Cherry vs Maccabi Ducks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Duc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2f5f5502-60cf-4a70-ae83-8d9977b4d55b
+SEQUENCE:0
+DTSTAMP:20251030T025527
+DTSTART:20251108T093000
+DTEND:20251108T101500
+SUMMARY:🏀 U08 Girls: Korowa Cherry vs Kerferd Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Kerferd Pir
+ anhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

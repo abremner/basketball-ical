@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Dingoes Fixtures
+X-WR-CALNAME:Solway Dingoes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3c7822c2-0397-413a-b70d-ab7c5c571477
+SEQUENCE:0
+DTSTAMP:20251030T025637
+DTSTART:20251101T123000
+DTEND:20251101T131500
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Timberwolves Cyclones
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Cyclones\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:846ddbe7-3f71-47c1-8467-06b03b28ee4d
+SEQUENCE:0
+DTSTAMP:20251030T025637
+DTSTART:20251108T123000
+DTEND:20251108T131500
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Solway Crocodiles
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Crocodiles\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Sparks Fixtures
+X-WR-CALNAME:Solway Sparks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7c29b11a-371e-4ff1-9ca9-975ed3934713
+SEQUENCE:0
+DTSTAMP:20251030T025526
+DTSTART:20251101T080000
+DTEND:20251101T084500
+SUMMARY:🏀 U08 Girls: Solway Sparks vs Malvern Tigers Wallace
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Wallace\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:934128f3-d017-4bc6-94e2-28796a2049f0
+SEQUENCE:0
+DTSTAMP:20251030T025526
+DTSTART:20251108T101500
+DTEND:20251108T110000
+SUMMARY:🏀 U08 Girls: Solway Sparks vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

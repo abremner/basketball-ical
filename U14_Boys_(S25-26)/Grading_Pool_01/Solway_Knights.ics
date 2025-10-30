@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Knights Fixtures
+X-WR-CALNAME:Solway Knights Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:73e958a0-6176-48a6-ab09-cb070495afa0
+SEQUENCE:0
+DTSTAMP:20251030T025658
+DTSTART:20251101T170000
+DTEND:20251101T174500
+SUMMARY:🏀 U14 Boys: Solway Knights vs Timberwolves Lions
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Lions\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:064c4741-ee5b-4ef5-afaf-41eb44131944
+SEQUENCE:0
+DTSTAMP:20251030T025658
+DTSTART:20251108T174500
+DTEND:20251108T183000
+SUMMARY:🏀 U14 Boys: Solway Knights vs Comets Lightning
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Comets
+  Lightning\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

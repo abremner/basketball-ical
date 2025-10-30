@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Dragons Fixtures
+X-WR-CALNAME:Timberwolves Dragons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6c76590e-a5d3-41c8-8224-b2cef3b752e2
+SEQUENCE:0
+DTSTAMP:20251030T025715
+DTSTART:20251101T161500
+DTEND:20251101T170000
+SUMMARY:🏀 U14 Boys: Timberwolves Dragons vs Glen Iris Scorpions Raven
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
+ ris Scorpions Raven\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a7b5f535-9029-4a18-a9ec-86566cbb3299
+SEQUENCE:0
+DTSTAMP:20251030T025715
+DTSTART:20251108T161500
+DTEND:20251108T170000
+SUMMARY:🏀 U14 Boys: Timberwolves Dragons vs Solway Spartans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Spartans\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

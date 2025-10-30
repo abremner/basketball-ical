@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Orange Fixtures
+X-WR-CALNAME:Malvern Tigers Orange Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:97d60669-7407-4841-9ce0-7c8076eba84e
+SEQUENCE:0
+DTSTAMP:20251030T025537
+DTSTART:20251101T110000
+DTEND:20251101T114500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Orange vs AlphaWolf Kings
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: AlphaWolf Kings\nArrive 15 mi
+ ns early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8e288987-57cd-406e-814a-e70d1a1c3882
+SEQUENCE:0
+DTSTAMP:20251030T025537
+DTSTART:20251108T084500
+DTEND:20251108T093000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Orange vs Tollington Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Tollin
+ gton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

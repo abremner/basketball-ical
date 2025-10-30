@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Lime Fixtures
+X-WR-CALNAME:Malvern Tigers Lime Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:82069cc2-e381-4ee1-b671-85cc716980a5
+SEQUENCE:0
+DTSTAMP:20251030T025636
+DTSTART:20251101T131500
+DTEND:20251101T140000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Lime vs Toorak Thunder
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1fb93d6c-dcd3-43e9-bd7b-ad777ae21c87
+SEQUENCE:0
+DTSTAMP:20251030T025636
+DTSTART:20251108T114500
+DTEND:20251108T123000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Lime vs Timberwolves Cyclones
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Cyclones\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

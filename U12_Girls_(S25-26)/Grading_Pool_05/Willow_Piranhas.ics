@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Willow Piranhas Fixtures
+X-WR-CALNAME:Willow Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2910acf9-e52e-4a6f-8f71-adaf0151caff
+SEQUENCE:0
+DTSTAMP:20251030T025650
+DTSTART:20251101T140000
+DTEND:20251101T144500
+SUMMARY:🏀 U12 Girls: Willow Piranhas vs Solway Parrots
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Parrots\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:67a09055-cdce-4fc9-8d0e-fc9d27c6bfb5
+SEQUENCE:0
+DTSTAMP:20251030T025650
+DTSTART:20251108T144500
+DTEND:20251108T153000
+SUMMARY:🏀 U12 Girls: Willow Piranhas vs Ashy Lightning Green
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Ashy Lightn
+ ing Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

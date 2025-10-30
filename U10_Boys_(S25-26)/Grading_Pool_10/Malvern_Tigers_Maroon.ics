@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Maroon Fixtures
+X-WR-CALNAME:Malvern Tigers Maroon Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:05927e90-4d44-499d-a78d-3c0edc8c4e71
+SEQUENCE:0
+DTSTAMP:20251030T025550
+DTSTART:20251101T101500
+DTEND:20251101T110000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Maroon vs Hawksburn Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Hawksburn Piranhas\nArrive 15
+  mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4319f380-110d-4d83-bcf9-3aafd78b359c
+SEQUENCE:0
+DTSTAMP:20251030T025550
+DTSTART:20251108T114500
+DTEND:20251108T123000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Maroon vs Toorak Tycoons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Tycoons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

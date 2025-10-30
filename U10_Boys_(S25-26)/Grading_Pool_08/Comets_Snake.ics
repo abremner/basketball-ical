@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Comets Snake Fixtures
+X-WR-CALNAME:Comets Snake Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d0eb7e7d-015b-435e-ad86-545fc6f3b848
+SEQUENCE:0
+DTSTAMP:20251030T025544
+DTSTART:20251101T084500
+DTEND:20251101T093000
+SUMMARY:🏀 U10 Boys: Comets Snake vs Toorak Thunderbolts
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Thunderbolts\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:db8a0239-02b7-4772-8938-bb26f4d847b3
+SEQUENCE:0
+DTSTAMP:20251030T025544
+DTSTART:20251108T084500
+DTEND:20251108T093000
+SUMMARY:🏀 U10 Boys: Comets Snake vs AlphaWolf Magic
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: AlphaW
+ olf Magic\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

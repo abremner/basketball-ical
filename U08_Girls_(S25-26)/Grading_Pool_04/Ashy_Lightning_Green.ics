@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Green Fixtures
+X-WR-CALNAME:Ashy Lightning Green Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:93e4507e-4a46-4e9b-ab66-f9a976d16418
+SEQUENCE:0
+DTSTAMP:20251030T025527
+DTSTART:20251101T093000
+DTEND:20251101T101500
+SUMMARY:🏀 U08 Girls: Ashy Lightning Green vs Lauriston Flyers
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston F
+ lyers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cb99bbe2-c8e6-400f-a717-aebbd06c9170
+SEQUENCE:0
+DTSTAMP:20251030T025527
+DTSTART:20251108T101500
+DTEND:20251108T110000
+SUMMARY:🏀 U08 Girls: Ashy Lightning Green vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

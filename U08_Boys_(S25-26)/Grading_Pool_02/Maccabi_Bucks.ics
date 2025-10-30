@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:64ff9cd2-dbf3-459d-988a-ad641900b418
+SEQUENCE:0
+DTSTAMP:20251030T025506
+DTSTART:20251101T084500
+DTEND:20251101T093000
+SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Malvern Tigers Mills
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Mills\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:760b1c72-fb17-407d-bdef-85df0e3baeba
+SEQUENCE:0
+DTSTAMP:20251030T025506
+DTSTART:20251108T093000
+DTEND:20251108T101500
+SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Toorak Toucans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Toucans\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Purple Fixtures
+X-WR-CALNAME:Malvern Tigers Purple Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5964be5c-03fb-4a87-a0da-84458ada298b
+SEQUENCE:0
+DTSTAMP:20251030T025546
+DTSTART:20251101T093000
+DTEND:20251101T101500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Purple vs Toorak Tigersharks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Tigersharks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:75647ef6-4aed-4152-82e6-361df61a0c05
+SEQUENCE:0
+DTSTAMP:20251030T025546
+DTSTART:20251108T080000
+DTEND:20251108T084500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Purple vs Solway Nets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Nets\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

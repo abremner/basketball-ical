@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Red Fixtures
+X-WR-CALNAME:Malvern Tigers Red Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c284c312-5dfe-4347-ad4f-e47cb5d3e159
+SEQUENCE:0
+DTSTAMP:20251030T025616
+DTSTART:20251101T140000
+DTEND:20251101T144500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Red vs Alma Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Alma P
+ ark Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ce65b3b5-f7ba-4251-8f44-4bbd921e472e
+SEQUENCE:0
+DTSTAMP:20251030T025616
+DTSTART:20251108T144500
+DTEND:20251108T153000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Red vs Timberwolves Colts
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Colts\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0147ab21-b0cc-46c6-84f1-802e378df4ae
+SEQUENCE:0
+DTSTAMP:20251030T025534
+DTSTART:20251101T114500
+DTEND:20251101T123000
+SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Timberwolves Boomers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Boomers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4b9a1824-4b73-414c-ab3c-5a8ecc5b6a04
+SEQUENCE:0
+DTSTAMP:20251030T025534
+DTSTART:20251108T114500
+DTEND:20251108T123000
+SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Malvern Tigers White
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR
