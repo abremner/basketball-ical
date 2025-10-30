@@ -6,9 +6,20 @@ X-WR-CALNAME:Ashy Lightning Yellow Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c2df254f-7eed-4ae7-9c12-a2c2d3d2aefd
+UID:06b15173-2376-424b-9dd5-a96c905138e5
 SEQUENCE:0
-DTSTAMP:20251030T025654
+DTSTAMP:20251030T171443
+DTSTART:20251101T131500
+DTEND:20251101T140000
+SUMMARY:🏀 U12 Girls: Ashy Lightning Yellow vs Ashy Lightning White
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
+ ing White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2671071d-fb2b-4146-a2c5-1d3d3737f798
+SEQUENCE:0
+DTSTAMP:20251030T171443
 DTSTART:20251108T123000
 DTEND:20251108T131500
 SUMMARY:🏀 U12 Girls: Ashy Lightning Yellow vs Timberwolves Hurricanes
