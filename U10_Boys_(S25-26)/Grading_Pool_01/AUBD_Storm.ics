@@ -5,15 +5,4 @@ NAME:AUBD Storm Fixtures
 X-WR-CALNAME:AUBD Storm Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:3e340587-5942-4798-aa12-be063e3f09dd
-SEQUENCE:0
-DTSTAMP:20251031T171326
-DTSTART:20251101T131500
-DTEND:20251101T140000
-SUMMARY:🏀 U10 Boys: AUBD Storm vs Timberwolves Crusaders
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
- wolves Crusaders\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

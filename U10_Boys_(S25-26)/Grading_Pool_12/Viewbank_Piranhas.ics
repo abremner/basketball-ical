@@ -5,15 +5,4 @@ NAME:Viewbank Piranhas Fixtures
 X-WR-CALNAME:Viewbank Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:3636ab40-8110-4811-a328-7a0d0a86a641
-SEQUENCE:0
-DTSTAMP:20251031T171400
-DTSTART:20251101T101500
-DTEND:20251101T110000
-SUMMARY:🏀 U10 Boys: Viewbank Piranhas vs Comets Eagles
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Comets
-  Eagles\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

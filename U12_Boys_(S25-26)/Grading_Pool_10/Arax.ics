@@ -5,15 +5,4 @@ NAME:Arax Fixtures
 X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:1f2332a6-f970-41cb-bc8c-1af91c4156cd
-SEQUENCE:0
-DTSTAMP:20251031T171450
-DTSTART:20251101T131500
-DTEND:20251101T140000
-SUMMARY:🏀 U12 Boys: Arax vs Stonnington Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Stonni
- ngton Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

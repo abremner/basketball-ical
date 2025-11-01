@@ -5,15 +5,4 @@ NAME:Arax Fixtures
 X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:277027be-33ed-4079-b925-803e280207ac
-SEQUENCE:0
-DTSTAMP:20251031T171604
-DTSTART:20251101T131500
-DTEND:20251101T140000
-SUMMARY:🏀 U14 Girls: Arax vs McArthur Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: McArth
- ur Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR
