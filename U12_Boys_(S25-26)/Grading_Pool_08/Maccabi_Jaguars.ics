@@ -5,15 +5,4 @@ NAME:Maccabi Jaguars Fixtures
 X-WR-CALNAME:Maccabi Jaguars Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:04579815-e37c-405b-96aa-2ddfde17831a
-SEQUENCE:0
-DTSTAMP:20251107T171326
-DTSTART:20251108T123000
-DTEND:20251108T131500
-SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Maccabi Hawks
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
-  Hawks\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

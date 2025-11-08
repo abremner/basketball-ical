@@ -5,15 +5,4 @@ NAME:Toorak Topshots Fixtures
 X-WR-CALNAME:Toorak Topshots Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:218c620b-4ec1-499a-a156-6f5fb998a153
-SEQUENCE:0
-DTSTAMP:20251107T171430
-DTSTART:20251108T161500
-DTEND:20251108T170000
-SUMMARY:🏀 U14 Girls: Toorak Topshots vs Maccabi Bucks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
- i Bucks\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,4 @@ NAME:Maccabi Lakers Fixtures
 X-WR-CALNAME:Maccabi Lakers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:ecc25337-c3d9-4e0d-aaa4-b02017bb894d
-SEQUENCE:0
-DTSTAMP:20251107T171248
-DTSTART:20251108T101500
-DTEND:20251108T110000
-SUMMARY:🏀 U10 Boys: Maccabi Lakers vs Solway Force
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
-  Force\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

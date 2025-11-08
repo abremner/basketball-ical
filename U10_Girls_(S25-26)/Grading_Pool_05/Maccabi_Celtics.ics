@@ -5,15 +5,4 @@ NAME:Maccabi Celtics Fixtures
 X-WR-CALNAME:Maccabi Celtics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:1e5c599c-c5f4-4d66-abd0-8dc5684e6735
-SEQUENCE:0
-DTSTAMP:20251107T171301
-DTSTART:20251108T093000
-DTEND:20251108T101500
-SUMMARY:🏀 U10 Girls: Maccabi Celtics vs Solway Zephyrs
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
-  Zephyrs\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

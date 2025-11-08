@@ -5,15 +5,4 @@ NAME:Toorak Toucans Fixtures
 X-WR-CALNAME:Toorak Toucans Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:68811340-88f1-4135-96fd-ea70c1b72f46
-SEQUENCE:0
-DTSTAMP:20251107T171154
-DTSTART:20251108T093000
-DTEND:20251108T101500
-SUMMARY:🏀 U08 Boys: Toorak Toucans vs Maccabi Bucks
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
-  Bucks\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,4 @@ NAME:Maccabi Ducks Fixtures
 X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:8bddf8e6-6274-4e9c-819b-e582b9b03d9b
-SEQUENCE:0
-DTSTAMP:20251107T171230
-DTSTART:20251108T093000
-DTEND:20251108T101500
-SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Solway Bulls
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
-  Bulls\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

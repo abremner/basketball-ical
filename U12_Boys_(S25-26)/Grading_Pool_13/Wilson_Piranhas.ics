@@ -5,15 +5,4 @@ NAME:Wilson Piranhas Fixtures
 X-WR-CALNAME:Wilson Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:f3b09c11-a59f-4a5d-9b0e-a05c5bc41981
-SEQUENCE:0
-DTSTAMP:20251107T171339
-DTSTART:20251108T114500
-DTEND:20251108T123000
-SUMMARY:🏀 U12 Boys: Wilson Piranhas vs Timberwolves Cavs
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
- wolves Cavs\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

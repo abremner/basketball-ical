@@ -5,15 +5,4 @@ NAME:Solway Boomers Fixtures
 X-WR-CALNAME:Solway Boomers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:b72e9145-5b6f-41ce-89d2-ede5ad056fe9
-SEQUENCE:0
-DTSTAMP:20251107T171221
-DTSTART:20251108T131500
-DTEND:20251108T140000
-SUMMARY:🏀 U10 Boys: Solway Boomers vs Maccabi Warriors
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
- i Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,4 @@ NAME:Maccabi Haifa Fixtures
 X-WR-CALNAME:Maccabi Haifa Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:69ae5795-6c9f-469e-8ee8-99bb203fa5eb
-SEQUENCE:0
-DTSTAMP:20251107T171453
-DTSTART:20251108T191500
-DTEND:20251108T200000
-SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Solway Blades
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
- Blades\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

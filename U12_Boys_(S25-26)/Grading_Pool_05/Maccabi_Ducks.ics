@@ -5,15 +5,4 @@ NAME:Maccabi Ducks Fixtures
 X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:679d74f9-86c7-4853-880c-c9435822bfaa
-SEQUENCE:0
-DTSTAMP:20251107T171317
-DTSTART:20251108T140000
-DTEND:20251108T144500
-SUMMARY:🏀 U12 Boys: Maccabi Ducks vs Maccabi Celtics
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
- i Celtics\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

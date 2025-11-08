@@ -5,15 +5,4 @@ NAME:AlphaWolf Kings Fixtures
 X-WR-CALNAME:AlphaWolf Kings Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:dce7c4af-e958-4a12-bd8d-dee45ea6b788
-SEQUENCE:0
-DTSTAMP:20251107T171227
-DTSTART:20251108T101500
-DTEND:20251108T110000
-SUMMARY:🏀 U10 Boys: AlphaWolf Kings vs Timberwolves Cobras
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
- wolves Cobras\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

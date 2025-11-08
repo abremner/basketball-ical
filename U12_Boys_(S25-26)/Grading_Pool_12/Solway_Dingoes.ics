@@ -5,15 +5,4 @@ NAME:Solway Dingoes Fixtures
 X-WR-CALNAME:Solway Dingoes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:90756c5e-9b47-46d1-bfb1-7b65612ddf1a
-SEQUENCE:0
-DTSTAMP:20251107T171336
-DTSTART:20251108T123000
-DTEND:20251108T131500
-SUMMARY:🏀 U12 Boys: Solway Dingoes vs Solway Crocodiles
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Crocodiles\nArrive 15 
- mins early for warm-up
-END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,4 @@ NAME:Toorak Topguns Fixtures
 X-WR-CALNAME:Toorak Topguns Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:37ecffad-0ad2-470e-94a3-f673f7c8f44b
-SEQUENCE:0
-DTSTAMP:20251107T171426
-DTSTART:20251108T174500
-DTEND:20251108T183000
-SUMMARY:🏀 U14 Girls: Toorak Topguns vs Malvern Tigers Boston
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
-  Tigers Boston\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

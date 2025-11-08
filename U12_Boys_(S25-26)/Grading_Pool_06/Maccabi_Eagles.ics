@@ -5,15 +5,4 @@ NAME:Maccabi Eagles Fixtures
 X-WR-CALNAME:Maccabi Eagles Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:410ff747-ea76-427e-a535-1a2f7aff0a96
-SEQUENCE:0
-DTSTAMP:20251107T171319
-DTSTART:20251108T140000
-DTEND:20251108T144500
-SUMMARY:🏀 U12 Boys: Maccabi Eagles vs Toorak Tigersnakes
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
-  Tigersnakes\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,4 @@ NAME:Toorak Troublemakers Fixtures
 X-WR-CALNAME:Toorak Troublemakers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:4416d36f-504a-4c85-8b61-7764ab0e26bb
-SEQUENCE:0
-DTSTAMP:20251107T171342
-DTSTART:20251108T144500
-DTEND:20251108T153000
-SUMMARY:🏀 U12 Girls: Toorak Troublemakers vs Solway Crows
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
-  Crows\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

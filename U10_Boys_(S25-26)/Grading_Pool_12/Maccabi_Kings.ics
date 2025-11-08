@@ -5,15 +5,4 @@ NAME:Maccabi Kings Fixtures
 X-WR-CALNAME:Maccabi Kings Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:1141eab0-6470-4cac-bd39-c05e1f259a82
-SEQUENCE:0
-DTSTAMP:20251107T171248
-DTSTART:20251108T084500
-DTEND:20251108T093000
-SUMMARY:🏀 U10 Boys: Maccabi Kings vs Comets Eagles
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Comets Eagles\nArrive 15 mins
-  early for warm-up
-END:VEVENT
 END:VCALENDAR

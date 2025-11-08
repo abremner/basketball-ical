@@ -5,15 +5,4 @@ NAME:Maccabi Bucks Fixtures
 X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:a2f0c905-2a11-463a-bc2c-a43f0a24d92b
-SEQUENCE:0
-DTSTAMP:20251107T171304
-DTSTART:20251108T084500
-DTEND:20251108T093000
-SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Timberwolves Warriors
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
- wolves Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

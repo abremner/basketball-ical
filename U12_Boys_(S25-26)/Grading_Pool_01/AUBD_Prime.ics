@@ -5,15 +5,4 @@ NAME:AUBD Prime Fixtures
 X-WR-CALNAME:AUBD Prime Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:ad3db747-5a25-435d-901c-ff3076552e8c
-SEQUENCE:0
-DTSTAMP:20251107T171309
-DTSTART:20251108T161500
-DTEND:20251108T170000
-SUMMARY:🏀 U12 Boys: AUBD Prime vs Timberwolves Bullets
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
- wolves Bullets\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

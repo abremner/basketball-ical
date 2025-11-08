@@ -5,15 +5,4 @@ NAME:AlphaWolf Blaze Fixtures
 X-WR-CALNAME:AlphaWolf Blaze Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:831d2ca9-306f-4f31-bc62-c94ef80ccaaf
-SEQUENCE:0
-DTSTAMP:20251107T171258
-DTSTART:20251108T080000
-DTEND:20251108T084500
-SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Arax
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Arax\n
- Arrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

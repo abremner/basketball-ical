@@ -5,15 +5,4 @@ NAME:Solway Sparks Fixtures
 X-WR-CALNAME:Solway Sparks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:c5c4b978-13a2-4f3e-971a-8a189a277725
-SEQUENCE:0
-DTSTAMP:20251107T171216
-DTSTART:20251108T101500
-DTEND:20251108T110000
-SUMMARY:🏀 U08 Girls: Solway Sparks vs Maccabi Bucks
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
-  Bucks\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

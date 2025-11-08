@@ -5,15 +5,4 @@ NAME:Solway Bucks Fixtures
 X-WR-CALNAME:Solway Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:4cd78eb6-3e33-4278-8674-3f56ade91986
-SEQUENCE:0
-DTSTAMP:20251107T171234
-DTSTART:20251108T093000
-DTEND:20251108T101500
-SUMMARY:🏀 U10 Boys: Solway Bucks vs Solway Thunder
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
-  Thunder\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

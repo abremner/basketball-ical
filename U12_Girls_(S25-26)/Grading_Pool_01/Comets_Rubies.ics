@@ -5,15 +5,4 @@ NAME:Comets Rubies Fixtures
 X-WR-CALNAME:Comets Rubies Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:8c0bd200-6536-46f4-b3b9-ce8053e45ace
-SEQUENCE:0
-DTSTAMP:20251107T171340
-DTSTART:20251108T140000
-DTEND:20251108T144500
-SUMMARY:🏀 U12 Girls: Comets Rubies vs Yanakie Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Yanaki
- e Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

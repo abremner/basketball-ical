@@ -5,15 +5,4 @@ NAME:Maccabi Warriors Fixtures
 X-WR-CALNAME:Maccabi Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:a1d90575-9ac3-46e7-a3b7-c8002dc9d7d1
-SEQUENCE:0
-DTSTAMP:20251107T171444
-DTSTART:20251108T183000
-DTEND:20251108T191500
-SUMMARY:🏀 U16 Boys: Maccabi Warriors vs Toorak Tropics
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
-  Tropics\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

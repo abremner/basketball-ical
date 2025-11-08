@@ -5,15 +5,4 @@ NAME:Toorak Trackers Fixtures
 X-WR-CALNAME:Toorak Trackers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:69951c45-3acb-45a0-910a-e267ce4cde3c
-SEQUENCE:0
-DTSTAMP:20251107T171454
-DTSTART:20251108T191500
-DTEND:20251108T200000
-SUMMARY:🏀 U16 Boys: Toorak Trackers vs Glen Iris Scorpions Saints
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
- ris Scorpions Saints\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

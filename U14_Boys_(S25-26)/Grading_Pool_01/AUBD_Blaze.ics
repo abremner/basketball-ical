@@ -5,15 +5,4 @@ NAME:AUBD Blaze Fixtures
 X-WR-CALNAME:AUBD Blaze Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:1b59511a-d685-4d10-9b62-0cbdb91fb602
-SEQUENCE:0
-DTSTAMP:20251107T171358
-DTSTART:20251108T174500
-DTEND:20251108T183000
-SUMMARY:🏀 U14 Boys: AUBD Blaze vs Malvern Tigers Black
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
- n Tigers Black\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

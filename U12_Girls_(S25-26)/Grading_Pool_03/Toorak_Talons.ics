@@ -5,15 +5,4 @@ NAME:Toorak Talons Fixtures
 X-WR-CALNAME:Toorak Talons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:91e6fad2-8e22-4794-8a07-4afd51ed50dd
-SEQUENCE:0
-DTSTAMP:20251107T171345
-DTSTART:20251108T140000
-DTEND:20251108T144500
-SUMMARY:🏀 U12 Girls: Toorak Talons vs Aintree Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Aintree
-  Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

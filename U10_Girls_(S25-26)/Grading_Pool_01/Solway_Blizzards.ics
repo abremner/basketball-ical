@@ -5,15 +5,4 @@ NAME:Solway Blizzards Fixtures
 X-WR-CALNAME:Solway Blizzards Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:3b92862b-7dee-4557-9e9e-ab7aad77c513
-SEQUENCE:0
-DTSTAMP:20251107T171252
-DTSTART:20251108T114500
-DTEND:20251108T123000
-SUMMARY:🏀 U10 Girls: Solway Blizzards vs Halley Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Halley
-  Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

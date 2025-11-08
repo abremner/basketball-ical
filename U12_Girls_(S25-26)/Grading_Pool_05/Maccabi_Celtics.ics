@@ -5,15 +5,4 @@ NAME:Maccabi Celtics Fixtures
 X-WR-CALNAME:Maccabi Celtics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:273e5b55-3356-425e-be1a-7631b5fc269b
-SEQUENCE:0
-DTSTAMP:20251107T171350
-DTSTART:20251108T144500
-DTEND:20251108T153000
-SUMMARY:🏀 U12 Girls: Maccabi Celtics vs Korowa Grey
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Korowa Grey
- \nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

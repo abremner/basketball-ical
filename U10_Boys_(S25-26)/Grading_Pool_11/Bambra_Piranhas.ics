@@ -5,15 +5,4 @@ NAME:Bambra Piranhas Fixtures
 X-WR-CALNAME:Bambra Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:f029acd1-89e5-4ac5-9d9f-a6f5892107f3
-SEQUENCE:0
-DTSTAMP:20251107T171244
-DTSTART:20251108T080000
-DTEND:20251108T084500
-SUMMARY:🏀 U10 Boys: Bambra Piranhas vs Maccabi Jaguars
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
- i Jaguars\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

@@ -5,15 +5,4 @@ NAME:Golden Hawks Rising Fixtures
 X-WR-CALNAME:Golden Hawks Rising Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:32e3bb91-b3bc-4a7a-8407-69b50fcf29ef
-SEQUENCE:0
-DTSTAMP:20251107T171325
-DTSTART:20251108T123000
-DTEND:20251108T131500
-SUMMARY:🏀 U12 Boys: Golden Hawks Rising vs Toorak Trouble
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
-  Trouble\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

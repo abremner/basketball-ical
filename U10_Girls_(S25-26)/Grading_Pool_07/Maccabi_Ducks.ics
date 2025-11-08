@@ -5,15 +5,4 @@ NAME:Maccabi Ducks Fixtures
 X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:391ed5b1-5b31-4df4-9382-1d5a85a70adf
-SEQUENCE:0
-DTSTAMP:20251107T171306
-DTSTART:20251108T084500
-DTEND:20251108T093000
-SUMMARY:🏀 U10 Girls: Maccabi Ducks vs Maccabi Eagles
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
- i Eagles\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

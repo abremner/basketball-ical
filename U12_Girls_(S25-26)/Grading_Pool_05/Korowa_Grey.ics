@@ -5,15 +5,4 @@ NAME:Korowa Grey Fixtures
 X-WR-CALNAME:Korowa Grey Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:c07dbc53-71ad-4974-8db4-a5d3b9b055c1
-SEQUENCE:0
-DTSTAMP:20251107T171350
-DTSTART:20251108T144500
-DTEND:20251108T153000
-SUMMARY:🏀 U12 Girls: Korowa Grey vs Maccabi Celtics
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Cel
- tics\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR
