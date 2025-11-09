@@ -5,15 +5,4 @@ NAME:Solway Vampires Fixtures
 X-WR-CALNAME:Solway Vampires Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:a14b5f04-cfee-46bb-b17c-987aa5f291f6
-SEQUENCE:0
-DTSTAMP:20251108T171421
-DTSTART:20251109T181500
-DTEND:20251109T190000
-SUMMARY:🏀 U18 Boys: Solway Vampires vs Maccabi Warriors
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
- i Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR

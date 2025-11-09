@@ -5,15 +5,4 @@ NAME:Solway Mambas Fixtures
 X-WR-CALNAME:Solway Mambas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
-BEGIN:VEVENT
-UID:f14014fd-1840-447a-ae32-a0ce616f3bc2
-SEQUENCE:0
-DTSTAMP:20251108T171426
-DTSTART:20251109T181500
-DTEND:20251109T190000
-SUMMARY:🏀 U18 Boys: Solway Mambas vs Comets Storm
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
-  Storm\nArrive 15 mins early for warm-up
-END:VEVENT
 END:VCALENDAR
