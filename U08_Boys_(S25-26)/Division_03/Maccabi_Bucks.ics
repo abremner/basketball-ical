@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:032b524d-e617-49c3-9f72-76806650369c
+SEQUENCE:0
+DTSTAMP:20251113T094215
+DTSTART:20251115T093000
+DTEND:20251115T101500
+SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Solway Steeds
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Steeds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c7d1805e-c6fa-4094-a42e-5b79bca0bec5
+SEQUENCE:0
+DTSTAMP:20251113T094215
+DTSTART:20251129T084500
+DTEND:20251129T093000
+SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Malvern Tigers Exum
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Exum\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0eba00f2-f556-44ee-87e3-9c4c76eb6363
+SEQUENCE:0
+DTSTAMP:20251113T094215
+DTSTART:20251206T110000
+DTEND:20251206T114500
+SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Malvern Tigers Giddey
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Giddey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:01d7d595-727b-47f6-99b2-1fff1c757f82
+SEQUENCE:0
+DTSTAMP:20251113T094215
+DTSTART:20251213T084500
+DTEND:20251213T093000
+SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Burnley Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Burnley
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2a1849d0-c2c7-4061-bca4-d5cab715bcc4
+SEQUENCE:0
+DTSTAMP:20251113T094215
+DTSTART:20260131T084500
+DTEND:20260131T093000
+SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Malvern Tigers Dellavedova
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Dellavedova\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1674ae27-b669-44ec-ab16-faae96cc102b
+SEQUENCE:0
+DTSTAMP:20251113T094215
+DTSTART:20260207T093000
+DTEND:20260207T101500
+SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Solway Stallions
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Stallions\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4237da63-7229-458b-b58f-fbd1ecbb7340
+SEQUENCE:0
+DTSTAMP:20251113T094215
+DTSTART:20260214T093000
+DTEND:20260214T101500
+SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Solway Steeds
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Steeds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:060e7e5e-4641-4e14-9c9b-0ff595409c10
+SEQUENCE:0
+DTSTAMP:20251113T094215
+DTSTART:20260228T084500
+DTEND:20260228T093000
+SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Malvern Tigers Exum
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Exum\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d356c0f9-da7d-4005-9e8a-656a80a6652b
+SEQUENCE:0
+DTSTAMP:20251113T094215
+DTSTART:20260314T110000
+DTEND:20260314T114500
+SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Malvern Tigers Giddey
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Giddey\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

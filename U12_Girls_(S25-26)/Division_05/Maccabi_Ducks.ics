@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Ducks Fixtures
+X-WR-CALNAME:Maccabi Ducks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:65feeb6d-0bd0-4d48-831c-21c85f509ce5
+SEQUENCE:0
+DTSTAMP:20251113T094424
+DTSTART:20251115T140000
+DTEND:20251115T144500
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Solway Sparrows
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Spar
+ rows\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:30f99548-5ad5-414b-b25f-299055f436a0
+SEQUENCE:0
+DTSTAMP:20251113T094424
+DTSTART:20251122T131500
+DTEND:20251122T140000
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Korowa Grey
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Korowa 
+ Grey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:deec97b0-75c6-4001-9e47-322a07bcd29e
+SEQUENCE:0
+DTSTAMP:20251113T094424
+DTSTART:20251129T140000
+DTEND:20251129T144500
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Maccabi Eagles
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Eag
+ les\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8c965cb2-2a0f-4efd-8e9b-7251e3aac1b2
+SEQUENCE:0
+DTSTAMP:20251113T094424
+DTSTART:20251206T140000
+DTEND:20251206T144500
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Malvern Tigers Blue
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b100060c-640f-48a8-8658-b85a78c72c91
+SEQUENCE:0
+DTSTAMP:20251113T094424
+DTSTART:20251213T131500
+DTEND:20251213T140000
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Solway Red Robins
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Red Robins\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c92e344b-9c68-4305-ab0f-2b6e78c6c9ea
+SEQUENCE:0
+DTSTAMP:20251113T094424
+DTSTART:20260207T123000
+DTEND:20260207T131500
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Timberwolves Pearls
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Pearls\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5b1336ba-a75e-4abe-8e76-cd32dab1c707
+SEQUENCE:0
+DTSTAMP:20251113T094424
+DTSTART:20260214T123000
+DTEND:20260214T131500
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f1b65cef-085f-4891-ba02-1f489f8c467b
+SEQUENCE:0
+DTSTAMP:20251113T094424
+DTSTART:20260221T140000
+DTEND:20260221T144500
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Lauriston Storm
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston S
+ torm\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:48d3aa0d-d7c5-46be-ad70-0ee8e1457536
+SEQUENCE:0
+DTSTAMP:20251113T094424
+DTSTART:20260228T140000
+DTEND:20260228T144500
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Solway Sparrows
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Spar
+ rows\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:85633d33-58b4-4080-9d2f-878a35e7f53c
+SEQUENCE:0
+DTSTAMP:20251113T094424
+DTSTART:20260314T131500
+DTEND:20260314T140000
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Korowa Grey
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Korowa 
+ Grey\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

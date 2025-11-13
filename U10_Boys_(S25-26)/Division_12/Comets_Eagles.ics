@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Comets Eagles Fixtures
+X-WR-CALNAME:Comets Eagles Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c314ddf2-0e78-4210-b75b-b060e5a5dbec
+SEQUENCE:0
+DTSTAMP:20251113T094313
+DTSTART:20251115T080000
+DTEND:20251115T084500
+SUMMARY:🏀 U10 Boys: Comets Eagles vs Maccabi Lakers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Lakers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:42e442c3-190a-411f-8d91-df49f6f96872
+SEQUENCE:0
+DTSTAMP:20251113T094313
+DTSTART:20251122T101500
+DTEND:20251122T110000
+SUMMARY:🏀 U10 Boys: Comets Eagles vs Solway Force
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Force\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bf562d7e-6660-4c91-bfbb-0fa01ed8ba0b
+SEQUENCE:0
+DTSTAMP:20251113T094313
+DTSTART:20251129T080000
+DTEND:20251129T084500
+SUMMARY:🏀 U10 Boys: Comets Eagles vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c6f89f27-3723-40af-be1d-953bf9161c9f
+SEQUENCE:0
+DTSTAMP:20251113T094313
+DTSTART:20251206T084500
+DTEND:20251206T093000
+SUMMARY:🏀 U10 Boys: Comets Eagles vs Timberwolves Hawks
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Hawks\nArrive 15
+  mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:19007b78-e22a-4f4e-98fb-9441ab92e9a5
+SEQUENCE:0
+DTSTAMP:20251113T094313
+DTSTART:20251213T093000
+DTEND:20251213T101500
+SUMMARY:🏀 U10 Boys: Comets Eagles vs Maccabi Kings
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Kings\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:73f8f625-7559-44c1-a4f7-c0d78a7bb242
+SEQUENCE:0
+DTSTAMP:20251113T094313
+DTSTART:20260131T093000
+DTEND:20260131T101500
+SUMMARY:🏀 U10 Boys: Comets Eagles vs Viewbank Piranhas
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Viewbank Piranhas\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1e1d6384-31ca-40ec-b088-9b7e7b6dcc4b
+SEQUENCE:0
+DTSTAMP:20251113T094313
+DTSTART:20260207T093000
+DTEND:20260207T101500
+SUMMARY:🏀 U10 Boys: Comets Eagles vs Heyington Piranhas
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Heyington Piranhas\nArrive 15
+  mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b3b7767a-8bf4-4dc1-a53f-7353e1bcfbfe
+SEQUENCE:0
+DTSTAMP:20251113T094313
+DTSTART:20260221T101500
+DTEND:20260221T110000
+SUMMARY:🏀 U10 Boys: Comets Eagles vs Malvern Tigers Lime
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Lime\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a76baab7-d99c-4fd4-a50f-a78de6113f8b
+SEQUENCE:0
+DTSTAMP:20251113T094313
+DTSTART:20260228T084500
+DTEND:20260228T093000
+SUMMARY:🏀 U10 Boys: Comets Eagles vs Maccabi Lakers
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Lakers\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a782ffd9-fb2a-4996-a180-584c72ef64ec
+SEQUENCE:0
+DTSTAMP:20251113T094313
+DTSTART:20260314T093000
+DTEND:20260314T101500
+SUMMARY:🏀 U10 Boys: Comets Eagles vs Solway Force
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Solway Force\nArrive 15 mins 
+ early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Cavs Fixtures
+X-WR-CALNAME:Timberwolves Cavs Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f532bff4-9d27-42be-95b1-6089fcfa2d33
+SEQUENCE:0
+DTSTAMP:20251113T094409
+DTSTART:20251115T114500
+DTEND:20251115T123000
+SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Golden Hawks Blaze
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Golden
+  Hawks Blaze\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3cacb7c2-8b4a-4de1-80dd-2111cd5d78f7
+SEQUENCE:0
+DTSTAMP:20251113T094409
+DTSTART:20251122T114500
+DTEND:20251122T123000
+SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Timberwolves Fury
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Timberwolves Fury\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0005d4c4-bf19-4009-8461-7b31683f8511
+SEQUENCE:0
+DTSTAMP:20251113T094409
+DTSTART:20251129T114500
+DTEND:20251129T123000
+SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Malvern Tigers Mauve
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Mauve\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4abe7b44-6d55-402c-a8e3-278514a100eb
+SEQUENCE:0
+DTSTAMP:20251113T094409
+DTSTART:20251206T114500
+DTEND:20251206T123000
+SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Malvern Tigers Lime
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Lime\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:478adf7c-3ca8-4664-8f3e-a9a6fccc1ee4
+SEQUENCE:0
+DTSTAMP:20251113T094409
+DTSTART:20251213T131500
+DTEND:20251213T140000
+SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Wilson Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Wilson
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4f325250-5d84-4d01-abfc-f189e0228307
+SEQUENCE:0
+DTSTAMP:20251113T094409
+DTSTART:20260131T114500
+DTEND:20260131T123000
+SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Golden Hawks Blaze
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Golden Hawks Blaze\nArrive 15
+  mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3cd5b587-6e21-4d10-a3ec-04177055f073
+SEQUENCE:0
+DTSTAMP:20251113T094409
+DTSTART:20260207T114500
+DTEND:20260207T123000
+SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Timberwolves Fury
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Fury\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ed4d4605-98fd-42b8-bd2f-6ee98ec498f3
+SEQUENCE:0
+DTSTAMP:20251113T094409
+DTSTART:20260214T114500
+DTEND:20260214T123000
+SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Malvern Tigers Mauve
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Mauve\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:439eb7fd-00be-4218-a86e-e8c889d5d74c
+SEQUENCE:0
+DTSTAMP:20251113T094409
+DTSTART:20260221T114500
+DTEND:20260221T123000
+SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Malvern Tigers Lime
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Lime\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:daffcfe4-fa9d-4ec3-8384-1071af38fffa
+SEQUENCE:0
+DTSTAMP:20251113T094409
+DTSTART:20260228T131500
+DTEND:20260228T140000
+SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Wilson Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Wilson
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:424178ee-55ce-44ca-8f34-4d4ba045e907
+SEQUENCE:0
+DTSTAMP:20251113T094409
+DTSTART:20260314T114500
+DTEND:20260314T123000
+SUMMARY:🏀 U12 Boys: Timberwolves Cavs vs Golden Hawks Blaze
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Golden Hawks Blaze\nArrive 15
+  mins early for warm-up
+END:VEVENT
+END:VCALENDAR

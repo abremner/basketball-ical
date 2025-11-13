@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tomcats Fixtures
+X-WR-CALNAME:Toorak Tomcats Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e42deb0f-c334-463d-b4f6-12c48f419e3c
+SEQUENCE:0
+DTSTAMP:20251113T094439
+DTSTART:20251115T153000
+DTEND:20251115T161500
+SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Malvern Tigers Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ee394ebe-7611-4eac-9111-26c87ede14e3
+SEQUENCE:0
+DTSTAMP:20251113T094439
+DTSTART:20251122T174500
+DTEND:20251122T183000
+SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Timberwolves Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1c806fba-2506-4fff-82f7-e4f379aef41c
+SEQUENCE:0
+DTSTAMP:20251113T094439
+DTSTART:20251129T170000
+DTEND:20251129T174500
+SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:54bf2192-d183-4c48-9a95-e9d76bc582a1
+SEQUENCE:0
+DTSTAMP:20251113T094439
+DTSTART:20251206T153000
+DTEND:20251206T161500
+SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Maccabi Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0b07a0eb-6730-44cc-9168-13d78eee35af
+SEQUENCE:0
+DTSTAMP:20251113T094439
+DTSTART:20251213T174500
+DTEND:20251213T183000
+SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Solway Rebels
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Rebels\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:333d1888-71c5-4275-acbc-6815b6be101d
+SEQUENCE:0
+DTSTAMP:20251113T094439
+DTSTART:20260131T170000
+DTEND:20260131T174500
+SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Solway Titans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Titans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2dd8f5d2-e9b4-48ed-8764-218ac2ea1ddd
+SEQUENCE:0
+DTSTAMP:20251113T094439
+DTSTART:20260214T153000
+DTEND:20260214T161500
+SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Malvern Tigers Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e692788c-38e6-4cef-abb8-875316a9ce6b
+SEQUENCE:0
+DTSTAMP:20251113T094439
+DTSTART:20260221T174500
+DTEND:20260221T183000
+SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Timberwolves Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:aa190b91-d79f-4702-b8b4-1bbf3d7a7750
+SEQUENCE:0
+DTSTAMP:20251113T094439
+DTSTART:20260228T170000
+DTEND:20260228T174500
+SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e39fe1d2-7cd2-42e3-b338-3f66cf40cb6f
+SEQUENCE:0
+DTSTAMP:20251113T094439
+DTSTART:20260314T153000
+DTEND:20260314T161500
+SUMMARY:🏀 U14 Boys: Toorak Tomcats vs Maccabi Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

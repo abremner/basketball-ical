@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Force Fixtures
+X-WR-CALNAME:Solway Force Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d4d157ff-3252-49a4-b421-79a63bc1db5d
+SEQUENCE:0
+DTSTAMP:20251113T094314
+DTSTART:20251115T084500
+DTEND:20251115T093000
+SUMMARY:🏀 U10 Boys: Solway Force vs Maccabi Kings
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Kings\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c8ebf2a7-e982-481e-aa8c-2943e86f9f04
+SEQUENCE:0
+DTSTAMP:20251113T094314
+DTSTART:20251122T101500
+DTEND:20251122T110000
+SUMMARY:🏀 U10 Boys: Solway Force vs Comets Eagles
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Comets
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e67e5829-1ab5-469a-a825-bd45c3b48e56
+SEQUENCE:0
+DTSTAMP:20251113T094314
+DTSTART:20251129T101500
+DTEND:20251129T110000
+SUMMARY:🏀 U10 Boys: Solway Force vs Viewbank Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Viewba
+ nk Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ec3d51d3-33df-42ab-910b-36bda733fbaf
+SEQUENCE:0
+DTSTAMP:20251113T094314
+DTSTART:20251206T080000
+DTEND:20251206T084500
+SUMMARY:🏀 U10 Boys: Solway Force vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:636c9358-6152-4d0b-853f-adf02b6ccf55
+SEQUENCE:0
+DTSTAMP:20251113T094314
+DTSTART:20251213T084500
+DTEND:20251213T093000
+SUMMARY:🏀 U10 Boys: Solway Force vs Malvern Tigers Lime
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Lime\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8e4ca35b-7325-4686-aa97-85eb8d427992
+SEQUENCE:0
+DTSTAMP:20251113T094314
+DTSTART:20260131T101500
+DTEND:20260131T110000
+SUMMARY:🏀 U10 Boys: Solway Force vs Maccabi Lakers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Lakers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8f19c386-3c20-4c0a-a1ea-c32be85dec69
+SEQUENCE:0
+DTSTAMP:20251113T094314
+DTSTART:20260214T093000
+DTEND:20260214T101500
+SUMMARY:🏀 U10 Boys: Solway Force vs Timberwolves Hawks
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Timberwolves Hawks\nArrive 15
+  mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7765eb63-3fad-428a-bf01-7da2a5dc4957
+SEQUENCE:0
+DTSTAMP:20251113T094314
+DTSTART:20260221T084500
+DTEND:20260221T093000
+SUMMARY:🏀 U10 Boys: Solway Force vs Heyington Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Heyington Piranhas\nArrive 15
+  mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4abbd78f-b3b2-4064-8ea8-576302a09f19
+SEQUENCE:0
+DTSTAMP:20251113T094314
+DTSTART:20260228T101500
+DTEND:20260228T110000
+SUMMARY:🏀 U10 Boys: Solway Force vs Maccabi Kings
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Kings\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a652e56c-7550-45a5-9d4a-199d750dbeee
+SEQUENCE:0
+DTSTAMP:20251113T094314
+DTSTART:20260314T093000
+DTEND:20260314T101500
+SUMMARY:🏀 U10 Boys: Solway Force vs Comets Eagles
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Comets Eagles\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Spartans Fixtures
+X-WR-CALNAME:Solway Spartans Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:08cfbede-f4c4-4499-bad5-57af6060fd62
+SEQUENCE:0
+DTSTAMP:20251113T094454
+DTSTART:20251115T153000
+DTEND:20251115T161500
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Beckett Park Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Beckett Park Piranhas\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:23dcdd6e-bf90-41c4-8b55-34585cad3c65
+SEQUENCE:0
+DTSTAMP:20251113T094454
+DTSTART:20251122T153000
+DTEND:20251122T161500
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Prahran Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Prahran Piranhas\nArrive 15 m
+ ins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7f0cab78-74be-4a8c-853b-c6912e9f41fc
+SEQUENCE:0
+DTSTAMP:20251113T094454
+DTSTART:20251129T161500
+DTEND:20251129T170000
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Timberwolves Raptors
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Timberwolves Raptors\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f1191fe6-4cfd-4752-bff9-216ead9f13ea
+SEQUENCE:0
+DTSTAMP:20251113T094454
+DTSTART:20251206T153000
+DTEND:20251206T161500
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Timberwolves Dragons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Dragons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0eff7f3a-a503-41a0-beb0-c12634066a26
+SEQUENCE:0
+DTSTAMP:20251113T094454
+DTSTART:20251213T161500
+DTEND:20251213T170000
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Malvern Tigers Brown
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Brown\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:192d4ce0-f600-4b32-90ce-740e3a0ec2a0
+SEQUENCE:0
+DTSTAMP:20251113T094454
+DTSTART:20260131T161500
+DTEND:20260131T170000
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Beckett Park Piranhas
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Beckett Park Piranhas\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4af9a3ef-2a70-41bc-881f-7203ff9a44c8
+SEQUENCE:0
+DTSTAMP:20251113T094454
+DTSTART:20260207T153000
+DTEND:20260207T161500
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Prahran Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Prahran Piranhas\nArrive 15 m
+ ins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5857d2c3-1ef3-478c-be9f-94184b220944
+SEQUENCE:0
+DTSTAMP:20251113T094454
+DTSTART:20260214T161500
+DTEND:20260214T170000
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Timberwolves Raptors
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Timberwolves Raptors\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1df28c2a-d88b-477f-810d-bda28294d548
+SEQUENCE:0
+DTSTAMP:20251113T094454
+DTSTART:20260221T153000
+DTEND:20260221T161500
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Timberwolves Dragons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Dragons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0ef168b7-ebd2-4e84-add6-5fce3ebfb0ad
+SEQUENCE:0
+DTSTAMP:20251113T094454
+DTSTART:20260228T153000
+DTEND:20260228T161500
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Malvern Tigers Brown
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Brown\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2bb82855-7815-4381-ae9e-3ec9105a94b8
+SEQUENCE:0
+DTSTAMP:20251113T094454
+DTSTART:20260314T161500
+DTEND:20260314T170000
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Beckett Park Piranhas
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Beckett Park Piranhas\nArrive
+  15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Lions Fixtures
+X-WR-CALNAME:Solway Lions Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:65bb1146-280f-42ce-98c4-9826a18cb648
+SEQUENCE:0
+DTSTAMP:20251113T094353
+DTSTART:20251115T123000
+DTEND:20251115T131500
+SUMMARY:🏀 U12 Boys: Solway Lions vs AlphaWolf Lakers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: AlphaWo
+ lf Lakers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6b8bde7f-915f-411c-be8a-dd4c6c9e7b38
+SEQUENCE:0
+DTSTAMP:20251113T094353
+DTSTART:20251129T140000
+DTEND:20251129T144500
+SUMMARY:🏀 U12 Boys: Solway Lions vs Maccabi Giants
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Giants\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4c05cecb-d452-4f81-a806-78095de1e68f
+SEQUENCE:0
+DTSTAMP:20251113T094353
+DTSTART:20251206T123000
+DTEND:20251206T131500
+SUMMARY:🏀 U12 Boys: Solway Lions vs Glen Iris Scorpions Gardiner
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
+ is Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f3eaff93-d057-4f12-998d-f4d4bc4f5725
+SEQUENCE:0
+DTSTAMP:20251113T094353
+DTSTART:20251213T131500
+DTEND:20251213T140000
+SUMMARY:🏀 U12 Boys: Solway Lions vs Toorak Trouble
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
+ Trouble\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:be42fcfb-90cd-4226-939d-c16e16b3c587
+SEQUENCE:0
+DTSTAMP:20251113T094353
+DTSTART:20260131T131500
+DTEND:20260131T140000
+SUMMARY:🏀 U12 Boys: Solway Lions vs Central Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Central
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0751ae17-9dce-4274-9f83-84decc3e7dc5
+SEQUENCE:0
+DTSTAMP:20251113T094353
+DTSTART:20260207T131500
+DTEND:20260207T140000
+SUMMARY:🏀 U12 Boys: Solway Lions vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3658132f-c89b-49e1-b6de-676a9b6d7e56
+SEQUENCE:0
+DTSTAMP:20251113T094353
+DTSTART:20260214T131500
+DTEND:20260214T140000
+SUMMARY:🏀 U12 Boys: Solway Lions vs Malvern Tigers Purple
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Purple\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:451861d1-d58b-413e-846c-e19da8131c7a
+SEQUENCE:0
+DTSTAMP:20251113T094353
+DTSTART:20260221T123000
+DTEND:20260221T131500
+SUMMARY:🏀 U12 Boys: Solway Lions vs Comets Cyclones
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Comets 
+ Cyclones\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b916cbfd-5a1b-404b-ac25-378d2e80de2c
+SEQUENCE:0
+DTSTAMP:20251113T094353
+DTSTART:20260228T140000
+DTEND:20260228T144500
+SUMMARY:🏀 U12 Boys: Solway Lions vs AlphaWolf Lakers
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: AlphaWolf Lakers\nArrive 15 m
+ ins early for warm-up
+END:VEVENT
+END:VCALENDAR
