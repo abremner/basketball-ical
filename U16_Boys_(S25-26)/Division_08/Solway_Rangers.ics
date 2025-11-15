@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Rangers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:6c1cbbb1-8b3c-4229-83a7-0bc3cabf5673
+UID:9bb4f21f-fc12-489d-a3be-85a3a011a2f3
 SEQUENCE:0
-DTSTAMP:20251114T171526
-DTSTART:20251115T191500
-DTEND:20251115T200000
-SUMMARY:🏀 U16 Boys: Solway Rangers vs Malvern Tigers Orange
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
-  Tigers Orange\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5ad01e1c-b8b2-494a-ac50-da9802e1cd91
-SEQUENCE:0
-DTSTAMP:20251114T171526
+DTSTAMP:20251115T171352
 DTSTART:20251122T191500
 DTEND:20251122T200000
 SUMMARY:🏀 U16 Boys: Solway Rangers vs Solway Jets
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
  Jets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c4aed582-3ef6-4af3-a6c6-9f696210e926
+UID:31aafb56-6d88-427f-a532-218b3f4577b3
 SEQUENCE:0
-DTSTAMP:20251114T171526
+DTSTAMP:20251115T171352
 DTSTART:20251129T191500
 DTEND:20251129T200000
 SUMMARY:🏀 U16 Boys: Solway Rangers vs Manning Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Manning
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:760f1c71-de13-4acc-a725-15f03489a101
+UID:75e349bc-f79e-4f91-91f6-07bad4ec817e
 SEQUENCE:0
-DTSTAMP:20251114T171526
+DTSTAMP:20251115T171352
 DTSTART:20251206T191500
 DTEND:20251206T200000
 SUMMARY:🏀 U16 Boys: Solway Rangers vs Ashy Lightning Green
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ed6c62be-a72b-4705-b87b-6d4e07b4d846
+UID:08563010-7c9f-4526-8d9d-ae764a4e6d5d
 SEQUENCE:0
-DTSTAMP:20251114T171526
+DTSTAMP:20251115T171352
 DTSTART:20251213T183000
 DTEND:20251213T191500
 SUMMARY:🏀 U16 Boys: Solway Rangers vs Malvern Piranhas
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b63ee09c-7769-40bb-b297-08b99b138938
+UID:f8a00857-3921-4542-a5f9-236a73bb33f5
 SEQUENCE:0
-DTSTAMP:20251114T171526
+DTSTAMP:20251115T171352
 DTSTART:20260131T183000
 DTEND:20260131T191500
 SUMMARY:🏀 U16 Boys: Solway Rangers vs Malvern Tigers Orange
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1de14df2-559d-4f3a-a331-2c589ad31bf2
+UID:3ca73133-534f-4987-a883-17fef06531ee
 SEQUENCE:0
-DTSTAMP:20251114T171526
+DTSTAMP:20251115T171352
 DTSTART:20260207T183000
 DTEND:20260207T191500
 SUMMARY:🏀 U16 Boys: Solway Rangers vs Solway Jets
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Jets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b606acf9-e5b4-4900-b6e9-ddd946220698
+UID:e1234643-8d8c-427d-9cae-aa8fba8049b1
 SEQUENCE:0
-DTSTAMP:20251114T171526
+DTSTAMP:20251115T171352
 DTSTART:20260214T191500
 DTEND:20260214T200000
 SUMMARY:🏀 U16 Boys: Solway Rangers vs Manning Piranhas
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Manning
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d0941f52-ddb4-4c8b-96c8-239c2e2957b3
+UID:53700222-5260-4881-a257-98adb82b3e9c
 SEQUENCE:0
-DTSTAMP:20251114T171526
+DTSTAMP:20251115T171352
 DTSTART:20260221T191500
 DTEND:20260221T200000
 SUMMARY:🏀 U16 Boys: Solway Rangers vs Ashy Lightning Green
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d22535a4-198d-4b70-a30b-0fc32b39a379
+UID:7c00debf-534a-4c64-a930-004b62bc1942
 SEQUENCE:0
-DTSTAMP:20251114T171526
+DTSTAMP:20251115T171352
 DTSTART:20260228T183000
 DTEND:20260228T191500
 SUMMARY:🏀 U16 Boys: Solway Rangers vs Malvern Piranhas
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c5be3f0d-092c-4fea-88e9-3501d5733af3
+UID:f6f7512d-3d4f-4348-9739-4739cebf2f9b
 SEQUENCE:0
-DTSTAMP:20251114T171526
+DTSTAMP:20251115T171352
 DTSTART:20260314T191500
 DTEND:20260314T200000
 SUMMARY:🏀 U16 Boys: Solway Rangers vs Malvern Tigers Orange

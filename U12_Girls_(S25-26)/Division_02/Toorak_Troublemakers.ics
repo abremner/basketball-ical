@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Troublemakers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f6e280dc-8f5f-4aec-a7e2-012a485184f9
+UID:7c44c177-33c0-445f-b2b5-49cd56d170f0
 SEQUENCE:0
-DTSTAMP:20251114T171403
-DTSTART:20251115T144500
-DTEND:20251115T153000
-SUMMARY:🏀 U12 Girls: Toorak Troublemakers vs Toorak Talons
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
-  Talons\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:8dd22f87-5fb3-4e61-ab7d-ba8f39e12ce9
-SEQUENCE:0
-DTSTAMP:20251114T171403
+DTSTAMP:20251115T171229
 DTSTART:20251122T140000
 DTEND:20251122T144500
 SUMMARY:🏀 U12 Girls: Toorak Troublemakers vs Korowa Cherry
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Korowa
  Cherry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e3f11134-e951-4602-aa8c-3af34c05e498
+UID:fd1b45ff-0522-48df-8119-3a0be58c6d87
 SEQUENCE:0
-DTSTAMP:20251114T171403
+DTSTAMP:20251115T171229
 DTSTART:20251129T140000
 DTEND:20251129T144500
 SUMMARY:🏀 U12 Girls: Toorak Troublemakers vs Ashy Lightning Gold
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
  ghtning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:863b767b-1829-47c5-b1cc-d34a90365da5
+UID:ddf1fd91-9d28-4f80-a1cc-c1a926e0080d
 SEQUENCE:0
-DTSTAMP:20251114T171403
+DTSTAMP:20251115T171229
 DTSTART:20251206T140000
 DTEND:20251206T144500
 SUMMARY:🏀 U12 Girls: Toorak Troublemakers vs Glen Iris Scorpions Fernda
@@ -51,9 +40,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
  is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:010eb530-ee5d-496e-84a0-0bb8c0823e97
+UID:7b800b37-bb3a-4297-90ed-4ffae03dcd32
 SEQUENCE:0
-DTSTAMP:20251114T171403
+DTSTAMP:20251115T171229
 DTSTART:20251213T144500
 DTEND:20251213T153000
 SUMMARY:🏀 U12 Girls: Toorak Troublemakers vs Glen Iris Scorpions Gardin
@@ -63,9 +52,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0e9b26fb-be19-42da-ad55-d05865274ff4
+UID:7963287b-e02e-4764-ba7c-0df78ff90a6f
 SEQUENCE:0
-DTSTAMP:20251114T171403
+DTSTAMP:20251115T171229
 DTSTART:20260131T140000
 DTEND:20260131T144500
 SUMMARY:🏀 U12 Girls: Toorak Troublemakers vs Aintree Piranhas
@@ -74,9 +63,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Aintree
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b0ff07f1-d52a-4ee6-9024-eac3fd8d3852
+UID:aab60124-e256-42cb-9b3d-02f8f4b04ebc
 SEQUENCE:0
-DTSTAMP:20251114T171403
+DTSTAMP:20251115T171229
 DTSTART:20260207T144500
 DTEND:20260207T153000
 SUMMARY:🏀 U12 Girls: Toorak Troublemakers vs Malvern Tigers Yellow
@@ -85,9 +74,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a377d867-64ea-49d3-be15-716652c9be73
+UID:b8128bab-4ad8-4a3b-82aa-21bc5692de7f
 SEQUENCE:0
-DTSTAMP:20251114T171403
+DTSTAMP:20251115T171229
 DTSTART:20260214T140000
 DTEND:20260214T144500
 SUMMARY:🏀 U12 Girls: Toorak Troublemakers vs Toorak Talons
@@ -96,9 +85,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Talons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:579af9c5-c15f-4ba9-aa82-c34e6016420b
+UID:4e988113-9185-4f03-b08d-0f4a8adeda9d
 SEQUENCE:0
-DTSTAMP:20251114T171403
+DTSTAMP:20251115T171229
 DTSTART:20260221T144500
 DTEND:20260221T153000
 SUMMARY:🏀 U12 Girls: Toorak Troublemakers vs Korowa Cherry
@@ -107,9 +96,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Korowa
  Cherry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a714a5aa-e45b-4753-8195-b972b6286527
+UID:1eab24a5-8858-4221-8689-9e469e138125
 SEQUENCE:0
-DTSTAMP:20251114T171403
+DTSTAMP:20251115T171229
 DTSTART:20260228T144500
 DTEND:20260228T153000
 SUMMARY:🏀 U12 Girls: Toorak Troublemakers vs Ashy Lightning Gold
@@ -118,9 +107,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
  ghtning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dcc4dfb0-77f2-497b-bbf4-6c11018c9d35
+UID:76aa1122-a053-4570-9088-f9fb8e306cb9
 SEQUENCE:0
-DTSTAMP:20251114T171403
+DTSTAMP:20251115T171229
 DTSTART:20260314T140000
 DTEND:20260314T144500
 SUMMARY:🏀 U12 Girls: Toorak Troublemakers vs Glen Iris Scorpions Fernda

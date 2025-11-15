@@ -6,20 +6,9 @@ X-WR-CALNAME:Malvern Tigers White Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d04ed140-24db-4dda-aab4-6d48b1da4d67
+UID:9888fa3a-e970-43ed-811b-758b85aca022
 SEQUENCE:0
-DTSTAMP:20251114T171518
-DTSTART:20251115T183000
-DTEND:20251115T191500
-SUMMARY:🏀 U16 Boys: Malvern Tigers White vs Glen Iris Scorpions Saints
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
- is Scorpions Saints\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:1c2b8d93-54b3-4302-9e44-c53f458a273c
-SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171344
 DTSTART:20251122T191500
 DTEND:20251122T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers White vs AlphaWolf Tornados
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: AlphaWo
  lf Tornados\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fcea93ca-e5ed-4694-b6d3-1601e1f92628
+UID:c4fd0aa1-2386-41db-9d3c-401e00dce998
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171344
 DTSTART:20251129T191500
 DTEND:20251129T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers White vs Toorak Trackers
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Trackers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9fe4edd3-801b-4050-9677-1146ea3b290d
+UID:5e19b074-2800-4a0c-8afb-fe7cfbf50776
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171344
 DTSTART:20251206T191500
 DTEND:20251206T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers White vs Maccabi Haifa
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Haifa\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:63089e94-eac2-4471-bf1f-63a1960542db
+UID:cf2310e7-4ad6-43ac-a79d-d7660ac6a5c5
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171344
 DTSTART:20251213T191500
 DTEND:20251213T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers White vs Glen Iris Scorpions Sixers
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
  is Scorpions Sixers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:314c3cee-1d37-4dcd-a524-9efdcc45cafa
+UID:1d55767a-66b1-48d6-a19d-cb6dd9254573
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171344
 DTSTART:20260131T183000
 DTEND:20260131T191500
 SUMMARY:🏀 U16 Boys: Malvern Tigers White vs Glen Iris Scorpions Saints
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Saints\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c71b95d6-6623-423c-bfb9-7573245db5d8
+UID:9a9a2f7d-5538-4824-ad62-6b8868ed8550
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171344
 DTSTART:20260207T191500
 DTEND:20260207T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers White vs AlphaWolf Tornados
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
  olf Tornados\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:752b927b-b3ae-46d3-a9b1-42b69db55c8a
+UID:37684330-56dc-4bf7-a634-3aae63133c6f
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171344
 DTSTART:20260214T191500
 DTEND:20260214T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers White vs Toorak Trackers
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Trackers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:677e9a02-7248-4866-9020-9f277694d9de
+UID:b5a29bc1-5c6d-416c-a4ce-c49e9ef41857
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171344
 DTSTART:20260221T191500
 DTEND:20260221T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers White vs Maccabi Haifa
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Haifa\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5903c65b-20b0-4664-bd06-1126ba421568
+UID:2e152578-a96c-42e6-8e3c-2ada1d8b6480
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171344
 DTSTART:20260228T183000
 DTEND:20260228T191500
 SUMMARY:🏀 U16 Boys: Malvern Tigers White vs Glen Iris Scorpions Sixers
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Sixers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:583d2755-cd38-49cc-b36f-5e3e3731b125
+UID:db558be1-7491-44dd-8b0b-98ca851d016c
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171344
 DTSTART:20260314T191500
 DTEND:20260314T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers White vs Glen Iris Scorpions Saints

@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9c7883df-527d-4550-bb6c-96f3d3d1e240
+UID:538dd4e3-24e6-48d4-8985-ae23b15d05da
 SEQUENCE:0
-DTSTAMP:20251114T171453
-DTSTART:20251115T153000
-DTEND:20251115T161500
-SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Lauriston Liberty
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Laurist
- on Liberty\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:a3ec68da-9db4-4544-82e5-9ebfc9b820c1
-SEQUENCE:0
-DTSTAMP:20251114T171453
+DTSTAMP:20251115T171318
 DTSTART:20251122T161500
 DTEND:20251122T170000
 SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Malvern Tigers Fisher
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Fisher\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e50deb95-51c2-46ed-9f88-d30c6e124961
+UID:758af5e4-8860-4cc2-8f7e-ee5f8d174b6f
 SEQUENCE:0
-DTSTAMP:20251114T171453
+DTSTAMP:20251115T171318
 DTSTART:20251129T161500
 DTEND:20251129T170000
 SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Lauriston Legacy
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Laurist
  on Legacy\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cccba482-2cc4-45d6-bcdb-09ceedb558ec
+UID:24a15c71-cc8a-4e76-b0ad-b1f798d41ed7
 SEQUENCE:0
-DTSTAMP:20251114T171453
+DTSTAMP:20251115T171318
 DTSTART:20251206T153000
 DTEND:20251206T161500
 SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Glen Iris Scorpions Gardiner
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ce5e28c8-0b7a-43ac-83f9-7c3c3da7674e
+UID:e6ae9126-3dee-4443-a8e9-ddfb6d25ac4c
 SEQUENCE:0
-DTSTAMP:20251114T171453
+DTSTAMP:20251115T171318
 DTSTART:20260131T170000
 DTEND:20260131T174500
 SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Solway Emeralds
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Emeralds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5497ac2d-812c-498d-926d-f2462e7cd75a
+UID:70de0a5c-77bd-4788-9b99-b1af564f32e1
 SEQUENCE:0
-DTSTAMP:20251114T171453
+DTSTAMP:20251115T171318
 DTSTART:20260207T153000
 DTEND:20260207T161500
 SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Toorak Topshots
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak
  Topshots\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:26dd3d61-4a65-4cdc-8889-9e74015f6cb7
+UID:e055838a-afd8-47d9-a841-1c51473779e9
 SEQUENCE:0
-DTSTAMP:20251114T171453
+DTSTAMP:20251115T171318
 DTSTART:20260214T153000
 DTEND:20260214T161500
 SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Lauriston Liberty
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Laurist
  on Liberty\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e9b7c6e4-14e9-460a-8fbe-97002ed50fa3
+UID:a1cf9c07-6faa-4c1c-9d45-48af83bcfc6c
 SEQUENCE:0
-DTSTAMP:20251114T171453
+DTSTAMP:20251115T171318
 DTSTART:20260221T161500
 DTEND:20260221T170000
 SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Malvern Tigers Fisher
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Fisher\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:31dd2c9c-3ae6-43be-852c-f7021f100f96
+UID:d97e027a-e41c-45b1-95d7-53894153e1f8
 SEQUENCE:0
-DTSTAMP:20251114T171453
+DTSTAMP:20251115T171318
 DTSTART:20260228T161500
 DTEND:20260228T170000
 SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Lauriston Legacy
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Laurist
  on Legacy\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:79084707-a0fb-4ef2-9d92-f947b09b1488
+UID:7fcd151e-9fd9-44ba-a121-1cbae1a5ee5f
 SEQUENCE:0
-DTSTAMP:20251114T171453
+DTSTAMP:20251115T171318
 DTSTART:20260314T153000
 DTEND:20260314T161500
 SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Glen Iris Scorpions Gardiner

@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Meteors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d35e2665-abca-47c4-ad01-b94f9f6b3c0a
+UID:c5c5ce79-b7d4-4d9c-974a-139d864a5d89
 SEQUENCE:0
-DTSTAMP:20251114T171221
-DTSTART:20251115T080000
-DTEND:20251115T084500
-SUMMARY:🏀 U08 Girls: Solway Meteors vs Solway Blazes
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
- Blazes\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:4369a8d6-7901-4278-a4f1-4c119d7c45fb
-SEQUENCE:0
-DTSTAMP:20251114T171221
+DTSTAMP:20251115T171046
 DTSTART:20251122T101500
 DTEND:20251122T110000
 SUMMARY:🏀 U08 Girls: Solway Meteors vs Harleston Park Piranhas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Harleston P
  ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:37be7505-92fe-402f-ab85-9d594dac6347
+UID:9023133a-bdd1-4b20-be54-68792ff0189c
 SEQUENCE:0
-DTSTAMP:20251114T171221
+DTSTAMP:20251115T171046
 DTSTART:20251206T101500
 DTEND:20251206T110000
 SUMMARY:🏀 U08 Girls: Solway Meteors vs Ashy Lightning Gold
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
  ing Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1172c685-ba03-43ba-b590-cf3bd414770b
+UID:dc18cf72-0694-4a19-bb10-57e3ace3ec42
 SEQUENCE:0
-DTSTAMP:20251114T171221
+DTSTAMP:20251115T171046
 DTSTART:20251213T080000
 DTEND:20251213T084500
 SUMMARY:🏀 U08 Girls: Solway Meteors vs Solway Sparks
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Sparks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e4c11e65-c6a8-4b37-acec-dd90c0720089
+UID:6a3f6fd9-d418-4889-a3b6-7789c045f906
 SEQUENCE:0
-DTSTAMP:20251114T171221
+DTSTAMP:20251115T171046
 DTSTART:20260131T080000
 DTEND:20260131T084500
 SUMMARY:🏀 U08 Girls: Solway Meteors vs Solway Blazes
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Blazes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b9956788-6879-4bf7-9d5b-32320b1ae2dc
+UID:7157c185-9ddd-4730-9e3d-b9a5998b6e14
 SEQUENCE:0
-DTSTAMP:20251114T171221
+DTSTAMP:20251115T171046
 DTSTART:20260207T101500
 DTEND:20260207T110000
 SUMMARY:🏀 U08 Girls: Solway Meteors vs Harleston Park Piranhas
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Harleston P
  ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bc2fd7f1-2fdb-46ff-9cb1-2db7fc0570a1
+UID:f28bb1b3-3d7e-42b1-ad9a-35a043e6beb8
 SEQUENCE:0
-DTSTAMP:20251114T171221
+DTSTAMP:20251115T171046
 DTSTART:20260221T101500
 DTEND:20260221T110000
 SUMMARY:🏀 U08 Girls: Solway Meteors vs Ashy Lightning Gold
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
  ing Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:68b74adc-1378-4903-b0de-5a1ef4089f23
+UID:c021faeb-8066-49ff-bfba-dd5cb004f237
 SEQUENCE:0
-DTSTAMP:20251114T171221
+DTSTAMP:20251115T171046
 DTSTART:20260228T080000
 DTEND:20260228T084500
 SUMMARY:🏀 U08 Girls: Solway Meteors vs Solway Sparks
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Sparks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c13ba53a-c6cb-4169-8074-1f5666bd3e81
+UID:cb148d25-e6fb-4c71-b042-5209a9fe8310
 SEQUENCE:0
-DTSTAMP:20251114T171221
+DTSTAMP:20251115T171046
 DTSTART:20260314T080000
 DTEND:20260314T084500
 SUMMARY:🏀 U08 Girls: Solway Meteors vs Solway Blazes

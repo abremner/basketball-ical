@@ -6,20 +6,9 @@ X-WR-CALNAME:Malvern Tigers Green Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:31c2e47b-47d3-4bd7-8777-092df709e690
+UID:c936c073-4d18-4a4a-b5b6-43904927e8c9
 SEQUENCE:0
-DTSTAMP:20251114T171329
-DTSTART:20251115T140000
-DTEND:20251115T144500
-SUMMARY:🏀 U12 Boys: Malvern Tigers Green vs Maccabi Bucks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
- i Bucks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:56d152b0-6b1b-4ab6-af2e-e106df3116dc
-SEQUENCE:0
-DTSTAMP:20251114T171329
+DTSTAMP:20251115T171154
 DTSTART:20251122T140000
 DTEND:20251122T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Green vs Malvern Tigers White
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:18c51c44-eba0-42c4-adac-6f8008c81503
+UID:857d1011-6c52-4c01-b97b-634dfe02ff2e
 SEQUENCE:0
-DTSTAMP:20251114T171329
+DTSTAMP:20251115T171154
 DTSTART:20251129T140000
 DTEND:20251129T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Green vs Toorak Tarantulas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Tarantulas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4e29d3dc-5130-43c5-96ed-9bc9bf9dd63c
+UID:48935687-a47d-43ee-a1d2-9de76eccba23
 SEQUENCE:0
-DTSTAMP:20251114T171329
+DTSTAMP:20251115T171154
 DTSTART:20251206T140000
 DTEND:20251206T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Green vs Timberwolves Howlers
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Howlers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5d191a3d-aa9a-47f4-9f49-9efd655b4e28
+UID:835e33f9-a2de-4458-94f2-fc68bd128285
 SEQUENCE:0
-DTSTAMP:20251114T171329
+DTSTAMP:20251115T171154
 DTSTART:20251213T140000
 DTEND:20251213T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Green vs Toorak Torchers
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Torchers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:af71e77e-b5a5-4a6d-9f48-4340f85e7d2a
+UID:5fbf52d5-6392-40e7-8c6d-c865bba79a65
 SEQUENCE:0
-DTSTAMP:20251114T171329
+DTSTAMP:20251115T171154
 DTSTART:20260131T140000
 DTEND:20260131T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Green vs Maccabi Bucks
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c9ad4c4c-7690-40ad-a342-c2833964e25e
+UID:3cf075e8-fa9d-40c3-9efe-8f55d84aff56
 SEQUENCE:0
-DTSTAMP:20251114T171329
+DTSTAMP:20251115T171154
 DTSTART:20260207T140000
 DTEND:20260207T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Green vs Malvern Tigers White
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9aafd304-8db1-4390-a75f-9dc216dcd6d5
+UID:3841129c-7e54-43a8-9981-c968c1e7e7a9
 SEQUENCE:0
-DTSTAMP:20251114T171329
+DTSTAMP:20251115T171154
 DTSTART:20260214T140000
 DTEND:20260214T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Green vs Toorak Tarantulas
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Tarantulas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9e86e247-ad5c-4f22-99e4-0a9511af2e55
+UID:9cca8626-2f63-4aef-b370-e27c45dca138
 SEQUENCE:0
-DTSTAMP:20251114T171329
+DTSTAMP:20251115T171154
 DTSTART:20260221T140000
 DTEND:20260221T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Green vs Timberwolves Howlers
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Howlers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b71ea32d-f8c6-48bc-8c78-0087e1769e2b
+UID:3bbab1d4-7dee-40ac-8b44-8699e437d51e
 SEQUENCE:0
-DTSTAMP:20251114T171329
+DTSTAMP:20251115T171154
 DTSTART:20260228T140000
 DTEND:20260228T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Green vs Toorak Torchers
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Torchers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:49ce6521-460d-4cf2-9ee4-c126b6f97813
+UID:18709d15-cd81-49c5-b791-1641435abf4e
 SEQUENCE:0
-DTSTAMP:20251114T171329
+DTSTAMP:20251115T171154
 DTSTART:20260314T140000
 DTEND:20260314T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Green vs Maccabi Bucks

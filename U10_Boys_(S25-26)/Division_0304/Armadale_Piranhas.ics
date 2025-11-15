@@ -6,20 +6,9 @@ X-WR-CALNAME:Armadale Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:67adf66a-1e1d-424c-805d-75f24d75f367
+UID:ae34b3fa-4317-4ed6-a0a8-a2c0d92330b5
 SEQUENCE:0
-DTSTAMP:20251114T171232
-DTSTART:20251115T101500
-DTEND:20251115T110000
-SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Tollington Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Tollin
- gton Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:43114a34-f70b-4ad8-99ae-648a6833d264
-SEQUENCE:0
-DTSTAMP:20251114T171232
+DTSTAMP:20251115T171058
 DTSTART:20251122T114500
 DTEND:20251122T123000
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Timberwolves Boomers
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
  olves Boomers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2b0d060e-5afd-49db-b8a8-64d6d6e7165b
+UID:b9efe340-1ca1-414f-ae7e-6426fd4bbf60
 SEQUENCE:0
-DTSTAMP:20251114T171232
+DTSTAMP:20251115T171058
 DTSTART:20251129T110000
 DTEND:20251129T114500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Glen Iris Scorpions Ferndale
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a25ad75c-0dc7-4367-b39e-495985b663ab
+UID:690eb62f-ee74-4c6e-8264-90767d0c114a
 SEQUENCE:0
-DTSTAMP:20251114T171232
+DTSTAMP:20251115T171058
 DTSTART:20251206T101500
 DTEND:20251206T110000
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Toorak Tigercats
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
   Tigercats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e22a2cfd-e164-4724-b76e-07853d699583
+UID:f45992bc-a71c-4a9f-ae49-1973f88ba7a9
 SEQUENCE:0
-DTSTAMP:20251114T171232
+DTSTAMP:20251115T171058
 DTSTART:20251213T114500
 DTEND:20251213T123000
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Malvern Tigers Yellow
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:aff3e3f6-b305-410a-8b52-bef30c887c54
+UID:59e4bfd0-265b-4dc4-8d12-5bcaef2d178f
 SEQUENCE:0
-DTSTAMP:20251114T171232
+DTSTAMP:20251115T171058
 DTSTART:20260131T114500
 DTEND:20260131T123000
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Maccabi Bucks
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Bucks\nArrive 15 mins
   early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:181257a5-c390-4626-8b56-a9ad30aeea47
+UID:1eaf5734-a27b-4333-91ac-15e2c5bd39ef
 SEQUENCE:0
-DTSTAMP:20251114T171232
+DTSTAMP:20251115T171058
 DTSTART:20260214T114500
 DTEND:20260214T123000
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Malvern Tigers White
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers White\nArrive
  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4af24d95-5938-4145-b7f1-59b984acf7ea
+UID:455c8e43-ca1f-45e5-861e-5ec1004b9daf
 SEQUENCE:0
-DTSTAMP:20251114T171232
+DTSTAMP:20251115T171058
 DTSTART:20260221T110000
 DTEND:20260221T114500
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Penpraze Park Piranhas
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Penpra
  ze Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d0364d12-bb05-47f9-bcbb-9c49c72e0ac6
+UID:e1d4b6fd-8fff-458f-81e5-bfe00c37e905
 SEQUENCE:0
-DTSTAMP:20251114T171232
+DTSTAMP:20251115T171058
 DTSTART:20260228T101500
 DTEND:20260228T110000
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Tollington Piranhas
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Tollin
  gton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:159c0a98-b5f8-4857-998a-478b881fd9a6
+UID:c7495193-6218-4a6b-ac9d-6d3daf02764c
 SEQUENCE:0
-DTSTAMP:20251114T171232
+DTSTAMP:20251115T171058
 DTSTART:20260314T114500
 DTEND:20260314T123000
 SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Timberwolves Boomers

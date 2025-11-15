@@ -6,20 +6,9 @@ X-WR-CALNAME:Koornang Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9114be12-704d-49d4-9d1e-02d4b42132d0
+UID:6a52baea-128d-49b4-b3b1-9b70580dcca0
 SEQUENCE:0
-DTSTAMP:20251114T171251
-DTSTART:20251115T114500
-DTEND:20251115T123000
-SUMMARY:🏀 U10 Boys: Koornang Piranhas vs Phoenix Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Phoeni
- x Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:3185a0e0-5164-4175-b55f-0cadcea4c5b0
-SEQUENCE:0
-DTSTAMP:20251114T171251
+DTSTAMP:20251115T171117
 DTSTART:20251122T101500
 DTEND:20251122T110000
 SUMMARY:🏀 U10 Boys: Koornang Piranhas vs Toorak Tycoons
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Toorak Tycoons\nArrive 15 min
  s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d6dc7da9-a663-40a5-9a3e-1bd807be084d
+UID:4f4550ed-ceab-447b-bd24-fee6d0ef9a38
 SEQUENCE:0
-DTSTAMP:20251114T171251
+DTSTAMP:20251115T171117
 DTSTART:20251129T080000
 DTEND:20251129T084500
 SUMMARY:🏀 U10 Boys: Koornang Piranhas vs Hawksburn Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Hawksb
  urn Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:62905ab0-a96f-4279-b62d-ad05f214ccde
+UID:c19b1d02-c6dd-4299-adb7-2bb9675cc1df
 SEQUENCE:0
-DTSTAMP:20251114T171251
+DTSTAMP:20251115T171117
 DTSTART:20251206T114500
 DTEND:20251206T123000
 SUMMARY:🏀 U10 Boys: Koornang Piranhas vs Timberwolves Bucks
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:15abecd6-201a-4bad-b11b-17e93511f1e4
+UID:49ac1661-799c-4626-afe4-265cd155d6b1
 SEQUENCE:0
-DTSTAMP:20251114T171251
+DTSTAMP:20251115T171117
 DTSTART:20251213T101500
 DTEND:20251213T110000
 SUMMARY:🏀 U10 Boys: Koornang Piranhas vs Malvern Tigers Grey
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1f21859b-88c5-43e0-bd5a-93df8c9fe239
+UID:c7b8e8b3-e4f7-482b-a355-0305870fcbf4
 SEQUENCE:0
-DTSTAMP:20251114T171251
+DTSTAMP:20251115T171117
 DTSTART:20260131T110000
 DTEND:20260131T114500
 SUMMARY:🏀 U10 Boys: Koornang Piranhas vs AlphaWolf Tigers
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: AlphaWolf Tigers\nArrive 15 m
  ins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4dbe31bd-12ee-4768-995d-b910a83b8258
+UID:65731063-e325-4246-98be-c961a1b678c8
 SEQUENCE:0
-DTSTAMP:20251114T171251
+DTSTAMP:20251115T171117
 DTSTART:20260207T114500
 DTEND:20260207T123000
 SUMMARY:🏀 U10 Boys: Koornang Piranhas vs Maccabi Giants
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Giants\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2e1844b8-3422-4c3b-9667-d5de443a5d32
+UID:bf6b0fe1-d02f-4e42-955c-b1942afcb10e
 SEQUENCE:0
-DTSTAMP:20251114T171251
+DTSTAMP:20251115T171117
 DTSTART:20260214T080000
 DTEND:20260214T084500
 SUMMARY:🏀 U10 Boys: Koornang Piranhas vs SE Venom Magic
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: SE Ven
  om Magic\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:73e8c5c2-958c-42fc-b2e3-169b55f29302
+UID:08f52bb9-a8ef-49ac-8627-8d3053c3503b
 SEQUENCE:0
-DTSTAMP:20251114T171251
+DTSTAMP:20251115T171117
 DTSTART:20260221T101500
 DTEND:20260221T110000
 SUMMARY:🏀 U10 Boys: Koornang Piranhas vs Glen Iris Scorpions Raven
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
  ris Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:038ce995-ab01-4457-bc9c-8c26c9b4b51b
+UID:593df1ac-0e24-4ff9-b16c-018e9660db5d
 SEQUENCE:0
-DTSTAMP:20251114T171251
+DTSTAMP:20251115T171117
 DTSTART:20260228T101500
 DTEND:20260228T110000
 SUMMARY:🏀 U10 Boys: Koornang Piranhas vs Phoenix Park Piranhas
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Phoenix Park Piranhas\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:65ac96ac-69c2-43ca-a00e-454372492ad8
+UID:bb80602e-08a8-457b-ba5b-b354d5f5b501
 SEQUENCE:0
-DTSTAMP:20251114T171251
+DTSTAMP:20251115T171117
 DTSTART:20260314T080000
 DTEND:20260314T084500
 SUMMARY:🏀 U10 Boys: Koornang Piranhas vs Toorak Tycoons

@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Boomers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:8dac6f20-34fe-44a1-a269-04489db03dc6
+UID:d6890bb1-187c-427a-b18c-f9f21bcc2664
 SEQUENCE:0
-DTSTAMP:20251114T171231
-DTSTART:20251115T114500
-DTEND:20251115T123000
-SUMMARY:🏀 U10 Boys: Solway Boomers vs AlphaWolf Dragons
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AlphaW
- olf Dragons\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:57dcc790-3b4a-4ad8-81c7-78e64c730d31
-SEQUENCE:0
-DTSTAMP:20251114T171231
+DTSTAMP:20251115T171057
 DTSTART:20251122T123000
 DTEND:20251122T131500
 SUMMARY:🏀 U10 Boys: Solway Boomers vs Timberwolves Crusaders
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Crusaders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e811f18c-b588-4292-a736-1c6232d45f21
+UID:1e058670-2fac-4925-94bf-79d23a902fc2
 SEQUENCE:0
-DTSTAMP:20251114T171231
+DTSTAMP:20251115T171057
 DTSTART:20251129T123000
 DTEND:20251129T131500
 SUMMARY:🏀 U10 Boys: Solway Boomers vs Malvern Tigers Red
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b92b7284-60d6-47ba-bb9f-caaff1ed75b8
+UID:b646cf65-a38b-4d98-807e-d32ffec1bb10
 SEQUENCE:0
-DTSTAMP:20251114T171231
+DTSTAMP:20251115T171057
 DTSTART:20251206T110000
 DTEND:20251206T114500
 SUMMARY:🏀 U10 Boys: Solway Boomers vs Malvern Tigers Black
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b41729fb-58fe-4a6b-8c2c-ff4f1059eb4f
+UID:d0d6379a-d558-40e2-8308-12425cb0c901
 SEQUENCE:0
-DTSTAMP:20251114T171231
+DTSTAMP:20251115T171057
 DTSTART:20251213T131500
 DTEND:20251213T140000
 SUMMARY:🏀 U10 Boys: Solway Boomers vs AUBD Storm
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AUBD S
  torm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:aacf23f9-139d-44f2-a633-bf6e9cb77f50
+UID:f7148d1b-9ec9-4685-b48f-081a204e8dc4
 SEQUENCE:0
-DTSTAMP:20251114T171231
+DTSTAMP:20251115T171057
 DTSTART:20260131T110000
 DTEND:20260131T114500
 SUMMARY:🏀 U10 Boys: Solway Boomers vs Ashy Lightning Gold
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:919648fd-9211-4a1b-9df0-8e2c6cfdff4b
+UID:fc1d47b8-0bac-473b-be4f-9c363fa0f5ff
 SEQUENCE:0
-DTSTAMP:20251114T171231
+DTSTAMP:20251115T171057
 DTSTART:20260207T123000
 DTEND:20260207T131500
 SUMMARY:🏀 U10 Boys: Solway Boomers vs Maccabi Warriors
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:52634e8e-3e5e-4032-98b9-501eebecdae2
+UID:d50de5de-361c-4557-9c3f-e34250c8be45
 SEQUENCE:0
-DTSTAMP:20251114T171231
+DTSTAMP:20251115T171057
 DTSTART:20260214T123000
 DTEND:20260214T131500
 SUMMARY:🏀 U10 Boys: Solway Boomers vs AlphaWolf Dragons
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AlphaW
  olf Dragons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f020f414-9f06-4c86-b85a-239854da4982
+UID:ddde8f4e-b48e-47a5-94e3-3584f7af84f9
 SEQUENCE:0
-DTSTAMP:20251114T171231
+DTSTAMP:20251115T171057
 DTSTART:20260221T114500
 DTEND:20260221T123000
 SUMMARY:🏀 U10 Boys: Solway Boomers vs Timberwolves Crusaders
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Crusaders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9f82c540-acbe-4c6c-b0fd-4f738ff0ea0b
+UID:11e1d892-1c6a-4eec-ad04-2e527bf68f5e
 SEQUENCE:0
-DTSTAMP:20251114T171231
+DTSTAMP:20251115T171057
 DTSTART:20260228T110000
 DTEND:20260228T114500
 SUMMARY:🏀 U10 Boys: Solway Boomers vs Malvern Tigers Red
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5af6af01-ca44-419e-a759-a0f6d4346712
+UID:8fdf3693-1b21-4096-85a4-0e1e5a12d0d1
 SEQUENCE:0
-DTSTAMP:20251114T171231
+DTSTAMP:20251115T171057
 DTSTART:20260314T123000
 DTEND:20260314T131500
 SUMMARY:🏀 U10 Boys: Solway Boomers vs Malvern Tigers Black

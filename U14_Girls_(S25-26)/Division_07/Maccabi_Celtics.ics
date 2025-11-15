@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Celtics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:16ed64c4-b65e-4689-a506-7bd768f6a03c
+UID:3999192d-999a-4dc4-a440-1fb8d2090893
 SEQUENCE:0
-DTSTAMP:20251114T171502
-DTSTART:20251115T170000
-DTEND:20251115T174500
-SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Ashy Lightning White
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
- ightning White\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:77da34d1-4c1c-4dab-8f4d-ffa4c7235e57
-SEQUENCE:0
-DTSTAMP:20251114T171502
+DTSTAMP:20251115T171327
 DTSTART:20251122T161500
 DTEND:20251122T170000
 SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Korowa Grey
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Korowa
  Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:34937561-4bb3-4b9f-97e7-f0cb328ee450
+UID:4efbc515-b37e-441c-bfac-7f1c677e48c6
 SEQUENCE:0
-DTSTAMP:20251114T171502
+DTSTAMP:20251115T171327
 DTSTART:20251129T153000
 DTEND:20251129T161500
 SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Maccabi Eagles
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Eag
  les\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:978da933-82ef-4903-8c6d-99825c76815b
+UID:80628244-d14b-4703-816c-28ee5d4e22d1
 SEQUENCE:0
-DTSTAMP:20251114T171502
+DTSTAMP:20251115T171327
 DTSTART:20251206T161500
 DTEND:20251206T170000
 SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Timberwolves Sapphires
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
  olves Sapphires\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:07cf7404-7b40-4c5b-a895-616803b3e6da
+UID:69a98788-b4b0-4443-8c27-9b332270e65e
 SEQUENCE:0
-DTSTAMP:20251114T171502
+DTSTAMP:20251115T171327
 DTSTART:20251213T153000
 DTEND:20251213T161500
 SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Solway Sapphires
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Sapp
  hires\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:387ed13a-caa7-4760-a89f-1dd48edfe189
+UID:512b27da-0da7-47c3-ae5a-206ec9d42cba
 SEQUENCE:0
-DTSTAMP:20251114T171502
+DTSTAMP:20251115T171327
 DTSTART:20260131T153000
 DTEND:20260131T161500
 SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Lauriston Legends
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston L
  egends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3cd15213-11c3-4619-8e27-462936105522
+UID:7a2010b5-4708-42a4-957e-8ce036e92297
 SEQUENCE:0
-DTSTAMP:20251114T171502
+DTSTAMP:20251115T171327
 DTSTART:20260207T161500
 DTEND:20260207T170000
 SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Maccabi Ducks
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:36cd35c3-ca87-41e3-8f5b-a636c6d6ba11
+UID:a3020221-71b3-4a4f-9af8-23b70f536bc4
 SEQUENCE:0
-DTSTAMP:20251114T171502
+DTSTAMP:20251115T171327
 DTSTART:20260214T170000
 DTEND:20260214T174500
 SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Ashy Lightning White
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
  ightning White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e9f6dd31-ffe0-4d79-8a3c-fe8a55540f39
+UID:f8a9031a-aa01-4476-a327-a1fb4dc97242
 SEQUENCE:0
-DTSTAMP:20251114T171502
+DTSTAMP:20251115T171327
 DTSTART:20260221T153000
 DTEND:20260221T161500
 SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Korowa Grey
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Korowa Grey
  \nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c86af5bd-b43e-49ff-b470-52beafda3514
+UID:390c055b-fec7-4b90-8b66-c5d14317bae5
 SEQUENCE:0
-DTSTAMP:20251114T171502
+DTSTAMP:20251115T171327
 DTSTART:20260228T161500
 DTEND:20260228T170000
 SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Maccabi Eagles
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f3bc0d30-b039-4839-8db2-941e922da684
+UID:d02cabde-e711-4efc-9062-eae5dd47cfa7
 SEQUENCE:0
-DTSTAMP:20251114T171502
+DTSTAMP:20251115T171327
 DTSTART:20260314T153000
 DTEND:20260314T161500
 SUMMARY:🏀 U14 Girls: Maccabi Celtics vs Timberwolves Sapphires

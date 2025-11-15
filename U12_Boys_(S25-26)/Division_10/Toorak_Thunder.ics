@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Thunder Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:8110c998-717f-446a-aa21-c7f7b3f2386c
+UID:8f2f561c-590f-4c27-b7cd-36dff6834d8e
 SEQUENCE:0
-DTSTAMP:20251114T171353
-DTSTART:20251115T114500
-DTEND:20251115T123000
-SUMMARY:🏀 U12 Boys: Toorak Thunder vs Solway Crocodiles
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
- Crocodiles\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:ec0fc840-2de5-460a-85ac-f05688ac4978
-SEQUENCE:0
-DTSTAMP:20251114T171353
+DTSTAMP:20251115T171219
 DTSTART:20251122T131500
 DTEND:20251122T140000
 SUMMARY:🏀 U12 Boys: Toorak Thunder vs Glen Iris Scorpions Raven
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:177adec8-d2cd-4186-b1e6-70f9c3fab9f1
+UID:1f2015db-b098-46a2-b214-c8c3af62bc5a
 SEQUENCE:0
-DTSTAMP:20251114T171353
+DTSTAMP:20251115T171219
 DTSTART:20251129T123000
 DTEND:20251129T131500
 SUMMARY:🏀 U12 Boys: Toorak Thunder vs Solway Dingoes
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Dingoes\nArrive 15 min
  s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9718e96b-7e5d-4b72-b69e-713abfb9e4a1
+UID:e460f636-2152-405f-b5b6-945f25e37389
 SEQUENCE:0
-DTSTAMP:20251114T171353
+DTSTAMP:20251115T171219
 DTSTART:20251206T123000
 DTEND:20251206T131500
 SUMMARY:🏀 U12 Boys: Toorak Thunder vs Ashy Lightning White
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Ashy Lightning White\nArrive
  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:73ccda3c-2add-41f1-b37d-9680babe37f8
+UID:c6f134bf-a273-4dbb-ab77-7cdfcf9eb170
 SEQUENCE:0
-DTSTAMP:20251114T171353
+DTSTAMP:20251115T171219
 DTSTART:20251213T131500
 DTEND:20251213T140000
 SUMMARY:🏀 U12 Boys: Toorak Thunder vs Malvern Tigers Tan
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Tan\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0f190e92-4c33-4e21-bd0f-0bcb4c774943
+UID:d0b0b641-5eeb-4bb6-901f-4c72fb5d60f5
 SEQUENCE:0
-DTSTAMP:20251114T171353
+DTSTAMP:20251115T171219
 DTSTART:20260131T114500
 DTEND:20260131T123000
 SUMMARY:🏀 U12 Boys: Toorak Thunder vs Malvern Tigers Aqua
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Aqua\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:09255f0c-8528-43f8-9aaf-58a050aeb2cb
+UID:546dc0c1-6790-4200-9081-ba4a71aedf7e
 SEQUENCE:0
-DTSTAMP:20251114T171353
+DTSTAMP:20251115T171219
 DTSTART:20260214T114500
 DTEND:20260214T123000
 SUMMARY:🏀 U12 Boys: Toorak Thunder vs Solway Crocodiles
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Crocodiles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4afc168e-d46c-49b3-b1ac-c2f385f2105a
+UID:d178ba00-5cd3-4218-ae27-aee2f42555ff
 SEQUENCE:0
-DTSTAMP:20251114T171353
+DTSTAMP:20251115T171219
 DTSTART:20260221T131500
 DTEND:20260221T140000
 SUMMARY:🏀 U12 Boys: Toorak Thunder vs Glen Iris Scorpions Raven
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:78b47990-580f-4d85-9f4d-ab276ec0809c
+UID:f3a653e5-3419-4cf2-9820-f03bb12d7d4f
 SEQUENCE:0
-DTSTAMP:20251114T171353
+DTSTAMP:20251115T171219
 DTSTART:20260228T123000
 DTEND:20260228T131500
 SUMMARY:🏀 U12 Boys: Toorak Thunder vs Solway Dingoes
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Dingoes\nArrive 15 min
  s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:323818f6-7896-4a5a-b676-343b4ca0e770
+UID:bf28936b-49fa-4957-b545-9e39918ff1e8
 SEQUENCE:0
-DTSTAMP:20251114T171353
+DTSTAMP:20251115T171219
 DTSTART:20260314T123000
 DTEND:20260314T131500
 SUMMARY:🏀 U12 Boys: Toorak Thunder vs Ashy Lightning White

@@ -6,21 +6,9 @@ X-WR-CALNAME:Timberwolves Flames Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:79ef53a8-9f32-4c95-bcfb-99f4d2351bf8
+UID:dfb37bea-59bc-4f2c-b762-e5f7be0dfef4
 SEQUENCE:0
-DTSTAMP:20251114T171450
-DTSTART:20251115T170000
-DTEND:20251115T174500
-SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Glen Iris Scorpions Ferndal
- e
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
- ris Scorpions Ferndale\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:411ba7e9-666f-40d2-a0d9-5fc9c19b6abd
-SEQUENCE:0
-DTSTAMP:20251114T171450
+DTSTAMP:20251115T171316
 DTSTART:20251122T161500
 DTEND:20251122T170000
 SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Toorak Topguns
@@ -29,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
   Topguns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:501fc7e7-ca16-4de2-b6d3-cd70a008f3ca
+UID:cb1ab46f-70dc-48f3-9fbd-04adc61fbb8a
 SEQUENCE:0
-DTSTAMP:20251114T171450
+DTSTAMP:20251115T171316
 DTSTART:20251129T174500
 DTEND:20251129T183000
 SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Ranfurlie Piranhas
@@ -40,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ranfurl
  ie Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:16b079a2-4d90-455b-b3a5-b76255bc48c2
+UID:99e39169-e52f-4995-b73c-81ad119947c5
 SEQUENCE:0
-DTSTAMP:20251114T171450
+DTSTAMP:20251115T171316
 DTSTART:20251206T170000
 DTEND:20251206T174500
 SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Malvern Tigers Boston
@@ -51,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Boston\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:127492e1-9d66-440b-a080-fccc7e28ab5e
+UID:062b97fe-7a52-424b-a6a6-97e718fa0af7
 SEQUENCE:0
-DTSTAMP:20251114T171450
+DTSTAMP:20251115T171316
 DTSTART:20260131T170000
 DTEND:20260131T174500
 SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Cato Park Piranhas
@@ -62,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Cato P
  ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:db41c2c2-81d1-4024-9cc4-ee79fddb8f51
+UID:f5905596-8892-4a9a-827d-63227ad9220e
 SEQUENCE:0
-DTSTAMP:20251114T171450
+DTSTAMP:20251115T171316
 DTSTART:20260207T170000
 DTEND:20260207T174500
 SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Maccabi Warriors
@@ -73,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4ef0576b-3de6-482a-bb88-cd739b8f6f03
+UID:a6370b80-a58a-410b-b32c-1875a40aaa88
 SEQUENCE:0
-DTSTAMP:20251114T171450
+DTSTAMP:20251115T171316
 DTSTART:20260214T170000
 DTEND:20260214T174500
 SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Ashy Lightning Green
@@ -84,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:102bb609-90bc-4a48-b37a-bc6124978c52
+UID:a9b698bf-60d9-4d7c-8dac-875067b83441
 SEQUENCE:0
-DTSTAMP:20251114T171450
+DTSTAMP:20251115T171316
 DTSTART:20260221T161500
 DTEND:20260221T170000
 SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Malvern Tigers Lewis
@@ -95,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Lewis\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:336fba24-1ec7-428a-99e2-ddfb16cb4ac0
+UID:d4ccb0e7-3f49-402d-830d-680ed40992b8
 SEQUENCE:0
-DTSTAMP:20251114T171450
+DTSTAMP:20251115T171316
 DTSTART:20260228T170000
 DTEND:20260228T174500
 SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Glen Iris Scorpions Ferndal
@@ -107,9 +95,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b8116bf9-0c35-4cf2-b732-5fc995d60c4c
+UID:eec6fa6f-b726-46f2-89ed-70e398f40d6e
 SEQUENCE:0
-DTSTAMP:20251114T171450
+DTSTAMP:20251115T171316
 DTSTART:20260314T161500
 DTEND:20260314T170000
 SUMMARY:🏀 U14 Girls: Timberwolves Flames vs Toorak Topguns

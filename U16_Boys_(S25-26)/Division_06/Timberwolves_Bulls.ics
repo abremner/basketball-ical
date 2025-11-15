@@ -6,20 +6,9 @@ X-WR-CALNAME:Timberwolves Bulls Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:806863e2-f79e-421b-b69f-928444c2fa57
+UID:219a55bc-e2b9-473a-b92b-0aa96737c4d9
 SEQUENCE:0
-DTSTAMP:20251114T171521
-DTSTART:20251115T191500
-DTEND:20251115T200000
-SUMMARY:🏀 U16 Boys: Timberwolves Bulls vs Ormond Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ormond 
- Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:85fbb27f-92fe-474a-9d07-d29606c1c03a
-SEQUENCE:0
-DTSTAMP:20251114T171521
+DTSTAMP:20251115T171346
 DTSTART:20251122T183000
 DTEND:20251122T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Bulls vs Solway Storm
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Storm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:666922a7-e656-488b-9040-eca797f4e6c6
+UID:5927083e-0eec-4b4b-aa8a-26599680db63
 SEQUENCE:0
-DTSTAMP:20251114T171521
+DTSTAMP:20251115T171346
 DTSTART:20251129T174500
 DTEND:20251129T183000
 SUMMARY:🏀 U16 Boys: Timberwolves Bulls vs Malvern Tigers Green
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f503930c-c06a-4d29-8059-560689f01253
+UID:8fc03fa8-90c2-4fdc-9eb0-d10434b962bd
 SEQUENCE:0
-DTSTAMP:20251114T171521
+DTSTAMP:20251115T171346
 DTSTART:20251206T183000
 DTEND:20251206T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Bulls vs Tennyson Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Tennyso
  n Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3516781d-7b7b-4f5f-af4d-b4e45e9de7c0
+UID:76b6f0dd-b62a-48b2-83cc-19a1c837040f
 SEQUENCE:0
-DTSTAMP:20251114T171521
+DTSTAMP:20251115T171346
 DTSTART:20251213T183000
 DTEND:20251213T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Bulls vs Timberwolves Magic
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Magic\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:47ada91b-321c-4a60-a3d4-83d38e93597f
+UID:03ec2cc1-21db-4b1d-81e6-04b2c402918a
 SEQUENCE:0
-DTSTAMP:20251114T171521
+DTSTAMP:20251115T171346
 DTSTART:20260131T174500
 DTEND:20260131T183000
 SUMMARY:🏀 U16 Boys: Timberwolves Bulls vs Ormond Piranhas
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ormond
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e48c73cb-664e-4ce8-ad83-0009d38e0b3e
+UID:467ba8d6-8349-438c-aa9c-fade31dd3301
 SEQUENCE:0
-DTSTAMP:20251114T171521
+DTSTAMP:20251115T171346
 DTSTART:20260207T183000
 DTEND:20260207T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Bulls vs Solway Storm
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Storm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:661b51b2-7399-452a-a675-017d82b4c4ca
+UID:db554294-2a04-4d8c-b2dc-679c8545e150
 SEQUENCE:0
-DTSTAMP:20251114T171521
+DTSTAMP:20251115T171346
 DTSTART:20260214T191500
 DTEND:20260214T200000
 SUMMARY:🏀 U16 Boys: Timberwolves Bulls vs Malvern Tigers Green
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:51374489-b184-4be9-bd19-1cc4bad18347
+UID:d2ea89a3-68f9-4de4-ac6c-a4c6d236e4ea
 SEQUENCE:0
-DTSTAMP:20251114T171521
+DTSTAMP:20251115T171346
 DTSTART:20260221T191500
 DTEND:20260221T200000
 SUMMARY:🏀 U16 Boys: Timberwolves Bulls vs Tennyson Piranhas
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Tennyso
  n Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e7095e1e-f105-4307-8e9e-58d6cbdb8e0b
+UID:77c9981a-7864-4ba0-92ef-4fa51caa06f8
 SEQUENCE:0
-DTSTAMP:20251114T171521
+DTSTAMP:20251115T171346
 DTSTART:20260228T191500
 DTEND:20260228T200000
 SUMMARY:🏀 U16 Boys: Timberwolves Bulls vs Timberwolves Magic
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Magic\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:86b0d8b2-768b-441b-818e-c797fe780951
+UID:e1dd40f9-df34-4e46-b7bc-f29c3ea02f32
 SEQUENCE:0
-DTSTAMP:20251114T171521
+DTSTAMP:20251115T171346
 DTSTART:20260314T191500
 DTEND:20260314T200000
 SUMMARY:🏀 U16 Boys: Timberwolves Bulls vs Ormond Piranhas

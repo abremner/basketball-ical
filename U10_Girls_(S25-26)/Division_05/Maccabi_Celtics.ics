@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Celtics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f409ce67-45b8-4440-b6df-ef7c20dd97ac
+UID:dd1b22a8-86da-4f66-9689-c4b7e0d4e4f3
 SEQUENCE:0
-DTSTAMP:20251114T171314
-DTSTART:20251115T093000
-DTEND:20251115T101500
-SUMMARY:🏀 U10 Girls: Maccabi Celtics vs Malvern Tigers Lavey
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
- n Tigers Lavey\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5f0dda62-5952-4c2b-a08d-d8d6ccf34b3b
-SEQUENCE:0
-DTSTAMP:20251114T171314
+DTSTAMP:20251115T171140
 DTSTART:20251122T110000
 DTEND:20251122T114500
 SUMMARY:🏀 U10 Girls: Maccabi Celtics vs Malvern Tigers Smith
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Smith\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:73fc84c8-154d-4966-ab41-3914c7454765
+UID:94aedd6c-d6d5-4513-9ba9-6357ba150357
 SEQUENCE:0
-DTSTAMP:20251114T171314
+DTSTAMP:20251115T171140
 DTSTART:20251129T110000
 DTEND:20251129T114500
 SUMMARY:🏀 U10 Girls: Maccabi Celtics vs Timberwolves Gems
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Timberwolve
  s Gems\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:801a2cf9-1f36-417e-b105-40ea79017dd3
+UID:084c859e-3e98-4dcc-b898-d330d7c2b1fb
 SEQUENCE:0
-DTSTAMP:20251114T171314
+DTSTAMP:20251115T171140
 DTSTART:20251206T114500
 DTEND:20251206T123000
 SUMMARY:🏀 U10 Girls: Maccabi Celtics vs Timberwolves Hornets
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Hornets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bfca1d5f-e334-4eea-8d21-694cdc7fa071
+UID:29b9136f-b1cd-4569-a898-4186d8105ee4
 SEQUENCE:0
-DTSTAMP:20251114T171314
+DTSTAMP:20251115T171140
 DTSTART:20251213T080000
 DTEND:20251213T084500
 SUMMARY:🏀 U10 Girls: Maccabi Celtics vs Arax
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2c8e853d-6ed0-4ab9-9211-d4085883d9c7
+UID:aced10b3-0370-4300-9747-3249fc7a0e8f
 SEQUENCE:0
-DTSTAMP:20251114T171314
+DTSTAMP:20251115T171140
 DTSTART:20260131T093000
 DTEND:20260131T101500
 SUMMARY:🏀 U10 Girls: Maccabi Celtics vs Glen Iris Scorpions Gardiner
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
  ris Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0488624d-96be-48c4-9ee6-5b76f993c6f5
+UID:ea576d8b-8c6e-4511-be88-07a5a1276ba1
 SEQUENCE:0
-DTSTAMP:20251114T171314
+DTSTAMP:20251115T171140
 DTSTART:20260207T093000
 DTEND:20260207T101500
 SUMMARY:🏀 U10 Girls: Maccabi Celtics vs Solway Zephyrs
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Zephyrs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:12c41808-afc1-4124-a548-f31e6bbf2ad2
+UID:0fafe5fa-4b4e-4e57-ba38-bb5997dd0798
 SEQUENCE:0
-DTSTAMP:20251114T171314
+DTSTAMP:20251115T171140
 DTSTART:20260214T093000
 DTEND:20260214T101500
 SUMMARY:🏀 U10 Girls: Maccabi Celtics vs Malvern Tigers Lavey
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Lavey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2408a33b-ab71-49c6-b1fe-89fd8faae5e8
+UID:dc004ace-e542-4884-8350-aaa586fd702f
 SEQUENCE:0
-DTSTAMP:20251114T171314
+DTSTAMP:20251115T171140
 DTSTART:20260221T110000
 DTEND:20260221T114500
 SUMMARY:🏀 U10 Girls: Maccabi Celtics vs Malvern Tigers Smith
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Smith\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8c05e675-7460-4d62-8f19-da802338fc6e
+UID:428c1419-44e5-448f-96fe-a19a2f6291a7
 SEQUENCE:0
-DTSTAMP:20251114T171314
+DTSTAMP:20251115T171140
 DTSTART:20260228T110000
 DTEND:20260228T114500
 SUMMARY:🏀 U10 Girls: Maccabi Celtics vs Timberwolves Gems
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Timberwolve
  s Gems\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ff188db2-51a7-4ec0-bc3c-8c79ba796383
+UID:767320a2-e946-4012-a86d-1a3db1b29a65
 SEQUENCE:0
-DTSTAMP:20251114T171314
+DTSTAMP:20251115T171140
 DTSTART:20260314T114500
 DTEND:20260314T123000
 SUMMARY:🏀 U10 Girls: Maccabi Celtics vs Timberwolves Hornets

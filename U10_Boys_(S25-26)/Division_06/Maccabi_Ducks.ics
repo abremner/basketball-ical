@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:dbc7418a-e1b1-449d-afd1-e2370d194a11
+UID:a2d10fca-a71a-4d80-84b1-3c5456ee495a
 SEQUENCE:0
-DTSTAMP:20251114T171240
-DTSTART:20251115T084500
-DTEND:20251115T093000
-SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Glen Iris Scorpions Nettleton
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
- ris Scorpions Nettleton\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:8cdf0aa8-567c-4ef6-b9f1-25edaacac0db
-SEQUENCE:0
-DTSTAMP:20251114T171240
+DTSTAMP:20251115T171106
 DTSTART:20251122T101500
 DTEND:20251122T110000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Malvern Tigers Blue
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5b257c7e-e58d-4fb4-83ef-5596f71f7284
+UID:6da1459a-69e0-46b2-81f6-fddaccd5ca3b
 SEQUENCE:0
-DTSTAMP:20251114T171240
+DTSTAMP:20251115T171106
 DTSTART:20251129T093000
 DTEND:20251129T101500
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Toorak Thrashers
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Thrashers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:338214fc-d898-4a04-96a2-16988afe796f
+UID:e6baa030-ecf7-4cf7-b3f2-c001c26776c2
 SEQUENCE:0
-DTSTAMP:20251114T171240
+DTSTAMP:20251115T171106
 DTSTART:20251206T093000
 DTEND:20251206T101500
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Timberwolves Cubs
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Cubs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:db2620af-fcf5-4b38-8e7d-dcb388ecdd05
+UID:57d4e0dd-644d-4e57-b07f-b819a286c323
 SEQUENCE:0
-DTSTAMP:20251114T171240
+DTSTAMP:20251115T171106
 DTSTART:20251213T101500
 DTEND:20251213T110000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Orrong Park Piranhas
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Orrong Park Piranhas\nArrive
  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e06a299a-fb3a-4de3-a35f-75b3585291c7
+UID:8bea1468-4808-4ec5-be35-2773a0f0b5d0
 SEQUENCE:0
-DTSTAMP:20251114T171240
+DTSTAMP:20251115T171106
 DTSTART:20260131T084500
 DTEND:20260131T093000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Solway Bulls
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Bulls\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:537affe1-8175-4ea5-98f6-2fdd8dbd3eb8
+UID:fb8a1d23-4bae-4ea2-9fac-2a14a7232617
 SEQUENCE:0
-DTSTAMP:20251114T171240
+DTSTAMP:20251115T171106
 DTSTART:20260207T101500
 DTEND:20260207T110000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Golden Hawks Iron
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Golden Hawks Iron\nArrive 15
  mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4ae4e942-19b5-4f0b-813e-a3eb98035629
+UID:4cddfa38-9e3c-4f82-ad2d-306cd5088ec3
 SEQUENCE:0
-DTSTAMP:20251114T171240
+DTSTAMP:20251115T171106
 DTSTART:20260214T093000
 DTEND:20260214T101500
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Glen Iris Scorpions Nettleton
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:59553b7d-3635-42d7-b97e-aee5ee83fb60
+UID:32012c1d-b282-46fd-9fdf-c76748a5044c
 SEQUENCE:0
-DTSTAMP:20251114T171240
+DTSTAMP:20251115T171106
 DTSTART:20260221T101500
 DTEND:20260221T110000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Malvern Tigers Blue
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:eae97589-ecd6-4497-a6c9-44277c36210c
+UID:6a665d40-3c5a-4928-9768-82792d123b67
 SEQUENCE:0
-DTSTAMP:20251114T171240
+DTSTAMP:20251115T171106
 DTSTART:20260228T101500
 DTEND:20260228T110000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Toorak Thrashers
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Thrashers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cce8e9b2-899f-4c01-a70c-1bf6bd167f05
+UID:053d513e-850e-46c0-a9e3-96b496bada95
 SEQUENCE:0
-DTSTAMP:20251114T171240
+DTSTAMP:20251115T171106
 DTSTART:20260314T101500
 DTEND:20260314T110000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Timberwolves Cubs

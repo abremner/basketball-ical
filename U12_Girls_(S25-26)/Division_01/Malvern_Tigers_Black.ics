@@ -6,20 +6,9 @@ X-WR-CALNAME:Malvern Tigers Black Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b9e85e13-3645-4390-baf4-a708b258e09b
+UID:c5abf138-616b-4046-968d-5126857e645f
 SEQUENCE:0
-DTSTAMP:20251114T171358
-DTSTART:20251115T144500
-DTEND:20251115T153000
-SUMMARY:🏀 U12 Girls: Malvern Tigers Black vs Solway Crows
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
-  Crows\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:2a5e7779-cb5d-4084-86dd-0ab77526f047
-SEQUENCE:0
-DTSTAMP:20251114T171358
+DTSTAMP:20251115T171223
 DTSTART:20251122T144500
 DTEND:20251122T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Black vs Malvern Tigers Red
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0ead9c4c-339d-482e-95db-8df39757bcaa
+UID:0b42a740-bc6a-4b85-8be0-44e86863766c
 SEQUENCE:0
-DTSTAMP:20251114T171358
+DTSTAMP:20251115T171223
 DTSTART:20251129T144500
 DTEND:20251129T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Black vs Yanakie Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Yanaki
  e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0e7456f6-324e-4ec8-a9a7-b4483f30f69f
+UID:417c37dd-e11e-44ee-9260-011917edca1a
 SEQUENCE:0
-DTSTAMP:20251114T171358
+DTSTAMP:20251115T171223
 DTSTART:20251206T144500
 DTEND:20251206T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Black vs Timberwolves Strikers
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Strikers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5ec68b5a-38a7-4086-a145-b092f30fab40
+UID:d8dd6187-11ff-4e6d-b2f5-f3c147c75c68
 SEQUENCE:0
-DTSTAMP:20251114T171358
+DTSTAMP:20251115T171223
 DTSTART:20251213T144500
 DTEND:20251213T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Black vs Comets Rubies
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Comets
   Rubies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d93a7b58-3008-493f-8c6d-86ec25c769a2
+UID:def241e7-a2e3-4f2d-bb8f-54c98bb2a7e4
 SEQUENCE:0
-DTSTAMP:20251114T171358
+DTSTAMP:20251115T171223
 DTSTART:20260131T144500
 DTEND:20260131T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Black vs Solway Crows
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Crows\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a8efe9a3-b5ad-4153-a1a8-a15f008093fd
+UID:4e6de225-fd32-425c-8676-0083aa0745fe
 SEQUENCE:0
-DTSTAMP:20251114T171358
+DTSTAMP:20251115T171223
 DTSTART:20260207T144500
 DTEND:20260207T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Black vs Malvern Tigers Red
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:43ed0fd3-ce68-4ace-b871-72294f8e4dd6
+UID:5d56342f-9f46-414d-b89c-676bc86bfcf4
 SEQUENCE:0
-DTSTAMP:20251114T171358
+DTSTAMP:20251115T171223
 DTSTART:20260214T144500
 DTEND:20260214T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Black vs Yanakie Piranhas
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Yanaki
  e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9a9b8713-d291-4c36-9fe7-9e7e1dc90a27
+UID:8602c27c-0cce-42ee-8871-dbac323770ea
 SEQUENCE:0
-DTSTAMP:20251114T171358
+DTSTAMP:20251115T171223
 DTSTART:20260221T144500
 DTEND:20260221T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Black vs Timberwolves Strikers
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Strikers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:83fad7d6-4c5a-40c7-96a7-fe28bee16c90
+UID:7fd52281-5eb6-4cf2-ac22-79d7e43e18b2
 SEQUENCE:0
-DTSTAMP:20251114T171358
+DTSTAMP:20251115T171223
 DTSTART:20260228T144500
 DTEND:20260228T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Black vs Comets Rubies
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
   Rubies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2e53ec06-52ac-4d39-b563-b797e6e1de75
+UID:a487a5f2-717c-42fa-81e7-f9f314c435e7
 SEQUENCE:0
-DTSTAMP:20251114T171358
+DTSTAMP:20251115T171223
 DTSTART:20260314T144500
 DTEND:20260314T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Black vs Solway Crows

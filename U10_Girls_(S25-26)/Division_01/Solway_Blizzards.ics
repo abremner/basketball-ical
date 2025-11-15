@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Blizzards Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:3a050dc0-0cc4-49d5-ac1d-768512bd26af
+UID:a3bf690f-d531-458a-8e26-cb579e616f38
 SEQUENCE:0
-DTSTAMP:20251114T171304
-DTSTART:20251115T123000
-DTEND:20251115T131500
-SUMMARY:🏀 U10 Girls: Solway Blizzards vs Korowa Cherry
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Korowa
-  Cherry\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:e182b7cf-6066-427e-b159-b9befffe1b56
-SEQUENCE:0
-DTSTAMP:20251114T171304
+DTSTAMP:20251115T171129
 DTSTART:20251129T114500
 DTEND:20251129T123000
 SUMMARY:🏀 U10 Girls: Solway Blizzards vs Malvern Tigers Phillips
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Phillips\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5a516e5a-a684-4121-9e3e-39d44d076f01
+UID:f3ad97df-ab5e-40dd-a33f-0418b90cc8c4
 SEQUENCE:0
-DTSTAMP:20251114T171304
+DTSTAMP:20251115T171129
 DTSTART:20251206T114500
 DTEND:20251206T123000
 SUMMARY:🏀 U10 Girls: Solway Blizzards vs Solway Tornadoes
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Tornadoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:87679074-ab98-4953-bc8e-9a4232a7a831
+UID:0fafccd1-bf5f-46a6-bfa2-b260c89b375c
 SEQUENCE:0
-DTSTAMP:20251114T171304
+DTSTAMP:20251115T171129
 DTSTART:20251213T114500
 DTEND:20251213T123000
 SUMMARY:🏀 U10 Girls: Solway Blizzards vs Ashy Lightning Gold
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:39c9d76a-a7f8-41cd-b0b0-2fc61bed62a2
+UID:ac0e72a5-00d3-4484-a1dd-23f467bd4aca
 SEQUENCE:0
-DTSTAMP:20251114T171304
+DTSTAMP:20251115T171129
 DTSTART:20260131T123000
 DTEND:20260131T131500
 SUMMARY:🏀 U10 Girls: Solway Blizzards vs Timberwolves Sharks
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Sharks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5c152202-23f3-4840-84b8-164eef60c3c0
+UID:7b90e723-b831-4cae-864e-47aa7dad402b
 SEQUENCE:0
-DTSTAMP:20251114T171304
+DTSTAMP:20251115T171129
 DTSTART:20260207T114500
 DTEND:20260207T123000
 SUMMARY:🏀 U10 Girls: Solway Blizzards vs Halley Park Piranhas
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Halley
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:34fb2a8a-60fe-4d8b-bbaa-3841b3b44e68
+UID:39878ab3-bb2b-4ef7-a21d-01abe02909dd
 SEQUENCE:0
-DTSTAMP:20251114T171304
+DTSTAMP:20251115T171129
 DTSTART:20260214T123000
 DTEND:20260214T131500
 SUMMARY:🏀 U10 Girls: Solway Blizzards vs Korowa Cherry
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Korowa
   Cherry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8b76eb41-e155-4330-915e-61959be29308
+UID:f819c23b-c9e9-4a83-abfe-d2ccd32db1e9
 SEQUENCE:0
-DTSTAMP:20251114T171304
+DTSTAMP:20251115T171129
 DTSTART:20260228T114500
 DTEND:20260228T123000
 SUMMARY:🏀 U10 Girls: Solway Blizzards vs Malvern Tigers Phillips
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Phillips\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5858e617-bbe8-4fd2-b9c1-d2ae9d0d02c2
+UID:9c9a47e0-18dd-4d9e-bf1d-5aca785a85bf
 SEQUENCE:0
-DTSTAMP:20251114T171304
+DTSTAMP:20251115T171129
 DTSTART:20260314T114500
 DTEND:20260314T123000
 SUMMARY:🏀 U10 Girls: Solway Blizzards vs Solway Tornadoes

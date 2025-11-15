@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Supernovas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:6c1d3b57-885f-47be-b02c-3f59465e0aa9
+UID:0d27c651-d718-495e-8e2f-383a2f3ede4f
 SEQUENCE:0
-DTSTAMP:20251114T171227
-DTSTART:20251115T093000
-DTEND:20251115T101500
-SUMMARY:🏀 U08 Girls: Solway Supernovas vs Malvern Tigers Atwell
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
- ers Atwell\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:d749f7cd-f3bc-4a4e-9d8a-4f82b83b3e04
-SEQUENCE:0
-DTSTAMP:20251114T171227
+DTSTAMP:20251115T171052
 DTSTART:20251122T101500
 DTEND:20251122T110000
 SUMMARY:🏀 U08 Girls: Solway Supernovas vs Ashy Lightning Green
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e1e664db-765e-41f4-bf44-01d32e5e18b0
+UID:8b176d1d-3ccc-4a03-918e-4a9b42670fe5
 SEQUENCE:0
-DTSTAMP:20251114T171227
+DTSTAMP:20251115T171052
 DTSTART:20251129T101500
 DTEND:20251129T110000
 SUMMARY:🏀 U08 Girls: Solway Supernovas vs Korowa Cherry
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Korowa
  Cherry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ea1bec3f-edc4-4eaa-9027-0e3ee592f230
+UID:54e9a5dd-12ec-42e6-a1cf-5e46c97642bb
 SEQUENCE:0
-DTSTAMP:20251114T171227
+DTSTAMP:20251115T171052
 DTSTART:20251206T101500
 DTEND:20251206T110000
 SUMMARY:🏀 U08 Girls: Solway Supernovas vs Wallis Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Wallis
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:11294d9d-20fa-4508-927f-cb43813031e8
+UID:60a124ab-40d3-4d4f-abb6-e99a0ae22bd5
 SEQUENCE:0
-DTSTAMP:20251114T171227
+DTSTAMP:20251115T171052
 DTSTART:20251213T101500
 DTEND:20251213T110000
 SUMMARY:🏀 U08 Girls: Solway Supernovas vs Maccabi Ducks
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:87d54e0c-2b4e-4506-9be7-fb270c536999
+UID:1b9b46d1-533d-4126-912b-c29e6ec066af
 SEQUENCE:0
-DTSTAMP:20251114T171227
+DTSTAMP:20251115T171052
 DTSTART:20260131T101500
 DTEND:20260131T110000
 SUMMARY:🏀 U08 Girls: Solway Supernovas vs Kerferd Piranhas
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Kerferd
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8992f8e6-0e2a-4120-aee2-edfb79e48bf0
+UID:fb82f3ec-0238-4f10-9547-0147f475ae1f
 SEQUENCE:0
-DTSTAMP:20251114T171227
+DTSTAMP:20251115T171052
 DTSTART:20260207T084500
 DTEND:20260207T093000
 SUMMARY:🏀 U08 Girls: Solway Supernovas vs Lauriston Flyers
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston F
  lyers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:642822b9-26d9-4431-ade6-7e2cebb1b77f
+UID:ef9ed8e4-040c-4629-8d09-2cb193fb6d68
 SEQUENCE:0
-DTSTAMP:20251114T171227
+DTSTAMP:20251115T171052
 DTSTART:20260214T084500
 DTEND:20260214T093000
 SUMMARY:🏀 U08 Girls: Solway Supernovas vs Malvern Tigers Atwell
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Atwell\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9dee2996-51ab-4819-a77e-06194093e1d4
+UID:e7b3607f-148a-4aae-a0e5-e5202e3c8589
 SEQUENCE:0
-DTSTAMP:20251114T171227
+DTSTAMP:20251115T171052
 DTSTART:20260221T101500
 DTEND:20260221T110000
 SUMMARY:🏀 U08 Girls: Solway Supernovas vs Ashy Lightning Green
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d7e777f9-63a4-4ed9-9191-50421312bcbe
+UID:c5595ecc-0d27-4940-ac0e-5fb0c798a5f0
 SEQUENCE:0
-DTSTAMP:20251114T171227
+DTSTAMP:20251115T171052
 DTSTART:20260228T101500
 DTEND:20260228T110000
 SUMMARY:🏀 U08 Girls: Solway Supernovas vs Korowa Cherry
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Korowa
  Cherry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:29e3abb7-6088-4503-be7e-a7a6e51ba8f6
+UID:64904a4d-d8f3-44b4-97d7-627a4895b91f
 SEQUENCE:0
-DTSTAMP:20251114T171227
+DTSTAMP:20251115T171052
 DTSTART:20260314T101500
 DTEND:20260314T110000
 SUMMARY:🏀 U08 Girls: Solway Supernovas vs Wallis Piranhas

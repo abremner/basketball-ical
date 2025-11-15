@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f3287054-844c-4fd0-ba6e-b25038bcef9b
+UID:a6c159db-1a6b-4c3b-afdc-542d90273548
 SEQUENCE:0
-DTSTAMP:20251114T171230
-DTSTART:20251115T131500
-DTEND:20251115T140000
-SUMMARY:🏀 U10 Boys: Maccabi Warriors vs AUBD Storm
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AUBD S
- torm\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:da1c8154-481f-48b8-bfae-0b6144651257
-SEQUENCE:0
-DTSTAMP:20251114T171230
+DTSTAMP:20251115T171056
 DTSTART:20251122T110000
 DTEND:20251122T114500
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Ashy Lightning Gold
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4327e179-7980-4e0c-81c0-a7f714a749c5
+UID:9f0d6add-7dca-45e2-a868-1e85e31cc2e8
 SEQUENCE:0
-DTSTAMP:20251114T171230
+DTSTAMP:20251115T171056
 DTSTART:20251129T110000
 DTEND:20251129T114500
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Malvern Tigers Black
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f7733aee-0be9-4816-ba34-dfb181a59d63
+UID:e116e40b-afd0-415a-a8ce-dbdd4f47f6bc
 SEQUENCE:0
-DTSTAMP:20251114T171230
+DTSTAMP:20251115T171056
 DTSTART:20251206T114500
 DTEND:20251206T123000
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs AlphaWolf Dragons
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AlphaW
  olf Dragons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:70c744bf-364c-4347-925c-595c7e3101b4
+UID:55f58f21-237d-4508-a4a6-3abd715be505
 SEQUENCE:0
-DTSTAMP:20251114T171230
+DTSTAMP:20251115T171056
 DTSTART:20251213T114500
 DTEND:20251213T123000
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Timberwolves Crusaders
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Crusaders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ee8669f3-527f-424d-bb62-f13bc19f87c8
+UID:e3a42b60-dc20-454e-a308-134251111cc1
 SEQUENCE:0
-DTSTAMP:20251114T171230
+DTSTAMP:20251115T171056
 DTSTART:20260131T123000
 DTEND:20260131T131500
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Malvern Tigers Red
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fd4f785c-8bef-4860-98b3-1a84b654e0fe
+UID:39bff97a-1fbc-4867-b686-b22d224ae113
 SEQUENCE:0
-DTSTAMP:20251114T171230
+DTSTAMP:20251115T171056
 DTSTART:20260207T123000
 DTEND:20260207T131500
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Solway Boomers
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Boomers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:97788afd-dfaa-458b-a6a7-d9ce14b31ba8
+UID:f3f8c752-af44-4a7c-9a6c-0a7a0665af83
 SEQUENCE:0
-DTSTAMP:20251114T171230
+DTSTAMP:20251115T171056
 DTSTART:20260214T131500
 DTEND:20260214T140000
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs AUBD Storm
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AUBD S
  torm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ce79380d-3534-4b50-8682-accafdc9fe91
+UID:05da4fc6-c79f-48cd-8f65-6fedf76fbb17
 SEQUENCE:0
-DTSTAMP:20251114T171230
+DTSTAMP:20251115T171056
 DTSTART:20260221T123000
 DTEND:20260221T131500
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Ashy Lightning Gold
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:33a2dd1c-8756-4011-adb8-b8a3db938d0c
+UID:d54c6dbb-f525-4ab1-97cb-be54bcf75efb
 SEQUENCE:0
-DTSTAMP:20251114T171230
+DTSTAMP:20251115T171056
 DTSTART:20260228T123000
 DTEND:20260228T131500
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Malvern Tigers Black
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:75492995-c8bc-4357-a88b-f68d50140603
+UID:2c7236e7-c7b0-4e28-bb44-3c9c0a4fc682
 SEQUENCE:0
-DTSTAMP:20251114T171230
+DTSTAMP:20251115T171056
 DTSTART:20260314T114500
 DTEND:20260314T123000
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs AlphaWolf Dragons

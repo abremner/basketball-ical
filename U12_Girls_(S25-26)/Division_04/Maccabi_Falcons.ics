@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Falcons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e444bd59-58fb-494d-9f17-79338eeb8f01
+UID:1b85a584-2897-4d34-9b05-628cde822aa0
 SEQUENCE:0
-DTSTAMP:20251114T171408
-DTSTART:20251115T140000
-DTEND:20251115T144500
-SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Willow Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Willow 
- Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:d85b8c28-2162-438c-af9a-37b9f6e29551
-SEQUENCE:0
-DTSTAMP:20251114T171408
+DTSTAMP:20251115T171234
 DTSTART:20251122T144500
 DTEND:20251122T153000
 SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Solway Parrots
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Parr
  ots\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7fb0b722-5b71-45a7-8907-b4336844a989
+UID:a927edf8-1a50-4891-9231-7372d456b574
 SEQUENCE:0
-DTSTAMP:20251114T171408
+DTSTAMP:20251115T171234
 DTSTART:20251129T144500
 DTEND:20251129T153000
 SUMMARY:🏀 U12 Girls: Maccabi Falcons vs AlphaWolf Sparks
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: AlphaWolf S
  parks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2335bc54-ad67-4c2b-8462-d8fc3748d96d
+UID:42a17b99-0b1f-4f10-9d7c-cbfaa8d192c8
 SEQUENCE:0
-DTSTAMP:20251114T171408
+DTSTAMP:20251115T171234
 DTSTART:20251206T144500
 DTEND:20251206T153000
 SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Maccabi Celtics
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Cel
  tics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:58ab25a8-6650-4eb9-a418-bcb201ebd471
+UID:161430e9-f595-475a-a5ae-6bccaba048aa
 SEQUENCE:0
-DTSTAMP:20251114T171408
+DTSTAMP:20251115T171234
 DTSTART:20260131T140000
 DTEND:20260131T144500
 SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Creswick Piranhas
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Creswic
  k Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9566bd88-fe12-4342-afc5-064be137636d
+UID:e4b50bfc-9f7c-4d62-bedd-b9de66ee337c
 SEQUENCE:0
-DTSTAMP:20251114T171408
+DTSTAMP:20251115T171234
 DTSTART:20260207T144500
 DTEND:20260207T153000
 SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Ashy Lightning Green
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
  ing Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:405a7adb-507f-45b2-b52f-a6a76448e44f
+UID:b402fe7e-3075-4711-927c-0be6f53c1fc4
 SEQUENCE:0
-DTSTAMP:20251114T171408
+DTSTAMP:20251115T171234
 DTSTART:20260214T140000
 DTEND:20260214T144500
 SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Willow Piranhas
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Willow
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7384daef-a05c-47bd-8b41-ceb18337d6cb
+UID:fb1843db-a656-47cc-8299-69736f7c39b9
 SEQUENCE:0
-DTSTAMP:20251114T171408
+DTSTAMP:20251115T171234
 DTSTART:20260221T144500
 DTEND:20260221T153000
 SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Solway Parrots
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Parr
  ots\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ad1685b5-1df1-4ca4-8e68-b73b697d3469
+UID:62c2ddd0-19d3-4b65-be46-65e8b20b529a
 SEQUENCE:0
-DTSTAMP:20251114T171408
+DTSTAMP:20251115T171234
 DTSTART:20260228T144500
 DTEND:20260228T153000
 SUMMARY:🏀 U12 Girls: Maccabi Falcons vs AlphaWolf Sparks
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: AlphaWolf S
  parks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7797b0b1-4245-4778-9c13-5ccc249310cf
+UID:2d14784f-8faf-4b96-a24b-200705c2bd58
 SEQUENCE:0
-DTSTAMP:20251114T171408
+DTSTAMP:20251115T171234
 DTSTART:20260314T144500
 DTEND:20260314T153000
 SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Maccabi Celtics

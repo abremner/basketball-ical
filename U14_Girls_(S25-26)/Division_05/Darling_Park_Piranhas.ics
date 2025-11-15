@@ -6,20 +6,9 @@ X-WR-CALNAME:Darling Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:17c57083-6ea6-4c18-bbcb-99e65ef6e13c
+UID:54749fcb-2642-4385-8f85-26889dd1a597
 SEQUENCE:0
-DTSTAMP:20251114T171455
-DTSTART:20251115T170000
-DTEND:20251115T174500
-SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Timberwolves Rubies
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
- olves Rubies\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:27bbc58d-26fa-4e78-9a73-7f140bdd67b9
-SEQUENCE:0
-DTSTAMP:20251114T171455
+DTSTAMP:20251115T171320
 DTSTART:20251122T131500
 DTEND:20251122T140000
 SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Arax
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:60797bbf-55a7-4836-af91-8ef7b5dff552
+UID:6a210f72-e739-45c5-8405-4b9d97432b6a
 SEQUENCE:0
-DTSTAMP:20251114T171455
+DTSTAMP:20251115T171320
 DTSTART:20251129T170000
 DTEND:20251129T174500
 SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs McArthur Park Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: McArthu
  r Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:43300e62-2187-4c49-b5d0-c4f0e5254b5b
+UID:ff2d271f-ad18-414b-a07d-c9512c45a9e5
 SEQUENCE:0
-DTSTAMP:20251114T171455
+DTSTAMP:20251115T171320
 DTSTART:20251206T153000
 DTEND:20251206T161500
 SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Solway Diamonds
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Diamonds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8eb8328e-8d67-4af2-b3c0-6df5d1a461b6
+UID:a4c2d695-baf6-4856-9fb2-66d1c6ff5a3f
 SEQUENCE:0
-DTSTAMP:20251114T171455
+DTSTAMP:20251115T171320
 DTSTART:20251213T153000
 DTEND:20251213T161500
 SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Toorak Titanium
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
   Titanium\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6020f5fa-d101-4fa3-b10e-87848ae22393
+UID:53a3b1e2-c108-40f9-bbb5-1a508c33c94b
 SEQUENCE:0
-DTSTAMP:20251114T171455
+DTSTAMP:20251115T171320
 DTSTART:20260207T153000
 DTEND:20260207T161500
 SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Malvern Tigers Deacon
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Deacon\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:586346cb-b38d-409a-9a45-dc16b7b47c60
+UID:4241a6d3-d99f-4bab-9b7f-e8524ee9bc60
 SEQUENCE:0
-DTSTAMP:20251114T171455
+DTSTAMP:20251115T171320
 DTSTART:20260214T170000
 DTEND:20260214T174500
 SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Timberwolves Rubies
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
  olves Rubies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:618bfa47-75a5-47e9-8ea9-9120da3166a1
+UID:64d70db5-8584-47f8-b382-5fc3cabc8a16
 SEQUENCE:0
-DTSTAMP:20251114T171455
+DTSTAMP:20251115T171320
 DTSTART:20260221T131500
 DTEND:20260221T140000
 SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Arax
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f262e537-168c-44ae-9c2b-7aa3fc27c635
+UID:76036091-6caa-446b-a4a5-6c866e86940e
 SEQUENCE:0
-DTSTAMP:20251114T171455
+DTSTAMP:20251115T171320
 DTSTART:20260228T153000
 DTEND:20260228T161500
 SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs McArthur Park Piranhas
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: McArth
  ur Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bb2ef9ca-69b5-4595-ade4-c4898400d32b
+UID:acde1471-2fc4-487a-bc89-0090381f5fac
 SEQUENCE:0
-DTSTAMP:20251114T171455
+DTSTAMP:20251115T171320
 DTSTART:20260314T153000
 DTEND:20260314T161500
 SUMMARY:🏀 U14 Girls: Darling Park Piranhas vs Solway Diamonds

@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Sparrows Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:675b2cab-a1dd-4974-854a-ff1b2f0af611
+UID:7dae2ba8-e548-4a9f-8e2a-357ccb81ec9d
 SEQUENCE:0
-DTSTAMP:20251114T171412
-DTSTART:20251115T140000
-DTEND:20251115T144500
-SUMMARY:🏀 U12 Girls: Solway Sparrows vs Maccabi Ducks
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Duc
- ks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:c20e6032-cc33-4145-bda3-55579e8e8858
-SEQUENCE:0
-DTSTAMP:20251114T171412
+DTSTAMP:20251115T171238
 DTSTART:20251122T140000
 DTEND:20251122T144500
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Malvern Tigers Blue
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fdc75ab1-dbc9-40d9-b1d6-b5d93332b3b7
+UID:d35fdc3b-d4c0-46cd-ba52-bfcfc6c33015
 SEQUENCE:0
-DTSTAMP:20251114T171412
+DTSTAMP:20251115T171238
 DTSTART:20251129T123000
 DTEND:20251129T131500
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Solway Red Robins
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Red Robins\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b197b59d-0d74-46b6-80e7-55fe284aaff2
+UID:ed510c20-d620-4759-8044-63667b33e07e
 SEQUENCE:0
-DTSTAMP:20251114T171412
+DTSTAMP:20251115T171238
 DTSTART:20251213T123000
 DTEND:20251213T131500
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Timberwolves Pearls
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Pearls\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5db89d76-99c9-4621-9842-ff22bd4dbc7e
+UID:b3c56863-8e34-47dc-8fef-dca8e9ea3f4d
 SEQUENCE:0
-DTSTAMP:20251114T171412
+DTSTAMP:20251115T171238
 DTSTART:20260131T140000
 DTEND:20260131T144500
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Lauriston Storm
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston S
  torm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5f793037-7007-4f56-a966-4af93fa6db9a
+UID:c7626d0b-becb-4875-8cc4-fa893d050c85
 SEQUENCE:0
-DTSTAMP:20251114T171412
+DTSTAMP:20251115T171238
 DTSTART:20260207T131500
 DTEND:20260207T140000
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Maccabi Bucks
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:95839d9b-1646-44ed-92c0-f67b91167816
+UID:054a2437-c4d8-494e-8a40-38e7ff2127c8
 SEQUENCE:0
-DTSTAMP:20251114T171412
+DTSTAMP:20251115T171238
 DTSTART:20260214T140000
 DTEND:20260214T144500
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Korowa Grey
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Korowa Grey
  \nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:36cc8e7a-9428-4b96-a94c-546ac76f62fd
+UID:2b48e439-1cee-4d92-8f93-693a3f34696a
 SEQUENCE:0
-DTSTAMP:20251114T171412
+DTSTAMP:20251115T171238
 DTSTART:20260221T131500
 DTEND:20260221T140000
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Maccabi Eagles
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d46c62f8-6596-46bd-80ea-923490024837
+UID:19c44b36-d11d-427b-9ca6-b4e5f16e1767
 SEQUENCE:0
-DTSTAMP:20251114T171412
+DTSTAMP:20251115T171238
 DTSTART:20260228T140000
 DTEND:20260228T144500
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Maccabi Ducks
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Duc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a6f7dcdd-e4d5-4976-a87f-7af3df58f339
+UID:b768cdf6-febf-4a8c-a6d2-64f8341db13c
 SEQUENCE:0
-DTSTAMP:20251114T171412
+DTSTAMP:20251115T171238
 DTSTART:20260314T140000
 DTEND:20260314T144500
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Malvern Tigers Blue

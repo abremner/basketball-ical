@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Talons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:009c367f-efa2-465a-87fb-330ebec9bfea
+UID:2ba45066-6082-46e1-811a-df20e9082538
 SEQUENCE:0
-DTSTAMP:20251114T171403
-DTSTART:20251115T144500
-DTEND:20251115T153000
-SUMMARY:🏀 U12 Girls: Toorak Talons vs Toorak Troublemakers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
-  Troublemakers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:bae14ee8-0e84-4284-a19d-8e3c2dc33bea
-SEQUENCE:0
-DTSTAMP:20251114T171403
+DTSTAMP:20251115T171228
 DTSTART:20251122T144500
 DTEND:20251122T153000
 SUMMARY:🏀 U12 Girls: Toorak Talons vs Malvern Tigers Yellow
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:de69762c-a77f-4163-a94e-620b29d3fd22
+UID:3be1a511-47e9-4073-aa32-c28a662ad088
 SEQUENCE:0
-DTSTAMP:20251114T171403
+DTSTAMP:20251115T171228
 DTSTART:20251129T144500
 DTEND:20251129T153000
 SUMMARY:🏀 U12 Girls: Toorak Talons vs Glen Iris Scorpions Ferndale
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
  is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:27b8b0b5-69b4-4b67-822f-535e4010aa31
+UID:25e26f48-359f-4b49-afc5-b55d66083da2
 SEQUENCE:0
-DTSTAMP:20251114T171403
+DTSTAMP:20251115T171228
 DTSTART:20251206T144500
 DTEND:20251206T153000
 SUMMARY:🏀 U12 Girls: Toorak Talons vs Glen Iris Scorpions Gardiner
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ee118deb-d2a5-41e6-837d-e9fa79a3c65e
+UID:ffc66098-c4a7-4afe-9010-078fbb0559e1
 SEQUENCE:0
-DTSTAMP:20251114T171403
+DTSTAMP:20251115T171228
 DTSTART:20251213T140000
 DTEND:20251213T144500
 SUMMARY:🏀 U12 Girls: Toorak Talons vs Ashy Lightning Gold
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
  ghtning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7bf8081f-955c-4e87-b5d8-af6f3ee6abf3
+UID:40ff8d04-0221-4f18-aafe-dcaa520a96d6
 SEQUENCE:0
-DTSTAMP:20251114T171403
+DTSTAMP:20251115T171228
 DTSTART:20260131T144500
 DTEND:20260131T153000
 SUMMARY:🏀 U12 Girls: Toorak Talons vs Korowa Cherry
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Korowa
  Cherry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a9da7afe-e3f9-4600-987d-986733086f5b
+UID:eae70759-59ae-496c-aab7-8d5fc2221867
 SEQUENCE:0
-DTSTAMP:20251114T171403
+DTSTAMP:20251115T171228
 DTSTART:20260207T140000
 DTEND:20260207T144500
 SUMMARY:🏀 U12 Girls: Toorak Talons vs Aintree Piranhas
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Aintree
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:92a03273-8e8e-4b84-ba1d-587627e35acd
+UID:f7c38bd1-53d5-4f39-b9c3-11579e7b3b6d
 SEQUENCE:0
-DTSTAMP:20251114T171403
+DTSTAMP:20251115T171228
 DTSTART:20260214T140000
 DTEND:20260214T144500
 SUMMARY:🏀 U12 Girls: Toorak Talons vs Toorak Troublemakers
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Troublemakers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8b077d7f-90f9-46f7-9edc-ce67252183f8
+UID:37266fd8-e536-4b0d-990f-072138c7f757
 SEQUENCE:0
-DTSTAMP:20251114T171403
+DTSTAMP:20251115T171228
 DTSTART:20260221T140000
 DTEND:20260221T144500
 SUMMARY:🏀 U12 Girls: Toorak Talons vs Malvern Tigers Yellow
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2e004359-45e5-4539-8407-9fd3beab0da1
+UID:cee24ecf-d2f0-4918-88e4-01455464762b
 SEQUENCE:0
-DTSTAMP:20251114T171403
+DTSTAMP:20251115T171228
 DTSTART:20260228T140000
 DTEND:20260228T144500
 SUMMARY:🏀 U12 Girls: Toorak Talons vs Glen Iris Scorpions Ferndale
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e68016ab-6d77-435e-879f-27eb62717e0b
+UID:0e612785-69af-4ee9-9d61-c0565b34226b
 SEQUENCE:0
-DTSTAMP:20251114T171403
+DTSTAMP:20251115T171228
 DTSTART:20260314T144500
 DTEND:20260314T153000
 SUMMARY:🏀 U12 Girls: Toorak Talons vs Glen Iris Scorpions Gardiner

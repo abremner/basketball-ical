@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:96b8796a-5ba6-485d-a48b-b394c82b159b
+UID:77e7313c-0e19-46f3-ac6e-52e58e73534b
 SEQUENCE:0
-DTSTAMP:20251114T171410
-DTSTART:20251115T140000
-DTEND:20251115T144500
-SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Solway Red Robins
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Red 
- Robins\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:d553f86a-2095-46a0-93b9-1158646585d0
-SEQUENCE:0
-DTSTAMP:20251114T171410
+DTSTAMP:20251115T171236
 DTSTART:20251122T123000
 DTEND:20251122T131500
 SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Lauriston Storm
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Laurist
  on Storm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f8bd0645-bd46-4ef4-ad68-aa7f8f1797ea
+UID:c5da5732-c151-40bc-8574-7007de4880ff
 SEQUENCE:0
-DTSTAMP:20251114T171410
+DTSTAMP:20251115T171236
 DTSTART:20251129T140000
 DTEND:20251129T144500
 SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Korowa Grey
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Korowa Grey
  \nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:832426bb-aa59-474f-8d07-1dc4cfadacb7
+UID:f0a3aa3a-e68c-47fd-8438-36e5396c5fbd
 SEQUENCE:0
-DTSTAMP:20251114T171410
+DTSTAMP:20251115T171236
 DTSTART:20251206T131500
 DTEND:20251206T140000
 SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Maccabi Eagles
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:56dac731-5352-48cf-92fb-4c60640518e2
+UID:84c35ec0-bd1e-4a40-9b05-f180bb82027a
 SEQUENCE:0
-DTSTAMP:20251114T171410
+DTSTAMP:20251115T171236
 DTSTART:20251213T140000
 DTEND:20251213T144500
 SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Malvern Tigers Blue
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:eb82d890-116d-47ca-b559-53c6bb6c58d2
+UID:b8ccb106-caae-447e-8c24-84f19bc9cbd7
 SEQUENCE:0
-DTSTAMP:20251114T171410
+DTSTAMP:20251115T171236
 DTSTART:20260131T140000
 DTEND:20260131T144500
 SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Timberwolves Pearls
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Timberwolve
  s Pearls\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5abb7fd6-cb65-4f28-b293-a2a2723cf785
+UID:1cffb6c7-9847-4900-ba0a-eec4c2b68e9c
 SEQUENCE:0
-DTSTAMP:20251114T171410
+DTSTAMP:20251115T171236
 DTSTART:20260207T131500
 DTEND:20260207T140000
 SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Solway Sparrows
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Sparrows\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e7706cb8-7287-4676-8be6-59813199ca9f
+UID:6c446f62-df9c-43f3-ade8-4fa4c5b56d02
 SEQUENCE:0
-DTSTAMP:20251114T171410
+DTSTAMP:20251115T171236
 DTSTART:20260214T123000
 DTEND:20260214T131500
 SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Maccabi Ducks
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:21282e9b-6c61-4497-93c9-6ba98b3dfedb
+UID:595efd3a-6731-45d0-a724-6d50a6b1ce2c
 SEQUENCE:0
-DTSTAMP:20251114T171410
+DTSTAMP:20251115T171236
 DTSTART:20260228T140000
 DTEND:20260228T144500
 SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Solway Red Robins
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Red
  Robins\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:48fcb286-0d21-45d6-ab79-a0050e3bd60e
+UID:52630f12-158e-4fbd-8799-8bbb0de0b249
 SEQUENCE:0
-DTSTAMP:20251114T171410
+DTSTAMP:20251115T171236
 DTSTART:20260314T123000
 DTEND:20260314T131500
 SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Lauriston Storm

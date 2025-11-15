@@ -6,20 +6,9 @@ X-WR-CALNAME:Balaclava Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b7ef44b3-a20d-4777-93a8-c1d50478d9b0
+UID:fa9005f0-2c07-4058-810b-e32026edc311
 SEQUENCE:0
-DTSTAMP:20251114T171341
-DTSTART:20251115T131500
-DTEND:20251115T140000
-SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Maccabi Jaguars
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Jaguars\nArrive 15 mi
- ns early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:bec41a26-2898-4d2c-b252-cdd206ea72b5
-SEQUENCE:0
-DTSTAMP:20251114T171341
+DTSTAMP:20251115T171206
 DTSTART:20251122T131500
 DTEND:20251122T140000
 SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Timberwolves Chargers
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Chargers\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bff211df-88ec-40f4-adff-85a64ad4ecfd
+UID:eb9be3a7-0832-4ff4-985e-4d4cc7345d9d
 SEQUENCE:0
-DTSTAMP:20251114T171341
+DTSTAMP:20251115T171206
 DTSTART:20251129T123000
 DTEND:20251129T131500
 SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Maccabi Hawks
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Hawks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1b2e9533-fd93-4a0b-b676-e1460cf43386
+UID:f32d2638-3f13-4d14-9808-7ae9211f9a12
 SEQUENCE:0
-DTSTAMP:20251114T171341
+DTSTAMP:20251115T171206
 DTSTART:20251206T123000
 DTEND:20251206T131500
 SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Golden Hawks Rising
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Golden
  Hawks Rising\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4834bfa0-a25b-46bb-b1b7-188e903a9cee
+UID:55085cba-0605-4cf1-8f36-7c8ac31dc8bf
 SEQUENCE:0
-DTSTAMP:20251114T171341
+DTSTAMP:20251115T171206
 DTSTART:20251213T123000
 DTEND:20251213T131500
 SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Malvern Tigers Maroon
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Maroon\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ba35dc53-e6f8-42f6-9cc7-fc48c8ea6716
+UID:4c428b62-96c5-44db-a231-4abbc210bba7
 SEQUENCE:0
-DTSTAMP:20251114T171341
+DTSTAMP:20251115T171206
 DTSTART:20260131T123000
 DTEND:20260131T131500
 SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Solway Panthers
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Panthers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:784e23b5-5e61-4ac4-982e-c9a5129ed01f
+UID:d8db21a3-69ff-42c6-bf4c-1f54b78932a7
 SEQUENCE:0
-DTSTAMP:20251114T171341
+DTSTAMP:20251115T171206
 DTSTART:20260207T131500
 DTEND:20260207T140000
 SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Timberwolves Suns
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Suns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0abd3ee0-8443-441e-9052-3da90b9b991f
+UID:2582d60c-b499-4d7f-8990-f387f08e3b84
 SEQUENCE:0
-DTSTAMP:20251114T171341
+DTSTAMP:20251115T171206
 DTSTART:20260221T131500
 DTEND:20260221T140000
 SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Solway  Devils
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
   Devils\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:31a903cf-144c-4152-8e8b-58d6c66ce31e
+UID:5aed3c7e-9569-49a9-8428-51a9f3c842ee
 SEQUENCE:0
-DTSTAMP:20251114T171341
+DTSTAMP:20251115T171206
 DTSTART:20260228T131500
 DTEND:20260228T140000
 SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Maccabi Jaguars
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Jaguars\nArrive 15 mi
  ns early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0d00cd00-3f1b-41fd-84e7-aae960f54897
+UID:961fa3c1-7eb4-4c2a-b3f6-b141b5ccdded
 SEQUENCE:0
-DTSTAMP:20251114T171341
+DTSTAMP:20251115T171206
 DTSTART:20260314T131500
 DTEND:20260314T140000
 SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Timberwolves Chargers

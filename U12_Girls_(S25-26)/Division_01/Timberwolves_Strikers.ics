@@ -6,20 +6,9 @@ X-WR-CALNAME:Timberwolves Strikers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:7bf39b69-ecf8-444a-9d5d-1f6a75c2b0c4
+UID:50f6bd53-4e89-44ac-8dd4-c6fa71016608
 SEQUENCE:0
-DTSTAMP:20251114T171359
-DTSTART:20251115T140000
-DTEND:20251115T144500
-SUMMARY:🏀 U12 Girls: Timberwolves Strikers vs Malvern Tigers Red
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
- n Tigers Red\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:11a59d96-a1fe-4313-b341-3549d77ac16d
-SEQUENCE:0
-DTSTAMP:20251114T171359
+DTSTAMP:20251115T171225
 DTSTART:20251122T144500
 DTEND:20251122T153000
 SUMMARY:🏀 U12 Girls: Timberwolves Strikers vs Comets Rubies
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Comets
   Rubies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f4ff76f1-efca-4eeb-ae8d-5c31bfbadf1a
+UID:de94dada-e848-40b1-a14b-0b3e7dd7a761
 SEQUENCE:0
-DTSTAMP:20251114T171359
+DTSTAMP:20251115T171225
 DTSTART:20251129T140000
 DTEND:20251129T144500
 SUMMARY:🏀 U12 Girls: Timberwolves Strikers vs Solway Crows
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Crows\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6c2f70ec-91b8-4aac-a394-78fcefb1ff55
+UID:22ace8cd-4c9e-4e1a-8775-52ae07272c7e
 SEQUENCE:0
-DTSTAMP:20251114T171359
+DTSTAMP:20251115T171225
 DTSTART:20251206T144500
 DTEND:20251206T153000
 SUMMARY:🏀 U12 Girls: Timberwolves Strikers vs Malvern Tigers Black
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c32e7882-1172-4f5f-9620-a48b3d3e7c93
+UID:52e08b75-f5bc-40f6-a0d9-4b8d5b0322a2
 SEQUENCE:0
-DTSTAMP:20251114T171359
+DTSTAMP:20251115T171225
 DTSTART:20251213T144500
 DTEND:20251213T153000
 SUMMARY:🏀 U12 Girls: Timberwolves Strikers vs Yanakie Piranhas
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Yanaki
  e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:066c5e0a-af40-4d7e-a768-67c9b1c2d984
+UID:bbccc245-9e84-4adb-b445-53ce8cf16223
 SEQUENCE:0
-DTSTAMP:20251114T171359
+DTSTAMP:20251115T171225
 DTSTART:20260131T140000
 DTEND:20260131T144500
 SUMMARY:🏀 U12 Girls: Timberwolves Strikers vs Malvern Tigers Red
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dfce6823-e985-4a78-aac6-5164c7b840fa
+UID:84f22b9b-93ac-4fb0-a5dc-6955c34b000a
 SEQUENCE:0
-DTSTAMP:20251114T171359
+DTSTAMP:20251115T171225
 DTSTART:20260207T144500
 DTEND:20260207T153000
 SUMMARY:🏀 U12 Girls: Timberwolves Strikers vs Comets Rubies
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
   Rubies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:abb40edc-1789-4cef-84b1-c6d0a50be237
+UID:d6918975-165d-49eb-b96c-e809d59fdcdb
 SEQUENCE:0
-DTSTAMP:20251114T171359
+DTSTAMP:20251115T171225
 DTSTART:20260214T140000
 DTEND:20260214T144500
 SUMMARY:🏀 U12 Girls: Timberwolves Strikers vs Solway Crows
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Crows\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c3b006c9-1d92-481c-986b-15fa977316ae
+UID:6fcc16b1-016b-4ca2-b5e1-7dbb4a7c12a9
 SEQUENCE:0
-DTSTAMP:20251114T171359
+DTSTAMP:20251115T171225
 DTSTART:20260221T144500
 DTEND:20260221T153000
 SUMMARY:🏀 U12 Girls: Timberwolves Strikers vs Malvern Tigers Black
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:49bf3fa8-4f47-447a-8734-a731c2ec1a54
+UID:142a4b1b-fbcc-4dac-92fc-ec320ba17944
 SEQUENCE:0
-DTSTAMP:20251114T171359
+DTSTAMP:20251115T171225
 DTSTART:20260228T144500
 DTEND:20260228T153000
 SUMMARY:🏀 U12 Girls: Timberwolves Strikers vs Yanakie Piranhas
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Yanaki
  e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7a1d5637-d420-45bb-8ac4-de7ac3bc3dcd
+UID:42a05aca-02e2-4ad2-b53f-6a5d85cc4fd6
 SEQUENCE:0
-DTSTAMP:20251114T171359
+DTSTAMP:20251115T171225
 DTSTART:20260314T140000
 DTEND:20260314T144500
 SUMMARY:🏀 U12 Girls: Timberwolves Strikers vs Malvern Tigers Red

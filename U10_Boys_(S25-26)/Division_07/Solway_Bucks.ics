@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:678a02b4-ed2e-465c-8f4d-011e193798e5
+UID:a3d5d1e7-7c1e-4479-84e7-42475ca0198c
 SEQUENCE:0
-DTSTAMP:20251114T171244
-DTSTART:20251115T080000
-DTEND:20251115T084500
-SUMMARY:🏀 U10 Boys: Solway Bucks vs Malvern Tigers Brown
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
- n Tigers Brown\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:61e6f6ea-7b48-40e5-859b-ff61f9fec4a7
-SEQUENCE:0
-DTSTAMP:20251114T171244
+DTSTAMP:20251115T171109
 DTSTART:20251122T093000
 DTEND:20251122T101500
 SUMMARY:🏀 U10 Boys: Solway Bucks vs Comets Snake
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Comets
   Snake\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bf91179e-9275-4be4-9537-1f48ac53c505
+UID:dd878ad1-59bf-4de1-8283-9835b5161b94
 SEQUENCE:0
-DTSTAMP:20251114T171244
+DTSTAMP:20251115T171109
 DTSTART:20251129T080000
 DTEND:20251129T084500
 SUMMARY:🏀 U10 Boys: Solway Bucks vs Solway Grizzlies
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Grizzlies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6c226c18-f545-496b-8728-de96d5bd7fc0
+UID:cbb2573c-d462-468e-a98e-03532dcd543f
 SEQUENCE:0
-DTSTAMP:20251114T171244
+DTSTAMP:20251115T171109
 DTSTART:20251206T084500
 DTEND:20251206T093000
 SUMMARY:🏀 U10 Boys: Solway Bucks vs Timberwolves Lightning
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b2e9c493-17f4-4fc9-b0f7-0b306c97abff
+UID:af843f55-2f07-4260-910d-0758b662f67d
 SEQUENCE:0
-DTSTAMP:20251114T171244
+DTSTAMP:20251115T171109
 DTSTART:20251213T093000
 DTEND:20251213T101500
 SUMMARY:🏀 U10 Boys: Solway Bucks vs Solway Thunder
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4a615218-a52f-42af-ae51-653fff469eb2
+UID:9164a01e-4f34-4efe-b373-abc29c5abbe4
 SEQUENCE:0
-DTSTAMP:20251114T171244
+DTSTAMP:20251115T171109
 DTSTART:20260131T084500
 DTEND:20260131T093000
 SUMMARY:🏀 U10 Boys: Solway Bucks vs Malvern Tigers Brown
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:39b9137c-c72a-4150-949b-d5874253cf1e
+UID:596adc35-10ef-431b-ac80-61aad5eb7c03
 SEQUENCE:0
-DTSTAMP:20251114T171244
+DTSTAMP:20251115T171109
 DTSTART:20260207T080000
 DTEND:20260207T084500
 SUMMARY:🏀 U10 Boys: Solway Bucks vs Comets Snake
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Comets
   Snake\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:de6b00a3-cbb9-4e0e-bd95-0d5d9c03a8f7
+UID:2b881543-6658-4aa2-b4b0-aae13d744ea6
 SEQUENCE:0
-DTSTAMP:20251114T171244
+DTSTAMP:20251115T171109
 DTSTART:20260214T093000
 DTEND:20260214T101500
 SUMMARY:🏀 U10 Boys: Solway Bucks vs Solway Grizzlies
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Grizzlies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5c64778c-663c-4dbc-a2ee-4334ded96b48
+UID:28c18d77-7aa2-4c68-a5bb-7b2ec41d237f
 SEQUENCE:0
-DTSTAMP:20251114T171244
+DTSTAMP:20251115T171109
 DTSTART:20260221T084500
 DTEND:20260221T093000
 SUMMARY:🏀 U10 Boys: Solway Bucks vs Timberwolves Lightning
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c62866b9-6e82-499e-bc5a-4dd2cf029231
+UID:2ce1d4be-2a6b-4d85-b0e0-8ca280c1641a
 SEQUENCE:0
-DTSTAMP:20251114T171244
+DTSTAMP:20251115T171109
 DTSTART:20260228T093000
 DTEND:20260228T101500
 SUMMARY:🏀 U10 Boys: Solway Bucks vs Solway Thunder
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6fd80e1d-f8e8-44b1-9d50-39df6a7bab77
+UID:2216eacc-2fd8-436b-b839-bd3b439b68ee
 SEQUENCE:0
-DTSTAMP:20251114T171244
+DTSTAMP:20251115T171109
 DTSTART:20260314T084500
 DTEND:20260314T093000
 SUMMARY:🏀 U10 Boys: Solway Bucks vs Malvern Tigers Brown

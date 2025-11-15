@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Celtics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:274f250e-c6e4-47c3-8d11-37470f85f10e
+UID:7dfd3459-83ee-466e-9a6c-9060214dfba4
 SEQUENCE:0
-DTSTAMP:20251114T171207
-DTSTART:20251115T084500
-DTEND:20251115T093000
-SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Solway Chargers
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
- Chargers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:c62d5df4-d06d-4aa1-8eed-a38ce944d51c
-SEQUENCE:0
-DTSTAMP:20251114T171207
+DTSTAMP:20251115T171033
 DTSTART:20251122T101500
 DTEND:20251122T110000
 SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Renwick Piranhas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Renwick
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1e45ce3b-6581-4347-b397-54ded2363230
+UID:8d25f0d0-60a5-42a6-9fb1-c7c3b9e2f23f
 SEQUENCE:0
-DTSTAMP:20251114T171207
+DTSTAMP:20251115T171033
 DTSTART:20251129T110000
 DTEND:20251129T114500
 SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Ashy Lightning Green
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:232e8884-bb9b-4789-a90f-1ed7e4f22a4e
+UID:e0dadb15-ad5b-49e8-b94b-bc7d45a73b3b
 SEQUENCE:0
-DTSTAMP:20251114T171207
+DTSTAMP:20251115T171033
 DTSTART:20251213T093000
 DTEND:20251213T101500
 SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Golden Hawks Sky
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Golden
  Hawks Sky\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9b17d548-a4b1-4d01-b200-2851b90b2279
+UID:e9374ebc-ef8b-4123-a827-1d63a07bc1ca
 SEQUENCE:0
-DTSTAMP:20251114T171207
+DTSTAMP:20251115T171033
 DTSTART:20260131T093000
 DTEND:20260131T101500
 SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Malvern Tigers Baynes
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Baynes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4bea88e5-ad4f-41f0-a0d0-616974005a7d
+UID:60f237a6-d2eb-46a4-a665-039383ca4f36
 SEQUENCE:0
-DTSTAMP:20251114T171207
+DTSTAMP:20251115T171033
 DTSTART:20260207T101500
 DTEND:20260207T110000
 SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Timberwolves Pythons
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Pythons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:932eeaa5-0da3-40a8-8979-12a16ef25d79
+UID:c84775e2-2713-4d15-8267-2c5db58b0155
 SEQUENCE:0
-DTSTAMP:20251114T171207
+DTSTAMP:20251115T171033
 DTSTART:20260214T084500
 DTEND:20260214T093000
 SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Dorrington Piranhas
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Dorring
  ton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a5edf867-435d-4bf2-a8a9-12506af17c07
+UID:c77db05d-98a5-44a2-a8a6-486ab6a4add9
 SEQUENCE:0
-DTSTAMP:20251114T171207
+DTSTAMP:20251115T171033
 DTSTART:20260221T110000
 DTEND:20260221T114500
 SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Glen Iris Scorpions Gardiner
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bfa8a08f-f9da-46a7-9b15-642fbf34e50e
+UID:7f74f9d4-1e9c-4731-abd4-95ada559d89e
 SEQUENCE:0
-DTSTAMP:20251114T171207
+DTSTAMP:20251115T171033
 DTSTART:20260228T084500
 DTEND:20260228T093000
 SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Solway Chargers
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Chargers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9b4709be-ea0d-4324-bcbc-8ab47b596496
+UID:f9072ec8-1901-4d1c-861d-4824c2cf9bc9
 SEQUENCE:0
-DTSTAMP:20251114T171207
+DTSTAMP:20251115T171033
 DTSTART:20260314T101500
 DTEND:20260314T110000
 SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Renwick Piranhas

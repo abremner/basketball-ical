@@ -6,20 +6,9 @@ X-WR-CALNAME:AlphaWolf Tornados Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:401b5baf-c92b-4282-b1a5-90c34d46a73f
+UID:455afdea-5b1c-47d6-b464-25789290939e
 SEQUENCE:0
-DTSTAMP:20251114T171517
-DTSTART:20251115T191500
-DTEND:20251115T200000
-SUMMARY:🏀 U16 Boys: AlphaWolf Tornados vs Maccabi Haifa
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
- i Haifa\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:40c3190a-bc02-422e-be69-f6064aaf2689
-SEQUENCE:0
-DTSTAMP:20251114T171517
+DTSTAMP:20251115T171342
 DTSTART:20251122T191500
 DTEND:20251122T200000
 SUMMARY:🏀 U16 Boys: AlphaWolf Tornados vs Malvern Tigers White
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:db6e71cf-6e3d-4eb0-9540-74918f17dccf
+UID:d2f4d4bf-7f59-4fa8-9579-f4615d4d0e2f
 SEQUENCE:0
-DTSTAMP:20251114T171517
+DTSTAMP:20251115T171342
 DTSTART:20251129T191500
 DTEND:20251129T200000
 SUMMARY:🏀 U16 Boys: AlphaWolf Tornados vs Glen Iris Scorpions Saints
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
  is Scorpions Saints\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:da206d6f-8027-4bc2-972b-efde4dda92aa
+UID:0f2f2ab3-92e0-40a3-923b-54155ec82f46
 SEQUENCE:0
-DTSTAMP:20251114T171517
+DTSTAMP:20251115T171342
 DTSTART:20251206T191500
 DTEND:20251206T200000
 SUMMARY:🏀 U16 Boys: AlphaWolf Tornados vs Glen Iris Scorpions Sixers
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Sixers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:49f3d4e8-0a0a-439e-bf5d-4cef025c9548
+UID:4b24c26b-532b-457a-8117-24e719accea0
 SEQUENCE:0
-DTSTAMP:20251114T171517
+DTSTAMP:20251115T171342
 DTSTART:20251213T191500
 DTEND:20251213T200000
 SUMMARY:🏀 U16 Boys: AlphaWolf Tornados vs Toorak Trackers
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Trackers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:96ea2ef5-3a50-430d-841c-12f069bbef54
+UID:6750aca4-8822-44ce-89e4-0cc9a8c02d92
 SEQUENCE:0
-DTSTAMP:20251114T171517
+DTSTAMP:20251115T171342
 DTSTART:20260131T191500
 DTEND:20260131T200000
 SUMMARY:🏀 U16 Boys: AlphaWolf Tornados vs Maccabi Haifa
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Haifa\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d3d7453c-3f16-4343-9275-d672b1d6d1fe
+UID:60c50252-3c40-42b8-9497-5d43db7089fc
 SEQUENCE:0
-DTSTAMP:20251114T171517
+DTSTAMP:20251115T171342
 DTSTART:20260207T191500
 DTEND:20260207T200000
 SUMMARY:🏀 U16 Boys: AlphaWolf Tornados vs Malvern Tigers White
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7a1e1f8a-e54c-4ade-bb77-2949a242941d
+UID:e516f06d-a765-418c-a915-160b9fe2e961
 SEQUENCE:0
-DTSTAMP:20251114T171517
+DTSTAMP:20251115T171342
 DTSTART:20260214T183000
 DTEND:20260214T191500
 SUMMARY:🏀 U16 Boys: AlphaWolf Tornados vs Glen Iris Scorpions Saints
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Saints\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ca928885-5bc8-41c8-9d0c-cecdc15593d2
+UID:86e5e8cc-9ebd-4502-8197-5223b6f0871a
 SEQUENCE:0
-DTSTAMP:20251114T171517
+DTSTAMP:20251115T171342
 DTSTART:20260221T191500
 DTEND:20260221T200000
 SUMMARY:🏀 U16 Boys: AlphaWolf Tornados vs Glen Iris Scorpions Sixers
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
  is Scorpions Sixers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e31e477d-de82-45b4-8f9e-9766a1de40a5
+UID:e8831696-ae6f-4e8e-9aa8-55abd234ff39
 SEQUENCE:0
-DTSTAMP:20251114T171517
+DTSTAMP:20251115T171342
 DTSTART:20260228T191500
 DTEND:20260228T200000
 SUMMARY:🏀 U16 Boys: AlphaWolf Tornados vs Toorak Trackers
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak
  Trackers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b433d408-a9f0-4621-bba0-94305254dd7a
+UID:f69c8703-1ce9-4340-b62d-e33d92767510
 SEQUENCE:0
-DTSTAMP:20251114T171517
+DTSTAMP:20251115T171342
 DTSTART:20260314T183000
 DTEND:20260314T191500
 SUMMARY:🏀 U16 Boys: AlphaWolf Tornados vs Maccabi Haifa

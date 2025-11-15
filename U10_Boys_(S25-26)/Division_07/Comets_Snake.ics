@@ -6,20 +6,9 @@ X-WR-CALNAME:Comets Snake Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:1d45d2d8-6b04-4389-a0f4-8bf2c98dfced
+UID:ac948ece-d0a1-418c-bee0-994b386ae156
 SEQUENCE:0
-DTSTAMP:20251114T171243
-DTSTART:20251115T093000
-DTEND:20251115T101500
-SUMMARY:🏀 U10 Boys: Comets Snake vs Timberwolves Lightning
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
- wolves Lightning\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:200d76ce-9a23-4e15-8783-de4e3e837691
-SEQUENCE:0
-DTSTAMP:20251114T171243
+DTSTAMP:20251115T171109
 DTSTART:20251122T093000
 DTEND:20251122T101500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Solway Bucks
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:baa5f1a0-d03f-4406-8aab-e2420f158c12
+UID:ef60ae4d-e8d2-4a63-b59b-70b074868c2a
 SEQUENCE:0
-DTSTAMP:20251114T171243
+DTSTAMP:20251115T171109
 DTSTART:20251129T084500
 DTEND:20251129T093000
 SUMMARY:🏀 U10 Boys: Comets Snake vs Solway Thunder
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8e351ee3-e6a1-4419-82a9-94e7f9430068
+UID:6a196b0d-08ae-4181-a1a0-36d441961890
 SEQUENCE:0
-DTSTAMP:20251114T171243
+DTSTAMP:20251115T171109
 DTSTART:20251206T093000
 DTEND:20251206T101500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Solway Grizzlies
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Grizzlies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c0be48dc-6a13-4db4-9a11-f704587d61f4
+UID:6bc93a1e-9455-422c-b056-c0585ab3eef3
 SEQUENCE:0
-DTSTAMP:20251114T171243
+DTSTAMP:20251115T171109
 DTSTART:20251213T080000
 DTEND:20251213T084500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Malvern Tigers Brown
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:06645dd5-3d9c-49ac-a9c7-3bccca8f456f
+UID:e1486469-3b25-4914-957a-6e7c9eb27479
 SEQUENCE:0
-DTSTAMP:20251114T171243
+DTSTAMP:20251115T171109
 DTSTART:20260131T093000
 DTEND:20260131T101500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Timberwolves Lightning
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0feef1e6-bd7d-4d49-a247-dc0fd298d12e
+UID:3eb07262-c2e1-402c-a4f4-0255d830052e
 SEQUENCE:0
-DTSTAMP:20251114T171243
+DTSTAMP:20251115T171109
 DTSTART:20260207T080000
 DTEND:20260207T084500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Solway Bucks
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ee24bbdd-48b5-427c-8fe2-689052bb6242
+UID:b82ae495-033b-459a-a596-b6c5b8b4c117
 SEQUENCE:0
-DTSTAMP:20251114T171243
+DTSTAMP:20251115T171109
 DTSTART:20260214T084500
 DTEND:20260214T093000
 SUMMARY:🏀 U10 Boys: Comets Snake vs Solway Thunder
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:193b87b2-f8f5-4bbd-8012-75b26fb5e3fc
+UID:e5d3f4eb-795b-4bee-b3ed-42172ac3ae75
 SEQUENCE:0
-DTSTAMP:20251114T171243
+DTSTAMP:20251115T171109
 DTSTART:20260221T080000
 DTEND:20260221T084500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Solway Grizzlies
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Grizzlies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:63b070d4-d038-4100-94af-c55663c3966d
+UID:ec7b5653-b19a-488b-a698-8fc562c1a067
 SEQUENCE:0
-DTSTAMP:20251114T171243
+DTSTAMP:20251115T171109
 DTSTART:20260228T084500
 DTEND:20260228T093000
 SUMMARY:🏀 U10 Boys: Comets Snake vs Malvern Tigers Brown
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:17829a95-3536-4910-94c5-1373f4e78e23
+UID:dc3b9e8a-f5ab-4799-b72a-0d23e45dd4e2
 SEQUENCE:0
-DTSTAMP:20251114T171243
+DTSTAMP:20251115T171109
 DTSTART:20260314T080000
 DTEND:20260314T084500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Timberwolves Lightning

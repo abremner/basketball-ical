@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Eagles Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:7ca8fc93-32b3-4b8a-85cb-c7c87d73409d
+UID:51beaaf2-e6a5-4428-8bf9-19f4e73f0a7f
 SEQUENCE:0
-DTSTAMP:20251114T171321
-DTSTART:20251115T110000
-DTEND:20251115T114500
-SUMMARY:🏀 U10 Girls: Maccabi Eagles vs Lauriston Flames
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston F
- lames\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:a8429b9c-f387-42b1-b9ba-cd0d68ede68d
-SEQUENCE:0
-DTSTAMP:20251114T171321
+DTSTAMP:20251115T171146
 DTSTART:20251122T084500
 DTEND:20251122T093000
 SUMMARY:🏀 U10 Girls: Maccabi Eagles vs Maccabi Falcons
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:aaa0610b-b0c0-41ff-8092-73535f6351c2
+UID:82c93220-8272-4930-a082-a06b8f68a2c3
 SEQUENCE:0
-DTSTAMP:20251114T171321
+DTSTAMP:20251115T171146
 DTSTART:20251129T093000
 DTEND:20251129T101500
 SUMMARY:🏀 U10 Girls: Maccabi Eagles vs Timberwolves Swifts
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Swifts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e7a44868-0a1a-4d93-8d59-e75d866485bd
+UID:b3f10e97-460f-4fd9-8fa6-1c8fc5f720dc
 SEQUENCE:0
-DTSTAMP:20251114T171321
+DTSTAMP:20251115T171146
 DTSTART:20251206T084500
 DTEND:20251206T093000
 SUMMARY:🏀 U10 Girls: Maccabi Eagles vs Glen Iris Scorpions Nettleton
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a27730ca-4aa6-446d-9b16-2352700378c2
+UID:f5b9e134-1c28-4ba2-975d-2279e76e381a
 SEQUENCE:0
-DTSTAMP:20251114T171321
+DTSTAMP:20251115T171146
 DTSTART:20251213T084500
 DTEND:20251213T093000
 SUMMARY:🏀 U10 Girls: Maccabi Eagles vs Maccabi Ducks
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8b6fbe02-be57-49dc-8825-3b4bb2274f17
+UID:93d2a289-0f62-4299-b3e3-437e2beffd38
 SEQUENCE:0
-DTSTAMP:20251114T171321
+DTSTAMP:20251115T171146
 DTSTART:20260131T110000
 DTEND:20260131T114500
 SUMMARY:🏀 U10 Girls: Maccabi Eagles vs Lauriston Flames
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston F
  lames\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:403b244a-9d51-435c-ac34-e1c9734ebd3d
+UID:e0fca16b-6d27-4671-8eb7-f39f1eba4cae
 SEQUENCE:0
-DTSTAMP:20251114T171321
+DTSTAMP:20251115T171146
 DTSTART:20260207T084500
 DTEND:20260207T093000
 SUMMARY:🏀 U10 Girls: Maccabi Eagles vs Maccabi Falcons
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a58e77d6-a447-4684-918c-7214bd2ab57f
+UID:e255e455-0adc-422a-9577-598bb8d9e0d5
 SEQUENCE:0
-DTSTAMP:20251114T171321
+DTSTAMP:20251115T171146
 DTSTART:20260214T093000
 DTEND:20260214T101500
 SUMMARY:🏀 U10 Girls: Maccabi Eagles vs Timberwolves Swifts
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Swifts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2d81cf7a-11a5-468e-b7b2-4bd97bbff1b9
+UID:8237028f-1dfb-4a00-b9ae-daa901e7b0e5
 SEQUENCE:0
-DTSTAMP:20251114T171321
+DTSTAMP:20251115T171146
 DTSTART:20260221T084500
 DTEND:20260221T093000
 SUMMARY:🏀 U10 Girls: Maccabi Eagles vs Glen Iris Scorpions Nettleton
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cf8404f8-93b9-43af-85f7-d8d6f7c1ec02
+UID:4bfb731c-46ab-4c8f-832f-ebc28b241cb5
 SEQUENCE:0
-DTSTAMP:20251114T171321
+DTSTAMP:20251115T171146
 DTSTART:20260228T084500
 DTEND:20260228T093000
 SUMMARY:🏀 U10 Girls: Maccabi Eagles vs Maccabi Ducks
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:60929e60-5fb7-47da-8816-41e5f723ab93
+UID:268e9e21-b740-4266-a23c-6c10f71eadc4
 SEQUENCE:0
-DTSTAMP:20251114T171321
+DTSTAMP:20251115T171146
 DTSTART:20260314T110000
 DTEND:20260314T114500
 SUMMARY:🏀 U10 Girls: Maccabi Eagles vs Lauriston Flames

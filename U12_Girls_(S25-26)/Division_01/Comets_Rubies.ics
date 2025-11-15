@@ -6,20 +6,9 @@ X-WR-CALNAME:Comets Rubies Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c1ad05e1-819c-4c4b-a86f-e56a8f111527
+UID:82f94fa2-0e2d-4d9c-971d-f78671fd1e23
 SEQUENCE:0
-DTSTAMP:20251114T171358
-DTSTART:20251115T144500
-DTEND:20251115T153000
-SUMMARY:🏀 U12 Girls: Comets Rubies vs Yanakie Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Yanaki
- e Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:d841db81-362e-49d1-b9c5-8f74a6a02789
-SEQUENCE:0
-DTSTAMP:20251114T171358
+DTSTAMP:20251115T171223
 DTSTART:20251122T144500
 DTEND:20251122T153000
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Timberwolves Strikers
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Strikers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:55a1045d-0ef3-4285-b805-b8980ec2e02b
+UID:4a0b6b6c-43b6-401a-af1b-e7ef59b37d05
 SEQUENCE:0
-DTSTAMP:20251114T171358
+DTSTAMP:20251115T171223
 DTSTART:20251129T144500
 DTEND:20251129T153000
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Malvern Tigers Red
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:43c0b72c-0d3e-49c4-a54c-327e502a8489
+UID:ea0956cf-af30-4762-8942-55f3df358cd3
 SEQUENCE:0
-DTSTAMP:20251114T171358
+DTSTAMP:20251115T171223
 DTSTART:20251206T144500
 DTEND:20251206T153000
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Solway Crows
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Crows\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:53081d1d-36e9-403a-ae3f-09c26763d20c
+UID:ba9ddd7e-cdb9-4c3b-b0ae-aec344e63d0c
 SEQUENCE:0
-DTSTAMP:20251114T171358
+DTSTAMP:20251115T171223
 DTSTART:20251213T144500
 DTEND:20251213T153000
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Malvern Tigers Black
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:741836f4-cd6c-4a5f-b0fb-02142a6f2ab6
+UID:7768d5be-2487-4c34-b665-cb7af137f4db
 SEQUENCE:0
-DTSTAMP:20251114T171358
+DTSTAMP:20251115T171223
 DTSTART:20260131T144500
 DTEND:20260131T153000
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Yanakie Piranhas
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Yanaki
  e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e5e1c365-40e9-45af-8104-8d0d4d0fe0cd
+UID:b15c22a7-c61b-4e7d-9c1b-ea08686d8385
 SEQUENCE:0
-DTSTAMP:20251114T171358
+DTSTAMP:20251115T171223
 DTSTART:20260207T144500
 DTEND:20260207T153000
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Timberwolves Strikers
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Strikers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7715c585-3fe2-4e58-aef6-6c411ebcfe26
+UID:33fd1385-76ec-4b92-ad2d-90f2dd253637
 SEQUENCE:0
-DTSTAMP:20251114T171358
+DTSTAMP:20251115T171223
 DTSTART:20260214T144500
 DTEND:20260214T153000
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Malvern Tigers Red
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b5a98b76-526d-4db1-9bcd-14e15f2b7025
+UID:4092a599-52d0-4116-874a-4e7bff50ef45
 SEQUENCE:0
-DTSTAMP:20251114T171358
+DTSTAMP:20251115T171223
 DTSTART:20260221T144500
 DTEND:20260221T153000
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Solway Crows
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Crows\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3b96f162-af71-4a82-a256-dc5f2496b388
+UID:a8e18089-936b-4d87-84de-11ca3298dc20
 SEQUENCE:0
-DTSTAMP:20251114T171358
+DTSTAMP:20251115T171223
 DTSTART:20260228T144500
 DTEND:20260228T153000
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Malvern Tigers Black
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:28207381-e428-4ee0-9ea5-b75ace9c431b
+UID:8d95eb18-bb2b-487d-9675-ecc876f218de
 SEQUENCE:0
-DTSTAMP:20251114T171358
+DTSTAMP:20251115T171223
 DTSTART:20260314T144500
 DTEND:20260314T153000
 SUMMARY:🏀 U12 Girls: Comets Rubies vs Yanakie Piranhas

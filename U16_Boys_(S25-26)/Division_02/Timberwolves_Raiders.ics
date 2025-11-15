@@ -6,20 +6,9 @@ X-WR-CALNAME:Timberwolves Raiders Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:ef3dcf8e-80cc-47a4-90e7-6d86b9db22cb
+UID:2e7e3cbe-9363-4c01-a2f4-6034fdcb1294
 SEQUENCE:0
-DTSTAMP:20251114T171509
-DTSTART:20251115T191500
-DTEND:20251115T200000
-SUMMARY:🏀 U16 Boys: Timberwolves Raiders vs Arax
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
- Arrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:3ca5df9b-5bd5-419a-a452-8e11e08f14da
-SEQUENCE:0
-DTSTAMP:20251114T171509
+DTSTAMP:20251115T171335
 DTSTART:20251122T191500
 DTEND:20251122T200000
 SUMMARY:🏀 U16 Boys: Timberwolves Raiders vs Toorak Tropics
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
   Tropics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:be021663-a9d2-467b-be90-8b95c4ddd258
+UID:008ca9ee-213a-4d8e-adb9-ca9ad8168e61
 SEQUENCE:0
-DTSTAMP:20251114T171509
+DTSTAMP:20251115T171335
 DTSTART:20251129T183000
 DTEND:20251129T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Raiders vs Solway Blazers
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Blazers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dc95ec85-8988-432a-890f-072348a256da
+UID:701e492f-a999-441d-80fd-0ca66a9ff5b2
 SEQUENCE:0
-DTSTAMP:20251114T171509
+DTSTAMP:20251115T171335
 DTSTART:20251206T183000
 DTEND:20251206T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Raiders vs Maccabi Warriors
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c2dc4785-9b56-4460-af57-d187a94cc2af
+UID:71224950-a4f0-4dee-8dc9-bdd84eb176d3
 SEQUENCE:0
-DTSTAMP:20251114T171509
+DTSTAMP:20251115T171335
 DTSTART:20260131T174500
 DTEND:20260131T183000
 SUMMARY:🏀 U16 Boys: Timberwolves Raiders vs Timberwolves Taipans
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Taipans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f74c7731-b21d-409d-94bd-beb67eaf7294
+UID:8f421ec5-53d2-4ae7-a176-849abd3181ff
 SEQUENCE:0
-DTSTAMP:20251114T171509
+DTSTAMP:20251115T171335
 DTSTART:20260207T174500
 DTEND:20260207T183000
 SUMMARY:🏀 U16 Boys: Timberwolves Raiders vs Timberwolves Cats
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Cats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d52bf3f6-e43a-4ee3-8890-98427e21cd60
+UID:977f4676-43ac-4f9f-aecc-eafceb418f0c
 SEQUENCE:0
-DTSTAMP:20251114T171509
+DTSTAMP:20251115T171335
 DTSTART:20260214T191500
 DTEND:20260214T200000
 SUMMARY:🏀 U16 Boys: Timberwolves Raiders vs Arax
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8800b7af-cf31-4185-ab95-6579dc2fd177
+UID:eb6b3832-64e8-4057-aa1d-857740d06cf4
 SEQUENCE:0
-DTSTAMP:20251114T171509
+DTSTAMP:20251115T171335
 DTSTART:20260221T191500
 DTEND:20260221T200000
 SUMMARY:🏀 U16 Boys: Timberwolves Raiders vs Toorak Tropics
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
   Tropics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:92b35fa9-dcc6-4489-8090-6073aa1d2488
+UID:cb4289e1-2bc1-49b3-ac5a-434cd4b768c2
 SEQUENCE:0
-DTSTAMP:20251114T171509
+DTSTAMP:20251115T171335
 DTSTART:20260228T183000
 DTEND:20260228T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Raiders vs Solway Blazers
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Blazers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:362c17d4-7977-4814-8d34-8aa3620f2ffd
+UID:0cf159bd-b336-446f-8081-21d3df315988
 SEQUENCE:0
-DTSTAMP:20251114T171509
+DTSTAMP:20251115T171335
 DTSTART:20260314T183000
 DTEND:20260314T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Raiders vs Maccabi Warriors

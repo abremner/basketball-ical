@@ -6,20 +6,9 @@ X-WR-CALNAME:Nettleton Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:8a6e7c2d-2b2a-4931-b937-9a1a1ef016c8
+UID:aa7d898d-cf9c-49d1-904c-992534006ced
 SEQUENCE:0
-DTSTAMP:20251114T171211
-DTSTART:20251115T110000
-DTEND:20251115T114500
-SUMMARY:🏀 U08 Boys: Nettleton Piranhas vs Solway Broncos
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
- Broncos\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:fe11b3a2-e026-4635-8d8f-9feffefee958
-SEQUENCE:0
-DTSTAMP:20251114T171211
+DTSTAMP:20251115T171037
 DTSTART:20251122T080000
 DTEND:20251122T084500
 SUMMARY:🏀 U08 Boys: Nettleton Piranhas vs Malvern Tigers Landale
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Landale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2d201a20-4126-4fd7-9e67-420331e7ec06
+UID:b2f00668-ae33-47c5-b64f-b9170a81df69
 SEQUENCE:0
-DTSTAMP:20251114T171211
+DTSTAMP:20251115T171037
 DTSTART:20251206T114500
 DTEND:20251206T123000
 SUMMARY:🏀 U08 Boys: Nettleton Piranhas vs Maccabi Eagles
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7d888e41-c254-4450-9e05-ce5f24aa436c
+UID:8a823976-deb3-4c44-9bf6-99f3abfbc5f0
 SEQUENCE:0
-DTSTAMP:20251114T171211
+DTSTAMP:20251115T171037
 DTSTART:20251213T080000
 DTEND:20251213T084500
 SUMMARY:🏀 U08 Boys: Nettleton Piranhas vs Maccabi Ducks
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:961a1f58-f909-405b-8fe9-e7dd07b8ad24
+UID:cb713cbd-48fa-4036-9ebd-87931cf894a8
 SEQUENCE:0
-DTSTAMP:20251114T171211
+DTSTAMP:20251115T171037
 DTSTART:20260131T101500
 DTEND:20260131T110000
 SUMMARY:🏀 U08 Boys: Nettleton Piranhas vs Kooyong Piranhas
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Kooyong
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:87d08833-68df-4c37-bb70-9b38fad378f6
+UID:040af2ff-47cf-4ff8-85e2-4446e3d3b6e8
 SEQUENCE:0
-DTSTAMP:20251114T171211
+DTSTAMP:20251115T171037
 DTSTART:20260207T114500
 DTEND:20260207T123000
 SUMMARY:🏀 U08 Boys: Nettleton Piranhas vs Ferndale Park Piranhas
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ferndal
  e Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f568ed08-841b-4f0f-b771-cdd9a87819ee
+UID:9915e8d5-dd45-47ab-9a70-3631e5b20d06
 SEQUENCE:0
-DTSTAMP:20251114T171211
+DTSTAMP:20251115T171037
 DTSTART:20260214T080000
 DTEND:20260214T084500
 SUMMARY:🏀 U08 Boys: Nettleton Piranhas vs Wattletree Piranhas
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Wattlet
  ree Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:27127d4c-971b-434f-a009-0583bb966b9b
+UID:ccee0e0a-c3e3-4b5a-884d-e44322adae1c
 SEQUENCE:0
-DTSTAMP:20251114T171211
+DTSTAMP:20251115T171037
 DTSTART:20260221T110000
 DTEND:20260221T114500
 SUMMARY:🏀 U08 Boys: Nettleton Piranhas vs Glen Iris Scorpions Nettleton
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2a964df3-6541-47e5-8e36-9d54b7ddbc33
+UID:2058cfed-1449-4558-b0c8-78498351bb4e
 SEQUENCE:0
-DTSTAMP:20251114T171211
+DTSTAMP:20251115T171037
 DTSTART:20260228T101500
 DTEND:20260228T110000
 SUMMARY:🏀 U08 Boys: Nettleton Piranhas vs Solway Broncos
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Broncos\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:48e262d1-9ef4-4e95-bce4-9aeddea0349f
+UID:9a40d404-6c3c-4a3a-a424-87a94587aab7
 SEQUENCE:0
-DTSTAMP:20251114T171211
+DTSTAMP:20251115T171037
 DTSTART:20260314T080000
 DTEND:20260314T084500
 SUMMARY:🏀 U08 Boys: Nettleton Piranhas vs Malvern Tigers Landale

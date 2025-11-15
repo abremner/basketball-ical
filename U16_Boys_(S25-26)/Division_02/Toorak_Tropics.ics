@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Tropics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:a83afe18-51ee-4157-88c1-c52f30d273fc
+UID:d8a3b958-b8d3-4e7e-a672-e82d029ae205
 SEQUENCE:0
-DTSTAMP:20251114T171510
-DTSTART:20251115T174500
-DTEND:20251115T183000
-SUMMARY:🏀 U16 Boys: Toorak Tropics vs Solway Blazers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
-  Blazers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:b20553e0-b66c-447a-b6f3-08a1f03aa810
-SEQUENCE:0
-DTSTAMP:20251114T171510
+DTSTAMP:20251115T171336
 DTSTART:20251122T191500
 DTEND:20251122T200000
 SUMMARY:🏀 U16 Boys: Toorak Tropics vs Timberwolves Raiders
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Raiders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4f042af6-0c8d-48a8-a4d6-f72044ae071b
+UID:bccb0e85-7c6c-413a-ac0d-7a4ff9efb9b8
 SEQUENCE:0
-DTSTAMP:20251114T171510
+DTSTAMP:20251115T171336
 DTSTART:20251129T174500
 DTEND:20251129T183000
 SUMMARY:🏀 U16 Boys: Toorak Tropics vs Timberwolves Taipans
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Taipans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:11018b82-e770-4f0b-b49e-5d50715ed4ff
+UID:8ab1768a-4704-4ae1-a9ee-2f0ab79adb58
 SEQUENCE:0
-DTSTAMP:20251114T171510
+DTSTAMP:20251115T171336
 DTSTART:20251213T183000
 DTEND:20251213T191500
 SUMMARY:🏀 U16 Boys: Toorak Tropics vs Arax
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:be5ad6de-f630-494d-af33-3aa2b41590c9
+UID:58305898-64fc-4c3d-8112-080bd2b35a0d
 SEQUENCE:0
-DTSTAMP:20251114T171510
+DTSTAMP:20251115T171336
 DTSTART:20260131T183000
 DTEND:20260131T191500
 SUMMARY:🏀 U16 Boys: Toorak Tropics vs Timberwolves Cats
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Cats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cf1f7980-8a32-4797-8ced-e49b75e6619c
+UID:f2fdbdd5-f4f5-447b-be9b-1ae0e13b702f
 SEQUENCE:0
-DTSTAMP:20251114T171510
+DTSTAMP:20251115T171336
 DTSTART:20260207T191500
 DTEND:20260207T200000
 SUMMARY:🏀 U16 Boys: Toorak Tropics vs Maccabi Warriors
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:526d8ce5-80ca-4816-953b-7f0183007f19
+UID:58f3bea5-a9de-44d8-bc9b-32d2d4e4e267
 SEQUENCE:0
-DTSTAMP:20251114T171510
+DTSTAMP:20251115T171336
 DTSTART:20260214T174500
 DTEND:20260214T183000
 SUMMARY:🏀 U16 Boys: Toorak Tropics vs Solway Blazers
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Blazers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:113d551a-9ba5-4ab5-bd40-a005e0cc82da
+UID:1961339c-2d1e-425b-9ae6-286bc31db75d
 SEQUENCE:0
-DTSTAMP:20251114T171510
+DTSTAMP:20251115T171336
 DTSTART:20260221T191500
 DTEND:20260221T200000
 SUMMARY:🏀 U16 Boys: Toorak Tropics vs Timberwolves Raiders
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Raiders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c24e9137-2cf6-4498-baa0-89e6b417759e
+UID:cdc91504-283a-4e83-a339-08611abecb49
 SEQUENCE:0
-DTSTAMP:20251114T171510
+DTSTAMP:20251115T171336
 DTSTART:20260228T174500
 DTEND:20260228T183000
 SUMMARY:🏀 U16 Boys: Toorak Tropics vs Timberwolves Taipans

@@ -6,20 +6,9 @@ X-WR-CALNAME:Korowa Cherry Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:bdc52780-47a7-4aad-9e97-90a6e3fa837f
+UID:9dea67b7-9869-4cc8-b5c1-c91d5f35d03a
 SEQUENCE:0
-DTSTAMP:20251114T171303
-DTSTART:20251115T123000
-DTEND:20251115T131500
-SUMMARY:🏀 U10 Girls: Korowa Cherry vs Solway Blizzards
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
-  Blizzards\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:2161872b-9119-412b-889b-511c4711cf96
-SEQUENCE:0
-DTSTAMP:20251114T171303
+DTSTAMP:20251115T171129
 DTSTART:20251122T114500
 DTEND:20251122T123000
 SUMMARY:🏀 U10 Girls: Korowa Cherry vs Timberwolves Sharks
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Sharks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:97779119-45b0-4f49-9175-47241b348c04
+UID:fea06d2c-26b2-47e7-8a18-d8db436e7baf
 SEQUENCE:0
-DTSTAMP:20251114T171303
+DTSTAMP:20251115T171129
 DTSTART:20251129T114500
 DTEND:20251129T123000
 SUMMARY:🏀 U10 Girls: Korowa Cherry vs Halley Park Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Halley
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d8b1d217-e4d1-4e82-929a-3c1443854717
+UID:d503e22a-1187-47b6-95f2-5c77732591dd
 SEQUENCE:0
-DTSTAMP:20251114T171303
+DTSTAMP:20251115T171129
 DTSTART:20251206T123000
 DTEND:20251206T131500
 SUMMARY:🏀 U10 Girls: Korowa Cherry vs Ashy Lightning Gold
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e0a5beaa-5290-468b-8496-1b9250079ae1
+UID:813ae4c5-cc2a-48c5-a475-4d3206f6c73b
 SEQUENCE:0
-DTSTAMP:20251114T171303
+DTSTAMP:20251115T171129
 DTSTART:20260131T114500
 DTEND:20260131T123000
 SUMMARY:🏀 U10 Girls: Korowa Cherry vs Malvern Tigers Phillips
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Phillips\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8c7d3c79-6130-45d0-9fd2-4b20c41618d7
+UID:a76e28e5-d8d4-4401-a30a-5c7a19def687
 SEQUENCE:0
-DTSTAMP:20251114T171303
+DTSTAMP:20251115T171129
 DTSTART:20260207T114500
 DTEND:20260207T123000
 SUMMARY:🏀 U10 Girls: Korowa Cherry vs Solway Tornadoes
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Tornadoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3b4a80e6-eab6-4268-9584-ebac43360808
+UID:9522febe-2d96-4f01-9c48-dd7069498cfe
 SEQUENCE:0
-DTSTAMP:20251114T171303
+DTSTAMP:20251115T171129
 DTSTART:20260214T123000
 DTEND:20260214T131500
 SUMMARY:🏀 U10 Girls: Korowa Cherry vs Solway Blizzards
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Blizzards\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:819eefa9-634d-46d3-9623-d45c83a0b20e
+UID:1b845ffc-5963-4327-8807-562073879818
 SEQUENCE:0
-DTSTAMP:20251114T171303
+DTSTAMP:20251115T171129
 DTSTART:20260221T114500
 DTEND:20260221T123000
 SUMMARY:🏀 U10 Girls: Korowa Cherry vs Timberwolves Sharks
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Sharks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:94f60607-7bc3-4cf5-8c5b-a931bcb0d0af
+UID:dee0c056-03ad-4d66-b496-91e3045b02b1
 SEQUENCE:0
-DTSTAMP:20251114T171303
+DTSTAMP:20251115T171129
 DTSTART:20260228T114500
 DTEND:20260228T123000
 SUMMARY:🏀 U10 Girls: Korowa Cherry vs Halley Park Piranhas
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Halley
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:728cfc81-0380-4748-9e50-d94bddf77557
+UID:711d68b7-0505-4e50-9dfd-931b5a402761
 SEQUENCE:0
-DTSTAMP:20251114T171303
+DTSTAMP:20251115T171129
 DTSTART:20260314T123000
 DTEND:20260314T131500
 SUMMARY:🏀 U10 Girls: Korowa Cherry vs Ashy Lightning Gold

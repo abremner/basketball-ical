@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:172a4847-d3d4-49b3-b271-5528b691e109
+UID:e067ae4d-79cb-406d-9682-ccddf5d0b901
 SEQUENCE:0
-DTSTAMP:20251114T171404
-DTSTART:20251115T140000
-DTEND:20251115T144500
-SUMMARY:🏀 U12 Girls: Maccabi Warriors vs Erica Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Erica 
- Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:2f89132a-5211-4588-9d07-9eaa940590fd
-SEQUENCE:0
-DTSTAMP:20251114T171404
+DTSTAMP:20251115T171230
 DTSTART:20251122T144500
 DTEND:20251122T153000
 SUMMARY:🏀 U12 Girls: Maccabi Warriors vs Malvern Tigers White
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:865fd298-f14c-4ce5-9528-0d5a96883497
+UID:8354a097-e824-4e60-a3fc-65b4f3afc1e9
 SEQUENCE:0
-DTSTAMP:20251114T171404
+DTSTAMP:20251115T171230
 DTSTART:20251129T140000
 DTEND:20251129T144500
 SUMMARY:🏀 U12 Girls: Maccabi Warriors vs Timberwolves Thunder
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5e164008-09da-4db4-bf05-c862f2369d37
+UID:f9e416d2-7369-4c36-a098-1f2da0055617
 SEQUENCE:0
-DTSTAMP:20251114T171404
+DTSTAMP:20251115T171230
 DTSTART:20251206T131500
 DTEND:20251206T140000
 SUMMARY:🏀 U12 Girls: Maccabi Warriors vs Lauriston Sparks
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston S
  parks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:54344a77-a155-4b31-b767-2ed2ab663b83
+UID:1a44ab7b-7e69-436b-9d5a-c0deb2fcd553
 SEQUENCE:0
-DTSTAMP:20251114T171404
+DTSTAMP:20251115T171230
 DTSTART:20251213T140000
 DTEND:20251213T144500
 SUMMARY:🏀 U12 Girls: Maccabi Warriors vs Solway Doves
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Doves\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:eb53e803-b8b9-4d6f-8424-509dfaf94bfc
+UID:3a0f5648-75b2-4064-a51f-e880588cdef2
 SEQUENCE:0
-DTSTAMP:20251114T171404
+DTSTAMP:20251115T171230
 DTSTART:20260207T144500
 DTEND:20260207T153000
 SUMMARY:🏀 U12 Girls: Maccabi Warriors vs Malvern Tigers Green
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dc787f39-7d78-4ed0-9853-990de88acf53
+UID:2ab35359-1b8f-42be-ab5d-18a20c4fd07c
 SEQUENCE:0
-DTSTAMP:20251114T171404
+DTSTAMP:20251115T171230
 DTSTART:20260214T131500
 DTEND:20260214T140000
 SUMMARY:🏀 U12 Girls: Maccabi Warriors vs Erica Piranhas
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Erica Piran
  has\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f3a1f085-d9da-42be-8bc5-f53474e8a2a6
+UID:9101a39d-5542-4f8f-9345-5d9d26cdb5d8
 SEQUENCE:0
-DTSTAMP:20251114T171404
+DTSTAMP:20251115T171230
 DTSTART:20260221T140000
 DTEND:20260221T144500
 SUMMARY:🏀 U12 Girls: Maccabi Warriors vs Malvern Tigers White
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4048338c-2b47-4bfa-9876-05cf2196ddaf
+UID:a3851159-411c-4965-85e7-1b02796baf26
 SEQUENCE:0
-DTSTAMP:20251114T171404
+DTSTAMP:20251115T171230
 DTSTART:20260228T144500
 DTEND:20260228T153000
 SUMMARY:🏀 U12 Girls: Maccabi Warriors vs Timberwolves Thunder
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:98b90af5-4049-4c79-954d-6e52f8252daa
+UID:7ed10df0-8628-4774-bcb1-95220665af93
 SEQUENCE:0
-DTSTAMP:20251114T171404
+DTSTAMP:20251115T171230
 DTSTART:20260314T131500
 DTEND:20260314T140000
 SUMMARY:🏀 U12 Girls: Maccabi Warriors vs Lauriston Sparks

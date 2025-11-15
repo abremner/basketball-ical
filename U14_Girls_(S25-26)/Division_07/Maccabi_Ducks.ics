@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:4e81debb-6883-4287-a5db-2330ebe2855d
+UID:b7319e70-8fa1-4de4-a523-4f910f757d7f
 SEQUENCE:0
-DTSTAMP:20251114T171502
-DTSTART:20251115T161500
-DTEND:20251115T170000
-SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Korowa Grey
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Korowa 
- Grey\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:e9b06fd0-0360-4e97-b703-9efa614bc8ed
-SEQUENCE:0
-DTSTAMP:20251114T171502
+DTSTAMP:20251115T171328
 DTSTART:20251122T170000
 DTEND:20251122T174500
 SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Timberwolves Sapphires
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Sapphires\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a80a14d7-833b-4640-8206-3c08c12cf1ac
+UID:f320a5c1-adec-4021-8a38-15b8095e868b
 SEQUENCE:0
-DTSTAMP:20251114T171502
+DTSTAMP:20251115T171328
 DTSTART:20251129T153000
 DTEND:20251129T161500
 SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Lauriston Legends
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston L
  egends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f05cf13c-465f-41ac-b353-b83e8b90f139
+UID:059adb51-7829-4c5b-ab46-1c262ba0caf9
 SEQUENCE:0
-DTSTAMP:20251114T171502
+DTSTAMP:20251115T171328
 DTSTART:20251206T170000
 DTEND:20251206T174500
 SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Solway Sapphires
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Sapphires\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3b2bb9cf-d983-4b8f-868f-d090db4f5b98
+UID:f0470262-0f52-41a9-ac69-b4694bc5cf0e
 SEQUENCE:0
-DTSTAMP:20251114T171502
+DTSTAMP:20251115T171328
 DTSTART:20251213T170000
 DTEND:20251213T174500
 SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Maccabi Eagles
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:eeafc4b1-c5e7-4ea2-beb3-8fcd4ff03a7a
+UID:8b6896d9-b4f5-498a-9247-be4d110e12b1
 SEQUENCE:0
-DTSTAMP:20251114T171502
+DTSTAMP:20251115T171328
 DTSTART:20260131T153000
 DTEND:20260131T161500
 SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Ashy Lightning White
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Ashy Lightn
  ing White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c3140a76-1a97-403b-bde0-f0ffc31b45b3
+UID:d9db1bee-6d39-450d-8306-77af8bc10928
 SEQUENCE:0
-DTSTAMP:20251114T171502
+DTSTAMP:20251115T171328
 DTSTART:20260207T161500
 DTEND:20260207T170000
 SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Maccabi Celtics
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1dac8991-5f5a-42ac-8785-82f2908b26c5
+UID:9cc4cb0d-6f42-45aa-9d80-b07f04eed2fe
 SEQUENCE:0
-DTSTAMP:20251114T171502
+DTSTAMP:20251115T171328
 DTSTART:20260214T153000
 DTEND:20260214T161500
 SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Korowa Grey
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Korowa Grey
  \nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f41b161c-62fb-4722-bb1c-8b73e838ed07
+UID:3c4430e2-32f0-4522-bb54-aeabbd8bc6b9
 SEQUENCE:0
-DTSTAMP:20251114T171502
+DTSTAMP:20251115T171328
 DTSTART:20260221T161500
 DTEND:20260221T170000
 SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Timberwolves Sapphires
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
  olves Sapphires\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:14fe127f-dfab-4746-9acd-287d6c60beab
+UID:24c65468-1a3b-4550-8a65-bcecc3718c71
 SEQUENCE:0
-DTSTAMP:20251114T171502
+DTSTAMP:20251115T171328
 DTSTART:20260228T153000
 DTEND:20260228T161500
 SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Lauriston Legends
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston L
  egends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5c123c3e-4847-4ef9-84b1-04b51f994872
+UID:bbe56ed4-e316-4c38-b8cc-f080162eb024
 SEQUENCE:0
-DTSTAMP:20251114T171502
+DTSTAMP:20251115T171328
 DTSTART:20260314T161500
 DTEND:20260314T170000
 SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Solway Sapphires

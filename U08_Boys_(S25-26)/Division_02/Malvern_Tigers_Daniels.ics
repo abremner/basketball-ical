@@ -6,20 +6,9 @@ X-WR-CALNAME:Malvern Tigers Daniels Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:30d7da2a-426c-4809-9ae7-6744f0a80c77
+UID:25bace8f-dfeb-4e01-bc26-6f84a6c7fbb3
 SEQUENCE:0
-DTSTAMP:20251114T171157
-DTSTART:20251115T093000
-DTEND:20251115T101500
-SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Malvern Tigers Mills
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
-  Tigers Mills\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:2139e8b8-87fd-47dd-a21b-852f96510fa2
-SEQUENCE:0
-DTSTAMP:20251114T171157
+DTSTAMP:20251115T171024
 DTSTART:20251122T084500
 DTEND:20251122T093000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Solway Mustangs
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
  Mustangs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1a2d7b0d-7699-4ab0-b762-17c73fa812b4
+UID:1c5f2894-aa75-4b46-a0e7-b94f5cb91e87
 SEQUENCE:0
-DTSTAMP:20251114T171157
+DTSTAMP:20251115T171024
 DTSTART:20251129T110000
 DTEND:20251129T114500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Glen Iris Scorpions Fernd
@@ -40,9 +29,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
  is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:352cd55d-d367-4303-a741-4fedff957324
+UID:9ff9ac40-510d-4b01-be63-810d377efc1f
 SEQUENCE:0
-DTSTAMP:20251114T171157
+DTSTAMP:20251115T171024
 DTSTART:20251206T084500
 DTEND:20251206T093000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Toorak Toucans
@@ -51,9 +40,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Toorak
  Toucans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3ec6b125-3ad5-4839-9c41-15698e8d0235
+UID:0edd5710-a40e-4263-8057-ad7bbb5c3009
 SEQUENCE:0
-DTSTAMP:20251114T171157
+DTSTAMP:20251115T171024
 DTSTART:20251213T093000
 DTEND:20251213T101500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Solway Brumbies
@@ -62,9 +51,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Brumbies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cb42950e-46a1-459a-ade2-0dd272a591fd
+UID:de9b2b26-f951-48f6-ac8e-2f578555194e
 SEQUENCE:0
-DTSTAMP:20251114T171157
+DTSTAMP:20251115T171024
 DTSTART:20260131T084500
 DTEND:20260131T093000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Malvern Tigers Mills
@@ -73,9 +62,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Mills\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8c403d9f-feb6-4cff-ba0d-9b5e53ef0463
+UID:b60853da-54d4-4fd4-b3cb-191c68059799
 SEQUENCE:0
-DTSTAMP:20251114T171157
+DTSTAMP:20251115T171024
 DTSTART:20260207T110000
 DTEND:20260207T114500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Solway Mustangs
@@ -84,9 +73,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Mustangs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cf267da6-d573-4c89-8c80-a50a9a9c00d9
+UID:75b083b4-e6fd-4bf0-a128-9a12317bc2ff
 SEQUENCE:0
-DTSTAMP:20251114T171157
+DTSTAMP:20251115T171024
 DTSTART:20260214T110000
 DTEND:20260214T114500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Glen Iris Scorpions Fernd
@@ -96,9 +85,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
  is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8263b40b-3a17-4b7b-8d30-c1b7b7b185ed
+UID:c4f4e695-fa43-47bf-b31b-5ce2d8693144
 SEQUENCE:0
-DTSTAMP:20251114T171157
+DTSTAMP:20251115T171024
 DTSTART:20260221T110000
 DTEND:20260221T114500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Toorak Toucans
@@ -107,9 +96,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak
  Toucans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3a7fb35d-ff56-4b26-9f8c-b4788ebdaf09
+UID:8d9c337c-2ec0-4fa0-944f-3f28346d2126
 SEQUENCE:0
-DTSTAMP:20251114T171157
+DTSTAMP:20251115T171024
 DTSTART:20260228T093000
 DTEND:20260228T101500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Solway Brumbies
@@ -118,9 +107,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Brumbies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7973c757-90f6-4231-b605-2aa917ff6f9c
+UID:babab013-ba8c-417e-885b-2e8c8d6dc485
 SEQUENCE:0
-DTSTAMP:20251114T171157
+DTSTAMP:20251115T171024
 DTSTART:20260314T084500
 DTEND:20260314T093000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Malvern Tigers Mills

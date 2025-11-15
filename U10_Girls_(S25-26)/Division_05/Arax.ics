@@ -6,20 +6,9 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:87cf9b10-2fbf-471e-98db-ac6cb603b3ac
+UID:5cfbe114-2722-4f73-aefa-e47be49188a9
 SEQUENCE:0
-DTSTAMP:20251114T171314
-DTSTART:20251115T080000
-DTEND:20251115T084500
-SUMMARY:🏀 U10 Girls: Arax vs Timberwolves Gems
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
- wolves Gems\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5a81b37f-d984-436b-9a9b-adc0a9097077
-SEQUENCE:0
-DTSTAMP:20251114T171314
+DTSTAMP:20251115T171139
 DTSTART:20251122T080000
 DTEND:20251122T084500
 SUMMARY:🏀 U10 Girls: Arax vs Solway Zephyrs
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Zephyrs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7de1450a-0d11-4652-b34e-777991201eaf
+UID:cf4113dd-d4c2-415f-8696-3a51b25224f3
 SEQUENCE:0
-DTSTAMP:20251114T171314
+DTSTAMP:20251115T171139
 DTSTART:20251129T080000
 DTEND:20251129T084500
 SUMMARY:🏀 U10 Girls: Arax vs Glen Iris Scorpions Gardiner
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
  ris Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e30ed543-2c3d-4453-8b65-8bd4566eda2f
+UID:7175e95c-27a9-4c5f-a174-31fbb6c6d66f
 SEQUENCE:0
-DTSTAMP:20251114T171314
+DTSTAMP:20251115T171139
 DTSTART:20251206T080000
 DTEND:20251206T084500
 SUMMARY:🏀 U10 Girls: Arax vs Malvern Tigers Smith
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Smith\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:557c5fe5-50a3-42f5-ae61-93c5fdab2938
+UID:e7fda3df-ae61-4210-8599-1fa8d37f4a92
 SEQUENCE:0
-DTSTAMP:20251114T171314
+DTSTAMP:20251115T171139
 DTSTART:20251213T080000
 DTEND:20251213T084500
 SUMMARY:🏀 U10 Girls: Arax vs Maccabi Celtics
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f3f885d9-4f51-47ee-9f43-795e90a85dfe
+UID:ef94cf18-3de4-4f25-851c-b4cd961f84ce
 SEQUENCE:0
-DTSTAMP:20251114T171314
+DTSTAMP:20251115T171139
 DTSTART:20260131T080000
 DTEND:20260131T084500
 SUMMARY:🏀 U10 Girls: Arax vs Malvern Tigers Lavey
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Lavey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cbc3564e-d9e6-41d2-ac34-4b9e98fb9813
+UID:abbd5d2e-a785-4408-822b-f3787a493f4c
 SEQUENCE:0
-DTSTAMP:20251114T171314
+DTSTAMP:20251115T171139
 DTSTART:20260207T080000
 DTEND:20260207T084500
 SUMMARY:🏀 U10 Girls: Arax vs Timberwolves Hornets
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Hornets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b93f82c5-16fa-456e-a092-c1b1cfe75428
+UID:389fdefa-c75d-4d4f-8a66-4a6379eaa207
 SEQUENCE:0
-DTSTAMP:20251114T171314
+DTSTAMP:20251115T171139
 DTSTART:20260214T080000
 DTEND:20260214T084500
 SUMMARY:🏀 U10 Girls: Arax vs Timberwolves Gems
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Gems\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:28ff6520-8a5b-451c-b0d5-99dde0166c6c
+UID:b49eef50-f18d-4907-8abd-6e229bc1ff23
 SEQUENCE:0
-DTSTAMP:20251114T171314
+DTSTAMP:20251115T171139
 DTSTART:20260221T080000
 DTEND:20260221T084500
 SUMMARY:🏀 U10 Girls: Arax vs Solway Zephyrs
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Zephyrs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dc41d0e6-68fa-4135-99d4-319a163d170e
+UID:c4eb9903-1a34-41ec-920c-fe08b5bcd3de
 SEQUENCE:0
-DTSTAMP:20251114T171314
+DTSTAMP:20251115T171139
 DTSTART:20260228T080000
 DTEND:20260228T084500
 SUMMARY:🏀 U10 Girls: Arax vs Glen Iris Scorpions Gardiner
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
  ris Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4a3d9267-ac39-4aa2-9d74-43af58b783b7
+UID:07780a05-8a3c-46a2-b3cf-314a488b07b4
 SEQUENCE:0
-DTSTAMP:20251114T171314
+DTSTAMP:20251115T171139
 DTSTART:20260314T080000
 DTEND:20260314T084500
 SUMMARY:🏀 U10 Girls: Arax vs Malvern Tigers Smith

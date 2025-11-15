@@ -6,20 +6,9 @@ X-WR-CALNAME:Timberwolves Howlers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:adca4c36-895e-4e51-afd1-07a2fe09ae65
+UID:136624b8-f966-4a62-93f8-37bd9bb67f25
 SEQUENCE:0
-DTSTAMP:20251114T171329
-DTSTART:20251115T140000
-DTEND:20251115T144500
-SUMMARY:🏀 U12 Boys: Timberwolves Howlers vs Malvern Tigers White
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
-  Tigers White\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:9e01ebcb-a39a-4d79-94f6-af40de289a66
-SEQUENCE:0
-DTSTAMP:20251114T171329
+DTSTAMP:20251115T171155
 DTSTART:20251122T144500
 DTEND:20251122T153000
 SUMMARY:🏀 U12 Boys: Timberwolves Howlers vs Toorak Torchers
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Torchers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:91055064-6b14-4f34-b2b8-54fae93ac4b9
+UID:493fc82d-0eac-4abf-a539-8218de992035
 SEQUENCE:0
-DTSTAMP:20251114T171329
+DTSTAMP:20251115T171155
 DTSTART:20251129T144500
 DTEND:20251129T153000
 SUMMARY:🏀 U12 Boys: Timberwolves Howlers vs Maccabi Bucks
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:131a6cbc-a6f8-4f8f-9f9b-3f95cd793304
+UID:c97c5161-02d2-42ff-bbb3-81f806352cd4
 SEQUENCE:0
-DTSTAMP:20251114T171329
+DTSTAMP:20251115T171155
 DTSTART:20251206T140000
 DTEND:20251206T144500
 SUMMARY:🏀 U12 Boys: Timberwolves Howlers vs Malvern Tigers Green
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e1a82ee8-c814-4a42-b28d-209e0be25675
+UID:fed9c5eb-8a93-40b0-b3df-c3b7a828648f
 SEQUENCE:0
-DTSTAMP:20251114T171329
+DTSTAMP:20251115T171155
 DTSTART:20251213T144500
 DTEND:20251213T153000
 SUMMARY:🏀 U12 Boys: Timberwolves Howlers vs Toorak Tarantulas
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Tarantulas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8f288950-69bb-482a-b012-532ceb4e4e3c
+UID:d4fa76c7-857d-41a8-9248-99695a67100b
 SEQUENCE:0
-DTSTAMP:20251114T171329
+DTSTAMP:20251115T171155
 DTSTART:20260131T140000
 DTEND:20260131T144500
 SUMMARY:🏀 U12 Boys: Timberwolves Howlers vs Malvern Tigers White
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bfc1aa62-b383-4e81-9d0e-d354bf4fc3f8
+UID:d95d3e09-53c1-418a-aa5a-0d0120e7da22
 SEQUENCE:0
-DTSTAMP:20251114T171329
+DTSTAMP:20251115T171155
 DTSTART:20260207T140000
 DTEND:20260207T144500
 SUMMARY:🏀 U12 Boys: Timberwolves Howlers vs Toorak Torchers
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak
  Torchers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3f857075-fc8c-4945-beb9-274ed46a5196
+UID:9150268d-4dff-4338-9639-74dd3f777c0a
 SEQUENCE:0
-DTSTAMP:20251114T171329
+DTSTAMP:20251115T171155
 DTSTART:20260214T140000
 DTEND:20260214T144500
 SUMMARY:🏀 U12 Boys: Timberwolves Howlers vs Maccabi Bucks
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:84985fd3-d0c7-4a6a-aa15-62fc777960aa
+UID:de4e2ed6-7c06-4e77-bb45-4f2770a69178
 SEQUENCE:0
-DTSTAMP:20251114T171329
+DTSTAMP:20251115T171155
 DTSTART:20260221T140000
 DTEND:20260221T144500
 SUMMARY:🏀 U12 Boys: Timberwolves Howlers vs Malvern Tigers Green
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d088aeaa-9f1f-46d4-9717-2d0ab248f7be
+UID:512bba88-a19b-4635-a19a-4a5283e238df
 SEQUENCE:0
-DTSTAMP:20251114T171329
+DTSTAMP:20251115T171155
 DTSTART:20260228T144500
 DTEND:20260228T153000
 SUMMARY:🏀 U12 Boys: Timberwolves Howlers vs Toorak Tarantulas
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Tarantulas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0048d91a-90a7-4893-89a5-a49cd678da45
+UID:b54958d8-b52b-43ad-b38b-6d9d932ffe6a
 SEQUENCE:0
-DTSTAMP:20251114T171329
+DTSTAMP:20251115T171155
 DTSTART:20260314T140000
 DTEND:20260314T144500
 SUMMARY:🏀 U12 Boys: Timberwolves Howlers vs Malvern Tigers White

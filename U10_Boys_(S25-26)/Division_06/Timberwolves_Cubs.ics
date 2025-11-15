@@ -6,20 +6,9 @@ X-WR-CALNAME:Timberwolves Cubs Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:34b28023-7c50-4ab9-aaab-b6a88edbeb10
+UID:ca0ae12e-c686-4142-984f-9869dbea198a
 SEQUENCE:0
-DTSTAMP:20251114T171242
-DTSTART:20251115T093000
-DTEND:20251115T101500
-SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Orrong Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Orrong
-  Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:38af688f-eb0d-4c26-893b-5704988d31ea
-SEQUENCE:0
-DTSTAMP:20251114T171242
+DTSTAMP:20251115T171108
 DTSTART:20251122T101500
 DTEND:20251122T110000
 SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Golden Hawks Iron
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Golden Hawks Iron\nArrive 15
  mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e43965bb-9101-43af-8d4d-099a43256508
+UID:05eaef11-fc5a-4df6-ab36-cba1bdf2143b
 SEQUENCE:0
-DTSTAMP:20251114T171242
+DTSTAMP:20251115T171108
 DTSTART:20251129T084500
 DTEND:20251129T093000
 SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Malvern Tigers Blue
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:76f9d46b-0fe1-44ba-8944-744a3582da31
+UID:c1e0be59-2b9d-49d0-98b6-53a9ad773301
 SEQUENCE:0
-DTSTAMP:20251114T171242
+DTSTAMP:20251115T171108
 DTSTART:20251206T093000
 DTEND:20251206T101500
 SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Maccabi Ducks
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8a26998d-bab0-48b5-aaa3-17b1954d70d5
+UID:64c8407d-6c7d-4748-bce6-ab4ab3d0ebc0
 SEQUENCE:0
-DTSTAMP:20251114T171242
+DTSTAMP:20251115T171108
 DTSTART:20251213T084500
 DTEND:20251213T093000
 SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Solway Bulls
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Bulls\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:348b2b4b-e79c-4ff2-8967-3a4baba1299b
+UID:613c9564-10a0-4aa0-9606-eeefeb3e53d0
 SEQUENCE:0
-DTSTAMP:20251114T171242
+DTSTAMP:20251115T171108
 DTSTART:20260131T101500
 DTEND:20260131T110000
 SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Toorak Thrashers
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Toorak Thrashers\nArrive 15 m
  ins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8e4f0aea-d45b-4eb0-8db3-b288271d2ba7
+UID:b7a0c302-dcc3-4597-a92b-0176e67c0749
 SEQUENCE:0
-DTSTAMP:20251114T171242
+DTSTAMP:20251115T171108
 DTSTART:20260207T084500
 DTEND:20260207T093000
 SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Glen Iris Scorpions Nettleton
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d02692de-793f-4c3f-9237-c2d93e0ccf2f
+UID:c6548219-7e66-4ef5-963d-7b3744ed768d
 SEQUENCE:0
-DTSTAMP:20251114T171242
+DTSTAMP:20251115T171108
 DTSTART:20260214T101500
 DTEND:20260214T110000
 SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Orrong Park Piranhas
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Orrong
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6540925d-5091-4aa9-84bf-2c17d4a6d248
+UID:625c7cae-042b-44bb-82ba-5277af917e14
 SEQUENCE:0
-DTSTAMP:20251114T171242
+DTSTAMP:20251115T171108
 DTSTART:20260221T093000
 DTEND:20260221T101500
 SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Golden Hawks Iron
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Golden
   Hawks Iron\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a5fd7707-e864-4b5b-b04c-fee6871c3095
+UID:e6783ec7-cadd-46fd-a1cb-8e4c6a3af508
 SEQUENCE:0
-DTSTAMP:20251114T171242
+DTSTAMP:20251115T171108
 DTSTART:20260228T101500
 DTEND:20260228T110000
 SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Malvern Tigers Blue
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Blue\nArrive 1
  5 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3fcd368d-e7be-4b84-ac17-08b292e5cfe6
+UID:795e8304-49e6-4eaf-87e6-17d94732448f
 SEQUENCE:0
-DTSTAMP:20251114T171242
+DTSTAMP:20251115T171108
 DTSTART:20260314T101500
 DTEND:20260314T110000
 SUMMARY:🏀 U10 Boys: Timberwolves Cubs vs Maccabi Ducks

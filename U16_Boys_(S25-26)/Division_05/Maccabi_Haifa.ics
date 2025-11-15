@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Haifa Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:a693cfbd-23ae-4631-9b98-3641d76dd02e
+UID:12aea958-fe36-4395-b8f7-3ba65e74e85b
 SEQUENCE:0
-DTSTAMP:20251114T171518
-DTSTART:20251115T191500
-DTEND:20251115T200000
-SUMMARY:🏀 U16 Boys: Maccabi Haifa vs AlphaWolf Tornados
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
- olf Tornados\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:3135a1fb-f7e2-4a8a-9210-06718ad7a2eb
-SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171343
 DTSTART:20251122T183000
 DTEND:20251122T191500
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Toorak Trackers
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Trackers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:31d692e6-68d8-4983-b251-f6688fe7bf67
+UID:88235c04-b917-4c32-9ea0-c573bf78178c
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171343
 DTSTART:20251129T183000
 DTEND:20251129T191500
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Glen Iris Scorpions Sixers
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Sixers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bae8d636-e8be-4170-869a-8e28f20f87ad
+UID:799ad69e-cdf3-4da7-b5cb-eae7b24a109c
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171343
 DTSTART:20251206T191500
 DTEND:20251206T200000
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Malvern Tigers White
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:74825f94-dab4-46ad-bbc3-9ae0c3601f40
+UID:8e249cc1-8d52-4e0e-be90-a4f0c51e9785
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171343
 DTSTART:20251213T183000
 DTEND:20251213T191500
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Glen Iris Scorpions Saints
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Saints\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ccb4936f-7fb5-4490-bf1a-12f58856170a
+UID:730284bb-2b24-4fbf-9800-b4fb3c27378a
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171343
 DTSTART:20260131T191500
 DTEND:20260131T200000
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs AlphaWolf Tornados
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: AlphaWo
  lf Tornados\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d8a2eeba-c98c-4747-8de4-135ef7f16a52
+UID:eecc1731-f56e-4872-9581-8586fa8fa25f
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171343
 DTSTART:20260207T183000
 DTEND:20260207T191500
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Toorak Trackers
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Trackers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:aeb4e107-fe9e-435a-b2ec-c14369e49c11
+UID:5672b7bb-b0c0-4de8-b898-0b74d22977d5
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171343
 DTSTART:20260214T191500
 DTEND:20260214T200000
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Glen Iris Scorpions Sixers
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
  is Scorpions Sixers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d7c383f9-494b-448f-82b6-4f6236414472
+UID:225174a0-2de1-4fb2-8d35-0de67e63364b
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171343
 DTSTART:20260221T191500
 DTEND:20260221T200000
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Malvern Tigers White
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b6a0bb7a-5662-4f19-ba0d-4cb3693e598c
+UID:2ce293b7-a525-4d26-9749-275edc5d059e
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171343
 DTSTART:20260228T191500
 DTEND:20260228T200000
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Glen Iris Scorpions Saints
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Saints\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e7f2463c-89fe-4df0-8feb-1727180d44ce
+UID:8b1ca351-58b1-4b46-9b84-e24bb7662566
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171343
 DTSTART:20260314T183000
 DTEND:20260314T191500
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs AlphaWolf Tornados

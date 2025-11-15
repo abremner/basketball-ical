@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Storm Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:63b58507-5e98-4382-8b72-695b2b9e1eea
+UID:4531cbac-05c7-48f3-b6a3-7da53a75fcee
 SEQUENCE:0
-DTSTAMP:20251114T171520
-DTSTART:20251115T174500
-DTEND:20251115T183000
-SUMMARY:🏀 U16 Boys: Solway Storm vs Timberwolves Magic
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
- wolves Magic\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:f3a501da-5081-45ff-8def-04bdfeee42a9
-SEQUENCE:0
-DTSTAMP:20251114T171520
+DTSTAMP:20251115T171346
 DTSTART:20251122T183000
 DTEND:20251122T191500
 SUMMARY:🏀 U16 Boys: Solway Storm vs Timberwolves Bulls
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Bulls\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c71f2cee-8cad-4570-b82b-8c4c34382bee
+UID:ec7e16b0-2150-4ae8-8495-a8bc92db897d
 SEQUENCE:0
-DTSTAMP:20251114T171520
+DTSTAMP:20251115T171346
 DTSTART:20251129T191500
 DTEND:20251129T200000
 SUMMARY:🏀 U16 Boys: Solway Storm vs Tennyson Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Tennyso
  n Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:598da65e-c8ea-4836-aa9e-36e0f47e633c
+UID:20024d9d-ab39-4f0a-a3ee-e1ee801ad310
 SEQUENCE:0
-DTSTAMP:20251114T171520
+DTSTAMP:20251115T171346
 DTSTART:20251206T174500
 DTEND:20251206T183000
 SUMMARY:🏀 U16 Boys: Solway Storm vs Ormond Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ormond
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:05f1df23-ca12-4bda-89c6-18e9683f32e7
+UID:df8d2845-ade1-4b6c-a640-289fac75856e
 SEQUENCE:0
-DTSTAMP:20251114T171520
+DTSTAMP:20251115T171346
 DTSTART:20251213T174500
 DTEND:20251213T183000
 SUMMARY:🏀 U16 Boys: Solway Storm vs Malvern Tigers Green
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:23048916-5111-42a6-87c4-cb78e947acb7
+UID:6fd63721-b63b-4ee5-be17-40af7307e50b
 SEQUENCE:0
-DTSTAMP:20251114T171520
+DTSTAMP:20251115T171346
 DTSTART:20260131T191500
 DTEND:20260131T200000
 SUMMARY:🏀 U16 Boys: Solway Storm vs Timberwolves Magic
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Magic\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ef3408bb-def5-45e6-b98e-e9aec7a804d8
+UID:a22df4b1-596f-4e26-9259-24d2fe1432ca
 SEQUENCE:0
-DTSTAMP:20251114T171520
+DTSTAMP:20251115T171346
 DTSTART:20260207T183000
 DTEND:20260207T191500
 SUMMARY:🏀 U16 Boys: Solway Storm vs Timberwolves Bulls
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Bulls\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:871afca5-5dac-4061-b2cc-2b687a93193c
+UID:6277901b-e8ed-43ee-9491-27ad72ca3ab0
 SEQUENCE:0
-DTSTAMP:20251114T171520
+DTSTAMP:20251115T171346
 DTSTART:20260214T183000
 DTEND:20260214T191500
 SUMMARY:🏀 U16 Boys: Solway Storm vs Tennyson Piranhas
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Tennyso
  n Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6007a930-125d-43a0-93d8-33975891a4d3
+UID:8d5fdf90-1e46-4e6d-88ee-3466a7340850
 SEQUENCE:0
-DTSTAMP:20251114T171520
+DTSTAMP:20251115T171346
 DTSTART:20260221T174500
 DTEND:20260221T183000
 SUMMARY:🏀 U16 Boys: Solway Storm vs Ormond Piranhas
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ormond
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:234c4dc4-398a-438d-b13b-43e04fa014a2
+UID:dde6787e-e597-4e4e-93c4-66fffd428681
 SEQUENCE:0
-DTSTAMP:20251114T171520
+DTSTAMP:20251115T171346
 DTSTART:20260228T183000
 DTEND:20260228T191500
 SUMMARY:🏀 U16 Boys: Solway Storm vs Malvern Tigers Green
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f712113d-b390-47e0-b8db-e30ca934b1e2
+UID:fa7a6517-fe40-40a1-bb98-cafe057e216f
 SEQUENCE:0
-DTSTAMP:20251114T171520
+DTSTAMP:20251115T171346
 DTSTART:20260314T183000
 DTEND:20260314T191500
 SUMMARY:🏀 U16 Boys: Solway Storm vs Timberwolves Magic

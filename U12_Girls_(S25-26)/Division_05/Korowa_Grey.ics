@@ -6,20 +6,9 @@ X-WR-CALNAME:Korowa Grey Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e78f853d-ac34-4a7f-b6cf-8516090a2590
+UID:476de06b-63f5-4e8c-95a5-fb3efbd218d5
 SEQUENCE:0
-DTSTAMP:20251114T171409
-DTSTART:20251115T123000
-DTEND:20251115T131500
-SUMMARY:🏀 U12 Girls: Korowa Grey vs Maccabi Eagles
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
-  Eagles\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5a563e2d-c71f-4265-a8a6-443759adbba5
-SEQUENCE:0
-DTSTAMP:20251114T171409
+DTSTAMP:20251115T171235
 DTSTART:20251122T131500
 DTEND:20251122T140000
 SUMMARY:🏀 U12 Girls: Korowa Grey vs Maccabi Ducks
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:85ddbe90-f97f-49a9-b2a8-89e96c1bb257
+UID:3dcbc50b-2a2f-4bea-b8e5-d94bb67f56ec
 SEQUENCE:0
-DTSTAMP:20251114T171409
+DTSTAMP:20251115T171235
 DTSTART:20251129T140000
 DTEND:20251129T144500
 SUMMARY:🏀 U12 Girls: Korowa Grey vs Maccabi Bucks
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Buc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3f558d03-b8af-44cb-a48d-5e446707fa4a
+UID:2e206031-7a65-474c-aad7-105c622b2933
 SEQUENCE:0
-DTSTAMP:20251114T171409
+DTSTAMP:20251115T171235
 DTSTART:20251206T123000
 DTEND:20251206T131500
 SUMMARY:🏀 U12 Girls: Korowa Grey vs Lauriston Storm
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Laurist
  on Storm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d97d894c-f7e7-4885-87cd-3e19af0a159a
+UID:b95cb372-c40a-4638-9544-305d97b09318
 SEQUENCE:0
-DTSTAMP:20251114T171409
+DTSTAMP:20251115T171235
 DTSTART:20260131T131500
 DTEND:20260131T140000
 SUMMARY:🏀 U12 Girls: Korowa Grey vs Solway Red Robins
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Red Robins\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e3ccb8f4-022f-4dc9-9eda-5a1ba72e7522
+UID:3a81e31d-1677-491b-a02a-2410e6de8143
 SEQUENCE:0
-DTSTAMP:20251114T171409
+DTSTAMP:20251115T171235
 DTSTART:20260207T140000
 DTEND:20260207T144500
 SUMMARY:🏀 U12 Girls: Korowa Grey vs Malvern Tigers Blue
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:30899eeb-36f5-41c6-b724-70a2760d2381
+UID:4fddaa02-37a7-4089-9af4-b1a0ce179311
 SEQUENCE:0
-DTSTAMP:20251114T171409
+DTSTAMP:20251115T171235
 DTSTART:20260214T140000
 DTEND:20260214T144500
 SUMMARY:🏀 U12 Girls: Korowa Grey vs Solway Sparrows
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Spar
  rows\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7a27bb57-62ef-463f-830d-d2638574a490
+UID:beea072f-dba3-4760-b129-5dcd07e8dac1
 SEQUENCE:0
-DTSTAMP:20251114T171409
+DTSTAMP:20251115T171235
 DTSTART:20260221T140000
 DTEND:20260221T144500
 SUMMARY:🏀 U12 Girls: Korowa Grey vs Timberwolves Pearls
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Timberwolve
  s Pearls\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9d7cf6bd-ea09-4da4-bed2-a5dc8c58eef7
+UID:16f7aa17-8bb9-4492-806a-c97fa6719bcf
 SEQUENCE:0
-DTSTAMP:20251114T171409
+DTSTAMP:20251115T171235
 DTSTART:20260228T123000
 DTEND:20260228T131500
 SUMMARY:🏀 U12 Girls: Korowa Grey vs Maccabi Eagles
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7c5833ff-72c9-4bfd-ab91-5f07acf26ab8
+UID:3d32e292-a5af-4256-b8c1-a2f3d056eadf
 SEQUENCE:0
-DTSTAMP:20251114T171409
+DTSTAMP:20251115T171235
 DTSTART:20260314T131500
 DTEND:20260314T140000
 SUMMARY:🏀 U12 Girls: Korowa Grey vs Maccabi Ducks

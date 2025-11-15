@@ -6,21 +6,9 @@ X-WR-CALNAME:Glen Iris Scorpions Gardiner Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9f0596b2-a55f-40ae-be88-e42b7b8094d0
+UID:1ba740d2-3193-4290-a006-8d786898079f
 SEQUENCE:0
-DTSTAMP:20251114T171206
-DTSTART:20251115T101500
-DTEND:20251115T110000
-SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Malvern Tigers Bayn
- es
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
-  Tigers Baynes\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:216f10b4-71f2-490e-b325-ac28901488b7
-SEQUENCE:0
-DTSTAMP:20251114T171206
+DTSTAMP:20251115T171032
 DTSTART:20251122T084500
 DTEND:20251122T093000
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Golden Hawks Sky
@@ -29,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Golden
  Hawks Sky\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a9488fed-2914-4f7b-856a-c144dc725d8f
+UID:0a47f719-099b-4976-adfd-615ed00bde15
 SEQUENCE:0
-DTSTAMP:20251114T171206
+DTSTAMP:20251115T171032
 DTSTART:20251129T093000
 DTEND:20251129T101500
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Renwick Piranhas
@@ -40,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Renwick
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:73e7347e-c8b1-47f9-bb17-c45b6cc681c5
+UID:a017c53c-4b29-4e80-8324-152be94c259d
 SEQUENCE:0
-DTSTAMP:20251114T171206
+DTSTAMP:20251115T171032
 DTSTART:20251206T101500
 DTEND:20251206T110000
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Ashy Lightning Gree
@@ -52,9 +40,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:77527654-7fc1-4821-b0f7-d5489fb965a1
+UID:9430c904-3dd8-4aa0-b960-1786842a9b5a
 SEQUENCE:0
-DTSTAMP:20251114T171206
+DTSTAMP:20251115T171032
 DTSTART:20251213T084500
 DTEND:20251213T093000
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Dorrington Piranhas
@@ -63,9 +51,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Dorring
  ton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ac38da97-9ed4-4711-bf8f-be4aa8f3b540
+UID:f6deeac3-7658-4877-882b-d74fadd10a1c
 SEQUENCE:0
-DTSTAMP:20251114T171206
+DTSTAMP:20251115T171032
 DTSTART:20260131T110000
 DTEND:20260131T114500
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Timberwolves Python
@@ -75,9 +63,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Pythons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e74b96e6-05c8-4f4d-a488-61b3916ea376
+UID:e43bf838-c9b3-4d18-8d31-797765e9a216
 SEQUENCE:0
-DTSTAMP:20251114T171206
+DTSTAMP:20251115T171032
 DTSTART:20260214T093000
 DTEND:20260214T101500
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Solway Chargers
@@ -86,9 +74,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Chargers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:475d2e3f-df26-47e5-8405-cf74de5425b1
+UID:385c95dd-0699-461f-82ef-d85a2df12d00
 SEQUENCE:0
-DTSTAMP:20251114T171206
+DTSTAMP:20251115T171032
 DTSTART:20260221T110000
 DTEND:20260221T114500
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Maccabi Celtics
@@ -97,9 +85,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4de7adfd-3ce4-47bc-8252-a8bf515bc525
+UID:fada9473-eaa8-48b7-b099-c79929aa1347
 SEQUENCE:0
-DTSTAMP:20251114T171206
+DTSTAMP:20251115T171032
 DTSTART:20260228T101500
 DTEND:20260228T110000
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Malvern Tigers Bayn
@@ -109,9 +97,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Baynes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:253d1a00-f6fb-4add-a604-f216f743e818
+UID:2d387c0d-f924-4225-b651-b68503482a74
 SEQUENCE:0
-DTSTAMP:20251114T171206
+DTSTAMP:20251115T171032
 DTSTART:20260314T084500
 DTEND:20260314T093000
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Golden Hawks Sky

@@ -6,20 +6,9 @@ X-WR-CALNAME:Malvern Tigers Deacon Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e53ded98-cf95-4543-a59a-4138054a630c
+UID:2240a4cf-3f05-457e-a21c-2f4229776a3e
 SEQUENCE:0
-DTSTAMP:20251114T171455
-DTSTART:20251115T131500
-DTEND:20251115T140000
-SUMMARY:🏀 U14 Girls: Malvern Tigers Deacon vs Arax
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
- Arrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:e1b8da77-d8cc-437c-878d-eafcebc5eae4
-SEQUENCE:0
-DTSTAMP:20251114T171455
+DTSTAMP:20251115T171321
 DTSTART:20251122T153000
 DTEND:20251122T161500
 SUMMARY:🏀 U14 Girls: Malvern Tigers Deacon vs McArthur Park Piranhas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: McArth
  ur Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4d677e2f-cfeb-4e63-9bc5-fc93c8922e8d
+UID:13280513-3fa8-41e4-bd29-ca62bdd51bea
 SEQUENCE:0
-DTSTAMP:20251114T171455
+DTSTAMP:20251115T171321
 DTSTART:20251129T153000
 DTEND:20251129T161500
 SUMMARY:🏀 U14 Girls: Malvern Tigers Deacon vs Toorak Titanium
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
   Titanium\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8adb5abb-3169-48da-b25f-2bddf34d8937
+UID:1436ae88-9d20-4cf3-87eb-aedb8d2d0430
 SEQUENCE:0
-DTSTAMP:20251114T171455
+DTSTAMP:20251115T171321
 DTSTART:20251206T170000
 DTEND:20251206T174500
 SUMMARY:🏀 U14 Girls: Malvern Tigers Deacon vs Timberwolves Rubies
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
  olves Rubies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7c03f419-c0e9-421a-9f15-5a24bdd8952c
+UID:7e7aed1c-41c4-4518-9f59-501c6692a08f
 SEQUENCE:0
-DTSTAMP:20251114T171455
+DTSTAMP:20251115T171321
 DTSTART:20260131T153000
 DTEND:20260131T161500
 SUMMARY:🏀 U14 Girls: Malvern Tigers Deacon vs Solway Diamonds
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Diamonds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b6429790-e4db-45bf-a646-5d286754d82e
+UID:e6eb5e86-0579-4033-bb28-ede740b1874f
 SEQUENCE:0
-DTSTAMP:20251114T171455
+DTSTAMP:20251115T171321
 DTSTART:20260207T153000
 DTEND:20260207T161500
 SUMMARY:🏀 U14 Girls: Malvern Tigers Deacon vs Darling Park Piranhas
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Darlin
  g Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8fc2708c-3c53-4682-b5aa-dc53f330a8f7
+UID:a47bd4fa-b6ef-4c05-87db-21f02480a016
 SEQUENCE:0
-DTSTAMP:20251114T171455
+DTSTAMP:20251115T171321
 DTSTART:20260214T131500
 DTEND:20260214T140000
 SUMMARY:🏀 U14 Girls: Malvern Tigers Deacon vs Arax
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e5b8226d-2bcf-476a-ba55-fc5edb54b429
+UID:5ccd7ff6-fa8c-4899-b546-6ba3230b932f
 SEQUENCE:0
-DTSTAMP:20251114T171455
+DTSTAMP:20251115T171321
 DTSTART:20260221T153000
 DTEND:20260221T161500
 SUMMARY:🏀 U14 Girls: Malvern Tigers Deacon vs McArthur Park Piranhas
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: McArth
  ur Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a2a1d724-6e2e-46b1-9381-5b9e61dfb67d
+UID:db937cf4-b65c-4d27-82b2-91500c246b97
 SEQUENCE:0
-DTSTAMP:20251114T171455
+DTSTAMP:20251115T171321
 DTSTART:20260228T170000
 DTEND:20260228T174500
 SUMMARY:🏀 U14 Girls: Malvern Tigers Deacon vs Toorak Titanium
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak
  Titanium\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fcab666b-a1e5-4575-ba3a-76b63f15bff9
+UID:32e2a0f1-282a-42a8-a999-48245e17f8a6
 SEQUENCE:0
-DTSTAMP:20251114T171455
+DTSTAMP:20251115T171321
 DTSTART:20260314T170000
 DTEND:20260314T174500
 SUMMARY:🏀 U14 Girls: Malvern Tigers Deacon vs Timberwolves Rubies

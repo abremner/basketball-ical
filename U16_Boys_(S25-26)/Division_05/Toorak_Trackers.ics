@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Trackers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:33be32f1-5158-49c9-b35b-f6de589311d1
+UID:bc51d219-8518-4166-ae86-b0b379780a80
 SEQUENCE:0
-DTSTAMP:20251114T171518
-DTSTART:20251115T191500
-DTEND:20251115T200000
-SUMMARY:🏀 U16 Boys: Toorak Trackers vs Glen Iris Scorpions Sixers
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
- is Scorpions Sixers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5abb6a30-c0e3-422b-9d28-3be4a8107a5f
-SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171344
 DTSTART:20251122T183000
 DTEND:20251122T191500
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Maccabi Haifa
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
   Haifa\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:79cbf57e-b114-471e-bd10-23cf0ea16b4f
+UID:6c1adaa7-39d4-4d8c-9a1c-0df2aab937c9
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171344
 DTSTART:20251129T191500
 DTEND:20251129T200000
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Malvern Tigers White
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b94bd1f5-eae3-4925-a485-683cf1b25434
+UID:1e4264f2-dcdb-409f-8878-bf7388f8e65c
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171344
 DTSTART:20251206T183000
 DTEND:20251206T191500
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Glen Iris Scorpions Saints
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Saints\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:18ce8e14-0b72-4fcb-bc4c-0fa1add903bd
+UID:fc621985-af87-414e-95ae-73c365a57604
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171344
 DTSTART:20251213T191500
 DTEND:20251213T200000
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs AlphaWolf Tornados
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
  olf Tornados\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ff2bb87b-ae6b-4f52-9061-97f380d8353d
+UID:17d783a7-ea02-4d7f-b302-effb0fd0994d
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171344
 DTSTART:20260131T191500
 DTEND:20260131T200000
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Glen Iris Scorpions Sixers
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Sixers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5717c2ec-92db-4b82-8402-2bf9bc646ba5
+UID:71df0969-581c-47d5-a98c-659bfeb22187
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171344
 DTSTART:20260207T183000
 DTEND:20260207T191500
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Maccabi Haifa
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
   Haifa\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:119315ff-2ae6-4ea3-be13-97fe099cc256
+UID:da3cdbf5-daaa-4745-8e86-43288f29a680
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171344
 DTSTART:20260214T191500
 DTEND:20260214T200000
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Malvern Tigers White
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6337d971-4716-4aca-b0f5-1d541e9c528a
+UID:90edd099-8f67-48f4-9f68-be46cc34ed4d
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171344
 DTSTART:20260221T183000
 DTEND:20260221T191500
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Glen Iris Scorpions Saints
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Saints\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e4a40920-cc5e-411d-a397-d6ed56ceed28
+UID:7eba2bfc-d682-4133-8294-361d1c828d84
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171344
 DTSTART:20260228T191500
 DTEND:20260228T200000
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs AlphaWolf Tornados
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: AlphaWo
  lf Tornados\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8ce54738-5c6f-4db7-a215-7c4f32d2367c
+UID:1ccc5715-7e34-4554-9d2d-75830e362fdb
 SEQUENCE:0
-DTSTAMP:20251114T171518
+DTSTAMP:20251115T171344
 DTSTART:20260314T191500
 DTEND:20260314T200000
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Glen Iris Scorpions Sixers

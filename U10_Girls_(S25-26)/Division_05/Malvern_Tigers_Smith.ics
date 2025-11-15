@@ -6,21 +6,9 @@ X-WR-CALNAME:Malvern Tigers Smith Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b36d911f-3928-4055-8e7a-390a094b7191
+UID:8a49aeb1-0bac-4ebd-adf4-885f99103c24
 SEQUENCE:0
-DTSTAMP:20251114T171315
-DTSTART:20251115T110000
-DTEND:20251115T114500
-SUMMARY:🏀 U10 Girls: Malvern Tigers Smith vs Glen Iris Scorpions Gardin
- er
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Glen Iris S
- corpions Gardiner\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:d8fe59f2-41c0-4287-9bc4-e7baab2e6b7f
-SEQUENCE:0
-DTSTAMP:20251114T171315
+DTSTAMP:20251115T171140
 DTSTART:20251122T110000
 DTEND:20251122T114500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Smith vs Maccabi Celtics
@@ -29,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Cel
  tics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0d6c5c9d-666e-4d55-9bbf-3f962e7ea3c9
+UID:8f68aff1-e790-4bbe-9e33-2a5c9f3dae68
 SEQUENCE:0
-DTSTAMP:20251114T171315
+DTSTAMP:20251115T171140
 DTSTART:20251129T114500
 DTEND:20251129T123000
 SUMMARY:🏀 U10 Girls: Malvern Tigers Smith vs Timberwolves Hornets
@@ -40,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Hornets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e4d14655-b9b7-4a35-82be-196533042e1b
+UID:4b06b8d0-af0e-4969-84b4-8c1e40dba4ea
 SEQUENCE:0
-DTSTAMP:20251114T171315
+DTSTAMP:20251115T171140
 DTSTART:20251206T080000
 DTEND:20251206T084500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Smith vs Arax
@@ -51,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:864bf2b2-1dad-41eb-8a83-51e5f4fdad88
+UID:65c8d3cd-efe6-40dd-92ab-f7aede830645
 SEQUENCE:0
-DTSTAMP:20251114T171315
+DTSTAMP:20251115T171140
 DTSTART:20251213T110000
 DTEND:20251213T114500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Smith vs Malvern Tigers Lavey
@@ -62,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Lavey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:14bfacb3-ac5b-45d5-ab51-9954ec5e1eb1
+UID:debaa147-0fda-4812-9efa-d1d47a957a75
 SEQUENCE:0
-DTSTAMP:20251114T171315
+DTSTAMP:20251115T171140
 DTSTART:20260131T110000
 DTEND:20260131T114500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Smith vs Solway Zephyrs
@@ -73,9 +61,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Zeph
  yrs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d4ea5990-154b-474f-a65e-8574f7975119
+UID:baca1d09-87e2-48ec-8bfc-173705027e9a
 SEQUENCE:0
-DTSTAMP:20251114T171315
+DTSTAMP:20251115T171140
 DTSTART:20260207T110000
 DTEND:20260207T114500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Smith vs Timberwolves Gems
@@ -84,9 +72,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Timberwolve
  s Gems\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ec924fc4-7a50-4f43-b076-91af1b34f4fe
+UID:0d3c2073-201f-4c0e-80e7-cfff8bd10abc
 SEQUENCE:0
-DTSTAMP:20251114T171315
+DTSTAMP:20251115T171140
 DTSTART:20260214T110000
 DTEND:20260214T114500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Smith vs Glen Iris Scorpions Gardin
@@ -96,9 +84,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Glen Iris S
  corpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ddbf345f-442d-4a4e-9415-60de9cf8286c
+UID:101d93ea-0770-4035-9918-667458eec454
 SEQUENCE:0
-DTSTAMP:20251114T171315
+DTSTAMP:20251115T171140
 DTSTART:20260221T110000
 DTEND:20260221T114500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Smith vs Maccabi Celtics
@@ -107,9 +95,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Cel
  tics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8aaa4af9-d437-487c-933a-48fc082d6b72
+UID:ea8af2ff-5386-41f1-b7b7-3192ffd02f8e
 SEQUENCE:0
-DTSTAMP:20251114T171315
+DTSTAMP:20251115T171140
 DTSTART:20260228T114500
 DTEND:20260228T123000
 SUMMARY:🏀 U10 Girls: Malvern Tigers Smith vs Timberwolves Hornets
@@ -118,9 +106,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Hornets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7a87576f-bfb9-47a9-9e14-9f860be43ba0
+UID:bf806d26-840e-449f-8a6d-3b866b9754d7
 SEQUENCE:0
-DTSTAMP:20251114T171315
+DTSTAMP:20251115T171140
 DTSTART:20260314T080000
 DTEND:20260314T084500
 SUMMARY:🏀 U10 Girls: Malvern Tigers Smith vs Arax

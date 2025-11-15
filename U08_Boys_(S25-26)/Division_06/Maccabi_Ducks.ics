@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:695df214-eb8c-4614-b36c-ffa33c6d2084
+UID:dfc0ce6e-cc32-436b-a391-4e19dafe734f
 SEQUENCE:0
-DTSTAMP:20251114T171210
-DTSTART:20251115T114500
-DTEND:20251115T123000
-SUMMARY:🏀 U08 Boys: Maccabi Ducks vs Maccabi Eagles
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
-  Eagles\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:d3d488be-1366-4832-9de0-454eb8c9a50e
-SEQUENCE:0
-DTSTAMP:20251114T171210
+DTSTAMP:20251115T171036
 DTSTART:20251122T114500
 DTEND:20251122T123000
 SUMMARY:🏀 U08 Boys: Maccabi Ducks vs Solway Broncos
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Broncos\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:85cfb4ed-e617-46d8-a634-21f5dc752b27
+UID:2c384016-8a96-4268-b69f-a4cd5049aeae
 SEQUENCE:0
-DTSTAMP:20251114T171210
+DTSTAMP:20251115T171036
 DTSTART:20251129T080000
 DTEND:20251129T084500
 SUMMARY:🏀 U08 Boys: Maccabi Ducks vs Glen Iris Scorpions Nettleton
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
  is Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c8074b24-fdc2-46a9-b52a-adb48dbb2540
+UID:880bdb9a-09df-4099-9b2b-b2ad5da561ab
 SEQUENCE:0
-DTSTAMP:20251114T171210
+DTSTAMP:20251115T171036
 DTSTART:20251206T101500
 DTEND:20251206T110000
 SUMMARY:🏀 U08 Boys: Maccabi Ducks vs Ferndale Park Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ferndal
  e Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0144a322-e7be-49fb-926f-85fe072e12a9
+UID:ec4d37c6-d81a-48a4-8c00-5a6bc5237331
 SEQUENCE:0
-DTSTAMP:20251114T171210
+DTSTAMP:20251115T171036
 DTSTART:20251213T080000
 DTEND:20251213T084500
 SUMMARY:🏀 U08 Boys: Maccabi Ducks vs Nettleton Piranhas
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Nettlet
  on Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f40b567e-9a98-48ec-a9b6-ed99536e337b
+UID:321a7d55-ac6c-42c4-8630-f93798c0f287
 SEQUENCE:0
-DTSTAMP:20251114T171210
+DTSTAMP:20251115T171036
 DTSTART:20260131T110000
 DTEND:20260131T114500
 SUMMARY:🏀 U08 Boys: Maccabi Ducks vs Wattletree Piranhas
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Wattlet
  ree Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f8b0f0c2-0ed0-438e-988b-f84850cd869f
+UID:6b8938c1-31e5-490f-b0e0-6de515061e46
 SEQUENCE:0
-DTSTAMP:20251114T171210
+DTSTAMP:20251115T171036
 DTSTART:20260207T080000
 DTEND:20260207T084500
 SUMMARY:🏀 U08 Boys: Maccabi Ducks vs Kooyong Piranhas
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Kooyong
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c2e911d5-d069-417d-bbbe-aedb4c53eef4
+UID:f76ce2b8-9d01-4bb7-8238-06d0506d0817
 SEQUENCE:0
-DTSTAMP:20251114T171210
+DTSTAMP:20251115T171036
 DTSTART:20260221T101500
 DTEND:20260221T110000
 SUMMARY:🏀 U08 Boys: Maccabi Ducks vs Malvern Tigers Landale
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Landale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6de747be-7430-48dd-9c17-8f48db82f389
+UID:721e9e05-6e5a-4e1f-bca3-3087053f6203
 SEQUENCE:0
-DTSTAMP:20251114T171210
+DTSTAMP:20251115T171036
 DTSTART:20260228T114500
 DTEND:20260228T123000
 SUMMARY:🏀 U08 Boys: Maccabi Ducks vs Maccabi Eagles
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:058a302d-6234-46cc-93c9-8463d96a6901
+UID:cc4a24d8-a90f-42fd-8264-0d4d2c7f7c11
 SEQUENCE:0
-DTSTAMP:20251114T171210
+DTSTAMP:20251115T171036
 DTSTART:20260314T114500
 DTEND:20260314T123000
 SUMMARY:🏀 U08 Boys: Maccabi Ducks vs Solway Broncos

@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Rockets Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:5cf199ad-be0d-4e00-a412-f1b2d6dd6634
+UID:ba4ae544-ed77-429c-85d1-daf5d20dc8c0
 SEQUENCE:0
-DTSTAMP:20251114T171529
-DTSTART:20251115T191500
-DTEND:20251115T200000
-SUMMARY:🏀 U16 Boys: Solway Rockets vs Maccabi Celtics
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
-  Celtics\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:0645a2df-97a0-435c-8060-2ac4570d0f9d
-SEQUENCE:0
-DTSTAMP:20251114T171529
+DTSTAMP:20251115T171354
 DTSTART:20251122T191500
 DTEND:20251122T200000
 SUMMARY:🏀 U16 Boys: Solway Rockets vs Solway Heat
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Heat\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b5dfee37-6c01-4dbd-a90a-5ca77a8c63fc
+UID:3ed4b29e-fde0-40a4-8e56-70aa64b927f5
 SEQUENCE:0
-DTSTAMP:20251114T171529
+DTSTAMP:20251115T171354
 DTSTART:20251129T183000
 DTEND:20251129T191500
 SUMMARY:🏀 U16 Boys: Solway Rockets vs Glen Iris Scorpions Suns
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
  is Scorpions Suns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:598ef810-e85c-48c6-b00b-351d3af76008
+UID:21cecd5c-421a-4a69-bc27-10a307a4585e
 SEQUENCE:0
-DTSTAMP:20251114T171529
+DTSTAMP:20251115T171354
 DTSTART:20251206T183000
 DTEND:20251206T191500
 SUMMARY:🏀 U16 Boys: Solway Rockets vs Malvern Tigers Blue
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4745908f-5c22-464d-aba3-eb20cd53bd23
+UID:254f5990-48b9-4bb1-a2f5-2c35d948151c
 SEQUENCE:0
-DTSTAMP:20251114T171529
+DTSTAMP:20251115T171354
 DTSTART:20251213T183000
 DTEND:20251213T191500
 SUMMARY:🏀 U16 Boys: Solway Rockets vs Ashy Lightning Yellow
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
  ghtning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:03294ceb-a6a4-4a18-8d70-9fe70cad73fe
+UID:5ad4032b-6b35-4865-9126-177a74057897
 SEQUENCE:0
-DTSTAMP:20251114T171529
+DTSTAMP:20251115T171354
 DTSTART:20260131T183000
 DTEND:20260131T191500
 SUMMARY:🏀 U16 Boys: Solway Rockets vs Maccabi Celtics
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9e360e73-7356-4a23-b1ad-520dfb2bfe10
+UID:ec8bf1fb-db55-47fe-85e1-0c03fe7560a6
 SEQUENCE:0
-DTSTAMP:20251114T171529
+DTSTAMP:20251115T171354
 DTSTART:20260207T183000
 DTEND:20260207T191500
 SUMMARY:🏀 U16 Boys: Solway Rockets vs Solway Heat
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Heat\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3845f3ee-1f49-4093-9b2d-43ba37f4a41d
+UID:6c922ce8-0fbf-4ed0-ab1c-6b97dbe1f742
 SEQUENCE:0
-DTSTAMP:20251114T171529
+DTSTAMP:20251115T171354
 DTSTART:20260214T183000
 DTEND:20260214T191500
 SUMMARY:🏀 U16 Boys: Solway Rockets vs Glen Iris Scorpions Suns
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
  is Scorpions Suns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0fd87723-d4e9-45b8-9a93-18d7f7303f1d
+UID:229be723-00a8-4649-96c8-775e14fa4a4c
 SEQUENCE:0
-DTSTAMP:20251114T171529
+DTSTAMP:20251115T171354
 DTSTART:20260221T183000
 DTEND:20260221T191500
 SUMMARY:🏀 U16 Boys: Solway Rockets vs Malvern Tigers Blue
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:984f4e06-3453-481e-afb7-d542c654f3a4
+UID:a84a2860-434a-4c24-b8df-1bf32ab8c3da
 SEQUENCE:0
-DTSTAMP:20251114T171529
+DTSTAMP:20251115T171354
 DTSTART:20260228T183000
 DTEND:20260228T191500
 SUMMARY:🏀 U16 Boys: Solway Rockets vs Ashy Lightning Yellow
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
  ghtning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b3529546-6ee0-48ba-a955-49d6fa192bbd
+UID:5edf1524-ab06-44eb-8ca3-64fda66810f2
 SEQUENCE:0
-DTSTAMP:20251114T171529
+DTSTAMP:20251115T171354
 DTSTART:20260314T183000
 DTEND:20260314T191500
 SUMMARY:🏀 U16 Boys: Solway Rockets vs Maccabi Celtics
