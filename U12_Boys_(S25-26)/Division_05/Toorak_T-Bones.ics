@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak T-Bones Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:72b35eb7-a8b9-4c13-9996-a596c0f8af73
+UID:4382f0fb-210d-4b0c-a3e3-50f426341be6
 SEQUENCE:0
-DTSTAMP:20251115T171201
-DTSTART:20251116T164500
-DTEND:20251116T173000
-SUMMARY:🏀 U12 Boys: Toorak T-Bones vs Toorak Tigersnakes
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
-  Tigersnakes\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:f72dd946-2e14-4333-814d-377f3f54de1e
-SEQUENCE:0
-DTSTAMP:20251115T171201
+DTSTAMP:20251116T171246
 DTSTART:20251122T140000
 DTEND:20251122T144500
 SUMMARY:🏀 U12 Boys: Toorak T-Bones vs Maccabi Falcons
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:138faf18-8b21-4e1e-a21e-f80e1d557140
+UID:ccc25ce2-28be-4c0a-977a-f56dff386cc2
 SEQUENCE:0
-DTSTAMP:20251115T171201
+DTSTAMP:20251116T171246
 DTSTART:20251129T140000
 DTEND:20251129T144500
 SUMMARY:🏀 U12 Boys: Toorak T-Bones vs Comets Tigers
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Comets
  Tigers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:eb6ce31b-f13f-470c-9331-ba972f010c75
+UID:8a34d105-5bbb-4a04-9cbe-b0053c1e79c6
 SEQUENCE:0
-DTSTAMP:20251115T171201
+DTSTAMP:20251116T171246
 DTSTART:20251206T131500
 DTEND:20251206T140000
 SUMMARY:🏀 U12 Boys: Toorak T-Bones vs Malvern Tigers Brown
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e0328051-732c-435b-a04e-693a3d6a3410
+UID:ca2c0552-1354-4360-a9a2-a25b85013968
 SEQUENCE:0
-DTSTAMP:20251115T171201
+DTSTAMP:20251116T171246
 DTSTART:20251213T140000
 DTEND:20251213T144500
 SUMMARY:🏀 U12 Boys: Toorak T-Bones vs Malvern Tigers Blue
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:51ef3cff-e055-43d2-8f00-ec6c5a6296f6
+UID:afd6158b-b2c5-411e-9501-bb1cfa65d214
 SEQUENCE:0
-DTSTAMP:20251115T171201
+DTSTAMP:20251116T171246
 DTSTART:20260131T140000
 DTEND:20260131T144500
 SUMMARY:🏀 U12 Boys: Toorak T-Bones vs Maccabi Eagles
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3c8ee6d0-e381-4388-bcf3-eab06f83211b
+UID:6218f5cd-f2ef-4642-a646-d0bcb8a37df1
 SEQUENCE:0
-DTSTAMP:20251115T171201
+DTSTAMP:20251116T171246
 DTSTART:20260207T140000
 DTEND:20260207T144500
 SUMMARY:🏀 U12 Boys: Toorak T-Bones vs Timberwolves Knicks
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Knicks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b5e51179-1f5a-46dd-9c46-2ee476ab8dc1
+UID:dab1ba4f-34fd-4bbf-947f-31d4d6119037
 SEQUENCE:0
-DTSTAMP:20251115T171201
+DTSTAMP:20251116T171246
 DTSTART:20260214T140000
 DTEND:20260214T144500
 SUMMARY:🏀 U12 Boys: Toorak T-Bones vs Toorak Tigersnakes
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
   Tigersnakes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9934e86e-bd43-4350-8f9d-2266fc6f4b5a
+UID:f7faa105-2d2b-472b-b1e8-5fa88d89816f
 SEQUENCE:0
-DTSTAMP:20251115T171201
+DTSTAMP:20251116T171246
 DTSTART:20260221T131500
 DTEND:20260221T140000
 SUMMARY:🏀 U12 Boys: Toorak T-Bones vs Maccabi Falcons
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:247e57a7-2c71-46e7-a422-338398388ff2
+UID:54b7f630-1002-43d7-b5fd-3544aee9f067
 SEQUENCE:0
-DTSTAMP:20251115T171201
+DTSTAMP:20251116T171246
 DTSTART:20260228T140000
 DTEND:20260228T144500
 SUMMARY:🏀 U12 Boys: Toorak T-Bones vs Comets Tigers
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Comets
   Tigers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:38526988-bddd-4781-a67a-7b9a0c041892
+UID:0e5f50af-54c1-424b-9df4-98b752a10516
 SEQUENCE:0
-DTSTAMP:20251115T171201
+DTSTAMP:20251116T171246
 DTSTART:20260314T144500
 DTEND:20260314T153000
 SUMMARY:🏀 U12 Boys: Toorak T-Bones vs Malvern Tigers Brown

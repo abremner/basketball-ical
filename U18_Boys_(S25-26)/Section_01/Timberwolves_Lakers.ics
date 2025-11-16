@@ -6,20 +6,9 @@ X-WR-CALNAME:Timberwolves Lakers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9eff0cda-5383-4234-aec8-ec3eae536624
+UID:5255d9b5-5bc6-4f4a-b067-818dbde23dd6
 SEQUENCE:0
-DTSTAMP:20251115T171405
-DTSTART:20251116T181500
-DTEND:20251116T190000
-SUMMARY:🏀 U18 Boys: Timberwolves Lakers vs Stanhope Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Stanho
- pe Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:300c2b02-3165-46be-ae35-3e262d7fcc11
-SEQUENCE:0
-DTSTAMP:20251115T171405
+DTSTAMP:20251116T171455
 DTSTART:20251123T181500
 DTEND:20251123T190000
 SUMMARY:🏀 U18 Boys: Timberwolves Lakers vs Malvern Tigers Black
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3f6c2ac2-41f8-411b-83af-7f43b3624165
+UID:9f48c3fe-c5eb-4e82-83e4-4da1f17b0445
 SEQUENCE:0
-DTSTAMP:20251115T171405
+DTSTAMP:20251116T171455
 DTSTART:20251130T173000
 DTEND:20251130T181500
 SUMMARY:🏀 U18 Boys: Timberwolves Lakers vs Ashy Lightning Gold
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3589740a-581c-4772-a777-5281d1873b58
+UID:c289f90e-9adf-46e6-9cd6-a1e0e7490bef
 SEQUENCE:0
-DTSTAMP:20251115T171405
+DTSTAMP:20251116T171455
 DTSTART:20251207T190000
 DTEND:20251207T194500
 SUMMARY:🏀 U18 Boys: Timberwolves Lakers vs Hazelwood Park Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Hazelw
  ood Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c6223ce6-2a79-47e3-9506-8bf9590d3321
+UID:c43bff6a-91b7-423d-93ba-ab4b587bd7f6
 SEQUENCE:0
-DTSTAMP:20251115T171405
+DTSTAMP:20251116T171455
 DTSTART:20251214T181500
 DTEND:20251214T190000
 SUMMARY:🏀 U18 Boys: Timberwolves Lakers vs Tooronga Piranhas
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Tooron
  ga Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:21914630-6aad-46d5-a272-3d9c38e0b6d0
+UID:bf5827ae-a65d-4948-b9e3-8730899facc7
 SEQUENCE:0
-DTSTAMP:20251115T171405
+DTSTAMP:20251116T171455
 DTSTART:20260201T190000
 DTEND:20260201T194500
 SUMMARY:🏀 U18 Boys: Timberwolves Lakers vs Maccabi Warriors
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f52d1be9-07bc-4a51-ad41-a63a8ab3a3b4
+UID:de3b7f55-2f5f-41f1-b3a4-bea925295fb6
 SEQUENCE:0
-DTSTAMP:20251115T171405
+DTSTAMP:20251116T171455
 DTSTART:20260208T173000
 DTEND:20260208T181500
 SUMMARY:🏀 U18 Boys: Timberwolves Lakers vs Solway Vampires
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Vampires\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:944c8680-a278-4ab8-a54b-95bf5974168e
+UID:75c32101-3e14-44db-95ba-44de1bf6b9d6
 SEQUENCE:0
-DTSTAMP:20251115T171405
+DTSTAMP:20251116T171455
 DTSTART:20260215T173000
 DTEND:20260215T181500
 SUMMARY:🏀 U18 Boys: Timberwolves Lakers vs Stanhope Piranhas
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Stanho
  pe Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:485a5ceb-ee6c-4bc9-84fc-93bf437a79b7
+UID:7663a7c2-8bb4-4f2e-871b-6ac78ce25a18
 SEQUENCE:0
-DTSTAMP:20251115T171405
+DTSTAMP:20251116T171455
 DTSTART:20260222T181500
 DTEND:20260222T190000
 SUMMARY:🏀 U18 Boys: Timberwolves Lakers vs Malvern Tigers Black
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e7a87065-607a-462b-b547-46b5c7e55d7a
+UID:d7f1f35b-4b53-4cf6-b1cc-457c825b62b5
 SEQUENCE:0
-DTSTAMP:20251115T171405
+DTSTAMP:20251116T171455
 DTSTART:20260301T181500
 DTEND:20260301T190000
 SUMMARY:🏀 U18 Boys: Timberwolves Lakers vs Ashy Lightning Gold
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0f12970d-1d63-4aaa-891a-11889f55d250
+UID:3a8b1d7e-5132-4d26-a7aa-485e30884901
 SEQUENCE:0
-DTSTAMP:20251115T171405
+DTSTAMP:20251116T171455
 DTSTART:20260315T190000
 DTEND:20260315T194500
 SUMMARY:🏀 U18 Boys: Timberwolves Lakers vs Hazelwood Park Piranhas

@@ -6,20 +6,9 @@ X-WR-CALNAME:Hazelwood Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:918426f1-f881-4358-9374-9e67d10e7409
+UID:6906228b-c121-4684-a48e-fcac774304e3
 SEQUENCE:0
-DTSTAMP:20251115T171403
-DTSTART:20251116T190000
-DTEND:20251116T194500
-SUMMARY:🏀 U18 Boys: Hazelwood Park Piranhas vs Maccabi Warriors
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
- i Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:4c58c9d2-2ba9-47a7-80ec-781238a255a1
-SEQUENCE:0
-DTSTAMP:20251115T171403
+DTSTAMP:20251116T171453
 DTSTART:20251123T173000
 DTEND:20251123T181500
 SUMMARY:🏀 U18 Boys: Hazelwood Park Piranhas vs Solway Vampires
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Vampires\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:aae56832-a15f-449c-ad7f-ba69c2a7b911
+UID:cd87980b-be4a-42e7-89f6-f3ce13ed8378
 SEQUENCE:0
-DTSTAMP:20251115T171403
+DTSTAMP:20251116T171453
 DTSTART:20251130T190000
 DTEND:20251130T194500
 SUMMARY:🏀 U18 Boys: Hazelwood Park Piranhas vs Tooronga Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Tooron
  ga Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a978d236-91e7-4340-9795-96192dda8518
+UID:a2a799bd-d785-4de8-8c7c-8461a4cb982f
 SEQUENCE:0
-DTSTAMP:20251115T171403
+DTSTAMP:20251116T171453
 DTSTART:20251207T190000
 DTEND:20251207T194500
 SUMMARY:🏀 U18 Boys: Hazelwood Park Piranhas vs Timberwolves Lakers
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Lakers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8ad8a739-4e15-4e30-9835-c2c97d9f54e5
+UID:5f5f9561-6aa0-4f1f-a72d-f67efda78afb
 SEQUENCE:0
-DTSTAMP:20251115T171403
+DTSTAMP:20251116T171453
 DTSTART:20251214T190000
 DTEND:20251214T194500
 SUMMARY:🏀 U18 Boys: Hazelwood Park Piranhas vs Stanhope Piranhas
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Stanho
  pe Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a36a6c22-3d35-4f22-b5f1-ebf504235d87
+UID:63297489-bbff-49cb-8d72-83ee6fec2aa3
 SEQUENCE:0
-DTSTAMP:20251115T171403
+DTSTAMP:20251116T171453
 DTSTART:20260201T173000
 DTEND:20260201T181500
 SUMMARY:🏀 U18 Boys: Hazelwood Park Piranhas vs Malvern Tigers Black
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f183b3da-ef5f-4c6e-8e97-49c9257cf20c
+UID:65527c6c-791c-44fe-903c-1ff94bf9bd97
 SEQUENCE:0
-DTSTAMP:20251115T171403
+DTSTAMP:20251116T171453
 DTSTART:20260208T190000
 DTEND:20260208T194500
 SUMMARY:🏀 U18 Boys: Hazelwood Park Piranhas vs Ashy Lightning Gold
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:02b1afed-2e4e-4772-a908-ddfd5096fc81
+UID:474683aa-970b-4a2f-96e7-7c95fdd32418
 SEQUENCE:0
-DTSTAMP:20251115T171403
+DTSTAMP:20251116T171453
 DTSTART:20260215T181500
 DTEND:20260215T190000
 SUMMARY:🏀 U18 Boys: Hazelwood Park Piranhas vs Maccabi Warriors
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:931e6e68-1010-4946-b23e-d5eed8f00d55
+UID:b004a12c-367d-4176-969f-5c7d7c35c403
 SEQUENCE:0
-DTSTAMP:20251115T171403
+DTSTAMP:20251116T171453
 DTSTART:20260222T190000
 DTEND:20260222T194500
 SUMMARY:🏀 U18 Boys: Hazelwood Park Piranhas vs Solway Vampires
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Vampires\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6d89935e-0502-41fd-98b6-56ef5305d688
+UID:c3dfe947-a72c-4a75-9cbe-190fe7373e4c
 SEQUENCE:0
-DTSTAMP:20251115T171403
+DTSTAMP:20251116T171453
 DTSTART:20260301T173000
 DTEND:20260301T181500
 SUMMARY:🏀 U18 Boys: Hazelwood Park Piranhas vs Tooronga Piranhas
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Tooron
  ga Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4a9a1ee0-81f7-4681-ac6e-9ff289e7a5ab
+UID:7f444872-ca6b-4bc3-b163-7a513a5352e3
 SEQUENCE:0
-DTSTAMP:20251115T171403
+DTSTAMP:20251116T171453
 DTSTART:20260315T190000
 DTEND:20260315T194500
 SUMMARY:🏀 U18 Boys: Hazelwood Park Piranhas vs Timberwolves Lakers

@@ -6,20 +6,9 @@ X-WR-CALNAME:Stanhope Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:209d5ffb-e5ef-4c68-a776-3d0fbc128475
+UID:43c156c9-e4c8-491b-9e4e-e8406f5ad14f
 SEQUENCE:0
-DTSTAMP:20251115T171405
-DTSTART:20251116T181500
-DTEND:20251116T190000
-SUMMARY:🏀 U18 Boys: Stanhope Piranhas vs Timberwolves Lakers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
- wolves Lakers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:702521e3-9696-4280-b4f0-1ad830853040
-SEQUENCE:0
-DTSTAMP:20251115T171405
+DTSTAMP:20251116T171454
 DTSTART:20251123T190000
 DTEND:20251123T194500
 SUMMARY:🏀 U18 Boys: Stanhope Piranhas vs Ashy Lightning Gold
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4f75994a-2ba8-4047-ae14-6a7f0a4bcc2a
+UID:d82a8b68-112a-4f1a-8640-d806529e9d1a
 SEQUENCE:0
-DTSTAMP:20251115T171405
+DTSTAMP:20251116T171454
 DTSTART:20251130T190000
 DTEND:20251130T194500
 SUMMARY:🏀 U18 Boys: Stanhope Piranhas vs Solway Vampires
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Vampires\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d791f3ad-0245-4aa1-8ce9-398231a81845
+UID:d847e497-3b0b-4be4-b465-aec9b3910b50
 SEQUENCE:0
-DTSTAMP:20251115T171405
+DTSTAMP:20251116T171454
 DTSTART:20251207T173000
 DTEND:20251207T181500
 SUMMARY:🏀 U18 Boys: Stanhope Piranhas vs Malvern Tigers Black
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:661937c3-4fc5-4c10-b4aa-876fc16d8b10
+UID:cdefd6e0-ae1b-46a1-8b06-bfc162d0eb12
 SEQUENCE:0
-DTSTAMP:20251115T171405
+DTSTAMP:20251116T171454
 DTSTART:20251214T190000
 DTEND:20251214T194500
 SUMMARY:🏀 U18 Boys: Stanhope Piranhas vs Hazelwood Park Piranhas
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Hazelw
  ood Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:09a1f3e3-a653-4348-a862-b842a421a0de
+UID:7f6bc796-5824-44fe-bea8-be18d6544270
 SEQUENCE:0
-DTSTAMP:20251115T171405
+DTSTAMP:20251116T171454
 DTSTART:20260201T190000
 DTEND:20260201T194500
 SUMMARY:🏀 U18 Boys: Stanhope Piranhas vs Tooronga Piranhas
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Tooron
  ga Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:62cfe4d3-fbcf-4ee6-b06a-8affe0ad7c56
+UID:43ac6657-45fd-4760-ba6a-22fd208fd6a9
 SEQUENCE:0
-DTSTAMP:20251115T171405
+DTSTAMP:20251116T171454
 DTSTART:20260208T190000
 DTEND:20260208T194500
 SUMMARY:🏀 U18 Boys: Stanhope Piranhas vs Maccabi Warriors
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9cf71c77-88a4-4f24-bd2e-d77bf22e235d
+UID:59cea16d-86dd-45a7-8524-e8f7e207cffa
 SEQUENCE:0
-DTSTAMP:20251115T171405
+DTSTAMP:20251116T171454
 DTSTART:20260215T173000
 DTEND:20260215T181500
 SUMMARY:🏀 U18 Boys: Stanhope Piranhas vs Timberwolves Lakers
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Lakers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e2f28194-a75d-472e-b56b-37978efb61a5
+UID:98c30f03-bd54-49a7-b768-40b0476a9992
 SEQUENCE:0
-DTSTAMP:20251115T171405
+DTSTAMP:20251116T171454
 DTSTART:20260222T190000
 DTEND:20260222T194500
 SUMMARY:🏀 U18 Boys: Stanhope Piranhas vs Ashy Lightning Gold
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fb5ec133-73ef-4f11-861b-b92a0897cb8f
+UID:cc0fc3c9-2f48-4209-bf04-ab610d5f6e6a
 SEQUENCE:0
-DTSTAMP:20251115T171405
+DTSTAMP:20251116T171454
 DTSTART:20260301T190000
 DTEND:20260301T194500
 SUMMARY:🏀 U18 Boys: Stanhope Piranhas vs Solway Vampires
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Vampires\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8d1e8fd5-a08c-4e3b-99de-c48c44e07fb3
+UID:64f6422f-dc20-4976-be35-bb7ba3af43d0
 SEQUENCE:0
-DTSTAMP:20251115T171405
+DTSTAMP:20251116T171454
 DTSTART:20260315T181500
 DTEND:20260315T190000
 SUMMARY:🏀 U18 Boys: Stanhope Piranhas vs Malvern Tigers Black

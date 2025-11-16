@@ -6,20 +6,9 @@ X-WR-CALNAME:Ferncroft Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:ac82b539-ff08-4ef7-830d-108f032dd361
+UID:dfadb6bc-177c-45b7-802e-e6beac552d3e
 SEQUENCE:0
-DTSTAMP:20251115T171409
-DTSTART:20251116T173000
-DTEND:20251116T181500
-SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Maccabi Bucks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
- i Bucks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:404e8ea1-bdb2-4f01-9f78-09f240d53f34
-SEQUENCE:0
-DTSTAMP:20251115T171409
+DTSTAMP:20251116T171459
 DTSTART:20251123T181500
 DTEND:20251123T190000
 SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Glen Iris Scorpions Saints
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Saints\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b55ff8fa-4c6b-4784-be4b-a321de0764b9
+UID:59111ea0-fc8f-464b-80e0-1f9d816c91c8
 SEQUENCE:0
-DTSTAMP:20251115T171409
+DTSTAMP:20251116T171459
 DTSTART:20251130T181500
 DTEND:20251130T190000
 SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Maccabi Thunder
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
  i Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d32abb57-778e-45ee-a73b-3d24f70e1fde
+UID:cccb96ee-ff81-43fb-af94-a6c20b22cf58
 SEQUENCE:0
-DTSTAMP:20251115T171409
+DTSTAMP:20251116T171459
 DTSTART:20251207T173000
 DTEND:20251207T181500
 SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Comets Storm
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Comets
   Storm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1e6e1f38-802f-4968-8bbf-a995924f4487
+UID:cf3c6731-903b-47bb-bb13-bba0818486fc
 SEQUENCE:0
-DTSTAMP:20251115T171409
+DTSTAMP:20251116T171459
 DTSTART:20251214T190000
 DTEND:20251214T194500
 SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Timberwolves Wizards
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Wizards\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6f976bff-4c62-4ce7-ae01-2a1e55a039a2
+UID:ea670f4f-ba6d-4c72-8045-d700f2fad108
 SEQUENCE:0
-DTSTAMP:20251115T171409
+DTSTAMP:20251116T171459
 DTSTART:20260201T181500
 DTEND:20260201T190000
 SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Timberwolves Wildcats
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Wildcats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e6ea85a4-f483-49ae-bc00-d8394f787db8
+UID:c5d54d97-49f1-435b-b169-524dff5c72fb
 SEQUENCE:0
-DTSTAMP:20251115T171409
+DTSTAMP:20251116T171459
 DTSTART:20260208T181500
 DTEND:20260208T190000
 SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Maccabi Vipers
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Vipers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3d78c8f3-0f5b-40b5-979c-fd33ffa055ff
+UID:f0dacd20-075a-4e6c-a10b-408b0612cc5d
 SEQUENCE:0
-DTSTAMP:20251115T171409
+DTSTAMP:20251116T171459
 DTSTART:20260215T181500
 DTEND:20260215T190000
 SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Maccabi Bucks
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f1ea6fc2-cdf8-4df6-87a7-57e74596fa7c
+UID:9ec49750-5ffa-4de0-81e3-bf5a573590c7
 SEQUENCE:0
-DTSTAMP:20251115T171409
+DTSTAMP:20251116T171459
 DTSTART:20260222T190000
 DTEND:20260222T194500
 SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Glen Iris Scorpions Saints
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Saints\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:13e0a53b-4380-4e31-aa2a-c5529a0c4fd0
+UID:330ced13-4d30-4959-800a-8c66b2f2a7be
 SEQUENCE:0
-DTSTAMP:20251115T171409
+DTSTAMP:20251116T171459
 DTSTART:20260301T173000
 DTEND:20260301T181500
 SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Maccabi Thunder
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:aa93c2f0-b470-4ee3-aa4f-180e214d3707
+UID:563fb458-285b-4137-a7f2-c18b018e07a3
 SEQUENCE:0
-DTSTAMP:20251115T171409
+DTSTAMP:20251116T171459
 DTSTART:20260315T181500
 DTEND:20260315T190000
 SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Comets Storm

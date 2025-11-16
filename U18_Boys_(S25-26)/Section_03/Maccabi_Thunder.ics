@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Thunder Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c78952e3-454e-4f6b-9aa0-b24ecdbfdbb5
+UID:683d0f87-0941-425c-8817-9ae57a880c92
 SEQUENCE:0
-DTSTAMP:20251115T171411
-DTSTART:20251116T181500
-DTEND:20251116T190000
-SUMMARY:🏀 U18 Boys: Maccabi Thunder vs Glen Iris Scorpions Saints
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
- ris Scorpions Saints\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:46622fd8-066a-466f-8395-921a39b3ddd6
-SEQUENCE:0
-DTSTAMP:20251115T171411
+DTSTAMP:20251116T171500
 DTSTART:20251123T173000
 DTEND:20251123T181500
 SUMMARY:🏀 U18 Boys: Maccabi Thunder vs Timberwolves Wildcats
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Wildcats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f554f22d-24f0-4a83-bd82-b5147ef3dea1
+UID:72b9aa7f-cdc9-49e5-b466-f29adeaadacf
 SEQUENCE:0
-DTSTAMP:20251115T171411
+DTSTAMP:20251116T171500
 DTSTART:20251130T181500
 DTEND:20251130T190000
 SUMMARY:🏀 U18 Boys: Maccabi Thunder vs Ferncroft Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ferncr
  oft Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c940a069-5e9e-444e-82a9-cf5c996eede6
+UID:1af7f776-d2ea-478c-a650-be02fc0fdb95
 SEQUENCE:0
-DTSTAMP:20251115T171411
+DTSTAMP:20251116T171500
 DTSTART:20251207T181500
 DTEND:20251207T190000
 SUMMARY:🏀 U18 Boys: Maccabi Thunder vs Timberwolves Wizards
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Wizards\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:aa338567-013c-4bd4-8b13-bc591323c58e
+UID:2037a82a-841e-435e-a0e0-d19a89603494
 SEQUENCE:0
-DTSTAMP:20251115T171411
+DTSTAMP:20251116T171500
 DTSTART:20251214T173000
 DTEND:20251214T181500
 SUMMARY:🏀 U18 Boys: Maccabi Thunder vs Maccabi Vipers
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Vipers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:720c7e12-94dc-49c7-a4b0-e0e13f9c48d6
+UID:c005e21b-4870-47ba-8d16-9c8d7e0323d7
 SEQUENCE:0
-DTSTAMP:20251115T171411
+DTSTAMP:20251116T171500
 DTSTART:20260201T181500
 DTEND:20260201T190000
 SUMMARY:🏀 U18 Boys: Maccabi Thunder vs Maccabi Bucks
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ae60d948-c35f-46dc-b413-aecda71a2d88
+UID:d7672d55-96ac-4d2e-b33f-fa9514dffbe6
 SEQUENCE:0
-DTSTAMP:20251115T171411
+DTSTAMP:20251116T171500
 DTSTART:20260208T190000
 DTEND:20260208T194500
 SUMMARY:🏀 U18 Boys: Maccabi Thunder vs Comets Storm
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Comets
   Storm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5ff76f3a-a297-4322-aed8-3b4dd6087c00
+UID:71bd228b-d775-4447-8194-a664f4756f08
 SEQUENCE:0
-DTSTAMP:20251115T171411
+DTSTAMP:20251116T171500
 DTSTART:20260215T190000
 DTEND:20260215T194500
 SUMMARY:🏀 U18 Boys: Maccabi Thunder vs Glen Iris Scorpions Saints
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Saints\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f1a040f1-29ff-48b6-b625-af9679e692cd
+UID:acf20a2e-d64d-49f3-a2c2-2c149733d0fe
 SEQUENCE:0
-DTSTAMP:20251115T171411
+DTSTAMP:20251116T171500
 DTSTART:20260222T181500
 DTEND:20260222T190000
 SUMMARY:🏀 U18 Boys: Maccabi Thunder vs Timberwolves Wildcats
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Wildcats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b1eb0147-9926-415d-ba84-4acb59fe190f
+UID:12610b7f-8e6f-4efd-a184-a6bf8893dd87
 SEQUENCE:0
-DTSTAMP:20251115T171411
+DTSTAMP:20251116T171500
 DTSTART:20260301T173000
 DTEND:20260301T181500
 SUMMARY:🏀 U18 Boys: Maccabi Thunder vs Ferncroft Piranhas
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ferncr
  oft Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ef0edf01-f83e-4be0-b75b-1be3eb8d8251
+UID:892c16d6-e291-40cc-9df1-5d4d036a71d4
 SEQUENCE:0
-DTSTAMP:20251115T171411
+DTSTAMP:20251116T171500
 DTSTART:20260315T181500
 DTEND:20260315T190000
 SUMMARY:🏀 U18 Boys: Maccabi Thunder vs Timberwolves Wizards

@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Trouble Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e19cdb14-705b-4033-8578-205bde85199c
+UID:baef1475-ae2d-433c-99e3-75b87440796a
 SEQUENCE:0
-DTSTAMP:20251115T171206
-DTSTART:20251116T164500
-DTEND:20251116T173000
-SUMMARY:🏀 U12 Boys: Toorak Trouble vs Central Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Centra
- l Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:bf58f027-2fee-4d00-8430-7e2740e700d4
-SEQUENCE:0
-DTSTAMP:20251115T171206
+DTSTAMP:20251116T171250
 DTSTART:20251122T131500
 DTEND:20251122T140000
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Maccabi Giants
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Giants\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d3926591-e037-45a6-afed-e366dd9281a3
+UID:3667d599-3a5f-4a7f-b7c3-431c1ee9c7ab
 SEQUENCE:0
-DTSTAMP:20251115T171206
+DTSTAMP:20251116T171250
 DTSTART:20251129T123000
 DTEND:20251129T131500
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Ashy Lightning Green
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6acac3d3-0a05-4ff6-b50b-92c5035280ca
+UID:a34be366-d6f1-4108-a52b-cde672eb0858
 SEQUENCE:0
-DTSTAMP:20251115T171206
+DTSTAMP:20251116T171250
 DTSTART:20251206T123000
 DTEND:20251206T131500
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Comets Cyclones
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Comets
  Cyclones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9ce8d277-5b74-47ff-942f-a20c2d1f6052
+UID:9175b0f1-2006-4cc1-af09-a1e7bab277f5
 SEQUENCE:0
-DTSTAMP:20251115T171206
+DTSTAMP:20251116T171250
 DTSTART:20251213T131500
 DTEND:20251213T140000
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Solway Lions
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Lions\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9aadbdbf-464d-450f-8130-30115c6e08e4
+UID:58e09d8d-9918-4da5-806b-5255ba784a17
 SEQUENCE:0
-DTSTAMP:20251115T171206
+DTSTAMP:20251116T171250
 DTSTART:20260207T123000
 DTEND:20260207T131500
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Glen Iris Scorpions Gardiner
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c7c65bfc-bf46-4eb7-aa28-de3adadff677
+UID:04e2e946-5268-4719-b3ca-652480199d57
 SEQUENCE:0
-DTSTAMP:20251115T171206
+DTSTAMP:20251116T171250
 DTSTART:20260214T123000
 DTEND:20260214T131500
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs AlphaWolf Lakers
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
  lf Lakers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e952bbd5-66cf-4fc8-8018-b767c1f2696f
+UID:3f185a79-10c2-4ae9-b6bf-f37698f31a28
 SEQUENCE:0
-DTSTAMP:20251115T171206
+DTSTAMP:20251116T171250
 DTSTART:20260221T123000
 DTEND:20260221T131500
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Malvern Tigers Purple
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Purple\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:133f433a-12c7-4c78-a758-58f6cac3aeff
+UID:4d505539-0fe4-4e03-b854-abd42e5d1663
 SEQUENCE:0
-DTSTAMP:20251115T171206
+DTSTAMP:20251116T171250
 DTSTART:20260228T123000
 DTEND:20260228T131500
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Central Park Piranhas
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Central
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:eeb73301-f3e2-4095-8df2-2a54af4fccac
+UID:4cd7587f-d8de-4379-a7dc-d7d8a7bf8ff7
 SEQUENCE:0
-DTSTAMP:20251115T171206
+DTSTAMP:20251116T171250
 DTSTART:20260314T131500
 DTEND:20260314T140000
 SUMMARY:🏀 U12 Boys: Toorak Trouble vs Maccabi Giants

@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Mambas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:de26210f-a5c1-4fc0-aade-5f34a4f476af
+UID:6a697af6-16e3-4823-ba6a-5164b0b91ba1
 SEQUENCE:0
-DTSTAMP:20251115T171413
-DTSTART:20251116T181500
-DTEND:20251116T190000
-SUMMARY:🏀 U18 Boys: Solway Mambas vs Spring Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Spring
-  Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:19320611-da65-4c55-aad5-05b01bf207cc
-SEQUENCE:0
-DTSTAMP:20251115T171413
+DTSTAMP:20251116T171503
 DTSTART:20251123T181500
 DTEND:20251123T190000
 SUMMARY:🏀 U18 Boys: Solway Mambas vs Toorak Turbos
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
   Turbos\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cebb4c0d-aa31-4fac-830b-2e9aed8e7e82
+UID:9f0e36be-5fb1-41b0-844b-4902d0eb6afd
 SEQUENCE:0
-DTSTAMP:20251115T171413
+DTSTAMP:20251116T171503
 DTSTART:20251130T173000
 DTEND:20251130T181500
 SUMMARY:🏀 U18 Boys: Solway Mambas vs Timberwolves Stars
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Stars\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:86a20010-ee99-4f99-b9b4-97b31d4bbda7
+UID:275f4ef7-c7d0-4124-97e6-88e0555b2a58
 SEQUENCE:0
-DTSTAMP:20251115T171413
+DTSTAMP:20251116T171503
 DTSTART:20251207T181500
 DTEND:20251207T190000
 SUMMARY:🏀 U18 Boys: Solway Mambas vs Maccabi Celtics
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a8486917-6612-4357-aaa5-089033dcb900
+UID:e29d9b41-d16d-4ab6-938f-9359ee9c7382
 SEQUENCE:0
-DTSTAMP:20251115T171413
+DTSTAMP:20251116T171503
 DTSTART:20251214T173000
 DTEND:20251214T181500
 SUMMARY:🏀 U18 Boys: Solway Mambas vs Timberwolves Trailblazers
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Trailblazers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3252f8d9-45d9-4b5a-8474-f48821edd9e9
+UID:e1731247-047a-4d34-9b6a-1f02d74606da
 SEQUENCE:0
-DTSTAMP:20251115T171413
+DTSTAMP:20251116T171503
 DTSTART:20260201T173000
 DTEND:20260201T181500
 SUMMARY:🏀 U18 Boys: Solway Mambas vs Timberwolves Knights
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Knights\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1025a196-89ef-4c86-ab1b-236153cd264c
+UID:8524e8b2-d9bd-43c0-a06b-329079025d84
 SEQUENCE:0
-DTSTAMP:20251115T171413
+DTSTAMP:20251116T171503
 DTSTART:20260208T173000
 DTEND:20260208T181500
 SUMMARY:🏀 U18 Boys: Solway Mambas vs Malvern Tigers Red
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2a6bf542-bdb2-4248-b20a-2166b4c9d649
+UID:30cd4c45-508d-4886-ba26-c028601a5eca
 SEQUENCE:0
-DTSTAMP:20251115T171413
+DTSTAMP:20251116T171503
 DTSTART:20260215T173000
 DTEND:20260215T181500
 SUMMARY:🏀 U18 Boys: Solway Mambas vs Spring Park Piranhas
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Spring
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7a4626f1-2c74-469d-9e4d-0cb6d1d1613e
+UID:e09629b8-6242-49ef-bbf6-aa2de2c9ee6c
 SEQUENCE:0
-DTSTAMP:20251115T171413
+DTSTAMP:20251116T171503
 DTSTART:20260222T181500
 DTEND:20260222T190000
 SUMMARY:🏀 U18 Boys: Solway Mambas vs Toorak Turbos
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Turbos\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:66db375a-4ea6-4261-b063-db7cef30f497
+UID:496fbffb-4aba-4e12-9396-8ebd3f12021e
 SEQUENCE:0
-DTSTAMP:20251115T171413
+DTSTAMP:20251116T171503
 DTSTART:20260301T181500
 DTEND:20260301T190000
 SUMMARY:🏀 U18 Boys: Solway Mambas vs Timberwolves Stars
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Stars\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:aac6eda8-e5d5-4423-b443-1c8f55366c5d
+UID:bed6a4a0-e15b-497c-8c07-911319cb0fcb
 SEQUENCE:0
-DTSTAMP:20251115T171413
+DTSTAMP:20251116T171503
 DTSTART:20260315T181500
 DTEND:20260315T190000
 SUMMARY:🏀 U18 Boys: Solway Mambas vs Maccabi Celtics

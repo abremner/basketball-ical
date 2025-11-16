@@ -6,20 +6,9 @@ X-WR-CALNAME:Malvern Tigers Red Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d23b7fb7-a813-487e-9959-0c7fd209f87e
+UID:c3a5231b-0112-4ce5-b16a-60b14d16b0f1
 SEQUENCE:0
-DTSTAMP:20251115T171413
-DTSTART:20251116T173000
-DTEND:20251116T181500
-SUMMARY:🏀 U18 Boys: Malvern Tigers Red vs Timberwolves Stars
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
- wolves Stars\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5acdaf08-1153-4681-87bd-47c40a89c520
-SEQUENCE:0
-DTSTAMP:20251115T171413
+DTSTAMP:20251116T171503
 DTSTART:20251123T173000
 DTEND:20251123T181500
 SUMMARY:🏀 U18 Boys: Malvern Tigers Red vs Spring Park Piranhas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Spring
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:86c03c86-fbf0-4e9e-a186-7606c72ffd10
+UID:01996b3e-3a88-405d-a58d-4ad440e0024d
 SEQUENCE:0
-DTSTAMP:20251115T171413
+DTSTAMP:20251116T171503
 DTSTART:20251130T181500
 DTEND:20251130T190000
 SUMMARY:🏀 U18 Boys: Malvern Tigers Red vs Toorak Turbos
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Turbos\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b4d2ff44-9a7d-448b-a91e-6400a2e650b2
+UID:fb3f8f58-c5b5-4a49-9b87-97c647c2a8e2
 SEQUENCE:0
-DTSTAMP:20251115T171413
+DTSTAMP:20251116T171503
 DTSTART:20251207T181500
 DTEND:20251207T190000
 SUMMARY:🏀 U18 Boys: Malvern Tigers Red vs Timberwolves Trailblazers
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Trailblazers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b5bf1305-3e10-4b29-9c6a-8b5846d8baa1
+UID:4d74d4a8-008d-47ff-8cf5-30402f7a6d63
 SEQUENCE:0
-DTSTAMP:20251115T171413
+DTSTAMP:20251116T171503
 DTSTART:20251214T173000
 DTEND:20251214T181500
 SUMMARY:🏀 U18 Boys: Malvern Tigers Red vs Timberwolves Knights
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Knights\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e7bc49b0-8f6c-46a7-aa58-e99d5e3849a6
+UID:94ab9e19-efdc-417b-b568-41028fbe1fe4
 SEQUENCE:0
-DTSTAMP:20251115T171413
+DTSTAMP:20251116T171503
 DTSTART:20260201T173000
 DTEND:20260201T181500
 SUMMARY:🏀 U18 Boys: Malvern Tigers Red vs Maccabi Celtics
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2feb4bfc-794c-4efa-9cdf-fabc0305ac96
+UID:cd2bd5e9-6b5e-46fb-9efd-f59e92f62da1
 SEQUENCE:0
-DTSTAMP:20251115T171413
+DTSTAMP:20251116T171503
 DTSTART:20260208T173000
 DTEND:20260208T181500
 SUMMARY:🏀 U18 Boys: Malvern Tigers Red vs Solway Mambas
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Mambas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:49675984-9bf2-4a3d-be66-5fe96b8e2696
+UID:90901033-433c-46d8-a9ca-19a0f3a6fb09
 SEQUENCE:0
-DTSTAMP:20251115T171413
+DTSTAMP:20251116T171503
 DTSTART:20260215T181500
 DTEND:20260215T190000
 SUMMARY:🏀 U18 Boys: Malvern Tigers Red vs Timberwolves Stars
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Stars\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0688dd1d-e92e-4535-96a2-1a255b985ac2
+UID:006ab47d-950a-4d2b-a736-645d891996e3
 SEQUENCE:0
-DTSTAMP:20251115T171413
+DTSTAMP:20251116T171503
 DTSTART:20260222T181500
 DTEND:20260222T190000
 SUMMARY:🏀 U18 Boys: Malvern Tigers Red vs Spring Park Piranhas
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Spring
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7367f02f-a6e1-45d6-8c27-db026517e330
+UID:cf3684f3-72ab-4d94-b71a-e17b109b37f2
 SEQUENCE:0
-DTSTAMP:20251115T171413
+DTSTAMP:20251116T171503
 DTSTART:20260301T173000
 DTEND:20260301T181500
 SUMMARY:🏀 U18 Boys: Malvern Tigers Red vs Toorak Turbos
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Turbos\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d8207ae4-c1d4-436a-80d9-b9a47afef2b6
+UID:a0023dae-e73e-4599-8cb1-9ffa47b5e25f
 SEQUENCE:0
-DTSTAMP:20251115T171413
+DTSTAMP:20251116T171503
 DTSTART:20260315T173000
 DTEND:20260315T181500
 SUMMARY:🏀 U18 Boys: Malvern Tigers Red vs Timberwolves Trailblazers

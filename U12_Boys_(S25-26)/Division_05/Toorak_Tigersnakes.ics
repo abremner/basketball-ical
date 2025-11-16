@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Tigersnakes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b4d288bd-a370-450d-8d14-8e32da592182
+UID:e2e66e9d-15e5-401a-a8f8-c130e18bc9c9
 SEQUENCE:0
-DTSTAMP:20251115T171202
-DTSTART:20251116T164500
-DTEND:20251116T173000
-SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Toorak T-Bones
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
-  T-Bones\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:eaf82ca9-8177-4b18-af26-8a2424cbf867
-SEQUENCE:0
-DTSTAMP:20251115T171202
+DTSTAMP:20251116T171246
 DTSTART:20251122T144500
 DTEND:20251122T153000
 SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Malvern Tigers Blue
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Blue\nArrive 1
  5 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3616afe2-880f-4d90-afe3-02276bb7abf6
+UID:6081ff0d-552c-42e7-a55e-a298327dcc0d
 SEQUENCE:0
-DTSTAMP:20251115T171202
+DTSTAMP:20251116T171246
 DTSTART:20251129T140000
 DTEND:20251129T144500
 SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Timberwolves Knicks
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Knicks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7e5a9860-e0de-49a1-ac91-021349acd087
+UID:c04c7463-ad3d-4a3c-95da-1fccf3dbccee
 SEQUENCE:0
-DTSTAMP:20251115T171202
+DTSTAMP:20251116T171246
 DTSTART:20251206T140000
 DTEND:20251206T144500
 SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Comets Tigers
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Comets
  Tigers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8f1c2f88-8a16-470e-9a4a-792c4dffb264
+UID:8c2abb77-821e-477e-9faf-f18f02b33bd4
 SEQUENCE:0
-DTSTAMP:20251115T171202
+DTSTAMP:20251116T171246
 DTSTART:20251213T140000
 DTEND:20251213T144500
 SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Malvern Tigers Brown
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1f9ed2c7-d90c-4c2b-8acf-acb3f6be39b6
+UID:b75bf704-9d27-4796-8b62-b64ac63edda7
 SEQUENCE:0
-DTSTAMP:20251115T171202
+DTSTAMP:20251116T171246
 DTSTART:20260131T131500
 DTEND:20260131T140000
 SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Maccabi Falcons
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dd70412b-84ca-4b55-ad06-a57c49c257bb
+UID:f30cedb9-a116-4916-87ce-1e8291b1dab8
 SEQUENCE:0
-DTSTAMP:20251115T171202
+DTSTAMP:20251116T171246
 DTSTART:20260207T131500
 DTEND:20260207T140000
 SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Maccabi Eagles
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:689e7ab1-6a4f-46da-9fa4-54a878f3f190
+UID:06d07715-3ce1-4468-a0c7-862c0e5b6331
 SEQUENCE:0
-DTSTAMP:20251115T171202
+DTSTAMP:20251116T171246
 DTSTART:20260214T140000
 DTEND:20260214T144500
 SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Toorak T-Bones
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
   T-Bones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:aa2cd535-edc1-4036-bf69-1aca05b8d9bd
+UID:519d39dc-e0b2-41de-b552-a8e1cc1c372e
 SEQUENCE:0
-DTSTAMP:20251115T171202
+DTSTAMP:20251116T171246
 DTSTART:20260221T144500
 DTEND:20260221T153000
 SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Malvern Tigers Blue
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Blue\nArrive 1
  5 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:489f1a49-db0f-439f-ab03-b02e2b2b382a
+UID:4d87d616-37df-411d-8a8e-23b4605e91e1
 SEQUENCE:0
-DTSTAMP:20251115T171202
+DTSTAMP:20251116T171246
 DTSTART:20260228T140000
 DTEND:20260228T144500
 SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Timberwolves Knicks
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
  olves Knicks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:66bcdae4-0213-41e5-a0b9-6554c328f4fd
+UID:aa8f989d-1bc2-4f03-a0af-76f59dff3ecc
 SEQUENCE:0
-DTSTAMP:20251115T171202
+DTSTAMP:20251116T171246
 DTSTART:20260314T131500
 DTEND:20260314T140000
 SUMMARY:🏀 U12 Boys: Toorak Tigersnakes vs Comets Tigers
