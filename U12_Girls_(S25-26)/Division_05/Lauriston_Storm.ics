@@ -6,31 +6,31 @@ X-WR-CALNAME:Lauriston Storm Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e70eafce-12f2-4c61-8e9d-d740b2a610d1
+UID:8ee9b659-c24c-4ebf-b775-273f6d6889ff
 SEQUENCE:0
-DTSTAMP:20251116T171322
-DTSTART:20251122T123000
-DTEND:20251122T131500
+DTSTAMP:20251117T171538
+DTSTART:20251122T140000
+DTEND:20251122T144500
 SUMMARY:🏀 U12 Girls: Lauriston Storm vs Maccabi Bucks
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
-  Bucks\nArrive 15 mins early for warm-up
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Buc
+ ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c29adf29-4186-4532-a31f-9e3bb8d8bbba
+UID:77f9246a-8235-4063-9ede-babcbeeb2c07
 SEQUENCE:0
-DTSTAMP:20251116T171322
-DTSTART:20251206T123000
-DTEND:20251206T131500
+DTSTAMP:20251117T171538
+DTSTART:20251206T140000
+DTEND:20251206T144500
 SUMMARY:🏀 U12 Girls: Lauriston Storm vs Korowa Grey
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Korowa 
- Grey\nArrive 15 mins early for warm-up
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Korowa Grey
+ \nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e6a2ba7e-e559-4c74-a739-4fe9c2c21ebd
+UID:9576e6b1-3767-4aaa-9074-95be8efcb9a7
 SEQUENCE:0
-DTSTAMP:20251116T171322
+DTSTAMP:20251117T171538
 DTSTART:20251213T140000
 DTEND:20251213T144500
 SUMMARY:🏀 U12 Girls: Lauriston Storm vs Maccabi Eagles
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Eag
  les\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4c9a872f-1e0b-4255-b29f-8666bd204df1
+UID:df911e89-8271-4296-8d2d-e24609199bdc
 SEQUENCE:0
-DTSTAMP:20251116T171322
+DTSTAMP:20251117T171538
 DTSTART:20260131T140000
 DTEND:20260131T144500
 SUMMARY:🏀 U12 Girls: Lauriston Storm vs Solway Sparrows
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Spar
  rows\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1b99b96e-11b0-4c55-98f8-98c192ec3c98
+UID:767bd609-284a-4273-9301-05c902c6d236
 SEQUENCE:0
-DTSTAMP:20251116T171322
+DTSTAMP:20251117T171538
 DTSTART:20260207T140000
 DTEND:20260207T144500
 SUMMARY:🏀 U12 Girls: Lauriston Storm vs Solway Red Robins
@@ -61,20 +61,20 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Red
  Robins\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1ea1a11d-ecf8-4f0c-a427-d17bd81853d2
+UID:4b02411f-ee46-426f-b02d-8535219b0744
 SEQUENCE:0
-DTSTAMP:20251116T171322
-DTSTART:20260214T131500
-DTEND:20260214T140000
+DTSTAMP:20251117T171538
+DTSTART:20260214T140000
+DTEND:20260214T144500
 SUMMARY:🏀 U12 Girls: Lauriston Storm vs Timberwolves Pearls
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
- olves Pearls\nArrive 15 mins early for warm-up
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Timberwolve
+ s Pearls\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5b3dcb2b-37af-4bf0-a794-9df759565a56
+UID:27b659b2-8587-4b5e-890e-b37fd317b12b
 SEQUENCE:0
-DTSTAMP:20251116T171322
+DTSTAMP:20251117T171538
 DTSTART:20260221T140000
 DTEND:20260221T144500
 SUMMARY:🏀 U12 Girls: Lauriston Storm vs Maccabi Ducks
@@ -83,25 +83,25 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Duc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:41ef9a2f-bd11-43cc-8a0e-1523f45770fd
+UID:c935056c-29c8-486c-8ff5-248b3e5a7e04
 SEQUENCE:0
-DTSTAMP:20251116T171322
-DTSTART:20260228T131500
-DTEND:20260228T140000
+DTSTAMP:20251117T171538
+DTSTART:20260228T140000
+DTEND:20260228T144500
 SUMMARY:🏀 U12 Girls: Lauriston Storm vs Malvern Tigers Blue
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
-  Tigers Blue\nArrive 15 mins early for warm-up
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ed05e520-b275-443c-b79b-451fe3b3097e
+UID:28408507-8d17-4a1e-ba20-63f483444857
 SEQUENCE:0
-DTSTAMP:20251116T171322
-DTSTART:20260314T123000
-DTEND:20260314T131500
+DTSTAMP:20251117T171538
+DTSTART:20260314T140000
+DTEND:20260314T144500
 SUMMARY:🏀 U12 Girls: Lauriston Storm vs Maccabi Bucks
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
-  Bucks\nArrive 15 mins early for warm-up
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Buc
+ ks\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,9 +6,9 @@ X-WR-CALNAME:Glen Iris Scorpions Sixers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d9f2fffb-cbc9-4f5e-94d5-7e74255071ad
+UID:5c790267-4d8e-4dc8-9461-496479e95c36
 SEQUENCE:0
-DTSTAMP:20251116T171520
+DTSTAMP:20251117T171720
 DTSTART:20251123T190000
 DTEND:20251123T194500
 SUMMARY:🏀 U21 Men: Glen Iris Scorpions Sixers vs Ashy Lightning Yellow
@@ -17,9 +17,20 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
  ightning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:83fc13bd-8af5-4827-8a1f-fdf0a367ebeb
+UID:39350ec6-4735-4253-bf44-16f0f44e1661
 SEQUENCE:0
-DTSTAMP:20251116T171520
+DTSTAMP:20251117T171720
+DTSTART:20251130T194500
+DTEND:20251130T203000
+SUMMARY:🏀 U21 Men: Glen Iris Scorpions Sixers vs Solway Taipans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Taipans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e0e4b74d-aad0-4c9b-b242-3359e8321d7b
+SEQUENCE:0
+DTSTAMP:20251117T171720
 DTSTART:20251207T194500
 DTEND:20251207T203000
 SUMMARY:🏀 U21 Men: Glen Iris Scorpions Sixers vs Ashy Lightning Green
@@ -28,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b556d1e9-d716-4924-84bd-500475e83c5f
+UID:ee8ffa5c-e5c1-49a6-9e4b-7b5929598868
 SEQUENCE:0
-DTSTAMP:20251116T171520
+DTSTAMP:20251117T171720
 DTSTART:20251214T190000
 DTEND:20251214T194500
 SUMMARY:🏀 U21 Men: Glen Iris Scorpions Sixers vs Titans Larrys
@@ -39,20 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Titans
   Larrys\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:30eb6241-b185-4802-8638-7ec7a8ac00f5
+UID:d6f2a8a9-c491-4b74-975f-a2ebdf2ce09e
 SEQUENCE:0
-DTSTAMP:20251116T171520
-DTSTART:20260201T194500
-DTEND:20260201T203000
-SUMMARY:🏀 U21 Men: Glen Iris Scorpions Sixers vs Solway Taipans
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
-  Taipans\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:8a35e3de-e167-4e4f-8a70-b53cb078b778
-SEQUENCE:0
-DTSTAMP:20251116T171520
+DTSTAMP:20251117T171720
 DTSTART:20260208T190000
 DTEND:20260208T194500
 SUMMARY:🏀 U21 Men: Glen Iris Scorpions Sixers vs Solway Pythons
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Pythons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6360079c-9287-4fa7-a2a7-39d133320d92
+UID:d6f1ccf4-5c5c-4de5-a64d-a1ad3e50f966
 SEQUENCE:0
-DTSTAMP:20251116T171520
+DTSTAMP:20251117T171720
 DTSTART:20260215T190000
 DTEND:20260215T194500
 SUMMARY:🏀 U21 Men: Glen Iris Scorpions Sixers vs Solway Cobras
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Cobras\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2857dfb1-0e1f-426a-9bf7-918761ea83cb
+UID:daaaab3a-e8f0-4119-9210-fb0e0451feb7
 SEQUENCE:0
-DTSTAMP:20251116T171520
+DTSTAMP:20251117T171720
 DTSTART:20260222T190000
 DTEND:20260222T194500
 SUMMARY:🏀 U21 Men: Glen Iris Scorpions Sixers vs Ashy Lightning Yellow
@@ -83,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
  ightning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d4e08343-45e4-4c7f-aaa7-a971d29d7fed
+UID:76af1cae-427b-404b-ac61-135fdb22eb73
 SEQUENCE:0
-DTSTAMP:20251116T171520
+DTSTAMP:20251117T171720
 DTSTART:20260315T194500
 DTEND:20260315T203000
 SUMMARY:🏀 U21 Men: Glen Iris Scorpions Sixers vs Ashy Lightning Green

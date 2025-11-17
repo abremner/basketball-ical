@@ -6,20 +6,20 @@ X-WR-CALNAME:Alma Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:87976c87-fe7b-47b2-ae44-0b6638ac17cc
+UID:12e61e08-be39-412e-a522-f256a5e206a0
 SEQUENCE:0
-DTSTAMP:20251116T171235
-DTSTART:20251122T144500
-DTEND:20251122T153000
+DTSTAMP:20251117T171458
+DTSTART:20251122T140000
+DTEND:20251122T144500
 SUMMARY:🏀 U12 Boys: Alma Park Piranhas vs Timberwolves Colts
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Colts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:23c2a4db-44ce-49b1-a3ef-2ada1acea868
+UID:3edfa85c-8902-4c6b-b3f3-99fd6e86d3c6
 SEQUENCE:0
-DTSTAMP:20251116T171235
+DTSTAMP:20251117T171458
 DTSTART:20251129T144500
 DTEND:20251129T153000
 SUMMARY:🏀 U12 Boys: Alma Park Piranhas vs Glen Iris Scorpions Ferndale
@@ -28,20 +28,20 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
  ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2a1a7af0-3cd0-4cdd-85d7-4872e696bba0
+UID:a847f9fb-50ae-46fc-947a-e0149173ad33
 SEQUENCE:0
-DTSTAMP:20251116T171235
-DTSTART:20251206T144500
-DTEND:20251206T153000
+DTSTAMP:20251117T171458
+DTSTART:20251206T140000
+DTEND:20251206T144500
 SUMMARY:🏀 U12 Boys: Alma Park Piranhas vs Malvern Tigers Red
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cca2998e-4b4c-42c7-8980-96957a648257
+UID:6cc3743e-05cd-4cd4-8ee4-79327e555de5
 SEQUENCE:0
-DTSTAMP:20251116T171235
+DTSTAMP:20251117T171458
 DTSTART:20251213T140000
 DTEND:20251213T144500
 SUMMARY:🏀 U12 Boys: Alma Park Piranhas vs Malvern Tigers Yellow
@@ -50,20 +50,20 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6b530313-f8fa-415e-a9b0-458c9193e249
+UID:ff2821e5-5bfd-49db-88cc-7d233c434750
 SEQUENCE:0
-DTSTAMP:20251116T171235
-DTSTART:20260131T144500
-DTEND:20260131T153000
+DTSTAMP:20251117T171458
+DTSTART:20260131T140000
+DTEND:20260131T144500
 SUMMARY:🏀 U12 Boys: Alma Park Piranhas vs Solway Cubs
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Cubs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c07f60a9-0ec7-4d01-9d41-1135d1e0b7c0
+UID:08d4e8f2-c7eb-4d27-9188-4dc1a1f7ab5d
 SEQUENCE:0
-DTSTAMP:20251116T171235
+DTSTAMP:20251117T171458
 DTSTART:20260207T144500
 DTEND:20260207T153000
 SUMMARY:🏀 U12 Boys: Alma Park Piranhas vs Timberwolves Colts
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Colts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7dd08bba-71cd-46f3-9928-14ff098964c9
+UID:043fac4a-2660-4f3d-b811-1ab7882f5896
 SEQUENCE:0
-DTSTAMP:20251116T171235
+DTSTAMP:20251117T171458
 DTSTART:20260214T144500
 DTEND:20260214T153000
 SUMMARY:🏀 U12 Boys: Alma Park Piranhas vs Glen Iris Scorpions Ferndale
@@ -83,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
  ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:03e903c2-5cd0-4a28-b7c1-f50a3b8cb3e0
+UID:dd50ef5a-6fa5-4bef-b672-c67da6a6dada
 SEQUENCE:0
-DTSTAMP:20251116T171235
+DTSTAMP:20251117T171458
 DTSTART:20260221T140000
 DTEND:20260221T144500
 SUMMARY:🏀 U12 Boys: Alma Park Piranhas vs Malvern Tigers Red
@@ -94,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:281edecb-e71a-48c5-9970-1e1c08aa2823
+UID:44991ccf-ded9-44b9-a3e3-725dde577b4f
 SEQUENCE:0
-DTSTAMP:20251116T171235
+DTSTAMP:20251117T171458
 DTSTART:20260228T144500
 DTEND:20260228T153000
 SUMMARY:🏀 U12 Boys: Alma Park Piranhas vs Malvern Tigers Yellow
@@ -105,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fdb8faba-a4d7-41e6-8a2c-8919f4f06911
+UID:14d74edb-6723-4884-8f27-55ced449f530
 SEQUENCE:0
-DTSTAMP:20251116T171235
+DTSTAMP:20251117T171458
 DTSTART:20260314T140000
 DTEND:20260314T144500
 SUMMARY:🏀 U12 Boys: Alma Park Piranhas vs Solway Cubs

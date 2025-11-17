@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Blazes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f74e8948-c975-4d7e-8f58-b0cb43875bba
+UID:3cdf499a-b48e-4ecb-9524-734bcf95f63c
 SEQUENCE:0
-DTSTAMP:20251116T171129
+DTSTAMP:20251117T171400
 DTSTART:20251122T080000
 DTEND:20251122T084500
 SUMMARY:🏀 U08 Girls: Solway Blazes vs Ashy Lightning Gold
@@ -17,20 +17,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
  ghtning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9a28c2a9-ec13-43e5-acfb-885faba335fb
+UID:1cf6d408-4b29-49f8-aae3-3af4f72c347d
 SEQUENCE:0
-DTSTAMP:20251116T171129
-DTSTART:20251129T101500
-DTEND:20251129T110000
+DTSTAMP:20251117T171400
+DTSTART:20251129T080000
+DTEND:20251129T084500
 SUMMARY:🏀 U08 Girls: Solway Blazes vs Solway Sparks
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Spar
- ks\nArrive 15 mins early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Sparks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b16c85af-d888-44c2-9a58-6ea25ff1fe0e
+UID:60c5d9a0-8909-4884-b712-e5e82446a617
 SEQUENCE:0
-DTSTAMP:20251116T171129
+DTSTAMP:20251117T171400
 DTSTART:20251213T101500
 DTEND:20251213T110000
 SUMMARY:🏀 U08 Girls: Solway Blazes vs Harleston Park Piranhas
@@ -39,20 +39,20 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Harleston P
  ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b823ea14-d4e7-4663-8a47-7493d97e1272
+UID:a7483acc-f027-42b4-902b-094d6322af90
 SEQUENCE:0
-DTSTAMP:20251116T171129
-DTSTART:20260131T080000
-DTEND:20260131T084500
+DTSTAMP:20251117T171400
+DTSTART:20260131T101500
+DTEND:20260131T110000
 SUMMARY:🏀 U08 Girls: Solway Blazes vs Solway Meteors
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
- Meteors\nArrive 15 mins early for warm-up
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Mete
+ ors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:347fef2f-bc25-43de-a17f-d99691bff9b4
+UID:614085e7-1e15-4545-a5b7-ae04f536a002
 SEQUENCE:0
-DTSTAMP:20251116T171129
+DTSTAMP:20251117T171400
 DTSTART:20260207T080000
 DTEND:20260207T084500
 SUMMARY:🏀 U08 Girls: Solway Blazes vs Ashy Lightning Gold
@@ -61,20 +61,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
  ghtning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:11d6a130-4e0f-4054-83b0-c9f2b0aed8bf
+UID:1b2d1c91-347c-485b-b13c-e1c49e5ede50
 SEQUENCE:0
-DTSTAMP:20251116T171129
-DTSTART:20260214T101500
-DTEND:20260214T110000
+DTSTAMP:20251117T171400
+DTSTART:20260214T080000
+DTEND:20260214T084500
 SUMMARY:🏀 U08 Girls: Solway Blazes vs Solway Sparks
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Spar
- ks\nArrive 15 mins early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Sparks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2fd3dd02-16ea-4ed2-8eef-b1998c56884f
+UID:dc7f3ad8-45cb-40ec-8244-341f5e3c11cc
 SEQUENCE:0
-DTSTAMP:20251116T171129
+DTSTAMP:20251117T171400
 DTSTART:20260228T101500
 DTEND:20260228T110000
 SUMMARY:🏀 U08 Girls: Solway Blazes vs Harleston Park Piranhas
@@ -83,14 +83,14 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Harleston P
  ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:84c004b3-b9bf-42fe-99e0-caa85ff03c98
+UID:5b339cfd-bf37-4667-90e1-408a5be0b78c
 SEQUENCE:0
-DTSTAMP:20251116T171129
-DTSTART:20260314T080000
-DTEND:20260314T084500
+DTSTAMP:20251117T171400
+DTSTART:20260314T101500
+DTEND:20260314T110000
 SUMMARY:🏀 U08 Girls: Solway Blazes vs Solway Meteors
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
- Meteors\nArrive 15 mins early for warm-up
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Mete
+ ors\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

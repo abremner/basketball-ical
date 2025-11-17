@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:7b6147a9-a1f4-4148-9130-1cf3da5f66fc
+UID:44b2ecc3-047b-46e7-898b-9aa6d0d346fd
 SEQUENCE:0
-DTSTAMP:20251116T171323
+DTSTAMP:20251117T171539
 DTSTART:20251122T131500
 DTEND:20251122T140000
 SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Korowa Grey
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Korowa
  Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:416f2fdd-5774-4042-87c1-68571930f523
+UID:fdc0c93e-2a61-4f7e-915c-cc2bbb4227bd
 SEQUENCE:0
-DTSTAMP:20251116T171323
+DTSTAMP:20251117T171539
 DTSTART:20251129T140000
 DTEND:20251129T144500
 SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Maccabi Eagles
@@ -28,20 +28,20 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Eag
  les\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:50dd0e86-b565-4551-b31b-1e652c33a09c
+UID:9e0a602d-b88a-4114-a83f-4e146ea3574e
 SEQUENCE:0
-DTSTAMP:20251116T171323
-DTSTART:20251206T140000
-DTEND:20251206T144500
+DTSTAMP:20251117T171539
+DTSTART:20251206T123000
+DTEND:20251206T131500
 SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Malvern Tigers Blue
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
- ers Blue\nArrive 15 mins early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8aea1146-6b9d-404f-8953-59bb5df877c3
+UID:943308e4-079a-4729-9ee6-576b14f089fc
 SEQUENCE:0
-DTSTAMP:20251116T171323
+DTSTAMP:20251117T171539
 DTSTART:20251213T131500
 DTEND:20251213T140000
 SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Solway Red Robins
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Red Robins\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d6337088-29a4-4209-8d02-d70e9c0baa01
+UID:478e651b-f6a1-4110-94e1-6590820287cf
 SEQUENCE:0
-DTSTAMP:20251116T171323
+DTSTAMP:20251117T171539
 DTSTART:20260207T123000
 DTEND:20260207T131500
 SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Timberwolves Pearls
@@ -61,20 +61,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Pearls\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6864e84b-66cc-40e4-bbb8-e6575bd70fb8
+UID:77e1fa33-c314-4e99-bcf9-399bf59319aa
 SEQUENCE:0
-DTSTAMP:20251116T171323
-DTSTART:20260214T123000
-DTEND:20260214T131500
+DTSTAMP:20251117T171539
+DTSTART:20260214T140000
+DTEND:20260214T144500
 SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Maccabi Bucks
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
-  Bucks\nArrive 15 mins early for warm-up
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Buc
+ ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a469311f-ebde-4aef-8293-14b377257c84
+UID:d63f312e-6336-4dae-9cb5-1ca06388483f
 SEQUENCE:0
-DTSTAMP:20251116T171323
+DTSTAMP:20251117T171539
 DTSTART:20260221T140000
 DTEND:20260221T144500
 SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Lauriston Storm
@@ -83,9 +83,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston S
  torm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1f0e46d7-5df8-4777-b8f1-a0c7beed07e2
+UID:2b9c6463-657a-4738-8020-21181c03412b
 SEQUENCE:0
-DTSTAMP:20251116T171323
+DTSTAMP:20251117T171539
 DTSTART:20260228T140000
 DTEND:20260228T144500
 SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Solway Sparrows
@@ -94,9 +94,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Spar
  rows\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:78ca47e2-bf0b-4f1c-85c8-f828668bdb43
+UID:26b9ad62-f068-40d1-88a4-72d8ac206ff4
 SEQUENCE:0
-DTSTAMP:20251116T171323
+DTSTAMP:20251117T171539
 DTSTART:20260314T131500
 DTEND:20260314T140000
 SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Korowa Grey

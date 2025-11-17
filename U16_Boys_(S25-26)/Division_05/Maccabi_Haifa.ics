@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Haifa Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:62a0a73c-afa5-40b6-9644-14ec05d83e33
+UID:2c5bfd79-f0b9-4245-8ce3-f1259160bfb6
 SEQUENCE:0
-DTSTAMP:20251116T171432
+DTSTAMP:20251117T171639
 DTSTART:20251122T183000
 DTEND:20251122T191500
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Toorak Trackers
@@ -17,20 +17,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Trackers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2d0742e8-05c9-4dd4-b277-519581bdbc83
+UID:30dcccac-686b-4fcd-a05a-e14f1141267e
 SEQUENCE:0
-DTSTAMP:20251116T171432
-DTSTART:20251129T183000
-DTEND:20251129T191500
+DTSTAMP:20251117T171639
+DTSTART:20251129T191500
+DTEND:20251129T200000
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Glen Iris Scorpions Sixers
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
  is Scorpions Sixers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c7349864-cd4f-4de9-92fb-bebc696e6281
+UID:661c4372-fb1a-4e0a-9d69-0a9692333984
 SEQUENCE:0
-DTSTAMP:20251116T171432
+DTSTAMP:20251117T171639
 DTSTART:20251206T191500
 DTEND:20251206T200000
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Malvern Tigers White
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b4941162-99e5-4156-9230-c8671b5880b6
+UID:4146e067-488a-472a-8e79-a9c5efa608a2
 SEQUENCE:0
-DTSTAMP:20251116T171432
+DTSTAMP:20251117T171639
 DTSTART:20251213T183000
 DTEND:20251213T191500
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Glen Iris Scorpions Saints
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Saints\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f35ec08b-49d6-4238-a6e2-6f28f1ff65ea
+UID:e3da3933-8b67-4383-b49d-8be046d38f02
 SEQUENCE:0
-DTSTAMP:20251116T171432
+DTSTAMP:20251117T171639
 DTSTART:20260131T191500
 DTEND:20260131T200000
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs AlphaWolf Tornados
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: AlphaWo
  lf Tornados\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:37e7ad9f-4ddb-4c37-a78c-d7d9af28cd4d
+UID:0390f35b-fcaa-4cb9-9743-6e936ab2a641
 SEQUENCE:0
-DTSTAMP:20251116T171432
+DTSTAMP:20251117T171639
 DTSTART:20260207T183000
 DTEND:20260207T191500
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Toorak Trackers
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Trackers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:42297b65-7365-4581-af05-8534585f42ff
+UID:ecf78159-c505-412a-a09b-2722f9ce6d31
 SEQUENCE:0
-DTSTAMP:20251116T171432
+DTSTAMP:20251117T171639
 DTSTART:20260214T191500
 DTEND:20260214T200000
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Glen Iris Scorpions Sixers
@@ -83,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
  is Scorpions Sixers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b7cdcff3-6f61-4eb1-a58f-c4487450e02c
+UID:fd82e83c-e458-42e9-8899-5746d0841a2e
 SEQUENCE:0
-DTSTAMP:20251116T171432
+DTSTAMP:20251117T171639
 DTSTART:20260221T191500
 DTEND:20260221T200000
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Malvern Tigers White
@@ -94,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f696d60a-f86e-45f9-afa3-10c1fac7cc4b
+UID:d9ab3d8f-8346-4214-8df5-8a49551bf38a
 SEQUENCE:0
-DTSTAMP:20251116T171432
+DTSTAMP:20251117T171639
 DTSTART:20260228T191500
 DTEND:20260228T200000
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Glen Iris Scorpions Saints
@@ -105,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Saints\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8e05132a-8e3f-43ff-92c1-8edc3c5fd62e
+UID:d477cbdc-1b51-4bba-b8ef-635a3a738cba
 SEQUENCE:0
-DTSTAMP:20251116T171432
+DTSTAMP:20251117T171639
 DTSTART:20260314T183000
 DTEND:20260314T191500
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs AlphaWolf Tornados

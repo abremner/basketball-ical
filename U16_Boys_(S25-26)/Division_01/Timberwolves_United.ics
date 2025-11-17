@@ -6,20 +6,20 @@ X-WR-CALNAME:Timberwolves United Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:a92de73b-82d9-4323-a9c7-3a8f0bda0752
+UID:44c04f46-afc1-424d-918f-e9c757d21c8d
 SEQUENCE:0
-DTSTAMP:20251116T171421
+DTSTAMP:20251117T171629
 DTSTART:20251122T191500
 DTEND:20251122T200000
-SUMMARY:🏀 U16 Boys: Timberwolves United vs Malvern Tigers Red
+SUMMARY:🏀 U16 Boys: Timberwolves United vs Malvern Tigers Black
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
- n Tigers Red\nArrive 15 mins early for warm-up
+ n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6733a6e0-7e96-474e-94f5-bbed0fdbee17
+UID:07bd3b74-6c18-4cff-9f0d-21c42a2eec87
 SEQUENCE:0
-DTSTAMP:20251116T171421
+DTSTAMP:20251117T171629
 DTSTART:20251129T183000
 DTEND:20251129T191500
 SUMMARY:🏀 U16 Boys: Timberwolves United vs AUBD United
@@ -28,20 +28,20 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AUBD U
  nited\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e0662302-22e0-441e-94a4-c47029ad2053
+UID:31940687-ffb7-493b-845b-90eb8b895b8e
 SEQUENCE:0
-DTSTAMP:20251116T171421
+DTSTAMP:20251117T171629
 DTSTART:20251206T191500
 DTEND:20251206T200000
-SUMMARY:🏀 U16 Boys: Timberwolves United vs Malvern Tigers Black
+SUMMARY:🏀 U16 Boys: Timberwolves United vs Malvern Tigers Red
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
- n Tigers Black\nArrive 15 mins early for warm-up
+ n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:90c2490b-fc83-4109-b6ca-f75136f360f7
+UID:6cce1fb4-3e5d-47dc-be99-ec7bd07e2fc2
 SEQUENCE:0
-DTSTAMP:20251116T171421
+DTSTAMP:20251117T171629
 DTSTART:20251213T183000
 DTEND:20251213T191500
 SUMMARY:🏀 U16 Boys: Timberwolves United vs Bailey Reserve Piranhas
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Bailey
   Reserve Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:92476cdc-7958-4bda-aaa8-f6fab1b71e4a
+UID:a9a8f87e-c90f-4dfe-b8e4-cb32eee16200
 SEQUENCE:0
-DTSTAMP:20251116T171421
+DTSTAMP:20251117T171629
 DTSTART:20260131T183000
 DTEND:20260131T191500
 SUMMARY:🏀 U16 Boys: Timberwolves United vs Bayside Piranhas
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Baysid
  e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ee65c2b1-24d8-420a-96ed-55baf03e137f
+UID:f358f05f-6b8a-40da-bd25-a0a34414cd03
 SEQUENCE:0
-DTSTAMP:20251116T171421
+DTSTAMP:20251117T171629
 DTSTART:20260214T183000
 DTEND:20260214T191500
 SUMMARY:🏀 U16 Boys: Timberwolves United vs Timberwolves Hustlers
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Hustlers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0861c285-ae39-4155-a10e-6b406488e6d5
+UID:81aeaeae-ca91-4251-a463-2f2dea895587
 SEQUENCE:0
-DTSTAMP:20251116T171421
+DTSTAMP:20251117T171629
 DTSTART:20260221T183000
 DTEND:20260221T191500
 SUMMARY:🏀 U16 Boys: Timberwolves United vs Malvern Tigers Red
@@ -83,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b7870754-b190-4f84-ac44-18ff19494c05
+UID:385e0982-0a1c-464c-82f4-c8b7e0949efb
 SEQUENCE:0
-DTSTAMP:20251116T171421
+DTSTAMP:20251117T171629
 DTSTART:20260228T183000
 DTEND:20260228T191500
 SUMMARY:🏀 U16 Boys: Timberwolves United vs AUBD United
@@ -94,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: AUBD U
  nited\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1c09405a-cffe-4658-a1f7-eded159b38c9
+UID:ec5cfe34-aba6-400f-b550-ffecbb66374f
 SEQUENCE:0
-DTSTAMP:20251116T171421
+DTSTAMP:20251117T171629
 DTSTART:20260314T183000
 DTEND:20260314T191500
 SUMMARY:🏀 U16 Boys: Timberwolves United vs Malvern Tigers Black

@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Taipans Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:665801d0-d297-41a7-88d0-6bdc28f38217
+UID:03652c6e-0002-43dc-a47a-3482c6c53e62
 SEQUENCE:0
-DTSTAMP:20251116T171521
+DTSTAMP:20251117T171721
 DTSTART:20251123T194500
 DTEND:20251123T203000
 SUMMARY:🏀 U21 Men: Solway Taipans vs Solway Cobras
@@ -17,20 +17,20 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Cobras\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8a1c0908-b64b-4f3d-9f63-5790ae6ff9a0
+UID:f88c2f66-ef67-4fb0-ae0f-3fbc89050ad9
 SEQUENCE:0
-DTSTAMP:20251116T171521
-DTSTART:20251130T190000
-DTEND:20251130T194500
-SUMMARY:🏀 U21 Men: Solway Taipans vs Ashy Lightning Green
+DTSTAMP:20251117T171721
+DTSTART:20251130T194500
+DTEND:20251130T203000
+SUMMARY:🏀 U21 Men: Solway Taipans vs Glen Iris Scorpions Sixers
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
- ightning Green\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
+ ris Scorpions Sixers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5d93a08b-a37f-4449-a2e9-a8056e320504
+UID:c2a641f9-cf78-4d5b-8407-2bdcb5a856fa
 SEQUENCE:0
-DTSTAMP:20251116T171521
+DTSTAMP:20251117T171721
 DTSTART:20251207T190000
 DTEND:20251207T194500
 SUMMARY:🏀 U21 Men: Solway Taipans vs Solway Pythons
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Pythons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b3d43162-d6e4-4dc5-9721-37658b8ce09b
+UID:18c81a22-9470-4e92-a53d-9933e5c1ffac
 SEQUENCE:0
-DTSTAMP:20251116T171521
+DTSTAMP:20251117T171721
 DTSTART:20251214T190000
 DTEND:20251214T194500
 SUMMARY:🏀 U21 Men: Solway Taipans vs Ashy Lightning Yellow
@@ -50,20 +50,20 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
  ightning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:36183388-b2d4-4b6a-aab2-269987c2b715
+UID:68cf193d-18b8-48c3-a33b-623afee30299
 SEQUENCE:0
-DTSTAMP:20251116T171521
-DTSTART:20260201T194500
-DTEND:20260201T203000
-SUMMARY:🏀 U21 Men: Solway Taipans vs Glen Iris Scorpions Sixers
+DTSTAMP:20251117T171721
+DTSTART:20260201T190000
+DTEND:20260201T194500
+SUMMARY:🏀 U21 Men: Solway Taipans vs Ashy Lightning Green
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
- ris Scorpions Sixers\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0754d3c6-988a-421d-81bc-631a8ea0bdd8
+UID:e7a8d595-7124-44f6-a459-27c098867396
 SEQUENCE:0
-DTSTAMP:20251116T171521
+DTSTAMP:20251117T171721
 DTSTART:20260208T190000
 DTEND:20260208T194500
 SUMMARY:🏀 U21 Men: Solway Taipans vs Titans Larrys
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Titans
   Larrys\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dcec2aa7-9c8b-4528-844e-c49fbf351ef7
+UID:374116f1-30a2-482e-99c8-d34c1d1037d3
 SEQUENCE:0
-DTSTAMP:20251116T171521
+DTSTAMP:20251117T171721
 DTSTART:20260222T194500
 DTEND:20260222T203000
 SUMMARY:🏀 U21 Men: Solway Taipans vs Solway Cobras
@@ -83,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Cobras\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:39edac3c-7eec-4d06-addd-684eab046d4e
+UID:f3ac44d3-150c-4909-ace4-ca3cb6fb6797
 SEQUENCE:0
-DTSTAMP:20251116T171521
+DTSTAMP:20251117T171721
 DTSTART:20260301T190000
 DTEND:20260301T194500
 SUMMARY:🏀 U21 Men: Solway Taipans vs Ashy Lightning Green
@@ -94,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6b15024e-25a2-4999-b76b-b87cf0c997aa
+UID:aacbf086-8bb1-41b8-b47d-2045667eb1ea
 SEQUENCE:0
-DTSTAMP:20251116T171521
+DTSTAMP:20251117T171721
 DTSTART:20260315T190000
 DTEND:20260315T194500
 SUMMARY:🏀 U21 Men: Solway Taipans vs Solway Pythons

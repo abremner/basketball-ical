@@ -6,20 +6,20 @@ X-WR-CALNAME:Malvern Tigers Red Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:27939a2d-18b1-4c17-83d1-2035198c763e
+UID:2a08ad1a-fd1a-43c4-819c-52a0ae65b5eb
 SEQUENCE:0
-DTSTAMP:20251116T171420
-DTSTART:20251122T191500
-DTEND:20251122T200000
-SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs Timberwolves United
+DTSTAMP:20251117T171629
+DTSTART:20251122T183000
+DTEND:20251122T191500
+SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs AUBD United
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
- wolves United\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: AUBD U
+ nited\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3740facd-c9fd-4ec4-acdf-f8912543937f
+UID:5c1a1891-ceec-474c-a80f-d75ba3e1fccb
 SEQUENCE:0
-DTSTAMP:20251116T171420
+DTSTAMP:20251117T171629
 DTSTART:20251129T191500
 DTEND:20251129T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs Bailey Reserve Piranhas
@@ -28,20 +28,20 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Bailey
   Reserve Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:12fe2cef-ef41-4540-a9d5-d9202a521687
+UID:20f46af1-144f-403e-a0dd-1677998ecff1
 SEQUENCE:0
-DTSTAMP:20251116T171420
-DTSTART:20251206T183000
-DTEND:20251206T191500
-SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs AUBD United
+DTSTAMP:20251117T171629
+DTSTART:20251206T191500
+DTEND:20251206T200000
+SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs Timberwolves United
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: AUBD U
- nited\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves United\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2f2239c3-542c-490d-98a0-f6bc0922194a
+UID:83928265-95dc-4d72-8e42-720787b1ad2c
 SEQUENCE:0
-DTSTAMP:20251116T171420
+DTSTAMP:20251117T171629
 DTSTART:20251213T191500
 DTEND:20251213T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs Bayside Piranhas
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Baysid
  e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7705b97f-3702-4128-89f9-4c88b247a810
+UID:69e4d97e-6145-4817-817e-f1cca0368306
 SEQUENCE:0
-DTSTAMP:20251116T171420
+DTSTAMP:20251117T171629
 DTSTART:20260207T183000
 DTEND:20260207T191500
 SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs Timberwolves Hustlers
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Hustlers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c839a7bc-aac8-4322-8248-793368ff767d
+UID:eb4acd0f-f2b2-4ebe-826b-759c2e6975e2
 SEQUENCE:0
-DTSTAMP:20251116T171420
+DTSTAMP:20251117T171629
 DTSTART:20260214T191500
 DTEND:20260214T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs Malvern Tigers Black
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a6993691-0e22-4e2d-9d1c-72696bde6ff4
+UID:2cd8a05c-11f1-45f2-88e6-48b908751967
 SEQUENCE:0
-DTSTAMP:20251116T171420
+DTSTAMP:20251117T171629
 DTSTART:20260221T183000
 DTEND:20260221T191500
 SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs Timberwolves United
@@ -83,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves United\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d9ed032a-c59d-419c-a623-8fef6d1025ac
+UID:14292646-4319-42de-8dd7-ba3e663fca2a
 SEQUENCE:0
-DTSTAMP:20251116T171420
+DTSTAMP:20251117T171629
 DTSTART:20260228T183000
 DTEND:20260228T191500
 SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs Bailey Reserve Piranhas
@@ -94,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Bailey
   Reserve Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:347840a6-133b-40f6-bc53-f54e458d5905
+UID:237432f5-2d9d-4428-a941-866f4cbacc6d
 SEQUENCE:0
-DTSTAMP:20251116T171420
+DTSTAMP:20251117T171629
 DTSTART:20260314T183000
 DTEND:20260314T191500
 SUMMARY:🏀 U16 Boys: Malvern Tigers Red vs AUBD United

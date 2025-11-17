@@ -6,9 +6,9 @@ X-WR-CALNAME:Timberwolves Blaze Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:fd67be04-8e86-4ca1-a28c-e76d7d3ca544
+UID:700a3d16-82e1-4ccc-b3af-3b2cd5060b44
 SEQUENCE:0
-DTSTAMP:20251116T171438
+DTSTAMP:20251117T171644
 DTSTART:20251122T174500
 DTEND:20251122T183000
 SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Solway Blades
@@ -17,31 +17,31 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Blades\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7abfc828-adef-47f2-8bf1-06ec69465a86
+UID:0d945470-1f00-405a-921e-47a53051c66f
 SEQUENCE:0
-DTSTAMP:20251116T171438
+DTSTAMP:20251117T171644
 DTSTART:20251206T174500
 DTEND:20251206T183000
-SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Maccabi Bucks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
- i Bucks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:6351d231-d147-4875-8b7f-90f4d9769952
-SEQUENCE:0
-DTSTAMP:20251116T171438
-DTSTART:20251213T174500
-DTEND:20251213T183000
 SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Solway Slammers
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Slammers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ee0a0979-875c-4df8-b1ed-b4cd1227c46e
+UID:83973c87-692f-4071-9c7b-fb6fe7e3f3ab
 SEQUENCE:0
-DTSTAMP:20251116T171438
+DTSTAMP:20251117T171644
+DTSTART:20251213T174500
+DTEND:20251213T183000
+SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Maccabi Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:188db9fc-0ce6-49cc-97d9-a4944312b7a0
+SEQUENCE:0
+DTSTAMP:20251117T171644
 DTSTART:20260131T183000
 DTEND:20260131T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Glen Iris Scorpions Spurs
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Spurs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a77e1e47-7698-4ecb-b86e-c2fc1b44e7d0
+UID:8196bc24-1440-4359-bddc-6bd0ec8a4016
 SEQUENCE:0
-DTSTAMP:20251116T171438
+DTSTAMP:20251117T171644
 DTSTART:20260207T183000
 DTEND:20260207T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Solway Blades
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Blades\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1546ca5c-8584-41ee-8456-57841f61f1d2
+UID:d61bb819-7f29-4d68-9f51-07d06a858751
 SEQUENCE:0
-DTSTAMP:20251116T171438
+DTSTAMP:20251117T171644
 DTSTART:20260221T183000
 DTEND:20260221T191500
 SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Maccabi Bucks
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2658740a-509a-429d-9e3c-182c6de72361
+UID:3136a59f-dd09-486c-a9e0-d766267b67c9
 SEQUENCE:0
-DTSTAMP:20251116T171438
+DTSTAMP:20251117T171644
 DTSTART:20260228T174500
 DTEND:20260228T183000
 SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Solway Slammers
@@ -83,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Slammers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b9f4f8a7-f9cd-47c4-a465-e18384d97a02
+UID:7d1a9bb4-45a1-4144-a7bc-358e7080aa38
 SEQUENCE:0
-DTSTAMP:20251116T171438
+DTSTAMP:20251117T171644
 DTSTART:20260314T174500
 DTEND:20260314T183000
 SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Glen Iris Scorpions Spurs

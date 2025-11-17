@@ -6,9 +6,9 @@ X-WR-CALNAME:Korowa Grey Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:691f25cd-bfb7-4e28-a008-79f3ad8588a3
+UID:79012f7d-9ef3-4cc1-b2bf-aa2e1118dea9
 SEQUENCE:0
-DTSTAMP:20251116T171415
+DTSTAMP:20251117T171624
 DTSTART:20251122T161500
 DTEND:20251122T170000
 SUMMARY:🏀 U14 Girls: Korowa Grey vs Maccabi Celtics
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:87a76f98-5fd5-4796-b45d-b5896bfe73ad
+UID:8246e76f-82b6-4915-ba1b-75c9f5966880
 SEQUENCE:0
-DTSTAMP:20251116T171415
+DTSTAMP:20251117T171624
 DTSTART:20251129T170000
 DTEND:20251129T174500
 SUMMARY:🏀 U14 Girls: Korowa Grey vs Timberwolves Sapphires
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Sapphires\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2f84dbde-4763-4db4-a8b5-a424b155ddb3
+UID:b0e60527-9d99-4633-ba02-24fe8d1501c5
 SEQUENCE:0
-DTSTAMP:20251116T171415
+DTSTAMP:20251117T171624
 DTSTART:20251206T153000
 DTEND:20251206T161500
 SUMMARY:🏀 U14 Girls: Korowa Grey vs Ashy Lightning White
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
  ing White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:44a68dc6-e5f3-4b0f-b12c-f4f3511e3192
+UID:eb5db791-6ed0-42b1-ae19-e0ed7b8aa292
 SEQUENCE:0
-DTSTAMP:20251116T171415
+DTSTAMP:20251117T171624
 DTSTART:20251213T153000
 DTEND:20251213T161500
 SUMMARY:🏀 U14 Girls: Korowa Grey vs Lauriston Legends
@@ -50,64 +50,64 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston L
  egends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:080de3fb-1e27-4963-a85a-765496863152
+UID:c9433493-e47c-476e-86b4-119ab6663e3c
 SEQUENCE:0
-DTSTAMP:20251116T171415
-DTSTART:20260131T161500
-DTEND:20260131T170000
+DTSTAMP:20251117T171624
+DTSTART:20260131T153000
+DTEND:20260131T161500
 SUMMARY:🏀 U14 Girls: Korowa Grey vs Maccabi Eagles
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Eag
+ les\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:503b0277-fbc6-4e49-b46d-242e8c51ce05
+SEQUENCE:0
+DTSTAMP:20251117T171624
+DTSTART:20260207T170000
+DTEND:20260207T174500
+SUMMARY:🏀 U14 Girls: Korowa Grey vs Solway Sapphires
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Sapphires\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5d67cd4d-d853-48fb-89ff-a8c3a0a2a3f1
+SEQUENCE:0
+DTSTAMP:20251117T171624
+DTSTART:20260214T161500
+DTEND:20260214T170000
+SUMMARY:🏀 U14 Girls: Korowa Grey vs Maccabi Ducks
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
-  Eagles\nArrive 15 mins early for warm-up
+  Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:92d0a5a5-5231-4a9a-966a-2bba72b5e1bc
+UID:ca23e511-3498-44a2-ae44-114028a18d2a
 SEQUENCE:0
-DTSTAMP:20251116T171415
-DTSTART:20260207T153000
-DTEND:20260207T161500
-SUMMARY:🏀 U14 Girls: Korowa Grey vs Solway Sapphires
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Sapp
- hires\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:ce7c13b7-1e65-49ae-81bc-0b1f86bffb78
-SEQUENCE:0
-DTSTAMP:20251116T171415
-DTSTART:20260214T153000
-DTEND:20260214T161500
-SUMMARY:🏀 U14 Girls: Korowa Grey vs Maccabi Ducks
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Duc
- ks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:b3d839d1-7110-4c78-8e41-d76e9a0d6158
-SEQUENCE:0
-DTSTAMP:20251116T171415
-DTSTART:20260221T153000
-DTEND:20260221T161500
+DTSTAMP:20251117T171624
+DTSTART:20260221T170000
+DTEND:20260221T174500
 SUMMARY:🏀 U14 Girls: Korowa Grey vs Maccabi Celtics
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Cel
- tics\nArrive 15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f7ff6148-c76e-4bbe-9da1-7e770e3832f9
+UID:f08667d1-1517-4973-81c8-a828712119d1
 SEQUENCE:0
-DTSTAMP:20251116T171415
-DTSTART:20260228T153000
-DTEND:20260228T161500
+DTSTAMP:20251117T171624
+DTSTART:20260228T161500
+DTEND:20260228T170000
 SUMMARY:🏀 U14 Girls: Korowa Grey vs Timberwolves Sapphires
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Timberwolve
- s Sapphires\nArrive 15 mins early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Sapphires\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:db551647-5b5a-4b39-8979-758564e8f245
+UID:100bbfd1-d381-41ef-b599-3bc053fc2d2b
 SEQUENCE:0
-DTSTAMP:20251116T171415
+DTSTAMP:20251117T171624
 DTSTART:20260314T170000
 DTEND:20260314T174500
 SUMMARY:🏀 U14 Girls: Korowa Grey vs Ashy Lightning White

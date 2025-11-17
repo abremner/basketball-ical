@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Spurs Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:3b5d31f6-c0f1-43f7-b9c6-040424d5eb61
+UID:c8664098-59a9-460a-8f5f-05a5fdc06c4e
 SEQUENCE:0
-DTSTAMP:20251116T171147
+DTSTAMP:20251117T171416
 DTSTART:20251122T084500
 DTEND:20251122T093000
 SUMMARY:🏀 U10 Boys: Solway Spurs vs Timberwolves Cobras
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Cobras\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3d12d7cf-f0b7-4c7d-8b03-ddbd86c3f248
+UID:718b45d5-43de-4245-92fb-e81a72c9ebe8
 SEQUENCE:0
-DTSTAMP:20251116T171147
+DTSTAMP:20251117T171416
 DTSTART:20251129T110000
 DTEND:20251129T114500
 SUMMARY:🏀 U10 Boys: Solway Spurs vs Malvern Tigers Orange
@@ -28,31 +28,31 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Orange\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:291e398a-3bc3-447b-8a9b-dcc8df07f831
+UID:fa0f42cd-e220-48d7-bddf-92f03a8bc09b
 SEQUENCE:0
-DTSTAMP:20251116T171147
-DTSTART:20251206T110000
-DTEND:20251206T114500
+DTSTAMP:20251117T171416
+DTSTART:20251206T084500
+DTEND:20251206T093000
 SUMMARY:🏀 U10 Boys: Solway Spurs vs Malvern Tigers Green
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Green\nArrive 
- 15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:65a60a93-fb91-465a-8bc2-a61a6700f356
+UID:a783ce2c-3fac-4a23-b61d-92d30a766b2d
 SEQUENCE:0
-DTSTAMP:20251116T171147
-DTSTART:20251213T101500
-DTEND:20251213T110000
+DTSTAMP:20251117T171416
+DTSTART:20251213T084500
+DTEND:20251213T093000
 SUMMARY:🏀 U10 Boys: Solway Spurs vs Dendy Park Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Dendy 
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Dendy 
  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:74dda306-0a69-4443-8324-6deea2eb32b9
+UID:a2f30ce1-6b66-41e3-9782-cce88da5aa02
 SEQUENCE:0
-DTSTAMP:20251116T171147
+DTSTAMP:20251117T171416
 DTSTART:20260131T093000
 DTEND:20260131T101500
 SUMMARY:🏀 U10 Boys: Solway Spurs vs AlphaWolf Kings
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AlphaW
  olf Kings\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cfb2a606-05ca-4cdb-89e3-ed4e3b3951c1
+UID:94e911ae-95fa-4d2a-9570-772277a774d8
 SEQUENCE:0
-DTSTAMP:20251116T171147
+DTSTAMP:20251117T171416
 DTSTART:20260207T101500
 DTEND:20260207T110000
 SUMMARY:🏀 U10 Boys: Solway Spurs vs Ashy Lightning Green
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f8923dea-8c06-4420-9b2d-decf5ec23f9b
+UID:d57bcd2d-89e0-49de-ac0e-1dd0503f31b3
 SEQUENCE:0
-DTSTAMP:20251116T171147
+DTSTAMP:20251117T171416
 DTSTART:20260214T093000
 DTEND:20260214T101500
 SUMMARY:🏀 U10 Boys: Solway Spurs vs Maccabi Celtics
@@ -83,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:065f83ab-5d37-4c27-86bf-2f0fc1935d96
+UID:b50b8d0c-a10a-482a-9890-ce98f259ddde
 SEQUENCE:0
-DTSTAMP:20251116T171147
+DTSTAMP:20251117T171416
 DTSTART:20260221T110000
 DTEND:20260221T114500
 SUMMARY:🏀 U10 Boys: Solway Spurs vs Toorak Torpedoes
@@ -94,9 +94,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Toorak Torpedoes\nArrive 15 m
  ins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f485f993-8773-4065-9f8c-5042020568bb
+UID:005d14a5-2042-4aa0-8510-dd9633b96c97
 SEQUENCE:0
-DTSTAMP:20251116T171147
+DTSTAMP:20251117T171416
 DTSTART:20260314T084500
 DTEND:20260314T093000
 SUMMARY:🏀 U10 Boys: Solway Spurs vs Timberwolves Cobras

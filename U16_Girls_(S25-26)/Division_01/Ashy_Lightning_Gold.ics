@@ -6,9 +6,9 @@ X-WR-CALNAME:Ashy Lightning Gold Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:4a3aacae-226b-48ea-ab75-f7a4d3669a8c
+UID:587a6c3a-a8fb-4318-b823-683543bf7f8e
 SEQUENCE:0
-DTSTAMP:20251116T171445
+DTSTAMP:20251117T171650
 DTSTART:20251118T183000
 DTEND:20251118T191500
 SUMMARY:🏀 U16 Girls: Ashy Lightning Gold vs Solway Fever
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Fever\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4ca3fbdb-ad9c-41ae-97df-273e7ad11181
+UID:f9a2530d-8b07-4e58-a04c-2b3d15ddc2c3
 SEQUENCE:0
-DTSTAMP:20251116T171445
+DTSTAMP:20251117T171650
 DTSTART:20251125T183000
 DTEND:20251125T191500
 SUMMARY:🏀 U16 Girls: Ashy Lightning Gold vs Malvern Tigers Rocci
@@ -28,20 +28,20 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Rocci\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:94c39b3f-8d1a-4db1-86a1-952d78401e89
+UID:358b32e5-de02-4855-9e2f-91b0111e039e
 SEQUENCE:0
-DTSTAMP:20251116T171445
-DTSTART:20251202T174500
-DTEND:20251202T183000
+DTSTAMP:20251117T171650
+DTSTART:20251202T183000
+DTEND:20251202T191500
 SUMMARY:🏀 U16 Girls: Ashy Lightning Gold vs Timberwolves Rockets
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Rockets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6ad9d648-bf30-4572-ab93-e075a3ad586b
+UID:8cd989f3-bc80-447d-bc69-d5c422f4c105
 SEQUENCE:0
-DTSTAMP:20251116T171445
+DTSTAMP:20251117T171650
 DTSTART:20251209T183000
 DTEND:20251209T191500
 SUMMARY:🏀 U16 Girls: Ashy Lightning Gold vs Solway Marvels
@@ -50,31 +50,31 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Marvels\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a7483464-595b-4add-82bc-5be840fdc5a4
+UID:b4ba36b2-419d-4b1d-8d2b-4c639f7baf32
 SEQUENCE:0
-DTSTAMP:20251116T171445
-DTSTART:20260203T183000
-DTEND:20260203T191500
+DTSTAMP:20251117T171650
+DTSTART:20260203T174500
+DTEND:20260203T183000
 SUMMARY:🏀 U16 Girls: Ashy Lightning Gold vs Finch Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Finch 
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Finch 
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b4eda265-333f-4deb-8d6e-f284295eb31f
+UID:e0d25b55-5c81-45f8-a5aa-38cc3f5b5397
 SEQUENCE:0
-DTSTAMP:20251116T171445
-DTSTART:20260210T174500
-DTEND:20260210T183000
+DTSTAMP:20251117T171650
+DTSTART:20260210T183000
+DTEND:20260210T191500
 SUMMARY:🏀 U16 Girls: Ashy Lightning Gold vs Solway Fever
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Fever\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:10aca41c-2fb1-4ced-91cf-428276693842
+UID:7ef72d54-a4d8-46a8-bfed-bb81b1635b00
 SEQUENCE:0
-DTSTAMP:20251116T171445
+DTSTAMP:20251117T171650
 DTSTART:20260217T183000
 DTEND:20260217T191500
 SUMMARY:🏀 U16 Girls: Ashy Lightning Gold vs Malvern Tigers Rocci
@@ -83,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Rocci\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:97804913-f439-4727-a7cf-27ec50330762
+UID:36451c86-9b70-4f2b-8fb6-43fe0f928a3d
 SEQUENCE:0
-DTSTAMP:20251116T171445
+DTSTAMP:20251117T171650
 DTSTART:20260224T183000
 DTEND:20260224T191500
 SUMMARY:🏀 U16 Girls: Ashy Lightning Gold vs Timberwolves Rockets
@@ -94,20 +94,20 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Rockets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:24b946a3-786b-43b9-bbca-60c7e73842a1
+UID:e95e778f-ed43-40b5-9768-e80576851ef1
 SEQUENCE:0
-DTSTAMP:20251116T171445
-DTSTART:20260303T174500
-DTEND:20260303T183000
+DTSTAMP:20251117T171650
+DTSTART:20260303T183000
+DTEND:20260303T191500
 SUMMARY:🏀 U16 Girls: Ashy Lightning Gold vs Solway Marvels
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Marvels\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d0d61698-6cad-4b36-816e-3d6155cfb652
+UID:b3334093-8257-40db-902a-a33336628e12
 SEQUENCE:0
-DTSTAMP:20251116T171445
+DTSTAMP:20251117T171650
 DTSTART:20260310T174500
 DTEND:20260310T183000
 SUMMARY:🏀 U16 Girls: Ashy Lightning Gold vs Finch Piranhas
@@ -116,14 +116,14 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Finch
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ca713e02-a31f-4fa5-bd20-ba3761891f5b
+UID:8dfb9968-3f82-43ca-baa0-8eaea00c59be
 SEQUENCE:0
-DTSTAMP:20251116T171445
-DTSTART:20260317T174500
-DTEND:20260317T183000
+DTSTAMP:20251117T171650
+DTSTART:20260317T183000
+DTEND:20260317T191500
 SUMMARY:🏀 U16 Girls: Ashy Lightning Gold vs Solway Fever
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Fever\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

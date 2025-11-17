@@ -6,9 +6,20 @@ X-WR-CALNAME:AUBD United Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:1c8c707a-20ef-4395-8beb-3e6fcedb45c1
+UID:9a118bb3-7af0-4360-a41b-4a6ecfcdc60a
 SEQUENCE:0
-DTSTAMP:20251116T171419
+DTSTAMP:20251117T171627
+DTSTART:20251122T183000
+DTEND:20251122T191500
+SUMMARY:🏀 U16 Boys: AUBD United vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f753cd43-7ec6-43be-b190-6f5cc1d3f605
+SEQUENCE:0
+DTSTAMP:20251117T171627
 DTSTART:20251129T183000
 DTEND:20251129T191500
 SUMMARY:🏀 U16 Boys: AUBD United vs Timberwolves United
@@ -17,20 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves United\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:eec0fe42-964e-4622-bfa9-cf2cc9695e7f
+UID:cabe46b2-17e2-4b11-bd4f-b9231295f069
 SEQUENCE:0
-DTSTAMP:20251116T171419
-DTSTART:20251206T183000
-DTEND:20251206T191500
-SUMMARY:🏀 U16 Boys: AUBD United vs Malvern Tigers Red
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
- n Tigers Red\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:72f75e32-d1ea-47ce-b22d-b06f550ffac1
-SEQUENCE:0
-DTSTAMP:20251116T171419
+DTSTAMP:20251117T171627
 DTSTART:20251213T183000
 DTEND:20251213T191500
 SUMMARY:🏀 U16 Boys: AUBD United vs Timberwolves Hustlers
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Hustlers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ce6db018-dbd4-4cbc-afff-f6859ca9a3c1
+UID:6da5a077-b5b6-4d96-8e97-5282cc8c294b
 SEQUENCE:0
-DTSTAMP:20251116T171419
+DTSTAMP:20251117T171627
 DTSTART:20260131T183000
 DTEND:20260131T191500
 SUMMARY:🏀 U16 Boys: AUBD United vs Malvern Tigers Black
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:26cb980b-3fa9-4e31-b2dd-025a9586dc91
+UID:dcf7a001-eca2-4f8e-a6e9-7c298a2ab717
 SEQUENCE:0
-DTSTAMP:20251116T171419
+DTSTAMP:20251117T171627
 DTSTART:20260207T183000
 DTEND:20260207T191500
 SUMMARY:🏀 U16 Boys: AUBD United vs Bailey Reserve Piranhas
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Bailey
   Reserve Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5ae4d71f-7ffe-4e42-b13a-1937c38d38bd
+UID:7f1235a0-98b4-4c8a-be3d-c144bd0f30e2
 SEQUENCE:0
-DTSTAMP:20251116T171419
+DTSTAMP:20251117T171627
 DTSTART:20260214T183000
 DTEND:20260214T191500
 SUMMARY:🏀 U16 Boys: AUBD United vs Bayside Piranhas
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Baysid
  e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cd3a864d-f44b-41c0-8253-a8e6267ffc16
+UID:5dc456cb-e9ea-4095-b1b6-86ced7cc37de
 SEQUENCE:0
-DTSTAMP:20251116T171419
+DTSTAMP:20251117T171627
 DTSTART:20260228T183000
 DTEND:20260228T191500
 SUMMARY:🏀 U16 Boys: AUBD United vs Timberwolves United
@@ -83,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves United\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fd639fab-7b26-4e7c-9567-0a5b6f81f5f5
+UID:5b6118b1-2a6d-4c8d-abf6-bcac2abc8547
 SEQUENCE:0
-DTSTAMP:20251116T171419
+DTSTAMP:20251117T171627
 DTSTART:20260314T183000
 DTEND:20260314T191500
 SUMMARY:🏀 U16 Boys: AUBD United vs Malvern Tigers Red

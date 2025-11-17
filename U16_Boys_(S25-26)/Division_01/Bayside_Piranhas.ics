@@ -6,31 +6,31 @@ X-WR-CALNAME:Bayside Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:ecf4fc75-8a30-4ed2-9a1a-0841caf0b7c8
+UID:9c9e18a1-cdfd-4fe8-aab1-22190a6c9bb8
 SEQUENCE:0
-DTSTAMP:20251116T171420
+DTSTAMP:20251117T171628
 DTSTART:20251122T183000
 DTEND:20251122T191500
-SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Timberwolves Hustlers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
- wolves Hustlers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5bb64eb2-60b0-4db4-a312-86b226371989
-SEQUENCE:0
-DTSTAMP:20251116T171420
-DTSTART:20251206T183000
-DTEND:20251206T191500
 SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Bailey Reserve Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Bailey
   Reserve Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:31af1ab0-29ba-4a67-938f-c3861e171d4c
+UID:5a6a3020-e071-411d-8604-63d3a4eda159
 SEQUENCE:0
-DTSTAMP:20251116T171420
+DTSTAMP:20251117T171628
+DTSTART:20251206T183000
+DTEND:20251206T191500
+SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Timberwolves Hustlers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Hustlers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e4be17cd-e580-434c-bfc7-17255a235dbb
+SEQUENCE:0
+DTSTAMP:20251117T171628
 DTSTART:20251213T191500
 DTEND:20251213T200000
 SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Malvern Tigers Red
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:47f71974-4403-4159-8faf-a2921c049ad0
+UID:25829e29-8fee-483f-9ad8-aa9feae28605
 SEQUENCE:0
-DTSTAMP:20251116T171420
+DTSTAMP:20251117T171628
 DTSTART:20260131T183000
 DTEND:20260131T191500
 SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Timberwolves United
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves United\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:023f6d14-1cc7-4f5a-965f-c68b1d11fca6
+UID:e39dac4e-7a31-464d-a3a0-cbcd18df05e5
 SEQUENCE:0
-DTSTAMP:20251116T171420
+DTSTAMP:20251117T171628
 DTSTART:20260207T191500
 DTEND:20260207T200000
 SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Malvern Tigers Black
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f48223c2-7db7-4021-837d-c185fb291ea3
+UID:c48759f4-fa47-41cc-a53f-20220ca6cfbd
 SEQUENCE:0
-DTSTAMP:20251116T171420
+DTSTAMP:20251117T171628
 DTSTART:20260214T183000
 DTEND:20260214T191500
 SUMMARY:🏀 U16 Boys: Bayside Piranhas vs AUBD United
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: AUBD U
  nited\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:03e8ac5a-831f-4606-a59c-f0bf8bb8fa8b
+UID:0efc1188-e436-4d91-8e46-2690051a288e
 SEQUENCE:0
-DTSTAMP:20251116T171420
+DTSTAMP:20251117T171628
 DTSTART:20260221T191500
 DTEND:20260221T200000
 SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Timberwolves Hustlers
@@ -83,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Hustlers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c5c70808-7285-4acc-a2c3-d41fb85fa3e0
+UID:a69a502a-c6c6-4d55-96f3-031f81deecc0
 SEQUENCE:0
-DTSTAMP:20251116T171420
+DTSTAMP:20251117T171628
 DTSTART:20260314T191500
 DTEND:20260314T200000
 SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Bailey Reserve Piranhas

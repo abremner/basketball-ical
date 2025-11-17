@@ -6,9 +6,9 @@ X-WR-CALNAME:Titans Larrys Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:df5c8dca-ba77-4fc2-a7b0-1427eabf8b42
+UID:5e35a5a7-a37e-4b54-842a-db6cd77835f5
 SEQUENCE:0
-DTSTAMP:20251116T171521
+DTSTAMP:20251117T171721
 DTSTART:20251123T190000
 DTEND:20251123T194500
 SUMMARY:🏀 U21 Men: Titans Larrys vs Ashy Lightning Green
@@ -17,20 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c89cc87c-d1eb-4aee-b5c6-faecfa3edc80
+UID:37dae21e-a2f7-49eb-bb44-536bbe8df36c
 SEQUENCE:0
-DTSTAMP:20251116T171521
-DTSTART:20251130T194500
-DTEND:20251130T203000
-SUMMARY:🏀 U21 Men: Titans Larrys vs Ashy Lightning Yellow
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
- ightning Yellow\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:512df011-a61b-420b-a3eb-21ed3b65e56b
-SEQUENCE:0
-DTSTAMP:20251116T171521
+DTSTAMP:20251117T171721
 DTSTART:20251207T190000
 DTEND:20251207T194500
 SUMMARY:🏀 U21 Men: Titans Larrys vs Solway Cobras
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Cobras\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:69faeac2-c288-4005-ba70-77ffbffbd466
+UID:0f58922d-df90-4ec8-903b-27261e553333
 SEQUENCE:0
-DTSTAMP:20251116T171521
+DTSTAMP:20251117T171721
 DTSTART:20251214T190000
 DTEND:20251214T194500
 SUMMARY:🏀 U21 Men: Titans Larrys vs Glen Iris Scorpions Sixers
@@ -50,9 +39,20 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Sixers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:70e55ca1-ed70-4ed7-91f1-4b297523da9f
+UID:eb8b7537-4d7e-4660-bfda-ed849877926a
 SEQUENCE:0
-DTSTAMP:20251116T171521
+DTSTAMP:20251117T171721
+DTSTART:20260201T194500
+DTEND:20260201T203000
+SUMMARY:🏀 U21 Men: Titans Larrys vs Ashy Lightning Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+ ightning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e1cf857a-c907-43ca-93e0-67a94521819f
+SEQUENCE:0
+DTSTAMP:20251117T171721
 DTSTART:20260208T190000
 DTEND:20260208T194500
 SUMMARY:🏀 U21 Men: Titans Larrys vs Solway Taipans
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Taipans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:64a5b761-3600-496a-8189-241d9f1a489a
+UID:302b0ba9-f630-4cf6-b18c-dc2254d8cb77
 SEQUENCE:0
-DTSTAMP:20251116T171521
+DTSTAMP:20251117T171721
 DTSTART:20260215T194500
 DTEND:20260215T203000
 SUMMARY:🏀 U21 Men: Titans Larrys vs Solway Pythons
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Pythons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:36c3b424-4118-4927-94c3-de80f2ba7fca
+UID:fc2bc19f-2a28-408b-829e-943bdd25a07e
 SEQUENCE:0
-DTSTAMP:20251116T171521
+DTSTAMP:20251117T171721
 DTSTART:20260222T190000
 DTEND:20260222T194500
 SUMMARY:🏀 U21 Men: Titans Larrys vs Ashy Lightning Green
@@ -83,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:edb430c8-fe1a-4e93-a661-71dfa2dfc005
+UID:7f68ab4e-6909-4725-8bc3-c27dda0e7774
 SEQUENCE:0
-DTSTAMP:20251116T171521
+DTSTAMP:20251117T171721
 DTSTART:20260301T194500
 DTEND:20260301T203000
 SUMMARY:🏀 U21 Men: Titans Larrys vs Ashy Lightning Yellow
@@ -94,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
  ightning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:402cafb4-fbc6-4d40-ad43-d1b066ee0bf6
+UID:166249bc-4c34-4e1f-82f6-a7cdd4fa6f95
 SEQUENCE:0
-DTSTAMP:20251116T171521
+DTSTAMP:20251117T171721
 DTSTART:20260315T190000
 DTEND:20260315T194500
 SUMMARY:🏀 U21 Men: Titans Larrys vs Solway Cobras

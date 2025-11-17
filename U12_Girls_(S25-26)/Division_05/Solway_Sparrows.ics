@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Sparrows Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:586516ee-a9ae-451a-83d4-7b9f09843c03
+UID:0bbb3cd6-deae-4b1d-becc-ac1371c0887d
 SEQUENCE:0
-DTSTAMP:20251116T171325
+DTSTAMP:20251117T171540
 DTSTART:20251122T140000
 DTEND:20251122T144500
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Malvern Tigers Blue
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:35274576-05d0-43d2-a077-30efad3b82e4
+UID:248f3c4c-e716-475d-999a-55a852ec2e79
 SEQUENCE:0
-DTSTAMP:20251116T171325
+DTSTAMP:20251117T171540
 DTSTART:20251129T123000
 DTEND:20251129T131500
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Solway Red Robins
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Red Robins\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:23625f75-cf3e-4a61-b3f1-8a89f38dbcc2
+UID:9419083a-5349-4422-a787-59f40b2f0668
 SEQUENCE:0
-DTSTAMP:20251116T171325
+DTSTAMP:20251117T171540
 DTSTART:20251213T123000
 DTEND:20251213T131500
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Timberwolves Pearls
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Pearls\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:af7d36b2-fc2a-4702-a62d-ce78487d3ef6
+UID:1c77d3f0-54da-4884-a398-71efedee8028
 SEQUENCE:0
-DTSTAMP:20251116T171325
+DTSTAMP:20251117T171540
 DTSTART:20260131T140000
 DTEND:20260131T144500
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Lauriston Storm
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston S
  torm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fb081bee-7ff0-4472-8427-2f99fdfae740
+UID:9d11c537-6e88-40a4-9992-0ebdfd6e3da8
 SEQUENCE:0
-DTSTAMP:20251116T171325
+DTSTAMP:20251117T171540
 DTSTART:20260207T131500
 DTEND:20260207T140000
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Maccabi Bucks
@@ -61,20 +61,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4667e1fa-8cdb-4ba3-b42b-0ad71b8f2cf2
+UID:b2fc2f06-ab9b-4686-875d-52c4e5132be7
 SEQUENCE:0
-DTSTAMP:20251116T171325
-DTSTART:20260214T140000
-DTEND:20260214T144500
+DTSTAMP:20251117T171540
+DTSTART:20260214T131500
+DTEND:20260214T140000
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Korowa Grey
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Korowa Grey
- \nArrive 15 mins early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Korowa 
+ Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4d1ecc75-a427-4240-8b8f-2fb38403505f
+UID:89c9c7d2-b131-47d0-8351-f22a212efe30
 SEQUENCE:0
-DTSTAMP:20251116T171325
+DTSTAMP:20251117T171540
 DTSTART:20260221T131500
 DTEND:20260221T140000
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Maccabi Eagles
@@ -83,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:99ea151f-4932-40b4-912f-681ac20b90b2
+UID:7f7d8ae8-290e-4684-8eb2-2e99661fbbe2
 SEQUENCE:0
-DTSTAMP:20251116T171325
+DTSTAMP:20251117T171540
 DTSTART:20260228T140000
 DTEND:20260228T144500
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Maccabi Ducks
@@ -94,14 +94,14 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Duc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a46017f0-0106-4b7f-9b36-c157930bdd90
+UID:8881dc78-9cfa-4934-84c8-39a4a3561e71
 SEQUENCE:0
-DTSTAMP:20251116T171325
-DTSTART:20260314T140000
-DTEND:20260314T144500
+DTSTAMP:20251117T171540
+DTSTART:20260314T123000
+DTEND:20260314T131500
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Malvern Tigers Blue
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
- ers Blue\nArrive 15 mins early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR
