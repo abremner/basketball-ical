@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Suns Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:de4435a2-7b78-4983-93fb-0a38ad391ce5
+UID:5847715f-32fb-48ff-9d7a-6c4d54495746
 SEQUENCE:0
-DTSTAMP:20251117T171711
-DTSTART:20251118T191500
-DTEND:20251118T200000
-SUMMARY:🏀 U18 Girls: Solway Suns vs Malvern Tigers Jackson
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
- n Tigers Jackson\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:00928228-6bd1-43a1-8e65-6e95bbacab2a
-SEQUENCE:0
-DTSTAMP:20251117T171711
+DTSTAMP:20251118T171705
 DTSTART:20251125T191500
 DTEND:20251125T200000
 SUMMARY:🏀 U18 Girls: Solway Suns vs Malvern Tigers Talbot
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Talbot\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:35a449f4-5238-4027-b668-aec02b297a58
+UID:b112e883-8dd7-40e2-b341-c3ada3f72957
 SEQUENCE:0
-DTSTAMP:20251117T171711
+DTSTAMP:20251118T171705
 DTSTART:20251202T200000
 DTEND:20251202T204500
 SUMMARY:🏀 U18 Girls: Solway Suns vs Malvern Tigers Tolo
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Tolo\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:02990a01-048f-4dd0-9482-63b0eb5a4ff2
+UID:cde74760-18fb-47ab-981d-a46a13bba233
 SEQUENCE:0
-DTSTAMP:20251117T171711
+DTSTAMP:20251118T171705
 DTSTART:20251209T191500
 DTEND:20251209T200000
 SUMMARY:🏀 U18 Girls: Solway Suns vs SCBC Brilliant Diamonds
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: SCBC B
  rilliant Diamonds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:85b56be8-634f-4051-81fc-78ae7e2e99f3
+UID:3314b3de-3d54-4386-93b2-7d0e98010eba
 SEQUENCE:0
-DTSTAMP:20251117T171711
+DTSTAMP:20251118T171705
 DTSTART:20260203T191500
 DTEND:20260203T200000
 SUMMARY:🏀 U18 Girls: Solway Suns vs Malvern Tigers Allen
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Allen\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bd1e5afa-cdca-4260-8cf7-ab27e5199069
+UID:e2c211d7-f91b-4329-86e8-6f458842d837
 SEQUENCE:0
-DTSTAMP:20251117T171711
+DTSTAMP:20251118T171705
 DTSTART:20260210T191500
 DTEND:20260210T200000
 SUMMARY:🏀 U18 Girls: Solway Suns vs Malvern Tigers Reid
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Reid\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:04b42651-eb3d-44e9-abf1-efcfda882f48
+UID:6976496e-a39d-462a-93bb-025bda9f4e55
 SEQUENCE:0
-DTSTAMP:20251117T171711
+DTSTAMP:20251118T171705
 DTSTART:20260217T200000
 DTEND:20260217T204500
 SUMMARY:🏀 U18 Girls: Solway Suns vs Solway Magic
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Magic\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b2ef89fe-f424-4228-9cb9-67135f4e5b93
+UID:16872b80-c562-488c-830f-762a9258cf30
 SEQUENCE:0
-DTSTAMP:20251117T171711
+DTSTAMP:20251118T171705
 DTSTART:20260224T191500
 DTEND:20260224T200000
 SUMMARY:🏀 U18 Girls: Solway Suns vs Malvern Tigers Jackson
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Jackson\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a791ba2e-1571-4ec4-9ac1-403169de839e
+UID:8444b5c0-6ada-4339-a43e-8fb91f73830b
 SEQUENCE:0
-DTSTAMP:20251117T171711
+DTSTAMP:20251118T171705
 DTSTART:20260303T191500
 DTEND:20260303T200000
 SUMMARY:🏀 U18 Girls: Solway Suns vs Malvern Tigers Talbot
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Talbot\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2bcfe340-512f-4d9b-964b-e009ba938765
+UID:7959aacb-bddb-47b6-a10a-4b205e4d7b09
 SEQUENCE:0
-DTSTAMP:20251117T171711
+DTSTAMP:20251118T171705
 DTSTART:20260310T200000
 DTEND:20260310T204500
 SUMMARY:🏀 U18 Girls: Solway Suns vs Malvern Tigers Tolo
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Tolo\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b40367f3-1904-4887-81a0-dfb4b41a1eda
+UID:0da51a31-cad2-4256-84f9-ac25cdda872d
 SEQUENCE:0
-DTSTAMP:20251117T171711
+DTSTAMP:20251118T171705
 DTSTART:20260317T200000
 DTEND:20260317T204500
 SUMMARY:🏀 U18 Girls: Solway Suns vs SCBC Brilliant Diamonds

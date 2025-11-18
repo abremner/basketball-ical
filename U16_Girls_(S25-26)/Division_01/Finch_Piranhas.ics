@@ -6,20 +6,9 @@ X-WR-CALNAME:Finch Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:14744d33-1c57-4c4f-b44a-7b1ea82c19ca
+UID:8a2de38a-0680-472f-a433-1cfe4b0e1fa1
 SEQUENCE:0
-DTSTAMP:20251117T171651
-DTSTART:20251118T183000
-DTEND:20251118T191500
-SUMMARY:🏀 U16 Girls: Finch Piranhas vs Solway Marvels
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
-  Marvels\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:b88efe9c-6b35-4192-a877-baeadb77adae
-SEQUENCE:0
-DTSTAMP:20251117T171651
+DTSTAMP:20251118T171644
 DTSTART:20251125T174500
 DTEND:20251125T183000
 SUMMARY:🏀 U16 Girls: Finch Piranhas vs Timberwolves Rockets
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Rockets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1aa7cd0e-43c4-47de-87dc-39de5c2d1a6c
+UID:aa58b533-3574-496e-a739-34fa701d694f
 SEQUENCE:0
-DTSTAMP:20251117T171651
+DTSTAMP:20251118T171644
 DTSTART:20251202T174500
 DTEND:20251202T183000
 SUMMARY:🏀 U16 Girls: Finch Piranhas vs Solway Fever
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Fever\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:eed378f5-4358-4071-ac67-27af52f52552
+UID:4876cc11-99a5-4e92-ab05-c5d025ca6fa7
 SEQUENCE:0
-DTSTAMP:20251117T171651
+DTSTAMP:20251118T171644
 DTSTART:20251209T174500
 DTEND:20251209T183000
 SUMMARY:🏀 U16 Girls: Finch Piranhas vs Malvern Tigers Rocci
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Rocci\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7f8593df-2c6b-47a8-9266-8f6c2554d49f
+UID:2f82e9c4-ca0f-49dc-97d5-54da179b6e7c
 SEQUENCE:0
-DTSTAMP:20251117T171651
+DTSTAMP:20251118T171644
 DTSTART:20260203T174500
 DTEND:20260203T183000
 SUMMARY:🏀 U16 Girls: Finch Piranhas vs Ashy Lightning Gold
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:da0f5d34-df4b-4c03-a9ab-369e5092fd6e
+UID:6de55dbc-3c22-410b-8c4f-3d29a431c212
 SEQUENCE:0
-DTSTAMP:20251117T171651
+DTSTAMP:20251118T171644
 DTSTART:20260210T174500
 DTEND:20260210T183000
 SUMMARY:🏀 U16 Girls: Finch Piranhas vs Solway Marvels
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Marvels\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:543e956e-386c-4f80-bdbd-0606756362ac
+UID:64421e23-643c-4086-9190-37501c767365
 SEQUENCE:0
-DTSTAMP:20251117T171651
+DTSTAMP:20251118T171644
 DTSTART:20260217T174500
 DTEND:20260217T183000
 SUMMARY:🏀 U16 Girls: Finch Piranhas vs Timberwolves Rockets
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Rockets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4128e155-ca8c-441d-8f73-434dbc9efa14
+UID:88400277-b643-4d0e-8841-d9991ce7f05a
 SEQUENCE:0
-DTSTAMP:20251117T171651
+DTSTAMP:20251118T171644
 DTSTART:20260224T174500
 DTEND:20260224T183000
 SUMMARY:🏀 U16 Girls: Finch Piranhas vs Solway Fever
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Fever\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:da7fa9ed-9dbf-4f39-9063-2c12dd33e896
+UID:931e3b42-77ac-4ad0-b7af-89200f8ec871
 SEQUENCE:0
-DTSTAMP:20251117T171651
+DTSTAMP:20251118T171644
 DTSTART:20260303T174500
 DTEND:20260303T183000
 SUMMARY:🏀 U16 Girls: Finch Piranhas vs Malvern Tigers Rocci
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Rocci\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:05ee1ca4-0651-447a-a191-3197d7db8980
+UID:65053291-b6e3-4bf8-b176-3d8e9f61222a
 SEQUENCE:0
-DTSTAMP:20251117T171651
+DTSTAMP:20251118T171644
 DTSTART:20260310T174500
 DTEND:20260310T183000
 SUMMARY:🏀 U16 Girls: Finch Piranhas vs Ashy Lightning Gold
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:08bd5e14-85ed-4708-b364-732219eb604c
+UID:1c63fe9e-b71f-4854-9d55-dfba0d7fd536
 SEQUENCE:0
-DTSTAMP:20251117T171651
+DTSTAMP:20251118T171644
 DTSTART:20260317T174500
 DTEND:20260317T183000
 SUMMARY:🏀 U16 Girls: Finch Piranhas vs Solway Marvels

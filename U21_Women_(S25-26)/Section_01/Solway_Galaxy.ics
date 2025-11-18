@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Galaxy Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:a4dd3959-b88c-4e3a-8025-b3d82800490c
+UID:62ce83dd-3ef7-4510-b20c-0ed26417b393
 SEQUENCE:0
-DTSTAMP:20251117T171723
-DTSTART:20251118T204500
-DTEND:20251118T213000
-SUMMARY:🏀 U21 Women: Solway Galaxy vs Solway Dream
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
-  Dream\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:752c52ce-e3b2-4a79-b1b7-54de21f6b558
-SEQUENCE:0
-DTSTAMP:20251117T171723
+DTSTAMP:20251118T171718
 DTSTART:20251125T204500
 DTEND:20251125T213000
 SUMMARY:🏀 U21 Women: Solway Galaxy vs Malvern Tigers Black
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:36b4802c-2504-4267-b6e2-639c957c8b9f
+UID:e929cc60-9457-4619-8a37-ec9c6edc63d5
 SEQUENCE:0
-DTSTAMP:20251117T171723
+DTSTAMP:20251118T171718
 DTSTART:20251202T204500
 DTEND:20251202T213000
 SUMMARY:🏀 U21 Women: Solway Galaxy vs Malvern Tigers George
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers George\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3935f6ca-887a-4c6c-81d8-327d4e58cdc0
+UID:214ac4e1-b7e6-4f94-a446-9fa896adfecc
 SEQUENCE:0
-DTSTAMP:20251117T171723
+DTSTAMP:20251118T171718
 DTSTART:20251209T204500
 DTEND:20251209T213000
 SUMMARY:🏀 U21 Women: Solway Galaxy vs Solway Dream
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Dream\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1790d4a1-204a-4302-9061-23e86ae7c4ef
+UID:4822df4b-2ee5-49a1-9b71-9aade9f01a28
 SEQUENCE:0
-DTSTAMP:20251117T171723
+DTSTAMP:20251118T171718
 DTSTART:20260203T204500
 DTEND:20260203T213000
 SUMMARY:🏀 U21 Women: Solway Galaxy vs Malvern Tigers Black
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ed4db585-1fb3-4bc6-9ac8-8f61d86431aa
+UID:42a7ab17-1360-4bc6-90a9-27f3de9caee4
 SEQUENCE:0
-DTSTAMP:20251117T171723
+DTSTAMP:20251118T171718
 DTSTART:20260210T204500
 DTEND:20260210T213000
 SUMMARY:🏀 U21 Women: Solway Galaxy vs Malvern Tigers George
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers George\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4a7267b0-eb24-4588-a06c-b637a5544709
+UID:f0ad9913-ff67-4407-b79b-0213e8cc73fe
 SEQUENCE:0
-DTSTAMP:20251117T171723
+DTSTAMP:20251118T171718
 DTSTART:20260217T204500
 DTEND:20260217T213000
 SUMMARY:🏀 U21 Women: Solway Galaxy vs Solway Dream
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Dream\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4e0e137b-f71a-464f-8c1e-af7f2831dd23
+UID:673620ae-d437-45cd-8aea-47591d7fe2d5
 SEQUENCE:0
-DTSTAMP:20251117T171723
+DTSTAMP:20251118T171718
 DTSTART:20260224T204500
 DTEND:20260224T213000
 SUMMARY:🏀 U21 Women: Solway Galaxy vs Malvern Tigers Black
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9361e190-7218-4ba1-898d-02bda3899527
+UID:32dadda2-dda2-4944-9ae4-35a3af22efad
 SEQUENCE:0
-DTSTAMP:20251117T171723
+DTSTAMP:20251118T171718
 DTSTART:20260303T204500
 DTEND:20260303T213000
 SUMMARY:🏀 U21 Women: Solway Galaxy vs Malvern Tigers George
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers George\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7c05ec15-d80d-48ca-857f-2409a8e414c0
+UID:2770a0e7-694e-4952-9a13-23d476e6b481
 SEQUENCE:0
-DTSTAMP:20251117T171723
+DTSTAMP:20251118T171718
 DTSTART:20260310T204500
 DTEND:20260310T213000
 SUMMARY:🏀 U21 Women: Solway Galaxy vs Solway Dream
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Dream\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9bed96cf-49b7-4674-8635-11560d3c37e7
+UID:dfb8752d-9bbd-4359-9d8b-cb0e9307e381
 SEQUENCE:0
-DTSTAMP:20251117T171723
+DTSTAMP:20251118T171718
 DTSTART:20260317T204500
 DTEND:20260317T213000
 SUMMARY:🏀 U21 Women: Solway Galaxy vs Malvern Tigers Black

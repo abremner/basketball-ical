@@ -6,21 +6,9 @@ X-WR-CALNAME:Timberwolves Emeralds Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:35d26cec-486d-4f9c-b8a0-fd74f7161993
+UID:42e07e39-41b4-4219-b916-a65504706719
 SEQUENCE:0
-DTSTAMP:20251117T171655
-DTSTART:20251118T174500
-DTEND:20251118T183000
-SUMMARY:🏀 U16 Girls: Timberwolves Emeralds vs Glen Iris Scorpions Sixer
- s
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
- ris Scorpions Sixers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:3f3a7c3d-c109-436d-a67f-838375a13e42
-SEQUENCE:0
-DTSTAMP:20251117T171655
+DTSTAMP:20251118T171649
 DTSTART:20251125T174500
 DTEND:20251125T183000
 SUMMARY:🏀 U16 Girls: Timberwolves Emeralds vs Korowa Cherry
@@ -29,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Korowa
   Cherry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9fb13357-9138-4688-b25e-fc1f0e612a66
+UID:9b63e10f-ce01-4863-bb4e-997ecf6a8881
 SEQUENCE:0
-DTSTAMP:20251117T171655
+DTSTAMP:20251118T171649
 DTSTART:20251202T174500
 DTEND:20251202T183000
 SUMMARY:🏀 U16 Girls: Timberwolves Emeralds vs Glen Iris Scorpions Saint
@@ -41,9 +29,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
  ris Scorpions Saints\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:03e3cf1b-405e-47fd-8f73-da199d53164a
+UID:ca8002d2-f163-4b39-94b0-c155e9ce6eb3
 SEQUENCE:0
-DTSTAMP:20251117T171655
+DTSTAMP:20251118T171649
 DTSTART:20251209T174500
 DTEND:20251209T183000
 SUMMARY:🏀 U16 Girls: Timberwolves Emeralds vs Harold Piranhas
@@ -52,9 +40,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Harold
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c45cef81-c0dd-4dc4-9275-3fff0add150c
+UID:d4360c85-ba65-464b-bf4b-fcb395e3dc72
 SEQUENCE:0
-DTSTAMP:20251117T171655
+DTSTAMP:20251118T171649
 DTSTART:20260203T183000
 DTEND:20260203T191500
 SUMMARY:🏀 U16 Girls: Timberwolves Emeralds vs Ashy Lightning Green
@@ -63,9 +51,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
  ightning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fb2edeb6-18ec-4f21-9a12-6247a9c3fabf
+UID:bc9c98c9-ce68-46a1-b109-8cce64f8398f
 SEQUENCE:0
-DTSTAMP:20251117T171655
+DTSTAMP:20251118T171649
 DTSTART:20260210T174500
 DTEND:20260210T183000
 SUMMARY:🏀 U16 Girls: Timberwolves Emeralds vs Malvern Tigers Wallace
@@ -74,9 +62,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Wallace\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f7d9a969-40ad-494d-b5fe-a3f121b1cb66
+UID:374a9d82-35a4-4c9f-a85f-d5cb9b37d7c5
 SEQUENCE:0
-DTSTAMP:20251117T171655
+DTSTAMP:20251118T171649
 DTSTART:20260217T183000
 DTEND:20260217T191500
 SUMMARY:🏀 U16 Girls: Timberwolves Emeralds vs Timberwolves Storm
@@ -85,9 +73,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Storm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b9c8654a-edef-46dd-a880-a5ec2833932a
+UID:d6b6d701-1c19-473e-8983-3aa6fe747b90
 SEQUENCE:0
-DTSTAMP:20251117T171655
+DTSTAMP:20251118T171649
 DTSTART:20260224T174500
 DTEND:20260224T183000
 SUMMARY:🏀 U16 Girls: Timberwolves Emeralds vs Solway Phoenix
@@ -96,9 +84,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Phoenix\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c6f78ce1-76ac-44b0-b2b0-cc12ab88e214
+UID:aa0d6fb6-5f18-4ec4-a4fd-b4c3932c6715
 SEQUENCE:0
-DTSTAMP:20251117T171655
+DTSTAMP:20251118T171649
 DTSTART:20260310T183000
 DTEND:20260310T191500
 SUMMARY:🏀 U16 Girls: Timberwolves Emeralds vs Glen Iris Scorpions Sixer
@@ -108,9 +96,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glen I
  ris Scorpions Sixers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6f8dd19a-8740-439e-9467-40b8734d1cb0
+UID:2fe604e8-7c5b-41a3-9fab-f119cbff1637
 SEQUENCE:0
-DTSTAMP:20251117T171655
+DTSTAMP:20251118T171649
 DTSTART:20260317T174500
 DTEND:20260317T183000
 SUMMARY:🏀 U16 Girls: Timberwolves Emeralds vs Korowa Cherry

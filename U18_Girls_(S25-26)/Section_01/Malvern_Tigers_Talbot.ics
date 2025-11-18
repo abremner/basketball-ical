@@ -6,20 +6,9 @@ X-WR-CALNAME:Malvern Tigers Talbot Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:774f0f0d-35d5-4f9e-a1a6-c3fe06ea3886
+UID:24d70ec2-28af-424f-9b4b-36defde890b6
 SEQUENCE:0
-DTSTAMP:20251117T171709
-DTSTART:20251118T200000
-DTEND:20251118T204500
-SUMMARY:🏀 U18 Girls: Malvern Tigers Talbot vs Solway Magic
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
-  Magic\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:debbb6da-e892-4623-bddf-a5d54278725b
-SEQUENCE:0
-DTSTAMP:20251117T171709
+DTSTAMP:20251118T171704
 DTSTART:20251125T191500
 DTEND:20251125T200000
 SUMMARY:🏀 U18 Girls: Malvern Tigers Talbot vs Solway Suns
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Suns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:15c33ade-7e25-4bf9-aea0-891df71641bd
+UID:28becca9-6acb-43d7-ac13-b95057fa60ce
 SEQUENCE:0
-DTSTAMP:20251117T171709
+DTSTAMP:20251118T171704
 DTSTART:20251202T200000
 DTEND:20251202T204500
 SUMMARY:🏀 U18 Girls: Malvern Tigers Talbot vs SCBC Brilliant Diamonds
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: SCBC B
  rilliant Diamonds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:63431e61-5da2-4da7-8de6-1d5e6c0a8d1c
+UID:05779e1c-09fe-4de9-b9b0-5065923669ae
 SEQUENCE:0
-DTSTAMP:20251117T171709
+DTSTAMP:20251118T171704
 DTSTART:20251209T200000
 DTEND:20251209T204500
 SUMMARY:🏀 U18 Girls: Malvern Tigers Talbot vs Malvern Tigers Allen
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Allen\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1be1ddfb-6cfe-4242-949f-dafa156c1164
+UID:36418323-3f8e-43b4-8393-0dd4b5f00934
 SEQUENCE:0
-DTSTAMP:20251117T171709
+DTSTAMP:20251118T171704
 DTSTART:20260203T200000
 DTEND:20260203T204500
 SUMMARY:🏀 U18 Girls: Malvern Tigers Talbot vs Malvern Tigers Jackson
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Jackson\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ddd36b36-f3ee-4fa5-a239-c19ee2633242
+UID:9f25c867-01a2-443c-8237-79c5ffb9c95a
 SEQUENCE:0
-DTSTAMP:20251117T171709
+DTSTAMP:20251118T171704
 DTSTART:20260210T200000
 DTEND:20260210T204500
 SUMMARY:🏀 U18 Girls: Malvern Tigers Talbot vs Malvern Tigers Tolo
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Tolo\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d64f8be1-0520-4e74-922d-9126104631eb
+UID:60cc768c-cc97-4871-abbe-10fdd4e4fd17
 SEQUENCE:0
-DTSTAMP:20251117T171709
+DTSTAMP:20251118T171704
 DTSTART:20260217T191500
 DTEND:20260217T200000
 SUMMARY:🏀 U18 Girls: Malvern Tigers Talbot vs Malvern Tigers Reid
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Reid\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:aad95d31-72e2-4bd7-8cf3-b527d26ecf37
+UID:0993eb7e-34e7-400b-8894-51ef771e80ad
 SEQUENCE:0
-DTSTAMP:20251117T171709
+DTSTAMP:20251118T171704
 DTSTART:20260224T200000
 DTEND:20260224T204500
 SUMMARY:🏀 U18 Girls: Malvern Tigers Talbot vs Solway Magic
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Magic\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:eb05603c-2fc6-4b48-83f2-cc127b9dc30f
+UID:5a7280fa-68a7-436c-a76a-a1d91b132b9c
 SEQUENCE:0
-DTSTAMP:20251117T171709
+DTSTAMP:20251118T171704
 DTSTART:20260303T191500
 DTEND:20260303T200000
 SUMMARY:🏀 U18 Girls: Malvern Tigers Talbot vs Solway Suns
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Suns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7d26fa74-4d65-4d00-ac3c-8ab91b3d7fb0
+UID:478030e7-abf6-4c1a-9ad2-2475b70e80f6
 SEQUENCE:0
-DTSTAMP:20251117T171709
+DTSTAMP:20251118T171704
 DTSTART:20260310T191500
 DTEND:20260310T200000
 SUMMARY:🏀 U18 Girls: Malvern Tigers Talbot vs SCBC Brilliant Diamonds
@@ -116,9 +105,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: SCBC B
  rilliant Diamonds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ad16c9f5-d205-44f6-a639-f7a146c3b8ba
+UID:fe46161b-16d8-44c2-8c49-ecb92bd75fc3
 SEQUENCE:0
-DTSTAMP:20251117T171709
+DTSTAMP:20251118T171704
 DTSTART:20260317T191500
 DTEND:20260317T200000
 SUMMARY:🏀 U18 Girls: Malvern Tigers Talbot vs Malvern Tigers Allen
