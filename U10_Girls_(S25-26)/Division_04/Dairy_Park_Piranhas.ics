@@ -6,31 +6,31 @@ X-WR-CALNAME:Dairy Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:5f83e1a8-4289-4655-9de7-3dc0df6f5186
+UID:84edebbe-b717-4137-ae7d-ee174047d15e
 SEQUENCE:0
-DTSTAMP:20251118T171439
+DTSTAMP:20251119T171415
 DTSTART:20251122T110000
 DTEND:20251122T114500
-SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Solway Mistrals
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
-  Mistrals\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:7d410425-3897-44bc-8989-c9d537fbecae
-SEQUENCE:0
-DTSTAMP:20251118T171439
-DTSTART:20251129T110000
-DTEND:20251129T114500
 SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Maccabi Warriors
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ecab4342-58b4-4afc-b888-3bb91960c23b
+UID:f852dc80-b6c5-4a20-a73a-f2c277f6684c
 SEQUENCE:0
-DTSTAMP:20251118T171439
+DTSTAMP:20251119T171415
+DTSTART:20251129T110000
+DTEND:20251129T114500
+SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Solway Mistrals
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Mistrals\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4dc7fec1-40ea-4d18-9b45-f436bfc37717
+SEQUENCE:0
+DTSTAMP:20251119T171415
 DTSTART:20251206T114500
 DTEND:20251206T123000
 SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Timberwolves Warriors
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Timberwolve
  s Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1f3bd019-eb34-4ef9-9ada-226ee150f490
+UID:5294b6da-60e5-410c-92b6-df61eff64c3c
 SEQUENCE:0
-DTSTAMP:20251118T171439
+DTSTAMP:20251119T171415
 DTSTART:20251213T114500
 DTEND:20251213T123000
 SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Malvern Tigers Mitchell
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Mitchell\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:25f45599-0aef-4718-917d-49822bd3781c
+UID:7d43df3f-4169-4224-9f35-0c9a62552994
 SEQUENCE:0
-DTSTAMP:20251118T171439
+DTSTAMP:20251119T171415
 DTSTART:20260131T114500
 DTEND:20260131T123000
 SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Solway Typhoons
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Typh
  oons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1135eacd-cb43-4b3e-9603-180d89a1a210
+UID:f733eab3-fac9-4e0f-bd97-d1840abc661d
 SEQUENCE:0
-DTSTAMP:20251118T171439
+DTSTAMP:20251119T171415
 DTSTART:20260207T114500
 DTEND:20260207T123000
 SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Netherlee Piranhas
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Netherlee P
  iranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ae10368f-4d2a-4cc9-a6dc-53de61c0866a
+UID:235276f2-c3fc-409b-8621-38016a764632
 SEQUENCE:0
-DTSTAMP:20251118T171439
+DTSTAMP:20251119T171415
 DTSTART:20260221T110000
 DTEND:20260221T114500
 SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Solway Mistrals
@@ -83,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Mistrals\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:04b7a159-e4cf-478b-8644-c6bc5f480891
+UID:7f4a54b1-bb7d-4134-a881-96bc315b60fc
 SEQUENCE:0
-DTSTAMP:20251118T171439
+DTSTAMP:20251119T171415
 DTSTART:20260228T110000
 DTEND:20260228T114500
 SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Maccabi Warriors
@@ -94,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cb030104-5921-432f-87da-451a7b2dad44
+UID:097888fa-bd44-4eb3-9c5d-960b9842f1db
 SEQUENCE:0
-DTSTAMP:20251118T171439
+DTSTAMP:20251119T171415
 DTSTART:20260314T114500
 DTEND:20260314T123000
 SUMMARY:🏀 U10 Girls: Dairy Park Piranhas vs Timberwolves Warriors

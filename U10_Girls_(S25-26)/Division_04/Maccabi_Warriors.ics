@@ -6,31 +6,31 @@ X-WR-CALNAME:Maccabi Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:02e313a4-e244-40c8-bc22-4fc80fc60c90
+UID:4332ae0e-b6b7-4122-bf37-b639fc5a39cb
 SEQUENCE:0
-DTSTAMP:20251118T171439
-DTSTART:20251122T114500
-DTEND:20251122T123000
-SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Netherlee Piranhas
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Netherlee P
- iranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:58cf8072-cb39-4e3c-a8b3-28935a549b16
-SEQUENCE:0
-DTSTAMP:20251118T171439
-DTSTART:20251129T110000
-DTEND:20251129T114500
+DTSTAMP:20251119T171416
+DTSTART:20251122T110000
+DTEND:20251122T114500
 SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Dairy Park Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Dairy 
  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5d00e28c-16d4-4f32-96d0-640c26d59609
+UID:12f8ec96-2f32-4207-a8ad-311dfde00396
 SEQUENCE:0
-DTSTAMP:20251118T171439
+DTSTAMP:20251119T171416
+DTSTART:20251129T114500
+DTEND:20251129T123000
+SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Netherlee Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Netherlee P
+ iranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:780d81cc-12c4-45de-8682-427ebc6fa49a
+SEQUENCE:0
+DTSTAMP:20251119T171416
 DTSTART:20251206T110000
 DTEND:20251206T114500
 SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Malvern Tigers Mitchell
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Mitchell\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:45d76719-d5b8-45d5-8d73-36df3f8c546b
+UID:78d7d784-d1d5-4b4f-8270-85ba774c161a
 SEQUENCE:0
-DTSTAMP:20251118T171439
+DTSTAMP:20251119T171416
 DTSTART:20260131T114500
 DTEND:20260131T123000
 SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Timberwolves Warriors
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Timberwolve
  s Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7aa25a3a-9b0d-40f0-af39-664c9343dc1a
+UID:f04ee930-8e75-4985-a57c-a48e84debd82
 SEQUENCE:0
-DTSTAMP:20251118T171439
+DTSTAMP:20251119T171416
 DTSTART:20260207T114500
 DTEND:20260207T123000
 SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Solway Typhoons
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Typh
  oons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:108a1389-9eb9-4aa7-aef4-4a536630ea77
+UID:6c092b5d-b96b-44c2-8113-d1d25beba568
 SEQUENCE:0
-DTSTAMP:20251118T171439
+DTSTAMP:20251119T171416
 DTSTART:20260214T114500
 DTEND:20260214T123000
 SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Solway Mistrals
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Mist
  rals\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:86c32ddb-c496-444c-b7e6-bb1eef6579f0
+UID:134753e8-5a1e-4c14-afa8-4002f102bff2
 SEQUENCE:0
-DTSTAMP:20251118T171439
+DTSTAMP:20251119T171416
 DTSTART:20260221T114500
 DTEND:20260221T123000
 SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Netherlee Piranhas
@@ -83,9 +83,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Netherlee P
  iranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0916c5c9-2c13-4018-ba38-743d43633f23
+UID:6b3b2566-d7db-4791-801f-c838e21c0bd5
 SEQUENCE:0
-DTSTAMP:20251118T171439
+DTSTAMP:20251119T171416
 DTSTART:20260228T110000
 DTEND:20260228T114500
 SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Dairy Park Piranhas
@@ -94,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Dairy
  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:30fcb758-8f7c-40e3-b67e-5506ed9281d5
+UID:93d7b651-8b30-4e9f-98d4-969c4137141b
 SEQUENCE:0
-DTSTAMP:20251118T171439
+DTSTAMP:20251119T171416
 DTSTART:20260314T110000
 DTEND:20260314T114500
 SUMMARY:🏀 U10 Girls: Maccabi Warriors vs Malvern Tigers Mitchell
