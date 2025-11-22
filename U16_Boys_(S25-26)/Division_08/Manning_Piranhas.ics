@@ -6,20 +6,9 @@ X-WR-CALNAME:Manning Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2c412274-088c-4e1a-b6c3-37b7c96940c2
+UID:1ad23070-d258-4f7c-b3ff-585131076c5a
 SEQUENCE:0
-DTSTAMP:20251121T171509
-DTSTART:20251122T183000
-DTEND:20251122T191500
-SUMMARY:🏀 U16 Boys: Manning Piranhas vs Malvern Tigers Orange
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
-  Tigers Orange\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:c811b3ad-1b02-437e-b255-5a469be422d2
-SEQUENCE:0
-DTSTAMP:20251121T171509
+DTSTAMP:20251122T171346
 DTSTART:20251129T191500
 DTEND:20251129T200000
 SUMMARY:🏀 U16 Boys: Manning Piranhas vs Solway Rangers
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Rangers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:15a8ca87-ff1b-4015-b8de-f11d4a44ae5c
+UID:e695fa2c-4248-4e36-9f34-709573be04f6
 SEQUENCE:0
-DTSTAMP:20251121T171509
+DTSTAMP:20251122T171346
 DTSTART:20251206T183000
 DTEND:20251206T191500
 SUMMARY:🏀 U16 Boys: Manning Piranhas vs Solway Jets
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Jets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:97156e45-8c85-4fd5-8f10-b539feae0680
+UID:c05ca559-06b8-41f5-aee2-4ad1175e009c
 SEQUENCE:0
-DTSTAMP:20251121T171509
+DTSTAMP:20251122T171346
 DTSTART:20251213T191500
 DTEND:20251213T200000
 SUMMARY:🏀 U16 Boys: Manning Piranhas vs Ashy Lightning Green
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c78d71f4-8759-4135-83c4-f42c27fb9d16
+UID:bdc97b40-83a1-475e-80bd-36434201a476
 SEQUENCE:0
-DTSTAMP:20251121T171509
+DTSTAMP:20251122T171346
 DTSTART:20260131T191500
 DTEND:20260131T200000
 SUMMARY:🏀 U16 Boys: Manning Piranhas vs Malvern Piranhas
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:781fedc5-b16d-4a63-b5ba-f5a0aec6f4a6
+UID:fab958e3-b389-4d68-ab6a-e5eb4ae3b383
 SEQUENCE:0
-DTSTAMP:20251121T171509
+DTSTAMP:20251122T171346
 DTSTART:20260207T191500
 DTEND:20260207T200000
 SUMMARY:🏀 U16 Boys: Manning Piranhas vs Malvern Tigers Orange
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3f0fa44d-f816-4a37-adfc-a6021b4a886d
+UID:a2dff044-7076-4b72-8636-561aefdc5e54
 SEQUENCE:0
-DTSTAMP:20251121T171509
+DTSTAMP:20251122T171346
 DTSTART:20260214T191500
 DTEND:20260214T200000
 SUMMARY:🏀 U16 Boys: Manning Piranhas vs Solway Rangers
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
  Rangers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dfa4ad17-5cb6-4bcd-acee-5589016d0f4d
+UID:499946da-846d-485b-b613-6ad34e114d85
 SEQUENCE:0
-DTSTAMP:20251121T171509
+DTSTAMP:20251122T171346
 DTSTART:20260221T183000
 DTEND:20260221T191500
 SUMMARY:🏀 U16 Boys: Manning Piranhas vs Solway Jets
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Jets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:449c4d2c-c0fb-4fac-a61f-75670688fe7a
+UID:6e9290f4-2f5a-4543-9e76-aa24220fd8f4
 SEQUENCE:0
-DTSTAMP:20251121T171509
+DTSTAMP:20251122T171346
 DTSTART:20260228T191500
 DTEND:20260228T200000
 SUMMARY:🏀 U16 Boys: Manning Piranhas vs Ashy Lightning Green
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b2997aa5-67f7-4968-8227-17cca1420654
+UID:4b85b886-26c0-4acb-aa79-f0379cbd24f1
 SEQUENCE:0
-DTSTAMP:20251121T171509
+DTSTAMP:20251122T171346
 DTSTART:20260314T191500
 DTEND:20260314T200000
 SUMMARY:🏀 U16 Boys: Manning Piranhas vs Malvern Piranhas

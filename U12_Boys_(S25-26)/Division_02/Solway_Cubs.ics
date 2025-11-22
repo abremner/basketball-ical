@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Cubs Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f1c500dc-e791-48c9-b32c-4302d51b5b53
+UID:a56e535a-2b4f-4c34-b624-1cb7b960d644
 SEQUENCE:0
-DTSTAMP:20251121T171323
-DTSTART:20251122T144500
-DTEND:20251122T153000
-SUMMARY:🏀 U12 Boys: Solway Cubs vs Malvern Tigers Red
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
- n Tigers Red\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:9c777c88-b095-494a-bf66-b170f73069be
-SEQUENCE:0
-DTSTAMP:20251121T171323
+DTSTAMP:20251122T171205
 DTSTART:20251129T144500
 DTEND:20251129T153000
 SUMMARY:🏀 U12 Boys: Solway Cubs vs Timberwolves Colts
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Colts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d8a56355-0551-4cf4-83e9-08630ea9ac74
+UID:77a8a05b-4993-4dbc-9fc0-a8caedc21b1f
 SEQUENCE:0
-DTSTAMP:20251121T171323
+DTSTAMP:20251122T171205
 DTSTART:20251206T144500
 DTEND:20251206T153000
 SUMMARY:🏀 U12 Boys: Solway Cubs vs Malvern Tigers Yellow
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e1526939-0214-4b9f-a6b7-9a35730ee0c9
+UID:ad625829-019d-4152-9e00-a2c1579361ee
 SEQUENCE:0
-DTSTAMP:20251121T171323
+DTSTAMP:20251122T171205
 DTSTART:20251213T144500
 DTEND:20251213T153000
 SUMMARY:🏀 U12 Boys: Solway Cubs vs Glen Iris Scorpions Ferndale
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:db5f65a5-9e93-4f1a-ab9a-a6f989831a78
+UID:2a33a162-cdcf-4f84-ad6c-7556071f7457
 SEQUENCE:0
-DTSTAMP:20251121T171323
+DTSTAMP:20251122T171205
 DTSTART:20260131T140000
 DTEND:20260131T144500
 SUMMARY:🏀 U12 Boys: Solway Cubs vs Alma Park Piranhas
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Alma P
  ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:410f3b18-7d30-46b4-bb39-7b57a07b2fa5
+UID:50195c3d-55ab-4be5-82d7-c2da22d2bb4d
 SEQUENCE:0
-DTSTAMP:20251121T171323
+DTSTAMP:20251122T171205
 DTSTART:20260207T140000
 DTEND:20260207T144500
 SUMMARY:🏀 U12 Boys: Solway Cubs vs Malvern Tigers Red
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9e50664b-9f3e-499e-822e-62dd6ba37351
+UID:44e59d9f-8113-4233-b38f-0fc41b7ce8ad
 SEQUENCE:0
-DTSTAMP:20251121T171323
+DTSTAMP:20251122T171205
 DTSTART:20260214T140000
 DTEND:20260214T144500
 SUMMARY:🏀 U12 Boys: Solway Cubs vs Timberwolves Colts
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Colts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:76f6f137-c47b-4151-b567-2b8ea1bc9292
+UID:1c0c1953-c5d6-483c-af92-003a8946d1b8
 SEQUENCE:0
-DTSTAMP:20251121T171323
+DTSTAMP:20251122T171205
 DTSTART:20260221T144500
 DTEND:20260221T153000
 SUMMARY:🏀 U12 Boys: Solway Cubs vs Malvern Tigers Yellow
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d1a3395a-e65e-4237-9d06-6f5d60f31460
+UID:851b94a9-553e-41e6-acbb-6053d2ddeb7c
 SEQUENCE:0
-DTSTAMP:20251121T171323
+DTSTAMP:20251122T171205
 DTSTART:20260228T144500
 DTEND:20260228T153000
 SUMMARY:🏀 U12 Boys: Solway Cubs vs Glen Iris Scorpions Ferndale
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
  ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e77a1133-a864-411a-a73f-f3739e0fadc8
+UID:0b36d053-2871-4733-ab6c-b7b4ffd28763
 SEQUENCE:0
-DTSTAMP:20251121T171323
+DTSTAMP:20251122T171205
 DTSTART:20260314T140000
 DTEND:20260314T144500
 SUMMARY:🏀 U12 Boys: Solway Cubs vs Alma Park Piranhas

@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:cfee97cb-729a-44fd-b80b-1f473732c55d
+UID:bfa05feb-27a7-4a43-bc42-bea22dcd8a26
 SEQUENCE:0
-DTSTAMP:20251121T171232
-DTSTART:20251122T110000
-DTEND:20251122T114500
-SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
- ightning Gold\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:ea6c2f0c-a21f-4a99-8687-dea08643246c
-SEQUENCE:0
-DTSTAMP:20251121T171232
+DTSTAMP:20251122T171116
 DTSTART:20251129T110000
 DTEND:20251129T114500
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Malvern Tigers Black
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2be3e748-2877-4817-bd28-b6bf9280b257
+UID:e5b375a8-1f29-4979-8e36-bc551d33bc54
 SEQUENCE:0
-DTSTAMP:20251121T171232
+DTSTAMP:20251122T171116
 DTSTART:20251206T114500
 DTEND:20251206T123000
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs AlphaWolf Dragons
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AlphaW
  olf Dragons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c1ea214b-3314-4c5f-9a02-9aab7c9b19eb
+UID:2029cf31-3c26-4ef7-b7ff-e8f2dde6a58a
 SEQUENCE:0
-DTSTAMP:20251121T171232
+DTSTAMP:20251122T171116
 DTSTART:20251213T114500
 DTEND:20251213T123000
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Timberwolves Crusaders
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Crusaders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f701b893-6d13-4c00-a23f-b46825238382
+UID:6663167a-bf97-4502-bb88-5b0979bcecb8
 SEQUENCE:0
-DTSTAMP:20251121T171232
+DTSTAMP:20251122T171116
 DTSTART:20260131T123000
 DTEND:20260131T131500
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Malvern Tigers Red
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:04a8c854-2875-47f0-b62e-f0c9f511ac70
+UID:ab0af19a-dd7b-4ffe-9203-c275d08459a2
 SEQUENCE:0
-DTSTAMP:20251121T171232
+DTSTAMP:20251122T171116
 DTSTART:20260207T123000
 DTEND:20260207T131500
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Solway Boomers
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Boomers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:88caebee-9f38-49b8-b76b-24dbef5f56f7
+UID:d551dfdd-5051-4ad6-aa7d-c453d3d58a8a
 SEQUENCE:0
-DTSTAMP:20251121T171232
+DTSTAMP:20251122T171116
 DTSTART:20260214T131500
 DTEND:20260214T140000
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs AUBD Storm
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AUBD S
  torm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b03fa68b-64ea-4ab9-82e6-5bd7786135b3
+UID:32952c9d-f784-4765-b023-ab819d1179fa
 SEQUENCE:0
-DTSTAMP:20251121T171232
+DTSTAMP:20251122T171116
 DTSTART:20260221T123000
 DTEND:20260221T131500
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Ashy Lightning Gold
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:794fddff-fc2b-4ba6-ad8a-d0e9601692af
+UID:1ef277e4-e04c-4b58-a716-737511c3dd9c
 SEQUENCE:0
-DTSTAMP:20251121T171232
+DTSTAMP:20251122T171116
 DTSTART:20260228T123000
 DTEND:20260228T131500
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Malvern Tigers Black
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d6c62340-8727-474f-9d0d-c75a2af4920c
+UID:0e9958cc-7042-4a3d-a3a0-48c1fb940a1d
 SEQUENCE:0
-DTSTAMP:20251121T171232
+DTSTAMP:20251122T171116
 DTSTART:20260314T114500
 DTEND:20260314T123000
 SUMMARY:🏀 U10 Boys: Maccabi Warriors vs AlphaWolf Dragons

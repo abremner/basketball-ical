@@ -6,20 +6,9 @@ X-WR-CALNAME:Aintree Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:4f02607b-4b8e-4245-8c1d-b2cca619745b
+UID:a24f2195-6fa2-4c79-8aa8-2a2aaa82921d
 SEQUENCE:0
-DTSTAMP:20251121T171353
-DTSTART:20251122T144500
-DTEND:20251122T153000
-SUMMARY:🏀 U12 Girls: Aintree Piranhas vs Glen Iris Scorpions Gardiner
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
- ris Scorpions Gardiner\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:9174323b-1128-4b6c-bd9f-ba9802642464
-SEQUENCE:0
-DTSTAMP:20251121T171353
+DTSTAMP:20251122T171234
 DTSTART:20251129T144500
 DTEND:20251129T153000
 SUMMARY:🏀 U12 Girls: Aintree Piranhas vs Malvern Tigers Yellow
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2c22d7d9-fa0f-42ef-924c-5777db032228
+UID:30dad545-c92c-46bb-8428-05adb252f2e1
 SEQUENCE:0
-DTSTAMP:20251121T171353
+DTSTAMP:20251122T171234
 DTSTART:20251206T144500
 DTEND:20251206T153000
 SUMMARY:🏀 U12 Girls: Aintree Piranhas vs Korowa Cherry
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Korowa
   Cherry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9bf08161-cd10-413e-8879-5f29ac1f5e64
+UID:4a66b298-4f98-4559-8160-8b030c7ef488
 SEQUENCE:0
-DTSTAMP:20251121T171353
+DTSTAMP:20251122T171234
 DTSTART:20251213T140000
 DTEND:20251213T144500
 SUMMARY:🏀 U12 Girls: Aintree Piranhas vs Glen Iris Scorpions Ferndale
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
  is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6c419376-afe0-43f1-956f-a682943f9fea
+UID:706ef9be-dea3-48f9-8d43-ab1dd0792725
 SEQUENCE:0
-DTSTAMP:20251121T171353
+DTSTAMP:20251122T171234
 DTSTART:20260131T140000
 DTEND:20260131T144500
 SUMMARY:🏀 U12 Girls: Aintree Piranhas vs Toorak Troublemakers
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak
  Troublemakers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7a0d6829-4a59-4f5b-903f-bc7a7fff9df1
+UID:9523347b-2362-4276-a50c-a2e3b4484404
 SEQUENCE:0
-DTSTAMP:20251121T171353
+DTSTAMP:20251122T171234
 DTSTART:20260207T140000
 DTEND:20260207T144500
 SUMMARY:🏀 U12 Girls: Aintree Piranhas vs Toorak Talons
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Talons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a4138bb7-924d-420b-8acd-eb9904efe68c
+UID:5d02d097-85ac-4d33-8e22-c2a25a66d997
 SEQUENCE:0
-DTSTAMP:20251121T171353
+DTSTAMP:20251122T171234
 DTSTART:20260214T140000
 DTEND:20260214T144500
 SUMMARY:🏀 U12 Girls: Aintree Piranhas vs Ashy Lightning Gold
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
  ghtning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:89bc77c3-1905-4f93-bbbd-6ddd7f2b43b1
+UID:762058c5-323c-4d81-b9da-f75ed77d4dc5
 SEQUENCE:0
-DTSTAMP:20251121T171353
+DTSTAMP:20251122T171234
 DTSTART:20260221T140000
 DTEND:20260221T144500
 SUMMARY:🏀 U12 Girls: Aintree Piranhas vs Glen Iris Scorpions Gardiner
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a22c84fa-b494-4969-a19f-d827350f11d2
+UID:798d50e4-2b3a-4f7a-870b-21e11cc04e30
 SEQUENCE:0
-DTSTAMP:20251121T171353
+DTSTAMP:20251122T171234
 DTSTART:20260228T144500
 DTEND:20260228T153000
 SUMMARY:🏀 U12 Girls: Aintree Piranhas vs Malvern Tigers Yellow
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9562b12c-001d-4b7c-9e1b-8646e992071a
+UID:2ae3ad7e-93ae-43b1-9e8c-157413b146df
 SEQUENCE:0
-DTSTAMP:20251121T171353
+DTSTAMP:20251122T171234
 DTSTART:20260314T140000
 DTEND:20260314T144500
 SUMMARY:🏀 U12 Girls: Aintree Piranhas vs Korowa Cherry

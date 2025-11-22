@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Diamonds Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d5bd588c-02dd-4ce3-abb2-36ecf7331aab
+UID:a6dfc849-dbbe-4f9f-8973-b4453bedd7ca
 SEQUENCE:0
-DTSTAMP:20251121T171442
-DTSTART:20251122T170000
-DTEND:20251122T174500
-SUMMARY:🏀 U14 Girls: Solway Diamonds vs Timberwolves Rubies
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
- olves Rubies\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:d2cc2696-98b4-4973-b4d3-22520a0df5d3
-SEQUENCE:0
-DTSTAMP:20251121T171442
+DTSTAMP:20251122T171321
 DTSTART:20251129T131500
 DTEND:20251129T140000
 SUMMARY:🏀 U14 Girls: Solway Diamonds vs Arax
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c420dc8e-8453-46d9-9695-bbfd6cd6b071
+UID:e6dbfa82-f8e9-4ad9-970e-8edf8683e226
 SEQUENCE:0
-DTSTAMP:20251121T171442
+DTSTAMP:20251122T171321
 DTSTART:20251206T153000
 DTEND:20251206T161500
 SUMMARY:🏀 U14 Girls: Solway Diamonds vs Darling Park Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Darlin
  g Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:30876b90-847f-400b-bd93-c4565bd64f4b
+UID:9cfe85df-ef3a-411b-ad67-3e4da255e97b
 SEQUENCE:0
-DTSTAMP:20251121T171442
+DTSTAMP:20251122T171321
 DTSTART:20251213T170000
 DTEND:20251213T174500
 SUMMARY:🏀 U14 Girls: Solway Diamonds vs McArthur Park Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: McArthu
  r Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d780a09a-78db-4841-a3b3-6e51f0d816d3
+UID:3f2baa5f-fb42-416b-b1cf-0fa6132c35ac
 SEQUENCE:0
-DTSTAMP:20251121T171442
+DTSTAMP:20251122T171321
 DTSTART:20260131T153000
 DTEND:20260131T161500
 SUMMARY:🏀 U14 Girls: Solway Diamonds vs Malvern Tigers Deacon
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Deacon\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:be402a9d-84e7-44b2-8cc8-7800c59d3284
+UID:acfed6a7-e5db-4fd6-bab0-1b959d8d14f4
 SEQUENCE:0
-DTSTAMP:20251121T171442
+DTSTAMP:20251122T171321
 DTSTART:20260207T170000
 DTEND:20260207T174500
 SUMMARY:🏀 U14 Girls: Solway Diamonds vs Toorak Titanium
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak
  Titanium\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:015ed75a-9542-44d0-a575-31df74075f93
+UID:651126b8-d796-40d8-9119-b316f553e960
 SEQUENCE:0
-DTSTAMP:20251121T171442
+DTSTAMP:20251122T171321
 DTSTART:20260221T170000
 DTEND:20260221T174500
 SUMMARY:🏀 U14 Girls: Solway Diamonds vs Timberwolves Rubies
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
  olves Rubies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c124d4a7-c927-454b-b0c9-c9cb2e0dbf7b
+UID:b7aa80cb-7511-4888-9dd0-19483aff7cab
 SEQUENCE:0
-DTSTAMP:20251121T171442
+DTSTAMP:20251122T171321
 DTSTART:20260228T131500
 DTEND:20260228T140000
 SUMMARY:🏀 U14 Girls: Solway Diamonds vs Arax
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5f69958e-759f-4c2d-9fda-059e0e0e09a9
+UID:26acbb53-f5b4-4e45-9d34-9b7fa2354c75
 SEQUENCE:0
-DTSTAMP:20251121T171442
+DTSTAMP:20251122T171321
 DTSTART:20260314T153000
 DTEND:20260314T161500
 SUMMARY:🏀 U14 Girls: Solway Diamonds vs Darling Park Piranhas

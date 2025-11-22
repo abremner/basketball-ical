@@ -6,20 +6,9 @@ X-WR-CALNAME:Glen Iris Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:3a5dcd6b-0291-4a3e-a821-a46f137826c6
+UID:ba22eacd-8bc2-4f02-9e65-f651803dc538
 SEQUENCE:0
-DTSTAMP:20251121T171412
-DTSTART:20251122T170000
-DTEND:20251122T174500
-SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Paxton Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Paxton
-  Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:02f375ac-7e24-4966-80ed-aa38610aa63e
-SEQUENCE:0
-DTSTAMP:20251121T171412
+DTSTAMP:20251122T171251
 DTSTART:20251129T174500
 DTEND:20251129T183000
 SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Timberwolves Phoenix
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Phoenix\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cffd7efe-a752-420d-8992-6de957c56c55
+UID:a3b3963c-1c47-42e6-832a-029b5c7cd373
 SEQUENCE:0
-DTSTAMP:20251121T171412
+DTSTAMP:20251122T171251
 DTSTART:20251206T174500
 DTEND:20251206T183000
 SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Toorak Taipans
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak
  Taipans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9979aa51-9676-4d60-97e9-c724ec19c522
+UID:d214f2cf-d122-4010-9888-05172020e343
 SEQUENCE:0
-DTSTAMP:20251121T171412
+DTSTAMP:20251122T171251
 DTSTART:20251213T174500
 DTEND:20251213T183000
 SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Malvern Tigers Red
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:20be8beb-31db-4968-8a92-18e613b9716a
+UID:d5b1900a-9ca5-487b-a95a-e6475db1d9be
 SEQUENCE:0
-DTSTAMP:20251121T171412
+DTSTAMP:20251122T171251
 DTSTART:20260131T174500
 DTEND:20260131T183000
 SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Elsternwick Piranhas
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Elstern
  wick Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4ab44a48-ca59-44b6-817e-328e6f2810d8
+UID:867a0049-e0f2-488a-ae54-f7d546f224df
 SEQUENCE:0
-DTSTAMP:20251121T171412
+DTSTAMP:20251122T171251
 DTSTART:20260207T170000
 DTEND:20260207T174500
 SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Comets Lightning
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Comets
   Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:833d5824-65a7-4cd3-930b-00f96c928ac1
+UID:a3e18643-3969-46ec-a8ba-46913b266f9f
 SEQUENCE:0
-DTSTAMP:20251121T171412
+DTSTAMP:20251122T171251
 DTSTART:20260214T174500
 DTEND:20260214T183000
 SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Glen Iris Scorpions Gardiner
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0b47a2f8-a020-4a02-8bea-154ebd4fdc48
+UID:14fa9fdd-2262-4e5f-910e-4420d3cfd1e8
 SEQUENCE:0
-DTSTAMP:20251121T171412
+DTSTAMP:20251122T171251
 DTSTART:20260221T170000
 DTEND:20260221T174500
 SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Paxton Piranhas
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Paxton
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:29eb6e0c-6fcd-4cce-8b4e-18a2080f7864
+UID:9ab96ce0-dffc-41b4-b78f-e7c470b384ac
 SEQUENCE:0
-DTSTAMP:20251121T171412
+DTSTAMP:20251122T171251
 DTSTART:20260228T174500
 DTEND:20260228T183000
 SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Timberwolves Phoenix
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Phoenix\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:951254d3-3ccb-40fd-a5b9-609258be8f8f
+UID:2a964db9-f80b-48d5-a5de-339095a5746a
 SEQUENCE:0
-DTSTAMP:20251121T171412
+DTSTAMP:20251122T171251
 DTSTART:20260314T170000
 DTEND:20260314T174500
 SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Toorak Taipans

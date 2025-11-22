@@ -6,20 +6,9 @@ X-WR-CALNAME:Penpraze Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b15762e5-0289-49a9-b518-168cb892ebb5
+UID:7b7e58aa-b770-4dbd-bf68-0210b5df0235
 SEQUENCE:0
-DTSTAMP:20251121T171236
-DTSTART:20251122T114500
-DTEND:20251122T123000
-SUMMARY:🏀 U10 Boys: Penpraze Park Piranhas vs Toorak Tigercats
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Toorak Tigercats\nArrive 15 m
- ins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:29e4376a-7f37-4652-8851-0956d3eb51bb
-SEQUENCE:0
-DTSTAMP:20251121T171236
+DTSTAMP:20251122T171120
 DTSTART:20251206T114500
 DTEND:20251206T123000
 SUMMARY:🏀 U10 Boys: Penpraze Park Piranhas vs Maccabi Bucks
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:23da724c-977a-4081-8951-ed4cd35ef738
+UID:fb7694d3-df27-4d0a-a95e-37452d71c09b
 SEQUENCE:0
-DTSTAMP:20251121T171236
+DTSTAMP:20251122T171120
 DTSTART:20251213T101500
 DTEND:20251213T110000
 SUMMARY:🏀 U10 Boys: Penpraze Park Piranhas vs Malvern Tigers White
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:881008bb-ba5f-4cb4-8d71-9c5f351a03ac
+UID:00e8f23c-040c-4002-8d65-552257ca83db
 SEQUENCE:0
-DTSTAMP:20251121T171236
+DTSTAMP:20251122T171120
 DTSTART:20260131T101500
 DTEND:20260131T110000
 SUMMARY:🏀 U10 Boys: Penpraze Park Piranhas vs Timberwolves Boomers
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Boomers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:65cb06f1-2052-4fb6-9758-dc23e427264f
+UID:bc1f324d-15d7-49cb-8fad-79c3719afa90
 SEQUENCE:0
-DTSTAMP:20251121T171236
+DTSTAMP:20251122T171120
 DTSTART:20260207T110000
 DTEND:20260207T114500
 SUMMARY:🏀 U10 Boys: Penpraze Park Piranhas vs Glen Iris Scorpions Fernd
@@ -62,9 +51,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2918849c-242e-485f-90d4-c2e8df0361c6
+UID:ded745ce-708e-463b-a6ee-bffba084f387
 SEQUENCE:0
-DTSTAMP:20251121T171236
+DTSTAMP:20251122T171120
 DTSTART:20260214T114500
 DTEND:20260214T123000
 SUMMARY:🏀 U10 Boys: Penpraze Park Piranhas vs Tollington Piranhas
@@ -73,9 +62,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Tolling
  ton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2d398f9c-e903-4b38-8924-ded63e4d8665
+UID:ec6d5107-9a40-4dc4-b35c-50db0dd29657
 SEQUENCE:0
-DTSTAMP:20251121T171236
+DTSTAMP:20251122T171120
 DTSTART:20260221T110000
 DTEND:20260221T114500
 SUMMARY:🏀 U10 Boys: Penpraze Park Piranhas vs Armadale Piranhas
@@ -84,9 +73,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Armada
  le Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:140dac39-a4a6-412f-946a-c036118f102d
+UID:83128fe7-461f-4edb-b710-c87b78bddcdb
 SEQUENCE:0
-DTSTAMP:20251121T171236
+DTSTAMP:20251122T171120
 DTSTART:20260228T114500
 DTEND:20260228T123000
 SUMMARY:🏀 U10 Boys: Penpraze Park Piranhas vs Malvern Tigers Yellow
@@ -95,9 +84,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Yellow\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:29c61b46-abeb-42b2-ac4a-be40ff0d5964
+UID:f0e7b860-013e-4054-859f-b6e17df1f753
 SEQUENCE:0
-DTSTAMP:20251121T171236
+DTSTAMP:20251122T171120
 DTSTART:20260314T114500
 DTEND:20260314T123000
 SUMMARY:🏀 U10 Boys: Penpraze Park Piranhas vs Toorak Tigercats

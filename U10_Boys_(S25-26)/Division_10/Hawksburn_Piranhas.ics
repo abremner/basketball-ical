@@ -6,20 +6,9 @@ X-WR-CALNAME:Hawksburn Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b48a21fd-52c5-434a-a0ae-3880d0922e04
+UID:a9ac02be-addc-424c-ba48-cec27c9ba21b
 SEQUENCE:0
-DTSTAMP:20251121T171251
-DTSTART:20251122T114500
-DTEND:20251122T123000
-SUMMARY:🏀 U10 Boys: Hawksburn Piranhas vs Timberwolves Bucks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
- wolves Bucks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:34a98ef1-d002-4173-95ab-cd32d17446b0
-SEQUENCE:0
-DTSTAMP:20251121T171251
+DTSTAMP:20251122T171135
 DTSTART:20251129T080000
 DTEND:20251129T084500
 SUMMARY:🏀 U10 Boys: Hawksburn Piranhas vs Koornang Piranhas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Koorna
  ng Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0405cd26-aeff-4831-b99e-a0dd28ae86df
+UID:0f7fafaf-a6ec-4ada-bfb0-a069a7f890f8
 SEQUENCE:0
-DTSTAMP:20251121T171251
+DTSTAMP:20251122T171135
 DTSTART:20251206T110000
 DTEND:20251206T114500
 SUMMARY:🏀 U10 Boys: Hawksburn Piranhas vs Phoenix Park Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Phoenix Park Piranhas\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4615268a-ce80-41d0-8b35-5e312bf09326
+UID:add7f1e2-3fd7-427f-919b-586e2025b95f
 SEQUENCE:0
-DTSTAMP:20251121T171251
+DTSTAMP:20251122T171135
 DTSTART:20251213T101500
 DTEND:20251213T110000
 SUMMARY:🏀 U10 Boys: Hawksburn Piranhas vs Toorak Tycoons
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Toorak Tycoons\nArrive 15 min
  s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3b8cbe12-f4b5-487e-a3ee-234fb4894b0e
+UID:d44c097d-05bb-4d8c-9c65-15434caa7212
 SEQUENCE:0
-DTSTAMP:20251121T171251
+DTSTAMP:20251122T171135
 DTSTART:20260131T080000
 DTEND:20260131T084500
 SUMMARY:🏀 U10 Boys: Hawksburn Piranhas vs Maccabi Giants
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
  i Giants\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:644e196c-fe2f-4ffe-9cbe-3232089c0d7e
+UID:37bc2450-1cf5-4fb6-ae2d-5a2c786eaefb
 SEQUENCE:0
-DTSTAMP:20251121T171251
+DTSTAMP:20251122T171135
 DTSTART:20260207T101500
 DTEND:20260207T110000
 SUMMARY:🏀 U10 Boys: Hawksburn Piranhas vs SE Venom Magic
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: SE Venom Magic\nArrive 15 min
  s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bc79dcbd-2899-4b06-9f28-b50097b8ae22
+UID:c9821dea-448a-458e-a4c5-22cc8815bb8a
 SEQUENCE:0
-DTSTAMP:20251121T171251
+DTSTAMP:20251122T171135
 DTSTART:20260214T114500
 DTEND:20260214T123000
 SUMMARY:🏀 U10 Boys: Hawksburn Piranhas vs Malvern Tigers Grey
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cff55a57-c9b3-4d49-a569-617868dc0075
+UID:373cb5fc-5a5f-4723-b75b-ee822ac3248f
 SEQUENCE:0
-DTSTAMP:20251121T171251
+DTSTAMP:20251122T171135
 DTSTART:20260221T080000
 DTEND:20260221T084500
 SUMMARY:🏀 U10 Boys: Hawksburn Piranhas vs AlphaWolf Tigers
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AlphaW
  olf Tigers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:770586e9-b5b7-4411-9f0a-f0eb32c3f4a4
+UID:75c40b49-0acc-47c0-bf41-bb15a7a13683
 SEQUENCE:0
-DTSTAMP:20251121T171251
+DTSTAMP:20251122T171135
 DTSTART:20260228T080000
 DTEND:20260228T084500
 SUMMARY:🏀 U10 Boys: Hawksburn Piranhas vs Glen Iris Scorpions Raven
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glen I
  ris Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1730c259-96c7-4139-ad7d-db95ca8067ce
+UID:07e48449-b422-4f7c-9c2c-e0f3aa41eb0b
 SEQUENCE:0
-DTSTAMP:20251121T171251
+DTSTAMP:20251122T171135
 DTSTART:20260314T110000
 DTEND:20260314T114500
 SUMMARY:🏀 U10 Boys: Hawksburn Piranhas vs Timberwolves Bucks

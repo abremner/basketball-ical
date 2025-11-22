@@ -6,20 +6,9 @@ X-WR-CALNAME:Timberwolves Pearls Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:46a6d239-da60-48cd-bd97-d603eb5fec05
+UID:47ff3c05-db0d-473c-a0bc-347cdf4ac975
 SEQUENCE:0
-DTSTAMP:20251121T171404
-DTSTART:20251122T123000
-DTEND:20251122T131500
-SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Maccabi Eagles
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
-  Eagles\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:df5da466-0cea-4623-8c20-d558c801bf73
-SEQUENCE:0
-DTSTAMP:20251121T171404
+DTSTAMP:20251122T171245
 DTSTART:20251129T131500
 DTEND:20251129T140000
 SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Malvern Tigers Blue
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ae252aaf-51ef-4202-af03-ab6ac72707d4
+UID:27788010-3d04-468b-955c-9242d4ef4c13
 SEQUENCE:0
-DTSTAMP:20251121T171404
+DTSTAMP:20251122T171245
 DTSTART:20251206T131500
 DTEND:20251206T140000
 SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Solway Red Robins
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Red Robins\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5e0832d0-db18-472b-b3c6-f2715aa9d39f
+UID:0bb826c2-4ee5-4aa9-b7fb-ebe016dcb7d8
 SEQUENCE:0
-DTSTAMP:20251121T171404
+DTSTAMP:20251122T171245
 DTSTART:20251213T123000
 DTEND:20251213T131500
 SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Solway Sparrows
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Sparrows\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:27b10d4b-d0f6-466f-a235-bd21a3dc0fbf
+UID:baaaed70-a794-4771-a805-80136dbb581c
 SEQUENCE:0
-DTSTAMP:20251121T171404
+DTSTAMP:20251122T171245
 DTSTART:20260131T140000
 DTEND:20260131T144500
 SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Maccabi Bucks
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Buc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:41e8e1e4-934b-4dda-bf6b-28c2a21f4502
+UID:b578e907-0b9c-43f6-a366-3067397d869b
 SEQUENCE:0
-DTSTAMP:20251121T171404
+DTSTAMP:20251122T171245
 DTSTART:20260207T123000
 DTEND:20260207T131500
 SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Maccabi Ducks
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c68eebff-eeaa-47ef-905b-11ca5a60dfbb
+UID:f42fbdde-c0c4-4419-8d0c-64f08a8c6bf7
 SEQUENCE:0
-DTSTAMP:20251121T171404
+DTSTAMP:20251122T171245
 DTSTART:20260214T140000
 DTEND:20260214T144500
 SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Lauriston Storm
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston S
  torm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:310dc4af-12ec-401c-b73a-e358c110bad3
+UID:97fc9ddd-6be2-4ba1-89f4-64d2bb3c477d
 SEQUENCE:0
-DTSTAMP:20251121T171404
+DTSTAMP:20251122T171245
 DTSTART:20260221T140000
 DTEND:20260221T144500
 SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Korowa Grey
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Korowa Grey
  \nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:80113d89-39b6-4705-bc29-577d04a65037
+UID:c7b92e6d-62b3-4153-bc40-487ebd99d334
 SEQUENCE:0
-DTSTAMP:20251121T171404
+DTSTAMP:20251122T171245
 DTSTART:20260314T140000
 DTEND:20260314T144500
 SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Maccabi Eagles

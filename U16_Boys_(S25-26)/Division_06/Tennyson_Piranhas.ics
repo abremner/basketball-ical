@@ -6,20 +6,9 @@ X-WR-CALNAME:Tennyson Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:3fe505ef-b41f-4250-88b9-d7822a8245b9
+UID:ac4282dc-8706-4121-aa7f-2475d20874e7
 SEQUENCE:0
-DTSTAMP:20251121T171504
-DTSTART:20251122T191500
-DTEND:20251122T200000
-SUMMARY:🏀 U16 Boys: Tennyson Piranhas vs Timberwolves Magic
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
- olves Magic\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:cfa43ad7-39a1-42e4-bd31-096ab5247e74
-SEQUENCE:0
-DTSTAMP:20251121T171504
+DTSTAMP:20251122T171342
 DTSTART:20251129T191500
 DTEND:20251129T200000
 SUMMARY:🏀 U16 Boys: Tennyson Piranhas vs Solway Storm
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Storm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c67eeac2-cc0c-4c10-a8d2-3fd4e3a052b2
+UID:711e5508-6ea3-4b7b-beac-dffc1ae9bbd8
 SEQUENCE:0
-DTSTAMP:20251121T171504
+DTSTAMP:20251122T171342
 DTSTART:20251206T183000
 DTEND:20251206T191500
 SUMMARY:🏀 U16 Boys: Tennyson Piranhas vs Timberwolves Bulls
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Bulls\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1c4e542d-b7a9-4684-bdee-62f95df3de7e
+UID:ce42cdbb-9c65-48cb-84a4-b63c016b4c6a
 SEQUENCE:0
-DTSTAMP:20251121T171504
+DTSTAMP:20251122T171342
 DTSTART:20251213T191500
 DTEND:20251213T200000
 SUMMARY:🏀 U16 Boys: Tennyson Piranhas vs Ormond Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ormond
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4cf52f93-71ec-4c75-8472-cf0c99087055
+UID:2e804441-f124-4e96-8a52-2d6e71deb49e
 SEQUENCE:0
-DTSTAMP:20251121T171504
+DTSTAMP:20251122T171342
 DTSTART:20260131T183000
 DTEND:20260131T191500
 SUMMARY:🏀 U16 Boys: Tennyson Piranhas vs Malvern Tigers Green
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7c6fcb81-2070-4e12-8d08-7cc5c46e9dda
+UID:7b8e7e00-43f5-4edc-affe-752e71e1f874
 SEQUENCE:0
-DTSTAMP:20251121T171504
+DTSTAMP:20251122T171342
 DTSTART:20260207T191500
 DTEND:20260207T200000
 SUMMARY:🏀 U16 Boys: Tennyson Piranhas vs Timberwolves Magic
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Magic\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:57c09a13-858a-48e4-b497-be9a87568f17
+UID:be26efee-8023-4311-8590-a068aa9c3072
 SEQUENCE:0
-DTSTAMP:20251121T171504
+DTSTAMP:20251122T171342
 DTSTART:20260214T183000
 DTEND:20260214T191500
 SUMMARY:🏀 U16 Boys: Tennyson Piranhas vs Solway Storm
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Storm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ac31cb6e-a3f4-41ad-b8ea-57a6557cd653
+UID:6144a043-1a59-46ec-96bf-7bfd6b2a1ce3
 SEQUENCE:0
-DTSTAMP:20251121T171504
+DTSTAMP:20251122T171342
 DTSTART:20260221T191500
 DTEND:20260221T200000
 SUMMARY:🏀 U16 Boys: Tennyson Piranhas vs Timberwolves Bulls
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Bulls\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:084bfd65-deeb-4f67-b7e1-3c8e97d041f7
+UID:0cd9bac4-b227-4981-9b4f-59e1be679768
 SEQUENCE:0
-DTSTAMP:20251121T171504
+DTSTAMP:20251122T171342
 DTSTART:20260228T174500
 DTEND:20260228T183000
 SUMMARY:🏀 U16 Boys: Tennyson Piranhas vs Ormond Piranhas
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ormond
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:614b2555-0ab2-42e7-af19-ba64679188d2
+UID:7d139be1-94ee-4673-9bf3-97771bf691c9
 SEQUENCE:0
-DTSTAMP:20251121T171504
+DTSTAMP:20251122T171342
 DTSTART:20260314T174500
 DTEND:20260314T183000
 SUMMARY:🏀 U16 Boys: Tennyson Piranhas vs Malvern Tigers Green

@@ -6,20 +6,9 @@ X-WR-CALNAME:Malvern Tigers Brown Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:123cdf12-a830-42ad-a693-115accb8c807
+UID:73f28d68-92ca-4742-a1c5-b5178e5ec9ac
 SEQUENCE:0
-DTSTAMP:20251121T171244
-DTSTART:20251122T084500
-DTEND:20251122T093000
-SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs Solway Grizzlies
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
-  Grizzlies\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:eb2c9999-b887-43e2-9127-619ba413d536
-SEQUENCE:0
-DTSTAMP:20251121T171244
+DTSTAMP:20251122T171128
 DTSTART:20251129T093000
 DTEND:20251129T101500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs Timberwolves Lightning
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:847e39d9-8e16-44ff-8bfe-9988be14e168
+UID:aeb678b2-e6af-4d13-99f0-629d0ba0cf2f
 SEQUENCE:0
-DTSTAMP:20251121T171244
+DTSTAMP:20251122T171128
 DTSTART:20251206T080000
 DTEND:20251206T084500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs Solway Thunder
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a7dcba65-9ac1-42ac-8f78-cbb1cd2ea74a
+UID:6698de46-fb7f-4113-ae9f-a37662535fea
 SEQUENCE:0
-DTSTAMP:20251121T171244
+DTSTAMP:20251122T171128
 DTSTART:20251213T080000
 DTEND:20251213T084500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs Comets Snake
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Comets
   Snake\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:073d4241-164a-4954-ae5b-59cc39153472
+UID:424a8a43-6fdf-46cd-9135-e94ad8ceb146
 SEQUENCE:0
-DTSTAMP:20251121T171244
+DTSTAMP:20251122T171128
 DTSTART:20260131T084500
 DTEND:20260131T093000
 SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs Solway Bucks
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dd1f8a58-aab3-4426-bc88-b8a785e9ad3d
+UID:53f9d894-1c61-47a9-94b8-420bb2cfcecb
 SEQUENCE:0
-DTSTAMP:20251121T171244
+DTSTAMP:20251122T171128
 DTSTART:20260207T093000
 DTEND:20260207T101500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs Solway Grizzlies
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Grizzlies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:70565601-c168-4499-8d68-17f86933353b
+UID:304eda4b-4d96-48cf-904f-6cc781f1ae19
 SEQUENCE:0
-DTSTAMP:20251121T171244
+DTSTAMP:20251122T171128
 DTSTART:20260214T080000
 DTEND:20260214T084500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs Timberwolves Lightning
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:decd0c93-a107-48b3-abdf-5935b9c0c3c6
+UID:6a069c17-33fa-48a6-8e3c-6cda2d34fd9e
 SEQUENCE:0
-DTSTAMP:20251121T171244
+DTSTAMP:20251122T171128
 DTSTART:20260221T093000
 DTEND:20260221T101500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs Solway Thunder
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7dfba02c-bb8c-480c-a8e2-49d32ee8286e
+UID:b13e4315-2a68-4ab7-a46a-7abb4c712f68
 SEQUENCE:0
-DTSTAMP:20251121T171244
+DTSTAMP:20251122T171128
 DTSTART:20260228T084500
 DTEND:20260228T093000
 SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs Comets Snake
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Comets
   Snake\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:624d2814-519f-46a8-82a7-0e9ff08bc729
+UID:daaf0e9d-a43c-4699-a13e-d703135b1835
 SEQUENCE:0
-DTSTAMP:20251121T171244
+DTSTAMP:20251122T171128
 DTSTART:20260314T084500
 DTEND:20260314T093000
 SUMMARY:🏀 U10 Boys: Malvern Tigers Brown vs Solway Bucks

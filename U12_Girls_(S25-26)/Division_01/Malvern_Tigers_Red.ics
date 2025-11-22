@@ -6,20 +6,9 @@ X-WR-CALNAME:Malvern Tigers Red Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:615ceaa0-89f9-4d49-a5b5-e00ae0b2bc36
+UID:e5ac3333-d669-4bc7-a35e-12810cd1632c
 SEQUENCE:0
-DTSTAMP:20251121T171351
-DTSTART:20251122T144500
-DTEND:20251122T153000
-SUMMARY:🏀 U12 Girls: Malvern Tigers Red vs Malvern Tigers Black
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
- n Tigers Black\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:a56ea394-406a-4d91-886d-8a9446c3a34c
-SEQUENCE:0
-DTSTAMP:20251121T171351
+DTSTAMP:20251122T171232
 DTSTART:20251129T144500
 DTEND:20251129T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Red vs Comets Rubies
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
   Rubies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:405d4e1a-6802-4876-9785-fd4e602506de
+UID:05d3f3c0-a97e-410c-8603-a96916ffb735
 SEQUENCE:0
-DTSTAMP:20251121T171351
+DTSTAMP:20251122T171232
 DTSTART:20251206T140000
 DTEND:20251206T144500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Red vs Yanakie Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Yanaki
  e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a0dd767a-c6d5-4e12-b21b-9a4d31b5176c
+UID:97a796ef-9929-4535-a89b-aa7e2d9c9898
 SEQUENCE:0
-DTSTAMP:20251121T171351
+DTSTAMP:20251122T171232
 DTSTART:20251213T140000
 DTEND:20251213T144500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Red vs Solway Crows
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Crows\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c08abe46-e8fd-4107-91f7-d4a0f57aec64
+UID:30843440-0a82-4eb7-acfe-589e2fe69cdf
 SEQUENCE:0
-DTSTAMP:20251121T171351
+DTSTAMP:20251122T171232
 DTSTART:20260131T140000
 DTEND:20260131T144500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Red vs Timberwolves Strikers
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Strikers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b20dd9c5-8e78-40bd-9650-2cc67bf62933
+UID:4e180cb6-44be-4510-812e-9352785afb85
 SEQUENCE:0
-DTSTAMP:20251121T171351
+DTSTAMP:20251122T171232
 DTSTART:20260207T144500
 DTEND:20260207T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Red vs Malvern Tigers Black
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c80e26d0-e3c5-4b70-8a25-6038cfc0d0d7
+UID:72229bc6-7202-4430-84e9-87d246e94fb3
 SEQUENCE:0
-DTSTAMP:20251121T171351
+DTSTAMP:20251122T171232
 DTSTART:20260214T144500
 DTEND:20260214T153000
 SUMMARY:🏀 U12 Girls: Malvern Tigers Red vs Comets Rubies
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Comets
   Rubies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0e5f8b90-2c64-44d3-a857-c34e6a24d961
+UID:3b57180a-7e67-4a33-9cac-afd730960ad7
 SEQUENCE:0
-DTSTAMP:20251121T171351
+DTSTAMP:20251122T171232
 DTSTART:20260221T140000
 DTEND:20260221T144500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Red vs Yanakie Piranhas
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Yanaki
  e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6ccba250-ffaa-4ef6-a069-be8f9c1ef517
+UID:35db0e97-fd85-4dd3-9ca1-d8ca025eb3bc
 SEQUENCE:0
-DTSTAMP:20251121T171351
+DTSTAMP:20251122T171232
 DTSTART:20260228T140000
 DTEND:20260228T144500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Red vs Solway Crows
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Crows\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f066c301-afe0-4c1a-96a3-7cd57f66b43b
+UID:e61f2ef1-12c6-4f66-a110-d47eb7bf026e
 SEQUENCE:0
-DTSTAMP:20251121T171351
+DTSTAMP:20251122T171232
 DTSTART:20260314T140000
 DTEND:20260314T144500
 SUMMARY:🏀 U12 Girls: Malvern Tigers Red vs Timberwolves Strikers

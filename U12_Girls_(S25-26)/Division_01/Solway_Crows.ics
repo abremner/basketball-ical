@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Crows Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:a5ce9d01-1a13-46dc-bef6-4c3bcce671dd
+UID:6590cfee-1519-4107-b371-2ecd7659c462
 SEQUENCE:0
-DTSTAMP:20251121T171351
-DTSTART:20251122T140000
-DTEND:20251122T144500
-SUMMARY:🏀 U12 Girls: Solway Crows vs Yanakie Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Yanaki
- e Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:7d4d64ae-9e28-4db7-9e57-865acd02ca04
-SEQUENCE:0
-DTSTAMP:20251121T171351
+DTSTAMP:20251122T171233
 DTSTART:20251129T140000
 DTEND:20251129T144500
 SUMMARY:🏀 U12 Girls: Solway Crows vs Timberwolves Strikers
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Strikers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c51c10a2-c437-410e-9a18-d7025beff520
+UID:03c6d5ed-3a4c-4a5e-a15e-d4ea3b6936cd
 SEQUENCE:0
-DTSTAMP:20251121T171351
+DTSTAMP:20251122T171233
 DTSTART:20251206T144500
 DTEND:20251206T153000
 SUMMARY:🏀 U12 Girls: Solway Crows vs Comets Rubies
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Comets
   Rubies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b2466786-8def-414c-ac84-258c70fe0429
+UID:8740909b-a268-4018-971a-b4bfc3177727
 SEQUENCE:0
-DTSTAMP:20251121T171351
+DTSTAMP:20251122T171233
 DTSTART:20251213T140000
 DTEND:20251213T144500
 SUMMARY:🏀 U12 Girls: Solway Crows vs Malvern Tigers Red
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6b2a5346-a197-43fc-822c-a91dfd145c5f
+UID:d8d5b98a-e167-4873-8192-8720315f87a0
 SEQUENCE:0
-DTSTAMP:20251121T171351
+DTSTAMP:20251122T171233
 DTSTART:20260131T144500
 DTEND:20260131T153000
 SUMMARY:🏀 U12 Girls: Solway Crows vs Malvern Tigers Black
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c61b8b94-6a44-4c54-8ee8-08f0c853f095
+UID:3ca143e4-1371-4fd2-a2f8-e1a93e98d343
 SEQUENCE:0
-DTSTAMP:20251121T171351
+DTSTAMP:20251122T171233
 DTSTART:20260207T140000
 DTEND:20260207T144500
 SUMMARY:🏀 U12 Girls: Solway Crows vs Yanakie Piranhas
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Yanaki
  e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:effe2263-dce9-4d09-b11e-3ef0eaef8283
+UID:609853ba-87bd-4b6c-b7dd-85ff5b977f6a
 SEQUENCE:0
-DTSTAMP:20251121T171351
+DTSTAMP:20251122T171233
 DTSTART:20260214T140000
 DTEND:20260214T144500
 SUMMARY:🏀 U12 Girls: Solway Crows vs Timberwolves Strikers
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Strikers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:42520645-270e-49be-994b-d42efd5c6224
+UID:ce23a7a4-e7cf-48df-85ce-f6e194e5a657
 SEQUENCE:0
-DTSTAMP:20251121T171351
+DTSTAMP:20251122T171233
 DTSTART:20260221T144500
 DTEND:20260221T153000
 SUMMARY:🏀 U12 Girls: Solway Crows vs Comets Rubies
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
   Rubies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3d78ce46-9f72-4e96-bb13-247b8e68ef6f
+UID:9aab7724-7a2d-4fd2-828c-d07ef3ee803f
 SEQUENCE:0
-DTSTAMP:20251121T171351
+DTSTAMP:20251122T171233
 DTSTART:20260228T140000
 DTEND:20260228T144500
 SUMMARY:🏀 U12 Girls: Solway Crows vs Malvern Tigers Red
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1fa42b3a-a606-437c-adb4-48d7a6e21f06
+UID:4416f5fe-8c49-4137-af61-8fc2b70348b7
 SEQUENCE:0
-DTSTAMP:20251121T171351
+DTSTAMP:20251122T171233
 DTSTART:20260314T144500
 DTEND:20260314T153000
 SUMMARY:🏀 U12 Girls: Solway Crows vs Malvern Tigers Black

@@ -6,20 +6,9 @@ X-WR-CALNAME:Paxton Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:df083c13-628a-4f3c-8df0-be311d7040b6
+UID:d78f727b-a59e-43d4-8890-8139cab00eb9
 SEQUENCE:0
-DTSTAMP:20251121T171413
-DTSTART:20251122T170000
-DTEND:20251122T174500
-SUMMARY:🏀 U14 Boys: Paxton Piranhas vs Glen Iris Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glen I
- ris Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:bc8fdde6-1ff0-4af7-a0f0-fe81affa183d
-SEQUENCE:0
-DTSTAMP:20251121T171413
+DTSTAMP:20251122T171252
 DTSTART:20251129T174500
 DTEND:20251129T183000
 SUMMARY:🏀 U14 Boys: Paxton Piranhas vs Toorak Taipans
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak
  Taipans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c732cf28-8f5b-4385-aec0-06a6caba3763
+UID:05fb0497-ab7b-4d89-b5bc-4ed57a687a04
 SEQUENCE:0
-DTSTAMP:20251121T171413
+DTSTAMP:20251122T171252
 DTSTART:20251206T174500
 DTEND:20251206T183000
 SUMMARY:🏀 U14 Boys: Paxton Piranhas vs Elsternwick Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Elstern
  wick Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:93db8e14-f845-4837-9e26-505707827d9c
+UID:5e7a5c43-b8e4-4519-9347-2b7b8f2c5f28
 SEQUENCE:0
-DTSTAMP:20251121T171413
+DTSTAMP:20251122T171252
 DTSTART:20251213T174500
 DTEND:20251213T183000
 SUMMARY:🏀 U14 Boys: Paxton Piranhas vs Glen Iris Scorpions Gardiner
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c7bf2ea2-d03b-489d-bbb1-e1053702d3e6
+UID:03fa0b52-1ad8-4592-a5ef-238b93ff6b42
 SEQUENCE:0
-DTSTAMP:20251121T171413
+DTSTAMP:20251122T171252
 DTSTART:20260131T174500
 DTEND:20260131T183000
 SUMMARY:🏀 U14 Boys: Paxton Piranhas vs Malvern Tigers Red
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2ca7691c-b560-4ea8-8405-bac9e310033a
+UID:76e2d037-6fd7-47f9-a893-15687b0966e0
 SEQUENCE:0
-DTSTAMP:20251121T171413
+DTSTAMP:20251122T171252
 DTSTART:20260207T174500
 DTEND:20260207T183000
 SUMMARY:🏀 U14 Boys: Paxton Piranhas vs Timberwolves Phoenix
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Phoenix\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e511f8be-f9a6-4ba4-bb1b-75d36aaccff3
+UID:2d9ca223-973e-41d6-b0bc-17aa8831b481
 SEQUENCE:0
-DTSTAMP:20251121T171413
+DTSTAMP:20251122T171252
 DTSTART:20260214T170000
 DTEND:20260214T174500
 SUMMARY:🏀 U14 Boys: Paxton Piranhas vs Comets Lightning
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Comets
   Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a21891a7-a4f9-4f5a-be66-f8686d0c504b
+UID:3a6a8411-8c19-4566-9ce3-9952a7d2f766
 SEQUENCE:0
-DTSTAMP:20251121T171413
+DTSTAMP:20251122T171252
 DTSTART:20260221T170000
 DTEND:20260221T174500
 SUMMARY:🏀 U14 Boys: Paxton Piranhas vs Glen Iris Piranhas
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glen I
  ris Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4de6688f-eb8f-4d96-adca-cf56406228a4
+UID:0f3ac822-8a0c-45d6-99ab-76caad48d4e3
 SEQUENCE:0
-DTSTAMP:20251121T171413
+DTSTAMP:20251122T171252
 DTSTART:20260228T170000
 DTEND:20260228T174500
 SUMMARY:🏀 U14 Boys: Paxton Piranhas vs Toorak Taipans
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
   Taipans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2cac8c79-04f2-4e15-872f-c0973806c32e
+UID:14849378-1a1d-4778-aa62-8a5bda22a230
 SEQUENCE:0
-DTSTAMP:20251121T171413
+DTSTAMP:20251122T171252
 DTSTART:20260314T174500
 DTEND:20260314T183000
 SUMMARY:🏀 U14 Boys: Paxton Piranhas vs Elsternwick Piranhas

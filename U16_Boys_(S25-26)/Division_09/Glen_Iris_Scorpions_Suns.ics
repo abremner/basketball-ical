@@ -6,20 +6,9 @@ X-WR-CALNAME:Glen Iris Scorpions Suns Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:83402c24-0f7e-40ef-bb57-b5d004a61e60
+UID:6c168c1d-8587-4694-a7a4-99f9c0519dbb
 SEQUENCE:0
-DTSTAMP:20251121T171511
-DTSTART:20251122T183000
-DTEND:20251122T191500
-SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Suns vs Ashy Lightning Yellow
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
- ghtning Yellow\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:87a83828-1c63-47c7-b7e7-eb80d56da9b6
-SEQUENCE:0
-DTSTAMP:20251121T171511
+DTSTAMP:20251122T171348
 DTSTART:20251129T183000
 DTEND:20251129T191500
 SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Suns vs Solway Rockets
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Rockets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:da2feb94-97ea-4b3a-88a5-b3fdf7a013a2
+UID:65f663fc-227e-4d1f-9522-bcab67e857bd
 SEQUENCE:0
-DTSTAMP:20251121T171511
+DTSTAMP:20251122T171348
 DTSTART:20251206T191500
 DTEND:20251206T200000
 SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Suns vs Maccabi Celtics
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a24f1b40-d8dd-410f-af9a-6a2322f35aa6
+UID:a85bc780-e68e-4898-85bc-dbe695ae9883
 SEQUENCE:0
-DTSTAMP:20251121T171511
+DTSTAMP:20251122T171348
 DTSTART:20251213T191500
 DTEND:20251213T200000
 SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Suns vs Malvern Tigers Blue
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:539639f2-ed36-4f8d-a0c5-3ed77ef98f4d
+UID:510c8219-56de-4c33-a285-31af1e431a7c
 SEQUENCE:0
-DTSTAMP:20251121T171511
+DTSTAMP:20251122T171348
 DTSTART:20260131T191500
 DTEND:20260131T200000
 SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Suns vs Solway Heat
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Heat\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:85c5bba4-5e45-4922-98b8-fe7cd44ddb63
+UID:6c9d34f7-1729-441b-83f6-44eefcf3171d
 SEQUENCE:0
-DTSTAMP:20251121T171511
+DTSTAMP:20251122T171348
 DTSTART:20260207T191500
 DTEND:20260207T200000
 SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Suns vs Ashy Lightning Yellow
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
  ghtning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8225c285-3ab8-48f2-baf2-90bd3edd1a9f
+UID:94ab727d-dd2e-471b-9bcc-16d436381825
 SEQUENCE:0
-DTSTAMP:20251121T171511
+DTSTAMP:20251122T171348
 DTSTART:20260214T183000
 DTEND:20260214T191500
 SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Suns vs Solway Rockets
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Rockets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8d479ce5-f664-4e4d-a911-96da10beb635
+UID:c04a3115-879f-4736-b7ef-0d81255dcba7
 SEQUENCE:0
-DTSTAMP:20251121T171511
+DTSTAMP:20251122T171348
 DTSTART:20260221T183000
 DTEND:20260221T191500
 SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Suns vs Maccabi Celtics
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7f17b6df-e1c1-40f4-a056-bd7be433f12a
+UID:e70b048e-99c7-4aa1-9c16-de2b0145bedc
 SEQUENCE:0
-DTSTAMP:20251121T171511
+DTSTAMP:20251122T171348
 DTSTART:20260228T183000
 DTEND:20260228T191500
 SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Suns vs Malvern Tigers Blue
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:34c47413-8c39-4bb8-a25a-61425281fa6a
+UID:e3a44fa8-fdbc-4a48-8f2c-df9a9a7df00d
 SEQUENCE:0
-DTSTAMP:20251121T171511
+DTSTAMP:20251122T171348
 DTSTART:20260314T183000
 DTEND:20260314T191500
 SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Suns vs Solway Heat

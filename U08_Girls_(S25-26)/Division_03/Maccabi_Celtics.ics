@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Celtics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:79c6817d-31b0-4aaa-9ef9-8c4d8bfb0f23
+UID:3be28cba-ab97-4f6e-a339-c67d6aba1f55
 SEQUENCE:0
-DTSTAMP:20251121T171226
-DTSTART:20251122T080000
-DTEND:20251122T084500
-SUMMARY:🏀 U08 Girls: Maccabi Celtics vs Brunel Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Brunel 
- Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:326916c7-e5a5-4ac0-ab58-fe75d2419c60
-SEQUENCE:0
-DTSTAMP:20251121T171226
+DTSTAMP:20251122T171110
 DTSTART:20251129T080000
 DTEND:20251129T084500
 SUMMARY:🏀 U08 Girls: Maccabi Celtics vs Maccabi Warriors
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e296f763-7ed3-4192-8270-bb2fa87311d1
+UID:db7872ce-8167-4a33-945a-11803727c87a
 SEQUENCE:0
-DTSTAMP:20251121T171226
+DTSTAMP:20251122T171110
 DTSTART:20251206T080000
 DTEND:20251206T084500
 SUMMARY:🏀 U08 Girls: Maccabi Celtics vs Malvern Tigers Wilson
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Wilson\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:95e10ea6-4f35-4004-9e1b-83b58e3bbe8c
+UID:01d54074-7a54-42d2-81d9-d487a2549dd0
 SEQUENCE:0
-DTSTAMP:20251121T171226
+DTSTAMP:20251122T171110
 DTSTART:20251213T093000
 DTEND:20251213T101500
 SUMMARY:🏀 U08 Girls: Maccabi Celtics vs Malvern Tigers Wallace
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Wallace\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fbbf6cb0-610d-46f3-8383-957fe307e0b7
+UID:1c784dd7-0416-4d83-95d5-f480869eef06
 SEQUENCE:0
-DTSTAMP:20251121T171226
+DTSTAMP:20251122T171110
 DTSTART:20260131T084500
 DTEND:20260131T093000
 SUMMARY:🏀 U08 Girls: Maccabi Celtics vs Maccabi Bucks
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Buc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:92a08cd8-2d36-4366-bf89-8a7d9b612304
+UID:dfe7d5e6-9a89-418e-bba1-5ff8e65d5091
 SEQUENCE:0
-DTSTAMP:20251121T171226
+DTSTAMP:20251122T171110
 DTSTART:20260207T080000
 DTEND:20260207T084500
 SUMMARY:🏀 U08 Girls: Maccabi Celtics vs Brunel Piranhas
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Brunel
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4b7b50ea-d769-4946-ad7f-6716c9580d37
+UID:18b0d7fb-37bf-4742-a802-3eac94445f02
 SEQUENCE:0
-DTSTAMP:20251121T171226
+DTSTAMP:20251122T171110
 DTSTART:20260214T080000
 DTEND:20260214T084500
 SUMMARY:🏀 U08 Girls: Maccabi Celtics vs Maccabi Warriors
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:761d880d-2b80-49f4-aa1b-67baf80c78f1
+UID:a74ce25f-617d-4e50-959d-43f6f9917f4a
 SEQUENCE:0
-DTSTAMP:20251121T171226
+DTSTAMP:20251122T171110
 DTSTART:20260221T084500
 DTEND:20260221T093000
 SUMMARY:🏀 U08 Girls: Maccabi Celtics vs Malvern Tigers Wilson
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Wilson\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f21bc244-238b-4465-a51a-b5d62c042aa1
+UID:4a22f328-64a1-42a0-8327-df823a56eed1
 SEQUENCE:0
-DTSTAMP:20251121T171226
+DTSTAMP:20251122T171110
 DTSTART:20260228T080000
 DTEND:20260228T084500
 SUMMARY:🏀 U08 Girls: Maccabi Celtics vs Malvern Tigers Wallace
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Wallace\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:39528eab-761f-4d9b-8c01-36787f7f6d8d
+UID:024b2293-a59c-4cbb-a04a-9e6dabbf3830
 SEQUENCE:0
-DTSTAMP:20251121T171226
+DTSTAMP:20251122T171110
 DTSTART:20260314T084500
 DTEND:20260314T093000
 SUMMARY:🏀 U08 Girls: Maccabi Celtics vs Maccabi Bucks

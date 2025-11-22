@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Falcons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d26b2ccd-62ea-4adb-aa99-36a4bd2d9b70
+UID:5f1756c5-bc4f-4199-b675-98947e1b5a7a
 SEQUENCE:0
-DTSTAMP:20251121T171317
-DTSTART:20251122T084500
-DTEND:20251122T093000
-SUMMARY:🏀 U10 Girls: Maccabi Falcons vs Maccabi Eagles
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
- i Eagles\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:7f0ef5a5-9278-4d9c-9c17-c7cf7d0748bb
-SEQUENCE:0
-DTSTAMP:20251121T171317
+DTSTAMP:20251122T171200
 DTSTART:20251129T084500
 DTEND:20251129T093000
 SUMMARY:🏀 U10 Girls: Maccabi Falcons vs Glen Iris Scorpions Nettleton
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2ccdb44d-65cf-45ef-a99b-a14c21b4ba6e
+UID:aea1ecc1-1a0d-48dc-87c2-82c1dd1828d7
 SEQUENCE:0
-DTSTAMP:20251121T171317
+DTSTAMP:20251122T171200
 DTSTART:20251206T110000
 DTEND:20251206T114500
 SUMMARY:🏀 U10 Girls: Maccabi Falcons vs Lauriston Flames
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston F
  lames\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e738eadd-3bbc-4728-9a91-f8530710aa09
+UID:6c8252ec-8b90-4ac4-bae7-564df9ccc951
 SEQUENCE:0
-DTSTAMP:20251121T171317
+DTSTAMP:20251122T171200
 DTSTART:20251213T093000
 DTEND:20251213T101500
 SUMMARY:🏀 U10 Girls: Maccabi Falcons vs Timberwolves Swifts
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Swifts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:181540e6-6467-440e-9d77-e8ac7d4b7bfb
+UID:fdad6282-a861-4b05-88ad-c02949159e8c
 SEQUENCE:0
-DTSTAMP:20251121T171317
+DTSTAMP:20251122T171200
 DTSTART:20260131T084500
 DTEND:20260131T093000
 SUMMARY:🏀 U10 Girls: Maccabi Falcons vs Maccabi Ducks
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2f4d4388-1f88-479b-ad3f-abecc40a1d41
+UID:a9af846e-be0a-4118-b7c1-2aec3cbd852b
 SEQUENCE:0
-DTSTAMP:20251121T171317
+DTSTAMP:20251122T171200
 DTSTART:20260207T084500
 DTEND:20260207T093000
 SUMMARY:🏀 U10 Girls: Maccabi Falcons vs Maccabi Eagles
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e8b597ae-26f3-488d-ae81-bffafe0ab6c3
+UID:cd92c587-ac0f-4009-b3db-2a423268473d
 SEQUENCE:0
-DTSTAMP:20251121T171317
+DTSTAMP:20251122T171200
 DTSTART:20260214T084500
 DTEND:20260214T093000
 SUMMARY:🏀 U10 Girls: Maccabi Falcons vs Glen Iris Scorpions Nettleton
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:70902e37-520d-45a2-9c53-aead702e257f
+UID:403edce1-ff3f-432e-b877-e7f2b24496ee
 SEQUENCE:0
-DTSTAMP:20251121T171317
+DTSTAMP:20251122T171200
 DTSTART:20260221T110000
 DTEND:20260221T114500
 SUMMARY:🏀 U10 Girls: Maccabi Falcons vs Lauriston Flames
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston F
  lames\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4d795383-8c03-4b85-b245-e0fd4b7dd3f6
+UID:2381dbda-6958-4989-9dbd-b5469f7731e8
 SEQUENCE:0
-DTSTAMP:20251121T171317
+DTSTAMP:20251122T171200
 DTSTART:20260228T093000
 DTEND:20260228T101500
 SUMMARY:🏀 U10 Girls: Maccabi Falcons vs Timberwolves Swifts
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Swifts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9f732ba4-1e4d-4a73-a4d9-e3be9dafc9a1
+UID:b04a7bfd-4506-4aaa-b08c-f225b0a80994
 SEQUENCE:0
-DTSTAMP:20251121T171317
+DTSTAMP:20251122T171200
 DTSTART:20260314T084500
 DTEND:20260314T093000
 SUMMARY:🏀 U10 Girls: Maccabi Falcons vs Maccabi Ducks

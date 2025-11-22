@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Zephyrs Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:5a05645a-cd40-4bc3-a182-944cefab6798
+UID:5902a5fb-a67b-40d2-9dd3-e62dd5e5d038
 SEQUENCE:0
-DTSTAMP:20251121T171313
-DTSTART:20251122T080000
-DTEND:20251122T084500
-SUMMARY:🏀 U10 Girls: Solway Zephyrs vs Arax
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Arax\n
- Arrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:6b0ef80e-8f73-4469-8679-181ae4666b95
-SEQUENCE:0
-DTSTAMP:20251121T171313
+DTSTAMP:20251122T171156
 DTSTART:20251129T093000
 DTEND:20251129T101500
 SUMMARY:🏀 U10 Girls: Solway Zephyrs vs Malvern Tigers Lavey
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Lavey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0ec2c393-3156-41d6-a217-abab5e4182ca
+UID:ec3d7c08-aeed-4989-98f0-250ba4b3a1ae
 SEQUENCE:0
-DTSTAMP:20251121T171313
+DTSTAMP:20251122T171156
 DTSTART:20251206T110000
 DTEND:20251206T114500
 SUMMARY:🏀 U10 Girls: Solway Zephyrs vs Glen Iris Scorpions Gardiner
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Glen Iris S
  corpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5ba720d0-08ad-45e5-99ff-abdbbb7eedac
+UID:59ea76a8-28c8-4584-9117-1826820e710d
 SEQUENCE:0
-DTSTAMP:20251121T171313
+DTSTAMP:20251122T171156
 DTSTART:20251213T093000
 DTEND:20251213T101500
 SUMMARY:🏀 U10 Girls: Solway Zephyrs vs Timberwolves Gems
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Gems\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:505f7f15-7f65-45d3-9fd7-25c16941f08f
+UID:2c367ce6-940d-445d-96d6-8db9f0539dbb
 SEQUENCE:0
-DTSTAMP:20251121T171313
+DTSTAMP:20251122T171156
 DTSTART:20260131T110000
 DTEND:20260131T114500
 SUMMARY:🏀 U10 Girls: Solway Zephyrs vs Malvern Tigers Smith
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Smith\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0dc8d7c2-4a6a-46f3-a944-8df021eaa53f
+UID:f9784f6a-dc25-4756-8da9-635aa2212c07
 SEQUENCE:0
-DTSTAMP:20251121T171313
+DTSTAMP:20251122T171156
 DTSTART:20260207T093000
 DTEND:20260207T101500
 SUMMARY:🏀 U10 Girls: Solway Zephyrs vs Maccabi Celtics
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:91029548-f6f2-4fcc-aaf1-8219f7d1a581
+UID:31fd90fd-78fe-4dbd-9259-bfb3adc31f1d
 SEQUENCE:0
-DTSTAMP:20251121T171313
+DTSTAMP:20251122T171156
 DTSTART:20260214T114500
 DTEND:20260214T123000
 SUMMARY:🏀 U10 Girls: Solway Zephyrs vs Timberwolves Hornets
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Hornets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f9e09c5a-c773-4218-b60d-4cb136ea3495
+UID:a8ec5c9d-26b4-4ff9-9371-f519c6a661bc
 SEQUENCE:0
-DTSTAMP:20251121T171313
+DTSTAMP:20251122T171156
 DTSTART:20260221T080000
 DTEND:20260221T084500
 SUMMARY:🏀 U10 Girls: Solway Zephyrs vs Arax
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f077e479-4108-4d14-96b4-99c1e7bb420d
+UID:2b541ba3-e537-418d-9c16-4ef187f68c5e
 SEQUENCE:0
-DTSTAMP:20251121T171313
+DTSTAMP:20251122T171156
 DTSTART:20260228T093000
 DTEND:20260228T101500
 SUMMARY:🏀 U10 Girls: Solway Zephyrs vs Malvern Tigers Lavey
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Lavey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d5e5ac2b-eb0e-4d81-a137-54620ce7ec94
+UID:11814b41-c2cb-4508-a4fa-947e820eadf1
 SEQUENCE:0
-DTSTAMP:20251121T171313
+DTSTAMP:20251122T171156
 DTSTART:20260314T110000
 DTEND:20260314T114500
 SUMMARY:🏀 U10 Girls: Solway Zephyrs vs Glen Iris Scorpions Gardiner

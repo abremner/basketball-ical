@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Jets Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:11d0af91-7f24-439f-bb29-20f430094e41
+UID:abe258d3-8619-4d14-b4a2-476a3942f87c
 SEQUENCE:0
-DTSTAMP:20251121T171509
-DTSTART:20251122T191500
-DTEND:20251122T200000
-SUMMARY:🏀 U16 Boys: Solway Jets vs Solway Rangers
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
- Rangers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:de765b51-c2b5-45c0-82d9-b0a07fa6f08f
-SEQUENCE:0
-DTSTAMP:20251121T171509
+DTSTAMP:20251122T171347
 DTSTART:20251129T191500
 DTEND:20251129T200000
 SUMMARY:🏀 U16 Boys: Solway Jets vs Malvern Piranhas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a38e50cf-2725-4207-9d91-d387e05423e8
+UID:a833d6fb-6940-4db8-a11a-abf0ae9fb9b9
 SEQUENCE:0
-DTSTAMP:20251121T171509
+DTSTAMP:20251122T171347
 DTSTART:20251206T183000
 DTEND:20251206T191500
 SUMMARY:🏀 U16 Boys: Solway Jets vs Manning Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Manning
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9116eb63-19d3-4080-b38a-e084172cdc94
+UID:738acc78-f273-416e-b604-0863cf44daf2
 SEQUENCE:0
-DTSTAMP:20251121T171509
+DTSTAMP:20251122T171347
 DTSTART:20251213T191500
 DTEND:20251213T200000
 SUMMARY:🏀 U16 Boys: Solway Jets vs Malvern Tigers Orange
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d4e21f9c-220d-4c93-b831-8c79f7ac2bb9
+UID:95238bf1-69d0-43a6-9bcb-393f25033df9
 SEQUENCE:0
-DTSTAMP:20251121T171509
+DTSTAMP:20251122T171347
 DTSTART:20260131T191500
 DTEND:20260131T200000
 SUMMARY:🏀 U16 Boys: Solway Jets vs Ashy Lightning Green
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b30e0b54-ff3c-41c9-ae91-c5ba2e29cc64
+UID:6f6e4e33-7f01-440b-a254-3fd4082d8b98
 SEQUENCE:0
-DTSTAMP:20251121T171509
+DTSTAMP:20251122T171347
 DTSTART:20260207T183000
 DTEND:20260207T191500
 SUMMARY:🏀 U16 Boys: Solway Jets vs Solway Rangers
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Rangers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3c9a4b56-e2bd-4661-bed3-05f0c0dc1152
+UID:514a7676-13a7-4ba9-8da9-f6c9826f28a6
 SEQUENCE:0
-DTSTAMP:20251121T171509
+DTSTAMP:20251122T171347
 DTSTART:20260214T191500
 DTEND:20260214T200000
 SUMMARY:🏀 U16 Boys: Solway Jets vs Malvern Piranhas
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a26ddf6c-8f59-49fb-9def-aa080c94cb3e
+UID:ae6d33e9-4346-4e8e-90ee-2e2437cd4947
 SEQUENCE:0
-DTSTAMP:20251121T171509
+DTSTAMP:20251122T171347
 DTSTART:20260221T183000
 DTEND:20260221T191500
 SUMMARY:🏀 U16 Boys: Solway Jets vs Manning Piranhas
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Manning
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d4e58f7a-d661-4efa-a768-6f0d6c5e5b35
+UID:104aa902-4cf6-4e9c-8288-b7a8718b4ddf
 SEQUENCE:0
-DTSTAMP:20251121T171509
+DTSTAMP:20251122T171347
 DTSTART:20260228T191500
 DTEND:20260228T200000
 SUMMARY:🏀 U16 Boys: Solway Jets vs Malvern Tigers Orange
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:56a548e3-7b8e-44b2-9cdf-7860d0667a45
+UID:221e2474-4b05-46cc-853c-09fa0daf733d
 SEQUENCE:0
-DTSTAMP:20251121T171509
+DTSTAMP:20251122T171347
 DTSTART:20260314T183000
 DTEND:20260314T191500
 SUMMARY:🏀 U16 Boys: Solway Jets vs Ashy Lightning Green

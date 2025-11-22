@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:644e6230-b96c-452d-9237-5d72b9d482d9
+UID:0df6577c-fec1-43c3-8286-aeca9d3251a5
 SEQUENCE:0
-DTSTAMP:20251121T171242
-DTSTART:20251122T101500
-DTEND:20251122T110000
-SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Malvern Tigers Blue
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
- n Tigers Blue\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:bbeb6968-7d88-4cdf-81f3-ced783296ad9
-SEQUENCE:0
-DTSTAMP:20251121T171242
+DTSTAMP:20251122T171126
 DTSTART:20251129T093000
 DTEND:20251129T101500
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Toorak Thrashers
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Thrashers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c2d117db-4c96-491c-916c-0e5dd9296a35
+UID:c6c3a145-4117-4d18-aed3-8cf5e8fdc92e
 SEQUENCE:0
-DTSTAMP:20251121T171242
+DTSTAMP:20251122T171126
 DTSTART:20251206T093000
 DTEND:20251206T101500
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Timberwolves Cubs
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Cubs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:af5a677f-cdd4-4068-8918-16f5235d512b
+UID:84111616-9c62-48f8-a054-a1d4df562e8e
 SEQUENCE:0
-DTSTAMP:20251121T171242
+DTSTAMP:20251122T171126
 DTSTART:20251213T101500
 DTEND:20251213T110000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Orrong Park Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Orrong Park Piranhas\nArrive
  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4b81f993-40b0-4203-8574-6e69a1fc9e56
+UID:6c1b4f2d-a53c-4444-8579-baa235aa38a1
 SEQUENCE:0
-DTSTAMP:20251121T171242
+DTSTAMP:20251122T171126
 DTSTART:20260131T084500
 DTEND:20260131T093000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Solway Bulls
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Bulls\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c5222e89-fa07-40e4-aece-b07055cdd121
+UID:99ff7703-9490-4d9e-8b09-d4beb5c59b7a
 SEQUENCE:0
-DTSTAMP:20251121T171242
+DTSTAMP:20251122T171126
 DTSTART:20260207T101500
 DTEND:20260207T110000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Golden Hawks Iron
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Golden Hawks Iron\nArrive 15
  mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1e4296e5-e226-4fa9-a8d7-97d3ca9552ff
+UID:e29ee827-83d9-415f-9ccb-2bd2d933da59
 SEQUENCE:0
-DTSTAMP:20251121T171242
+DTSTAMP:20251122T171126
 DTSTART:20260214T093000
 DTEND:20260214T101500
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Glen Iris Scorpions Nettleton
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0a9b6a65-a78e-4bbc-b416-a065d4962c5e
+UID:583fb3f8-f825-49f2-8fed-915fb88e39ab
 SEQUENCE:0
-DTSTAMP:20251121T171242
+DTSTAMP:20251122T171126
 DTSTART:20260221T101500
 DTEND:20260221T110000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Malvern Tigers Blue
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:02eaf685-df06-4e1b-ae76-d6575f21b63c
+UID:258c3290-5af8-4c4b-ba5c-9c1dd50afc0a
 SEQUENCE:0
-DTSTAMP:20251121T171242
+DTSTAMP:20251122T171126
 DTSTART:20260228T101500
 DTEND:20260228T110000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Toorak Thrashers
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Thrashers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d46cda9c-0088-4f76-b8d2-0d570fd3251a
+UID:d5a1f7b1-b2d8-4a45-8fd8-68340ee87d2f
 SEQUENCE:0
-DTSTAMP:20251121T171242
+DTSTAMP:20251122T171126
 DTSTART:20260314T101500
 DTEND:20260314T110000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Timberwolves Cubs

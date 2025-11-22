@@ -6,20 +6,9 @@ X-WR-CALNAME:Glen Iris Scorpions Raven Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e7260ec6-06fb-4bfc-a1d6-d3bb34e02a95
+UID:5b399714-73d9-428d-a5ed-ca1b897d22ea
 SEQUENCE:0
-DTSTAMP:20251121T171251
-DTSTART:20251122T080000
-DTEND:20251122T084500
-SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Phoenix Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Phoeni
- x Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:110a1a5d-0ec9-47e5-a38e-eb1e7feaf629
-SEQUENCE:0
-DTSTAMP:20251121T171251
+DTSTAMP:20251122T171135
 DTSTART:20251129T101500
 DTEND:20251129T110000
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Maccabi Giants
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Giants\nArrive 15 min
  s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:df503a00-938a-4d23-83d4-71f30c728dbc
+UID:c3dc57fe-d933-4013-bb54-4c40a8d777cc
 SEQUENCE:0
-DTSTAMP:20251121T171251
+DTSTAMP:20251122T171135
 DTSTART:20251206T101500
 DTEND:20251206T110000
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs AlphaWolf Tigers
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: AlphaWolf Tigers\nArrive 15 m
  ins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:65e7e23a-e9a8-4aa7-9d6b-67e695e1d4a0
+UID:5ecc1d7d-db48-4770-ae1e-d3e529f5a057
 SEQUENCE:0
-DTSTAMP:20251121T171251
+DTSTAMP:20251122T171135
 DTSTART:20251213T114500
 DTEND:20251213T123000
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Timberwolves Bucks
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d904bcd0-30a9-4afa-bc28-67c3fe503e24
+UID:42b27525-626d-4b9f-8c97-e8169abc9a2f
 SEQUENCE:0
-DTSTAMP:20251121T171251
+DTSTAMP:20251122T171135
 DTSTART:20260131T114500
 DTEND:20260131T123000
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs SE Venom Magic
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: SE Ven
  om Magic\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e2649d1c-9754-49bf-9551-35b867c2d6d1
+UID:bcbd6f9b-5241-41d2-89b7-01a688a5aef1
 SEQUENCE:0
-DTSTAMP:20251121T171251
+DTSTAMP:20251122T171135
 DTSTART:20260207T110000
 DTEND:20260207T114500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Malvern Tigers Grey
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Grey\nArrive 1
  5 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:882cdf05-a154-422b-b086-c8d9eb75cd1b
+UID:e0bd661e-c20e-4626-ab0d-69b516145d55
 SEQUENCE:0
-DTSTAMP:20251121T171251
+DTSTAMP:20251122T171135
 DTSTART:20260214T101500
 DTEND:20260214T110000
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Toorak Tycoons
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
   Tycoons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:35ac873d-4104-4f03-a0f3-037bb1bd1125
+UID:86fbf68d-7239-45a0-a30a-ddbc85ec6276
 SEQUENCE:0
-DTSTAMP:20251121T171251
+DTSTAMP:20251122T171135
 DTSTART:20260221T101500
 DTEND:20260221T110000
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Koornang Piranhas
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Koorna
  ng Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d7839116-db58-4ef6-bbbd-ebc4bbd504ef
+UID:82f2f6b5-cf48-41c5-88a7-2ebb19ed2bb2
 SEQUENCE:0
-DTSTAMP:20251121T171251
+DTSTAMP:20251122T171135
 DTSTART:20260228T080000
 DTEND:20260228T084500
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Hawksburn Piranhas
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Hawksb
  urn Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ad5f10f7-6c16-436a-ba5a-a9beae793971
+UID:306485d9-debc-4ebe-ae20-3399bec4efcc
 SEQUENCE:0
-DTSTAMP:20251121T171251
+DTSTAMP:20251122T171135
 DTSTART:20260314T101500
 DTEND:20260314T110000
 SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Phoenix Park Piranhas

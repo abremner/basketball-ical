@@ -6,20 +6,9 @@ X-WR-CALNAME:Malvern Tigers Brown Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:33cfbe4b-84b1-4003-a6d3-4383fd7b0fc9
+UID:0b12d33d-3666-490f-9fd4-3b32c82f76fb
 SEQUENCE:0
-DTSTAMP:20251121T171330
-DTSTART:20251122T131500
-DTEND:20251122T140000
-SUMMARY:🏀 U12 Boys: Malvern Tigers Brown vs Comets Tigers
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Comets 
- Tigers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:8e2bb81b-a2a9-4974-b7b9-a9c92eaf5f69
-SEQUENCE:0
-DTSTAMP:20251121T171330
+DTSTAMP:20251122T171213
 DTSTART:20251129T144500
 DTEND:20251129T153000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Brown vs Maccabi Eagles
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Eagles\nArrive 15 min
  s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a38c811b-f693-47d4-8b71-dc7ea6f6c4ef
+UID:f702fec0-38c7-4725-b09d-8cb24f8bb08f
 SEQUENCE:0
-DTSTAMP:20251121T171330
+DTSTAMP:20251122T171213
 DTSTART:20251206T131500
 DTEND:20251206T140000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Brown vs Toorak T-Bones
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak
  T-Bones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cb90444f-f9c5-48c9-950e-abd969af27de
+UID:2a87037d-3a48-4698-b96f-d8a8f9090f85
 SEQUENCE:0
-DTSTAMP:20251121T171330
+DTSTAMP:20251122T171213
 DTSTART:20251213T140000
 DTEND:20251213T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Brown vs Toorak Tigersnakes
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
   Tigersnakes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d3f92aab-2063-446a-9d75-ea6f9b876d74
+UID:602f5740-df8a-481d-a8eb-1cfab568295d
 SEQUENCE:0
-DTSTAMP:20251121T171330
+DTSTAMP:20251122T171213
 DTSTART:20260131T140000
 DTEND:20260131T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Brown vs Malvern Tigers Blue
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6c518250-9f7a-4c59-90eb-328b7d255c3b
+UID:cb054551-5d61-48a3-a986-fcdfd4c31164
 SEQUENCE:0
-DTSTAMP:20251121T171330
+DTSTAMP:20251122T171213
 DTSTART:20260207T140000
 DTEND:20260207T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Brown vs Maccabi Falcons
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2ee94f72-5f06-45fd-aa1d-b7f165b95730
+UID:95c330d0-3f8d-4bc0-9fa5-6e11a5fb965f
 SEQUENCE:0
-DTSTAMP:20251121T171330
+DTSTAMP:20251122T171213
 DTSTART:20260214T131500
 DTEND:20260214T140000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Brown vs Timberwolves Knicks
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
  olves Knicks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e02d97eb-3b7d-4589-b53f-b9b23613b32f
+UID:18fcb8d5-6c67-47db-b375-5e757628df8b
 SEQUENCE:0
-DTSTAMP:20251121T171330
+DTSTAMP:20251122T171213
 DTSTART:20260221T140000
 DTEND:20260221T144500
 SUMMARY:🏀 U12 Boys: Malvern Tigers Brown vs Comets Tigers
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Comets
  Tigers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dc92f7ae-ac4b-4274-a636-8630608edbca
+UID:f333aa92-b375-4f8f-98c1-cf9d27e0ac0d
 SEQUENCE:0
-DTSTAMP:20251121T171330
+DTSTAMP:20251122T171213
 DTSTART:20260228T131500
 DTEND:20260228T140000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Brown vs Maccabi Eagles
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b8de9c7a-34fa-45c3-9146-4977dac1e572
+UID:7c3b3457-96e6-42cf-b361-94ff746e57f6
 SEQUENCE:0
-DTSTAMP:20251121T171330
+DTSTAMP:20251122T171213
 DTSTART:20260314T144500
 DTEND:20260314T153000
 SUMMARY:🏀 U12 Boys: Malvern Tigers Brown vs Toorak T-Bones

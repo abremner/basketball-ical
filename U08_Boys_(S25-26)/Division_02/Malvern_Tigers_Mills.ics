@@ -6,20 +6,9 @@ X-WR-CALNAME:Malvern Tigers Mills Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:09b5166c-f161-428a-b4ea-482da2c3025a
+UID:1f25e0f8-c67c-4b6e-a878-513996b4a06e
 SEQUENCE:0
-DTSTAMP:20251121T171204
-DTSTART:20251122T110000
-DTEND:20251122T114500
-SUMMARY:🏀 U08 Boys: Malvern Tigers Mills vs Toorak Toucans
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak 
- Toucans\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:403e029e-a608-4a96-8e9e-7f814ed61638
-SEQUENCE:0
-DTSTAMP:20251121T171204
+DTSTAMP:20251122T171050
 DTSTART:20251129T084500
 DTEND:20251129T093000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Mills vs Solway Brumbies
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
  Brumbies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:862d4a50-33f0-4e3f-9097-7e3044601e5f
+UID:bac4de21-299d-41a1-8b8e-5ffb73db59b0
 SEQUENCE:0
-DTSTAMP:20251121T171204
+DTSTAMP:20251122T171050
 DTSTART:20251206T093000
 DTEND:20251206T101500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Mills vs Glen Iris Scorpions Ferndal
@@ -40,9 +29,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:be613a6a-f7c4-48c9-9849-1aeffd89a155
+UID:5adb1f38-d971-43bd-bc06-ae18f3ee33fe
 SEQUENCE:0
-DTSTAMP:20251121T171204
+DTSTAMP:20251122T171050
 DTSTART:20251213T110000
 DTEND:20251213T114500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Mills vs Solway Mustangs
@@ -51,9 +40,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Mustangs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:257ad5c5-18e3-4658-a9bf-1241436b2ddb
+UID:b3f3d6a6-ed7f-46ff-adb7-2daa8c110dc9
 SEQUENCE:0
-DTSTAMP:20251121T171204
+DTSTAMP:20251122T171050
 DTSTART:20260131T084500
 DTEND:20260131T093000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Mills vs Malvern Tigers Daniels
@@ -62,9 +51,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Daniels\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d12fcf42-8d8e-4746-9e4a-cb5f719d8d71
+UID:8034ea00-dc97-4230-bc22-fe1e80990448
 SEQUENCE:0
-DTSTAMP:20251121T171204
+DTSTAMP:20251122T171050
 DTSTART:20260207T093000
 DTEND:20260207T101500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Mills vs Toorak Toucans
@@ -73,9 +62,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Toucans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:81b34e42-70e7-41f3-8221-6cf5c13f8873
+UID:6602c52c-c013-42f4-a226-498f02a0dba1
 SEQUENCE:0
-DTSTAMP:20251121T171204
+DTSTAMP:20251122T171050
 DTSTART:20260214T084500
 DTEND:20260214T093000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Mills vs Solway Brumbies
@@ -84,9 +73,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
  Brumbies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9305b6e7-9ae8-49a3-8295-e5cac95adfbd
+UID:9fea3838-b452-44b1-9a93-b31a4ddc6276
 SEQUENCE:0
-DTSTAMP:20251121T171204
+DTSTAMP:20251122T171050
 DTSTART:20260221T093000
 DTEND:20260221T101500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Mills vs Glen Iris Scorpions Ferndal
@@ -96,9 +85,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:33ddcab0-9d4e-4140-809a-ec9a9bd6923e
+UID:b1b2c6fe-6de2-4330-b133-48daffaf4111
 SEQUENCE:0
-DTSTAMP:20251121T171204
+DTSTAMP:20251122T171050
 DTSTART:20260228T110000
 DTEND:20260228T114500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Mills vs Solway Mustangs
@@ -107,9 +96,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Mustangs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a1d58521-767e-42e4-8ebc-53cf204a798f
+UID:fbd8353d-89ef-426e-8259-c34afb8ebe24
 SEQUENCE:0
-DTSTAMP:20251121T171204
+DTSTAMP:20251122T171050
 DTSTART:20260314T084500
 DTEND:20260314T093000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Mills vs Malvern Tigers Daniels

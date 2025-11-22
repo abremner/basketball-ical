@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Mustangs Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:4b634a20-db39-4c20-bb83-6bdb06150192
+UID:7f39814f-3fa8-4f2c-9e44-63fed177539a
 SEQUENCE:0
-DTSTAMP:20251121T171205
-DTSTART:20251122T084500
-DTEND:20251122T093000
-SUMMARY:🏀 U08 Boys: Solway Mustangs vs Malvern Tigers Daniels
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
-  Tigers Daniels\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:03a06638-05a9-4ff1-b8ae-b6603b21c424
-SEQUENCE:0
-DTSTAMP:20251121T171205
+DTSTAMP:20251122T171050
 DTSTART:20251129T093000
 DTEND:20251129T101500
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Toorak Toucans
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Toucans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d6b8d45d-a785-4275-8cc4-21437cb3356d
+UID:b00f3967-6f3d-4701-a1b4-dbeecc5e67c2
 SEQUENCE:0
-DTSTAMP:20251121T171205
+DTSTAMP:20251122T171050
 DTSTART:20251206T110000
 DTEND:20251206T114500
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Solway Brumbies
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Brumbies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c3a6a381-616c-4022-9384-e0e93fe73ee2
+UID:679591c3-5c87-40b2-8a3a-7e37a6bc7647
 SEQUENCE:0
-DTSTAMP:20251121T171205
+DTSTAMP:20251122T171050
 DTSTART:20251213T110000
 DTEND:20251213T114500
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Malvern Tigers Mills
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Mills\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:892d288d-3cdf-45b6-ab0f-cae6eaf6222e
+UID:6b3ec456-7526-4b91-b3ea-417991d35d29
 SEQUENCE:0
-DTSTAMP:20251121T171205
+DTSTAMP:20251122T171050
 DTSTART:20260131T110000
 DTEND:20260131T114500
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Glen Iris Scorpions Ferndale
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
  is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a43ce13c-b2a6-4bef-b943-861b1a975da0
+UID:11a5ae06-ac87-4c8c-8718-b4ae17aad52e
 SEQUENCE:0
-DTSTAMP:20251121T171205
+DTSTAMP:20251122T171050
 DTSTART:20260207T110000
 DTEND:20260207T114500
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Malvern Tigers Daniels
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Daniels\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:009fa7e1-f190-48e2-973d-31cc4237091f
+UID:497a56d8-fe28-4e4c-bf4f-cd371e269104
 SEQUENCE:0
-DTSTAMP:20251121T171205
+DTSTAMP:20251122T171050
 DTSTART:20260214T093000
 DTEND:20260214T101500
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Toorak Toucans
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Toucans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4483406f-3f20-4a32-b4b3-957cfd3de9c0
+UID:724b5a61-d907-472b-8dc0-5483adddf410
 SEQUENCE:0
-DTSTAMP:20251121T171205
+DTSTAMP:20251122T171050
 DTSTART:20260221T084500
 DTEND:20260221T093000
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Solway Brumbies
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
  Brumbies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2eefe24f-f45d-4f2a-93ee-fd3542228c9f
+UID:c2dc1876-b313-41e0-886a-c6dbe9afbb82
 SEQUENCE:0
-DTSTAMP:20251121T171205
+DTSTAMP:20251122T171050
 DTSTART:20260228T110000
 DTEND:20260228T114500
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Malvern Tigers Mills
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Mills\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f8a33a02-3cfc-4ad3-82f1-b9af5a6a7855
+UID:8cfd35b8-ecc8-48db-b680-7528cce37dac
 SEQUENCE:0
-DTSTAMP:20251121T171205
+DTSTAMP:20251122T171050
 DTSTART:20260314T093000
 DTEND:20260314T101500
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Glen Iris Scorpions Ferndale

@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Toucans Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b982e44e-b5df-4637-922b-3a3104cecb65
+UID:88284ee9-617f-458b-916f-80d675290b6c
 SEQUENCE:0
-DTSTAMP:20251121T171205
-DTSTART:20251122T110000
-DTEND:20251122T114500
-SUMMARY:🏀 U08 Boys: Toorak Toucans vs Malvern Tigers Mills
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
-  Tigers Mills\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:a44e7a4f-e26d-4f08-a607-3d4a80856de3
-SEQUENCE:0
-DTSTAMP:20251121T171205
+DTSTAMP:20251122T171051
 DTSTART:20251129T093000
 DTEND:20251129T101500
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Solway Mustangs
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Mustangs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:03e243e5-9cda-4d1b-87b4-a5ed0613385c
+UID:00950180-f263-4690-b25c-6ea460aa3a6b
 SEQUENCE:0
-DTSTAMP:20251121T171205
+DTSTAMP:20251122T171051
 DTSTART:20251206T084500
 DTEND:20251206T093000
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Malvern Tigers Daniels
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Daniels\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2d920408-b934-4558-9759-e76fbdd5e368
+UID:7cefb8cf-fc4f-4e54-ab69-bc2d2c270d88
 SEQUENCE:0
-DTSTAMP:20251121T171205
+DTSTAMP:20251122T171051
 DTSTART:20251213T084500
 DTEND:20251213T093000
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Glen Iris Scorpions Ferndale
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
  is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ece5b04f-5e50-405a-86de-5fde5527404e
+UID:2576d9f9-6c91-4071-97bb-3a10dcc9d424
 SEQUENCE:0
-DTSTAMP:20251121T171205
+DTSTAMP:20251122T171051
 DTSTART:20260131T093000
 DTEND:20260131T101500
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Solway Brumbies
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Brumbies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:271d8842-7af0-4da4-bf08-a3ab6adf036a
+UID:064d4692-5d3a-4e98-8d00-923a1d352de9
 SEQUENCE:0
-DTSTAMP:20251121T171205
+DTSTAMP:20251122T171051
 DTSTART:20260207T093000
 DTEND:20260207T101500
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Malvern Tigers Mills
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Mills\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:68fab8d5-8f80-435f-8039-f43c8f35061a
+UID:32183934-15cb-4627-84cd-b18cce0c5eac
 SEQUENCE:0
-DTSTAMP:20251121T171205
+DTSTAMP:20251122T171051
 DTSTART:20260214T093000
 DTEND:20260214T101500
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Solway Mustangs
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Mustangs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9f3628e2-458e-44b8-aabc-fe3f7779e2d9
+UID:6cbb4e49-2177-4d79-b8d3-553b9c60840e
 SEQUENCE:0
-DTSTAMP:20251121T171205
+DTSTAMP:20251122T171051
 DTSTART:20260221T110000
 DTEND:20260221T114500
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Malvern Tigers Daniels
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Daniels\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5f9cd1a5-e24e-44c8-9b70-e7d147d6abd3
+UID:d3bc559d-cf80-42b9-a902-f87e5fab0e39
 SEQUENCE:0
-DTSTAMP:20251121T171205
+DTSTAMP:20251122T171051
 DTSTART:20260228T084500
 DTEND:20260228T093000
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Glen Iris Scorpions Ferndale
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
  is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ef25ce21-2da8-42a7-b04e-4e200b5887fb
+UID:0a9e1f78-badf-41dd-8cf6-7f09d1dd1612
 SEQUENCE:0
-DTSTAMP:20251121T171205
+DTSTAMP:20251122T171051
 DTSTART:20260314T110000
 DTEND:20260314T114500
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Solway Brumbies

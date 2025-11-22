@@ -6,20 +6,9 @@ X-WR-CALNAME:Malvern Tigers Green Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:3358851c-ef2e-4c24-8df4-36ac1fb6fcd9
+UID:acbb86f7-6a4f-43e5-805c-991543b7515c
 SEQUENCE:0
-DTSTAMP:20251121T171503
-DTSTART:20251122T174500
-DTEND:20251122T183000
-SUMMARY:🏀 U16 Boys: Malvern Tigers Green vs Ormond Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ormond
-  Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:f02b46ff-6fac-49ad-8ca7-7bfc239de785
-SEQUENCE:0
-DTSTAMP:20251121T171503
+DTSTAMP:20251122T171341
 DTSTART:20251129T174500
 DTEND:20251129T183000
 SUMMARY:🏀 U16 Boys: Malvern Tigers Green vs Timberwolves Bulls
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Bulls\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6b28fa31-b20c-4730-a33d-58ed7c629e3f
+UID:a2a1c97c-3357-4938-8420-a688db6fa37b
 SEQUENCE:0
-DTSTAMP:20251121T171503
+DTSTAMP:20251122T171341
 DTSTART:20251206T191500
 DTEND:20251206T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers Green vs Timberwolves Magic
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Magic\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d345bb94-5ab8-4d5a-b2d7-7124b49d2390
+UID:9d122e0a-c60a-4af6-8f35-cc20448c7046
 SEQUENCE:0
-DTSTAMP:20251121T171503
+DTSTAMP:20251122T171341
 DTSTART:20251213T174500
 DTEND:20251213T183000
 SUMMARY:🏀 U16 Boys: Malvern Tigers Green vs Solway Storm
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Storm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dc2f761c-d5bc-4a85-b98c-1359dfdd04ba
+UID:43e0d520-50cb-4488-a57f-8f04715ec19d
 SEQUENCE:0
-DTSTAMP:20251121T171503
+DTSTAMP:20251122T171341
 DTSTART:20260131T183000
 DTEND:20260131T191500
 SUMMARY:🏀 U16 Boys: Malvern Tigers Green vs Tennyson Piranhas
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Tennyso
  n Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f0987a85-ce2f-488c-b581-578fe0e4bb88
+UID:58432668-3ba8-468d-81b1-9c1b4b759713
 SEQUENCE:0
-DTSTAMP:20251121T171503
+DTSTAMP:20251122T171341
 DTSTART:20260207T174500
 DTEND:20260207T183000
 SUMMARY:🏀 U16 Boys: Malvern Tigers Green vs Ormond Piranhas
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ormond
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ba233cd5-cc84-4f43-819e-5c03053dc856
+UID:a705960b-1239-488e-b14b-539057b43ffa
 SEQUENCE:0
-DTSTAMP:20251121T171503
+DTSTAMP:20251122T171341
 DTSTART:20260214T191500
 DTEND:20260214T200000
 SUMMARY:🏀 U16 Boys: Malvern Tigers Green vs Timberwolves Bulls
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Bulls\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9e470388-07d7-40fe-a00f-fc346d5267e5
+UID:dd717cad-7e2b-46d4-b82a-342f5dbb51e2
 SEQUENCE:0
-DTSTAMP:20251121T171503
+DTSTAMP:20251122T171341
 DTSTART:20260221T183000
 DTEND:20260221T191500
 SUMMARY:🏀 U16 Boys: Malvern Tigers Green vs Timberwolves Magic
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Magic\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8ac39f9f-57e9-499c-9945-976a9a86163c
+UID:8afcdc54-a4cd-4c0d-ba3d-1963aed40b40
 SEQUENCE:0
-DTSTAMP:20251121T171503
+DTSTAMP:20251122T171341
 DTSTART:20260228T183000
 DTEND:20260228T191500
 SUMMARY:🏀 U16 Boys: Malvern Tigers Green vs Solway Storm
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Storm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:53f92a96-9845-419f-9d4a-67b53b2dd6ee
+UID:a546e2fc-b752-4740-bf1d-ca7dce3944a2
 SEQUENCE:0
-DTSTAMP:20251121T171503
+DTSTAMP:20251122T171341
 DTSTART:20260314T174500
 DTEND:20260314T183000
 SUMMARY:🏀 U16 Boys: Malvern Tigers Green vs Tennyson Piranhas

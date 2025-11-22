@@ -6,20 +6,9 @@ X-WR-CALNAME:Korowa Cherry Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:3c8890bb-b9a4-43a2-85fe-831576ec529d
+UID:7fef99ea-e0e1-4bae-be96-e382d9cb7771
 SEQUENCE:0
-DTSTAMP:20251121T171228
-DTSTART:20251122T084500
-DTEND:20251122T093000
-SUMMARY:🏀 U08 Girls: Korowa Cherry vs Malvern Tigers Atwell
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
- ers Atwell\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:874036cc-5668-48c7-8151-bff47e033959
-SEQUENCE:0
-DTSTAMP:20251121T171228
+DTSTAMP:20251122T171113
 DTSTART:20251129T101500
 DTEND:20251129T110000
 SUMMARY:🏀 U08 Girls: Korowa Cherry vs Solway Supernovas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
  Supernovas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:37ef11ca-c271-4b5a-9871-afdb9516aae8
+UID:c4a4a13a-b8fc-442e-a5c2-be4a4ccd8075
 SEQUENCE:0
-DTSTAMP:20251121T171228
+DTSTAMP:20251122T171113
 DTSTART:20251206T101500
 DTEND:20251206T110000
 SUMMARY:🏀 U08 Girls: Korowa Cherry vs Maccabi Ducks
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8a49522a-8388-4e53-9227-75762af50db8
+UID:5e1d7800-2561-44d3-9017-708936548711
 SEQUENCE:0
-DTSTAMP:20251121T171228
+DTSTAMP:20251122T171113
 DTSTART:20251213T101500
 DTEND:20251213T110000
 SUMMARY:🏀 U08 Girls: Korowa Cherry vs Ashy Lightning Green
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9eb8f0e1-47e0-48db-8c8e-947ee619d6f0
+UID:8e5f8e70-2229-4b43-b38c-68331623ec3d
 SEQUENCE:0
-DTSTAMP:20251121T171228
+DTSTAMP:20251122T171113
 DTSTART:20260131T101500
 DTEND:20260131T110000
 SUMMARY:🏀 U08 Girls: Korowa Cherry vs Wallis Piranhas
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Wallis
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2de3013e-03a7-4862-b114-a1109bddb840
+UID:f33e96f6-a6ff-4ae5-8fae-70d607679b5c
 SEQUENCE:0
-DTSTAMP:20251121T171228
+DTSTAMP:20251122T171113
 DTSTART:20260207T101500
 DTEND:20260207T110000
 SUMMARY:🏀 U08 Girls: Korowa Cherry vs Kerferd Piranhas
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Kerferd
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:35d7c7ed-9d5f-42ae-8de4-a2ad35d89978
+UID:15f11c3c-d903-4245-93dc-89ab656bd559
 SEQUENCE:0
-DTSTAMP:20251121T171228
+DTSTAMP:20251122T171113
 DTSTART:20260214T093000
 DTEND:20260214T101500
 SUMMARY:🏀 U08 Girls: Korowa Cherry vs Lauriston Flyers
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston F
  lyers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:85e64bfc-d8f8-4332-9865-bcc2bdce4299
+UID:b3eead77-e938-4e85-a18b-ccc2da17662c
 SEQUENCE:0
-DTSTAMP:20251121T171228
+DTSTAMP:20251122T171113
 DTSTART:20260221T101500
 DTEND:20260221T110000
 SUMMARY:🏀 U08 Girls: Korowa Cherry vs Malvern Tigers Atwell
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Atwell\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ab76c7a4-57da-41ac-8821-776fb6aa9416
+UID:a08dc613-a5f2-4eac-910d-30f915ff3dc9
 SEQUENCE:0
-DTSTAMP:20251121T171228
+DTSTAMP:20251122T171113
 DTSTART:20260228T101500
 DTEND:20260228T110000
 SUMMARY:🏀 U08 Girls: Korowa Cherry vs Solway Supernovas
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Supernovas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:79c569f6-998c-47dd-a370-1230bf75b1d1
+UID:0df9eca7-0f30-4f87-bb12-ef402198e108
 SEQUENCE:0
-DTSTAMP:20251121T171228
+DTSTAMP:20251122T171113
 DTSTART:20260314T101500
 DTEND:20260314T110000
 SUMMARY:🏀 U08 Girls: Korowa Cherry vs Maccabi Ducks

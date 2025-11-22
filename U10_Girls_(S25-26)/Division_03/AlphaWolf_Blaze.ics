@@ -6,20 +6,9 @@ X-WR-CALNAME:AlphaWolf Blaze Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:91577fcc-8184-4d14-84ca-142aa51f9143
+UID:45c61796-a5d0-43c0-95a9-74cceeed4c8e
 SEQUENCE:0
-DTSTAMP:20251121T171306
-DTSTART:20251122T123000
-DTEND:20251122T131500
-SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Lauriston Fire
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston F
- ire\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:c24090fc-4adf-4169-b2db-05ca4cb5ebbd
-SEQUENCE:0
-DTSTAMP:20251121T171306
+DTSTAMP:20251122T171149
 DTSTART:20251129T110000
 DTEND:20251129T114500
 SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Valentine Piranhas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Valent
  ine Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:eb4dc4ee-13d7-4f20-8efd-4dacf92bf037
+UID:1ce5c985-b023-4843-a431-b52e66833cfe
 SEQUENCE:0
-DTSTAMP:20251121T171306
+DTSTAMP:20251122T171149
 DTSTART:20251206T110000
 DTEND:20251206T114500
 SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Grace Park Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Grace
  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:423d8847-f0e4-4951-b68f-eb4762f9b7d1
+UID:c99f4cc9-4469-42e8-af2f-d273215c6064
 SEQUENCE:0
-DTSTAMP:20251121T171306
+DTSTAMP:20251122T171149
 DTSTART:20251213T110000
 DTEND:20251213T114500
 SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Malvern Tigers Burton
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Burton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1332f3ef-a680-4750-9d2d-4451aa22174c
+UID:53917efa-4794-448a-b42a-d0bebb862ca8
 SEQUENCE:0
-DTSTAMP:20251121T171306
+DTSTAMP:20251122T171149
 DTSTART:20260131T110000
 DTEND:20260131T114500
 SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Malvern Tigers Jarry
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Jarry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8855a3cb-e8a1-4ab4-a34c-9e12e7b2851e
+UID:92f7f1ab-0287-4471-a394-e06181419c3c
 SEQUENCE:0
-DTSTAMP:20251121T171306
+DTSTAMP:20251122T171149
 DTSTART:20260207T123000
 DTEND:20260207T131500
 SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Lauriston Fire
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston F
  ire\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c67c314d-f050-40cb-895a-e2895af2cd74
+UID:75a2dc79-b41d-4f8f-8ea9-a94c61c7954d
 SEQUENCE:0
-DTSTAMP:20251121T171306
+DTSTAMP:20251122T171149
 DTSTART:20260214T110000
 DTEND:20260214T114500
 SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Valentine Piranhas
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Valent
  ine Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:de53ca3c-a594-42fa-830b-179b0cab094c
+UID:e894d52b-9f5d-45a1-ae2c-1fc2ca2896ef
 SEQUENCE:0
-DTSTAMP:20251121T171306
+DTSTAMP:20251122T171149
 DTSTART:20260221T110000
 DTEND:20260221T114500
 SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Grace Park Piranhas
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Grace
  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:24b271a8-37e9-4bc8-a121-5bfad2451eba
+UID:e0b951cc-b6ec-43c1-933b-94b9ff6e5d16
 SEQUENCE:0
-DTSTAMP:20251121T171306
+DTSTAMP:20251122T171149
 DTSTART:20260228T110000
 DTEND:20260228T114500
 SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Malvern Tigers Burton
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Burton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4bc6d71b-abe5-4b7a-a0f8-609234ad16fe
+UID:c5477d9b-ec6c-40ed-9453-ed4fd6666cbf
 SEQUENCE:0
-DTSTAMP:20251121T171306
+DTSTAMP:20251122T171149
 DTSTART:20260314T110000
 DTEND:20260314T114500
 SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Malvern Tigers Jarry

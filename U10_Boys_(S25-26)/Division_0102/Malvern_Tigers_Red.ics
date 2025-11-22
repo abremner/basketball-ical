@@ -6,20 +6,9 @@ X-WR-CALNAME:Malvern Tigers Red Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:52157ad3-3a30-4cfc-97dd-d26cc2116de3
+UID:df29779e-85b9-4008-83c5-cba912c93873
 SEQUENCE:0
-DTSTAMP:20251121T171233
-DTSTART:20251122T114500
-DTEND:20251122T123000
-SUMMARY:🏀 U10 Boys: Malvern Tigers Red vs Malvern Tigers Black
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
- n Tigers Black\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:b2d3d0ce-4de6-4b5c-b1de-a24030c7ed3f
-SEQUENCE:0
-DTSTAMP:20251121T171233
+DTSTAMP:20251122T171117
 DTSTART:20251129T123000
 DTEND:20251129T131500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Red vs Solway Boomers
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Boomers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5da5c9ec-3c83-48a4-9c9e-13c297bc1193
+UID:27e53453-3051-49bc-80b9-d9a482fd76cd
 SEQUENCE:0
-DTSTAMP:20251121T171233
+DTSTAMP:20251122T171117
 DTSTART:20251206T131500
 DTEND:20251206T140000
 SUMMARY:🏀 U10 Boys: Malvern Tigers Red vs AUBD Storm
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AUBD S
  torm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:49f59b1a-ea5a-4087-ab56-1c1b6ec2dd81
+UID:ecd0a35d-7bc9-4342-9708-a039feb9e3cd
 SEQUENCE:0
-DTSTAMP:20251121T171233
+DTSTAMP:20251122T171117
 DTSTART:20251213T123000
 DTEND:20251213T131500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Red vs AlphaWolf Dragons
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AlphaW
  olf Dragons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6ac666c8-522a-4bd7-aa15-c4d52f231779
+UID:578a29e4-a2fa-4335-b24c-e537f2f80f8b
 SEQUENCE:0
-DTSTAMP:20251121T171233
+DTSTAMP:20251122T171117
 DTSTART:20260131T123000
 DTEND:20260131T131500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Red vs Maccabi Warriors
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bc09d266-e820-4b67-acc8-cacf430fa549
+UID:41dc3c50-a53f-4711-a260-c37175d3664e
 SEQUENCE:0
-DTSTAMP:20251121T171233
+DTSTAMP:20251122T171117
 DTSTART:20260207T110000
 DTEND:20260207T114500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Red vs Timberwolves Crusaders
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Crusaders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3bc35606-9fe3-4951-808b-491ec9427712
+UID:4b9f9f56-8dc1-43f7-afd4-40f804311584
 SEQUENCE:0
-DTSTAMP:20251121T171233
+DTSTAMP:20251122T171117
 DTSTART:20260214T110000
 DTEND:20260214T114500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Red vs Ashy Lightning Gold
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:650c73ac-e23d-4a28-828a-06ecdf264ab9
+UID:5d73b717-6678-4a07-8323-d70680001097
 SEQUENCE:0
-DTSTAMP:20251121T171233
+DTSTAMP:20251122T171117
 DTSTART:20260221T110000
 DTEND:20260221T114500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Red vs Malvern Tigers Black
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:163c8552-52ca-4347-864c-da501d537c13
+UID:cf1acd32-8ce6-432f-9b18-3e8bff53ab4a
 SEQUENCE:0
-DTSTAMP:20251121T171233
+DTSTAMP:20251122T171117
 DTSTART:20260228T110000
 DTEND:20260228T114500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Red vs Solway Boomers
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Boomers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f8990ad8-046e-4209-b471-d6c8d87ea15e
+UID:9cbf1d33-c718-4254-8324-48f93372089a
 SEQUENCE:0
-DTSTAMP:20251121T171233
+DTSTAMP:20251122T171117
 DTSTART:20260314T131500
 DTEND:20260314T140000
 SUMMARY:🏀 U10 Boys: Malvern Tigers Red vs AUBD Storm

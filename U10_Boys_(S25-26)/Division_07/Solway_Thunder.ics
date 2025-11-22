@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Thunder Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:8843faeb-86af-42b8-8e9d-ced36379b7c8
+UID:4d4a36b8-c1e2-4a07-a0b9-099b3d09b901
 SEQUENCE:0
-DTSTAMP:20251121T171245
-DTSTART:20251122T080000
-DTEND:20251122T084500
-SUMMARY:🏀 U10 Boys: Solway Thunder vs Timberwolves Lightning
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
- wolves Lightning\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:60ea83c0-8120-48c3-a303-a26c7f2ac10a
-SEQUENCE:0
-DTSTAMP:20251121T171245
+DTSTAMP:20251122T171129
 DTSTART:20251129T084500
 DTEND:20251129T093000
 SUMMARY:🏀 U10 Boys: Solway Thunder vs Comets Snake
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Comets
   Snake\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:91eb3067-5efe-45e5-81a2-5e75c5032b09
+UID:a096ca9b-aba1-4fe6-a4da-dc581d6f7e02
 SEQUENCE:0
-DTSTAMP:20251121T171245
+DTSTAMP:20251122T171129
 DTSTART:20251206T080000
 DTEND:20251206T084500
 SUMMARY:🏀 U10 Boys: Solway Thunder vs Malvern Tigers Brown
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:477c5c3c-4ead-4f0d-9f2f-bc4ff51cf321
+UID:6fb1edd4-e246-4869-bdaf-1689afedd253
 SEQUENCE:0
-DTSTAMP:20251121T171245
+DTSTAMP:20251122T171129
 DTSTART:20251213T093000
 DTEND:20251213T101500
 SUMMARY:🏀 U10 Boys: Solway Thunder vs Solway Bucks
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:afc5f21e-b66e-41c7-92fe-84c37efd2c05
+UID:41b978d4-9d81-4fe2-b781-5829ad1d3267
 SEQUENCE:0
-DTSTAMP:20251121T171245
+DTSTAMP:20251122T171129
 DTSTART:20260131T080000
 DTEND:20260131T084500
 SUMMARY:🏀 U10 Boys: Solway Thunder vs Solway Grizzlies
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Grizzlies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e1093ccd-0121-4e02-bc2e-e7eec888c676
+UID:4ea91ea8-d368-4d20-ba4f-20f17067d320
 SEQUENCE:0
-DTSTAMP:20251121T171245
+DTSTAMP:20251122T171129
 DTSTART:20260207T084500
 DTEND:20260207T093000
 SUMMARY:🏀 U10 Boys: Solway Thunder vs Timberwolves Lightning
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4b34fb86-4e5e-4946-b7e8-535dd4b9ec28
+UID:e6cabe99-dbaa-4f1f-8806-fd2da1641d5d
 SEQUENCE:0
-DTSTAMP:20251121T171245
+DTSTAMP:20251122T171129
 DTSTART:20260214T084500
 DTEND:20260214T093000
 SUMMARY:🏀 U10 Boys: Solway Thunder vs Comets Snake
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Comets
   Snake\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4ade800c-95cf-411e-9e7d-6703f9ebd2fd
+UID:e853c6cf-3a4c-4afc-832c-3313ef7b084d
 SEQUENCE:0
-DTSTAMP:20251121T171245
+DTSTAMP:20251122T171129
 DTSTART:20260221T093000
 DTEND:20260221T101500
 SUMMARY:🏀 U10 Boys: Solway Thunder vs Malvern Tigers Brown
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7cb0c518-b603-4720-9a3e-1b595fdb823f
+UID:82d9a304-3008-4e47-b367-88e443da768d
 SEQUENCE:0
-DTSTAMP:20251121T171245
+DTSTAMP:20251122T171129
 DTSTART:20260228T093000
 DTEND:20260228T101500
 SUMMARY:🏀 U10 Boys: Solway Thunder vs Solway Bucks
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7050594a-8f8b-4335-9c6d-05340d08dc1b
+UID:75976595-442c-409a-ad86-c30fc4a4ac16
 SEQUENCE:0
-DTSTAMP:20251121T171245
+DTSTAMP:20251122T171129
 DTSTART:20260314T093000
 DTEND:20260314T101500
 SUMMARY:🏀 U10 Boys: Solway Thunder vs Solway Grizzlies

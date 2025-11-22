@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f73d0a93-5f47-4d3c-a85b-39f3b92c0681
+UID:4403ae2b-a1f2-4411-9a82-44861894a18c
 SEQUENCE:0
-DTSTAMP:20251121T171324
-DTSTART:20251122T140000
-DTEND:20251122T144500
-SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Toorak Tarantulas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak 
- Tarantulas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:1e435c73-e5c4-419d-864e-82dd52c05c6b
-SEQUENCE:0
-DTSTAMP:20251121T171324
+DTSTAMP:20251122T171206
 DTSTART:20251129T144500
 DTEND:20251129T153000
 SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Timberwolves Howlers
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Howlers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7fcbc9e6-4d33-4ad8-95b9-9044d27c3e0c
+UID:4c745506-7652-4907-8c4a-4f635b3c207a
 SEQUENCE:0
-DTSTAMP:20251121T171324
+DTSTAMP:20251122T171206
 DTSTART:20251206T140000
 DTEND:20251206T144500
 SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Toorak Torchers
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak
  Torchers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:455df3ed-b702-44e6-ba5d-1e51dfcf2ae9
+UID:b7d30b6b-66a6-4264-990d-92aed7a0510a
 SEQUENCE:0
-DTSTAMP:20251121T171324
+DTSTAMP:20251122T171206
 DTSTART:20251213T140000
 DTEND:20251213T144500
 SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Malvern Tigers White
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:058a3b1b-5a87-4571-850b-53e1ad41d551
+UID:b2b1a1a7-66db-4287-9246-6850a3119cf9
 SEQUENCE:0
-DTSTAMP:20251121T171324
+DTSTAMP:20251122T171206
 DTSTART:20260131T140000
 DTEND:20260131T144500
 SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Malvern Tigers Green
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c4546de5-d05d-46c4-881f-2180366c1a84
+UID:f7f904df-ca4e-4ecf-a696-656c4cd75dbe
 SEQUENCE:0
-DTSTAMP:20251121T171324
+DTSTAMP:20251122T171206
 DTSTART:20260207T144500
 DTEND:20260207T153000
 SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Toorak Tarantulas
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Tarantulas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:78d06c9b-c981-477a-8ca7-1e080d313172
+UID:51732204-0dbe-46f7-8d76-e04493504925
 SEQUENCE:0
-DTSTAMP:20251121T171324
+DTSTAMP:20251122T171206
 DTSTART:20260214T140000
 DTEND:20260214T144500
 SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Timberwolves Howlers
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
  olves Howlers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:77b1f733-503c-4324-a092-83e46697137c
+UID:88c8c166-3d78-4fbb-aea5-09e1697a05c8
 SEQUENCE:0
-DTSTAMP:20251121T171324
+DTSTAMP:20251122T171206
 DTSTART:20260221T144500
 DTEND:20260221T153000
 SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Toorak Torchers
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Torchers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8e6d7e28-be73-40c7-860e-da8f5c6e8df7
+UID:01819360-b869-45fd-9598-3e5bc92e7192
 SEQUENCE:0
-DTSTAMP:20251121T171324
+DTSTAMP:20251122T171206
 DTSTART:20260228T140000
 DTEND:20260228T144500
 SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Malvern Tigers White
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:643b8620-fcc2-4e61-ae3d-e8b6a13ac73e
+UID:153f2ad3-d620-4a30-a992-d2e077e2a872
 SEQUENCE:0
-DTSTAMP:20251121T171324
+DTSTAMP:20251122T171206
 DTSTART:20260314T140000
 DTEND:20260314T144500
 SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Malvern Tigers Green

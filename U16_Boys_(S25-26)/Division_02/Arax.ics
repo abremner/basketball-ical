@@ -6,20 +6,9 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:83c30283-b049-42b0-8068-2550a7ddd851
+UID:ca1ea794-9a17-4fc9-af85-9e99ae23c789
 SEQUENCE:0
-DTSTAMP:20251121T171453
-DTSTART:20251122T174500
-DTEND:20251122T183000
-SUMMARY:🏀 U16 Boys: Arax vs Maccabi Warriors
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
- i Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:833e35b4-9814-4991-8abe-574b8bfb2171
-SEQUENCE:0
-DTSTAMP:20251121T171453
+DTSTAMP:20251122T171331
 DTSTART:20251206T174500
 DTEND:20251206T183000
 SUMMARY:🏀 U16 Boys: Arax vs Timberwolves Cats
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Cats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ee09cb0a-43ce-471d-935d-7a4ace9024f4
+UID:9a2bc2d0-4329-477c-b544-745f08a2901a
 SEQUENCE:0
-DTSTAMP:20251121T171453
+DTSTAMP:20251122T171331
 DTSTART:20251213T183000
 DTEND:20251213T191500
 SUMMARY:🏀 U16 Boys: Arax vs Toorak Tropics
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Tropics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c3ff4a65-2700-4a43-a324-1f5a3d75baae
+UID:01bb2573-1bda-4f0c-8c3d-7ae529d6cf1b
 SEQUENCE:0
-DTSTAMP:20251121T171453
+DTSTAMP:20251122T171331
 DTSTART:20260131T191500
 DTEND:20260131T200000
 SUMMARY:🏀 U16 Boys: Arax vs Solway Blazers
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Blazers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8666811e-984c-4abe-81b3-37acf35d68ab
+UID:560ac433-386c-47c1-96e5-1d41427b4bbb
 SEQUENCE:0
-DTSTAMP:20251121T171453
+DTSTAMP:20251122T171331
 DTSTART:20260207T183000
 DTEND:20260207T191500
 SUMMARY:🏀 U16 Boys: Arax vs Timberwolves Taipans
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Taipans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cc0fb2c9-6ecd-4bee-a6f9-55e27db9cca3
+UID:f165d41c-82d9-4bb3-9c62-4e75f2e15cf1
 SEQUENCE:0
-DTSTAMP:20251121T171453
+DTSTAMP:20251122T171331
 DTSTART:20260214T191500
 DTEND:20260214T200000
 SUMMARY:🏀 U16 Boys: Arax vs Timberwolves Raiders
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Raiders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b818d46f-3f3c-495d-907a-a231afd41f08
+UID:eac0ba98-8fb8-4bfb-a771-5c4aec1139db
 SEQUENCE:0
-DTSTAMP:20251121T171453
+DTSTAMP:20251122T171331
 DTSTART:20260221T174500
 DTEND:20260221T183000
 SUMMARY:🏀 U16 Boys: Arax vs Maccabi Warriors
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1570e5c7-0128-4eeb-a035-7221ed33baf7
+UID:7493d8c5-7065-4e7d-8ae1-43f9f8b9faab
 SEQUENCE:0
-DTSTAMP:20251121T171453
+DTSTAMP:20251122T171331
 DTSTART:20260314T174500
 DTEND:20260314T183000
 SUMMARY:🏀 U16 Boys: Arax vs Timberwolves Cats

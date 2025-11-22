@@ -6,20 +6,9 @@ X-WR-CALNAME:Timberwolves Knicks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b71b3bda-c452-49d2-ab3b-3f7e402d1369
+UID:b8c2d39b-62a0-4616-992d-c46695da69bc
 SEQUENCE:0
-DTSTAMP:20251121T171331
-DTSTART:20251122T140000
-DTEND:20251122T144500
-SUMMARY:🏀 U12 Boys: Timberwolves Knicks vs Maccabi Eagles
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
- i Eagles\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:45238cdd-61f8-4164-bbf5-2146c6bd5fb0
-SEQUENCE:0
-DTSTAMP:20251121T171331
+DTSTAMP:20251122T171213
 DTSTART:20251129T140000
 DTEND:20251129T144500
 SUMMARY:🏀 U12 Boys: Timberwolves Knicks vs Toorak Tigersnakes
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
   Tigersnakes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:999ca1db-63a2-439b-8794-14214c4c5474
+UID:cb4ca2c8-73da-4134-a561-1361779bb6a7
 SEQUENCE:0
-DTSTAMP:20251121T171331
+DTSTAMP:20251122T171213
 DTSTART:20251206T140000
 DTEND:20251206T144500
 SUMMARY:🏀 U12 Boys: Timberwolves Knicks vs Malvern Tigers Blue
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:de78364b-5af6-4359-9f7e-fcee5e98da85
+UID:25cb7dd4-b0ac-4dea-91ab-f8c74ef5c93d
 SEQUENCE:0
-DTSTAMP:20251121T171331
+DTSTAMP:20251122T171213
 DTSTART:20251213T131500
 DTEND:20251213T140000
 SUMMARY:🏀 U12 Boys: Timberwolves Knicks vs Maccabi Falcons
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:53a3b4ee-7861-43e9-bb45-220141547fc9
+UID:573a4dc1-98a0-4fd9-820b-caa0e8de233f
 SEQUENCE:0
-DTSTAMP:20251121T171331
+DTSTAMP:20251122T171213
 DTSTART:20260131T144500
 DTEND:20260131T153000
 SUMMARY:🏀 U12 Boys: Timberwolves Knicks vs Comets Tigers
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Comets Tigers\nArrive 15 mins
   early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:264a223d-cac7-4caa-92a8-1f200e634c79
+UID:2973c7d8-b9ee-4524-8013-3fc20f8a2802
 SEQUENCE:0
-DTSTAMP:20251121T171331
+DTSTAMP:20251122T171213
 DTSTART:20260207T140000
 DTEND:20260207T144500
 SUMMARY:🏀 U12 Boys: Timberwolves Knicks vs Toorak T-Bones
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
   T-Bones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b6e9abad-4b6a-4fc1-b240-234234095953
+UID:e66d0f6f-f300-4a36-b16d-845781250cd2
 SEQUENCE:0
-DTSTAMP:20251121T171331
+DTSTAMP:20251122T171213
 DTSTART:20260214T131500
 DTEND:20260214T140000
 SUMMARY:🏀 U12 Boys: Timberwolves Knicks vs Malvern Tigers Brown
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:79bf89c6-23bd-4baa-a8e7-be0bef807717
+UID:f526278f-7a19-4a34-acc6-64899fa722ea
 SEQUENCE:0
-DTSTAMP:20251121T171331
+DTSTAMP:20251122T171213
 DTSTART:20260221T140000
 DTEND:20260221T144500
 SUMMARY:🏀 U12 Boys: Timberwolves Knicks vs Maccabi Eagles
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:df273736-25b8-41f6-83da-8dc95d2c56aa
+UID:a07dc9b0-6a0b-4fa8-890f-46650b8a6066
 SEQUENCE:0
-DTSTAMP:20251121T171331
+DTSTAMP:20251122T171213
 DTSTART:20260228T140000
 DTEND:20260228T144500
 SUMMARY:🏀 U12 Boys: Timberwolves Knicks vs Toorak Tigersnakes
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak
  Tigersnakes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2d9a0cf4-5a68-46be-968c-e7a0e92cec99
+UID:298b6eac-517c-40dd-8805-bc06f128385d
 SEQUENCE:0
-DTSTAMP:20251121T171331
+DTSTAMP:20251122T171213
 DTSTART:20260314T140000
 DTEND:20260314T144500
 SUMMARY:🏀 U12 Boys: Timberwolves Knicks vs Malvern Tigers Blue
