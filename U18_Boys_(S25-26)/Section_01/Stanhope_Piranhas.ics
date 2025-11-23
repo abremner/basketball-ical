@@ -6,20 +6,9 @@ X-WR-CALNAME:Stanhope Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:43bc86bc-4027-433b-b6c9-4a6d6cb51bb2
+UID:60a487a2-2285-48da-b9f8-61c06f72029a
 SEQUENCE:0
-DTSTAMP:20251122T171358
-DTSTART:20251123T190000
-DTEND:20251123T194500
-SUMMARY:🏀 U18 Boys: Stanhope Piranhas vs Ashy Lightning Gold
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ashy L
- ightning Gold\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:00727468-f70a-4942-851a-703217f4c25e
-SEQUENCE:0
-DTSTAMP:20251122T171358
+DTSTAMP:20251123T171450
 DTSTART:20251130T190000
 DTEND:20251130T194500
 SUMMARY:🏀 U18 Boys: Stanhope Piranhas vs Solway Vampires
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Vampires\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e8caabb6-556c-48aa-852a-fce4097cbe58
+UID:0648eee3-033b-4d48-8ed3-1192f7b072a1
 SEQUENCE:0
-DTSTAMP:20251122T171358
+DTSTAMP:20251123T171450
 DTSTART:20251207T173000
 DTEND:20251207T181500
 SUMMARY:🏀 U18 Boys: Stanhope Piranhas vs Malvern Tigers Black
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f293bfc4-f9ee-46b3-a32e-ac1c5a445063
+UID:7e3c31e4-3de3-4d44-92fc-f8375ad1decb
 SEQUENCE:0
-DTSTAMP:20251122T171358
+DTSTAMP:20251123T171450
 DTSTART:20251214T190000
 DTEND:20251214T194500
 SUMMARY:🏀 U18 Boys: Stanhope Piranhas vs Hazelwood Park Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Hazelw
  ood Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5278ec31-d995-40ac-8057-9934e7cb5c5a
+UID:08704149-e08e-41c8-ad11-87a19c2d6da0
 SEQUENCE:0
-DTSTAMP:20251122T171358
+DTSTAMP:20251123T171450
 DTSTART:20260201T190000
 DTEND:20260201T194500
 SUMMARY:🏀 U18 Boys: Stanhope Piranhas vs Tooronga Piranhas
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Tooron
  ga Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:536156f4-29c2-4b74-9699-9983d311efa2
+UID:e7c78efa-bb17-4e42-a127-0f5d57fd665e
 SEQUENCE:0
-DTSTAMP:20251122T171358
+DTSTAMP:20251123T171450
 DTSTART:20260208T190000
 DTEND:20260208T194500
 SUMMARY:🏀 U18 Boys: Stanhope Piranhas vs Maccabi Warriors
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b99cc553-8a4f-43a3-a31e-488e8871cdd9
+UID:d6b3fbaa-0402-42ae-a4d4-b6f820cb1dda
 SEQUENCE:0
-DTSTAMP:20251122T171358
+DTSTAMP:20251123T171450
 DTSTART:20260215T173000
 DTEND:20260215T181500
 SUMMARY:🏀 U18 Boys: Stanhope Piranhas vs Timberwolves Lakers
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Lakers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0c84e89c-4226-4129-a68b-a05c3072d930
+UID:2b7e5963-1a65-422b-b988-ed20911b6b5a
 SEQUENCE:0
-DTSTAMP:20251122T171358
+DTSTAMP:20251123T171450
 DTSTART:20260222T190000
 DTEND:20260222T194500
 SUMMARY:🏀 U18 Boys: Stanhope Piranhas vs Ashy Lightning Gold
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6d0f5f10-9854-49b1-9112-3f86e41791d0
+UID:77a59e51-f5a3-4842-8e27-365a466856fe
 SEQUENCE:0
-DTSTAMP:20251122T171358
+DTSTAMP:20251123T171450
 DTSTART:20260301T190000
 DTEND:20260301T194500
 SUMMARY:🏀 U18 Boys: Stanhope Piranhas vs Solway Vampires
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Vampires\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:90d089de-9641-4227-9ee3-10cee5816fc8
+UID:57b30285-5a76-40f9-b148-e70a5c586a93
 SEQUENCE:0
-DTSTAMP:20251122T171358
+DTSTAMP:20251123T171450
 DTSTART:20260315T181500
 DTEND:20260315T190000
 SUMMARY:🏀 U18 Boys: Stanhope Piranhas vs Malvern Tigers Black

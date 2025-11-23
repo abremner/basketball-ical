@@ -6,20 +6,9 @@ X-WR-CALNAME:Comets Storm Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:4bb57758-c385-4c98-8a4c-04193fdff578
+UID:fe4946ce-1472-4a7a-89f9-26d46f5695cb
 SEQUENCE:0
-DTSTAMP:20251122T171402
-DTSTART:20251123T190000
-DTEND:20251123T194500
-SUMMARY:🏀 U18 Boys: Comets Storm vs Timberwolves Wizards
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
- wolves Wizards\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:2c258a22-ae9f-46c2-81ea-10db4b2094b6
-SEQUENCE:0
-DTSTAMP:20251122T171402
+DTSTAMP:20251123T171454
 DTSTART:20251130T190000
 DTEND:20251130T194500
 SUMMARY:🏀 U18 Boys: Comets Storm vs Maccabi Bucks
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:db1789d0-8855-4145-ae8c-29c9a1ddc619
+UID:a5d09227-b498-43fa-8c38-0b989014aca6
 SEQUENCE:0
-DTSTAMP:20251122T171402
+DTSTAMP:20251123T171454
 DTSTART:20251207T173000
 DTEND:20251207T181500
 SUMMARY:🏀 U18 Boys: Comets Storm vs Ferncroft Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ferncr
  oft Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:66748816-7915-4b4f-98b4-3966f7518a8c
+UID:f386e5fe-194f-42a8-b3a7-5086d0e5cee5
 SEQUENCE:0
-DTSTAMP:20251122T171402
+DTSTAMP:20251123T171454
 DTSTART:20251214T181500
 DTEND:20251214T190000
 SUMMARY:🏀 U18 Boys: Comets Storm vs Timberwolves Wildcats
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Wildcats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2d770706-a85a-4840-8458-43fe1d8a4c52
+UID:43f1368b-0394-45d9-9c9f-b9f19996fba7
 SEQUENCE:0
-DTSTAMP:20251122T171402
+DTSTAMP:20251123T171454
 DTSTART:20260201T173000
 DTEND:20260201T181500
 SUMMARY:🏀 U18 Boys: Comets Storm vs Glen Iris Scorpions Saints
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Saints\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fb89eb01-51a4-40b9-a896-e2c5a8ba8a06
+UID:4c21485d-ec68-4e07-b98f-f51c32f76695
 SEQUENCE:0
-DTSTAMP:20251122T171402
+DTSTAMP:20251123T171454
 DTSTART:20260208T190000
 DTEND:20260208T194500
 SUMMARY:🏀 U18 Boys: Comets Storm vs Maccabi Thunder
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2dc663cb-309b-4172-bb6d-f5c9dcdb7e19
+UID:71b58d90-0dd0-4db1-951b-0cdb1c85653e
 SEQUENCE:0
-DTSTAMP:20251122T171402
+DTSTAMP:20251123T171454
 DTSTART:20260215T181500
 DTEND:20260215T190000
 SUMMARY:🏀 U18 Boys: Comets Storm vs Maccabi Vipers
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
  i Vipers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:99158cac-9f5d-4bf4-97e5-160ad01d2148
+UID:8c503e80-bf0a-48e8-abdc-ca700fb85601
 SEQUENCE:0
-DTSTAMP:20251122T171402
+DTSTAMP:20251123T171454
 DTSTART:20260222T181500
 DTEND:20260222T190000
 SUMMARY:🏀 U18 Boys: Comets Storm vs Timberwolves Wizards
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Wizards\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a4d50d44-7e5b-47e2-90d9-2ae622843fc6
+UID:127787f2-4a0e-444e-987b-650b50fb2dfa
 SEQUENCE:0
-DTSTAMP:20251122T171402
+DTSTAMP:20251123T171454
 DTSTART:20260301T181500
 DTEND:20260301T190000
 SUMMARY:🏀 U18 Boys: Comets Storm vs Maccabi Bucks
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a36334f9-df4a-4969-adbe-e242bd5b2eaa
+UID:644b340f-ca72-4ea7-8e18-ed78770041e8
 SEQUENCE:0
-DTSTAMP:20251122T171402
+DTSTAMP:20251123T171454
 DTSTART:20260315T181500
 DTEND:20260315T190000
 SUMMARY:🏀 U18 Boys: Comets Storm vs Ferncroft Piranhas

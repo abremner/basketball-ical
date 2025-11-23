@@ -6,20 +6,9 @@ X-WR-CALNAME:Timberwolves Wizards Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:897da1f9-a827-443d-a4e2-9c07003a6279
+UID:1d3ca30e-c30c-4e33-9005-f80f2a6c6a4f
 SEQUENCE:0
-DTSTAMP:20251122T171404
-DTSTART:20251123T190000
-DTEND:20251123T194500
-SUMMARY:🏀 U18 Boys: Timberwolves Wizards vs Comets Storm
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Comets
-  Storm\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:1698778b-70dc-4f3f-ac9c-50710751cc57
-SEQUENCE:0
-DTSTAMP:20251122T171404
+DTSTAMP:20251123T171457
 DTSTART:20251130T173000
 DTEND:20251130T181500
 SUMMARY:🏀 U18 Boys: Timberwolves Wizards vs Glen Iris Scorpions Saints
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Saints\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0ff8a245-7bad-4acf-9194-e021bab663ad
+UID:ec5180be-93fd-4c34-a878-9e92ee86abfa
 SEQUENCE:0
-DTSTAMP:20251122T171404
+DTSTAMP:20251123T171457
 DTSTART:20251207T181500
 DTEND:20251207T190000
 SUMMARY:🏀 U18 Boys: Timberwolves Wizards vs Maccabi Thunder
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4b9d5b25-743d-4b52-8bba-b9a82eafba2a
+UID:21e38d55-faf0-4af5-97dd-b45a269714b2
 SEQUENCE:0
-DTSTAMP:20251122T171404
+DTSTAMP:20251123T171457
 DTSTART:20251214T190000
 DTEND:20251214T194500
 SUMMARY:🏀 U18 Boys: Timberwolves Wizards vs Ferncroft Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ferncr
  oft Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4fa2ddcc-1b8e-4c9c-baee-ef2fd5447604
+UID:aabce7e9-9c73-4583-af05-5c4d53c1e0bc
 SEQUENCE:0
-DTSTAMP:20251122T171404
+DTSTAMP:20251123T171457
 DTSTART:20260201T190000
 DTEND:20260201T194500
 SUMMARY:🏀 U18 Boys: Timberwolves Wizards vs Maccabi Vipers
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Vipers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:021ff0d5-6667-45a4-af13-1dd688f7588a
+UID:277bdd20-6e55-4564-a59a-c2ce9bbe12f1
 SEQUENCE:0
-DTSTAMP:20251122T171404
+DTSTAMP:20251123T171457
 DTSTART:20260208T181500
 DTEND:20260208T190000
 SUMMARY:🏀 U18 Boys: Timberwolves Wizards vs Maccabi Bucks
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
  i Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c61f4dd0-6845-4675-bd64-7a6240e67a88
+UID:2d313e51-dc4a-49fa-987b-d07289217227
 SEQUENCE:0
-DTSTAMP:20251122T171404
+DTSTAMP:20251123T171457
 DTSTART:20260215T173000
 DTEND:20260215T181500
 SUMMARY:🏀 U18 Boys: Timberwolves Wizards vs Timberwolves Wildcats
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Wildcats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:22c5a1a1-8d5c-4b92-abd2-f191483b23b6
+UID:e20d3c74-f665-4847-ae3b-1a1bcebce848
 SEQUENCE:0
-DTSTAMP:20251122T171404
+DTSTAMP:20251123T171457
 DTSTART:20260222T181500
 DTEND:20260222T190000
 SUMMARY:🏀 U18 Boys: Timberwolves Wizards vs Comets Storm
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Comets
   Storm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:eef562ec-bbd8-4fea-a10c-f5d3a20008cd
+UID:5d84ef9f-e772-4589-9f97-ab4e7f31c61f
 SEQUENCE:0
-DTSTAMP:20251122T171404
+DTSTAMP:20251123T171457
 DTSTART:20260301T181500
 DTEND:20260301T190000
 SUMMARY:🏀 U18 Boys: Timberwolves Wizards vs Glen Iris Scorpions Saints
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
  ris Scorpions Saints\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9a4b3629-4178-48f7-9165-63ceedb069a6
+UID:7bdcf1bc-cd24-4e11-92dc-251bda87f1aa
 SEQUENCE:0
-DTSTAMP:20251122T171404
+DTSTAMP:20251123T171457
 DTSTART:20260315T181500
 DTEND:20260315T190000
 SUMMARY:🏀 U18 Boys: Timberwolves Wizards vs Maccabi Thunder

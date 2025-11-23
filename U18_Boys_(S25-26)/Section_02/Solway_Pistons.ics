@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Pistons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:271ff640-607e-41dc-823d-d1388a8aec76
+UID:d028422d-c38b-48ff-842d-c8493a237839
 SEQUENCE:0
-DTSTAMP:20251122T171401
-DTSTART:20251123T173000
-DTEND:20251123T181500
-SUMMARY:🏀 U18 Boys: Solway Pistons vs Glen Iris Scorpions Sixers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glen I
- ris Scorpions Sixers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:91401c2e-26b0-49fe-8232-56b3e04761a4
-SEQUENCE:0
-DTSTAMP:20251122T171401
+DTSTAMP:20251123T171453
 DTSTART:20251130T173000
 DTEND:20251130T181500
 SUMMARY:🏀 U18 Boys: Solway Pistons vs Maccabi Lightening
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
  i Lightening\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b5c5f6c7-85de-4bf7-b171-fa2f81e8c7d4
+UID:c1c3658d-0431-49a5-a91c-5d20fef7f6d1
 SEQUENCE:0
-DTSTAMP:20251122T171401
+DTSTAMP:20251123T171453
 DTSTART:20251207T181500
 DTEND:20251207T190000
 SUMMARY:🏀 U18 Boys: Solway Pistons vs Glenbrook Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glenbr
  ook Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5f2e8549-5dcd-4a04-96ca-d9c8273da58f
+UID:629f80a9-5850-4c3b-959c-7a0ee823513b
 SEQUENCE:0
-DTSTAMP:20251122T171401
+DTSTAMP:20251123T171453
 DTSTART:20251214T173000
 DTEND:20251214T181500
 SUMMARY:🏀 U18 Boys: Solway Pistons vs Solway Torpedoes
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Torpedoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2e679842-81b4-49f3-95e2-727b2c3c426e
+UID:a084c5e9-63a0-407f-9c2b-1b5568e92348
 SEQUENCE:0
-DTSTAMP:20251122T171401
+DTSTAMP:20251123T171453
 DTSTART:20260201T173000
 DTEND:20260201T181500
 SUMMARY:🏀 U18 Boys: Solway Pistons vs Solway Bullets
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Bullets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fe37717a-05d7-447b-9e97-a055079eae95
+UID:55cc6ca6-4159-4e78-8cae-cf67d7141c14
 SEQUENCE:0
-DTSTAMP:20251122T171401
+DTSTAMP:20251123T171453
 DTSTART:20260208T181500
 DTEND:20260208T190000
 SUMMARY:🏀 U18 Boys: Solway Pistons vs Glen Iris Scorpions Sixers
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glen I
  ris Scorpions Sixers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bbd9a6f3-8138-4115-be07-2bb19916d842
+UID:3ff04104-44be-441f-b388-46c95244044c
 SEQUENCE:0
-DTSTAMP:20251122T171401
+DTSTAMP:20251123T171453
 DTSTART:20260215T173000
 DTEND:20260215T181500
 SUMMARY:🏀 U18 Boys: Solway Pistons vs Maccabi Lightening
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
  i Lightening\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1a125138-e1bb-4428-ae66-3afdbf2a1c3d
+UID:dccfdf0d-f552-4326-a431-babed6ace27a
 SEQUENCE:0
-DTSTAMP:20251122T171401
+DTSTAMP:20251123T171453
 DTSTART:20260222T173000
 DTEND:20260222T181500
 SUMMARY:🏀 U18 Boys: Solway Pistons vs Glenbrook Piranhas
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glenbr
  ook Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d0033790-3954-43c9-82b8-d5b1c3ae3b84
+UID:0202868f-2a06-4618-abef-3267d0d51266
 SEQUENCE:0
-DTSTAMP:20251122T171401
+DTSTAMP:20251123T171453
 DTSTART:20260301T181500
 DTEND:20260301T190000
 SUMMARY:🏀 U18 Boys: Solway Pistons vs Solway Torpedoes
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Torpedoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:15729679-eea9-4e8f-8c1e-494801158bb5
+UID:763335e8-9b66-4e43-9bad-098df340defa
 SEQUENCE:0
-DTSTAMP:20251122T171401
+DTSTAMP:20251123T171453
 DTSTART:20260315T181500
 DTEND:20260315T190000
 SUMMARY:🏀 U18 Boys: Solway Pistons vs Solway Bullets
