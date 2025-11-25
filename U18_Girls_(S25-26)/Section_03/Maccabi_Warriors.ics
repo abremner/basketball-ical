@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:07fe1fea-e332-435a-920b-9aff9578a4eb
+UID:e76639de-cbc4-4d8c-aeba-cc84eea8c7cf
 SEQUENCE:0
-DTSTAMP:20251124T171705
-DTSTART:20251125T200000
-DTEND:20251125T204500
-SUMMARY:🏀 U18 Girls: Maccabi Warriors vs SCBC Dazzling Diamonds
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: SCBC D
- azzling Diamonds\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:c72c130c-3e4c-4c79-be47-bc5370c589f9
-SEQUENCE:0
-DTSTAMP:20251124T171705
+DTSTAMP:20251125T171741
 DTSTART:20251202T191500
 DTEND:20251202T200000
 SUMMARY:🏀 U18 Girls: Maccabi Warriors vs Solway Stellars
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Stellars\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8df75107-a020-4f59-a3f3-f5be6fc76f9a
+UID:b75a3946-1d26-4720-97c8-bf5211e599f6
 SEQUENCE:0
-DTSTAMP:20251124T171705
+DTSTAMP:20251125T171741
 DTSTART:20251209T200000
 DTEND:20251209T204500
 SUMMARY:🏀 U18 Girls: Maccabi Warriors vs Ashy Lightning Gold
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f3655dd9-991c-40e2-8ee9-870f06e76730
+UID:743e41b4-6401-4b34-8062-62497bc81850
 SEQUENCE:0
-DTSTAMP:20251124T171705
+DTSTAMP:20251125T171741
 DTSTART:20260203T200000
 DTEND:20260203T204500
 SUMMARY:🏀 U18 Girls: Maccabi Warriors vs Timberwolves Savage
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Savage\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:88ff9820-7c5b-4ffa-84c3-d1fbbc96e924
+UID:4665ea09-ddbc-43e2-af4c-626d6cf2b631
 SEQUENCE:0
-DTSTAMP:20251124T171705
+DTSTAMP:20251125T171741
 DTSTART:20260210T191500
 DTEND:20260210T200000
 SUMMARY:🏀 U18 Girls: Maccabi Warriors vs Maccabi Holy Hoopers
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
  i Holy Hoopers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5038b1ef-748c-4d1b-b7f1-b972fcf92605
+UID:9826dac0-dfa7-4c70-aa07-6ef43006e3b8
 SEQUENCE:0
-DTSTAMP:20251124T171705
+DTSTAMP:20251125T171741
 DTSTART:20260217T200000
 DTEND:20260217T204500
 SUMMARY:🏀 U18 Girls: Maccabi Warriors vs SCBC Dazzling Diamonds
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: SCBC D
  azzling Diamonds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6e1a7ffc-097b-4276-839e-9c494da63b15
+UID:cdb0fc88-5ba7-4684-bc34-0f5c27ecba40
 SEQUENCE:0
-DTSTAMP:20251124T171705
+DTSTAMP:20251125T171741
 DTSTART:20260224T191500
 DTEND:20260224T200000
 SUMMARY:🏀 U18 Girls: Maccabi Warriors vs Solway Stellars
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Stellars\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8f9c58ca-b633-4e73-8aa1-2097043e3dc6
+UID:6436058f-bb22-4282-b4c4-ab3f1257740b
 SEQUENCE:0
-DTSTAMP:20251124T171705
+DTSTAMP:20251125T171741
 DTSTART:20260303T200000
 DTEND:20260303T204500
 SUMMARY:🏀 U18 Girls: Maccabi Warriors vs Ashy Lightning Gold
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:11f4b851-d342-41c9-9de7-8d1be4b39c4f
+UID:2fdcb07b-4f15-4586-b240-a6c4452ec7f4
 SEQUENCE:0
-DTSTAMP:20251124T171705
+DTSTAMP:20251125T171741
 DTSTART:20260310T200000
 DTEND:20260310T204500
 SUMMARY:🏀 U18 Girls: Maccabi Warriors vs Timberwolves Savage
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Savage\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3f09acb4-f764-47d1-99de-369c9df165c1
+UID:8a0694e3-1bd8-4193-9891-0dd43f9a19cf
 SEQUENCE:0
-DTSTAMP:20251124T171705
+DTSTAMP:20251125T171741
 DTSTART:20260317T191500
 DTEND:20260317T200000
 SUMMARY:🏀 U18 Girls: Maccabi Warriors vs Maccabi Holy Hoopers

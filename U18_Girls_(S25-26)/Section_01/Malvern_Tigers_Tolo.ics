@@ -6,20 +6,9 @@ X-WR-CALNAME:Malvern Tigers Tolo Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:de47408f-1121-445f-a7c2-ecfd929d7e41
+UID:d536f89e-ed60-437d-8e3f-0a16a42f8d3d
 SEQUENCE:0
-DTSTAMP:20251124T171700
-DTSTART:20251125T200000
-DTEND:20251125T204500
-SUMMARY:🏀 U18 Girls: Malvern Tigers Tolo vs Malvern Tigers Jackson
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
- n Tigers Jackson\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:2af1adb1-57ea-4ade-98cf-22b846c8b844
-SEQUENCE:0
-DTSTAMP:20251124T171700
+DTSTAMP:20251125T171737
 DTSTART:20251202T200000
 DTEND:20251202T204500
 SUMMARY:🏀 U18 Girls: Malvern Tigers Tolo vs Solway Suns
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Suns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d87adf29-9e05-4e16-9976-b731af3bde99
+UID:88154ad5-8684-4c38-8266-fe9db0cc72ee
 SEQUENCE:0
-DTSTAMP:20251124T171700
+DTSTAMP:20251125T171737
 DTSTART:20251209T200000
 DTEND:20251209T204500
 SUMMARY:🏀 U18 Girls: Malvern Tigers Tolo vs Solway Magic
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Magic\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ac967ef1-bb48-4faa-a9d0-3c58cdd026ba
+UID:3ec8f8a6-051b-4e95-bc2a-f8012bf6bc50
 SEQUENCE:0
-DTSTAMP:20251124T171700
+DTSTAMP:20251125T171737
 DTSTART:20260203T191500
 DTEND:20260203T200000
 SUMMARY:🏀 U18 Girls: Malvern Tigers Tolo vs Malvern Tigers Reid
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Reid\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ad222ee9-a255-4855-b456-1a61fba460e6
+UID:c47a54cc-8607-40b1-a1db-9bbf0bb349d9
 SEQUENCE:0
-DTSTAMP:20251124T171700
+DTSTAMP:20251125T171737
 DTSTART:20260210T200000
 DTEND:20260210T204500
 SUMMARY:🏀 U18 Girls: Malvern Tigers Tolo vs Malvern Tigers Talbot
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Talbot\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c3d3adb8-2ec7-4e15-b3ea-0114b332a2d8
+UID:42c3f5b1-8343-4a02-92dd-a83046ac2c7b
 SEQUENCE:0
-DTSTAMP:20251124T171700
+DTSTAMP:20251125T171737
 DTSTART:20260217T200000
 DTEND:20260217T204500
 SUMMARY:🏀 U18 Girls: Malvern Tigers Tolo vs Malvern Tigers Allen
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
  n Tigers Allen\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:06ef5f05-f3f2-4d8d-b8cd-c692dc3f236d
+UID:0891792f-d394-4d71-ae89-ae7ff7660d42
 SEQUENCE:0
-DTSTAMP:20251124T171700
+DTSTAMP:20251125T171737
 DTSTART:20260224T200000
 DTEND:20260224T204500
 SUMMARY:🏀 U18 Girls: Malvern Tigers Tolo vs SCBC Brilliant Diamonds
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: SCBC B
  rilliant Diamonds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:81acad5d-315b-4f1b-a64a-93817e4fb751
+UID:29eb0e3a-25ff-4a57-b7d4-d7b8ee489ec8
 SEQUENCE:0
-DTSTAMP:20251124T171700
+DTSTAMP:20251125T171737
 DTSTART:20260303T200000
 DTEND:20260303T204500
 SUMMARY:🏀 U18 Girls: Malvern Tigers Tolo vs Malvern Tigers Jackson
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Jackson\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d9a9a42f-2dfd-444e-86e2-473dd20a766f
+UID:619c0bf8-818a-47d0-9758-0987db483cc9
 SEQUENCE:0
-DTSTAMP:20251124T171700
+DTSTAMP:20251125T171737
 DTSTART:20260310T200000
 DTEND:20260310T204500
 SUMMARY:🏀 U18 Girls: Malvern Tigers Tolo vs Solway Suns
@@ -105,9 +94,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Suns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7729d6fd-e35e-4a15-9c35-e8c0e2f80be0
+UID:87138206-fde5-4d61-bfd6-4df38b8fa296
 SEQUENCE:0
-DTSTAMP:20251124T171700
+DTSTAMP:20251125T171737
 DTSTART:20260317T200000
 DTEND:20260317T204500
 SUMMARY:🏀 U18 Girls: Malvern Tigers Tolo vs Solway Magic
