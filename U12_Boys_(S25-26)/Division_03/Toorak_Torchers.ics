@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Torchers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:8a52f211-713b-48b6-a069-8816a8b374bb
+UID:3ac70738-cf57-45c7-bd9e-cfb28aeeeb56
 SEQUENCE:0
-DTSTAMP:20251128T171335
-DTSTART:20251129T140000
-DTEND:20251129T144500
-SUMMARY:🏀 U12 Boys: Toorak Torchers vs Malvern Tigers White
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
-  Tigers White\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:7ca8a707-3900-4c3f-a793-68eb46ce429a
-SEQUENCE:0
-DTSTAMP:20251128T171335
+DTSTAMP:20251129T171249
 DTSTART:20251206T140000
 DTEND:20251206T144500
 SUMMARY:🏀 U12 Boys: Toorak Torchers vs Maccabi Bucks
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1d618778-a053-4e75-ac56-00da80a07f76
+UID:dad51666-e25b-409e-9c5c-e4d8c1e75056
 SEQUENCE:0
-DTSTAMP:20251128T171335
+DTSTAMP:20251129T171249
 DTSTART:20251213T140000
 DTEND:20251213T144500
 SUMMARY:🏀 U12 Boys: Toorak Torchers vs Malvern Tigers Green
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ac88f96a-c467-4075-8834-c4f69217a624
+UID:8b8a7e5b-adf7-4b69-aacf-d71ed827b2f3
 SEQUENCE:0
-DTSTAMP:20251128T171335
+DTSTAMP:20251129T171249
 DTSTART:20260131T144500
 DTEND:20260131T153000
 SUMMARY:🏀 U12 Boys: Toorak Torchers vs Toorak Tarantulas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Tarantulas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:66a7a240-1754-41db-a728-3e0298eefb8f
+UID:8c0a93f0-ce47-4032-b8a9-2924d895b474
 SEQUENCE:0
-DTSTAMP:20251128T171335
+DTSTAMP:20251129T171249
 DTSTART:20260207T140000
 DTEND:20260207T144500
 SUMMARY:🏀 U12 Boys: Toorak Torchers vs Timberwolves Howlers
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
  olves Howlers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3e6085c8-2875-4ae5-a6d6-1811edb40314
+UID:88573bfc-7746-45c4-b0d3-99e90238bef3
 SEQUENCE:0
-DTSTAMP:20251128T171335
+DTSTAMP:20251129T171249
 DTSTART:20260214T144500
 DTEND:20260214T153000
 SUMMARY:🏀 U12 Boys: Toorak Torchers vs Malvern Tigers White
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7d9aa027-f44b-4ec5-900a-dfd55022868a
+UID:0e35a72c-c6e7-44e2-bc58-eb646a97889f
 SEQUENCE:0
-DTSTAMP:20251128T171335
+DTSTAMP:20251129T171249
 DTSTART:20260221T144500
 DTEND:20260221T153000
 SUMMARY:🏀 U12 Boys: Toorak Torchers vs Maccabi Bucks
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:07659a2b-c120-4806-9283-a7b3e64e58ec
+UID:f4539605-fa65-413f-af06-22768c755ade
 SEQUENCE:0
-DTSTAMP:20251128T171335
+DTSTAMP:20251129T171249
 DTSTART:20260228T140000
 DTEND:20260228T144500
 SUMMARY:🏀 U12 Boys: Toorak Torchers vs Malvern Tigers Green
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:75901a53-325f-4eb8-8e86-438784069807
+UID:509f7793-b249-4762-bd11-1bbeec7afd77
 SEQUENCE:0
-DTSTAMP:20251128T171335
+DTSTAMP:20251129T171249
 DTSTART:20260314T144500
 DTEND:20260314T153000
 SUMMARY:🏀 U12 Boys: Toorak Torchers vs Toorak Tarantulas

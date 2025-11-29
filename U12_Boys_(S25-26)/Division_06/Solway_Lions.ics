@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Lions Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:83d34b74-e778-4030-a418-365197c614ba
+UID:b16d7d91-a17c-44cc-ac60-0ab33a788cbc
 SEQUENCE:0
-DTSTAMP:20251128T171345
-DTSTART:20251129T140000
-DTEND:20251129T144500
-SUMMARY:🏀 U12 Boys: Solway Lions vs Maccabi Giants
-LOCATION:DLS1
-DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Giants\nArrive 15 min
- s early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:bff0077c-4fdb-4f0a-a89d-2beeb2bf8a7b
-SEQUENCE:0
-DTSTAMP:20251128T171345
+DTSTAMP:20251129T171257
 DTSTART:20251206T123000
 DTEND:20251206T131500
 SUMMARY:🏀 U12 Boys: Solway Lions vs Glen Iris Scorpions Gardiner
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7855707d-8f64-4803-9c4d-59a766d758f5
+UID:7bac498a-5bac-4c58-a6a2-96ddfdc98a7e
 SEQUENCE:0
-DTSTAMP:20251128T171345
+DTSTAMP:20251129T171257
 DTSTART:20251213T131500
 DTEND:20251213T140000
 SUMMARY:🏀 U12 Boys: Solway Lions vs Toorak Trouble
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak
  Trouble\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:759e66f2-b707-4e7d-8d8f-2dc62ca6e274
+UID:e513f240-d812-4374-8d21-3ee51e32520f
 SEQUENCE:0
-DTSTAMP:20251128T171345
+DTSTAMP:20251129T171257
 DTSTART:20260131T131500
 DTEND:20260131T140000
 SUMMARY:🏀 U12 Boys: Solway Lions vs Central Park Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Central
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5d3191c0-f0a7-4489-beff-4c34753f64bd
+UID:13e2da31-eb9a-4851-b1aa-5814acc3cef4
 SEQUENCE:0
-DTSTAMP:20251128T171345
+DTSTAMP:20251129T171257
 DTSTART:20260207T131500
 DTEND:20260207T140000
 SUMMARY:🏀 U12 Boys: Solway Lions vs Ashy Lightning Green
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6fe4ce3e-9f48-4f7b-b6bc-aca9e209f1c8
+UID:abfd7bbe-379c-48a5-8a86-0becf71d0d7c
 SEQUENCE:0
-DTSTAMP:20251128T171345
+DTSTAMP:20251129T171257
 DTSTART:20260214T131500
 DTEND:20260214T140000
 SUMMARY:🏀 U12 Boys: Solway Lions vs Malvern Tigers Purple
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Purple\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9ae3103b-9ded-43fa-8461-88bcee2e180b
+UID:f4e610af-f524-49f9-bd9a-15db72a3c264
 SEQUENCE:0
-DTSTAMP:20251128T171345
+DTSTAMP:20251129T171257
 DTSTART:20260221T123000
 DTEND:20260221T131500
 SUMMARY:🏀 U12 Boys: Solway Lions vs Comets Cyclones
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Comets
  Cyclones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c7eb2316-22fa-4a7d-b9df-4f91a6d53c90
+UID:ba5ff68e-15a5-4071-b193-882fba1e3ebf
 SEQUENCE:0
-DTSTAMP:20251128T171345
+DTSTAMP:20251129T171257
 DTSTART:20260228T140000
 DTEND:20260228T144500
 SUMMARY:🏀 U12 Boys: Solway Lions vs AlphaWolf Lakers

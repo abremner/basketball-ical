@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Falcons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2e91e822-57cd-432f-a28e-0d14b629c4d9
+UID:61ac86ec-0cee-436e-a3aa-2ca61737a500
 SEQUENCE:0
-DTSTAMP:20251128T171339
-DTSTART:20251129T131500
-DTEND:20251129T140000
-SUMMARY:🏀 U12 Boys: Maccabi Falcons vs Malvern Tigers Blue
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
-  Tigers Blue\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:e165772a-2898-4c08-944a-8691732a5a54
-SEQUENCE:0
-DTSTAMP:20251128T171339
+DTSTAMP:20251129T171253
 DTSTART:20251206T144500
 DTEND:20251206T153000
 SUMMARY:🏀 U12 Boys: Maccabi Falcons vs Maccabi Eagles
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Eagles\nArrive 15 min
  s early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c655aec8-f27e-431b-8fe4-ae443dd10e94
+UID:b3b9b799-880b-44dc-b248-1e47ff0934df
 SEQUENCE:0
-DTSTAMP:20251128T171339
+DTSTAMP:20251129T171253
 DTSTART:20251213T131500
 DTEND:20251213T140000
 SUMMARY:🏀 U12 Boys: Maccabi Falcons vs Timberwolves Knicks
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
  olves Knicks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2a74e3a2-624a-4800-90b9-5a7b0bdcc11b
+UID:24db9afd-f261-4a4e-9d52-24701c6addfc
 SEQUENCE:0
-DTSTAMP:20251128T171339
+DTSTAMP:20251129T171253
 DTSTART:20260131T131500
 DTEND:20260131T140000
 SUMMARY:🏀 U12 Boys: Maccabi Falcons vs Toorak Tigersnakes
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak
  Tigersnakes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:73049a93-e4de-495e-924f-77dcc056a585
+UID:b2ad5efb-d95b-4c17-8018-ce8bfcf77505
 SEQUENCE:0
-DTSTAMP:20251128T171339
+DTSTAMP:20251129T171253
 DTSTART:20260207T140000
 DTEND:20260207T144500
 SUMMARY:🏀 U12 Boys: Maccabi Falcons vs Malvern Tigers Brown
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8d3bebca-240c-4f74-b582-c8e90056c35d
+UID:951a1486-e688-482c-8312-67ffb1bfd48a
 SEQUENCE:0
-DTSTAMP:20251128T171339
+DTSTAMP:20251129T171253
 DTSTART:20260214T140000
 DTEND:20260214T144500
 SUMMARY:🏀 U12 Boys: Maccabi Falcons vs Comets Tigers
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Comets
  Tigers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5b0fd534-feb4-4b8a-82c8-9d3a43149a39
+UID:6781c8dd-a3c8-48be-8473-c546a9769cb9
 SEQUENCE:0
-DTSTAMP:20251128T171339
+DTSTAMP:20251129T171253
 DTSTART:20260221T131500
 DTEND:20260221T140000
 SUMMARY:🏀 U12 Boys: Maccabi Falcons vs Toorak T-Bones
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak
  T-Bones\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:76ebff19-6096-48bb-a076-ed4a21ab5fee
+UID:a246b88b-5b0e-4b09-b26c-0f17ade8250d
 SEQUENCE:0
-DTSTAMP:20251128T171339
+DTSTAMP:20251129T171253
 DTSTART:20260228T144500
 DTEND:20260228T153000
 SUMMARY:🏀 U12 Boys: Maccabi Falcons vs Malvern Tigers Blue
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Blue\nArrive 1
  5 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:16b007df-9d6b-4de0-8976-6224a603e121
+UID:c475c970-7d0b-4f8d-b224-ffc3c845b2a7
 SEQUENCE:0
-DTSTAMP:20251128T171339
+DTSTAMP:20251129T171253
 DTSTART:20260314T140000
 DTEND:20260314T144500
 SUMMARY:🏀 U12 Boys: Maccabi Falcons vs Maccabi Eagles
