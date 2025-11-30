@@ -6,20 +6,9 @@ X-WR-CALNAME:Timberwolves Stars Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2d0a37e3-2c03-4301-9df7-b8ca43d26742
+UID:b5b77cbf-d94e-4c9e-92a0-c197b0138504
 SEQUENCE:0
-DTSTAMP:20251129T171446
-DTSTART:20251130T173000
-DTEND:20251130T181500
-SUMMARY:🏀 U18 Boys: Timberwolves Stars vs Solway Mambas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
-  Mambas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:bba71975-172b-49d1-b5e4-b58002b157ec
-SEQUENCE:0
-DTSTAMP:20251129T171446
+DTSTAMP:20251130T171450
 DTSTART:20251207T173000
 DTEND:20251207T181500
 SUMMARY:🏀 U18 Boys: Timberwolves Stars vs Toorak Turbos
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
   Turbos\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6423ff1e-87e9-4056-aa9c-4ca89935e8be
+UID:ae5aa677-d188-47bc-9729-3ecb074694e1
 SEQUENCE:0
-DTSTAMP:20251129T171446
+DTSTAMP:20251130T171450
 DTSTART:20251214T181500
 DTEND:20251214T190000
 SUMMARY:🏀 U18 Boys: Timberwolves Stars vs Maccabi Celtics
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4ce90445-cffe-4497-9fd3-ecb43aca1d39
+UID:b404a333-57f0-41ee-b952-2911135fbd3c
 SEQUENCE:0
-DTSTAMP:20251129T171446
+DTSTAMP:20251130T171450
 DTSTART:20260201T181500
 DTEND:20260201T190000
 SUMMARY:🏀 U18 Boys: Timberwolves Stars vs Spring Park Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Spring
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e79490ed-71b1-4ae8-8e5f-b368b71cba70
+UID:c2703a39-c672-4893-bd15-429fc8be746d
 SEQUENCE:0
-DTSTAMP:20251129T171446
+DTSTAMP:20251130T171450
 DTSTART:20260208T181500
 DTEND:20260208T190000
 SUMMARY:🏀 U18 Boys: Timberwolves Stars vs Timberwolves Trailblazers
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Trailblazers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7c562dd2-e811-41ea-a402-23905c03aaf1
+UID:e103625f-a2ca-4afd-872c-78ca3c4c5bee
 SEQUENCE:0
-DTSTAMP:20251129T171446
+DTSTAMP:20251130T171450
 DTSTART:20260215T181500
 DTEND:20260215T190000
 SUMMARY:🏀 U18 Boys: Timberwolves Stars vs Malvern Tigers Red
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1bb53078-8159-456c-af1e-88810a112790
+UID:811262cc-9fef-4d65-96eb-0dcd048b538a
 SEQUENCE:0
-DTSTAMP:20251129T171446
+DTSTAMP:20251130T171450
 DTSTART:20260222T173000
 DTEND:20260222T181500
 SUMMARY:🏀 U18 Boys: Timberwolves Stars vs Timberwolves Knights
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Knights\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c2f49142-1470-4d36-af8e-6645884f08b7
+UID:7b35b005-ed42-44f7-b3b1-c9ffa232fe1b
 SEQUENCE:0
-DTSTAMP:20251129T171446
+DTSTAMP:20251130T171450
 DTSTART:20260301T181500
 DTEND:20260301T190000
 SUMMARY:🏀 U18 Boys: Timberwolves Stars vs Solway Mambas
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Mambas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:34458544-8b92-4f2e-9f01-1293aee18289
+UID:204eb0ef-e97f-4287-9ac1-839c2049f2bc
 SEQUENCE:0
-DTSTAMP:20251129T171446
+DTSTAMP:20251130T171450
 DTSTART:20260315T173000
 DTEND:20260315T181500
 SUMMARY:🏀 U18 Boys: Timberwolves Stars vs Toorak Turbos

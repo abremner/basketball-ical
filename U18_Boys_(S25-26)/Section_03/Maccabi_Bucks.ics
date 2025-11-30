@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:7e1a96b5-eb1e-4602-ae72-5017a8026931
+UID:0d136aed-2e90-443c-975a-00e3de254c8e
 SEQUENCE:0
-DTSTAMP:20251129T171442
-DTSTART:20251130T190000
-DTEND:20251130T194500
-SUMMARY:🏀 U18 Boys: Maccabi Bucks vs Comets Storm
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Comets
-  Storm\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:b9d49727-6330-4190-8dc0-2a79fd71f7e7
-SEQUENCE:0
-DTSTAMP:20251129T171442
+DTSTAMP:20251130T171446
 DTSTART:20251207T190000
 DTEND:20251207T194500
 SUMMARY:🏀 U18 Boys: Maccabi Bucks vs Timberwolves Wildcats
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Wildcats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3c4f93e5-c093-4cc3-8454-2bb336ac1fc5
+UID:d328f930-288a-48c6-9a0a-9457911e3633
 SEQUENCE:0
-DTSTAMP:20251129T171442
+DTSTAMP:20251130T171446
 DTSTART:20251214T181500
 DTEND:20251214T190000
 SUMMARY:🏀 U18 Boys: Maccabi Bucks vs Glen Iris Scorpions Saints
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
  ris Scorpions Saints\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fd52fe6e-5bba-4c6d-87f0-12233202b759
+UID:6e0be2b5-f147-4050-8f07-f059f3efd363
 SEQUENCE:0
-DTSTAMP:20251129T171442
+DTSTAMP:20251130T171446
 DTSTART:20260201T181500
 DTEND:20260201T190000
 SUMMARY:🏀 U18 Boys: Maccabi Bucks vs Maccabi Thunder
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:40427851-e45c-49e9-96d6-e08f452cf4cd
+UID:cfaa4e0e-e6dc-4c2f-ab68-e85c516bff87
 SEQUENCE:0
-DTSTAMP:20251129T171442
+DTSTAMP:20251130T171446
 DTSTART:20260208T181500
 DTEND:20260208T190000
 SUMMARY:🏀 U18 Boys: Maccabi Bucks vs Timberwolves Wizards
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Wizards\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:379e9040-126f-4936-941d-19444889c425
+UID:f8e463d5-9ed2-471d-841a-f035ec59237d
 SEQUENCE:0
-DTSTAMP:20251129T171442
+DTSTAMP:20251130T171446
 DTSTART:20260215T181500
 DTEND:20260215T190000
 SUMMARY:🏀 U18 Boys: Maccabi Bucks vs Ferncroft Piranhas
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ferncr
  oft Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6b609eec-f11f-4968-a83b-92446f88075e
+UID:a08a1758-4d26-4e57-84cd-9a0307d38158
 SEQUENCE:0
-DTSTAMP:20251129T171442
+DTSTAMP:20251130T171446
 DTSTART:20260222T173000
 DTEND:20260222T181500
 SUMMARY:🏀 U18 Boys: Maccabi Bucks vs Maccabi Vipers
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Vipers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fe357410-3722-49ab-8a81-9981c5670076
+UID:6c84e7a6-a490-44fa-a3ff-058ffda230bc
 SEQUENCE:0
-DTSTAMP:20251129T171442
+DTSTAMP:20251130T171446
 DTSTART:20260301T181500
 DTEND:20260301T190000
 SUMMARY:🏀 U18 Boys: Maccabi Bucks vs Comets Storm
@@ -94,9 +83,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Comets
   Storm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:49f84895-5c39-4852-bc33-edc26869cfac
+UID:01ce66b5-d2dd-40f0-8dd5-8723f65772bb
 SEQUENCE:0
-DTSTAMP:20251129T171442
+DTSTAMP:20251130T171446
 DTSTART:20260315T190000
 DTEND:20260315T194500
 SUMMARY:🏀 U18 Boys: Maccabi Bucks vs Timberwolves Wildcats
