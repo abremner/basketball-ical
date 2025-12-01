@@ -6,75 +6,53 @@ X-WR-CALNAME:Solway Torpedoes Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:fc15d285-8869-414c-8262-2a034a39b7a1
+UID:681ead4d-e671-4f68-9880-4d788a259be9
 SEQUENCE:0
-DTSTAMP:20251130T171445
-DTSTART:20251207T173000
-DTEND:20251207T181500
-SUMMARY:🏀 U18 Boys: Solway Torpedoes vs Solway Bullets
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
-  Bullets\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:32990743-a016-4bcf-8561-1c662cd3211d
-SEQUENCE:0
-DTSTAMP:20251130T171445
-DTSTART:20251214T173000
-DTEND:20251214T181500
+DTSTAMP:20251201T171914
+DTSTART:20251214T181500
+DTEND:20251214T190000
 SUMMARY:🏀 U18 Boys: Solway Torpedoes vs Solway Pistons
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Pistons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1616e134-78c9-4ff8-9f5e-aaf5d14f4342
+UID:a53e4825-8b74-4333-a033-f3106b9c6dee
 SEQUENCE:0
-DTSTAMP:20251130T171445
-DTSTART:20260201T181500
-DTEND:20260201T190000
-SUMMARY:🏀 U18 Boys: Solway Torpedoes vs Glen Iris Scorpions Sixers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glen I
- ris Scorpions Sixers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:c4d566f8-d853-4be9-83c0-4379c4d216f9
-SEQUENCE:0
-DTSTAMP:20251130T171445
-DTSTART:20260208T173000
-DTEND:20260208T181500
+DTSTAMP:20251201T171914
+DTSTART:20260201T173000
+DTEND:20260201T181500
 SUMMARY:🏀 U18 Boys: Solway Torpedoes vs Maccabi Lightening
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Lightening\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:44d7fd9b-c414-49cb-b22c-0a457241e6ca
+UID:a69e8aa7-15a3-4497-a797-af5b56d57918
 SEQUENCE:0
-DTSTAMP:20251130T171445
-DTSTART:20260215T173000
-DTEND:20260215T181500
+DTSTAMP:20251201T171914
+DTSTART:20260208T181500
+DTEND:20260208T190000
 SUMMARY:🏀 U18 Boys: Solway Torpedoes vs Glenbrook Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glenbr
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glenbr
  ook Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:28f68bea-1ec5-441b-a318-deff6f4ff94e
+UID:ce035ae3-8ea4-494b-9df7-62e643dc7c26
 SEQUENCE:0
-DTSTAMP:20251130T171445
-DTSTART:20260222T181500
-DTEND:20260222T190000
+DTSTAMP:20251201T171914
+DTSTART:20260215T173000
+DTEND:20260215T181500
 SUMMARY:🏀 U18 Boys: Solway Torpedoes vs Solway Bullets
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Bullets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:eeeb076a-e48a-443c-bec1-6021d8321443
+UID:44dcc0f5-9582-4edd-b4f3-50b9583e85a5
 SEQUENCE:0
-DTSTAMP:20251130T171445
+DTSTAMP:20251201T171914
 DTSTART:20260301T181500
 DTEND:20260301T190000
 SUMMARY:🏀 U18 Boys: Solway Torpedoes vs Solway Pistons
@@ -83,14 +61,14 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Pistons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:08afdb64-5758-4f0d-9f44-cef18a945106
+UID:38696ffe-9f4f-48b4-aa33-9b052f491b59
 SEQUENCE:0
-DTSTAMP:20251130T171445
+DTSTAMP:20251201T171914
 DTSTART:20260315T173000
 DTEND:20260315T181500
-SUMMARY:🏀 U18 Boys: Solway Torpedoes vs Glen Iris Scorpions Sixers
+SUMMARY:🏀 U18 Boys: Solway Torpedoes vs Maccabi Lightening
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
- ris Scorpions Sixers\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Lightening\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

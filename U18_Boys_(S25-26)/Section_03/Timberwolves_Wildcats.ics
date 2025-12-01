@@ -6,64 +6,53 @@ X-WR-CALNAME:Timberwolves Wildcats Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:6f1f2198-a63d-4b48-9823-a77c766b02f0
+UID:4709375d-18cc-4b27-a3c0-f2d783d2ae4f
 SEQUENCE:0
-DTSTAMP:20251130T171447
-DTSTART:20251207T190000
-DTEND:20251207T194500
+DTSTAMP:20251201T171917
+DTSTART:20251214T181500
+DTEND:20251214T190000
 SUMMARY:🏀 U18 Boys: Timberwolves Wildcats vs Maccabi Bucks
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
  i Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7588949b-8acd-4bf5-b9f6-a0c567e0b5a6
+UID:04eb12ca-264d-4c9a-bfd7-713719ec2b4c
 SEQUENCE:0
-DTSTAMP:20251130T171447
-DTSTART:20251214T181500
-DTEND:20251214T190000
-SUMMARY:🏀 U18 Boys: Timberwolves Wildcats vs Comets Storm
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Comets
-  Storm\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:0f196467-d5e3-4554-91e6-29c8af786f8d
-SEQUENCE:0
-DTSTAMP:20251130T171447
+DTSTAMP:20251201T171917
 DTSTART:20260201T181500
 DTEND:20260201T190000
-SUMMARY:🏀 U18 Boys: Timberwolves Wildcats vs Ferncroft Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ferncr
- oft Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:4f2c9e23-78b3-431d-b0cf-3c7b60c9775d
-SEQUENCE:0
-DTSTAMP:20251130T171447
-DTSTART:20260208T173000
-DTEND:20260208T181500
 SUMMARY:🏀 U18 Boys: Timberwolves Wildcats vs Glen Iris Scorpions Saints
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Saints\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2a25c615-5bb7-4c27-9b5d-f13d7b5b8610
+UID:09282f05-a286-41cc-9a2a-78fdea3e21f1
 SEQUENCE:0
-DTSTAMP:20251130T171447
-DTSTART:20260215T173000
-DTEND:20260215T181500
+DTSTAMP:20251201T171917
+DTSTART:20260208T173000
+DTEND:20260208T181500
 SUMMARY:🏀 U18 Boys: Timberwolves Wildcats vs Timberwolves Wizards
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Wizards\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d1618a48-372e-4898-9d6f-70739c93f17b
+UID:ed11fff8-4e23-48de-a7f3-0ed9641cd46a
 SEQUENCE:0
-DTSTAMP:20251130T171447
+DTSTAMP:20251201T171917
+DTSTART:20260215T181500
+DTEND:20260215T190000
+SUMMARY:🏀 U18 Boys: Timberwolves Wildcats vs Glen Iris Scorpions Sixers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
+ ris Scorpions Sixers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b2b6de0f-abd7-467c-b678-8ef03b7f82fc
+SEQUENCE:0
+DTSTAMP:20251201T171917
 DTSTART:20260222T181500
 DTEND:20260222T190000
 SUMMARY:🏀 U18 Boys: Timberwolves Wildcats vs Maccabi Thunder
@@ -72,25 +61,25 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
  i Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:118ffc90-f187-4349-990a-df79354c059a
+UID:1e063eb5-0261-4309-8a88-4c70b0a4fe9b
 SEQUENCE:0
-DTSTAMP:20251130T171447
+DTSTAMP:20251201T171917
 DTSTART:20260301T190000
 DTEND:20260301T194500
-SUMMARY:🏀 U18 Boys: Timberwolves Wildcats vs Maccabi Vipers
+SUMMARY:🏀 U18 Boys: Timberwolves Wildcats vs Comets Storm
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
- i Vipers\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Comets
+  Storm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c274d777-51f9-401f-bda7-bc5a992e00fc
+UID:ed26a024-f763-4879-a45d-09665d549955
 SEQUENCE:0
-DTSTAMP:20251130T171447
+DTSTAMP:20251201T171917
 DTSTART:20260315T190000
 DTEND:20260315T194500
-SUMMARY:🏀 U18 Boys: Timberwolves Wildcats vs Maccabi Bucks
+SUMMARY:🏀 U18 Boys: Timberwolves Wildcats vs Ferncroft Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
- i Bucks\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ferncr
+ oft Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

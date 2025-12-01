@@ -6,91 +6,80 @@ X-WR-CALNAME:Comets Storm Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:920f24e7-2d0a-4c52-8c71-0bb264b147e7
+UID:535c6b69-85ca-4737-9208-70ab056d1473
 SEQUENCE:0
-DTSTAMP:20251130T171445
-DTSTART:20251207T173000
-DTEND:20251207T181500
+DTSTAMP:20251201T171915
+DTSTART:20251207T181500
+DTEND:20251207T190000
 SUMMARY:🏀 U18 Boys: Comets Storm vs Ferncroft Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ferncr
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ferncr
  oft Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9589e20e-2d21-4ad8-aa68-abac654635db
+UID:c8452fbf-667d-469a-9ed7-8e4754020f5d
 SEQUENCE:0
-DTSTAMP:20251130T171445
-DTSTART:20251214T181500
-DTEND:20251214T190000
-SUMMARY:🏀 U18 Boys: Comets Storm vs Timberwolves Wildcats
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
- wolves Wildcats\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:73c2e017-3e64-42fb-bdb0-e843555e630d
-SEQUENCE:0
-DTSTAMP:20251130T171445
-DTSTART:20260201T173000
-DTEND:20260201T181500
-SUMMARY:🏀 U18 Boys: Comets Storm vs Glen Iris Scorpions Saints
+DTSTAMP:20251201T171915
+DTSTART:20251214T173000
+DTEND:20251214T181500
+SUMMARY:🏀 U18 Boys: Comets Storm vs Glen Iris Scorpions Sixers
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
- ris Scorpions Saints\nArrive 15 mins early for warm-up
+ ris Scorpions Sixers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:648cc57c-5d5b-4d5b-9faf-3d3d0d872ddc
+UID:649bf6df-d51d-40e5-ae01-ee80c403ed0a
 SEQUENCE:0
-DTSTAMP:20251130T171445
-DTSTART:20260208T190000
-DTEND:20260208T194500
+DTSTAMP:20251201T171915
+DTSTART:20260201T190000
+DTEND:20260201T194500
 SUMMARY:🏀 U18 Boys: Comets Storm vs Maccabi Thunder
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f1460de0-c698-46d3-b58b-e4eb4cafe2f3
+UID:fc53ebdd-ff11-495e-a0b4-81e8f368fe8b
 SEQUENCE:0
-DTSTAMP:20251130T171445
-DTSTART:20260215T181500
-DTEND:20260215T190000
+DTSTAMP:20251201T171915
+DTSTART:20260208T181500
+DTEND:20260208T190000
 SUMMARY:🏀 U18 Boys: Comets Storm vs Maccabi Vipers
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Vipers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:34a57c44-0c18-4d06-9502-c1f261a6929b
+UID:8c3c7c83-c32a-4f09-9ca9-fe9ce78b9ad6
 SEQUENCE:0
-DTSTAMP:20251130T171445
-DTSTART:20260222T181500
-DTEND:20260222T190000
+DTSTAMP:20251201T171915
+DTSTART:20260215T173000
+DTEND:20260215T181500
 SUMMARY:🏀 U18 Boys: Comets Storm vs Timberwolves Wizards
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Wizards\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d419ac81-56f3-4fc0-9cca-50d7842adc06
+UID:25774989-4bb8-488e-8bfc-022fcf3946b2
 SEQUENCE:0
-DTSTAMP:20251130T171445
-DTSTART:20260301T181500
-DTEND:20260301T190000
+DTSTAMP:20251201T171915
+DTSTART:20260301T190000
+DTEND:20260301T194500
+SUMMARY:🏀 U18 Boys: Comets Storm vs Timberwolves Wildcats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Wildcats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:158976f2-9620-41c6-af37-0e4e08aa9bee
+SEQUENCE:0
+DTSTAMP:20251201T171915
+DTSTART:20260315T181500
+DTEND:20260315T190000
 SUMMARY:🏀 U18 Boys: Comets Storm vs Maccabi Bucks
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Bucks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:1a8c0903-415a-4df6-89a8-1adc255528c0
-SEQUENCE:0
-DTSTAMP:20251130T171445
-DTSTART:20260315T181500
-DTEND:20260315T190000
-SUMMARY:🏀 U18 Boys: Comets Storm vs Ferncroft Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ferncr
- oft Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

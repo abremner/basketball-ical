@@ -6,91 +6,81 @@ X-WR-CALNAME:Glen Iris Scorpions Saints Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:20427d94-9452-450d-9581-60322de2c1ad
+UID:a3178b53-d5f6-4f55-ba65-5559e07ec36a
 SEQUENCE:0
-DTSTAMP:20251130T171446
+DTSTAMP:20251201T171916
 DTSTART:20251207T181500
 DTEND:20251207T190000
+SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Saints vs Glen Iris Scorpions S
+ ixers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
+ ris Scorpions Sixers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b0aaae73-7e05-432e-91ba-ecc25c3f499d
+SEQUENCE:0
+DTSTAMP:20251201T171916
+DTSTART:20251214T190000
+DTEND:20251214T194500
 SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Saints vs Maccabi Vipers
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Vipers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:27a5b6b3-9f5f-44dd-bfef-17b50a98348a
+UID:e719551f-799e-472c-b43d-a4efa0e43082
 SEQUENCE:0
-DTSTAMP:20251130T171446
-DTSTART:20251214T181500
-DTEND:20251214T190000
-SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Saints vs Maccabi Bucks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
- i Bucks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:82cdb903-acd7-439a-99e9-760d0261166b
-SEQUENCE:0
-DTSTAMP:20251130T171446
-DTSTART:20260201T173000
-DTEND:20260201T181500
-SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Saints vs Comets Storm
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Comets
-  Storm\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:ae7e5b4c-b31d-496d-8493-2402dba1f003
-SEQUENCE:0
-DTSTAMP:20251130T171446
-DTSTART:20260208T173000
-DTEND:20260208T181500
+DTSTAMP:20251201T171916
+DTSTART:20260201T181500
+DTEND:20260201T190000
 SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Saints vs Timberwolves Wildcats
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Wildcats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1d90ee54-858d-4279-bdcf-fc0fd20315eb
+UID:78001704-7caa-48bb-903e-8611575d3a66
 SEQUENCE:0
-DTSTAMP:20251130T171446
-DTSTART:20260215T190000
-DTEND:20260215T194500
+DTSTAMP:20251201T171916
+DTSTART:20260208T190000
+DTEND:20260208T194500
 SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Saints vs Maccabi Thunder
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5362607c-4230-4abf-8d21-9c0e9ea24a8b
+UID:12a9cc5f-5cbd-4ed3-aafe-c82b7ad6fb86
 SEQUENCE:0
-DTSTAMP:20251130T171446
-DTSTART:20260222T190000
-DTEND:20260222T194500
+DTSTAMP:20251201T171916
+DTSTART:20260222T173000
+DTEND:20260222T181500
 SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Saints vs Ferncroft Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ferncr
  oft Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:45fafcb6-0bed-47be-8d6d-79ad15312d0d
+UID:1fa7a4a0-b3d8-4e37-8b86-ad4ff312997e
 SEQUENCE:0
-DTSTAMP:20251130T171446
-DTSTART:20260301T181500
-DTEND:20260301T190000
+DTSTAMP:20251201T171916
+DTSTART:20260301T173000
+DTEND:20260301T181500
+SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Saints vs Maccabi Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cdd37b7f-347e-4201-91ab-ad5f6dd6a8cf
+SEQUENCE:0
+DTSTAMP:20251201T171916
+DTSTART:20260315T181500
+DTEND:20260315T190000
 SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Saints vs Timberwolves Wizards
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Wizards\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:615638ee-8855-4c5b-a3a3-7aab32c992ce
-SEQUENCE:0
-DTSTAMP:20251130T171446
-DTSTART:20260315T173000
-DTEND:20260315T181500
-SUMMARY:🏀 U18 Boys: Glen Iris Scorpions Saints vs Maccabi Vipers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
- i Vipers\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

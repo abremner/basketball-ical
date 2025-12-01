@@ -6,91 +6,80 @@ X-WR-CALNAME:Ferncroft Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:947a1e3f-04e2-45a8-83d5-b894870c763f
+UID:0f515c50-8a15-4ac8-8c45-f66d3d7dfaba
 SEQUENCE:0
-DTSTAMP:20251130T171446
-DTSTART:20251207T173000
-DTEND:20251207T181500
+DTSTAMP:20251201T171915
+DTSTART:20251207T181500
+DTEND:20251207T190000
 SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Comets Storm
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Comets
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Comets
   Storm\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5c40be80-f32e-4883-b067-e03eaa5379b7
+UID:3246eefe-e135-4e33-85f9-553c703d14b7
 SEQUENCE:0
-DTSTAMP:20251130T171446
-DTSTART:20251214T190000
-DTEND:20251214T194500
-SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Timberwolves Wizards
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
- wolves Wizards\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5fbd3772-15e4-4cfa-b303-4b6ade9eabe6
-SEQUENCE:0
-DTSTAMP:20251130T171446
-DTSTART:20260201T181500
-DTEND:20260201T190000
-SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Timberwolves Wildcats
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
- wolves Wildcats\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:b0e81182-9789-4dfe-ae2b-3a30b37387ff
-SEQUENCE:0
-DTSTAMP:20251130T171446
-DTSTART:20260208T181500
-DTEND:20260208T190000
+DTSTAMP:20251201T171915
+DTSTART:20260201T173000
+DTEND:20260201T181500
 SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Maccabi Vipers
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Vipers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0d49d643-67df-4861-a022-a3d50042427e
+UID:4ba8cb53-e769-4fa8-93ca-1964fd564fa9
 SEQUENCE:0
-DTSTAMP:20251130T171446
-DTSTART:20260215T181500
-DTEND:20260215T190000
+DTSTAMP:20251201T171915
+DTSTART:20260208T181500
+DTEND:20260208T190000
+SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Glen Iris Scorpions Sixers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
+ ris Scorpions Sixers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dd8922fc-a153-4b97-892f-58b3dc390491
+SEQUENCE:0
+DTSTAMP:20251201T171915
+DTSTART:20260215T190000
+DTEND:20260215T194500
 SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Maccabi Bucks
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f247f22c-f160-494d-b8fb-cbc68e176e20
+UID:61947e3b-94a6-4186-84a5-a9c5e62ad3ed
 SEQUENCE:0
-DTSTAMP:20251130T171446
-DTSTART:20260222T190000
-DTEND:20260222T194500
+DTSTAMP:20251201T171915
+DTSTART:20260222T173000
+DTEND:20260222T181500
 SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Glen Iris Scorpions Saints
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Saints\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c6bd3325-66f2-4478-bbd4-461cdc4f07df
+UID:f00e7566-a064-431a-ae94-631860f58567
 SEQUENCE:0
-DTSTAMP:20251130T171446
-DTSTART:20260301T173000
-DTEND:20260301T181500
+DTSTAMP:20251201T171915
+DTSTART:20260301T181500
+DTEND:20260301T190000
 SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Maccabi Thunder
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:618880ea-044b-44ec-9a83-d5c7e8491186
+UID:ee207866-b1bd-46ab-8545-3a9c4d4dbd84
 SEQUENCE:0
-DTSTAMP:20251130T171446
-DTSTART:20260315T181500
-DTEND:20260315T190000
-SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Comets Storm
+DTSTAMP:20251201T171915
+DTSTART:20260315T190000
+DTEND:20260315T194500
+SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Timberwolves Wildcats
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Comets
-  Storm\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Wildcats\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

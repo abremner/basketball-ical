@@ -6,64 +6,53 @@ X-WR-CALNAME:Solway Pistons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:ac40da76-55cd-45d5-bfb7-c22b581152bf
+UID:81f2865d-3a0f-4960-a0e5-313eb44e3838
 SEQUENCE:0
-DTSTAMP:20251130T171444
-DTSTART:20251207T181500
-DTEND:20251207T190000
+DTSTAMP:20251201T171914
+DTSTART:20251207T173000
+DTEND:20251207T181500
 SUMMARY:🏀 U18 Boys: Solway Pistons vs Glenbrook Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glenbr
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glenbr
  ook Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:05ebedf7-0a54-4755-b7e9-f2ca745827e6
+UID:c8afc695-82a7-40d4-962f-0a1ec24785e0
 SEQUENCE:0
-DTSTAMP:20251130T171444
-DTSTART:20251214T173000
-DTEND:20251214T181500
+DTSTAMP:20251201T171914
+DTSTART:20251214T181500
+DTEND:20251214T190000
 SUMMARY:🏀 U18 Boys: Solway Pistons vs Solway Torpedoes
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Torpedoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b4ca96fa-3c98-4f34-a2a9-6838de8a08b5
+UID:e757fb89-c10f-42f4-917e-6586e811136b
 SEQUENCE:0
-DTSTAMP:20251130T171444
-DTSTART:20260201T173000
-DTEND:20260201T181500
+DTSTAMP:20251201T171914
+DTSTART:20260208T173000
+DTEND:20260208T181500
 SUMMARY:🏀 U18 Boys: Solway Pistons vs Solway Bullets
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
   Bullets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c8a27b24-cb9d-419f-907d-a8cc20433116
+UID:a8d9def0-6b4b-4d39-8884-6a6dd5627b16
 SEQUENCE:0
-DTSTAMP:20251130T171444
-DTSTART:20260208T181500
-DTEND:20260208T190000
-SUMMARY:🏀 U18 Boys: Solway Pistons vs Glen Iris Scorpions Sixers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glen I
- ris Scorpions Sixers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:d8fddbaf-d7cf-42a9-9ad4-fbbb95774b28
-SEQUENCE:0
-DTSTAMP:20251130T171444
-DTSTART:20260215T173000
-DTEND:20260215T181500
+DTSTAMP:20251201T171914
+DTSTART:20260215T181500
+DTEND:20260215T190000
 SUMMARY:🏀 U18 Boys: Solway Pistons vs Maccabi Lightening
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
  i Lightening\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:368049b3-697d-49c4-8bab-c57e1cc8ddef
+UID:f8ddf2eb-4c98-4f40-9af2-06ae966f6c40
 SEQUENCE:0
-DTSTAMP:20251130T171444
+DTSTAMP:20251201T171914
 DTSTART:20260222T173000
 DTEND:20260222T181500
 SUMMARY:🏀 U18 Boys: Solway Pistons vs Glenbrook Piranhas
@@ -72,25 +61,14 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glenbr
  ook Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:03244aee-d308-4a33-9d67-5618a685e27a
+UID:c930cbb9-aff8-451d-8265-d60c5231aba1
 SEQUENCE:0
-DTSTAMP:20251130T171444
+DTSTAMP:20251201T171914
 DTSTART:20260301T181500
 DTEND:20260301T190000
 SUMMARY:🏀 U18 Boys: Solway Pistons vs Solway Torpedoes
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Torpedoes\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:b4cba265-5208-44ce-b8b4-df2e8f6b565d
-SEQUENCE:0
-DTSTAMP:20251130T171444
-DTSTART:20260315T181500
-DTEND:20260315T190000
-SUMMARY:🏀 U18 Boys: Solway Pistons vs Solway Bullets
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
-  Bullets\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR
