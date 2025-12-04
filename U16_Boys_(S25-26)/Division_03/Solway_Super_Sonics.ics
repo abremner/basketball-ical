@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Super Sonics Fixtures
+X-WR-CALNAME:Solway Super Sonics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7c4c30bc-b7a3-4eeb-9eb5-65bf03826cea
+SEQUENCE:0
+DTSTAMP:20251204T172046
+DTSTART:20251206T174500
+DTEND:20251206T183000
+SUMMARY:🏀 U16 Boys: Solway Super Sonics vs Timberwolves Magnum
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Magnum\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3e8da04c-849a-4a4d-b23f-9cbb2c9d4b9d
+SEQUENCE:0
+DTSTAMP:20251204T172046
+DTSTART:20251213T174500
+DTEND:20251213T183000
+SUMMARY:🏀 U16 Boys: Solway Super Sonics vs Toorak Tyrants
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
+  Tyrants\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9b7a8499-eced-4bb8-a85f-b6c66820555d
+SEQUENCE:0
+DTSTAMP:20251204T172046
+DTSTART:20260131T191500
+DTEND:20260131T200000
+SUMMARY:🏀 U16 Boys: Solway Super Sonics vs Timberwolves Nuggets
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Nuggets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:99fd4736-805a-4dd4-8db7-03b81c396072
+SEQUENCE:0
+DTSTAMP:20251204T172046
+DTSTART:20260207T191500
+DTEND:20260207T200000
+SUMMARY:🏀 U16 Boys: Solway Super Sonics vs Timberwolves Cats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Cats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dabcba82-9540-4ff2-aa8a-2f67e0c4679c
+SEQUENCE:0
+DTSTAMP:20251204T172046
+DTSTART:20260221T191500
+DTEND:20260221T200000
+SUMMARY:🏀 U16 Boys: Solway Super Sonics vs Malvern Tigers Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2cac783c-8dd0-4a0a-b4b8-1945b8d93540
+SEQUENCE:0
+DTSTAMP:20251204T172046
+DTSTART:20260228T183000
+DTEND:20260228T191500
+SUMMARY:🏀 U16 Boys: Solway Super Sonics vs Maccabi Half Court Miracles
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Half Court Miracles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5f99d761-63b9-499b-ab60-bfe831f310b6
+SEQUENCE:0
+DTSTAMP:20251204T172046
+DTSTART:20260314T183000
+DTEND:20260314T191500
+SUMMARY:🏀 U16 Boys: Solway Super Sonics vs Solway Blazers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Blazers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

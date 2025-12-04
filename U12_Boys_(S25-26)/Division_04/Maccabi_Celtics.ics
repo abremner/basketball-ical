@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1d095177-903a-45e1-b395-91bcec6176e8
+SEQUENCE:0
+DTSTAMP:20251204T171903
+DTSTART:20251213T144500
+DTEND:20251213T153000
+SUMMARY:🏀 U12 Boys: Maccabi Celtics vs Timberwolves Heat
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Heat\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ca44d1fa-6ce1-4b36-add9-8c182f0476b0
+SEQUENCE:0
+DTSTAMP:20251204T171903
+DTSTART:20260131T144500
+DTEND:20260131T153000
+SUMMARY:🏀 U12 Boys: Maccabi Celtics vs AlphaWolf Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: AlphaWo
+ lf Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b487a0d0-4652-4709-9086-e3c077db62c0
+SEQUENCE:0
+DTSTAMP:20251204T171903
+DTSTART:20260207T144500
+DTEND:20260207T153000
+SUMMARY:🏀 U12 Boys: Maccabi Celtics vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e3efe6d2-4c84-45f3-ad76-a9c0d9ae5b58
+SEQUENCE:0
+DTSTAMP:20251204T171903
+DTSTART:20260214T140000
+DTEND:20260214T144500
+SUMMARY:🏀 U12 Boys: Maccabi Celtics vs Malvern Tigers Brown
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Brown\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:01a46564-b6c4-4cdf-a5a1-f29941e464f9
+SEQUENCE:0
+DTSTAMP:20251204T171903
+DTSTART:20260221T144500
+DTEND:20260221T153000
+SUMMARY:🏀 U12 Boys: Maccabi Celtics vs Malvern Tigers Orange
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9b76976d-760e-4ee4-b804-3a22a0ac1240
+SEQUENCE:0
+DTSTAMP:20251204T171903
+DTSTART:20260228T140000
+DTEND:20260228T144500
+SUMMARY:🏀 U12 Boys: Maccabi Celtics vs Heywood Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Heywoo
+ d Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

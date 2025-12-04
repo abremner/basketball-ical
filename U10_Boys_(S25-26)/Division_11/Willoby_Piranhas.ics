@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Willoby Piranhas Fixtures
+X-WR-CALNAME:Willoby Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3c7b4edb-6782-49cd-bc47-dd1605b67b56
+SEQUENCE:0
+DTSTAMP:20251204T171825
+DTSTART:20251206T080000
+DTEND:20251206T084500
+SUMMARY:🏀 U10 Boys: Willoby Piranhas vs Malvern Tigers Maroon
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Maroon\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:74a41acd-7b47-44bc-84cf-2c74d99de08a
+SEQUENCE:0
+DTSTAMP:20251204T171825
+DTSTART:20251213T084500
+DTEND:20251213T093000
+SUMMARY:🏀 U10 Boys: Willoby Piranhas vs Maccabi Jaguars
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Jaguars\nArrive 15 mi
+ ns early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2b13d977-35e6-4343-b067-6267e4dc4f06
+SEQUENCE:0
+DTSTAMP:20251204T171825
+DTSTART:20260131T080000
+DTEND:20260131T084500
+SUMMARY:🏀 U10 Boys: Willoby Piranhas vs Bambra Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Bambra
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cd99d829-f1ed-4675-9418-9d464d26a58c
+SEQUENCE:0
+DTSTAMP:20251204T171825
+DTSTART:20260207T080000
+DTEND:20260207T084500
+SUMMARY:🏀 U10 Boys: Willoby Piranhas vs Timberwolves Legends
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Legends\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a52cc9ca-8a45-4493-b4a4-6277802d5084
+SEQUENCE:0
+DTSTAMP:20251204T171825
+DTSTART:20260221T093000
+DTEND:20260221T101500
+SUMMARY:🏀 U10 Boys: Willoby Piranhas vs Maccabi Hawks
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Hawks\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:320ecbd0-256f-473d-b324-5d345cc9ee40
+SEQUENCE:0
+DTSTAMP:20251204T171825
+DTSTART:20260228T084500
+DTEND:20260228T093000
+SUMMARY:🏀 U10 Boys: Willoby Piranhas vs Ashy Lightning White
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Ashy Lightning White\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a5feb4e3-5b30-42d5-bed4-d3b017f99e54
+SEQUENCE:0
+DTSTAMP:20251204T171825
+DTSTART:20260314T093000
+DTEND:20260314T101500
+SUMMARY:🏀 U10 Boys: Willoby Piranhas vs Malvern Tigers Maroon
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Maroon\nArrive
+  15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

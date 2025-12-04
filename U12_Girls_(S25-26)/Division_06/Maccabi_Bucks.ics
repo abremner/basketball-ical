@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ae9377fe-247b-4534-a005-9ba2ac10b05c
+SEQUENCE:0
+DTSTAMP:20251204T171944
+DTSTART:20251206T140000
+DTEND:20251206T144500
+SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Maccabi Eagles
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Eag
+ les\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9ad7e118-af6e-4e03-9630-29a3e1fdf499
+SEQUENCE:0
+DTSTAMP:20251204T171944
+DTSTART:20251213T140000
+DTEND:20251213T144500
+SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Timberwolves Pearls
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Timberwolve
+ s Pearls\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4831af99-2bb9-463b-ad7f-418dd840eeb3
+SEQUENCE:0
+DTSTAMP:20251204T171944
+DTSTART:20260207T131500
+DTEND:20260207T140000
+SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Solway Red Robins
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Red Robins\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f7bf1a7c-41ea-487f-9fe3-4dfd8e28896e
+SEQUENCE:0
+DTSTAMP:20251204T171944
+DTSTART:20260214T123000
+DTEND:20260214T131500
+SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Lauriston Storm
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Laurist
+ on Storm\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6ef26037-74e1-47ac-aa32-9cba2b27b27e
+SEQUENCE:0
+DTSTAMP:20251204T171944
+DTSTART:20260221T131500
+DTEND:20260221T140000
+SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Creswick Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Creswic
+ k Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1a07636d-3283-4dab-b37e-5f00360fdde6
+SEQUENCE:0
+DTSTAMP:20251204T171944
+DTSTART:20260228T140000
+DTEND:20260228T144500
+SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Solway Sparrows
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Spar
+ rows\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7e53e404-083f-4edb-98d1-e8a1937311ad
+SEQUENCE:0
+DTSTAMP:20251204T171944
+DTSTART:20260314T140000
+DTEND:20260314T144500
+SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Maccabi Ducks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Duc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

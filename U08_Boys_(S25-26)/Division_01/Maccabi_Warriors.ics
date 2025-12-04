@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Warriors Fixtures
+X-WR-CALNAME:Maccabi Warriors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:53ef003b-7125-4421-a97d-02fbfd04d8e6
+SEQUENCE:0
+DTSTAMP:20251204T171721
+DTSTART:20251206T114500
+DTEND:20251206T123000
+SUMMARY:🏀 U08 Boys: Maccabi Warriors vs Malvern Tigers Daniels
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Daniels\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2ac671fd-6e1a-4e2c-83a9-df64d05cea76
+SEQUENCE:0
+DTSTAMP:20251204T171721
+DTSTART:20260131T093000
+DTEND:20260131T101500
+SUMMARY:🏀 U08 Boys: Maccabi Warriors vs Timberwolves Blasters
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Blasters\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2de80476-ab73-4362-bcfa-1075c7482d86
+SEQUENCE:0
+DTSTAMP:20251204T171721
+DTSTART:20260207T114500
+DTEND:20260207T123000
+SUMMARY:🏀 U08 Boys: Maccabi Warriors vs Claremont Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Claremo
+ nt Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ae1269d6-2b44-4341-8ea7-383cf0b5ed6a
+SEQUENCE:0
+DTSTAMP:20251204T171721
+DTSTART:20260214T093000
+DTEND:20260214T101500
+SUMMARY:🏀 U08 Boys: Maccabi Warriors vs Ashy Lightning Gold
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
+ ghtning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ebfa4fdd-4f9c-4da2-b7e4-d2df2f4a967f
+SEQUENCE:0
+DTSTAMP:20251204T171721
+DTSTART:20260221T114500
+DTEND:20260221T123000
+SUMMARY:🏀 U08 Boys: Maccabi Warriors vs Malvern Tigers Daniels
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Daniels\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:244a836d-02d7-4f3b-9e8a-e43fdda4b0dd
+SEQUENCE:0
+DTSTAMP:20251204T171721
+DTSTART:20260314T093000
+DTEND:20260314T101500
+SUMMARY:🏀 U08 Boys: Maccabi Warriors vs Timberwolves Blasters
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Blasters\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

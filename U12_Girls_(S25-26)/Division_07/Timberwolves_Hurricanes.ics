@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Hurricanes Fixtures
+X-WR-CALNAME:Timberwolves Hurricanes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:73a95862-9f6c-414f-8fcc-82e5ee4651a8
+SEQUENCE:0
+DTSTAMP:20251204T171949
+DTSTART:20251206T131500
+DTEND:20251206T140000
+SUMMARY:🏀 U12 Girls: Timberwolves Hurricanes vs Ashy Lightning Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
+ ightning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fa048818-8d58-4192-af81-e492b10a0766
+SEQUENCE:0
+DTSTAMP:20251204T171949
+DTSTART:20251213T131500
+DTEND:20251213T140000
+SUMMARY:🏀 U12 Girls: Timberwolves Hurricanes vs Malvern Tigers Orange
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cb0fa903-4407-4b70-9f5c-5bfcc9030cc8
+SEQUENCE:0
+DTSTAMP:20251204T171949
+DTSTART:20260131T131500
+DTEND:20260131T140000
+SUMMARY:🏀 U12 Girls: Timberwolves Hurricanes vs Ashy Lightning White
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
+ ing White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:801c379c-a12c-42d5-a994-52fda9d2d8e4
+SEQUENCE:0
+DTSTAMP:20251204T171949
+DTSTART:20260207T123000
+DTEND:20260207T131500
+SUMMARY:🏀 U12 Girls: Timberwolves Hurricanes vs Lauriston Suns
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Lauris
+ ton Suns\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e9de829a-a882-4476-9950-235b4e45dd89
+SEQUENCE:0
+DTSTAMP:20251204T171949
+DTSTART:20260221T123000
+DTEND:20260221T131500
+SUMMARY:🏀 U12 Girls: Timberwolves Hurricanes vs Maccabi Giants
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Giants\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fd068b99-71dc-4900-a6f8-d0efccf64416
+SEQUENCE:0
+DTSTAMP:20251204T171949
+DTSTART:20260228T131500
+DTEND:20260228T140000
+SUMMARY:🏀 U12 Girls: Timberwolves Hurricanes vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:206d0378-fac1-4b09-93c8-99ab78dbb3b8
+SEQUENCE:0
+DTSTAMP:20251204T171949
+DTSTART:20260314T131500
+DTEND:20260314T140000
+SUMMARY:🏀 U12 Girls: Timberwolves Hurricanes vs Ashy Lightning Yellow
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
+ ing Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

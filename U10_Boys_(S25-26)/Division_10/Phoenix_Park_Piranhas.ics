@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Phoenix Park Piranhas Fixtures
+X-WR-CALNAME:Phoenix Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:269feea9-c486-4783-adc3-62e1d5b97bdc
+SEQUENCE:0
+DTSTAMP:20251204T171820
+DTSTART:20251213T114500
+DTEND:20251213T123000
+SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Maccabi Giants
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Giants\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:397aafc4-77cc-4aaa-8112-4b38bcc3764d
+SEQUENCE:0
+DTSTAMP:20251204T171820
+DTSTART:20260131T101500
+DTEND:20260131T110000
+SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Toorak Tycoons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Tycoons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:86c1c725-e7a9-4457-b18d-24a389a73a42
+SEQUENCE:0
+DTSTAMP:20251204T171820
+DTSTART:20260207T114500
+DTEND:20260207T123000
+SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Koornang Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Koorna
+ ng Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9a87559f-87f0-487d-b42b-5c1080b03eb1
+SEQUENCE:0
+DTSTAMP:20251204T171820
+DTSTART:20260214T101500
+DTEND:20260214T110000
+SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Hawksburn Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Hawksburn Piranhas\nArrive 15
+  mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a2917242-3fdf-4326-b582-61a614375896
+SEQUENCE:0
+DTSTAMP:20251204T171820
+DTSTART:20260221T101500
+DTEND:20260221T110000
+SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs East Malvern Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: East Malvern Piranhas\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9fdb2691-78bf-4788-816b-e970c93fbd46
+SEQUENCE:0
+DTSTAMP:20251204T171820
+DTSTART:20260228T110000
+DTEND:20260228T114500
+SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs AlphaWolf Tigers
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: AlphaWolf Tigers\nArrive 15 m
+ ins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5a67ff19-2a22-4743-8f75-1f684be7f0a5
+SEQUENCE:0
+DTSTAMP:20251204T171820
+DTSTART:20260314T080000
+DTEND:20260314T084500
+SUMMARY:🏀 U10 Boys: Phoenix Park Piranhas vs Malvern Tigers Grey
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Grey\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

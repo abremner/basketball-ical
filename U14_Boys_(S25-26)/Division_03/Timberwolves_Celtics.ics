@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Celtics Fixtures
+X-WR-CALNAME:Timberwolves Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:134793db-56e2-4e0b-bb7c-5860d261d29e
+SEQUENCE:0
+DTSTAMP:20251204T171959
+DTSTART:20251206T174500
+DTEND:20251206T183000
+SUMMARY:🏀 U14 Boys: Timberwolves Celtics vs AlphaWolf Hustle
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: AlphaWo
+ lf Hustle\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:95cae0bd-8d36-4308-a237-e788f22fbec0
+SEQUENCE:0
+DTSTAMP:20251204T171959
+DTSTART:20260207T170000
+DTEND:20260207T174500
+SUMMARY:🏀 U14 Boys: Timberwolves Celtics vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c2296ccf-abe2-4431-94a7-b9e9701c5964
+SEQUENCE:0
+DTSTAMP:20251204T171959
+DTSTART:20260214T174500
+DTEND:20260214T183000
+SUMMARY:🏀 U14 Boys: Timberwolves Celtics vs Malvern Tigers Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e5c0c9c2-a875-4c46-9973-6d81af36a585
+SEQUENCE:0
+DTSTAMP:20251204T171959
+DTSTART:20260221T174500
+DTEND:20260221T183000
+SUMMARY:🏀 U14 Boys: Timberwolves Celtics vs Solway Titans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Titans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c1ac81ee-580c-44a3-b37d-ed767f31f94f
+SEQUENCE:0
+DTSTAMP:20251204T171959
+DTSTART:20260228T153000
+DTEND:20260228T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Celtics vs Toorak Tomcats
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Tomcats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:557bb4bd-1a4e-46a9-acfa-e754fc985837
+SEQUENCE:0
+DTSTAMP:20251204T171959
+DTSTART:20260314T174500
+DTEND:20260314T183000
+SUMMARY:🏀 U14 Boys: Timberwolves Celtics vs AlphaWolf Hustle
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: AlphaWo
+ lf Hustle\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

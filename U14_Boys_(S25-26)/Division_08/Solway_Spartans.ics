@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Spartans Fixtures
+X-WR-CALNAME:Solway Spartans Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a26f2532-490c-4533-be9d-ef934c6e7724
+SEQUENCE:0
+DTSTAMP:20251204T172014
+DTSTART:20251206T153000
+DTEND:20251206T161500
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Timberwolves Dragons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Dragons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a02c03fd-4c2c-4781-8e39-a6a670d3ac28
+SEQUENCE:0
+DTSTAMP:20251204T172014
+DTSTART:20251213T161500
+DTEND:20251213T170000
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Malvern Tigers Brown
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Brown\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:59f41c77-dea6-4ee5-bd43-1c6e6c623d70
+SEQUENCE:0
+DTSTAMP:20251204T172014
+DTSTART:20260131T161500
+DTEND:20260131T170000
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Beckett Park Piranhas
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Beckett Park Piranhas\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8ad89538-1ad4-4b39-a900-724a7ff537b2
+SEQUENCE:0
+DTSTAMP:20251204T172014
+DTSTART:20260207T153000
+DTEND:20260207T161500
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Prahran Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Prahran Piranhas\nArrive 15 m
+ ins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9d2d6520-8a1e-4d5a-a201-1497d50e3e41
+SEQUENCE:0
+DTSTAMP:20251204T172014
+DTSTART:20260214T153000
+DTEND:20260214T161500
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Timberwolves Raptors
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Raptors\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ed568540-41a0-4acf-a426-092daa3896a5
+SEQUENCE:0
+DTSTAMP:20251204T172014
+DTSTART:20260221T153000
+DTEND:20260221T161500
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Timberwolves Dragons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Dragons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1915a1d6-33a3-4aed-bcda-1d31313ae304
+SEQUENCE:0
+DTSTAMP:20251204T172014
+DTSTART:20260228T153000
+DTEND:20260228T161500
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Malvern Tigers Brown
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Brown\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:81baea8f-6289-40f5-88d6-6bff88e154a8
+SEQUENCE:0
+DTSTAMP:20251204T172014
+DTSTART:20260314T161500
+DTEND:20260314T170000
+SUMMARY:🏀 U14 Boys: Solway Spartans vs Beckett Park Piranhas
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Beckett Park Piranhas\nArrive
+  15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

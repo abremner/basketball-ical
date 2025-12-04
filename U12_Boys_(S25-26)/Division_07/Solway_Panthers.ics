@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Panthers Fixtures
+X-WR-CALNAME:Solway Panthers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3d57dadf-d774-45e4-89a2-b6da0a5c878f
+SEQUENCE:0
+DTSTAMP:20251204T171914
+DTSTART:20251206T123000
+DTEND:20251206T131500
+SUMMARY:🏀 U12 Boys: Solway Panthers vs Malvern Tigers Maroon
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Maroon\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a138161b-7253-456f-91ff-322c6544688d
+SEQUENCE:0
+DTSTAMP:20251204T171914
+DTSTART:20251213T131500
+DTEND:20251213T140000
+SUMMARY:🏀 U12 Boys: Solway Panthers vs Timberwolves Chargers
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Chargers\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:88d7f2ff-0e87-426f-a2af-84772e3697fe
+SEQUENCE:0
+DTSTAMP:20251204T171914
+DTSTART:20260131T123000
+DTEND:20260131T131500
+SUMMARY:🏀 U12 Boys: Solway Panthers vs Timberwolves Suns
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Suns\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5ceef862-f94f-42b9-a3dc-2c6c3eec442e
+SEQUENCE:0
+DTSTAMP:20251204T171914
+DTSTART:20260207T123000
+DTEND:20260207T131500
+SUMMARY:🏀 U12 Boys: Solway Panthers vs Balaclava Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Balacl
+ ava Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c11cab2e-e0ed-4f33-ab83-dc587aadbe02
+SEQUENCE:0
+DTSTAMP:20251204T171914
+DTSTART:20260214T131500
+DTEND:20260214T140000
+SUMMARY:🏀 U12 Boys: Solway Panthers vs Central Park Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Central Park Piranhas\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ae0ee0c9-9c0e-4afa-b31e-2117b991329f
+SEQUENCE:0
+DTSTAMP:20251204T171914
+DTSTART:20260221T131500
+DTEND:20260221T140000
+SUMMARY:🏀 U12 Boys: Solway Panthers vs Solway  Devils
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+  Devils\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fc27972b-278c-4eb6-ad88-c0e4fe07768c
+SEQUENCE:0
+DTSTAMP:20251204T171914
+DTSTART:20260228T123000
+DTEND:20260228T131500
+SUMMARY:🏀 U12 Boys: Solway Panthers vs Golden Hawks Rising
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Golden
+  Hawks Rising\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2b7a67ab-41da-40ff-a9ac-05fd9b9270c0
+SEQUENCE:0
+DTSTAMP:20251204T171914
+DTSTART:20260314T131500
+DTEND:20260314T140000
+SUMMARY:🏀 U12 Boys: Solway Panthers vs Malvern Tigers Maroon
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Maroon\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

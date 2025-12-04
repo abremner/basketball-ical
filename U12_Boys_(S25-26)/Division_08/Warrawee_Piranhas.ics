@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Warrawee Piranhas Fixtures
+X-WR-CALNAME:Warrawee Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5b1c269d-4848-4343-9209-671db68414e0
+SEQUENCE:0
+DTSTAMP:20251204T171919
+DTSTART:20251206T123000
+DTEND:20251206T131500
+SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Maccabi Kings
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Kings\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:42208ad1-3d3e-4b8d-b40a-8ff138e386ec
+SEQUENCE:0
+DTSTAMP:20251204T171919
+DTSTART:20251213T131500
+DTEND:20251213T140000
+SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Maccabi Hawks
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Hawks\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2d15935a-bff4-49ab-99fb-4ae417598b00
+SEQUENCE:0
+DTSTAMP:20251204T171919
+DTSTART:20260207T123000
+DTEND:20260207T131500
+SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Glen Iris Scorpions Nettleton
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
+ is Scorpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:48f835a5-8e30-48c1-bac3-8d7d6ebd6831
+SEQUENCE:0
+DTSTAMP:20251204T171919
+DTSTART:20260214T123000
+DTEND:20260214T131500
+SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Maccabi Jaguars
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Jaguars\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1f080783-e3bf-4063-8f66-d1ff3df4e28e
+SEQUENCE:0
+DTSTAMP:20251204T171919
+DTSTART:20260221T123000
+DTEND:20260221T131500
+SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs SE Venom RBT Spurs
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: SE Ven
+ om RBT Spurs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2ff07938-a019-48c0-a297-5658d4481005
+SEQUENCE:0
+DTSTAMP:20251204T171919
+DTSTART:20260228T131500
+DTEND:20260228T140000
+SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Golden Hawks Iron
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Golden 
+ Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7a3b9f5e-8b5b-47e6-8aea-02b3086cc384
+SEQUENCE:0
+DTSTAMP:20251204T171919
+DTSTART:20260314T131500
+DTEND:20260314T140000
+SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Ashy Lightning Yellow
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Ashy Lightning Yellow\nArrive
+  15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

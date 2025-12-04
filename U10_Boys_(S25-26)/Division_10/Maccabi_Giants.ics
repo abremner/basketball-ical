@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Giants Fixtures
+X-WR-CALNAME:Maccabi Giants Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a740328e-3f40-449f-9fe9-8dfe9be9ebd8
+SEQUENCE:0
+DTSTAMP:20251204T171819
+DTSTART:20251206T080000
+DTEND:20251206T084500
+SUMMARY:🏀 U10 Boys: Maccabi Giants vs Koornang Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Koorna
+ ng Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b83a601e-ed6a-4bf6-bddd-ed3ff2b90691
+SEQUENCE:0
+DTSTAMP:20251204T171819
+DTSTART:20251213T114500
+DTEND:20251213T123000
+SUMMARY:🏀 U10 Boys: Maccabi Giants vs Phoenix Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Phoeni
+ x Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2681928c-471b-4299-b273-d135689cc8ea
+SEQUENCE:0
+DTSTAMP:20251204T171819
+DTSTART:20260131T101500
+DTEND:20260131T110000
+SUMMARY:🏀 U10 Boys: Maccabi Giants vs AlphaWolf Tigers
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: AlphaWolf Tigers\nArrive 15 m
+ ins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ff61783f-17ed-4976-94f1-7b425c2bf859
+SEQUENCE:0
+DTSTAMP:20251204T171819
+DTSTART:20260207T101500
+DTEND:20260207T110000
+SUMMARY:🏀 U10 Boys: Maccabi Giants vs SE Venom Magic
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: SE Venom Magic\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6f25b42f-5127-454c-bc4e-e03a332e3fa9
+SEQUENCE:0
+DTSTAMP:20251204T171819
+DTSTART:20260214T080000
+DTEND:20260214T084500
+SUMMARY:🏀 U10 Boys: Maccabi Giants vs Timberwolves Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:39abbec6-d678-46a4-974c-d213cd0888d8
+SEQUENCE:0
+DTSTAMP:20251204T171819
+DTSTART:20260221T114500
+DTEND:20260221T123000
+SUMMARY:🏀 U10 Boys: Maccabi Giants vs Malvern Tigers Grey
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Grey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:123d2ec5-f582-4e39-973e-811a9637d3e9
+SEQUENCE:0
+DTSTAMP:20251204T171819
+DTSTART:20260228T101500
+DTEND:20260228T110000
+SUMMARY:🏀 U10 Boys: Maccabi Giants vs East Malvern Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: East M
+ alvern Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

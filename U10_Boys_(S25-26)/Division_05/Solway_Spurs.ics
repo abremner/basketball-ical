@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Spurs Fixtures
+X-WR-CALNAME:Solway Spurs Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ccfd5e57-ff3d-4396-80a7-eabe3bad1ef2
+SEQUENCE:0
+DTSTAMP:20251204T171806
+DTSTART:20251206T101500
+DTEND:20251206T110000
+SUMMARY:🏀 U10 Boys: Solway Spurs vs Dendy Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Dendy 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7b884f2d-b479-416a-a344-94f9f001f691
+SEQUENCE:0
+DTSTAMP:20251204T171806
+DTSTART:20251213T093000
+DTEND:20251213T101500
+SUMMARY:🏀 U10 Boys: Solway Spurs vs Penpraze Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Penpra
+ ze Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5aabbc5b-b6b4-4f63-ae60-8fbd51fab279
+SEQUENCE:0
+DTSTAMP:20251204T171806
+DTSTART:20260131T093000
+DTEND:20260131T101500
+SUMMARY:🏀 U10 Boys: Solway Spurs vs AlphaWolf Kings
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AlphaW
+ olf Kings\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3bbb68b7-5351-4bf5-a3d2-ab0b7b3e7efe
+SEQUENCE:0
+DTSTAMP:20251204T171806
+DTSTART:20260207T110000
+DTEND:20260207T114500
+SUMMARY:🏀 U10 Boys: Solway Spurs vs Malvern Tigers Green
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Green\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dbe3766c-0ef8-44d7-a351-c09e4093650f
+SEQUENCE:0
+DTSTAMP:20251204T171806
+DTSTART:20260221T110000
+DTEND:20260221T114500
+SUMMARY:🏀 U10 Boys: Solway Spurs vs Maccabi Celtics
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Celtics\nArrive 15 mi
+ ns early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ddea1fe6-b760-4a2e-9824-5311b5d1a588
+SEQUENCE:0
+DTSTAMP:20251204T171806
+DTSTART:20260228T101500
+DTEND:20260228T110000
+SUMMARY:🏀 U10 Boys: Solway Spurs vs Malvern Tigers White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7f490afe-c8e0-4c25-96f1-d577168ff9a3
+SEQUENCE:0
+DTSTAMP:20251204T171806
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U10 Boys: Solway Spurs vs Malvern Tigers Orange
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

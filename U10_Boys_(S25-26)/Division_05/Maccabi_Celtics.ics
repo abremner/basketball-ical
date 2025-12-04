@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5b26069f-fbc2-475e-9fdb-73f97f44cea6
+SEQUENCE:0
+DTSTAMP:20251204T171804
+DTSTART:20251206T110000
+DTEND:20251206T114500
+SUMMARY:🏀 U10 Boys: Maccabi Celtics vs Malvern Tigers Orange
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Orange\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:521cc0c8-6a2f-4d83-8ddd-7be3f0b249df
+SEQUENCE:0
+DTSTAMP:20251204T171804
+DTSTART:20260131T101500
+DTEND:20260131T110000
+SUMMARY:🏀 U10 Boys: Maccabi Celtics vs Dendy Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Dendy 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d3e81512-2360-40ab-8c30-f3ae6d0be602
+SEQUENCE:0
+DTSTAMP:20251204T171804
+DTSTART:20260207T101500
+DTEND:20260207T110000
+SUMMARY:🏀 U10 Boys: Maccabi Celtics vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4b5e0d56-8acc-426f-9bc9-0fe4bb3ced78
+SEQUENCE:0
+DTSTAMP:20251204T171804
+DTSTART:20260214T101500
+DTEND:20260214T110000
+SUMMARY:🏀 U10 Boys: Maccabi Celtics vs Penpraze Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Penpra
+ ze Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a320d69d-d50f-48a3-8517-c88b3b34ee2a
+SEQUENCE:0
+DTSTAMP:20251204T171804
+DTSTART:20260221T110000
+DTEND:20260221T114500
+SUMMARY:🏀 U10 Boys: Maccabi Celtics vs Solway Spurs
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Spurs\nArrive 15 mins 
+ early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7ab5a8d8-f0f3-40ef-8e42-6e700e0610ab
+SEQUENCE:0
+DTSTAMP:20251204T171804
+DTSTART:20260228T084500
+DTEND:20260228T093000
+SUMMARY:🏀 U10 Boys: Maccabi Celtics vs Malvern Tigers Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:faa20a77-9c5c-4404-a567-891b890edd63
+SEQUENCE:0
+DTSTAMP:20251204T171804
+DTSTART:20260314T084500
+DTEND:20260314T093000
+SUMMARY:🏀 U10 Boys: Maccabi Celtics vs AlphaWolf Kings
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AlphaW
+ olf Kings\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

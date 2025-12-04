@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Falcons Fixtures
+X-WR-CALNAME:Maccabi Falcons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:df70a260-8c42-419b-a3f1-6a9ca5d6ecdf
+SEQUENCE:0
+DTSTAMP:20251204T171941
+DTSTART:20251206T144500
+DTEND:20251206T153000
+SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Ashy Lightning Green
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Ashy Lightn
+ ing Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9588d226-171f-40ab-a858-a7f960e864ec
+SEQUENCE:0
+DTSTAMP:20251204T171941
+DTSTART:20251213T144500
+DTEND:20251213T153000
+SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Malvern Tigers Blue
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6b95119d-59f8-4b4d-9e42-9cacd9f35ce6
+SEQUENCE:0
+DTSTAMP:20251204T171941
+DTSTART:20260131T144500
+DTEND:20260131T153000
+SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Willow Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Willow Pira
+ nhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0ed569f9-1055-4154-98b8-532427d75f89
+SEQUENCE:0
+DTSTAMP:20251204T171941
+DTSTART:20260207T140000
+DTEND:20260207T144500
+SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Solway Parrots
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Parrots\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2f16a5ee-bbb8-4746-b95d-4215057152da
+SEQUENCE:0
+DTSTAMP:20251204T171941
+DTSTART:20260214T144500
+DTEND:20260214T153000
+SUMMARY:🏀 U12 Girls: Maccabi Falcons vs AlphaWolf Sparks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: AlphaWolf S
+ parks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7ffb0c02-0dbc-48b2-b296-f41e8d3289c9
+SEQUENCE:0
+DTSTAMP:20251204T171941
+DTSTART:20260221T140000
+DTEND:20260221T144500
+SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a0d92bde-28c2-4df3-9b46-de4896a11051
+SEQUENCE:0
+DTSTAMP:20251204T171941
+DTSTART:20260228T144500
+DTEND:20260228T153000
+SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Malvern Tigers Blue
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:73c184d1-73bc-4c3a-80a4-145b7b55727d
+SEQUENCE:0
+DTSTAMP:20251204T171941
+DTSTART:20260314T140000
+DTEND:20260314T144500
+SUMMARY:🏀 U12 Girls: Maccabi Falcons vs Willow Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Willow 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

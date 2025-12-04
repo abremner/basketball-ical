@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Aqua Fixtures
+X-WR-CALNAME:Malvern Tigers Aqua Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:66325bf6-72f4-48df-89bc-fe2a2874a982
+SEQUENCE:0
+DTSTAMP:20251204T171927
+DTSTART:20251213T131500
+DTEND:20251213T140000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Malvern Tigers Lime
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Lime\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5f58c6eb-3021-4a0d-9bbe-01a09d9c5602
+SEQUENCE:0
+DTSTAMP:20251204T171927
+DTSTART:20260131T114500
+DTEND:20260131T123000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Wilson Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Wilson
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ae3e24a9-d444-44fe-a872-d8320264e8b5
+SEQUENCE:0
+DTSTAMP:20251204T171927
+DTSTART:20260207T114500
+DTEND:20260207T123000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Malvern Tigers Mauve
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Mauve\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d888e256-44b6-4a55-990a-d00384ac5c26
+SEQUENCE:0
+DTSTAMP:20251204T171927
+DTSTART:20260214T114500
+DTEND:20260214T123000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Golden Hawks Blaze
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Golden Hawks Blaze\nArrive 15
+  mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4d18b792-7028-4a08-91f5-ddada89e07bd
+SEQUENCE:0
+DTSTAMP:20251204T171927
+DTSTART:20260221T131500
+DTEND:20260221T140000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Timberwolves Cavs
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Cavs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0289de04-59d4-4f68-ba0f-07f3353bc6ee
+SEQUENCE:0
+DTSTAMP:20251204T171927
+DTSTART:20260228T114500
+DTEND:20260228T123000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Aqua vs Timberwolves Fury
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Timberwolves Fury\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+END:VCALENDAR

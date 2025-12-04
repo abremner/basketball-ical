@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Pearls Fixtures
+X-WR-CALNAME:Timberwolves Pearls Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:bb5b35be-f6d0-4fa7-aa0a-6c1c21f838de
+SEQUENCE:0
+DTSTAMP:20251204T171946
+DTSTART:20251206T140000
+DTEND:20251206T144500
+SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Solway Red Robins
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Red 
+ Robins\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:47de6955-430f-489e-a10d-c38c630918c7
+SEQUENCE:0
+DTSTAMP:20251204T171946
+DTSTART:20251213T140000
+DTEND:20251213T144500
+SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Maccabi Bucks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Buc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cab11292-f4c3-4813-be27-4f59630869b5
+SEQUENCE:0
+DTSTAMP:20251204T171946
+DTSTART:20260131T140000
+DTEND:20260131T144500
+SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Lauriston Storm
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston S
+ torm\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:72ca19a6-1821-4b83-aed2-fe2d2082e7ca
+SEQUENCE:0
+DTSTAMP:20251204T171946
+DTSTART:20260207T123000
+DTEND:20260207T131500
+SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Solway Sparrows
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Sparrows\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ffdade13-1c37-465a-9cf8-7f5e9f229671
+SEQUENCE:0
+DTSTAMP:20251204T171946
+DTSTART:20260214T131500
+DTEND:20260214T140000
+SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Korowa Grey
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Korowa 
+ Grey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:55faad81-c275-434d-9109-010be5afa3d0
+SEQUENCE:0
+DTSTAMP:20251204T171946
+DTSTART:20260221T140000
+DTEND:20260221T144500
+SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Maccabi Ducks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Duc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:63b146a3-a21a-47fe-842d-830b05e53557
+SEQUENCE:0
+DTSTAMP:20251204T171946
+DTSTART:20260314T131500
+DTEND:20260314T140000
+SUMMARY:🏀 U12 Girls: Timberwolves Pearls vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

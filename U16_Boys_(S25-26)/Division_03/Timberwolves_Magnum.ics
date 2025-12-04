@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Magnum Fixtures
+X-WR-CALNAME:Timberwolves Magnum Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1ddff593-5c15-4955-a4f5-f3524a82f300
+SEQUENCE:0
+DTSTAMP:20251204T172047
+DTSTART:20251206T174500
+DTEND:20251206T183000
+SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs Solway Super Sonics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Super Sonics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b33b5321-b9eb-4b2e-80b2-0c17209e96b8
+SEQUENCE:0
+DTSTAMP:20251204T172047
+DTSTART:20251213T183000
+DTEND:20251213T191500
+SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs AUBD Thunder
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AUBD T
+ hunder\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ce017f41-8cff-4996-b642-4e0d59cf9efc
+SEQUENCE:0
+DTSTAMP:20251204T172047
+DTSTART:20260207T191500
+DTEND:20260207T200000
+SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs Solway Blazers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Blazers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b6b00d91-486b-4377-ae1d-a6b49efbed01
+SEQUENCE:0
+DTSTAMP:20251204T172047
+DTSTART:20260214T191500
+DTEND:20260214T200000
+SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs Toorak Tyrants
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Tyrants\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bf4ba37e-44b3-4bc4-8751-0c01ad3a803f
+SEQUENCE:0
+DTSTAMP:20251204T172047
+DTSTART:20260221T183000
+DTEND:20260221T191500
+SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs Timberwolves Cats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Cats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1bb80ce8-57bc-47a5-8df5-64d3d53a9dac
+SEQUENCE:0
+DTSTAMP:20251204T172047
+DTSTART:20260228T191500
+DTEND:20260228T200000
+SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs Malvern Tigers Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:709e6f0a-bdf7-469f-90d1-1cbb6fde7678
+SEQUENCE:0
+DTSTAMP:20251204T172047
+DTSTART:20260314T174500
+DTEND:20260314T183000
+SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs Timberwolves Nuggets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Nuggets\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

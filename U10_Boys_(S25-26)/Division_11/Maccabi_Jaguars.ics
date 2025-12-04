@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Jaguars Fixtures
+X-WR-CALNAME:Maccabi Jaguars Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8a031f21-6871-4440-83b2-1955d44e5f84
+SEQUENCE:0
+DTSTAMP:20251204T171824
+DTSTART:20251213T084500
+DTEND:20251213T093000
+SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Willoby Piranhas
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Willoby Piranhas\nArrive 15 m
+ ins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d065bc4c-0efe-4705-b6f1-ce9576d30f3c
+SEQUENCE:0
+DTSTAMP:20251204T171824
+DTSTART:20260131T084500
+DTEND:20260131T093000
+SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Malvern Tigers Maroon
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Maroon\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:04309cf8-685c-4a41-ad25-f010d5b4f0c5
+SEQUENCE:0
+DTSTAMP:20251204T171824
+DTSTART:20260207T093000
+DTEND:20260207T101500
+SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Bambra Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Bambra Piranhas\nArrive 15 mi
+ ns early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ea823390-2641-44ef-bdd5-0327321aee41
+SEQUENCE:0
+DTSTAMP:20251204T171824
+DTSTART:20260214T093000
+DTEND:20260214T101500
+SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Ashy Lightning White
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Ashy Lightning White\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0ac2e7ec-ee16-402a-831e-9074afe49d8a
+SEQUENCE:0
+DTSTAMP:20251204T171824
+DTSTART:20260221T084500
+DTEND:20260221T093000
+SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Timberwolves Legends
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Timberwolves Legends\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ee5b94d6-5265-4e8d-bd4a-95e10da8981d
+SEQUENCE:0
+DTSTAMP:20251204T171824
+DTSTART:20260228T080000
+DTEND:20260228T084500
+SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Maccabi Hawks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Manning Piranhas Fixtures
+X-WR-CALNAME:Manning Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:960e1d80-8131-4de1-9ee3-bdade2566395
+SEQUENCE:0
+DTSTAMP:20251204T172059
+DTSTART:20251206T174500
+DTEND:20251206T183000
+SUMMARY:🏀 U16 Boys: Manning Piranhas vs Solway Slammers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Slammers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4f78f0fe-46dd-414f-889a-2959fef38a58
+SEQUENCE:0
+DTSTAMP:20251204T172059
+DTSTART:20251213T183000
+DTEND:20251213T191500
+SUMMARY:🏀 U16 Boys: Manning Piranhas vs Malvern Tigers Orange
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:79cb5fe1-1694-4cd8-b1fa-4e299e89cf98
+SEQUENCE:0
+DTSTAMP:20251204T172059
+DTSTART:20260131T191500
+DTEND:20260131T200000
+SUMMARY:🏀 U16 Boys: Manning Piranhas vs Malvern Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c12a8e6c-f4a6-4f42-b829-418f98ad1d83
+SEQUENCE:0
+DTSTAMP:20251204T172059
+DTSTART:20260207T183000
+DTEND:20260207T191500
+SUMMARY:🏀 U16 Boys: Manning Piranhas vs Timberwolves Blaze
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Blaze\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d5f8c496-db26-4229-b0ac-25c8d9cb1275
+SEQUENCE:0
+DTSTAMP:20251204T172059
+DTSTART:20260214T191500
+DTEND:20260214T200000
+SUMMARY:🏀 U16 Boys: Manning Piranhas vs Glen Iris Scorpions Spurs
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
+ is Scorpions Spurs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f888cf9c-2228-4fbb-a315-b9a867c72b94
+SEQUENCE:0
+DTSTAMP:20251204T172059
+DTSTART:20260221T191500
+DTEND:20260221T200000
+SUMMARY:🏀 U16 Boys: Manning Piranhas vs Solway Jets
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Jets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:84dfd57a-203c-4567-8c67-bcc1d280043b
+SEQUENCE:0
+DTSTAMP:20251204T172059
+DTSTART:20260228T183000
+DTEND:20260228T191500
+SUMMARY:🏀 U16 Boys: Manning Piranhas vs Solway Rangers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Rangers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:de5c3cf3-7141-4587-afad-bd1f02763373
+SEQUENCE:0
+DTSTAMP:20251204T172059
+DTSTART:20260314T183000
+DTEND:20260314T191500
+SUMMARY:🏀 U16 Boys: Manning Piranhas vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

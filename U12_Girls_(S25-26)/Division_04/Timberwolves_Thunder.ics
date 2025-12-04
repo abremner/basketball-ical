@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Thunder Fixtures
+X-WR-CALNAME:Timberwolves Thunder Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:98eafca2-342e-4141-86f3-a1e8be0a324d
+SEQUENCE:0
+DTSTAMP:20251204T171939
+DTSTART:20251213T131500
+DTEND:20251213T140000
+SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Malvern Tigers White
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ddd35572-bd70-4309-9c4b-17b25f121d59
+SEQUENCE:0
+DTSTAMP:20251204T171939
+DTSTART:20260131T131500
+DTEND:20260131T140000
+SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Malvern Tigers Green
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bc7d5610-d78d-48bf-acdc-8fbfc277ee0e
+SEQUENCE:0
+DTSTAMP:20251204T171939
+DTSTART:20260207T140000
+DTEND:20260207T144500
+SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Solway Doves
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Doves\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c643c283-cc0e-4618-b458-c4256e437420
+SEQUENCE:0
+DTSTAMP:20251204T171939
+DTSTART:20260214T140000
+DTEND:20260214T144500
+SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Maccabi Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d662c9b0-8020-45ae-9b80-9846a00930bf
+SEQUENCE:0
+DTSTAMP:20251204T171939
+DTSTART:20260221T144500
+DTEND:20260221T153000
+SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Maccabi Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f94a2dac-6735-42d6-b5ac-66646a6e8952
+SEQUENCE:0
+DTSTAMP:20251204T171939
+DTSTART:20260228T144500
+DTEND:20260228T153000
+SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Lauriston Sparks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Laurist
+ on Sparks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

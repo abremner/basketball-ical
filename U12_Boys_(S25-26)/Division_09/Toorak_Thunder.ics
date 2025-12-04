@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Thunder Fixtures
+X-WR-CALNAME:Toorak Thunder Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:da453931-d99f-402a-9bd2-bb7b7f2420c8
+SEQUENCE:0
+DTSTAMP:20251204T171923
+DTSTART:20251206T123000
+DTEND:20251206T131500
+SUMMARY:🏀 U12 Boys: Toorak Thunder vs Timberwolves Cyclones
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Timberwolves Cyclones\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6999656e-c982-4acb-9ca9-f527c562dd13
+SEQUENCE:0
+DTSTAMP:20251204T171923
+DTSTART:20251213T140000
+DTEND:20251213T144500
+SUMMARY:🏀 U12 Boys: Toorak Thunder vs Malvern Tigers Amber
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Amber\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:25a49319-ec7d-42ce-9f5e-d6d1f088cd8f
+SEQUENCE:0
+DTSTAMP:20251204T171923
+DTSTART:20260131T123000
+DTEND:20260131T131500
+SUMMARY:🏀 U12 Boys: Toorak Thunder vs Malvern Tigers Grey
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Grey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a3893837-c4bd-4c39-be86-b102d6c89d03
+SEQUENCE:0
+DTSTAMP:20251204T171923
+DTSTART:20260207T131500
+DTEND:20260207T140000
+SUMMARY:🏀 U12 Boys: Toorak Thunder vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9cdaf77d-f5c9-4423-b10b-ce1d792ba26a
+SEQUENCE:0
+DTSTAMP:20251204T171923
+DTSTART:20260214T140000
+DTEND:20260214T144500
+SUMMARY:🏀 U12 Boys: Toorak Thunder vs Stonnington Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Stonnington Piranhas\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3b5441ea-6dba-480e-8a8a-96799b6576d4
+SEQUENCE:0
+DTSTAMP:20251204T171923
+DTSTART:20260221T123000
+DTEND:20260221T131500
+SUMMARY:🏀 U12 Boys: Toorak Thunder vs Maccabi Mavericks
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Mavericks\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1f5d20f6-d442-4e5a-b172-791b757dbe82
+SEQUENCE:0
+DTSTAMP:20251204T171923
+DTSTART:20260228T140000
+DTEND:20260228T144500
+SUMMARY:🏀 U12 Boys: Toorak Thunder vs Timberwolves Stealers
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Stealers\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a83eb723-5438-498c-a770-019964f759dc
+SEQUENCE:0
+DTSTAMP:20251204T171923
+DTSTART:20260314T123000
+DTEND:20260314T131500
+SUMMARY:🏀 U12 Boys: Toorak Thunder vs Timberwolves Cyclones
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+ wolves Cyclones\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

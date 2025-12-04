@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e3cef928-bae4-4c16-88e9-ba021b6206e8
+SEQUENCE:0
+DTSTAMP:20251204T172102
+DTSTART:20251206T191500
+DTEND:20251206T200000
+SUMMARY:🏀 U16 Boys: Maccabi Celtics vs Glen Iris Scorpions Suns
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
+ is Scorpions Suns\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b7ca2c85-8163-4f0e-8027-664708586f3e
+SEQUENCE:0
+DTSTAMP:20251204T172102
+DTSTART:20251213T183000
+DTEND:20251213T191500
+SUMMARY:🏀 U16 Boys: Maccabi Celtics vs Solway Heat
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Heat\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1dbe2955-ce9a-4e9d-9275-0a330cb53b8c
+SEQUENCE:0
+DTSTAMP:20251204T172102
+DTSTART:20260131T183000
+DTEND:20260131T191500
+SUMMARY:🏀 U16 Boys: Maccabi Celtics vs Solway Rockets
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Rockets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1e82d338-f890-4448-88bd-23c7380d3669
+SEQUENCE:0
+DTSTAMP:20251204T172102
+DTSTART:20260207T183000
+DTEND:20260207T191500
+SUMMARY:🏀 U16 Boys: Maccabi Celtics vs Malvern Tigers Blue
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:352a82c1-7fe2-4dcc-bae0-b6bc1a483a40
+SEQUENCE:0
+DTSTAMP:20251204T172102
+DTSTART:20260214T183000
+DTEND:20260214T191500
+SUMMARY:🏀 U16 Boys: Maccabi Celtics vs Ashy Lightning Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
+ ghtning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9d91fdaf-fb7d-4fed-b9cd-fd2d2fa6d4b5
+SEQUENCE:0
+DTSTAMP:20251204T172102
+DTSTART:20260221T183000
+DTEND:20260221T191500
+SUMMARY:🏀 U16 Boys: Maccabi Celtics vs Glen Iris Scorpions Suns
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
+ is Scorpions Suns\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e0c019dc-3ca9-4e9e-b659-925e4c90bf8f
+SEQUENCE:0
+DTSTAMP:20251204T172102
+DTSTART:20260228T191500
+DTEND:20260228T200000
+SUMMARY:🏀 U16 Boys: Maccabi Celtics vs Solway Heat
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Heat\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3840d8ba-e069-469c-aa33-9a5eb8a98013
+SEQUENCE:0
+DTSTAMP:20251204T172102
+DTSTART:20260314T183000
+DTEND:20260314T191500
+SUMMARY:🏀 U16 Boys: Maccabi Celtics vs Solway Rockets
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Rockets\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

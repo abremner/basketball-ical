@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Arax Fixtures
+X-WR-CALNAME:Arax Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:dea07894-7e99-4661-bc1d-8809036fe04e
+SEQUENCE:0
+DTSTAMP:20251204T171826
+DTSTART:20251206T080000
+DTEND:20251206T084500
+SUMMARY:🏀 U10 Boys: Arax vs Solway Force
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Force\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7dcc1d87-76da-4d3b-aa6e-b7f6cb3bf336
+SEQUENCE:0
+DTSTAMP:20251204T171826
+DTSTART:20251213T080000
+DTEND:20251213T084500
+SUMMARY:🏀 U10 Boys: Arax vs Viewbank Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Viewba
+ nk Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f3a7f702-b886-4282-8dbe-5cff8f325cfd
+SEQUENCE:0
+DTSTAMP:20251204T171826
+DTSTART:20260131T080000
+DTEND:20260131T084500
+SUMMARY:🏀 U10 Boys: Arax vs Timberwolves Hawks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+ wolves Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9bf17afa-ea4b-4333-8ef5-d637b945cb65
+SEQUENCE:0
+DTSTAMP:20251204T171826
+DTSTART:20260207T080000
+DTEND:20260207T084500
+SUMMARY:🏀 U10 Boys: Arax vs Maccabi Kings
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Kings\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:eb1020aa-bec0-4a36-9da2-4698afe3ec7d
+SEQUENCE:0
+DTSTAMP:20251204T171826
+DTSTART:20260214T080000
+DTEND:20260214T084500
+SUMMARY:🏀 U10 Boys: Arax vs Heyington Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Heying
+ ton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b7e398c8-85fb-4909-9c7c-556c3aa4d612
+SEQUENCE:0
+DTSTAMP:20251204T171826
+DTSTART:20260221T080000
+DTEND:20260221T084500
+SUMMARY:🏀 U10 Boys: Arax vs Maccabi Lakers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Lakers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:acc09c16-e6f7-42d4-b047-2ef3dadace89
+SEQUENCE:0
+DTSTAMP:20251204T171826
+DTSTART:20260314T080000
+DTEND:20260314T084500
+SUMMARY:🏀 U10 Boys: Arax vs Malvern Tigers Lime
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Lime\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

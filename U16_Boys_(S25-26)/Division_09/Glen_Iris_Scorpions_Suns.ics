@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Suns Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Suns Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7104015a-d31b-466e-8c0b-beeb08d3ed46
+SEQUENCE:0
+DTSTAMP:20251204T172101
+DTSTART:20251206T191500
+DTEND:20251206T200000
+SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Suns vs Maccabi Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b203ac7d-d8c5-4893-b40e-257fd114ccb3
+SEQUENCE:0
+DTSTAMP:20251204T172101
+DTSTART:20251213T191500
+DTEND:20251213T200000
+SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Suns vs Malvern Tigers Blue
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:54515232-7b24-4c04-b86d-04c04427a661
+SEQUENCE:0
+DTSTAMP:20251204T172101
+DTSTART:20260131T191500
+DTEND:20260131T200000
+SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Suns vs Solway Heat
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Heat\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:28972942-02d4-4a9e-8ed1-c041243de791
+SEQUENCE:0
+DTSTAMP:20251204T172101
+DTSTART:20260207T191500
+DTEND:20260207T200000
+SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Suns vs Ashy Lightning Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
+ ghtning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3d410cf9-454d-4b68-b6c0-62a181f1dac0
+SEQUENCE:0
+DTSTAMP:20251204T172101
+DTSTART:20260214T183000
+DTEND:20260214T191500
+SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Suns vs Solway Rockets
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Rockets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2a9118c9-7e4e-408b-8b45-407fcfccd95f
+SEQUENCE:0
+DTSTAMP:20251204T172101
+DTSTART:20260221T183000
+DTEND:20260221T191500
+SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Suns vs Maccabi Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:640feacb-687e-4ed8-bf83-a52480a400aa
+SEQUENCE:0
+DTSTAMP:20251204T172101
+DTSTART:20260228T183000
+DTEND:20260228T191500
+SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Suns vs Malvern Tigers Blue
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a94d9359-378e-473b-aa0d-ca28a582ff98
+SEQUENCE:0
+DTSTAMP:20251204T172101
+DTSTART:20260314T183000
+DTEND:20260314T191500
+SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Suns vs Solway Heat
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Heat\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

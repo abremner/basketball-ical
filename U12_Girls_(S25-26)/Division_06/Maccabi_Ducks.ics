@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Ducks Fixtures
+X-WR-CALNAME:Maccabi Ducks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2c5d6e0f-6221-4348-8d8c-ca86ae632ec2
+SEQUENCE:0
+DTSTAMP:20251204T171944
+DTSTART:20251206T131500
+DTEND:20251206T140000
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Lauriston Storm
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Laurist
+ on Storm\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3988b030-98fe-41cd-aaf6-56165c84fd9c
+SEQUENCE:0
+DTSTAMP:20251204T171944
+DTSTART:20260131T123000
+DTEND:20260131T131500
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:311f3f29-e007-4b36-8a10-96ad575fd06e
+SEQUENCE:0
+DTSTAMP:20251204T171944
+DTSTART:20260207T140000
+DTEND:20260207T144500
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Korowa Grey
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Korowa Grey
+ \nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:84383d15-1d20-43e4-b0c7-2f6218a4cb41
+SEQUENCE:0
+DTSTAMP:20251204T171944
+DTSTART:20260214T140000
+DTEND:20260214T144500
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Solway Red Robins
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Red 
+ Robins\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:15b581d6-2aab-421d-88bc-8d0a7141ea24
+SEQUENCE:0
+DTSTAMP:20251204T171944
+DTSTART:20260221T140000
+DTEND:20260221T144500
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Timberwolves Pearls
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Timberwolve
+ s Pearls\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:29381436-d6a1-448f-9bad-abb132bb1afe
+SEQUENCE:0
+DTSTAMP:20251204T171944
+DTSTART:20260228T140000
+DTEND:20260228T144500
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Creswick Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Creswick Pi
+ ranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bfac6f3e-05cd-4f87-b3b3-76dcc54e861e
+SEQUENCE:0
+DTSTAMP:20251204T171944
+DTSTART:20260314T140000
+DTEND:20260314T144500
+SUMMARY:🏀 U12 Girls: Maccabi Ducks vs Maccabi Bucks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Buc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

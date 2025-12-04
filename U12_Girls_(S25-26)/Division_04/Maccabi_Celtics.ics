@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4dc0a560-67e7-48eb-b308-e56356c3094d
+SEQUENCE:0
+DTSTAMP:20251204T171937
+DTSTART:20251206T131500
+DTEND:20251206T140000
+SUMMARY:🏀 U12 Girls: Maccabi Celtics vs Solway Doves
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Dove
+ s\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:eba331a4-3073-4c69-822b-8194e98f3c62
+SEQUENCE:0
+DTSTAMP:20251204T171937
+DTSTART:20251213T144500
+DTEND:20251213T153000
+SUMMARY:🏀 U12 Girls: Maccabi Celtics vs Lauriston Sparks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Laurist
+ on Sparks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:74a07108-6537-47c5-9219-1878f0a70cf5
+SEQUENCE:0
+DTSTAMP:20251204T171937
+DTSTART:20260207T144500
+DTEND:20260207T153000
+SUMMARY:🏀 U12 Girls: Maccabi Celtics vs Malvern Tigers White
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:611c1057-c08d-4a61-95c5-83da3ddab963
+SEQUENCE:0
+DTSTAMP:20251204T171937
+DTSTART:20260214T140000
+DTEND:20260214T144500
+SUMMARY:🏀 U12 Girls: Maccabi Celtics vs Timberwolves Thunder
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:162c3c69-0d80-4340-84c3-87a17b302b5a
+SEQUENCE:0
+DTSTAMP:20251204T171937
+DTSTART:20260221T140000
+DTEND:20260221T144500
+SUMMARY:🏀 U12 Girls: Maccabi Celtics vs Malvern Tigers Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:96759550-c104-405d-9930-5d603504adfd
+SEQUENCE:0
+DTSTAMP:20251204T171937
+DTSTART:20260228T131500
+DTEND:20260228T140000
+SUMMARY:🏀 U12 Girls: Maccabi Celtics vs Maccabi Warriors
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi War
+ riors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:31d8b142-77fe-4e26-9686-617bd323f5b0
+SEQUENCE:0
+DTSTAMP:20251204T171937
+DTSTART:20260314T131500
+DTEND:20260314T140000
+SUMMARY:🏀 U12 Girls: Maccabi Celtics vs Solway Doves
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Dove
+ s\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

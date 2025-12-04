@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:294b7a04-eaca-4818-89a9-c1d513e174a0
+SEQUENCE:0
+DTSTAMP:20251204T171730
+DTSTART:20251206T080000
+DTEND:20251206T084500
+SUMMARY:🏀 U08 Boys: Maccabi Bucks vs AlphaWolf Titans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
+ lf Titans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a8160c6c-631d-4941-8a4c-d3813bfe4731
+SEQUENCE:0
+DTSTAMP:20251204T171730
+DTSTART:20251213T101500
+DTEND:20251213T110000
+SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Packer Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Packer 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0aa6b849-8267-4672-8531-2732b59b4382
+SEQUENCE:0
+DTSTAMP:20251204T171730
+DTSTART:20260131T101500
+DTEND:20260131T110000
+SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Malvern Tigers Bogut
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Bogut\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f7f1d7a7-7fe0-4a71-9536-98f759aa7131
+SEQUENCE:0
+DTSTAMP:20251204T171730
+DTSTART:20260207T080000
+DTEND:20260207T084500
+SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Malvern Tigers Ingles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Ingles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fc41ee04-f73c-4139-a02f-7da06ffb7510
+SEQUENCE:0
+DTSTAMP:20251204T171730
+DTSTART:20260214T084500
+DTEND:20260214T093000
+SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1ac630da-6405-440c-9c95-4af3e47dacb9
+SEQUENCE:0
+DTSTAMP:20251204T171730
+DTSTART:20260228T084500
+DTEND:20260228T093000
+SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Golden Hawks Sky
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Golden 
+ Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:92a02669-45de-4c75-b9bb-4a58d9969a37
+SEQUENCE:0
+DTSTAMP:20251204T171730
+DTSTART:20260314T080000
+DTEND:20260314T084500
+SUMMARY:🏀 U08 Boys: Maccabi Bucks vs AlphaWolf Titans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
+ lf Titans\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

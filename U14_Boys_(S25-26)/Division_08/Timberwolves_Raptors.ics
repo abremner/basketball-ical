@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Raptors Fixtures
+X-WR-CALNAME:Timberwolves Raptors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0302cbb1-2f30-48f4-937f-e319a76d1568
+SEQUENCE:0
+DTSTAMP:20251204T172015
+DTSTART:20251206T161500
+DTEND:20251206T170000
+SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Malvern Tigers Brown
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Brown\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8dda29df-d630-4115-a353-0e7923e05916
+SEQUENCE:0
+DTSTAMP:20251204T172015
+DTSTART:20251213T153000
+DTEND:20251213T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Beckett Park Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Beckett Park Piranhas\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:967b6c4b-ee92-4879-ac13-39fdc229eb9f
+SEQUENCE:0
+DTSTAMP:20251204T172015
+DTSTART:20260131T153000
+DTEND:20260131T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Prahran Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Prahran Piranhas\nArrive 15 m
+ ins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4325a320-0384-42c5-b838-8c409bc79e24
+SEQUENCE:0
+DTSTAMP:20251204T172015
+DTSTART:20260207T153000
+DTEND:20260207T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Timberwolves Dragons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Dragons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a04c7f7d-2355-47c9-8d23-b579ffa04fdd
+SEQUENCE:0
+DTSTAMP:20251204T172015
+DTSTART:20260214T153000
+DTEND:20260214T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Solway Spartans
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Spartans\nArrive 15 mi
+ ns early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:89ac135d-4e65-41ce-bfe7-cba610dd664e
+SEQUENCE:0
+DTSTAMP:20251204T172015
+DTSTART:20260221T153000
+DTEND:20260221T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Malvern Tigers Brown
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Brown\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:09e3d75d-ecd0-42f3-a9ff-1f1acdb32023
+SEQUENCE:0
+DTSTAMP:20251204T172015
+DTSTART:20260228T153000
+DTEND:20260228T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Beckett Park Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Beckett Park Piranhas\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7a957e9a-5d65-4069-8fa7-a53816cd9443
+SEQUENCE:0
+DTSTAMP:20251204T172015
+DTSTART:20260314T153000
+DTEND:20260314T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Prahran Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Prahran
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

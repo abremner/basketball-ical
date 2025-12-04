@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Warriors Fixtures
+X-WR-CALNAME:Maccabi Warriors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:25730863-8106-4350-8c7c-bb6e399a6a2e
+SEQUENCE:0
+DTSTAMP:20251204T171757
+DTSTART:20251206T114500
+DTEND:20251206T123000
+SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2c134892-a1a5-4b88-ba3e-2b63c0cdaa4c
+SEQUENCE:0
+DTSTAMP:20251204T171757
+DTSTART:20251213T114500
+DTEND:20251213T123000
+SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Toorak Tigercats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
+  Tigercats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fdcb07c1-765d-499b-9099-e4ad3559ec74
+SEQUENCE:0
+DTSTAMP:20251204T171757
+DTSTART:20260131T110000
+DTEND:20260131T114500
+SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Timberwolves Crusaders
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Crusaders\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e3379a41-afad-4cde-8c73-f4fa8be87308
+SEQUENCE:0
+DTSTAMP:20251204T171757
+DTSTART:20260207T131500
+DTEND:20260207T140000
+SUMMARY:🏀 U10 Boys: Maccabi Warriors vs AUBD Storm
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AUBD S
+ torm\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a1d87cce-b227-4355-a6fe-595cf5585b43
+SEQUENCE:0
+DTSTAMP:20251204T171757
+DTSTART:20260214T110000
+DTEND:20260214T114500
+SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Glen Iris Scorpions Ferndale
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
+ ris Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cd00cf0d-adcc-4a14-8068-dd1645bbc45a
+SEQUENCE:0
+DTSTAMP:20251204T171757
+DTSTART:20260221T123000
+DTEND:20260221T131500
+SUMMARY:🏀 U10 Boys: Maccabi Warriors vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ff90576e-605f-4452-b8d6-e142a775be40
+SEQUENCE:0
+DTSTAMP:20251204T171757
+DTSTART:20260228T114500
+DTEND:20260228T123000
+SUMMARY:🏀 U10 Boys: Maccabi Warriors vs AlphaWolf Dragons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AlphaW
+ olf Dragons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

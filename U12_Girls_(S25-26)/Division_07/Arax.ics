@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Arax Fixtures
+X-WR-CALNAME:Arax Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8184f849-84a1-4c9f-816d-e62fe3c4d277
+SEQUENCE:0
+DTSTAMP:20251204T171946
+DTSTART:20251206T131500
+DTEND:20251206T140000
+SUMMARY:🏀 U12 Girls: Arax vs Maccabi Giants
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Gia
+ nts\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e0abba9e-e655-48fa-8f25-c63bda721f3c
+SEQUENCE:0
+DTSTAMP:20251204T171946
+DTSTART:20260131T131500
+DTEND:20260131T140000
+SUMMARY:🏀 U12 Girls: Arax vs Malvern Tigers Orange
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c55efc0f-bd0e-4ec2-ae07-be134c6742b9
+SEQUENCE:0
+DTSTAMP:20251204T171946
+DTSTART:20260207T131500
+DTEND:20260207T140000
+SUMMARY:🏀 U12 Girls: Arax vs Ashy Lightning Yellow
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
+ ing Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4b51bd42-98d4-4690-bdb9-660789b14504
+SEQUENCE:0
+DTSTAMP:20251204T171946
+DTSTART:20260214T131500
+DTEND:20260214T140000
+SUMMARY:🏀 U12 Girls: Arax vs Lauriston Suns
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Lauris
+ ton Suns\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8c282257-b13d-4c8f-a4dd-60f5462bdea6
+SEQUENCE:0
+DTSTAMP:20251204T171946
+DTSTART:20260221T131500
+DTEND:20260221T140000
+SUMMARY:🏀 U12 Girls: Arax vs Ashy Lightning White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
+ ightning White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d1d4bbbc-e932-4f73-840b-d5280d8929c4
+SEQUENCE:0
+DTSTAMP:20251204T171946
+DTSTART:20260228T131500
+DTEND:20260228T140000
+SUMMARY:🏀 U12 Girls: Arax vs Timberwolves Hurricanes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Hurricanes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fb1854e0-0896-4646-afa5-a0abb31a6e12
+SEQUENCE:0
+DTSTAMP:20251204T171946
+DTSTART:20260314T131500
+DTEND:20260314T140000
+SUMMARY:🏀 U12 Girls: Arax vs Maccabi Giants
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Giants\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

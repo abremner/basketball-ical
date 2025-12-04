@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Ninjas Fixtures
+X-WR-CALNAME:Solway Ninjas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7eb0f72b-5b82-44de-a706-c072ff6415fb
+SEQUENCE:0
+DTSTAMP:20251204T172018
+DTSTART:20251206T161500
+DTEND:20251206T170000
+SUMMARY:🏀 U14 Boys: Solway Ninjas vs Maccabi Hawks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:85aa3829-f7fb-4941-8bf9-df6690067ad5
+SEQUENCE:0
+DTSTAMP:20251204T172018
+DTSTART:20260131T153000
+DTEND:20260131T161500
+SUMMARY:🏀 U14 Boys: Solway Ninjas vs Malvern Tigers Maroon
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Maroon\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:57583a6a-dd11-4f61-bdfc-89cc2ddeec70
+SEQUENCE:0
+DTSTAMP:20251204T172018
+DTSTART:20260207T144500
+DTEND:20260207T153000
+SUMMARY:🏀 U14 Boys: Solway Ninjas vs Maccabi Giants
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Giants\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d53809a7-3fc8-4fc8-a820-a46a78277e16
+SEQUENCE:0
+DTSTAMP:20251204T172018
+DTSTART:20260214T153000
+DTEND:20260214T161500
+SUMMARY:🏀 U14 Boys: Solway Ninjas vs Glen Iris Scorpions Summerhill
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Glen Iris Scorpions Summerhil
+ l\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:eca3ab1a-46cd-47f1-be1d-a745495fff33
+SEQUENCE:0
+DTSTAMP:20251204T172018
+DTSTART:20260221T161500
+DTEND:20260221T170000
+SUMMARY:🏀 U14 Boys: Solway Ninjas vs Ashy Lightning White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+ ightning White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a242eee3-4b71-498d-8019-e16aeee64881
+SEQUENCE:0
+DTSTAMP:20251204T172018
+DTSTART:20260228T153000
+DTEND:20260228T161500
+SUMMARY:🏀 U14 Boys: Solway Ninjas vs Malvern Tigers Purple
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Purple\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d6c36131-afae-4e88-9ef0-f6a024e9917e
+SEQUENCE:0
+DTSTAMP:20251204T172018
+DTSTART:20260314T161500
+DTEND:20260314T170000
+SUMMARY:🏀 U14 Boys: Solway Ninjas vs Maccabi Hawks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

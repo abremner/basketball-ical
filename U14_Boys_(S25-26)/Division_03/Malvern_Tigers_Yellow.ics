@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Yellow Fixtures
+X-WR-CALNAME:Malvern Tigers Yellow Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:61fa612a-7ed4-4e90-aa82-05d04d89a86b
+SEQUENCE:0
+DTSTAMP:20251204T171958
+DTSTART:20251206T170000
+DTEND:20251206T174500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Yellow vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3bc7b9fd-a247-4813-a850-b4932203ba4c
+SEQUENCE:0
+DTSTAMP:20251204T171958
+DTSTART:20260207T153000
+DTEND:20260207T161500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Yellow vs Solway Rebels
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Rebels\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:13a720c4-90a2-44d6-af83-7d8e764864e1
+SEQUENCE:0
+DTSTAMP:20251204T171958
+DTSTART:20260214T174500
+DTEND:20260214T183000
+SUMMARY:🏀 U14 Boys: Malvern Tigers Yellow vs Timberwolves Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a9b5ae01-b033-45ea-a6e0-fd20f761da5d
+SEQUENCE:0
+DTSTAMP:20251204T171958
+DTSTART:20260221T170000
+DTEND:20260221T174500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Yellow vs AlphaWolf Hustle
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AlphaW
+ olf Hustle\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c8cd404c-006a-4859-89b6-a43a702d52f9
+SEQUENCE:0
+DTSTAMP:20251204T171958
+DTSTART:20260314T170000
+DTEND:20260314T174500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Yellow vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

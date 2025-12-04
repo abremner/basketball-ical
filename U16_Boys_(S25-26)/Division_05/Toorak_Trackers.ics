@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Trackers Fixtures
+X-WR-CALNAME:Toorak Trackers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9f7e7e5d-4c0e-4e77-a0d1-843340e7c392
+SEQUENCE:0
+DTSTAMP:20251204T172052
+DTSTART:20251206T183000
+DTEND:20251206T191500
+SUMMARY:🏀 U16 Boys: Toorak Trackers vs AlphaWolf Tornados
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
+ lf Tornados\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6e2ab751-60c9-407b-a289-caa9f4a65a5b
+SEQUENCE:0
+DTSTAMP:20251204T172052
+DTSTART:20260131T191500
+DTEND:20260131T200000
+SUMMARY:🏀 U16 Boys: Toorak Trackers vs Glen Iris Scorpions Sixers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Sixers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c6d2685b-ba55-4f96-92b9-3c3dd9414799
+SEQUENCE:0
+DTSTAMP:20251204T172052
+DTSTART:20260207T183000
+DTEND:20260207T191500
+SUMMARY:🏀 U16 Boys: Toorak Trackers vs Maccabi Haifa
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Haifa\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3dee20b6-dd79-4286-803d-0a866da63178
+SEQUENCE:0
+DTSTAMP:20251204T172052
+DTSTART:20260214T191500
+DTEND:20260214T200000
+SUMMARY:🏀 U16 Boys: Toorak Trackers vs Malvern Tigers White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:03980a39-4682-4e8c-9bf0-7f0cfcfb7b2d
+SEQUENCE:0
+DTSTAMP:20251204T172052
+DTSTART:20260221T183000
+DTEND:20260221T191500
+SUMMARY:🏀 U16 Boys: Toorak Trackers vs AlphaWolf Tornados
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
+ lf Tornados\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c529a4c7-3bee-4338-aeb8-04cff6170146
+SEQUENCE:0
+DTSTAMP:20251204T172052
+DTSTART:20260314T191500
+DTEND:20260314T200000
+SUMMARY:🏀 U16 Boys: Toorak Trackers vs Glen Iris Scorpions Sixers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Sixers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

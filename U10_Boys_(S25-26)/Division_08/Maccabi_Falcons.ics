@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Falcons Fixtures
+X-WR-CALNAME:Maccabi Falcons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:775397cf-7d4d-4098-8e27-3c652fecedc9
+SEQUENCE:0
+DTSTAMP:20251204T171814
+DTSTART:20251206T084500
+DTEND:20251206T093000
+SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Malvern Tigers Brown
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Brown\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:327e35d5-303f-44e8-a139-afbac5f18a0d
+SEQUENCE:0
+DTSTAMP:20251204T171814
+DTSTART:20251213T110000
+DTEND:20251213T114500
+SUMMARY:🏀 U10 Boys: Maccabi Falcons vs AlphaWolf Magic
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
+ olf Magic\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:31e61f5f-12f8-4788-bd12-95c2ee4f4f39
+SEQUENCE:0
+DTSTAMP:20251204T171814
+DTSTART:20260131T110000
+DTEND:20260131T114500
+SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Ashy Lightning Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9f84752a-3c47-4df4-935c-71f289138ce9
+SEQUENCE:0
+DTSTAMP:20251204T171814
+DTSTART:20260207T084500
+DTEND:20260207T093000
+SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Toorak Thunderbolts
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Thunderbolts\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6545795c-1e08-4c59-9096-518cf8e64e35
+SEQUENCE:0
+DTSTAMP:20251204T171814
+DTSTART:20260221T084500
+DTEND:20260221T093000
+SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Malvern Tigers Brown
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Brown\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:db4f71a1-5a4a-4476-80af-243feb178f1a
+SEQUENCE:0
+DTSTAMP:20251204T171814
+DTSTART:20260228T110000
+DTEND:20260228T114500
+SUMMARY:🏀 U10 Boys: Maccabi Falcons vs AlphaWolf Magic
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
+ olf Magic\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d0d733ca-764f-46d8-8f79-f2c713595ece
+SEQUENCE:0
+DTSTAMP:20251204T171814
+DTSTART:20260314T110000
+DTEND:20260314T114500
+SUMMARY:🏀 U10 Boys: Maccabi Falcons vs Ashy Lightning Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Ducks Fixtures
+X-WR-CALNAME:Maccabi Ducks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:92b6398c-0e48-4bc6-9fac-d0e88d56082e
+SEQUENCE:0
+DTSTAMP:20251204T172036
+DTSTART:20251213T170000
+DTEND:20251213T174500
+SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Ashy Lightning White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+ ightning White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:04bc7737-7ea5-4559-874f-658d2b8b9ec0
+SEQUENCE:0
+DTSTAMP:20251204T172036
+DTSTART:20260131T170000
+DTEND:20260131T174500
+SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Solway Sapphires
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Sapphires\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ce939647-fcd3-4c7d-932d-212eae73d545
+SEQUENCE:0
+DTSTAMP:20251204T172036
+DTSTART:20260207T161500
+DTEND:20260207T170000
+SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Maccabi Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4f78289b-7807-4541-8bee-1d7a1538ce50
+SEQUENCE:0
+DTSTAMP:20251204T172036
+DTSTART:20260214T161500
+DTEND:20260214T170000
+SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6518a253-832d-47df-a25b-d1d01775c5fd
+SEQUENCE:0
+DTSTAMP:20251204T172036
+DTSTART:20260221T153000
+DTEND:20260221T161500
+SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Toorak Titans
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Toorak Tita
+ ns\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:19f36ff3-96c6-44d4-828c-926deae939dd
+SEQUENCE:0
+DTSTAMP:20251204T172036
+DTSTART:20260228T153000
+DTEND:20260228T161500
+SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Timberwolves Sapphires
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Timberwolve
+ s Sapphires\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e2f97a2e-32e6-409f-be5d-9878cdbc6bed
+SEQUENCE:0
+DTSTAMP:20251204T172036
+DTSTART:20260314T170000
+DTEND:20260314T174500
+SUMMARY:🏀 U14 Girls: Maccabi Ducks vs Korowa Grey
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Korowa
+  Grey\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

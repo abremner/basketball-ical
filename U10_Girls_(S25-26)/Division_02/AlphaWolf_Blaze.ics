@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Blaze Fixtures
+X-WR-CALNAME:AlphaWolf Blaze Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:98d7e408-8ac3-41eb-b8bf-f85b42552286
+SEQUENCE:0
+DTSTAMP:20251204T171833
+DTSTART:20251213T114500
+DTEND:20251213T123000
+SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Embling Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Emblin
+ g Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c0db8fd3-1cf1-42b5-890c-f85b93f12db4
+SEQUENCE:0
+DTSTAMP:20251204T171833
+DTSTART:20260131T123000
+DTEND:20260131T131500
+SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Erindale Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Erindale Pi
+ ranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e0b79d46-67b1-4097-9001-de3450c2a88f
+SEQUENCE:0
+DTSTAMP:20251204T171833
+DTSTART:20260207T114500
+DTEND:20260207T123000
+SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Malvern Tigers Hodges
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Hodges\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a8797114-715a-4524-86ad-70f5368615a0
+SEQUENCE:0
+DTSTAMP:20251204T171833
+DTSTART:20260214T110000
+DTEND:20260214T114500
+SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Korowa Cherry
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Korowa
+  Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7ef317a1-583d-458a-9174-8ace0056302f
+SEQUENCE:0
+DTSTAMP:20251204T171833
+DTSTART:20260221T123000
+DTEND:20260221T131500
+SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Malvern Tigers Taylor
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Taylor\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7e354be2-e92e-459f-8f76-7cec833cbd4f
+SEQUENCE:0
+DTSTAMP:20251204T171833
+DTSTART:20260228T110000
+DTEND:20260228T114500
+SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Glen Iris Scorpions Ferndale
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
+ ris Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

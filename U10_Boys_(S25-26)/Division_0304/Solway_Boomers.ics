@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Boomers Fixtures
+X-WR-CALNAME:Solway Boomers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:802dceb5-ff2d-4b06-ae56-75e7c53190c3
+SEQUENCE:0
+DTSTAMP:20251204T171800
+DTSTART:20251206T101500
+DTEND:20251206T110000
+SUMMARY:🏀 U10 Boys: Solway Boomers vs Tollington Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Tollin
+ gton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cf6c0b56-5d2b-472d-a205-de0f7fbb2be7
+SEQUENCE:0
+DTSTAMP:20251204T171800
+DTSTART:20251213T110000
+DTEND:20251213T114500
+SUMMARY:🏀 U10 Boys: Solway Boomers vs Maccabi Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:da2676d8-e40d-4091-86d6-9fcecd507c2e
+SEQUENCE:0
+DTSTAMP:20251204T171800
+DTSTART:20260131T114500
+DTEND:20260131T123000
+SUMMARY:🏀 U10 Boys: Solway Boomers vs Malvern Tigers Yellow
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Yellow\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d57873b2-dd6e-41e8-b152-ce92ce132224
+SEQUENCE:0
+DTSTAMP:20251204T171800
+DTSTART:20260207T101500
+DTEND:20260207T110000
+SUMMARY:🏀 U10 Boys: Solway Boomers vs Timberwolves Cobras
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Cobras\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:021e1d97-fb13-4932-85e9-58a50630ea5a
+SEQUENCE:0
+DTSTAMP:20251204T171800
+DTSTART:20260214T114500
+DTEND:20260214T123000
+SUMMARY:🏀 U10 Boys: Solway Boomers vs Armadale Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Armadal
+ e Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8bf9de34-6673-40d4-bbee-b98ccb20020e
+SEQUENCE:0
+DTSTAMP:20251204T171800
+DTSTART:20260221T101500
+DTEND:20260221T110000
+SUMMARY:🏀 U10 Boys: Solway Boomers vs Timberwolves Boomers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Boomers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:51c83901-b036-47fe-aec9-5b3dea0818dd
+SEQUENCE:0
+DTSTAMP:20251204T171800
+DTSTART:20260228T101500
+DTEND:20260228T110000
+SUMMARY:🏀 U10 Boys: Solway Boomers vs Toorak Torpedoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
+  Torpedoes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:272e4123-495d-4d1e-b5c9-0ec00658bd80
+SEQUENCE:0
+DTSTAMP:20251204T171800
+DTSTART:20260314T110000
+DTEND:20260314T114500
+SUMMARY:🏀 U10 Boys: Solway Boomers vs Tollington Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Tollin
+ gton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

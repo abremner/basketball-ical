@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Trouble Fixtures
+X-WR-CALNAME:Toorak Trouble Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d3762fab-1f7f-4bc1-b969-66aa83f53c65
+SEQUENCE:0
+DTSTAMP:20251204T171911
+DTSTART:20251213T123000
+DTEND:20251213T131500
+SUMMARY:🏀 U12 Boys: Toorak Trouble vs Malvern Tigers Purple
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Purple\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ae24c263-08d7-4372-9074-be13870fc263
+SEQUENCE:0
+DTSTAMP:20251204T171911
+DTSTART:20260131T140000
+DTEND:20260131T144500
+SUMMARY:🏀 U12 Boys: Toorak Trouble vs Solway Lions
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Solway Lions\nArrive 15 mins 
+ early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5938892f-d0f8-44dc-b76b-b42f404f370b
+SEQUENCE:0
+DTSTAMP:20251204T171911
+DTSTART:20260207T123000
+DTEND:20260207T131500
+SUMMARY:🏀 U12 Boys: Toorak Trouble vs AlphaWolf Lakers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
+ lf Lakers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6f0437a7-7350-4766-9f0c-b7d2ad199d65
+SEQUENCE:0
+DTSTAMP:20251204T171911
+DTSTART:20260214T123000
+DTEND:20260214T131500
+SUMMARY:🏀 U12 Boys: Toorak Trouble vs Comets Cyclones
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Comets 
+ Cyclones\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:73cb2f63-6841-4a78-b221-eb5c16954d23
+SEQUENCE:0
+DTSTAMP:20251204T171911
+DTSTART:20260221T140000
+DTEND:20260221T144500
+SUMMARY:🏀 U12 Boys: Toorak Trouble vs Glen Iris Scorpions Gardiner
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Glen Iris Scorpions Gardiner\
+ nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:00080ad3-553c-4075-aff4-f8a33d6d6519
+SEQUENCE:0
+DTSTAMP:20251204T171911
+DTSTART:20260228T123000
+DTEND:20260228T131500
+SUMMARY:🏀 U12 Boys: Toorak Trouble vs Maccabi Giants
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Giants\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

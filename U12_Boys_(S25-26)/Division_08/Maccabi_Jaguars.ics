@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Jaguars Fixtures
+X-WR-CALNAME:Maccabi Jaguars Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0735991b-58d6-4b46-8f0a-8f1c04aac7db
+SEQUENCE:0
+DTSTAMP:20251204T171918
+DTSTART:20251206T131500
+DTEND:20251206T140000
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Golden Hawks Iron
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Golden Hawks Iron\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:79b1e425-3313-4123-91e9-52783f940af3
+SEQUENCE:0
+DTSTAMP:20251204T171918
+DTSTART:20251213T131500
+DTEND:20251213T140000
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Maccabi Kings
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Kings\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6a3dfb32-ca6f-4ac4-98e2-c6a1a0d4ec87
+SEQUENCE:0
+DTSTAMP:20251204T171918
+DTSTART:20260131T123000
+DTEND:20260131T131500
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Glen Iris Scorpions Nettleton
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
+ is Scorpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0e735d69-7c36-433f-b099-9f5a0e7edc3e
+SEQUENCE:0
+DTSTAMP:20251204T171918
+DTSTART:20260214T123000
+DTEND:20260214T131500
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Warrawee Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Warrawe
+ e Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f3508c5f-7b36-4f10-a98d-1e9371a17929
+SEQUENCE:0
+DTSTAMP:20251204T171918
+DTSTART:20260221T131500
+DTEND:20260221T140000
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Ashy Lightning Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
+ ghtning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:836b01b6-b7f6-49a3-b1e9-2784994ddf90
+SEQUENCE:0
+DTSTAMP:20251204T171918
+DTSTART:20260228T123000
+DTEND:20260228T131500
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Maccabi Hawks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3578754c-07dd-4103-bf63-e2a4b5932dfc
+SEQUENCE:0
+DTSTAMP:20251204T171918
+DTSTART:20260314T123000
+DTEND:20260314T131500
+SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Ardrie Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ardrie
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

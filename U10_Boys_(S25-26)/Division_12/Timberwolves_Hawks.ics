@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Hawks Fixtures
+X-WR-CALNAME:Timberwolves Hawks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c2cefb6d-dd61-4a36-a92f-bf7b257fc659
+SEQUENCE:0
+DTSTAMP:20251204T171828
+DTSTART:20251206T084500
+DTEND:20251206T093000
+SUMMARY:🏀 U10 Boys: Timberwolves Hawks vs Comets Eagles
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Comets Eagles\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8dea70dd-0500-4d7d-a80f-b4bae3c01f0d
+SEQUENCE:0
+DTSTAMP:20251204T171828
+DTSTART:20251213T101500
+DTEND:20251213T110000
+SUMMARY:🏀 U10 Boys: Timberwolves Hawks vs Maccabi Lakers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Lakers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cf66f63f-05d8-4cd2-a087-7f325aafc53e
+SEQUENCE:0
+DTSTAMP:20251204T171828
+DTSTART:20260131T080000
+DTEND:20260131T084500
+SUMMARY:🏀 U10 Boys: Timberwolves Hawks vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a1df12bb-61e2-42ab-a38b-a379c46dcbd6
+SEQUENCE:0
+DTSTAMP:20251204T171828
+DTSTART:20260207T101500
+DTEND:20260207T110000
+SUMMARY:🏀 U10 Boys: Timberwolves Hawks vs Malvern Tigers Lime
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Lime\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:46e68b9c-6cde-48cd-bab6-97d32846cf26
+SEQUENCE:0
+DTSTAMP:20251204T171828
+DTSTART:20260214T093000
+DTEND:20260214T101500
+SUMMARY:🏀 U10 Boys: Timberwolves Hawks vs Solway Force
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Solway Force\nArrive 15 mins 
+ early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:296fe93a-194f-4920-94fe-3e6470cacc61
+SEQUENCE:0
+DTSTAMP:20251204T171828
+DTSTART:20260221T093000
+DTEND:20260221T101500
+SUMMARY:🏀 U10 Boys: Timberwolves Hawks vs Maccabi Kings
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Kings\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8fde440f-4e33-4957-ad47-c856fbb35f49
+SEQUENCE:0
+DTSTAMP:20251204T171828
+DTSTART:20260228T093000
+DTEND:20260228T101500
+SUMMARY:🏀 U10 Boys: Timberwolves Hawks vs Viewbank Piranhas
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Viewbank Piranhas\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:48ed4123-3257-402b-baa8-c691b0ce76a3
+SEQUENCE:0
+DTSTAMP:20251204T171828
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U10 Boys: Timberwolves Hawks vs Heyington Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Heying
+ ton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

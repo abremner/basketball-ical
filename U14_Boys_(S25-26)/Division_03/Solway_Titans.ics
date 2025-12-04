@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Titans Fixtures
+X-WR-CALNAME:Solway Titans Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:cea8a2b0-1ca3-4868-b411-62beaae0634c
+SEQUENCE:0
+DTSTAMP:20251204T171959
+DTSTART:20260207T174500
+DTEND:20260207T183000
+SUMMARY:🏀 U14 Boys: Solway Titans vs AlphaWolf Hustle
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: AlphaWo
+ lf Hustle\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3a421d2b-ba69-4855-bf05-3f1667624f65
+SEQUENCE:0
+DTSTAMP:20251204T171959
+DTSTART:20260214T153000
+DTEND:20260214T161500
+SUMMARY:🏀 U14 Boys: Solway Titans vs Toorak Tomcats
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Tomcats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4b343893-ec97-4004-8383-6750d77ad597
+SEQUENCE:0
+DTSTAMP:20251204T171959
+DTSTART:20260221T174500
+DTEND:20260221T183000
+SUMMARY:🏀 U14 Boys: Solway Titans vs Timberwolves Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ff8ecf46-a44f-4fc3-a32d-3550668e5e2a
+SEQUENCE:0
+DTSTAMP:20251204T171959
+DTSTART:20260228T170000
+DTEND:20260228T174500
+SUMMARY:🏀 U14 Boys: Solway Titans vs Solway Rebels
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Rebels\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

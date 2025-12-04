@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Allen Fixtures
+X-WR-CALNAME:Malvern Tigers Allen Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:918cd75b-a037-4923-a230-354bca995bbc
+SEQUENCE:0
+DTSTAMP:20251204T171743
+DTSTART:20251213T101500
+DTEND:20251213T110000
+SUMMARY:🏀 U08 Girls: Malvern Tigers Allen vs Warley Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Warley Pira
+ nhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b7bbed5b-4284-4857-941a-e96117c4c1af
+SEQUENCE:0
+DTSTAMP:20251204T171743
+DTSTART:20260131T110000
+DTEND:20260131T114500
+SUMMARY:🏀 U08 Girls: Malvern Tigers Allen vs TImberwolves Diamonds
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: TImberw
+ olves Diamonds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4499fb46-3a38-4f4d-bf5a-d835139bcbc5
+SEQUENCE:0
+DTSTAMP:20251204T171743
+DTSTART:20260207T110000
+DTEND:20260207T114500
+SUMMARY:🏀 U08 Girls: Malvern Tigers Allen vs Solway Stars
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Stars\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1fa7f636-458f-40ef-b80f-eb2a6cd315da
+SEQUENCE:0
+DTSTAMP:20251204T171743
+DTSTART:20260214T101500
+DTEND:20260214T110000
+SUMMARY:🏀 U08 Girls: Malvern Tigers Allen vs Flowerdale Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Flowerdale 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4ec3159c-f66d-46cd-953d-a639f7d808f8
+SEQUENCE:0
+DTSTAMP:20251204T171743
+DTSTART:20260228T101500
+DTEND:20260228T110000
+SUMMARY:🏀 U08 Girls: Malvern Tigers Allen vs Warley Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Warley Pira
+ nhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:40b1e5d6-80c0-4749-ad71-70b3914c3669
+SEQUENCE:0
+DTSTAMP:20251204T171743
+DTSTART:20260314T110000
+DTEND:20260314T114500
+SUMMARY:🏀 U08 Girls: Malvern Tigers Allen vs TImberwolves Diamonds
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: TImberw
+ olves Diamonds\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

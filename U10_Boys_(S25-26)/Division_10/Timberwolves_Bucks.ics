@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Bucks Fixtures
+X-WR-CALNAME:Timberwolves Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:bd01a2c8-99ca-4566-a10e-087018e71a1a
+SEQUENCE:0
+DTSTAMP:20251204T171821
+DTSTART:20251206T101500
+DTEND:20251206T110000
+SUMMARY:🏀 U10 Boys: Timberwolves Bucks vs AlphaWolf Tigers
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: AlphaWolf Tigers\nArrive 15 m
+ ins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:949412a7-3791-4955-9b38-4a70821af6b5
+SEQUENCE:0
+DTSTAMP:20251204T171821
+DTSTART:20251213T080000
+DTEND:20251213T084500
+SUMMARY:🏀 U10 Boys: Timberwolves Bucks vs Toorak Tycoons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
+  Tycoons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:804807c2-5ad1-4b59-8919-f3cfdf94d2df
+SEQUENCE:0
+DTSTAMP:20251204T171821
+DTSTART:20260131T080000
+DTEND:20260131T084500
+SUMMARY:🏀 U10 Boys: Timberwolves Bucks vs SE Venom Magic
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: SE Ven
+ om Magic\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:36007948-4c56-437d-ac19-b9e8b1a7e986
+SEQUENCE:0
+DTSTAMP:20251204T171821
+DTSTART:20260207T110000
+DTEND:20260207T114500
+SUMMARY:🏀 U10 Boys: Timberwolves Bucks vs East Malvern Piranhas
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: East Malvern Piranhas\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:859bc0bd-70e4-42ca-b6cf-22b4c6f2fa77
+SEQUENCE:0
+DTSTAMP:20251204T171821
+DTSTART:20260214T080000
+DTEND:20260214T084500
+SUMMARY:🏀 U10 Boys: Timberwolves Bucks vs Maccabi Giants
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Giants\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4e5ea914-9db1-4163-bd13-50994f82fce7
+SEQUENCE:0
+DTSTAMP:20251204T171821
+DTSTART:20260228T114500
+DTEND:20260228T123000
+SUMMARY:🏀 U10 Boys: Timberwolves Bucks vs Hawksburn Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Hawksb
+ urn Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f56dd67d-1ab6-43ec-8506-a6cea498e8c5
+SEQUENCE:0
+DTSTAMP:20251204T171821
+DTSTART:20260314T114500
+DTEND:20260314T123000
+SUMMARY:🏀 U10 Boys: Timberwolves Bucks vs Glen Iris Scorpions Raven
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
+ ris Scorpions Raven\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Mavericks Fixtures
+X-WR-CALNAME:Maccabi Mavericks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3a204ece-a946-44a0-951d-ded9ad515e1d
+SEQUENCE:0
+DTSTAMP:20251204T171920
+DTSTART:20251206T131500
+DTEND:20251206T140000
+SUMMARY:🏀 U12 Boys: Maccabi Mavericks vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1dd10d5c-1112-4872-a531-daa27e1959d6
+SEQUENCE:0
+DTSTAMP:20251204T171920
+DTSTART:20251213T123000
+DTEND:20251213T131500
+SUMMARY:🏀 U12 Boys: Maccabi Mavericks vs Malvern Tigers Grey
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Grey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8cb7ac70-ec5d-4422-94af-afc4052ac3b5
+SEQUENCE:0
+DTSTAMP:20251204T171920
+DTSTART:20260131T140000
+DTEND:20260131T144500
+SUMMARY:🏀 U12 Boys: Maccabi Mavericks vs Stonnington Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Stonnington Piranhas\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b5e74baf-ce56-47e9-bad7-5d974bf775db
+SEQUENCE:0
+DTSTAMP:20251204T171920
+DTSTART:20260207T140000
+DTEND:20260207T144500
+SUMMARY:🏀 U12 Boys: Maccabi Mavericks vs Timberwolves Stealers
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Stealers\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c22224fe-1849-4db6-974a-596e4810f06e
+SEQUENCE:0
+DTSTAMP:20251204T171920
+DTSTART:20260214T123000
+DTEND:20260214T131500
+SUMMARY:🏀 U12 Boys: Maccabi Mavericks vs Malvern Tigers Amber
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Amber\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2b4f6a9a-1fed-44d8-8987-2909473cbf79
+SEQUENCE:0
+DTSTAMP:20251204T171920
+DTSTART:20260221T123000
+DTEND:20260221T131500
+SUMMARY:🏀 U12 Boys: Maccabi Mavericks vs Toorak Thunder
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Toorak Thunder\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ec78ce3e-b93c-4a61-877c-79b7ebf8a345
+SEQUENCE:0
+DTSTAMP:20251204T171920
+DTSTART:20260228T123000
+DTEND:20260228T131500
+SUMMARY:🏀 U12 Boys: Maccabi Mavericks vs Timberwolves Cyclones
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+ wolves Cyclones\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8e338c4a-b6dd-4784-bfe0-b54f4dcf2de0
+SEQUENCE:0
+DTSTAMP:20251204T171920
+DTSTART:20260314T131500
+DTEND:20260314T140000
+SUMMARY:🏀 U12 Boys: Maccabi Mavericks vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

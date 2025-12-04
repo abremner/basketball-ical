@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Cobras Fixtures
+X-WR-CALNAME:Timberwolves Cobras Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b6c649c8-3123-49cb-a2e8-49b39c74c9fa
+SEQUENCE:0
+DTSTAMP:20251204T171801
+DTSTART:20251206T114500
+DTEND:20251206T123000
+SUMMARY:🏀 U10 Boys: Timberwolves Cobras vs Timberwolves Boomers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Boomers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:db6c0085-8907-4e36-8dc9-e9f91fc77e92
+SEQUENCE:0
+DTSTAMP:20251204T171801
+DTSTART:20251213T114500
+DTEND:20251213T123000
+SUMMARY:🏀 U10 Boys: Timberwolves Cobras vs Tollington Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Tolling
+ ton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d67c8e69-d7ea-46a0-a8e9-485991651238
+SEQUENCE:0
+DTSTAMP:20251204T171801
+DTSTART:20260131T101500
+DTEND:20260131T110000
+SUMMARY:🏀 U10 Boys: Timberwolves Cobras vs Armadale Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Armada
+ le Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c4271413-43c9-40eb-bc58-3b6b88811590
+SEQUENCE:0
+DTSTAMP:20251204T171801
+DTSTART:20260207T101500
+DTEND:20260207T110000
+SUMMARY:🏀 U10 Boys: Timberwolves Cobras vs Solway Boomers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Boomers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:86e66c10-4dfe-4392-bec4-9b906fe36efe
+SEQUENCE:0
+DTSTAMP:20251204T171801
+DTSTART:20260214T114500
+DTEND:20260214T123000
+SUMMARY:🏀 U10 Boys: Timberwolves Cobras vs Toorak Torpedoes
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Toorak Torpedoes\nArrive 15 m
+ ins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a8117ef6-97de-4e55-b901-4f4fdfbfa027
+SEQUENCE:0
+DTSTAMP:20251204T171801
+DTSTART:20260221T110000
+DTEND:20260221T114500
+SUMMARY:🏀 U10 Boys: Timberwolves Cobras vs Maccabi Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b4a3c402-9e30-4527-9a86-031d89efa4af
+SEQUENCE:0
+DTSTAMP:20251204T171801
+DTSTART:20260228T114500
+DTEND:20260228T123000
+SUMMARY:🏀 U10 Boys: Timberwolves Cobras vs Malvern Tigers Yellow
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Yellow\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e43bdd1a-0b30-47f0-aeab-e17d42eb1b99
+SEQUENCE:0
+DTSTAMP:20251204T171801
+DTSTART:20260314T114500
+DTEND:20260314T123000
+SUMMARY:🏀 U10 Boys: Timberwolves Cobras vs Timberwolves Boomers
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Boomers\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

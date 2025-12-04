@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Giants Fixtures
+X-WR-CALNAME:Maccabi Giants Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d612c222-353f-4574-b2b3-59c6c55bf6cb
+SEQUENCE:0
+DTSTAMP:20251204T171910
+DTSTART:20251206T140000
+DTEND:20251206T144500
+SUMMARY:🏀 U12 Boys: Maccabi Giants vs Comets Cyclones
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Comets Cyclones\nArrive 15 mi
+ ns early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b01e22a1-af36-4a12-ac59-a1e812315e1d
+SEQUENCE:0
+DTSTAMP:20251204T171910
+DTSTART:20251213T140000
+DTEND:20251213T144500
+SUMMARY:🏀 U12 Boys: Maccabi Giants vs AlphaWolf Lakers
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: AlphaWolf Lakers\nArrive 15 m
+ ins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6400de00-09af-4b11-bb2f-ca109fd9233f
+SEQUENCE:0
+DTSTAMP:20251204T171910
+DTSTART:20260131T123000
+DTEND:20260131T131500
+SUMMARY:🏀 U12 Boys: Maccabi Giants vs Malvern Tigers Purple
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Purple\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:21a2508d-a49b-4529-af7a-bbae1a9943b6
+SEQUENCE:0
+DTSTAMP:20251204T171910
+DTSTART:20260207T123000
+DTEND:20260207T131500
+SUMMARY:🏀 U12 Boys: Maccabi Giants vs Glen Iris Scorpions Gardiner
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
+ is Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6e8328af-ab5d-4bac-9915-356414b953ba
+SEQUENCE:0
+DTSTAMP:20251204T171910
+DTSTART:20260214T123000
+DTEND:20260214T131500
+SUMMARY:🏀 U12 Boys: Maccabi Giants vs Solway Lions
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Lions\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:64e326cf-4064-4ddf-b437-c96d891f6bd4
+SEQUENCE:0
+DTSTAMP:20251204T171910
+DTSTART:20260228T123000
+DTEND:20260228T131500
+SUMMARY:🏀 U12 Boys: Maccabi Giants vs Toorak Trouble
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Trouble\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:295a6cb9-2c44-4518-8329-32b63d7c80c8
+SEQUENCE:0
+DTSTAMP:20251204T171910
+DTSTART:20260314T140000
+DTEND:20260314T144500
+SUMMARY:🏀 U12 Boys: Maccabi Giants vs Comets Cyclones
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Comets Cyclones\nArrive 15 mi
+ ns early for warm-up
+END:VEVENT
+END:VCALENDAR

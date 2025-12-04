@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AUBD Thunder Fixtures
+X-WR-CALNAME:AUBD Thunder Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:61b96546-7d49-49fb-8fb5-547548ce1a0f
+SEQUENCE:0
+DTSTAMP:20251204T172044
+DTSTART:20251206T191500
+DTEND:20251206T200000
+SUMMARY:🏀 U16 Boys: AUBD Thunder vs Solway Blazers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Blazers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d4c37007-766a-4261-976e-b0ff2d594b30
+SEQUENCE:0
+DTSTAMP:20251204T172044
+DTSTART:20251213T183000
+DTEND:20251213T191500
+SUMMARY:🏀 U16 Boys: AUBD Thunder vs Timberwolves Magnum
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Magnum\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c3310528-adce-4510-b5a5-14905559b633
+SEQUENCE:0
+DTSTAMP:20251204T172044
+DTSTART:20260131T183000
+DTEND:20260131T191500
+SUMMARY:🏀 U16 Boys: AUBD Thunder vs Timberwolves Cats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Cats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f73ee2a6-c262-4c6c-b9b3-09ff6372420c
+SEQUENCE:0
+DTSTAMP:20251204T172044
+DTSTART:20260207T174500
+DTEND:20260207T183000
+SUMMARY:🏀 U16 Boys: AUBD Thunder vs Maccabi Half Court Miracles
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Half Court Miracles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:36d79095-bade-4226-b7fb-9b7b0e266eaa
+SEQUENCE:0
+DTSTAMP:20251204T172044
+DTSTART:20260214T191500
+DTEND:20260214T200000
+SUMMARY:🏀 U16 Boys: AUBD Thunder vs Timberwolves Nuggets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Nuggets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:69c2b1a3-7f93-4d15-a7af-11e21d2d5643
+SEQUENCE:0
+DTSTAMP:20251204T172044
+DTSTART:20260228T174500
+DTEND:20260228T183000
+SUMMARY:🏀 U16 Boys: AUBD Thunder vs Toorak Tyrants
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
+  Tyrants\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:585ea6b8-c3ee-4f18-963b-764d7068a85d
+SEQUENCE:0
+DTSTAMP:20251204T172044
+DTSTART:20260314T191500
+DTEND:20260314T200000
+SUMMARY:🏀 U16 Boys: AUBD Thunder vs Malvern Tigers Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

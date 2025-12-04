@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Thrashers Fixtures
+X-WR-CALNAME:Toorak Thrashers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:dd65f8c1-6c1c-4d69-a61b-d978b066d798
+SEQUENCE:0
+DTSTAMP:20251204T171809
+DTSTART:20251206T101500
+DTEND:20251206T110000
+SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Solway Bulls
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Solway Bulls\nArrive 15 mins 
+ early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:253f0f0f-63aa-4538-87f2-a94044d8ff2d
+SEQUENCE:0
+DTSTAMP:20251204T171809
+DTSTART:20251213T101500
+DTEND:20251213T110000
+SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Malvern Tigers Blue
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Blue\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:07f3aa5f-9a69-41dc-9987-973e83f497cb
+SEQUENCE:0
+DTSTAMP:20251204T171809
+DTSTART:20260131T084500
+DTEND:20260131T093000
+SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Golden Hawks Iron
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Golden
+  Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:38a5b943-8c59-4bd5-9882-2349985801fc
+SEQUENCE:0
+DTSTAMP:20251204T171809
+DTSTART:20260207T084500
+DTEND:20260207T093000
+SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Orrong Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Orrong
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2d5bd6fb-5bd3-4fd1-a785-c95a4f3b198b
+SEQUENCE:0
+DTSTAMP:20251204T171809
+DTSTART:20260214T101500
+DTEND:20260214T110000
+SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Timberwolves Cubs
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Cubs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5d118b45-dbc6-4305-b1bf-96baa2390ff7
+SEQUENCE:0
+DTSTAMP:20251204T171809
+DTSTART:20260221T101500
+DTEND:20260221T110000
+SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Maccabi Ducks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0f5b25fa-21ed-4ceb-afb4-ce1fd8c41895
+SEQUENCE:0
+DTSTAMP:20251204T171809
+DTSTART:20260228T093000
+DTEND:20260228T101500
+SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Glen Iris Scorpions Nettleton
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
+ ris Scorpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:85fe1175-4130-4299-a931-587d6cca656c
+SEQUENCE:0
+DTSTAMP:20251204T171809
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Solway Bulls
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Bulls\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

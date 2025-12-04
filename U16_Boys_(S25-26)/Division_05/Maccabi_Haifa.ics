@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Haifa Fixtures
+X-WR-CALNAME:Maccabi Haifa Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c88a337d-9394-44b9-b6d5-c941f4720a0a
+SEQUENCE:0
+DTSTAMP:20251204T172052
+DTSTART:20251206T191500
+DTEND:20251206T200000
+SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Malvern Tigers White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:85494cf4-e7d1-4f21-987e-83939b7299e1
+SEQUENCE:0
+DTSTAMP:20251204T172052
+DTSTART:20251213T191500
+DTEND:20251213T200000
+SUMMARY:🏀 U16 Boys: Maccabi Haifa vs AlphaWolf Tornados
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
+ olf Tornados\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:69b2dfe2-e5aa-424a-b95a-705a2d349d20
+SEQUENCE:0
+DTSTAMP:20251204T172052
+DTSTART:20260207T183000
+DTEND:20260207T191500
+SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Toorak Trackers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Trackers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0d966cba-59b2-4fe5-9297-4e61973bccc4
+SEQUENCE:0
+DTSTAMP:20251204T172052
+DTSTART:20260214T183000
+DTEND:20260214T191500
+SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Glen Iris Scorpions Sixers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
+ is Scorpions Sixers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a9efd81f-cdde-40fb-bec6-c55894d025b3
+SEQUENCE:0
+DTSTAMP:20251204T172052
+DTSTART:20260221T191500
+DTEND:20260221T200000
+SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Malvern Tigers White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d9b3290a-4bd2-48ae-b83d-f653aa7a69bb
+SEQUENCE:0
+DTSTAMP:20251204T172052
+DTSTART:20260228T191500
+DTEND:20260228T200000
+SUMMARY:🏀 U16 Boys: Maccabi Haifa vs AlphaWolf Tornados
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
+ olf Tornados\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Blazers Fixtures
+X-WR-CALNAME:Solway Blazers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:806ce5b4-4061-4a6b-a444-f4aa93f1291d
+SEQUENCE:0
+DTSTAMP:20251204T172045
+DTSTART:20251206T191500
+DTEND:20251206T200000
+SUMMARY:🏀 U16 Boys: Solway Blazers vs AUBD Thunder
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AUBD T
+ hunder\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4a6a029d-4646-4c32-8510-966cb4cf1ea8
+SEQUENCE:0
+DTSTAMP:20251204T172045
+DTSTART:20251213T191500
+DTEND:20251213T200000
+SUMMARY:🏀 U16 Boys: Solway Blazers vs Malvern Tigers Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:10e15566-18d1-497a-afa3-d5225c529139
+SEQUENCE:0
+DTSTAMP:20251204T172045
+DTSTART:20260131T191500
+DTEND:20260131T200000
+SUMMARY:🏀 U16 Boys: Solway Blazers vs Toorak Tyrants
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
+  Tyrants\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8db8a68d-0df5-4fc2-928f-12fc27e97b5f
+SEQUENCE:0
+DTSTAMP:20251204T172045
+DTSTART:20260207T191500
+DTEND:20260207T200000
+SUMMARY:🏀 U16 Boys: Solway Blazers vs Timberwolves Magnum
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Magnum\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fb3ec436-f316-40a6-9947-72423c3b2e8a
+SEQUENCE:0
+DTSTAMP:20251204T172045
+DTSTART:20260214T183000
+DTEND:20260214T191500
+SUMMARY:🏀 U16 Boys: Solway Blazers vs Maccabi Half Court Miracles
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Half Court Miracles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b2998a96-30a1-4642-9c34-b4c6968deeea
+SEQUENCE:0
+DTSTAMP:20251204T172045
+DTSTART:20260221T174500
+DTEND:20260221T183000
+SUMMARY:🏀 U16 Boys: Solway Blazers vs Timberwolves Nuggets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Nuggets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ef60d384-ab23-4ae9-915b-74fa9209e5f4
+SEQUENCE:0
+DTSTAMP:20251204T172045
+DTSTART:20260314T183000
+DTEND:20260314T191500
+SUMMARY:🏀 U16 Boys: Solway Blazers vs Solway Super Sonics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Super Sonics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

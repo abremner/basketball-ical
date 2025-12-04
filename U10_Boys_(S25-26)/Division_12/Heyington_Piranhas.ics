@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Heyington Piranhas Fixtures
+X-WR-CALNAME:Heyington Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ef70c3de-463a-4366-afef-99328a1ef7ee
+SEQUENCE:0
+DTSTAMP:20251204T171827
+DTSTART:20251206T101500
+DTEND:20251206T110000
+SUMMARY:🏀 U10 Boys: Heyington Piranhas vs Viewbank Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Viewba
+ nk Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4681a0f6-9258-4d74-86a7-c146a6cd37e8
+SEQUENCE:0
+DTSTAMP:20251204T171827
+DTSTART:20260131T084500
+DTEND:20260131T093000
+SUMMARY:🏀 U10 Boys: Heyington Piranhas vs Maccabi Kings
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Kings\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:caeac024-5241-4faf-bd57-b8d3e5a49a13
+SEQUENCE:0
+DTSTAMP:20251204T171827
+DTSTART:20260207T093000
+DTEND:20260207T101500
+SUMMARY:🏀 U10 Boys: Heyington Piranhas vs Comets Eagles
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Comets Eagles\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:da94b83f-0c14-486b-a0d9-95af558cd41b
+SEQUENCE:0
+DTSTAMP:20251204T171827
+DTSTART:20260214T080000
+DTEND:20260214T084500
+SUMMARY:🏀 U10 Boys: Heyington Piranhas vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:11bd431f-2ddd-43a1-8c33-c7ce14de1143
+SEQUENCE:0
+DTSTAMP:20251204T171827
+DTSTART:20260221T101500
+DTEND:20260221T110000
+SUMMARY:🏀 U10 Boys: Heyington Piranhas vs Solway Force
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Force\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ad4967b7-adc0-45ea-9ff0-516698e08994
+SEQUENCE:0
+DTSTAMP:20251204T171827
+DTSTART:20260228T080000
+DTEND:20260228T084500
+SUMMARY:🏀 U10 Boys: Heyington Piranhas vs Malvern Tigers Lime
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Lime\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6b2afce9-155d-4ce0-a944-e433ca2dc296
+SEQUENCE:0
+DTSTAMP:20251204T171827
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U10 Boys: Heyington Piranhas vs Timberwolves Hawks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

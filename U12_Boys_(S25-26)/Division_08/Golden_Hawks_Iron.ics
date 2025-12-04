@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Golden Hawks Iron Fixtures
+X-WR-CALNAME:Golden Hawks Iron Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0177c35a-49d3-44e2-9182-0b66df194557
+SEQUENCE:0
+DTSTAMP:20251204T171917
+DTSTART:20251206T131500
+DTEND:20251206T140000
+SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Maccabi Jaguars
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Jaguars\nArrive 15 mi
+ ns early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:daa3031e-516d-4a26-9de1-994b8d1575a9
+SEQUENCE:0
+DTSTAMP:20251204T171917
+DTSTART:20251213T123000
+DTEND:20251213T131500
+SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Glen Iris Scorpions Nettleton
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4b6c09d9-74b7-4154-b3d3-4d3d8e41a2e7
+SEQUENCE:0
+DTSTAMP:20251204T171917
+DTSTART:20260131T123000
+DTEND:20260131T131500
+SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Ardrie Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ardrie
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5faab046-a036-41bc-b314-bf499cdf05fc
+SEQUENCE:0
+DTSTAMP:20251204T171917
+DTSTART:20260207T131500
+DTEND:20260207T140000
+SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs SE Venom RBT Spurs
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: SE Veno
+ m RBT Spurs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:05039efe-c805-44db-8aed-4e842ea79c73
+SEQUENCE:0
+DTSTAMP:20251204T171917
+DTSTART:20260214T131500
+DTEND:20260214T140000
+SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Ashy Lightning Yellow
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Ashy Lightning Yellow\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:650fd62a-e3cd-44d8-b580-b1e1b97ed282
+SEQUENCE:0
+DTSTAMP:20251204T171917
+DTSTART:20260228T131500
+DTEND:20260228T140000
+SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Warrawee Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Warrawe
+ e Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a1057341-873d-4573-a5aa-aa4cd1c8b450
+SEQUENCE:0
+DTSTAMP:20251204T171917
+DTSTART:20260314T123000
+DTEND:20260314T131500
+SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Maccabi Hawks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

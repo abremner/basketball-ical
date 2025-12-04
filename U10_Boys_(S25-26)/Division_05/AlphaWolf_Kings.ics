@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Kings Fixtures
+X-WR-CALNAME:AlphaWolf Kings Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:082fe00a-d233-4692-ad47-c2bee03bf144
+SEQUENCE:0
+DTSTAMP:20251204T171802
+DTSTART:20251206T084500
+DTEND:20251206T093000
+SUMMARY:🏀 U10 Boys: AlphaWolf Kings vs Penpraze Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Penpra
+ ze Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f5855fd4-4da7-48d0-9d4c-50daabb878a7
+SEQUENCE:0
+DTSTAMP:20251204T171802
+DTSTART:20251213T084500
+DTEND:20251213T093000
+SUMMARY:🏀 U10 Boys: AlphaWolf Kings vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1bfc7688-3518-4f2e-a716-1dfbba0e59d1
+SEQUENCE:0
+DTSTAMP:20251204T171802
+DTSTART:20260131T093000
+DTEND:20260131T101500
+SUMMARY:🏀 U10 Boys: AlphaWolf Kings vs Solway Spurs
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Spurs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:44b06670-2439-415c-baba-d35528c476df
+SEQUENCE:0
+DTSTAMP:20251204T171802
+DTSTART:20260207T093000
+DTEND:20260207T101500
+SUMMARY:🏀 U10 Boys: AlphaWolf Kings vs Dendy Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Dendy 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:86db6b3c-620d-43ea-bb0a-3695cdab758a
+SEQUENCE:0
+DTSTAMP:20251204T171802
+DTSTART:20260214T093000
+DTEND:20260214T101500
+SUMMARY:🏀 U10 Boys: AlphaWolf Kings vs Malvern Tigers Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0dfbaf20-d900-443f-8a73-31e8dc0f4a2f
+SEQUENCE:0
+DTSTAMP:20251204T171802
+DTSTART:20260221T093000
+DTEND:20260221T101500
+SUMMARY:🏀 U10 Boys: AlphaWolf Kings vs Malvern Tigers White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5ca18e67-cb60-4746-b82f-c6edd7837453
+SEQUENCE:0
+DTSTAMP:20251204T171802
+DTSTART:20260314T084500
+DTEND:20260314T093000
+SUMMARY:🏀 U10 Boys: AlphaWolf Kings vs Maccabi Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

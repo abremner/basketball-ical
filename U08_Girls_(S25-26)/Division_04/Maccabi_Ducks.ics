@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Ducks Fixtures
+X-WR-CALNAME:Maccabi Ducks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f2e9cb2b-be19-4caa-a1f4-4da1bd84f931
+SEQUENCE:0
+DTSTAMP:20251204T171752
+DTSTART:20251206T101500
+DTEND:20251206T110000
+SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Korowa Cherry
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Korowa 
+ Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f7e01a02-3110-4875-a793-ff48a5a23a27
+SEQUENCE:0
+DTSTAMP:20251204T171752
+DTSTART:20251213T101500
+DTEND:20251213T110000
+SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Solway Supernovas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Supernovas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:44784485-df19-413f-b064-addb9bceb644
+SEQUENCE:0
+DTSTAMP:20251204T171752
+DTSTART:20260131T084500
+DTEND:20260131T093000
+SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Ashy Lightning Green
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
+ ing Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d4d4c571-38e2-4de5-a0bd-06982e0df7f2
+SEQUENCE:0
+DTSTAMP:20251204T171752
+DTSTART:20260207T093000
+DTEND:20260207T101500
+SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Malvern Tigers Atwell
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Atwell\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:18af9cf9-01bb-44d9-a47e-e0c12b18b8df
+SEQUENCE:0
+DTSTAMP:20251204T171752
+DTSTART:20260214T101500
+DTEND:20260214T110000
+SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Wallis Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Wallis 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:406d5b17-7864-40d9-8749-cd3d44147803
+SEQUENCE:0
+DTSTAMP:20251204T171752
+DTSTART:20260221T093000
+DTEND:20260221T101500
+SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Lauriston Flyers
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston F
+ lyers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:eff69246-f6ec-491e-84e2-b8e0b086ebd1
+SEQUENCE:0
+DTSTAMP:20251204T171752
+DTSTART:20260228T101500
+DTEND:20260228T110000
+SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Kerferd Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Kerferd
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b5de88b9-4758-4db6-9930-695642d4f98f
+SEQUENCE:0
+DTSTAMP:20251204T171752
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Korowa Cherry
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Korowa 
+ Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Warley Piranhas Fixtures
+X-WR-CALNAME:Warley Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1f98c3a8-14be-40e2-9d79-5322fedd74bd
+SEQUENCE:0
+DTSTAMP:20251204T171745
+DTSTART:20251206T101500
+DTEND:20251206T110000
+SUMMARY:🏀 U08 Girls: Warley Piranhas vs Solway Stars
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Star
+ s\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8ad3031f-58f5-4e6d-9df3-1e5818ab6725
+SEQUENCE:0
+DTSTAMP:20251204T171745
+DTSTART:20251213T101500
+DTEND:20251213T110000
+SUMMARY:🏀 U08 Girls: Warley Piranhas vs Malvern Tigers Allen
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Allen\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8577d21d-4602-464a-a4f7-6034bfc221b3
+SEQUENCE:0
+DTSTAMP:20251204T171745
+DTSTART:20260207T101500
+DTEND:20260207T110000
+SUMMARY:🏀 U08 Girls: Warley Piranhas vs Flowerdale Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Flowerdale 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4e04fcc2-bc82-4db8-bcf8-04448be0f4e7
+SEQUENCE:0
+DTSTAMP:20251204T171745
+DTSTART:20260214T110000
+DTEND:20260214T114500
+SUMMARY:🏀 U08 Girls: Warley Piranhas vs TImberwolves Diamonds
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: TImberw
+ olves Diamonds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9f53b37b-e955-42a1-9596-d2a6e314228f
+SEQUENCE:0
+DTSTAMP:20251204T171745
+DTSTART:20260221T101500
+DTEND:20260221T110000
+SUMMARY:🏀 U08 Girls: Warley Piranhas vs Solway Stars
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Star
+ s\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2523f952-5033-462c-b5ce-cc23991d7bf6
+SEQUENCE:0
+DTSTAMP:20251204T171745
+DTSTART:20260228T101500
+DTEND:20260228T110000
+SUMMARY:🏀 U08 Girls: Warley Piranhas vs Malvern Tigers Allen
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Allen\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

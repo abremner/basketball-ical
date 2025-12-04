@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Eagles Fixtures
+X-WR-CALNAME:Maccabi Eagles Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4e342d84-b20a-41a0-b6be-af00caac7577
+SEQUENCE:0
+DTSTAMP:20251204T171815
+DTSTART:20251206T093000
+DTEND:20251206T101500
+SUMMARY:🏀 U10 Boys: Maccabi Eagles vs Toorak Tigersharks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Tigersharks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9a9b61e2-2ef9-4805-a5f0-a514541ce651
+SEQUENCE:0
+DTSTAMP:20251204T171815
+DTSTART:20251213T093000
+DTEND:20251213T101500
+SUMMARY:🏀 U10 Boys: Maccabi Eagles vs Solway Nets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Nets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c358ba4e-88a4-4207-9c3e-5d147c8741eb
+SEQUENCE:0
+DTSTAMP:20251204T171815
+DTSTART:20260207T080000
+DTEND:20260207T084500
+SUMMARY:🏀 U10 Boys: Maccabi Eagles vs Solway Hornets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Hornets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:03f23c40-c6f3-4cbc-9e94-c95a45eb8ed9
+SEQUENCE:0
+DTSTAMP:20251204T171815
+DTSTART:20260214T080000
+DTEND:20260214T084500
+SUMMARY:🏀 U10 Boys: Maccabi Eagles vs Malvern Tigers Purple
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Purple\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8a40b522-b078-4550-bfb2-628b1e45775d
+SEQUENCE:0
+DTSTAMP:20251204T171815
+DTSTART:20260221T093000
+DTEND:20260221T101500
+SUMMARY:🏀 U10 Boys: Maccabi Eagles vs Toorak Tigersharks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Tigersharks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cb645d99-dea0-443c-85b8-d6ef4fc90a6c
+SEQUENCE:0
+DTSTAMP:20251204T171815
+DTSTART:20260228T093000
+DTEND:20260228T101500
+SUMMARY:🏀 U10 Boys: Maccabi Eagles vs Solway Nets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Nets\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Lakers Fixtures
+X-WR-CALNAME:AlphaWolf Lakers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b8f8bb70-257a-4ca0-b2ce-f2a7abf547b6
+SEQUENCE:0
+DTSTAMP:20251204T171909
+DTSTART:20251206T123000
+DTEND:20251206T131500
+SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs Malvern Tigers Purple
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Purple\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7e104a1f-675b-4f0e-bbe7-02a30ec93360
+SEQUENCE:0
+DTSTAMP:20251204T171909
+DTSTART:20251213T140000
+DTEND:20251213T144500
+SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs Maccabi Giants
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Giants\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ab1ea357-9ffa-4587-8c18-845e17d967f9
+SEQUENCE:0
+DTSTAMP:20251204T171909
+DTSTART:20260131T123000
+DTEND:20260131T131500
+SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs Glen Iris Scorpions Gardiner
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
+ is Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa39b6d-2ddf-40d1-9bf3-430451c2da03
+SEQUENCE:0
+DTSTAMP:20251204T171909
+DTSTART:20260207T123000
+DTEND:20260207T131500
+SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs Toorak Trouble
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Trouble\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0d80b5ed-ff56-4460-b456-2db9db774d20
+SEQUENCE:0
+DTSTAMP:20251204T171909
+DTSTART:20260221T123000
+DTEND:20260221T131500
+SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs Comets Cyclones
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Comets 
+ Cyclones\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:06dfe153-3a9f-44f7-8c6f-28600f36a809
+SEQUENCE:0
+DTSTAMP:20251204T171909
+DTSTART:20260228T140000
+DTEND:20260228T144500
+SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs Solway Lions
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Solway Lions\nArrive 15 mins 
+ early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5ae6f8f5-4510-4fde-aec5-1362c9b9f3a9
+SEQUENCE:0
+DTSTAMP:20251204T171909
+DTSTART:20260314T123000
+DTEND:20260314T131500
+SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs Malvern Tigers Purple
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Purple\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

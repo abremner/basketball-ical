@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Arax Fixtures
+X-WR-CALNAME:Arax Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1faed905-1f3c-459e-bc9a-521d6a307a9c
+SEQUENCE:0
+DTSTAMP:20251204T172042
+DTSTART:20251206T174500
+DTEND:20251206T183000
+SUMMARY:🏀 U16 Boys: Arax vs Toorak Tropics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
+  Tropics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:68e8d264-8347-4c36-a780-0c9cadf61928
+SEQUENCE:0
+DTSTAMP:20251204T172042
+DTSTART:20251213T191500
+DTEND:20251213T200000
+SUMMARY:🏀 U16 Boys: Arax vs Timberwolves Taipans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Taipans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:27da1632-a8d2-4c94-bfc6-35bc15fe2962
+SEQUENCE:0
+DTSTAMP:20251204T172042
+DTSTART:20260131T183000
+DTEND:20260131T191500
+SUMMARY:🏀 U16 Boys: Arax vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:edccf1bd-e58f-47c7-8fee-5ed315fa001f
+SEQUENCE:0
+DTSTAMP:20251204T172042
+DTSTART:20260207T191500
+DTEND:20260207T200000
+SUMMARY:🏀 U16 Boys: Arax vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:07a092e1-35ad-4a43-8b64-080ce83eaded
+SEQUENCE:0
+DTSTAMP:20251204T172042
+DTSTART:20260214T174500
+DTEND:20260214T183000
+SUMMARY:🏀 U16 Boys: Arax vs Timberwolves Raiders
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Raiders\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5c5109c4-6fde-48ba-84e2-c2b094ea1e9a
+SEQUENCE:0
+DTSTAMP:20251204T172042
+DTSTART:20260221T174500
+DTEND:20260221T183000
+SUMMARY:🏀 U16 Boys: Arax vs Toorak Tropics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
+  Tropics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4f06f109-47b7-4352-8341-c5495abe7b54
+SEQUENCE:0
+DTSTAMP:20251204T172042
+DTSTART:20260228T191500
+DTEND:20260228T200000
+SUMMARY:🏀 U16 Boys: Arax vs Timberwolves Taipans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Taipans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3c13c303-1c52-42c7-a09e-48689348d5ff
+SEQUENCE:0
+DTSTAMP:20251204T172042
+DTSTART:20260314T183000
+DTEND:20260314T191500
+SUMMARY:🏀 U16 Boys: Arax vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

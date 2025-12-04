@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Claremont Piranhas Fixtures
+X-WR-CALNAME:Claremont Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c89e7cbe-2831-4b21-9b6c-7b230ce45d11
+SEQUENCE:0
+DTSTAMP:20251204T171721
+DTSTART:20251206T093000
+DTEND:20251206T101500
+SUMMARY:🏀 U08 Boys: Claremont Piranhas vs Ashy Lightning Gold
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
+ ghtning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ffb582e2-5291-4f34-91a6-80e107b350ad
+SEQUENCE:0
+DTSTAMP:20251204T171721
+DTSTART:20251213T093000
+DTEND:20251213T101500
+SUMMARY:🏀 U08 Boys: Claremont Piranhas vs Malvern Tigers Daniels
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Daniels\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:23766c26-0910-46cb-b9d6-3bb3234c59e3
+SEQUENCE:0
+DTSTAMP:20251204T171721
+DTSTART:20260207T114500
+DTEND:20260207T123000
+SUMMARY:🏀 U08 Boys: Claremont Piranhas vs Maccabi Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:00245571-4ab6-4e53-94a6-1e1ec3b1fe68
+SEQUENCE:0
+DTSTAMP:20251204T171721
+DTSTART:20260214T114500
+DTEND:20260214T123000
+SUMMARY:🏀 U08 Boys: Claremont Piranhas vs Timberwolves Blasters
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Blasters\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5eedf306-2d06-47b3-a9cd-63df568da11a
+SEQUENCE:0
+DTSTAMP:20251204T171721
+DTSTART:20260221T093000
+DTEND:20260221T101500
+SUMMARY:🏀 U08 Boys: Claremont Piranhas vs Ashy Lightning Gold
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
+ ghtning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:59a7d0cb-e436-4dc1-a2f4-9b071c0ec449
+SEQUENCE:0
+DTSTAMP:20251204T171721
+DTSTART:20260228T093000
+DTEND:20260228T101500
+SUMMARY:🏀 U08 Boys: Claremont Piranhas vs Malvern Tigers Daniels
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Daniels\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

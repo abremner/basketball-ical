@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Creswick Piranhas Fixtures
+X-WR-CALNAME:Creswick Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:86c1dff0-4a92-45c1-9b53-2e554fd4e680
+SEQUENCE:0
+DTSTAMP:20251204T171943
+DTSTART:20251206T123000
+DTEND:20251206T131500
+SUMMARY:🏀 U12 Girls: Creswick Piranhas vs Korowa Grey
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Korowa 
+ Grey\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1911ca41-e6c3-4d32-965f-f317a302aa1d
+SEQUENCE:0
+DTSTAMP:20251204T171943
+DTSTART:20251213T140000
+DTEND:20251213T144500
+SUMMARY:🏀 U12 Girls: Creswick Piranhas vs Maccabi Eagles
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Eag
+ les\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5f15d9d2-6e71-4696-8ffb-b7119fbb8ad7
+SEQUENCE:0
+DTSTAMP:20251204T171943
+DTSTART:20260131T131500
+DTEND:20260131T140000
+SUMMARY:🏀 U12 Girls: Creswick Piranhas vs Solway Red Robins
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Red Robins\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f6ac6257-07ba-4ad1-890f-bf8f641f01e3
+SEQUENCE:0
+DTSTAMP:20251204T171943
+DTSTART:20260214T140000
+DTEND:20260214T144500
+SUMMARY:🏀 U12 Girls: Creswick Piranhas vs Solway Sparrows
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Spar
+ rows\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a0032ee1-3ebd-41a8-af74-399df86ff243
+SEQUENCE:0
+DTSTAMP:20251204T171943
+DTSTART:20260221T131500
+DTEND:20260221T140000
+SUMMARY:🏀 U12 Girls: Creswick Piranhas vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:349668c7-9c4b-4e1c-a7be-668907f4ba94
+SEQUENCE:0
+DTSTAMP:20251204T171943
+DTSTART:20260228T140000
+DTEND:20260228T144500
+SUMMARY:🏀 U12 Girls: Creswick Piranhas vs Maccabi Ducks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Duc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a5ac8a33-d1e3-4a5a-88f3-f4d2d326944d
+SEQUENCE:0
+DTSTAMP:20251204T171943
+DTSTART:20260314T140000
+DTEND:20260314T144500
+SUMMARY:🏀 U12 Girls: Creswick Piranhas vs Lauriston Storm
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston S
+ torm\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

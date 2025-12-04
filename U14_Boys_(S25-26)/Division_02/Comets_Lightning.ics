@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Comets Lightning Fixtures
+X-WR-CALNAME:Comets Lightning Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:78f3c334-6b62-4391-9572-19f83460b388
+SEQUENCE:0
+DTSTAMP:20251204T171953
+DTSTART:20251206T174500
+DTEND:20251206T183000
+SUMMARY:🏀 U14 Boys: Comets Lightning vs Timberwolves Rocks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Rocks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1b0e061f-cb73-4b40-b3a7-a32179c9359d
+SEQUENCE:0
+DTSTAMP:20251204T171953
+DTSTART:20260131T174500
+DTEND:20260131T183000
+SUMMARY:🏀 U14 Boys: Comets Lightning vs Maccabi Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b37d8e39-d0d7-4fd0-ab50-c1dc642267a0
+SEQUENCE:0
+DTSTAMP:20251204T171953
+DTSTART:20260207T174500
+DTEND:20260207T183000
+SUMMARY:🏀 U14 Boys: Comets Lightning vs Glen Iris Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
+ is Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bb63322d-044a-423a-90cd-42e9c6b0397c
+SEQUENCE:0
+DTSTAMP:20251204T171953
+DTSTART:20260214T170000
+DTEND:20260214T174500
+SUMMARY:🏀 U14 Boys: Comets Lightning vs Paxton Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Paxton
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b5b252-2aee-484a-83e8-98ca7b4d3009
+SEQUENCE:0
+DTSTAMP:20251204T171953
+DTSTART:20260221T170000
+DTEND:20260221T174500
+SUMMARY:🏀 U14 Boys: Comets Lightning vs Elsternwick Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Elster
+ nwick Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:66b2882d-1699-4ef1-977c-81543ac2a923
+SEQUENCE:0
+DTSTAMP:20251204T171953
+DTSTART:20260228T170000
+DTEND:20260228T174500
+SUMMARY:🏀 U14 Boys: Comets Lightning vs Glen Iris Scorpions Gardiner
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
+ ris Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0a684e27-9e1a-4d21-b55e-4b5b4f109858
+SEQUENCE:0
+DTSTAMP:20251204T171953
+DTSTART:20260314T170000
+DTEND:20260314T174500
+SUMMARY:🏀 U14 Boys: Comets Lightning vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

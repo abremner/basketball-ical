@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Korowa Grey Fixtures
+X-WR-CALNAME:Korowa Grey Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:57963cf0-4eb9-4904-81ff-0694bead95a0
+SEQUENCE:0
+DTSTAMP:20251204T171943
+DTSTART:20251206T123000
+DTEND:20251206T131500
+SUMMARY:🏀 U12 Girls: Korowa Grey vs Creswick Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Creswic
+ k Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bec5ac72-7c71-4a44-8525-3360bd744db8
+SEQUENCE:0
+DTSTAMP:20251204T171943
+DTSTART:20251213T123000
+DTEND:20251213T131500
+SUMMARY:🏀 U12 Girls: Korowa Grey vs Solway Red Robins
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Red Robins\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6f791dc0-902b-4c9d-ad05-aa8114ccbde2
+SEQUENCE:0
+DTSTAMP:20251204T171943
+DTSTART:20260131T140000
+DTEND:20260131T144500
+SUMMARY:🏀 U12 Girls: Korowa Grey vs Solway Sparrows
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Spar
+ rows\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a73044f2-ba57-43b9-ab0f-cfa788bcb2b3
+SEQUENCE:0
+DTSTAMP:20251204T171943
+DTSTART:20260207T140000
+DTEND:20260207T144500
+SUMMARY:🏀 U12 Girls: Korowa Grey vs Maccabi Ducks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Duc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:54f486b6-19df-4fcd-a913-1ed48384cd5d
+SEQUENCE:0
+DTSTAMP:20251204T171943
+DTSTART:20260214T131500
+DTEND:20260214T140000
+SUMMARY:🏀 U12 Girls: Korowa Grey vs Timberwolves Pearls
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Pearls\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:19b21ef6-9885-48b8-a891-f771da43fafd
+SEQUENCE:0
+DTSTAMP:20251204T171943
+DTSTART:20260221T123000
+DTEND:20260221T131500
+SUMMARY:🏀 U12 Girls: Korowa Grey vs Lauriston Storm
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Laurist
+ on Storm\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8780636d-ac47-48e9-89b7-c0126dad535a
+SEQUENCE:0
+DTSTAMP:20251204T171943
+DTSTART:20260228T131500
+DTEND:20260228T140000
+SUMMARY:🏀 U12 Girls: Korowa Grey vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

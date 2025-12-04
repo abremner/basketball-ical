@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ab05ca6d-71f7-4d66-89d8-e2ee278840bd
+SEQUENCE:0
+DTSTAMP:20251204T172057
+DTSTART:20251206T191500
+DTEND:20251206T200000
+SUMMARY:🏀 U16 Boys: Maccabi Bucks vs Malvern Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3b5b19ec-24e9-41e4-8cd1-b024c475996a
+SEQUENCE:0
+DTSTAMP:20251204T172057
+DTSTART:20251213T174500
+DTEND:20251213T183000
+SUMMARY:🏀 U16 Boys: Maccabi Bucks vs Timberwolves Blaze
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Blaze\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:68833170-e6c6-4e42-b536-d9368259fd23
+SEQUENCE:0
+DTSTAMP:20251204T172057
+DTSTART:20260131T183000
+DTEND:20260131T191500
+SUMMARY:🏀 U16 Boys: Maccabi Bucks vs Malvern Tigers Orange
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:53a03641-4923-4c03-8997-57619d24df4f
+SEQUENCE:0
+DTSTAMP:20251204T172057
+DTSTART:20260207T191500
+DTEND:20260207T200000
+SUMMARY:🏀 U16 Boys: Maccabi Bucks vs Solway Rangers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Rangers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0c1d9967-1fe6-42f3-aa14-3c893c0abfde
+SEQUENCE:0
+DTSTAMP:20251204T172057
+DTSTART:20260214T191500
+DTEND:20260214T200000
+SUMMARY:🏀 U16 Boys: Maccabi Bucks vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e7c596bb-9f82-4ba5-846a-dbbc22cb97e5
+SEQUENCE:0
+DTSTAMP:20251204T172057
+DTSTART:20260221T174500
+DTEND:20260221T183000
+SUMMARY:🏀 U16 Boys: Maccabi Bucks vs Solway Slammers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Slammers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7c97f243-8d90-4130-a8a5-1830877c3bb2
+SEQUENCE:0
+DTSTAMP:20251204T172057
+DTSTART:20260228T191500
+DTEND:20260228T200000
+SUMMARY:🏀 U16 Boys: Maccabi Bucks vs Solway Jets
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Jets\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:81d4ee47-c350-4974-bce9-e6239b3b068c
+SEQUENCE:0
+DTSTAMP:20251204T172057
+DTSTART:20260314T183000
+DTEND:20260314T191500
+SUMMARY:🏀 U16 Boys: Maccabi Bucks vs Manning Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Manning
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

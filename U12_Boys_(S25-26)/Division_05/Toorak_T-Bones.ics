@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak T-Bones Fixtures
+X-WR-CALNAME:Toorak T-Bones Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1be017d1-895b-4a2a-ada5-582ec643e34b
+SEQUENCE:0
+DTSTAMP:20251204T171908
+DTSTART:20251206T144500
+DTEND:20251206T153000
+SUMMARY:🏀 U12 Boys: Toorak T-Bones vs Ashy Lightning Green
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Ashy Lightning Green\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0a3b98ed-8989-43b3-8be9-70bf0b914fea
+SEQUENCE:0
+DTSTAMP:20251204T171908
+DTSTART:20251213T144500
+DTEND:20251213T153000
+SUMMARY:🏀 U12 Boys: Toorak T-Bones vs Malvern Tigers Blue
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Blue\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7f9d5c91-9791-4f2d-a97a-b9d0d9f2066d
+SEQUENCE:0
+DTSTAMP:20251204T171908
+DTSTART:20260131T140000
+DTEND:20260131T144500
+SUMMARY:🏀 U12 Boys: Toorak T-Bones vs Maccabi Eagles
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:253a8346-618a-456c-847e-ceb73ff3f3dd
+SEQUENCE:0
+DTSTAMP:20251204T171908
+DTSTART:20260207T131500
+DTEND:20260207T140000
+SUMMARY:🏀 U12 Boys: Toorak T-Bones vs Timberwolves Knicks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Knicks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f6177c8b-14e5-4b4e-8293-0b06a76ac8b0
+SEQUENCE:0
+DTSTAMP:20251204T171908
+DTSTART:20260214T131500
+DTEND:20260214T140000
+SUMMARY:🏀 U12 Boys: Toorak T-Bones vs Toorak Tigersnakes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak 
+ Tigersnakes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:750b9be5-52e6-4ff8-8a49-10265b0ddfaa
+SEQUENCE:0
+DTSTAMP:20251204T171908
+DTSTART:20260221T140000
+DTEND:20260221T144500
+SUMMARY:🏀 U12 Boys: Toorak T-Bones vs Maccabi Falcons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Falcons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f9d1e8dc-f5d8-436c-87fc-fdfb513c04d4
+SEQUENCE:0
+DTSTAMP:20251204T171908
+DTSTART:20260228T144500
+DTEND:20260228T153000
+SUMMARY:🏀 U12 Boys: Toorak T-Bones vs Comets Tigers
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Comets Tigers\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e1e777b4-bb3c-495a-aea6-3dae68b4101b
+SEQUENCE:0
+DTSTAMP:20251204T171908
+DTSTART:20260314T140000
+DTEND:20260314T144500
+SUMMARY:🏀 U12 Boys: Toorak T-Bones vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Eagles Fixtures
+X-WR-CALNAME:Maccabi Eagles Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4fd0ae48-2900-4b7b-be33-9850df1f79f8
+SEQUENCE:0
+DTSTAMP:20251204T171737
+DTSTART:20251206T110000
+DTEND:20251206T114500
+SUMMARY:🏀 U08 Boys: Maccabi Eagles vs Malvern Tigers Landale
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Landale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:918509e4-e71f-4cad-90f8-6d0064db21f8
+SEQUENCE:0
+DTSTAMP:20251204T171737
+DTSTART:20251213T110000
+DTEND:20251213T114500
+SUMMARY:🏀 U08 Boys: Maccabi Eagles vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bbb33d51-fb11-412a-a9ab-66c71c030152
+SEQUENCE:0
+DTSTAMP:20251204T171737
+DTSTART:20260131T080000
+DTEND:20260131T084500
+SUMMARY:🏀 U08 Boys: Maccabi Eagles vs Solway Broncos
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Broncos\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:043c9f73-6720-4cfd-b712-c0bab28b380a
+SEQUENCE:0
+DTSTAMP:20251204T171737
+DTSTART:20260207T101500
+DTEND:20260207T110000
+SUMMARY:🏀 U08 Boys: Maccabi Eagles vs Nettleton Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Nettlet
+ on Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7c6f3b9f-bf4f-44a2-ae49-e3ef9d68eb74
+SEQUENCE:0
+DTSTAMP:20251204T171737
+DTSTART:20260214T101500
+DTEND:20260214T110000
+SUMMARY:🏀 U08 Boys: Maccabi Eagles vs Wattletree Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Wattlet
+ ree Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c4804581-744f-4fcb-b0d9-aa5e306aba23
+SEQUENCE:0
+DTSTAMP:20251204T171737
+DTSTART:20260221T101500
+DTEND:20260221T110000
+SUMMARY:🏀 U08 Boys: Maccabi Eagles vs Kooyong Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Kooyong
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0cf99c66-3592-4658-8e02-2fb9a039a77a
+SEQUENCE:0
+DTSTAMP:20251204T171737
+DTSTART:20260228T114500
+DTEND:20260228T123000
+SUMMARY:🏀 U08 Boys: Maccabi Eagles vs Ferndale Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ferndal
+ e Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3a90c7a6-927a-4723-8bf6-6f2709238f38
+SEQUENCE:0
+DTSTAMP:20251204T171737
+DTSTART:20260314T114500
+DTEND:20260314T123000
+SUMMARY:🏀 U08 Boys: Maccabi Eagles vs Malvern Tigers Landale
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Landale\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

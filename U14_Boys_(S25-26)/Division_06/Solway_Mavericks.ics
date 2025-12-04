@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Mavericks Fixtures
+X-WR-CALNAME:Solway Mavericks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b7969553-7916-48e4-ac60-631341d449a6
+SEQUENCE:0
+DTSTAMP:20251204T172008
+DTSTART:20251206T161500
+DTEND:20251206T170000
+SUMMARY:🏀 U14 Boys: Solway Mavericks vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:91a4b02f-f03f-4dba-9a87-71f5b6667429
+SEQUENCE:0
+DTSTAMP:20251204T172008
+DTSTART:20251213T161500
+DTEND:20251213T170000
+SUMMARY:🏀 U14 Boys: Solway Mavericks vs Timberwolves Terriers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Terriers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:10aa88f4-d42c-4809-884e-71c414689653
+SEQUENCE:0
+DTSTAMP:20251204T172008
+DTSTART:20260131T153000
+DTEND:20260131T161500
+SUMMARY:🏀 U14 Boys: Solway Mavericks vs Timberwolves Ramblers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Ramblers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1f03450b-2bf2-4f5e-9e2f-e2bdf943cdf0
+SEQUENCE:0
+DTSTAMP:20251204T172008
+DTSTART:20260214T161500
+DTEND:20260214T170000
+SUMMARY:🏀 U14 Boys: Solway Mavericks vs Golden Hawks Iron
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Golden 
+ Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6b9edced-a360-46b1-9fb3-bbc8780e8a88
+SEQUENCE:0
+DTSTAMP:20251204T172008
+DTSTART:20260221T161500
+DTEND:20260221T170000
+SUMMARY:🏀 U14 Boys: Solway Mavericks vs Maccabi Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6b54024a-8de1-480b-8421-2ae788958bad
+SEQUENCE:0
+DTSTAMP:20251204T172008
+DTSTART:20260228T161500
+DTEND:20260228T170000
+SUMMARY:🏀 U14 Boys: Solway Mavericks vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:10ea0f01-1dfb-493a-af72-fad2d4049953
+SEQUENCE:0
+DTSTAMP:20251204T172008
+DTSTART:20260314T161500
+DTEND:20260314T170000
+SUMMARY:🏀 U14 Boys: Solway Mavericks vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

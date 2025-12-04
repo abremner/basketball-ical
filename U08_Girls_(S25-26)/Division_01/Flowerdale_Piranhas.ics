@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Flowerdale Piranhas Fixtures
+X-WR-CALNAME:Flowerdale Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:bc5a8e1c-f821-4beb-95bf-a60ae939be31
+SEQUENCE:0
+DTSTAMP:20251204T171743
+DTSTART:20251206T110000
+DTEND:20251206T114500
+SUMMARY:🏀 U08 Girls: Flowerdale Piranhas vs TImberwolves Diamonds
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: TImberw
+ olves Diamonds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c52020b8-3769-4eb4-bb46-1d73e8365a14
+SEQUENCE:0
+DTSTAMP:20251204T171743
+DTSTART:20260131T101500
+DTEND:20260131T110000
+SUMMARY:🏀 U08 Girls: Flowerdale Piranhas vs Solway Stars
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Star
+ s\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cb2ba532-eba0-4c4d-a626-afbe1653dac7
+SEQUENCE:0
+DTSTAMP:20251204T171743
+DTSTART:20260207T101500
+DTEND:20260207T110000
+SUMMARY:🏀 U08 Girls: Flowerdale Piranhas vs Warley Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Warley Pira
+ nhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b498b594-a739-45ea-a18c-dfbbb5deb295
+SEQUENCE:0
+DTSTAMP:20251204T171743
+DTSTART:20260214T101500
+DTEND:20260214T110000
+SUMMARY:🏀 U08 Girls: Flowerdale Piranhas vs Malvern Tigers Allen
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Allen\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:846dfbb4-5877-4810-8e3a-79b2a317a02f
+SEQUENCE:0
+DTSTAMP:20251204T171743
+DTSTART:20260221T110000
+DTEND:20260221T114500
+SUMMARY:🏀 U08 Girls: Flowerdale Piranhas vs TImberwolves Diamonds
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: TImberw
+ olves Diamonds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b9ba07e5-a6f0-4eeb-9568-c082f46da584
+SEQUENCE:0
+DTSTAMP:20251204T171743
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U08 Girls: Flowerdale Piranhas vs Solway Stars
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Star
+ s\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

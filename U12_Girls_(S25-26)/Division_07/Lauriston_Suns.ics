@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Lauriston Suns Fixtures
+X-WR-CALNAME:Lauriston Suns Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:36db40a2-09ec-4ecc-b276-7210b2a86f3c
+SEQUENCE:0
+DTSTAMP:20251204T171948
+DTSTART:20251213T131500
+DTEND:20251213T140000
+SUMMARY:🏀 U12 Girls: Lauriston Suns vs Ashy Lightning White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
+ ightning White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e729c6e1-69bb-4cde-8997-b353c9ef98c4
+SEQUENCE:0
+DTSTAMP:20251204T171948
+DTSTART:20260131T123000
+DTEND:20260131T131500
+SUMMARY:🏀 U12 Girls: Lauriston Suns vs Maccabi Giants
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Giants\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:32dc1c71-a9f1-4903-a197-271568244a66
+SEQUENCE:0
+DTSTAMP:20251204T171948
+DTSTART:20260207T123000
+DTEND:20260207T131500
+SUMMARY:🏀 U12 Girls: Lauriston Suns vs Timberwolves Hurricanes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Hurricanes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1768e7da-b08f-4cdd-8274-a2acc781d23d
+SEQUENCE:0
+DTSTAMP:20251204T171948
+DTSTART:20260214T131500
+DTEND:20260214T140000
+SUMMARY:🏀 U12 Girls: Lauriston Suns vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7405df-ab34-49b3-9c1f-419b61a5c02e
+SEQUENCE:0
+DTSTAMP:20251204T171948
+DTSTART:20260221T131500
+DTEND:20260221T140000
+SUMMARY:🏀 U12 Girls: Lauriston Suns vs Ashy Lightning Yellow
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
+ ing Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:807b16bc-dabe-436c-8180-1d4cc0fecfc6
+SEQUENCE:0
+DTSTAMP:20251204T171948
+DTSTART:20260228T131500
+DTEND:20260228T140000
+SUMMARY:🏀 U12 Girls: Lauriston Suns vs Malvern Tigers Orange
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

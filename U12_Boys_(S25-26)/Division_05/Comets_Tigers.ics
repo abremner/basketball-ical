@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Comets Tigers Fixtures
+X-WR-CALNAME:Comets Tigers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:aa48f2ae-a108-4228-84d0-31a5f5e61c7c
+SEQUENCE:0
+DTSTAMP:20251204T171906
+DTSTART:20251206T140000
+DTEND:20251206T144500
+SUMMARY:🏀 U12 Boys: Comets Tigers vs Toorak Tigersnakes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
+  Tigersnakes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2ae53131-52dd-4508-a41e-677a63eb0f80
+SEQUENCE:0
+DTSTAMP:20251204T171906
+DTSTART:20251213T131500
+DTEND:20251213T140000
+SUMMARY:🏀 U12 Boys: Comets Tigers vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b96288-64f3-485d-b6c4-2a8e0172a117
+SEQUENCE:0
+DTSTAMP:20251204T171906
+DTSTART:20260131T140000
+DTEND:20260131T144500
+SUMMARY:🏀 U12 Boys: Comets Tigers vs Timberwolves Knicks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Knicks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:800259ad-e036-4211-b310-1e376a8383aa
+SEQUENCE:0
+DTSTAMP:20251204T171906
+DTSTART:20260207T144500
+DTEND:20260207T153000
+SUMMARY:🏀 U12 Boys: Comets Tigers vs Malvern Tigers Blue
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Blue\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3105f499-ed54-4564-9097-0dda978ba9dc
+SEQUENCE:0
+DTSTAMP:20251204T171906
+DTSTART:20260214T140000
+DTEND:20260214T144500
+SUMMARY:🏀 U12 Boys: Comets Tigers vs Maccabi Falcons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Falcons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4f8c3db6-a610-48f0-9f50-8b279537e829
+SEQUENCE:0
+DTSTAMP:20251204T171906
+DTSTART:20260221T131500
+DTEND:20260221T140000
+SUMMARY:🏀 U12 Boys: Comets Tigers vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:53dd1310-fcaf-4ebb-ae8a-d83dab402e37
+SEQUENCE:0
+DTSTAMP:20251204T171906
+DTSTART:20260228T144500
+DTEND:20260228T153000
+SUMMARY:🏀 U12 Boys: Comets Tigers vs Toorak T-Bones
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Toorak T-Bones\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a52941d8-cc85-4edd-acdd-da721468e772
+SEQUENCE:0
+DTSTAMP:20251204T171906
+DTSTART:20260314T144500
+DTEND:20260314T153000
+SUMMARY:🏀 U12 Boys: Comets Tigers vs Toorak Tigersnakes
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Toorak Tigersnakes\nArrive 15
+  mins early for warm-up
+END:VEVENT
+END:VCALENDAR

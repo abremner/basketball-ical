@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:70124968-4855-4a48-ad7e-2b59011cefb9
+SEQUENCE:0
+DTSTAMP:20251204T171846
+DTSTART:20251213T084500
+DTEND:20251213T093000
+SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Malvern Tigers Woods
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Woods\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8b0e06b6-5b6e-44bb-954a-a6a76a1f1b6c
+SEQUENCE:0
+DTSTAMP:20251204T171846
+DTSTART:20260131T101500
+DTEND:20260131T110000
+SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Malvern Tigers Smith
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Smith\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:274065d1-fe2c-49c7-a6c2-e02ed1142c9f
+SEQUENCE:0
+DTSTAMP:20251204T171846
+DTSTART:20260207T084500
+DTEND:20260207T093000
+SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Malvern Tigers Ellis
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Ellis\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:527e8ebd-0c64-49f1-a15a-1ae85612cf7a
+SEQUENCE:0
+DTSTAMP:20251204T171846
+DTSTART:20260214T084500
+DTEND:20260214T093000
+SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:954c3ed6-ffaf-4678-bb25-545538264142
+SEQUENCE:0
+DTSTAMP:20251204T171846
+DTSTART:20260228T084500
+DTEND:20260228T093000
+SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Malvern Tigers Woods
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Woods\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:30e4b6bd-5c92-4144-97ef-7533606ffeff
+SEQUENCE:0
+DTSTAMP:20251204T171846
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U10 Girls: Maccabi Bucks vs Malvern Tigers Smith
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Smith\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

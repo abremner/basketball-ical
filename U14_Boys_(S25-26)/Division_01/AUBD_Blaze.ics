@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AUBD Blaze Fixtures
+X-WR-CALNAME:AUBD Blaze Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:942466aa-1ff0-4f42-96c5-a89f87e2fec2
+SEQUENCE:0
+DTSTAMP:20251204T171951
+DTSTART:20251206T170000
+DTEND:20251206T174500
+SUMMARY:🏀 U14 Boys: AUBD Blaze vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d1a917c5-64bf-4bce-b9fc-ccf5618af8dd
+SEQUENCE:0
+DTSTAMP:20251204T171951
+DTSTART:20251213T174500
+DTEND:20251213T183000
+SUMMARY:🏀 U14 Boys: AUBD Blaze vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9c8dd82d-55c2-4dc4-a5c4-e39df7c5d02e
+SEQUENCE:0
+DTSTAMP:20251204T171951
+DTSTART:20260131T174500
+DTEND:20260131T183000
+SUMMARY:🏀 U14 Boys: AUBD Blaze vs Solway Knights
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Knights\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4e740160-f4d2-4d24-a015-e6c9cdd705ea
+SEQUENCE:0
+DTSTAMP:20251204T171951
+DTSTART:20260207T174500
+DTEND:20260207T183000
+SUMMARY:🏀 U14 Boys: AUBD Blaze vs Glen Iris Scorpions Ferndale
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
+ ris Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2e186281-2d04-4c91-ad3c-a1311a686663
+SEQUENCE:0
+DTSTAMP:20251204T171951
+DTSTART:20260214T174500
+DTEND:20260214T183000
+SUMMARY:🏀 U14 Boys: AUBD Blaze vs Timberwolves Lions
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Lions\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:92b6d2a2-9e51-4457-abde-8343d486a7e9
+SEQUENCE:0
+DTSTAMP:20251204T171951
+DTSTART:20260221T174500
+DTEND:20260221T183000
+SUMMARY:🏀 U14 Boys: AUBD Blaze vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0a03c954-0b01-4b03-bd9f-7e59862e5480
+SEQUENCE:0
+DTSTAMP:20251204T171951
+DTSTART:20260228T170000
+DTEND:20260228T174500
+SUMMARY:🏀 U14 Boys: AUBD Blaze vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:76a9ebf5-8e65-4275-8212-eec8274d003f
+SEQUENCE:0
+DTSTAMP:20251204T171951
+DTSTART:20260314T174500
+DTEND:20260314T183000
+SUMMARY:🏀 U14 Boys: AUBD Blaze vs Solway Knights
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Knights\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

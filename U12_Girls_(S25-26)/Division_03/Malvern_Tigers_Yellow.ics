@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Yellow Fixtures
+X-WR-CALNAME:Malvern Tigers Yellow Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:aecfbb8b-b2c8-47db-89f9-a03000411a81
+SEQUENCE:0
+DTSTAMP:20251204T171935
+DTSTART:20251213T140000
+DTEND:20251213T144500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Yellow vs Korowa Cherry
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Korowa 
+ Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dc2e595c-63f4-46a3-8879-362105855b94
+SEQUENCE:0
+DTSTAMP:20251204T171935
+DTSTART:20260131T140000
+DTEND:20260131T144500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Yellow vs Glen Iris Scorpions Gardi
+ ner
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
+ is Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b84c48af-d52c-43d8-8ba4-81cc48a5901a
+SEQUENCE:0
+DTSTAMP:20251204T171935
+DTSTART:20260207T140000
+DTEND:20260207T144500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Yellow vs Erica Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Erica P
+ iranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:32265fda-17d3-4291-bb82-54607232dc05
+SEQUENCE:0
+DTSTAMP:20251204T171935
+DTSTART:20260214T140000
+DTEND:20260214T144500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Yellow vs Ashy Lightning Gold
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
+ ghtning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d5a67ddd-1a95-47a1-8748-4b868a552a1f
+SEQUENCE:0
+DTSTAMP:20251204T171935
+DTSTART:20260221T144500
+DTEND:20260221T153000
+SUMMARY:🏀 U12 Girls: Malvern Tigers Yellow vs Toorak Troublemakers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
+ Troublemakers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e6e0bdce-618c-4d76-a39c-c786fd5453b7
+SEQUENCE:0
+DTSTAMP:20251204T171935
+DTSTART:20260228T144500
+DTEND:20260228T153000
+SUMMARY:🏀 U12 Girls: Malvern Tigers Yellow vs Toorak Talons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
+ Talons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

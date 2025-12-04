@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Comets Snake Fixtures
+X-WR-CALNAME:Comets Snake Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2e8d0eb1-8d58-42e1-8a28-98ec099b909b
+SEQUENCE:0
+DTSTAMP:20251204T171810
+DTSTART:20251206T080000
+DTEND:20251206T084500
+SUMMARY:🏀 U10 Boys: Comets Snake vs Glen Iris Scorpions Gardiner
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
+ ris Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fd5f14c0-dc73-4013-a9ed-f2c64d4b13ac
+SEQUENCE:0
+DTSTAMP:20251204T171810
+DTSTART:20251213T084500
+DTEND:20251213T093000
+SUMMARY:🏀 U10 Boys: Comets Snake vs Solway Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1856733d-8174-46a7-8b6f-be5cb927f572
+SEQUENCE:0
+DTSTAMP:20251204T171810
+DTSTART:20260131T093000
+DTEND:20260131T101500
+SUMMARY:🏀 U10 Boys: Comets Snake vs Solway Grizzlies
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Grizzlies\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:509f3989-cfbe-4345-9ff8-0ad6b76b749c
+SEQUENCE:0
+DTSTAMP:20251204T171810
+DTSTART:20260207T080000
+DTEND:20260207T084500
+SUMMARY:🏀 U10 Boys: Comets Snake vs Solway Thunder
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7227ad1f-d9db-4a4e-acbe-13aa7e4e5337
+SEQUENCE:0
+DTSTAMP:20251204T171810
+DTSTART:20260214T080000
+DTEND:20260214T084500
+SUMMARY:🏀 U10 Boys: Comets Snake vs Timberwolves Lightning
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Lightning\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:41e84b4f-bf14-4fe9-9ae1-867f871cab60
+SEQUENCE:0
+DTSTAMP:20251204T171810
+DTSTART:20260221T084500
+DTEND:20260221T093000
+SUMMARY:🏀 U10 Boys: Comets Snake vs Glen Iris Scorpions Gardiner
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
+ ris Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e42ca5c6-0be2-4d7f-91d5-566d17c8d97c
+SEQUENCE:0
+DTSTAMP:20251204T171810
+DTSTART:20260228T093000
+DTEND:20260228T101500
+SUMMARY:🏀 U10 Boys: Comets Snake vs Solway Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7b5244c1-0fff-4993-bacc-fd0f40adea31
+SEQUENCE:0
+DTSTAMP:20251204T171810
+DTSTART:20260314T080000
+DTEND:20260314T084500
+SUMMARY:🏀 U10 Boys: Comets Snake vs Solway Grizzlies
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Grizzlies\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

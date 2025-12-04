@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Ducks Fixtures
+X-WR-CALNAME:Maccabi Ducks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:173769b4-3001-472f-8d8a-b6e05fbc2150
+SEQUENCE:0
+DTSTAMP:20251204T171807
+DTSTART:20251206T093000
+DTEND:20251206T101500
+SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Golden Hawks Iron
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Golden
+  Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e900edc9-1d15-493d-bb6d-61932da6cebe
+SEQUENCE:0
+DTSTAMP:20251204T171807
+DTSTART:20251213T101500
+DTEND:20251213T110000
+SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Timberwolves Cubs
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Cubs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2041cc4f-2d82-45ca-a9d1-c4b0ab132821
+SEQUENCE:0
+DTSTAMP:20251204T171807
+DTSTART:20260131T101500
+DTEND:20260131T110000
+SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Malvern Tigers Blue
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Blue\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ddbe0e13-f341-4f54-9f67-e217685798ad
+SEQUENCE:0
+DTSTAMP:20251204T171807
+DTSTART:20260207T101500
+DTEND:20260207T110000
+SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Glen Iris Scorpions Nettleton
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Glen Iris Scorpions Nettleton
+ \nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:aa4f1738-bb1f-4fbe-a7b5-6270e5029d9e
+SEQUENCE:0
+DTSTAMP:20251204T171807
+DTSTART:20260214T084500
+DTEND:20260214T093000
+SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Orrong Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Orrong
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:340b3778-4787-4910-88ed-fc8b00ee70d0
+SEQUENCE:0
+DTSTAMP:20251204T171807
+DTSTART:20260221T101500
+DTEND:20260221T110000
+SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Toorak Thrashers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Thrashers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7e99a4f2-bf68-490f-ae58-3df2cfe9a249
+SEQUENCE:0
+DTSTAMP:20251204T171807
+DTSTART:20260228T084500
+DTEND:20260228T093000
+SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Solway Bulls
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Bulls\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e0d40ef2-5f31-42b0-b793-11441a558214
+SEQUENCE:0
+DTSTAMP:20251204T171807
+DTSTART:20260314T093000
+DTEND:20260314T101500
+SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Golden Hawks Iron
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Golden
+  Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Dingoes Fixtures
+X-WR-CALNAME:Solway Dingoes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ee7d6e69-a709-4298-a981-a8cbe7bb280e
+SEQUENCE:0
+DTSTAMP:20251204T171925
+DTSTART:20251206T114500
+DTEND:20251206T123000
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Ashy Lightning White
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:efbb70b7-c721-4bd1-b142-a6824330b25a
+SEQUENCE:0
+DTSTAMP:20251204T171925
+DTSTART:20251213T123000
+DTEND:20251213T131500
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Malvern Tigers Tan
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Tan\nArrive 15
+  mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:656bc29e-f70f-4039-8e79-5b7083e63f4a
+SEQUENCE:0
+DTSTAMP:20251204T171925
+DTSTART:20260131T114500
+DTEND:20260131T123000
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Solway Crocodiles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Crocodiles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:20742d95-9399-4e54-a581-493bdd4f3501
+SEQUENCE:0
+DTSTAMP:20251204T171925
+DTSTART:20260207T131500
+DTEND:20260207T140000
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Glen Iris Scorpions Raven
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
+ is Scorpions Raven\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fa3f1d63-e736-4d14-b0a5-112b63e806d9
+SEQUENCE:0
+DTSTAMP:20251204T171925
+DTSTART:20260214T131500
+DTEND:20260214T140000
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Maccabi Lakers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Lakers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ed1d2c8d-4381-4b5a-9745-52157ddf2a5e
+SEQUENCE:0
+DTSTAMP:20251204T171925
+DTSTART:20260221T123000
+DTEND:20260221T131500
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Ashy Lightning White
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Ashy Lightning White\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:068a982e-9933-4ebc-94b0-e064d3e6f3a1
+SEQUENCE:0
+DTSTAMP:20251204T171925
+DTSTART:20260228T123000
+DTEND:20260228T131500
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Malvern Tigers Tan
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Tan\nArrive 15
+  mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a35b2e99-5fe0-42b4-b0fb-e908de096b18
+SEQUENCE:0
+DTSTAMP:20251204T171925
+DTSTART:20260314T131500
+DTEND:20260314T140000
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Solway Crocodiles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Crocodiles\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

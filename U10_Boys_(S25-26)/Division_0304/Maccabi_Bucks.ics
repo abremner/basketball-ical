@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:addcc5a0-58a2-4de5-b66b-596a6a0273ac
+SEQUENCE:0
+DTSTAMP:20251204T171759
+DTSTART:20251206T114500
+DTEND:20251206T123000
+SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Malvern Tigers Yellow
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Yellow\nArrive
+  15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ae2f99b9-fd31-4cf3-934d-5934bc4138cc
+SEQUENCE:0
+DTSTAMP:20251204T171759
+DTSTART:20251213T110000
+DTEND:20251213T114500
+SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Solway Boomers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Boomers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a4314c78-2036-46b4-83f2-4c0c6f0b99fc
+SEQUENCE:0
+DTSTAMP:20251204T171759
+DTSTART:20260131T114500
+DTEND:20260131T123000
+SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Toorak Torpedoes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Toorak 
+ Torpedoes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:65482269-3753-4bfa-814f-e196807814a8
+SEQUENCE:0
+DTSTAMP:20251204T171759
+DTSTART:20260207T114500
+DTEND:20260207T123000
+SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Armadale Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Armadale Piranhas\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cf6d681d-43cc-414b-8834-6741ad591832
+SEQUENCE:0
+DTSTAMP:20251204T171759
+DTSTART:20260214T101500
+DTEND:20260214T110000
+SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Timberwolves Boomers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Boomers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:20f93dc2-ccc2-4647-8e47-1c13536eb723
+SEQUENCE:0
+DTSTAMP:20251204T171759
+DTSTART:20260221T110000
+DTEND:20260221T114500
+SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Timberwolves Cobras
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Cobras\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4f602977-cfc9-4563-b55e-971105ac5cf9
+SEQUENCE:0
+DTSTAMP:20251204T171759
+DTSTART:20260228T114500
+DTEND:20260228T123000
+SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Tollington Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Tolling
+ ton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1f5bbebd-497a-45d1-9810-aee876a64ef5
+SEQUENCE:0
+DTSTAMP:20251204T171759
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Malvern Tigers Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

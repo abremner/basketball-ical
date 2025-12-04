@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:fcf1383c-9042-4cb8-a2e3-ae39e8e70110
+SEQUENCE:0
+DTSTAMP:20251204T171900
+DTSTART:20251206T144500
+DTEND:20251206T153000
+SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Malvern Tigers White
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1fb2e5eb-a8b5-490a-8a1a-73d50bff5f67
+SEQUENCE:0
+DTSTAMP:20251204T171900
+DTSTART:20251213T140000
+DTEND:20251213T144500
+SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Glen Iris Scorpions Ferndale
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
+ is Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5830615a-bd71-46d6-ac4e-3f7489be2ebb
+SEQUENCE:0
+DTSTAMP:20251204T171900
+DTSTART:20260207T140000
+DTEND:20260207T144500
+SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Malvern Tigers Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5f4afedf-cbe4-48e3-be6b-6609bc1c09e8
+SEQUENCE:0
+DTSTAMP:20251204T171900
+DTSTART:20260214T144500
+DTEND:20260214T153000
+SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Toorak Tarantulas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Tarantulas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fd937a7b-31c0-428a-a4de-94d84bf182d2
+SEQUENCE:0
+DTSTAMP:20251204T171900
+DTSTART:20260221T140000
+DTEND:20260221T144500
+SUMMARY:🏀 U12 Boys: Maccabi Bucks vs AlphaWolf Spartans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: AlphaWo
+ lf Spartans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7ea5fc13-a09e-45a9-8d7c-84e5efeba294
+SEQUENCE:0
+DTSTAMP:20251204T171900
+DTSTART:20260228T140000
+DTEND:20260228T144500
+SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Timberwolves Howlers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Howlers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4a823065-9248-40e8-a845-41b23e4fca04
+SEQUENCE:0
+DTSTAMP:20251204T171900
+DTSTART:20260314T144500
+DTEND:20260314T153000
+SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Malvern Tigers White
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

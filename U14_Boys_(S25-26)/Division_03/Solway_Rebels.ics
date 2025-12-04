@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Rebels Fixtures
+X-WR-CALNAME:Solway Rebels Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9cdd4e51-20ee-4f94-aa2a-5aff833573b5
+SEQUENCE:0
+DTSTAMP:20251204T171958
+DTSTART:20251206T153000
+DTEND:20251206T161500
+SUMMARY:🏀 U14 Boys: Solway Rebels vs Toorak Tomcats
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Tomcats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e0608226-781d-46cd-b38b-b16b57d43d44
+SEQUENCE:0
+DTSTAMP:20251204T171958
+DTSTART:20260207T153000
+DTEND:20260207T161500
+SUMMARY:🏀 U14 Boys: Solway Rebels vs Malvern Tigers Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:47680510-644b-4b94-9944-609a20e939a9
+SEQUENCE:0
+DTSTAMP:20251204T171958
+DTSTART:20260214T170000
+DTEND:20260214T174500
+SUMMARY:🏀 U14 Boys: Solway Rebels vs AlphaWolf Hustle
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AlphaW
+ olf Hustle\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fa9a7c3c-c607-4b7c-9605-6bccb21aa88d
+SEQUENCE:0
+DTSTAMP:20251204T171958
+DTSTART:20260228T170000
+DTEND:20260228T174500
+SUMMARY:🏀 U14 Boys: Solway Rebels vs Solway Titans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Titans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:121b2879-5caa-4a22-886f-d247364b8366
+SEQUENCE:0
+DTSTAMP:20251204T171958
+DTSTART:20260314T153000
+DTEND:20260314T161500
+SUMMARY:🏀 U14 Boys: Solway Rebels vs Toorak Tomcats
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Tomcats\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

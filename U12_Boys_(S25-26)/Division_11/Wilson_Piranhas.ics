@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Wilson Piranhas Fixtures
+X-WR-CALNAME:Wilson Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9b7124d4-326f-4267-b334-5e5f7a4c6171
+SEQUENCE:0
+DTSTAMP:20251204T171929
+DTSTART:20251206T114500
+DTEND:20251206T123000
+SUMMARY:🏀 U12 Boys: Wilson Piranhas vs Malvern Tigers Mauve
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Mauve\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:25848e8f-80b1-4661-a231-c1b6db600c4f
+SEQUENCE:0
+DTSTAMP:20251204T171929
+DTSTART:20251213T114500
+DTEND:20251213T123000
+SUMMARY:🏀 U12 Boys: Wilson Piranhas vs Timberwolves Cavs
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Timberwolves Cavs\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:003de0c3-f0ef-46a5-a764-db9997fd8396
+SEQUENCE:0
+DTSTAMP:20251204T171929
+DTSTART:20260131T114500
+DTEND:20260131T123000
+SUMMARY:🏀 U12 Boys: Wilson Piranhas vs Malvern Tigers Aqua
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
+ n Tigers Aqua\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6099b4ee-e205-4659-b312-6c9017a79f4c
+SEQUENCE:0
+DTSTAMP:20251204T171929
+DTSTART:20260207T131500
+DTEND:20260207T140000
+SUMMARY:🏀 U12 Boys: Wilson Piranhas vs Golden Hawks Blaze
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Golden
+  Hawks Blaze\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fffb98b8-b812-449d-9468-b98f41f6cb19
+SEQUENCE:0
+DTSTAMP:20251204T171929
+DTSTART:20260214T131500
+DTEND:20260214T140000
+SUMMARY:🏀 U12 Boys: Wilson Piranhas vs Malvern Tigers Lime
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Lime\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c66d3441-03cc-4dce-a603-99d68606ce10
+SEQUENCE:0
+DTSTAMP:20251204T171929
+DTSTART:20260221T114500
+DTEND:20260221T123000
+SUMMARY:🏀 U12 Boys: Wilson Piranhas vs Timberwolves Fury
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Fury\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a4969cca-24f5-4b2c-9d43-bc6be74aeac4
+SEQUENCE:0
+DTSTAMP:20251204T171929
+DTSTART:20260314T114500
+DTEND:20260314T123000
+SUMMARY:🏀 U12 Boys: Wilson Piranhas vs Malvern Tigers Mauve
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Mauve\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

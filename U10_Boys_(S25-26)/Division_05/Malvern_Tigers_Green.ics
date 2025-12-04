@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Green Fixtures
+X-WR-CALNAME:Malvern Tigers Green Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ee60be39-5a3d-484a-9d4b-52d71f233c91
+SEQUENCE:0
+DTSTAMP:20251204T171804
+DTSTART:20251213T110000
+DTEND:20251213T114500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Green vs Dendy Park Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Dendy Park Piranhas\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4e31c510-c41e-4e30-a4f6-f2fa138f78bd
+SEQUENCE:0
+DTSTAMP:20251204T171804
+DTSTART:20260131T110000
+DTEND:20260131T114500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Green vs Malvern Tigers White
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers White\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6a202f8a-eeed-49fa-a76f-ab45a5129a2b
+SEQUENCE:0
+DTSTAMP:20251204T171804
+DTSTART:20260207T110000
+DTEND:20260207T114500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Green vs Solway Spurs
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Solway Spurs\nArrive 15 mins 
+ early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f4d6727d-619b-449f-b5f7-999c417a87f6
+SEQUENCE:0
+DTSTAMP:20251204T171804
+DTSTART:20260214T093000
+DTEND:20260214T101500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Green vs AlphaWolf Kings
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AlphaW
+ olf Kings\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:726b7c61-78a4-468b-91a1-b4e105ddb191
+SEQUENCE:0
+DTSTAMP:20251204T171804
+DTSTART:20260221T084500
+DTEND:20260221T093000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Green vs Malvern Tigers Orange
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f4aa4d8c-7587-4674-a74f-fe6940eb2ba6
+SEQUENCE:0
+DTSTAMP:20251204T171804
+DTSTART:20260228T084500
+DTEND:20260228T093000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Green vs Maccabi Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
+ i Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9d201422-9c31-44db-90fc-b6c696300162
+SEQUENCE:0
+DTSTAMP:20251204T171804
+DTSTART:20260314T093000
+DTEND:20260314T101500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Green vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR
