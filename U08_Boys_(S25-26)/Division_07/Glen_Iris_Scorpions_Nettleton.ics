@@ -6,9 +6,9 @@ X-WR-CALNAME:Glen Iris Scorpions Nettleton Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:a2dd0478-f04b-481c-9ac8-f10f398b1124
+UID:b5d27ed4-7856-46b6-96cc-42def4bb154f
 SEQUENCE:0
-DTSTAMP:20251204T171740
+DTSTAMP:20251205T171342
 DTSTART:20251206T093000
 DTEND:20251206T101500
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Nettleton vs Solway Colts
@@ -17,20 +17,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Colts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:762732fe-563d-4a38-a2d9-980618b6f18f
+UID:dcb62f0e-3962-458d-984a-11dbb82d408b
 SEQUENCE:0
-DTSTAMP:20251204T171740
-DTSTART:20251213T080000
-DTEND:20251213T084500
+DTSTAMP:20251205T171342
+DTSTART:20251213T093000
+DTEND:20251213T101500
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Nettleton vs Solway Pacers
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
  Pacers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fe2e1106-a4bf-485e-a4d1-066751f4dc9c
+UID:92c8c47d-5b61-4191-a5e9-0cc600a1ee6a
 SEQUENCE:0
-DTSTAMP:20251204T171740
+DTSTAMP:20251205T171342
 DTSTART:20260207T080000
 DTEND:20260207T084500
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Nettleton vs Arax
@@ -39,20 +39,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Arax\nA
  rrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e6f81b55-64b4-4d60-b69d-3e11fedb0f00
+UID:c2e76c3a-cb22-4f48-99e8-71595c587da9
 SEQUENCE:0
-DTSTAMP:20251204T171740
-DTSTART:20260214T080000
-DTEND:20260214T084500
+DTSTAMP:20251205T171342
+DTSTART:20260214T084500
+DTEND:20260214T093000
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Nettleton vs Solway Hunters
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
  Hunters\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:62af887b-0f04-4710-abe1-34b1444e4476
+UID:9ea58d79-c440-4788-a5d7-6e5b6a65ab74
 SEQUENCE:0
-DTSTAMP:20251204T171740
+DTSTAMP:20251205T171342
 DTSTART:20260221T084500
 DTEND:20260221T093000
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Nettleton vs Glen Iris Scorpion
@@ -62,9 +62,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
  is Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:34324608-475a-4bba-af0c-fa0034c7a310
+UID:ab85a938-9215-4739-90aa-c5c14b3e31d4
 SEQUENCE:0
-DTSTAMP:20251204T171740
+DTSTAMP:20251205T171342
 DTSTART:20260228T093000
 DTEND:20260228T101500
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Nettleton vs Clyde Piranhas
@@ -73,14 +73,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Clyde P
  iranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:23de4998-464c-4ed7-adb6-020b98f74ae3
+UID:43569d12-27c2-4c12-8555-113b33b4fe54
 SEQUENCE:0
-DTSTAMP:20251204T171740
-DTSTART:20260314T080000
-DTEND:20260314T084500
+DTSTAMP:20251205T171342
+DTSTART:20260314T093000
+DTEND:20260314T101500
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Nettleton vs Solway Colts
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
  Colts\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

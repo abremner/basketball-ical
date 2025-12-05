@@ -6,9 +6,9 @@ X-WR-CALNAME:AlphaWolf Hustle Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2afbcad5-6285-46b8-9e54-e3ca58f78500
+UID:14c4afd9-8d0a-4da5-97bd-d95f21d681aa
 SEQUENCE:0
-DTSTAMP:20251204T171957
+DTSTAMP:20251205T171529
 DTSTART:20251206T174500
 DTEND:20251206T183000
 SUMMARY:🏀 U14 Boys: AlphaWolf Hustle vs Timberwolves Celtics
@@ -17,9 +17,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2af05333-7e53-46fa-aac7-87613bdb6912
+UID:27c0c601-f7d9-40e1-a0bf-3a6a10cde89a
 SEQUENCE:0
-DTSTAMP:20251204T171957
+DTSTAMP:20251205T171529
+DTSTART:20260131T170000
+DTEND:20260131T174500
+SUMMARY:🏀 U14 Boys: AlphaWolf Hustle vs Toorak Tomcats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
+  Tomcats\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:de334d2f-4aea-40ca-a3b5-015a078fa481
+SEQUENCE:0
+DTSTAMP:20251205T171529
 DTSTART:20260207T174500
 DTEND:20260207T183000
 SUMMARY:🏀 U14 Boys: AlphaWolf Hustle vs Solway Titans
@@ -28,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
  Titans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:192f6e7b-6c1b-4f69-b42e-8893951b83df
+UID:d6047844-a5a6-4342-9778-3fd8486fbf16
 SEQUENCE:0
-DTSTAMP:20251204T171957
+DTSTAMP:20251205T171529
 DTSTART:20260214T170000
 DTEND:20260214T174500
 SUMMARY:🏀 U14 Boys: AlphaWolf Hustle vs Solway Rebels
@@ -39,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Rebels\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6c4f6a17-8dcf-4348-8b69-5ed45a854c71
+UID:ad699548-dda1-45f2-a1eb-ad27e492c01b
 SEQUENCE:0
-DTSTAMP:20251204T171957
+DTSTAMP:20251205T171529
 DTSTART:20260221T170000
 DTEND:20260221T174500
 SUMMARY:🏀 U14 Boys: AlphaWolf Hustle vs Malvern Tigers Yellow
@@ -50,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ab1240f0-dd63-4764-90a5-d866aa333fe6
+UID:d369d6ad-e226-4116-953f-afe2048828e3
 SEQUENCE:0
-DTSTAMP:20251204T171957
+DTSTAMP:20251205T171529
 DTSTART:20260228T174500
 DTEND:20260228T183000
 SUMMARY:🏀 U14 Boys: AlphaWolf Hustle vs Ashy Lightning Green
@@ -61,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:537fc60d-cf8b-47a7-872a-713abb3b8e2e
+UID:a9571651-fba3-4cb2-953d-901d828f1d36
 SEQUENCE:0
-DTSTAMP:20251204T171957
+DTSTAMP:20251205T171529
 DTSTART:20260314T174500
 DTEND:20260314T183000
 SUMMARY:🏀 U14 Boys: AlphaWolf Hustle vs Timberwolves Celtics

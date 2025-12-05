@@ -6,9 +6,31 @@ X-WR-CALNAME:Solway Titans Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:cea8a2b0-1ca3-4868-b411-62beaae0634c
+UID:746899e6-056a-44b1-80a4-bf8f1925a6e7
 SEQUENCE:0
-DTSTAMP:20251204T171959
+DTSTAMP:20251205T171530
+DTSTART:20251213T153000
+DTEND:20251213T161500
+SUMMARY:🏀 U14 Boys: Solway Titans vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e5ff7da7-b9e6-4471-9786-5a802839ede2
+SEQUENCE:0
+DTSTAMP:20251205T171530
+DTSTART:20260131T153000
+DTEND:20260131T161500
+SUMMARY:🏀 U14 Boys: Solway Titans vs Malvern Tigers Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:96d8f2d2-1993-4034-879a-181eaa7ffd4e
+SEQUENCE:0
+DTSTAMP:20251205T171530
 DTSTART:20260207T174500
 DTEND:20260207T183000
 SUMMARY:🏀 U14 Boys: Solway Titans vs AlphaWolf Hustle
@@ -17,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: AlphaWo
  lf Hustle\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3a421d2b-ba69-4855-bf05-3f1667624f65
+UID:37485315-b544-42f8-b39a-548b50ae5396
 SEQUENCE:0
-DTSTAMP:20251204T171959
+DTSTAMP:20251205T171530
 DTSTART:20260214T153000
 DTEND:20260214T161500
 SUMMARY:🏀 U14 Boys: Solway Titans vs Toorak Tomcats
@@ -28,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Tomcats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4b343893-ec97-4004-8383-6750d77ad597
+UID:53a9c395-3a33-46f1-8877-40a6e9ab9d66
 SEQUENCE:0
-DTSTAMP:20251204T171959
+DTSTAMP:20251205T171530
 DTSTART:20260221T174500
 DTEND:20260221T183000
 SUMMARY:🏀 U14 Boys: Solway Titans vs Timberwolves Celtics
@@ -39,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ff8ecf46-a44f-4fc3-a32d-3550668e5e2a
+UID:2606c9f2-838e-4c9d-9573-8ff2041b497d
 SEQUENCE:0
-DTSTAMP:20251204T171959
+DTSTAMP:20251205T171530
 DTSTART:20260228T170000
 DTEND:20260228T174500
 SUMMARY:🏀 U14 Boys: Solway Titans vs Solway Rebels

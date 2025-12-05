@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Boomers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:802dceb5-ff2d-4b06-ae56-75e7c53190c3
+UID:747188de-7f2c-4464-a865-aca0413f42cf
 SEQUENCE:0
-DTSTAMP:20251204T171800
+DTSTAMP:20251205T171358
 DTSTART:20251206T101500
 DTEND:20251206T110000
 SUMMARY:🏀 U10 Boys: Solway Boomers vs Tollington Piranhas
@@ -17,20 +17,20 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Tollin
  gton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cf6c0b56-5d2b-472d-a205-de0f7fbb2be7
+UID:6c80e078-45c1-4833-b141-cb1813d39b53
 SEQUENCE:0
-DTSTAMP:20251204T171800
-DTSTART:20251213T110000
-DTEND:20251213T114500
+DTSTAMP:20251205T171358
+DTSTART:20251213T114500
+DTEND:20251213T123000
 SUMMARY:🏀 U10 Boys: Solway Boomers vs Maccabi Bucks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
- i Bucks\nArrive 15 mins early for warm-up
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Bucks\nArrive 15 mins
+  early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:da2676d8-e40d-4091-86d6-9fcecd507c2e
+UID:93c3646f-6678-424e-bfb5-23f1c584ecbc
 SEQUENCE:0
-DTSTAMP:20251204T171800
+DTSTAMP:20251205T171358
 DTSTART:20260131T114500
 DTEND:20260131T123000
 SUMMARY:🏀 U10 Boys: Solway Boomers vs Malvern Tigers Yellow
@@ -39,20 +39,20 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Yellow\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d57873b2-dd6e-41e8-b152-ce92ce132224
+UID:fa1cc9c4-bc17-4fbe-b892-a674942d8dd9
 SEQUENCE:0
-DTSTAMP:20251204T171800
-DTSTART:20260207T101500
-DTEND:20260207T110000
+DTSTAMP:20251205T171358
+DTSTART:20260207T114500
+DTEND:20260207T123000
 SUMMARY:🏀 U10 Boys: Solway Boomers vs Timberwolves Cobras
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
- wolves Cobras\nArrive 15 mins early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Cobras\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:021e1d97-fb13-4932-85e9-58a50630ea5a
+UID:7d6ae29d-1a30-44de-b8fa-7ed9c1aa31e1
 SEQUENCE:0
-DTSTAMP:20251204T171800
+DTSTAMP:20251205T171358
 DTSTART:20260214T114500
 DTEND:20260214T123000
 SUMMARY:🏀 U10 Boys: Solway Boomers vs Armadale Piranhas
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Armadal
  e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8bf9de34-6673-40d4-bbee-b98ccb20020e
+UID:735dd0e1-986d-492b-8f59-1995a1e6bd89
 SEQUENCE:0
-DTSTAMP:20251204T171800
+DTSTAMP:20251205T171358
 DTSTART:20260221T101500
 DTEND:20260221T110000
 SUMMARY:🏀 U10 Boys: Solway Boomers vs Timberwolves Boomers
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Boomers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:51c83901-b036-47fe-aec9-5b3dea0818dd
+UID:53e3a772-2095-4b4d-bc5e-4f5e1eb9179c
 SEQUENCE:0
-DTSTAMP:20251204T171800
+DTSTAMP:20251205T171358
 DTSTART:20260228T101500
 DTEND:20260228T110000
 SUMMARY:🏀 U10 Boys: Solway Boomers vs Toorak Torpedoes
@@ -83,14 +83,14 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
   Torpedoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:272e4123-495d-4d1e-b5c9-0ec00658bd80
+UID:df9b7f87-62bb-4391-af2b-5c95a59ebe0e
 SEQUENCE:0
-DTSTAMP:20251204T171800
-DTSTART:20260314T110000
-DTEND:20260314T114500
+DTSTAMP:20251205T171358
+DTSTART:20260314T114500
+DTEND:20260314T123000
 SUMMARY:🏀 U10 Boys: Solway Boomers vs Tollington Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Tollin
- gton Piranhas\nArrive 15 mins early for warm-up
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Tolling
+ ton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

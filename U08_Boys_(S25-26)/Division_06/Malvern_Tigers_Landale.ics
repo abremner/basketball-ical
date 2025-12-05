@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Landale Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:73cdd769-a1f7-41d9-8374-6cf1c0fecbd8
+UID:eb949322-e43d-4680-ac70-f2775fe31bd9
 SEQUENCE:0
-DTSTAMP:20251204T171737
+DTSTAMP:20251205T171340
 DTSTART:20251206T110000
 DTEND:20251206T114500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Landale vs Maccabi Eagles
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
   Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:880ab06f-5dfd-4df3-bc9b-645119d8de37
+UID:51d3de08-c9db-431a-9d7a-97ffa70f9b2e
 SEQUENCE:0
-DTSTAMP:20251204T171737
+DTSTAMP:20251205T171340
 DTSTART:20251213T114500
 DTEND:20251213T123000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Landale vs Solway Broncos
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Broncos\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ce9d1f56-fb94-450c-a93c-5ea3c72cb9d5
+UID:b749973f-2018-496c-a20f-c4f85af124e2
 SEQUENCE:0
-DTSTAMP:20251204T171737
+DTSTAMP:20251205T171340
 DTSTART:20260131T114500
 DTEND:20260131T123000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Landale vs Kooyong Piranhas
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Kooyong
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:11cb9413-de13-4be9-9906-13904631de5d
+UID:4f01cee5-b90c-436f-88a8-153ef477372e
 SEQUENCE:0
-DTSTAMP:20251204T171737
+DTSTAMP:20251205T171340
 DTSTART:20260207T080000
 DTEND:20260207T084500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Landale vs Maccabi Ducks
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a5589893-0abd-4199-94a4-9bdab357d1cd
+UID:c5effbd0-f8dd-46fd-ab9d-8b0c411d33af
 SEQUENCE:0
-DTSTAMP:20251204T171737
+DTSTAMP:20251205T171340
 DTSTART:20260214T110000
 DTEND:20260214T114500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Landale vs Ferndale Park Piranhas
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ferndal
  e Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:82c990f4-a238-49a3-9762-355d7572995d
+UID:734eea72-8ef6-42b5-bca7-ebe354fa316a
 SEQUENCE:0
-DTSTAMP:20251204T171737
+DTSTAMP:20251205T171340
 DTSTART:20260221T080000
 DTEND:20260221T084500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Landale vs Wattletree Piranhas
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Wattlet
  ree Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:277775b2-7272-44bb-940a-6e5eb3dba85b
+UID:34254d1b-0703-4446-813d-10a32dc7a064
 SEQUENCE:0
-DTSTAMP:20251204T171737
+DTSTAMP:20251205T171340
 DTSTART:20260228T101500
 DTEND:20260228T110000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Landale vs Nettleton Piranhas
@@ -83,14 +83,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Nettlet
  on Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f0552722-2edb-43aa-9238-12f95cfd2256
+UID:d54ebaf6-14cc-41ba-9833-f6e2de49f749
 SEQUENCE:0
-DTSTAMP:20251204T171737
-DTSTART:20260314T114500
-DTEND:20260314T123000
+DTSTAMP:20251205T171340
+DTSTART:20260314T110000
+DTEND:20260314T114500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Landale vs Maccabi Eagles
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
   Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR
