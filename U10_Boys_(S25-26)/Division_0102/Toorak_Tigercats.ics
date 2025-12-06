@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Tigercats Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:75b7059b-951a-4bd1-ad2b-3046233ad766
+UID:8a46d685-9fa2-4ac1-8394-a9bed15d3c2a
 SEQUENCE:0
-DTSTAMP:20251205T171356
-DTSTART:20251206T123000
-DTEND:20251206T131500
-SUMMARY:🏀 U10 Boys: Toorak Tigercats vs Timberwolves Crusaders
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
- wolves Crusaders\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:e3297038-f912-4f98-b461-4558a9dcaaba
-SEQUENCE:0
-DTSTAMP:20251205T171356
+DTSTAMP:20251206T171139
 DTSTART:20251213T114500
 DTEND:20251213T123000
 SUMMARY:🏀 U10 Boys: Toorak Tigercats vs Maccabi Warriors
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8229b10e-db07-42e3-bbd4-929c995b1065
+UID:b24a308e-fae6-4489-8b27-9fcdc613d19c
 SEQUENCE:0
-DTSTAMP:20251205T171356
+DTSTAMP:20251206T171139
 DTSTART:20260131T123000
 DTEND:20260131T131500
 SUMMARY:🏀 U10 Boys: Toorak Tigercats vs Glen Iris Scorpions Ferndale
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0dfcd838-3f2f-4176-b7ba-c347ae264e77
+UID:5c6fd2c0-c7fd-4171-94c9-ba04f05255a2
 SEQUENCE:0
-DTSTAMP:20251205T171356
+DTSTAMP:20251206T171139
 DTSTART:20260207T110000
 DTEND:20260207T114500
 SUMMARY:🏀 U10 Boys: Toorak Tigercats vs Ashy Lightning Gold
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
  ightning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b2da6b3a-acae-4ca3-a991-9b32bd5e13d8
+UID:cec18be4-5e78-4300-a8ba-d0d3490709cc
 SEQUENCE:0
-DTSTAMP:20251205T171356
+DTSTAMP:20251206T171139
 DTSTART:20260221T110000
 DTEND:20260221T114500
 SUMMARY:🏀 U10 Boys: Toorak Tigercats vs AlphaWolf Dragons
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AlphaW
  olf Dragons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5e6de53e-c743-41de-b866-9b4ec76f9113
+UID:0c1fcf53-1e5b-4115-965b-42ab13b06bee
 SEQUENCE:0
-DTSTAMP:20251205T171356
+DTSTAMP:20251206T171139
 DTSTART:20260228T123000
 DTEND:20260228T131500
 SUMMARY:🏀 U10 Boys: Toorak Tigercats vs Malvern Tigers Black
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:10801bd4-0ec1-48fb-a472-458d47b5e664
+UID:3f19ddaf-8c3e-496f-860d-d5d628d6cbbc
 SEQUENCE:0
-DTSTAMP:20251205T171356
+DTSTAMP:20251206T171139
 DTSTART:20260314T131500
 DTEND:20260314T140000
 SUMMARY:🏀 U10 Boys: Toorak Tigercats vs AUBD Storm

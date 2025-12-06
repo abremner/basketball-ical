@@ -6,20 +6,9 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:dfe19d2f-be6e-4ec6-8deb-8ff86393cde7
+UID:2dc6e93e-1938-4a36-aa3e-07847a8d022f
 SEQUENCE:0
-DTSTAMP:20251205T171554
-DTSTART:20251206T131500
-DTEND:20251206T140000
-SUMMARY:🏀 U14 Girls: Arax vs Timberwolves Rubies
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
- wolves Rubies\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:c1625139-04b2-49d8-b251-409fdcf8236a
-SEQUENCE:0
-DTSTAMP:20251205T171554
+DTSTAMP:20251206T171354
 DTSTART:20251213T131500
 DTEND:20251213T140000
 SUMMARY:🏀 U14 Girls: Arax vs Ashy Lightning Yellow
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ashy L
  ightning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d4a50d12-a7e9-4ee9-8bbe-a8127a48a29e
+UID:4446175e-7714-4e21-a50c-2ebcca7d00f0
 SEQUENCE:0
-DTSTAMP:20251205T171554
+DTSTAMP:20251206T171354
 DTSTART:20260131T131500
 DTEND:20260131T140000
 SUMMARY:🏀 U14 Girls: Arax vs Malvern Tigers Fisher
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Fisher\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4fddb541-30b4-4384-b647-5cb3b216822d
+UID:ae303427-e643-4899-bea0-a559bb16a178
 SEQUENCE:0
-DTSTAMP:20251205T171554
+DTSTAMP:20251206T171354
 DTSTART:20260207T131500
 DTEND:20260207T140000
 SUMMARY:🏀 U14 Girls: Arax vs Darling Park Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Darlin
  g Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7019210a-61a6-4881-80d6-f8facd9ad526
+UID:ad7aebab-6adf-45c8-bddb-ca945b32904f
 SEQUENCE:0
-DTSTAMP:20251205T171554
+DTSTAMP:20251206T171354
 DTSTART:20260214T131500
 DTEND:20260214T140000
 SUMMARY:🏀 U14 Girls: Arax vs Solway Diamonds
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Diamonds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e134db71-625b-4214-8a4e-417601c3314a
+UID:567c4258-ffd6-43f2-87e5-ea8528180ef8
 SEQUENCE:0
-DTSTAMP:20251205T171554
+DTSTAMP:20251206T171354
 DTSTART:20260221T131500
 DTEND:20260221T140000
 SUMMARY:🏀 U14 Girls: Arax vs Timberwolves Rubies
@@ -72,9 +61,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Rubies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4b1a09b8-ea06-4876-809c-1429b1741009
+UID:88257db2-63a2-4c6a-8960-7d61538ab5c5
 SEQUENCE:0
-DTSTAMP:20251205T171554
+DTSTAMP:20251206T171354
 DTSTART:20260228T131500
 DTEND:20260228T140000
 SUMMARY:🏀 U14 Girls: Arax vs Ashy Lightning Yellow
@@ -83,9 +72,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ashy L
  ightning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:31867bf5-9fbe-4afd-9df2-22530fa94bcf
+UID:cf01c966-6701-481e-a605-3e510be83ef9
 SEQUENCE:0
-DTSTAMP:20251205T171554
+DTSTAMP:20251206T171354
 DTSTART:20260314T131500
 DTEND:20260314T140000
 SUMMARY:🏀 U14 Girls: Arax vs Malvern Tigers Fisher
