@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Jaguars Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:6e97165e-0ab9-4ce1-ba0e-775b6206fa73
+UID:d8b4a8b7-6cdf-48ce-b6e1-2b05dbf501e9
 SEQUENCE:0
-DTSTAMP:20251212T171555
-DTSTART:20251213T131500
-DTEND:20251213T140000
-SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Maccabi Kings
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
-  Kings\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5ccad96e-6d18-4612-91db-e00034363691
-SEQUENCE:0
-DTSTAMP:20251212T171555
+DTSTAMP:20251213T171336
 DTSTART:20260131T123000
 DTEND:20260131T131500
 SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Glen Iris Scorpions Nettleton
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
  is Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f193e475-34f1-4696-8680-aa71ca555257
+UID:f9570999-a8e8-44b4-83ae-678427d0daf3
 SEQUENCE:0
-DTSTAMP:20251212T171555
+DTSTAMP:20251213T171336
 DTSTART:20260214T123000
 DTEND:20260214T131500
 SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Warrawee Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Warrawe
  e Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b649555a-f572-4c6f-9ad6-bae7c238cb39
+UID:fa581e87-0f79-4bac-806c-87504fb072fe
 SEQUENCE:0
-DTSTAMP:20251212T171555
+DTSTAMP:20251213T171336
 DTSTART:20260221T131500
 DTEND:20260221T140000
 SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Ashy Lightning Yellow
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
  ghtning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ab77598e-f318-4f79-ae16-fc824546412d
+UID:1352d6b8-2a51-456b-844f-7ebc00746bf5
 SEQUENCE:0
-DTSTAMP:20251212T171555
+DTSTAMP:20251213T171336
 DTSTART:20260228T123000
 DTEND:20260228T131500
 SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Maccabi Hawks
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Hawks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:23c1e585-3395-407e-be28-6825b2fa7f62
+UID:e2544971-27c9-4dc3-ae02-2db894da886b
 SEQUENCE:0
-DTSTAMP:20251212T171555
+DTSTAMP:20251213T171336
 DTSTART:20260314T123000
 DTEND:20260314T131500
 SUMMARY:🏀 U12 Boys: Maccabi Jaguars vs Ardrie Park Piranhas

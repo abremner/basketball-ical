@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Falcons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:13d4f28f-245b-4f49-92cf-d2f257259a59
+UID:ac2906c6-b18f-475d-a4aa-1e833c317b86
 SEQUENCE:0
-DTSTAMP:20251212T171700
-DTSTART:20251213T131500
-DTEND:20251213T140000
-SUMMARY:🏀 U14 Boys: Maccabi Falcons vs SE Venom RBT Heat
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: SE Ven
- om RBT Heat\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:f6a5c45f-6cf7-4ad0-b86e-d89f92b957ce
-SEQUENCE:0
-DTSTAMP:20251212T171700
+DTSTAMP:20251213T171437
 DTSTART:20260131T131500
 DTEND:20260131T140000
 SUMMARY:🏀 U14 Boys: Maccabi Falcons vs Arax
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:863a136b-228d-4188-aa37-58fe0891db28
+UID:ff8ab288-4430-4e7a-99f1-faeaac9baac0
 SEQUENCE:0
-DTSTAMP:20251212T171700
+DTSTAMP:20251213T171437
 DTSTART:20260207T153000
 DTEND:20260207T161500
 SUMMARY:🏀 U14 Boys: Maccabi Falcons vs Ashy Lightning Yellow
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
  ightning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:83bda853-0b39-45ad-b951-6cdacc61a6d6
+UID:744f45c6-d4c6-4c66-8811-88da32ebfaaf
 SEQUENCE:0
-DTSTAMP:20251212T171700
+DTSTAMP:20251213T171437
 DTSTART:20260214T153000
 DTEND:20260214T161500
 SUMMARY:🏀 U14 Boys: Maccabi Falcons vs Glen Iris Scorpions Raven
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d99a8bb5-a2e8-4135-923a-de84fc0282a7
+UID:908bb22c-85d0-4c5e-94ff-d443df4b87df
 SEQUENCE:0
-DTSTAMP:20251212T171700
+DTSTAMP:20251213T171437
 DTSTART:20260228T161500
 DTEND:20260228T170000
 SUMMARY:🏀 U14 Boys: Maccabi Falcons vs Malvern Tigers Blue
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
  n Tigers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7b5e9a6d-1804-49bd-a026-aed73eb4026f
+UID:f21b4f63-399b-4fc2-8b8e-d2a81d41804a
 SEQUENCE:0
-DTSTAMP:20251212T171700
+DTSTAMP:20251213T171437
 DTSTART:20260314T161500
 DTEND:20260314T170000
 SUMMARY:🏀 U14 Boys: Maccabi Falcons vs Inkerman Piranhas

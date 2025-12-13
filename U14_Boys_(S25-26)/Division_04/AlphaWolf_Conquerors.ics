@@ -6,20 +6,9 @@ X-WR-CALNAME:AlphaWolf Conquerors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f11dcfff-c592-4602-8bc5-e04ac30fbf56
+UID:8acd5910-c5af-495b-985e-8ae9cbdb985f
 SEQUENCE:0
-DTSTAMP:20251212T171647
-DTSTART:20251213T170000
-DTEND:20251213T174500
-SUMMARY:🏀 U14 Boys: AlphaWolf Conquerors vs Toorak Tactix
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
- Tactix\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:cc0b1d41-bc5a-400d-9304-d821f01c405f
-SEQUENCE:0
-DTSTAMP:20251212T171647
+DTSTAMP:20251213T171425
 DTSTART:20260131T170000
 DTEND:20260131T174500
 SUMMARY:🏀 U14 Boys: AlphaWolf Conquerors vs Toorak Triple-Threat
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Toorak
  Triple-Threat\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c365b58a-c6af-421e-a50d-5ae165a4d8aa
+UID:1d01acdb-3afc-4248-a397-7d51ff299680
 SEQUENCE:0
-DTSTAMP:20251212T171647
+DTSTAMP:20251213T171425
 DTSTART:20260207T170000
 DTEND:20260207T174500
 SUMMARY:🏀 U14 Boys: AlphaWolf Conquerors vs Timberwolves Phoenix
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
  olves Phoenix\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dd1e54a3-05ad-41bd-8eb6-effc508195bf
+UID:8ef79dfa-0d34-4049-a74a-7fa6b0c1b19e
 SEQUENCE:0
-DTSTAMP:20251212T171647
+DTSTAMP:20251213T171425
 DTSTART:20260214T170000
 DTEND:20260214T174500
 SUMMARY:🏀 U14 Boys: AlphaWolf Conquerors vs Solway Vikings
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
  Vikings\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:73110b29-167e-48e9-b55b-e47111673a87
+UID:eac50cc4-1497-4420-b7ce-fd1db012dfb4
 SEQUENCE:0
-DTSTAMP:20251212T171647
+DTSTAMP:20251213T171425
 DTSTART:20260221T170000
 DTEND:20260221T174500
 SUMMARY:🏀 U14 Boys: AlphaWolf Conquerors vs AlphaWolf Apex
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
  lf Apex\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9aa3293e-e44f-4b92-8240-ee51419c7e38
+UID:0b3f663a-115a-48d4-9567-f718305384fc
 SEQUENCE:0
-DTSTAMP:20251212T171647
+DTSTAMP:20251213T171425
 DTSTART:20260314T153000
 DTEND:20260314T161500
 SUMMARY:🏀 U14 Boys: AlphaWolf Conquerors vs Maccabi Bucks

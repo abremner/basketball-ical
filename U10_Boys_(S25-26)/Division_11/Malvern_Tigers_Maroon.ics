@@ -6,20 +6,9 @@ X-WR-CALNAME:Malvern Tigers Maroon Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:df720d0f-7092-4c0b-9b98-7ced8124152d
+UID:2485e5da-deef-42c2-b7bf-ca583a949eea
 SEQUENCE:0
-DTSTAMP:20251212T171453
-DTSTART:20251213T080000
-DTEND:20251213T084500
-SUMMARY:🏀 U10 Boys: Malvern Tigers Maroon vs Ashy Lightning White
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
- ightning White\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:403ff5ab-2706-41df-8131-0ec98c001e98
-SEQUENCE:0
-DTSTAMP:20251212T171453
+DTSTAMP:20251213T171238
 DTSTART:20260131T084500
 DTEND:20260131T093000
 SUMMARY:🏀 U10 Boys: Malvern Tigers Maroon vs Maccabi Jaguars
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Jaguars\nArrive 15 mi
  ns early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a9d7b919-381d-4e8e-b830-4b89a0917ea3
+UID:789f56b4-333c-41f1-b5b1-1a30553822ab
 SEQUENCE:0
-DTSTAMP:20251212T171453
+DTSTAMP:20251213T171238
 DTSTART:20260214T080000
 DTEND:20260214T084500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Maroon vs Maccabi Hawks
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Hawks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:17742fbf-5b0c-4ab5-98ab-5e6a0aa91514
+UID:813bca34-da80-4ec1-b9f0-713def3ddcf6
 SEQUENCE:0
-DTSTAMP:20251212T171453
+DTSTAMP:20251213T171238
 DTSTART:20260221T080000
 DTEND:20260221T084500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Maroon vs Bambra Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Bambra
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:67a811ab-4e6c-4240-8ae3-f7c76b0cc4cd
+UID:df0b8b38-79dd-4038-8e0a-97ff2ae55467
 SEQUENCE:0
-DTSTAMP:20251212T171453
+DTSTAMP:20251213T171238
 DTSTART:20260228T093000
 DTEND:20260228T101500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Maroon vs Timberwolves Legends
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Legends\nArrive
  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:32df297b-1136-4e26-a3ec-81c1dbc38b07
+UID:bdb33e53-bf45-4dd6-b9dd-a07e85c365d6
 SEQUENCE:0
-DTSTAMP:20251212T171453
+DTSTAMP:20251213T171238
 DTSTART:20260314T093000
 DTEND:20260314T101500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Maroon vs Willoby Piranhas

@@ -6,20 +6,9 @@ X-WR-CALNAME:Timberwolves Terriers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:26afe2fb-1b33-4493-940b-518fc6e6f625
+UID:1b724875-fc28-4c8b-ab70-b017ebacb978
 SEQUENCE:0
-DTSTAMP:20251212T171657
-DTSTART:20251213T161500
-DTEND:20251213T170000
-SUMMARY:🏀 U14 Boys: Timberwolves Terriers vs Solway Mavericks
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
- Mavericks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:3dcc0085-c1db-4f01-8108-7eed99ade5de
-SEQUENCE:0
-DTSTAMP:20251212T171657
+DTSTAMP:20251213T171434
 DTSTART:20260131T161500
 DTEND:20260131T170000
 SUMMARY:🏀 U14 Boys: Timberwolves Terriers vs Maccabi Ducks
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a9f8cf9a-350e-478b-bb1f-712cff31957f
+UID:0d4cf946-5f6f-4ac1-a382-04ad128b2ddc
 SEQUENCE:0
-DTSTAMP:20251212T171657
+DTSTAMP:20251213T171434
 DTSTART:20260207T153000
 DTEND:20260207T161500
 SUMMARY:🏀 U14 Boys: Timberwolves Terriers vs Maccabi Eagles
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:31608c81-6ce8-428c-9703-b2655902899f
+UID:3a76b984-bc39-4508-af9e-03162546e319
 SEQUENCE:0
-DTSTAMP:20251212T171657
+DTSTAMP:20251213T171434
 DTSTART:20260221T153000
 DTEND:20260221T161500
 SUMMARY:🏀 U14 Boys: Timberwolves Terriers vs Timberwolves Ramblers
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Ramblers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9026e0a6-f588-4401-b230-cf40ee65e32c
+UID:ab91e19e-21ce-4c2e-ac2b-0c95cd2388d5
 SEQUENCE:0
-DTSTAMP:20251212T171657
+DTSTAMP:20251213T171434
 DTSTART:20260228T153000
 DTEND:20260228T161500
 SUMMARY:🏀 U14 Boys: Timberwolves Terriers vs Maccabi Celtics
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9b965003-25c0-4bd3-ad45-6cafd0e6aa18
+UID:614bc891-e665-4bc5-a1c3-77ddfcb24bec
 SEQUENCE:0
-DTSTAMP:20251212T171657
+DTSTAMP:20251213T171434
 DTSTART:20260314T161500
 DTEND:20260314T170000
 SUMMARY:🏀 U14 Boys: Timberwolves Terriers vs Golden Hawks Iron

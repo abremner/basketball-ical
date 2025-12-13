@@ -6,20 +6,9 @@ X-WR-CALNAME:Lauriston Suns Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c06fea68-e436-4b2d-8a45-d53b13f29dd3
+UID:b9b7da5b-2bd9-4d57-9dd0-2126b009971c
 SEQUENCE:0
-DTSTAMP:20251212T171631
-DTSTART:20251213T131500
-DTEND:20251213T140000
-SUMMARY:🏀 U12 Girls: Lauriston Suns vs Ashy Lightning White
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
- ightning White\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:d473cf5f-46e7-490d-9b1a-20bac2b77264
-SEQUENCE:0
-DTSTAMP:20251212T171631
+DTSTAMP:20251213T171410
 DTSTART:20260131T123000
 DTEND:20260131T131500
 SUMMARY:🏀 U12 Girls: Lauriston Suns vs Maccabi Giants
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
  i Giants\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:12414c0d-d916-4257-91f6-35f66014059d
+UID:3ecfc207-a2ad-4217-8690-76a19db323a9
 SEQUENCE:0
-DTSTAMP:20251212T171631
+DTSTAMP:20251213T171410
 DTSTART:20260207T123000
 DTEND:20260207T131500
 SUMMARY:🏀 U12 Girls: Lauriston Suns vs Timberwolves Hurricanes
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
  wolves Hurricanes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3aff152f-7f95-4e1c-8206-3031e8c0fd19
+UID:b848ae80-b0fe-43b3-8628-fd661ca20c97
 SEQUENCE:0
-DTSTAMP:20251212T171631
+DTSTAMP:20251213T171410
 DTSTART:20260214T131500
 DTEND:20260214T140000
 SUMMARY:🏀 U12 Girls: Lauriston Suns vs Arax
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fb1bcf01-cb3b-47c0-9365-3eed70ad2d5a
+UID:8bf43a6c-3b86-42e2-8461-18e70bd0f4e8
 SEQUENCE:0
-DTSTAMP:20251212T171631
+DTSTAMP:20251213T171410
 DTSTART:20260221T131500
 DTEND:20260221T140000
 SUMMARY:🏀 U12 Girls: Lauriston Suns vs Ashy Lightning Yellow
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
  ing Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7e41dbc5-8365-4b25-9f81-69b45fb146d1
+UID:6e4ba89d-4f8a-4b49-9c5f-55ce964ef811
 SEQUENCE:0
-DTSTAMP:20251212T171631
+DTSTAMP:20251213T171410
 DTSTART:20260228T131500
 DTEND:20260228T140000
 SUMMARY:🏀 U12 Girls: Lauriston Suns vs Solway Red Robins

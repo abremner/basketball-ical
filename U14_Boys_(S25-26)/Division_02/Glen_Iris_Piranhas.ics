@@ -6,20 +6,9 @@ X-WR-CALNAME:Glen Iris Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:60f9f16f-f77d-402a-a218-b0eb0f75acfc
+UID:59a217a9-7e8e-41c3-a261-79e662372690
 SEQUENCE:0
-DTSTAMP:20251212T171639
-DTSTART:20251213T174500
-DTEND:20251213T183000
-SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Toorak Taipans
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
- Taipans\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:882aafee-fb0f-4886-9ff0-8840d16ce30d
-SEQUENCE:0
-DTSTAMP:20251212T171639
+DTSTAMP:20251213T171417
 DTSTART:20260207T174500
 DTEND:20260207T183000
 SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Comets Lightning
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Comets
  Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b9c1854f-5219-43a4-b139-7d5f26ac015b
+UID:dc697b3c-e197-4ac7-92d5-a4b0e1abb7ee
 SEQUENCE:0
-DTSTAMP:20251212T171639
+DTSTAMP:20251213T171417
 DTSTART:20260214T174500
 DTEND:20260214T183000
 SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Glen Iris Scorpions Gardiner
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3f752780-a4cd-4039-ba40-4943b7ceb54d
+UID:ab794a00-c3f7-41d5-82fe-df18c9c2441a
 SEQUENCE:0
-DTSTAMP:20251212T171639
+DTSTAMP:20251213T171417
 DTSTART:20260221T170000
 DTEND:20260221T174500
 SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Paxton Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Paxton
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c5d920aa-dafd-42bf-9ab2-a21a0ca66cae
+UID:b2b6b9f3-e079-4cb5-ab06-e69a5a2187ce
 SEQUENCE:0
-DTSTAMP:20251212T171639
+DTSTAMP:20251213T171417
 DTSTART:20260228T174500
 DTEND:20260228T183000
 SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Maccabi Warriors
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:65bb8188-453a-49f7-8d00-ce9b6f92ab17
+UID:cd45e9ce-b2bd-4e18-9305-80d6f172d6a2
 SEQUENCE:0
-DTSTAMP:20251212T171639
+DTSTAMP:20251213T171417
 DTSTART:20260314T170000
 DTEND:20260314T174500
 SUMMARY:🏀 U14 Boys: Glen Iris Piranhas vs Elsternwick Piranhas

@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Kings Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:1c693f47-1556-4285-bd59-104c0d1833cc
+UID:a7fc54dd-a7a9-4f23-93fc-c5040e12dc02
 SEQUENCE:0
-DTSTAMP:20251212T171555
-DTSTART:20251213T131500
-DTEND:20251213T140000
-SUMMARY:🏀 U12 Boys: Maccabi Kings vs Maccabi Jaguars
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
-  Jaguars\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:08700c35-7ebc-4323-8dd0-f2512d018d01
-SEQUENCE:0
-DTSTAMP:20251212T171555
+DTSTAMP:20251213T171337
 DTSTART:20260131T131500
 DTEND:20260131T140000
 SUMMARY:🏀 U12 Boys: Maccabi Kings vs SE Venom RBT Spurs
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: SE Venom RBT Spurs\nArrive 15
   mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6d98f9d4-6c84-4dfa-8026-4efbf4095e4d
+UID:45ba13bc-7be9-4532-ab00-653b37cfbf11
 SEQUENCE:0
-DTSTAMP:20251212T171555
+DTSTAMP:20251213T171337
 DTSTART:20260207T123000
 DTEND:20260207T131500
 SUMMARY:🏀 U12 Boys: Maccabi Kings vs Ashy Lightning Yellow
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
  ightning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c3db1bfc-b451-4a3e-be59-9c74f6acf0fd
+UID:a4c987bf-f5a0-4ddf-9ce4-12078bdb7ccd
 SEQUENCE:0
-DTSTAMP:20251212T171555
+DTSTAMP:20251213T171337
 DTSTART:20260214T131500
 DTEND:20260214T140000
 SUMMARY:🏀 U12 Boys: Maccabi Kings vs Ardrie Park Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ardrie
  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e61791e6-7979-4ab0-a357-304fc72354c2
+UID:1445584d-44bf-4301-a7b0-4466d4277a7e
 SEQUENCE:0
-DTSTAMP:20251212T171555
+DTSTAMP:20251213T171337
 DTSTART:20260221T123000
 DTEND:20260221T131500
 SUMMARY:🏀 U12 Boys: Maccabi Kings vs Maccabi Hawks
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Hawks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7a19ce02-4f5c-4d87-a2fa-d7cb8affc119
+UID:94593f9f-c32e-45d3-a67b-c144f95f942f
 SEQUENCE:0
-DTSTAMP:20251212T171555
+DTSTAMP:20251213T171337
 DTSTART:20260228T131500
 DTEND:20260228T140000
 SUMMARY:🏀 U12 Boys: Maccabi Kings vs Glen Iris Scorpions Nettleton

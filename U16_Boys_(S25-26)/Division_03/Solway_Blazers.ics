@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Blazers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:a590c9ee-5796-4a80-aebb-852233f9b6ee
+UID:f13e5fbe-abae-4024-b6ad-fcb5dadf28de
 SEQUENCE:0
-DTSTAMP:20251212T171741
-DTSTART:20251213T191500
-DTEND:20251213T200000
-SUMMARY:🏀 U16 Boys: Solway Blazers vs Malvern Tigers Yellow
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
-  Tigers Yellow\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:eb275ac1-4b66-4674-a0ef-f91eb74f14f3
-SEQUENCE:0
-DTSTAMP:20251212T171741
+DTSTAMP:20251213T171516
 DTSTART:20260131T191500
 DTEND:20260131T200000
 SUMMARY:🏀 U16 Boys: Solway Blazers vs Toorak Tyrants
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Tyrants\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f8557ff1-ef06-42f3-bb26-59d3f87a76bb
+UID:d7ed569f-a91a-4ce9-a18d-95fe5eb1cde2
 SEQUENCE:0
-DTSTAMP:20251212T171741
+DTSTAMP:20251213T171516
 DTSTART:20260207T191500
 DTEND:20260207T200000
 SUMMARY:🏀 U16 Boys: Solway Blazers vs Timberwolves Magnum
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Magnum\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c9e51672-c189-4e2f-9627-6cf7ccf5c66e
+UID:aa7e2b46-a6c7-4bc5-970e-2d3227e00793
 SEQUENCE:0
-DTSTAMP:20251212T171741
+DTSTAMP:20251213T171516
 DTSTART:20260214T183000
 DTEND:20260214T191500
 SUMMARY:🏀 U16 Boys: Solway Blazers vs Maccabi Half Court Miracles
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Maccab
  i Half Court Miracles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dd4ef12e-61f2-4d6f-8e74-252b08b45259
+UID:bc153409-0914-432b-ae79-d656cf596abc
 SEQUENCE:0
-DTSTAMP:20251212T171741
+DTSTAMP:20251213T171516
 DTSTART:20260221T174500
 DTEND:20260221T183000
 SUMMARY:🏀 U16 Boys: Solway Blazers vs Timberwolves Nuggets
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Nuggets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a0d7d49d-7fb0-41b6-90db-1589cf32bdeb
+UID:5203256f-f778-4d47-890a-ec4dfba2ca7a
 SEQUENCE:0
-DTSTAMP:20251212T171741
+DTSTAMP:20251213T171516
 DTSTART:20260314T183000
 DTEND:20260314T191500
 SUMMARY:🏀 U16 Boys: Solway Blazers vs Solway Super Sonics

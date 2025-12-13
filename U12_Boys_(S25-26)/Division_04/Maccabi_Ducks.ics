@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:56e2090e-6de7-4c47-b8ae-702806959857
+UID:b84e11db-2dd5-4fa6-9ebf-353aaaa6747a
 SEQUENCE:0
-DTSTAMP:20251212T171538
-DTSTART:20251213T140000
-DTEND:20251213T144500
-SUMMARY:🏀 U12 Boys: Maccabi Ducks vs AlphaWolf Warriors
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: AlphaW
- olf Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:eb28f527-566b-4c4b-b3ff-62eacd021d7b
-SEQUENCE:0
-DTSTAMP:20251212T171538
+DTSTAMP:20251213T171320
 DTSTART:20260131T140000
 DTEND:20260131T144500
 SUMMARY:🏀 U12 Boys: Maccabi Ducks vs Malvern Tigers Brown
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Brown\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:24ca1574-fa7c-46c8-bddf-9967c9ec15f6
+UID:f0e15413-e27d-47ee-b933-b903b6ac7145
 SEQUENCE:0
-DTSTAMP:20251212T171538
+DTSTAMP:20251213T171320
 DTSTART:20260207T144500
 DTEND:20260207T153000
 SUMMARY:🏀 U12 Boys: Maccabi Ducks vs Maccabi Celtics
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c0ee0d38-5967-49df-9332-804ef51025cf
+UID:f3b92c8b-393e-4edf-abe0-895da06b57e2
 SEQUENCE:0
-DTSTAMP:20251212T171538
+DTSTAMP:20251213T171320
 DTSTART:20260221T144500
 DTEND:20260221T153000
 SUMMARY:🏀 U12 Boys: Maccabi Ducks vs Heywood Park Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Heywood
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d18e956c-e949-4afc-be8f-031b5d5e45dc
+UID:d8956016-33a6-4d4c-baf9-c8bff0c3f49c
 SEQUENCE:0
-DTSTAMP:20251212T171538
+DTSTAMP:20251213T171320
 DTSTART:20260228T144500
 DTEND:20260228T153000
 SUMMARY:🏀 U12 Boys: Maccabi Ducks vs Timberwolves Heat
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Heat\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:63910e2e-2bc5-4530-b472-3a62d5d4bacb
+UID:9260ca6a-5345-41df-bf99-3fecf66d098c
 SEQUENCE:0
-DTSTAMP:20251212T171538
+DTSTAMP:20251213T171320
 DTSTART:20260314T140000
 DTEND:20260314T144500
 SUMMARY:🏀 U12 Boys: Maccabi Ducks vs Malvern Tigers Orange

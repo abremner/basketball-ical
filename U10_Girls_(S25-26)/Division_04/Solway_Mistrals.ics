@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Mistrals Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d7a2b45a-5f42-42ef-8614-29c741967610
+UID:bb74ff3d-ed39-49e8-a63b-9f93931ec9e5
 SEQUENCE:0
-DTSTAMP:20251212T171512
-DTSTART:20251213T114500
-DTEND:20251213T123000
-SUMMARY:🏀 U10 Girls: Solway Mistrals vs Malvern Tigers Mitchell
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
- ers Mitchell\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:38318054-71b6-440d-8fcd-d6be6e88a6a3
-SEQUENCE:0
-DTSTAMP:20251212T171512
+DTSTAMP:20251213T171256
 DTSTART:20260131T114500
 DTEND:20260131T123000
 SUMMARY:🏀 U10 Girls: Solway Mistrals vs Solway Typhoons
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Typh
  oons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:85d5284b-f5ed-493d-926b-8683e8e53277
+UID:ee99ab8e-67d3-43d6-9a5a-6bc32951f8c2
 SEQUENCE:0
-DTSTAMP:20251212T171512
+DTSTAMP:20251213T171256
 DTSTART:20260207T114500
 DTEND:20260207T123000
 SUMMARY:🏀 U10 Girls: Solway Mistrals vs Valentine Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Valentine P
  iranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f0d94c1f-9f5a-4077-96f6-9aea5ed78cce
+UID:e9813ce1-c6df-49fb-bdc8-659394b19a6a
 SEQUENCE:0
-DTSTAMP:20251212T171512
+DTSTAMP:20251213T171256
 DTSTART:20260221T110000
 DTEND:20260221T114500
 SUMMARY:🏀 U10 Girls: Solway Mistrals vs Dairy Park Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Dairy
  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9e9fafb0-dc36-4600-9ca9-41d28805b63f
+UID:a9259bda-d194-485b-94ae-cf5f61c942dd
 SEQUENCE:0
-DTSTAMP:20251212T171512
+DTSTAMP:20251213T171256
 DTSTART:20260228T110000
 DTEND:20260228T114500
 SUMMARY:🏀 U10 Girls: Solway Mistrals vs Netherlee Piranhas
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Nether
  lee Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:79128931-362a-4eca-af6a-96569c53f2ab
+UID:198d188a-468c-4e4a-8f02-90615a350f26
 SEQUENCE:0
-DTSTAMP:20251212T171512
+DTSTAMP:20251213T171256
 DTSTART:20260314T114500
 DTEND:20260314T123000
 SUMMARY:🏀 U10 Girls: Solway Mistrals vs Timberwolves Warriors

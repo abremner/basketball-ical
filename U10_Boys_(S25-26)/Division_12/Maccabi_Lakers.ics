@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Lakers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:6d51fd40-ae0f-43ae-b8da-93d9a3f3ddd9
+UID:b577bf4f-3b6e-4828-b558-1fe86f56de39
 SEQUENCE:0
-DTSTAMP:20251212T171457
-DTSTART:20251213T101500
-DTEND:20251213T110000
-SUMMARY:🏀 U10 Boys: Maccabi Lakers vs Timberwolves Hawks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
- wolves Hawks\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:12868260-48af-43cb-8966-7c06e79374ec
-SEQUENCE:0
-DTSTAMP:20251212T171457
+DTSTAMP:20251213T171241
 DTSTART:20260131T101500
 DTEND:20260131T110000
 SUMMARY:🏀 U10 Boys: Maccabi Lakers vs Solway Force
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Force\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:257bf6f3-e286-4da8-a6e8-1ff60428dba5
+UID:87573370-4e33-4b5d-aef1-9a8f01b43ed9
 SEQUENCE:0
-DTSTAMP:20251212T171457
+DTSTAMP:20251213T171241
 DTSTART:20260207T084500
 DTEND:20260207T093000
 SUMMARY:🏀 U10 Boys: Maccabi Lakers vs Viewbank Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Viewbank Piranhas\nArrive 15
  mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1c083004-3f42-4b7a-ad0a-2fa16dddcbe8
+UID:f1bb56b7-bad2-4c52-96f8-62f2f1a12bcd
 SEQUENCE:0
-DTSTAMP:20251212T171457
+DTSTAMP:20251213T171241
 DTSTART:20260214T101500
 DTEND:20260214T110000
 SUMMARY:🏀 U10 Boys: Maccabi Lakers vs Maccabi Kings
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Kings\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3a62a8c5-b1eb-42d3-bf49-7b3c2ce9615f
+UID:33eb5d63-4060-43ab-9216-ae8cd7f5abb7
 SEQUENCE:0
-DTSTAMP:20251212T171457
+DTSTAMP:20251213T171242
 DTSTART:20260221T080000
 DTEND:20260221T084500
 SUMMARY:🏀 U10 Boys: Maccabi Lakers vs Arax
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:13d92ebb-12a4-4339-943c-4cb0d87aab14
+UID:456482f1-e9ed-4faf-bcd2-9d3d73d3e7d8
 SEQUENCE:0
-DTSTAMP:20251212T171457
+DTSTAMP:20251213T171242
 DTSTART:20260228T084500
 DTEND:20260228T093000
 SUMMARY:🏀 U10 Boys: Maccabi Lakers vs Comets Eagles

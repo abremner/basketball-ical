@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f6e4c23e-a520-49bd-b6c8-2cd1bbf6a84f
+UID:b73fadbc-a81d-4176-9214-b64da881549a
 SEQUENCE:0
-DTSTAMP:20251212T171349
-DTSTART:20251213T101500
-DTEND:20251213T110000
-SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Packer Park Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Packer 
- Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:84b4f72d-ab06-4e6d-b1da-29e5795d7b1b
-SEQUENCE:0
-DTSTAMP:20251212T171349
+DTSTAMP:20251213T171137
 DTSTART:20260131T101500
 DTEND:20260131T110000
 SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Malvern Tigers Bogut
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Bogut\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5c261455-32e4-4e15-b945-818959631bef
+UID:054ee2b5-c01c-4187-9527-3dcf36cf1895
 SEQUENCE:0
-DTSTAMP:20251212T171349
+DTSTAMP:20251213T171137
 DTSTART:20260207T080000
 DTEND:20260207T084500
 SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Malvern Tigers Ingles
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Ingles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:19ab3626-c808-4edd-ac9e-4943ee20babb
+UID:08104188-31c4-484a-a857-f3ed708bc2ef
 SEQUENCE:0
-DTSTAMP:20251212T171349
+DTSTAMP:20251213T171137
 DTSTART:20260214T084500
 DTEND:20260214T093000
 SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Ashy Lightning Green
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:12f9161b-3908-4c84-a4b8-d6059a2e0ff1
+UID:15d865f9-4e49-47ce-9d5e-1ab1a9847212
 SEQUENCE:0
-DTSTAMP:20251212T171349
+DTSTAMP:20251213T171137
 DTSTART:20260228T084500
 DTEND:20260228T093000
 SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Golden Hawks Sky
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Golden
  Hawks Sky\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ffc72b49-4817-42a1-98e7-e3eae8619018
+UID:b84c065e-6b57-4df7-a18b-33bfefb7f4c5
 SEQUENCE:0
-DTSTAMP:20251212T171349
+DTSTAMP:20251213T171137
 DTSTART:20260314T080000
 DTEND:20260314T084500
 SUMMARY:🏀 U08 Boys: Maccabi Bucks vs AlphaWolf Titans
