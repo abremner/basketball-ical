@@ -6,20 +6,9 @@ X-WR-CALNAME:Comets Storm Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:1f019a89-9b40-463b-b725-42bd5e5121cf
+UID:c02e55ec-91e4-4220-9bc6-f23e2c751be7
 SEQUENCE:0
-DTSTAMP:20251213T171553
-DTSTART:20251214T173000
-DTEND:20251214T181500
-SUMMARY:🏀 U18 Boys: Comets Storm vs Glen Iris Scorpions Sixers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
- ris Scorpions Sixers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:cbcb62e3-3f9f-449f-beee-e7614ec5cfb8
-SEQUENCE:0
-DTSTAMP:20251213T171553
+DTSTAMP:20251214T171555
 DTSTART:20260201T190000
 DTEND:20260201T194500
 SUMMARY:🏀 U18 Boys: Comets Storm vs Maccabi Thunder
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Thunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0984c9a2-55a3-4e6f-81bc-f935e6361318
+UID:72a9b95d-dce4-4a93-a316-4a771d4a5be9
 SEQUENCE:0
-DTSTAMP:20251213T171553
+DTSTAMP:20251214T171555
 DTSTART:20260208T181500
 DTEND:20260208T190000
 SUMMARY:🏀 U18 Boys: Comets Storm vs Maccabi Vipers
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Vipers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c04a1059-db7c-499e-ad67-91fae98ab123
+UID:14d4c684-06d4-4eeb-8d95-91c4c5741fcb
 SEQUENCE:0
-DTSTAMP:20251213T171553
+DTSTAMP:20251214T171555
 DTSTART:20260215T173000
 DTEND:20260215T181500
 SUMMARY:🏀 U18 Boys: Comets Storm vs Timberwolves Wizards
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Wizards\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ecacdf52-80b0-48b2-97d2-13675a16be7f
+UID:fca71ee6-a530-4bfb-a601-e201241d2f6d
 SEQUENCE:0
-DTSTAMP:20251213T171553
+DTSTAMP:20251214T171555
 DTSTART:20260301T190000
 DTEND:20260301T194500
 SUMMARY:🏀 U18 Boys: Comets Storm vs Timberwolves Wildcats
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Wildcats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:88a75a0e-0797-4eb9-b57a-0218ae98d32c
+UID:35a659a2-4779-4242-b665-0154cc175b82
 SEQUENCE:0
-DTSTAMP:20251213T171553
+DTSTAMP:20251214T171555
 DTSTART:20260315T181500
 DTEND:20260315T190000
 SUMMARY:🏀 U18 Boys: Comets Storm vs Maccabi Bucks
