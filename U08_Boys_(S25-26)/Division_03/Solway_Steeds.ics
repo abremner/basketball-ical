@@ -6,9 +6,31 @@ X-WR-CALNAME:Solway Steeds Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0008118b-c463-48c3-ae67-e0edf35d7072
+UID:19f581a4-e5a6-4594-9052-46417dc61ff8
 SEQUENCE:0
-DTSTAMP:20260113T172130
+DTSTAMP:20260114T172158
+DTSTART:20260131T084500
+DTEND:20260131T093000
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Burnley Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Burnley
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:775184ee-c1ff-4e95-a106-03330b123372
+SEQUENCE:0
+DTSTAMP:20260114T172158
+DTSTART:20260131T084500
+DTEND:20260131T093000
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Malvern Tigers Longley
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Longley\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fd4236db-281b-4401-9101-3d2d1d6d0dfa
+SEQUENCE:0
+DTSTAMP:20260114T172158
 DTSTART:20260131T093000
 DTEND:20260131T101500
 SUMMARY:🏀 U08 Boys: Solway Steeds vs Malvern Tigers Exum
@@ -17,9 +39,42 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Exum\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8deba93a-80a6-4a5c-901e-8139766577cc
+UID:57b2e7ab-db02-4efd-8ff8-38a64b32e1d9
 SEQUENCE:0
-DTSTAMP:20260113T172130
+DTSTAMP:20260114T172158
+DTSTART:20260131T084500
+DTEND:20260131T093000
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Malvern Tigers Exum
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Exum\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:59172ec4-5bea-4bc2-974f-360084acc53d
+SEQUENCE:0
+DTSTAMP:20260114T172158
+DTSTART:20260131T093000
+DTEND:20260131T101500
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:17b062ff-06e8-4047-8bed-b29a71891f1f
+SEQUENCE:0
+DTSTAMP:20260114T172158
+DTSTART:20260131T093000
+DTEND:20260131T101500
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Solway Mustangs
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Mustangs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8a17b293-e949-4ab4-9745-8a5240c9df14
+SEQUENCE:0
+DTSTAMP:20260114T172158
 DTSTART:20260207T084500
 DTEND:20260207T093000
 SUMMARY:🏀 U08 Boys: Solway Steeds vs Solway Mustangs
@@ -28,20 +83,53 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Mustangs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8b1059b4-23b0-40f1-a1b1-f98d1ce78dcb
+UID:3fe02443-9f59-4083-9818-95a9b4c39f3f
 SEQUENCE:0
-DTSTAMP:20260113T172130
+DTSTAMP:20260114T172158
 DTSTART:20260214T093000
 DTEND:20260214T101500
-SUMMARY:🏀 U08 Boys: Solway Steeds vs Malvern Tigers Dellavedova
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Malvern Tigers Exum
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
-  Tigers Dellavedova\nArrive 15 mins early for warm-up
+  Tigers Exum\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b3ad9edd-40d8-47ed-88ab-7579d1cea529
+UID:523eccd1-0b98-461e-bc99-7441618e1325
 SEQUENCE:0
-DTSTAMP:20260113T172130
+DTSTAMP:20260114T172158
+DTSTART:20260214T093000
+DTEND:20260214T101500
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Burnley Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Burnley
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5f2db0e3-8ea7-476f-96c4-2fdb2ea879e3
+SEQUENCE:0
+DTSTAMP:20260114T172158
+DTSTART:20260214T093000
+DTEND:20260214T101500
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1acd0818-a7a3-4c7b-9a80-aea817e056df
+SEQUENCE:0
+DTSTAMP:20260114T172158
+DTSTART:20260221T093000
+DTEND:20260221T101500
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Malvern Tigers Exum
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Exum\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3216fade-215a-4b6e-ac8b-45d84e5e497c
+SEQUENCE:0
+DTSTAMP:20260114T172158
 DTSTART:20260221T110000
 DTEND:20260221T114500
 SUMMARY:🏀 U08 Boys: Solway Steeds vs Burnley Park Piranhas
@@ -50,9 +138,31 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Burnley
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:137b2bd8-6264-40e1-b628-955fb278f272
+UID:928a78b8-2827-40c1-ab5a-dd3902f5ca22
 SEQUENCE:0
-DTSTAMP:20260113T172130
+DTSTAMP:20260114T172158
+DTSTART:20260221T093000
+DTEND:20260221T101500
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Burnley Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Burnley
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d638522c-1194-4b1e-8f09-c607a6f4c0e0
+SEQUENCE:0
+DTSTAMP:20260114T172158
+DTSTART:20260221T093000
+DTEND:20260221T101500
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Solway Mustangs
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Mustangs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:643439aa-de41-4a1f-899b-4e8b62463365
+SEQUENCE:0
+DTSTAMP:20260114T172158
 DTSTART:20260228T084500
 DTEND:20260228T093000
 SUMMARY:🏀 U08 Boys: Solway Steeds vs Malvern Tigers Longley
@@ -61,9 +171,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Longley\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2af0180c-7ade-4131-ba9b-cdd9318a818f
+UID:60812357-fa8e-4152-aabe-b7940dc83a71
 SEQUENCE:0
-DTSTAMP:20260113T172130
+DTSTAMP:20260114T172158
 DTSTART:20260314T110000
 DTEND:20260314T114500
 SUMMARY:🏀 U08 Boys: Solway Steeds vs Malvern Tigers Exum
