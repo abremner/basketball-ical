@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Mustangs Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:08952daa-e3e7-471b-9938-6ef59a21b1fc
+UID:c566b0c7-161e-4e08-8637-3676e0c87079
 SEQUENCE:0
-DTSTAMP:20260118T171215
-DTSTART:20260131T093000
-DTEND:20260131T101500
-SUMMARY:🏀 U08 Boys: Solway Mustangs vs Malvern Tigers Exum
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
-  Tigers Exum\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:607ae5db-8de7-4d13-b1e1-483f34a002c1
-SEQUENCE:0
-DTSTAMP:20260118T171215
+DTSTAMP:20260119T171832
 DTSTART:20260131T093000
 DTEND:20260131T101500
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Ashy Lightning Green
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7917793e-0b08-487b-b75b-c07fc7a37dc3
+UID:131922c1-5d81-46d4-839c-5f7f10134e2c
 SEQUENCE:0
-DTSTAMP:20260118T171215
+DTSTAMP:20260119T171832
 DTSTART:20260131T093000
 DTEND:20260131T101500
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Solway Steeds
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Steeds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:44073e06-0e7d-4a53-b620-01aae2512d4a
+UID:ff4b359b-94ca-4e98-9295-8249cfb8d38d
 SEQUENCE:0
-DTSTAMP:20260118T171215
+DTSTAMP:20260119T171832
 DTSTART:20260131T110000
 DTEND:20260131T114500
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Ashy Lightning Green
@@ -50,9 +39,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:675e8e06-fdfb-4861-9e72-584bb365575d
+UID:22a7408c-824d-4c10-9ad5-b04f782027b4
 SEQUENCE:0
-DTSTAMP:20260118T171215
+DTSTAMP:20260119T171832
+DTSTART:20260131T093000
+DTEND:20260131T101500
+SUMMARY:🏀 U08 Boys: Solway Mustangs vs Malvern Tigers Exum
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Exum\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e6ccd2ef-e6a3-4ebe-8bed-6440844dfe78
+SEQUENCE:0
+DTSTAMP:20260119T171832
 DTSTART:20260207T084500
 DTEND:20260207T093000
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Solway Steeds
@@ -61,9 +61,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Steeds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:117b4725-ddfb-45a5-8138-4048452f4512
+UID:2b0d7356-e8cb-4ca1-9bc1-8aedf7584462
 SEQUENCE:0
-DTSTAMP:20260118T171215
+DTSTAMP:20260119T171832
 DTSTART:20260214T084500
 DTEND:20260214T093000
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Malvern Tigers Longley
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Longley\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2dc79e42-d059-4384-9b0d-bd2467a809ac
+UID:f2ae6bdb-b6fa-45b6-abe5-ee7e0be73842
 SEQUENCE:0
-DTSTAMP:20260118T171215
+DTSTAMP:20260119T171832
 DTSTART:20260221T084500
 DTEND:20260221T093000
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Malvern Tigers Exum
@@ -83,9 +83,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Exum\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8793ab1e-5dcb-40aa-bf9d-6679466a7681
+UID:a6ba21e2-009a-4c45-8237-772ddbf264d5
 SEQUENCE:0
-DTSTAMP:20260118T171215
+DTSTAMP:20260119T171832
 DTSTART:20260221T093000
 DTEND:20260221T101500
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Burnley Park Piranhas
@@ -94,9 +94,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Burnley
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:db64b04c-de39-4504-8a2e-4d6e21b589b9
+UID:c24d858b-af01-4f74-8fa9-f18e01b34889
 SEQUENCE:0
-DTSTAMP:20260118T171215
+DTSTAMP:20260119T171832
 DTSTART:20260221T093000
 DTEND:20260221T101500
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Solway Steeds
@@ -105,9 +105,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Steeds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f575a6a0-7f1f-477b-b9d4-12da44091ef7
+UID:3645a1c5-cc17-427a-bb55-d198d2732642
 SEQUENCE:0
-DTSTAMP:20260118T171215
+DTSTAMP:20260119T171832
 DTSTART:20260221T084500
 DTEND:20260221T093000
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Ashy Lightning Green
@@ -116,9 +116,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:427322be-c928-4f9d-a52d-199f88bb009d
+UID:b95dede8-f8c0-4388-b78e-be15a0c36bd1
 SEQUENCE:0
-DTSTAMP:20260118T171215
+DTSTAMP:20260119T171832
 DTSTART:20260221T084500
 DTEND:20260221T093000
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Malvern Tigers Longley
@@ -127,9 +127,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Longley\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a2cdd7d7-5f84-4c6c-b51e-4b45eed4d54d
+UID:b2d09611-afcb-4603-919e-54bd21205a31
 SEQUENCE:0
-DTSTAMP:20260118T171215
+DTSTAMP:20260119T171832
 DTSTART:20260221T093000
 DTEND:20260221T101500
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Malvern Tigers Exum
@@ -138,9 +138,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Exum\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1a7e9bdc-ff28-4fdb-8252-906bf5432849
+UID:21e7a9ef-c49f-4d9e-b152-f34734c2d0e1
 SEQUENCE:0
-DTSTAMP:20260118T171215
+DTSTAMP:20260119T171832
 DTSTART:20260228T110000
 DTEND:20260228T114500
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Burnley Park Piranhas
@@ -149,9 +149,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Burnley
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3a152bb2-c5fd-4b0b-a3fd-05c5ad49cbed
+UID:d3fce2a8-6299-4a58-83b9-77433283cee9
 SEQUENCE:0
-DTSTAMP:20260118T171215
+DTSTAMP:20260119T171832
 DTSTART:20260314T093000
 DTEND:20260314T101500
 SUMMARY:🏀 U08 Boys: Solway Mustangs vs Ashy Lightning Green
