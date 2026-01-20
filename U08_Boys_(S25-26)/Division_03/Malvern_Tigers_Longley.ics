@@ -6,108 +6,42 @@ X-WR-CALNAME:Malvern Tigers Longley Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b7c611c6-0570-4f31-ad0b-963f0623eb6b
+UID:73374b59-2a8e-431f-9ce5-9e7eb7b3e86b
 SEQUENCE:0
-DTSTAMP:20260119T171832
-DTSTART:20260131T084500
-DTEND:20260131T093000
+DTSTAMP:20260120T172248
+DTSTART:20260131T093000
+DTEND:20260131T101500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Burnley Park Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Burnley
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Burnley
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f010221e-15c7-4f3a-8f35-211884112da9
+UID:46855734-360f-46e1-8511-dd3045668817
 SEQUENCE:0
-DTSTAMP:20260119T171832
-DTSTART:20260131T084500
-DTEND:20260131T093000
-SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Solway Steeds
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
- Steeds\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:fe4153f3-2757-45d3-82c3-d2c06e5c3f67
-SEQUENCE:0
-DTSTAMP:20260119T171832
-DTSTART:20260131T084500
-DTEND:20260131T093000
-SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Malvern Tigers Exum
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
-  Tigers Exum\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:dc19ac83-8ec4-416c-b40e-f0f57e19d581
-SEQUENCE:0
-DTSTAMP:20260119T171832
+DTSTAMP:20260120T172248
 DTSTART:20260207T093000
 DTEND:20260207T101500
-SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Malvern Tigers Exum
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
-  Tigers Exum\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:454a00ce-11af-4ba3-83e9-dc6e211f5df3
-SEQUENCE:0
-DTSTAMP:20260119T171832
-DTSTART:20260214T110000
-DTEND:20260214T114500
-SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Malvern Tigers Exum
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
-  Tigers Exum\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:6ff27856-6daf-43ff-b8e6-ccef13cd70d5
-SEQUENCE:0
-DTSTAMP:20260119T171832
-DTSTART:20260214T084500
-DTEND:20260214T093000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Solway Mustangs
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
  Mustangs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2bacac76-f6c7-4dd1-8b0c-65e99a9d8adc
+UID:474c5042-fd9a-4e62-b941-acf4d4d5048e
 SEQUENCE:0
-DTSTAMP:20260119T171832
-DTSTART:20260214T110000
-DTEND:20260214T114500
-SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Ashy Lightning Green
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
- ghtning Green\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:240040ad-931e-4c46-9f95-54f2285eb40e
-SEQUENCE:0
-DTSTAMP:20260119T171832
-DTSTART:20260214T110000
-DTEND:20260214T114500
-SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Burnley Park Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Burnley
-  Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:fd2e5d06-7878-403a-829e-9597ec853b85
-SEQUENCE:0
-DTSTAMP:20260119T171832
-DTSTART:20260221T084500
-DTEND:20260221T093000
+DTSTAMP:20260120T172248
+DTSTART:20260214T084500
+DTEND:20260214T093000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Malvern Tigers Exum
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Exum\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:403180ef-3652-4c79-895f-b8038e9d3abe
+UID:a9abe3fa-49a4-472c-b23f-bf28ffd9d82a
 SEQUENCE:0
-DTSTAMP:20260119T171832
+DTSTAMP:20260120T172248
 DTSTART:20260221T084500
 DTEND:20260221T093000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Ashy Lightning Green
@@ -116,36 +50,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e927c832-9db7-424e-835c-7d4bbbce1055
+UID:8efcbe65-2be3-47b0-a20f-b219fc5fa3c9
 SEQUENCE:0
-DTSTAMP:20260119T171832
-DTSTART:20260221T084500
-DTEND:20260221T093000
-SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Solway Mustangs
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
- Mustangs\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:0ce2f977-071a-4607-980f-a85ab5daf03c
-SEQUENCE:0
-DTSTAMP:20260119T171832
-DTSTART:20260228T084500
-DTEND:20260228T093000
+DTSTAMP:20260120T172248
+DTSTART:20260228T110000
+DTEND:20260228T114500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Solway Steeds
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
  Steeds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:136e15ce-ddac-475e-ba44-02009f5980a8
+UID:7f317201-5478-4f62-9329-c8b0cc0dcd97
 SEQUENCE:0
-DTSTAMP:20260119T171832
-DTSTART:20260314T084500
-DTEND:20260314T093000
+DTSTAMP:20260120T172248
+DTSTART:20260314T110000
+DTEND:20260314T114500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Burnley Park Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Burnley
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Burnley
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR
