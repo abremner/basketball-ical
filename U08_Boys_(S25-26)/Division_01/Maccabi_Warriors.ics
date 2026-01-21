@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9aa01739-6b63-4e82-878f-b63f13736a34
+UID:70be4097-677b-4656-aac9-237106e52b97
 SEQUENCE:0
-DTSTAMP:20260120T172243
+DTSTAMP:20260121T174806
 DTSTART:20260131T093000
 DTEND:20260131T101500
 SUMMARY:🏀 U08 Boys: Maccabi Warriors vs Timberwolves Blasters
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Blasters\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a1400297-c618-4f5f-931f-69d475daea74
+UID:71094cac-ea14-43eb-9f14-c4e87945e67a
 SEQUENCE:0
-DTSTAMP:20260120T172243
+DTSTAMP:20260121T174806
 DTSTART:20260207T114500
 DTEND:20260207T123000
 SUMMARY:🏀 U08 Boys: Maccabi Warriors vs Claremont Piranhas
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Claremo
  nt Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9a20da86-210f-487a-b426-0c57ffc06250
+UID:3452e08c-b1b1-44d7-83cf-86317519add3
 SEQUENCE:0
-DTSTAMP:20260120T172243
+DTSTAMP:20260121T174806
 DTSTART:20260214T093000
 DTEND:20260214T101500
 SUMMARY:🏀 U08 Boys: Maccabi Warriors vs Ashy Lightning Gold
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
  ghtning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c3299e28-d005-4e08-8859-cb6825623687
+UID:e4f41e3d-9a5e-484b-a267-9b236441b8c0
 SEQUENCE:0
-DTSTAMP:20260120T172243
+DTSTAMP:20260121T174806
 DTSTART:20260221T114500
 DTEND:20260221T123000
 SUMMARY:🏀 U08 Boys: Maccabi Warriors vs Malvern Tigers Daniels
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Daniels\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a43eec90-fdba-400f-986b-339218fde026
+UID:67991f74-f66b-44a0-820d-81bb3c201ecf
 SEQUENCE:0
-DTSTAMP:20260120T172243
+DTSTAMP:20260121T174806
 DTSTART:20260314T093000
 DTEND:20260314T101500
 SUMMARY:🏀 U08 Boys: Maccabi Warriors vs Timberwolves Blasters
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Blasters\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e39ce889-e675-4838-ba3a-0d9eed841164
+SEQUENCE:0
+DTSTAMP:20260121T174806
+DTSTART:20260321T080000
+DTEND:20260321T084500
+SUMMARY:🏀 U08 Boys: Maccabi Warriors vs Claremont Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Claremo
+ nt Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

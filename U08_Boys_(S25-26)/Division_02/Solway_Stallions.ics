@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Stallions Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:400dea18-4424-4cf5-a3cc-a2f2d33195bd
+UID:8a21ca65-96ce-44fe-babf-0ec9515a26a5
 SEQUENCE:0
-DTSTAMP:20260120T172246
+DTSTAMP:20260121T174809
 DTSTART:20260131T110000
 DTEND:20260131T114500
 SUMMARY:🏀 U08 Boys: Solway Stallions vs Glen Iris Scorpions Ferndale
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
  is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c779ef1b-9c1b-4200-a591-4702af7cd5d6
+UID:03a82dc1-3549-4a49-a00e-aa97cdfb5ed7
 SEQUENCE:0
-DTSTAMP:20260120T172246
+DTSTAMP:20260121T174809
 DTSTART:20260207T093000
 DTEND:20260207T101500
 SUMMARY:🏀 U08 Boys: Solway Stallions vs Malvern Tigers Mills
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Mills\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a9b57f11-a83e-4278-bbd5-3fbbe08197a6
+UID:b476394b-2e77-462d-a5a8-3bcde31fddff
 SEQUENCE:0
-DTSTAMP:20260120T172246
+DTSTAMP:20260121T174809
 DTSTART:20260214T110000
 DTEND:20260214T114500
 SUMMARY:🏀 U08 Boys: Solway Stallions vs Toorak Toucans
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak
  Toucans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b1933bad-a482-4937-9eaf-055740482b1e
+UID:1caf943b-a511-49fe-9d84-2dd3a2c540a4
 SEQUENCE:0
-DTSTAMP:20260120T172246
+DTSTAMP:20260121T174809
 DTSTART:20260221T093000
 DTEND:20260221T101500
 SUMMARY:🏀 U08 Boys: Solway Stallions vs Malvern Tigers Giddey
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Giddey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8337b65a-6f0b-464c-bbd5-299f1b5c103f
+UID:7cd3e2f0-e7b2-4816-8337-55d45471c69e
 SEQUENCE:0
-DTSTAMP:20260120T172246
+DTSTAMP:20260121T174809
 DTSTART:20260228T110000
 DTEND:20260228T114500
 SUMMARY:🏀 U08 Boys: Solway Stallions vs Solway Brumbies
@@ -61,14 +61,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Brumbies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4f837da7-ef3c-42e7-b4e0-7fd8bbb9e083
+UID:e5bc7d96-2e97-4092-921f-48b2927219ea
 SEQUENCE:0
-DTSTAMP:20260120T172246
+DTSTAMP:20260121T174809
 DTSTART:20260314T084500
 DTEND:20260314T093000
 SUMMARY:🏀 U08 Boys: Solway Stallions vs Glen Iris Scorpions Ferndale
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
  is Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:39a01611-5aa5-467c-9eb7-157b30d17375
+SEQUENCE:0
+DTSTAMP:20260121T174809
+DTSTART:20260321T094000
+DTEND:20260321T102500
+SUMMARY:🏀 U08 Boys: Solway Stallions vs Malvern Tigers Mills
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Mills\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

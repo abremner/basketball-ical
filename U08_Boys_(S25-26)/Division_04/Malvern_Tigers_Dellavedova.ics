@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Dellavedova Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:1b16b66a-91b9-4afa-922a-665dd678d225
+UID:d77073a9-b21b-4e5e-9692-70c048bb3d3c
 SEQUENCE:0
-DTSTAMP:20260120T172251
+DTSTAMP:20260121T174813
 DTSTART:20260131T080000
 DTEND:20260131T084500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Dellavedova vs Packer Park Piranhas
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Packer
  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7d7c63a7-310f-4c06-9450-a4f26727d136
+UID:735e7410-f996-42aa-84c2-9fcb3509a6fc
 SEQUENCE:0
-DTSTAMP:20260120T172251
+DTSTAMP:20260121T174813
 DTSTART:20260207T101500
 DTEND:20260207T110000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Dellavedova vs Malvern Tigers Bogut
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Bogut\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0c6ba1d8-7b1a-4a0b-bc68-6b7c7254f7cc
+UID:8124793b-5f1b-4cdf-93cd-8444a6382d2a
 SEQUENCE:0
-DTSTAMP:20260120T172251
+DTSTAMP:20260121T174813
 DTSTART:20260214T084500
 DTEND:20260214T093000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Dellavedova vs Maccabi Bucks
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bad56054-f091-462f-b6df-7e55b0be6d46
+UID:6d48fd7b-bf44-448f-be9f-2d18175edb3f
 SEQUENCE:0
-DTSTAMP:20260120T172251
+DTSTAMP:20260121T174813
 DTSTART:20260221T080000
 DTEND:20260221T084500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Dellavedova vs Golden Hawks Sky
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Golden
  Hawks Sky\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f4045203-3c33-46ac-a31b-8bfbd66f7045
+UID:a1a85209-2470-4214-bf52-f01a405e6ade
 SEQUENCE:0
-DTSTAMP:20260120T172251
+DTSTAMP:20260121T174813
 DTSTART:20260228T101500
 DTEND:20260228T110000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Dellavedova vs Malvern Tigers Ingles
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Ingles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d2eea6ac-55d1-47b9-8d91-89c1987895d5
+SEQUENCE:0
+DTSTAMP:20260121T174813
+DTSTART:20260321T085000
+DTEND:20260321T093500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Dellavedova vs AlphaWolf Titans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: AlphaWo
+ lf Titans\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

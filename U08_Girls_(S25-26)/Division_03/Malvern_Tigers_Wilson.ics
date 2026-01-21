@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Wilson Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:49ddf0de-c7ff-43d3-b956-17f313287d15
+UID:2afac17d-769a-4b93-8a64-ab9fdb2a5eeb
 SEQUENCE:0
-DTSTAMP:20260120T172307
+DTSTAMP:20260121T174829
 DTSTART:20260131T080000
 DTEND:20260131T084500
 SUMMARY:🏀 U08 Girls: Malvern Tigers Wilson vs Malvern Tigers Wallace
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Wallace\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e3483d2e-700e-4ec8-b2ea-b51b2072f548
+UID:32f7ef2c-a0d8-43af-b663-19c3346e37e9
 SEQUENCE:0
-DTSTAMP:20260120T172307
+DTSTAMP:20260121T174829
 DTSTART:20260207T084500
 DTEND:20260207T093000
 SUMMARY:🏀 U08 Girls: Malvern Tigers Wilson vs Maccabi Warriors
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi War
  riors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3bd84a3b-133e-446b-831e-9f11a455c1e7
+UID:d8fc304d-ebcf-4034-9819-3b5ecd50a52d
 SEQUENCE:0
-DTSTAMP:20260120T172307
+DTSTAMP:20260121T174829
 DTSTART:20260214T093000
 DTEND:20260214T101500
 SUMMARY:🏀 U08 Girls: Malvern Tigers Wilson vs Maccabi Bucks
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Buc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:11b99495-2019-4ea5-b26d-eafa1d8bf9b5
+UID:d2feee10-bc9b-4dd0-b62e-11a76e98ba18
 SEQUENCE:0
-DTSTAMP:20260120T172307
+DTSTAMP:20260121T174829
 DTSTART:20260221T084500
 DTEND:20260221T093000
 SUMMARY:🏀 U08 Girls: Malvern Tigers Wilson vs Maccabi Celtics
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Cel
  tics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c173ac79-8a8f-41c5-8b80-5d7a5cefa704
+UID:3046e8ba-ea00-4d3b-aa0d-c145494962bc
 SEQUENCE:0
-DTSTAMP:20260120T172307
+DTSTAMP:20260121T174829
 DTSTART:20260228T093000
 DTEND:20260228T101500
 SUMMARY:🏀 U08 Girls: Malvern Tigers Wilson vs Brunel Piranhas
@@ -61,14 +61,25 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Brunel Pira
  nhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3b8b6bb9-b68c-4507-9466-22d66a9413b9
+UID:5c8e8aa9-2565-4336-a574-5e22637e16c0
 SEQUENCE:0
-DTSTAMP:20260120T172307
+DTSTAMP:20260121T174829
 DTSTART:20260314T093000
 DTEND:20260314T101500
 SUMMARY:🏀 U08 Girls: Malvern Tigers Wilson vs Malvern Tigers Wallace
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
 DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Wallace\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:fef0f7fd-cefa-44db-9178-ec8969d68b43
+SEQUENCE:0
+DTSTAMP:20260121T174829
+DTSTART:20260321T085000
+DTEND:20260321T093500
+SUMMARY:🏀 U08 Girls: Malvern Tigers Wilson vs Maccabi Warriors
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi War
+ riors\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

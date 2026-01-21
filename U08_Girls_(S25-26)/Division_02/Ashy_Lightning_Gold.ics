@@ -6,9 +6,9 @@ X-WR-CALNAME:Ashy Lightning Gold Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:29613f71-f010-4d33-95f4-7008a91da134
+UID:8d217981-7b62-4815-9c05-c7ebcce5f0dc
 SEQUENCE:0
-DTSTAMP:20260120T172304
+DTSTAMP:20260121T174825
 DTSTART:20260131T080000
 DTEND:20260131T084500
 SUMMARY:🏀 U08 Girls: Ashy Lightning Gold vs Solway Sparks
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Sparks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b4143d4c-f2c0-4eac-8d79-a2085d1540c0
+UID:eea48582-702a-4009-85a8-fe24e164b404
 SEQUENCE:0
-DTSTAMP:20260120T172304
+DTSTAMP:20260121T174825
 DTSTART:20260207T080000
 DTEND:20260207T084500
 SUMMARY:🏀 U08 Girls: Ashy Lightning Gold vs Solway Blazes
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Blazes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7d712d8d-9ff8-4319-a61e-6464801a968c
+UID:8d42b8fc-3cf9-41bb-a161-afebad5de804
 SEQUENCE:0
-DTSTAMP:20260120T172304
+DTSTAMP:20260121T174825
 DTSTART:20260214T101500
 DTEND:20260214T110000
 SUMMARY:🏀 U08 Girls: Ashy Lightning Gold vs Harleston Park Piranhas
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Harleston P
  ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c54603c1-2c7e-457b-8c73-2faa38a7e57a
+UID:21b46be7-c4c3-4c26-b777-d58878c264f9
 SEQUENCE:0
-DTSTAMP:20260120T172304
+DTSTAMP:20260121T174825
 DTSTART:20260221T101500
 DTEND:20260221T110000
 SUMMARY:🏀 U08 Girls: Ashy Lightning Gold vs Solway Meteors
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Mete
  ors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4bebe6da-fd4c-4133-a338-01c3da9b8221
+UID:7a88cecd-7c50-4da1-b179-57e52eb6a62c
 SEQUENCE:0
-DTSTAMP:20260120T172304
+DTSTAMP:20260121T174825
 DTSTART:20260314T080000
 DTEND:20260314T084500
 SUMMARY:🏀 U08 Girls: Ashy Lightning Gold vs Solway Sparks
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
  Sparks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b31659a6-e066-47c4-9171-0a5120a746f3
+SEQUENCE:0
+DTSTAMP:20260121T174825
+DTSTART:20260321T103000
+DTEND:20260321T111500
+SUMMARY:🏀 U08 Girls: Ashy Lightning Gold vs Solway Blazes
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Blaz
+ es\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

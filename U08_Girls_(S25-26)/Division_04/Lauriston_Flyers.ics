@@ -6,9 +6,9 @@ X-WR-CALNAME:Lauriston Flyers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:73c65fa7-226f-4770-bc6e-20a08bf15915
+UID:fe9dbde3-d737-4950-baa9-a7c454855e62
 SEQUENCE:0
-DTSTAMP:20260120T172309
+DTSTAMP:20260121T174830
 DTSTART:20260131T093000
 DTEND:20260131T101500
 SUMMARY:🏀 U08 Girls: Lauriston Flyers vs Malvern Tigers Atwell
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Atwell\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3a6b1bc2-52b7-4423-bef8-c8970b8bfee4
+UID:7024dcdc-1339-4914-b9bd-5661f8a6821f
 SEQUENCE:0
-DTSTAMP:20260120T172309
+DTSTAMP:20260121T174830
 DTSTART:20260207T084500
 DTEND:20260207T093000
 SUMMARY:🏀 U08 Girls: Lauriston Flyers vs Solway Supernovas
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Supe
  rnovas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:aa02d369-f75e-489f-9811-a64f47d21607
+UID:8a6be751-3978-4090-856f-fb64555d1497
 SEQUENCE:0
-DTSTAMP:20260120T172309
+DTSTAMP:20260121T174830
 DTSTART:20260214T093000
 DTEND:20260214T101500
 SUMMARY:🏀 U08 Girls: Lauriston Flyers vs Korowa Cherry
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Korowa Cher
  ry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:25556133-a188-4a49-a1ff-2a6aa27f0442
+UID:e0ff04a7-bc36-4104-8194-2411427164b7
 SEQUENCE:0
-DTSTAMP:20260120T172309
+DTSTAMP:20260121T174830
 DTSTART:20260221T093000
 DTEND:20260221T101500
 SUMMARY:🏀 U08 Girls: Lauriston Flyers vs Maccabi Ducks
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Duc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:400ffe5f-951d-4410-a810-a7d8e8a5d3cb
+UID:9ebb9c35-0e8b-486d-92da-66ee0f2f88c8
 SEQUENCE:0
-DTSTAMP:20260120T172309
+DTSTAMP:20260121T174830
 DTSTART:20260228T084500
 DTEND:20260228T093000
 SUMMARY:🏀 U08 Girls: Lauriston Flyers vs Ashy Lightning Green
@@ -61,14 +61,25 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
  ing Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ec6608ff-67c8-4a42-8a9e-cb16571ae787
+UID:0f7d9730-20b5-4de0-b0cc-85751ae66d97
 SEQUENCE:0
-DTSTAMP:20260120T172309
+DTSTAMP:20260121T174830
 DTSTART:20260314T093000
 DTEND:20260314T101500
 SUMMARY:🏀 U08 Girls: Lauriston Flyers vs Kerferd Piranhas
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
 DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Kerferd Pir
  anhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:94995723-a935-48ed-89cd-2e63c1e79890
+SEQUENCE:0
+DTSTAMP:20260121T174830
+DTSTART:20260321T085000
+DTEND:20260321T093500
+SUMMARY:🏀 U08 Girls: Lauriston Flyers vs Wallis Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Wallis Pira
+ nhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

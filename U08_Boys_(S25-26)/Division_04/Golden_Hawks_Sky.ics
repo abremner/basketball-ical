@@ -6,9 +6,9 @@ X-WR-CALNAME:Golden Hawks Sky Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:372d4c8d-010b-44d7-9aea-632172a593f6
+UID:cf26aa7f-848c-489e-b215-18bd3eccff98
 SEQUENCE:0
-DTSTAMP:20260120T172250
+DTSTAMP:20260121T174812
 DTSTART:20260131T084500
 DTEND:20260131T093000
 SUMMARY:🏀 U08 Boys: Golden Hawks Sky vs Malvern Tigers Ingles
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Ingles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5c7c24de-f4c3-4269-ba95-a24967a97271
+UID:1a4d76ed-c230-4bab-9e21-af29c57e6626
 SEQUENCE:0
-DTSTAMP:20260120T172250
+DTSTAMP:20260121T174812
 DTSTART:20260214T101500
 DTEND:20260214T110000
 SUMMARY:🏀 U08 Boys: Golden Hawks Sky vs AlphaWolf Titans
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: AlphaWo
  lf Titans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b68d09b1-c2d4-49c2-ac26-a6c3072da6a9
+UID:c332230f-a8ef-40f6-9790-c8c4b72a0512
 SEQUENCE:0
-DTSTAMP:20260120T172250
+DTSTAMP:20260121T174812
 DTSTART:20260221T080000
 DTEND:20260221T084500
 SUMMARY:🏀 U08 Boys: Golden Hawks Sky vs Malvern Tigers Dellavedova
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Dellavedova\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:20fb3a84-bd3a-4666-982e-d19fa8efbfb9
+UID:902890e7-3009-4739-934f-7f3a8816caed
 SEQUENCE:0
-DTSTAMP:20260120T172250
+DTSTAMP:20260121T174812
 DTSTART:20260228T084500
 DTEND:20260228T093000
 SUMMARY:🏀 U08 Boys: Golden Hawks Sky vs Maccabi Bucks
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:945c8189-4653-41cb-975f-d455f28dec84
+UID:ffc39649-2e2b-456a-9487-53b0ab5604b3
 SEQUENCE:0
-DTSTAMP:20260120T172250
+DTSTAMP:20260121T174812
 DTSTART:20260314T084500
 DTEND:20260314T093000
 SUMMARY:🏀 U08 Boys: Golden Hawks Sky vs Packer Park Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Packer 
  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d132ef5d-c481-4952-8de8-d8ad99326a7a
+SEQUENCE:0
+DTSTAMP:20260121T174812
+DTSTART:20260321T080000
+DTEND:20260321T084500
+SUMMARY:🏀 U08 Boys: Golden Hawks Sky vs Malvern Tigers Bogut
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Bogut\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Bogut Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:5013e1ec-1803-4091-9b62-ce0782673f84
+UID:3ceb186b-7257-47a1-86b2-e4369213802f
 SEQUENCE:0
-DTSTAMP:20260120T172250
+DTSTAMP:20260121T174813
 DTSTART:20260131T101500
 DTEND:20260131T110000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Bogut vs Maccabi Bucks
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fb4f5b7a-26e5-4d63-aabd-e49be6c00ed7
+UID:9d46da99-9df8-4685-af94-a9d7e48fc003
 SEQUENCE:0
-DTSTAMP:20260120T172250
+DTSTAMP:20260121T174813
 DTSTART:20260207T101500
 DTEND:20260207T110000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Bogut vs Malvern Tigers Dellavedova
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Dellavedova\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e482e7ac-5e8c-4419-8a04-470fbaa94890
+UID:db6dc18f-d8a1-4510-af43-64ff82fef90b
 SEQUENCE:0
-DTSTAMP:20260120T172250
+DTSTAMP:20260121T174813
 DTSTART:20260221T101500
 DTEND:20260221T110000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Bogut vs Packer Park Piranhas
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Packer
  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a0ad2842-8f2e-4f19-9e97-88662ba3ce64
+UID:ead51682-aa77-4295-9718-04990f0814ee
 SEQUENCE:0
-DTSTAMP:20260120T172250
+DTSTAMP:20260121T174813
 DTSTART:20260228T080000
 DTEND:20260228T084500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Bogut vs AlphaWolf Titans
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
  lf Titans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a6e5a133-32d4-40de-bfa5-15c1e82df8f5
+UID:f655194f-ba0e-4fb2-be0e-7f1ddd393961
 SEQUENCE:0
-DTSTAMP:20260120T172250
+DTSTAMP:20260121T174813
 DTSTART:20260314T101500
 DTEND:20260314T110000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Bogut vs Malvern Tigers Ingles
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Ingles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1e8a3d7a-d6c4-4ecd-b15d-bf54dfa970d1
+SEQUENCE:0
+DTSTAMP:20260121T174813
+DTSTART:20260321T080000
+DTEND:20260321T084500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Bogut vs Golden Hawks Sky
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Golden 
+ Hawks Sky\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

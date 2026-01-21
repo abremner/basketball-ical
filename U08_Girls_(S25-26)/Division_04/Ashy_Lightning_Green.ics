@@ -6,9 +6,9 @@ X-WR-CALNAME:Ashy Lightning Green Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f2350b4b-b75c-4cd2-a64c-9c0b5dc00f18
+UID:dd838b40-e31e-481e-9915-fde3fb9da0de
 SEQUENCE:0
-DTSTAMP:20260120T172308
+DTSTAMP:20260121T174829
 DTSTART:20260131T084500
 DTEND:20260131T093000
 SUMMARY:🏀 U08 Girls: Ashy Lightning Green vs Maccabi Ducks
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Duc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f656f15c-cf71-4531-8fd1-cc9d2eddd5c4
+UID:6770284d-2222-4895-b6f6-24bf27126ef2
 SEQUENCE:0
-DTSTAMP:20260120T172308
+DTSTAMP:20260121T174829
 DTSTART:20260207T101500
 DTEND:20260207T110000
 SUMMARY:🏀 U08 Girls: Ashy Lightning Green vs Wallis Piranhas
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Wallis
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:370e7892-b783-467a-bb2b-8171807b272f
+UID:b27696ce-3912-4c77-ba41-31503db10ad5
 SEQUENCE:0
-DTSTAMP:20260120T172308
+DTSTAMP:20260121T174829
 DTSTART:20260214T101500
 DTEND:20260214T110000
 SUMMARY:🏀 U08 Girls: Ashy Lightning Green vs Kerferd Piranhas
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Kerferd
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:20ff0f50-f31e-410d-bb52-299ceb7b34d9
+UID:4921d3cf-7c06-4982-a861-597453af9954
 SEQUENCE:0
-DTSTAMP:20260120T172308
+DTSTAMP:20260121T174829
 DTSTART:20260221T101500
 DTEND:20260221T110000
 SUMMARY:🏀 U08 Girls: Ashy Lightning Green vs Solway Supernovas
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
  Supernovas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:21d03c97-fc54-4ac5-8607-9a82eba08bca
+UID:12962161-ef10-473b-9bd6-8670a852be42
 SEQUENCE:0
-DTSTAMP:20260120T172308
+DTSTAMP:20260121T174829
 DTSTART:20260228T084500
 DTEND:20260228T093000
 SUMMARY:🏀 U08 Girls: Ashy Lightning Green vs Lauriston Flyers
@@ -61,14 +61,25 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston F
  lyers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:08f0a82a-1cca-4e24-b71e-9f60a9f28abe
+UID:56e0429a-9fb3-409e-910c-031a397d1450
 SEQUENCE:0
-DTSTAMP:20260120T172308
+DTSTAMP:20260121T174829
 DTSTART:20260314T084500
 DTEND:20260314T093000
 SUMMARY:🏀 U08 Girls: Ashy Lightning Green vs Malvern Tigers Atwell
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
 DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Atwell\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:17c50a1f-e115-4232-8a26-8b814c6e8256
+SEQUENCE:0
+DTSTAMP:20260121T174829
+DTSTART:20260321T103000
+DTEND:20260321T111500
+SUMMARY:🏀 U08 Girls: Ashy Lightning Green vs Korowa Cherry
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Korowa 
+ Cherry\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

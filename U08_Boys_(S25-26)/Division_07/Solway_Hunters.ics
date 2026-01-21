@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Hunters Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:6d1feed1-2d09-4666-8233-1c4e36724312
+UID:d5d6f9f8-a920-4d03-bf56-3f381c880dc6
 SEQUENCE:0
-DTSTAMP:20260120T172300
+DTSTAMP:20260121T174822
 DTSTART:20260131T084500
 DTEND:20260131T093000
 SUMMARY:🏀 U08 Boys: Solway Hunters vs Solway Pacers
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Pacers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:5e40b63d-cab3-41c7-95fc-d446f1fc6ef8
+UID:12b22ca6-3303-4be6-a3b8-409a94dc591c
 SEQUENCE:0
-DTSTAMP:20260120T172300
+DTSTAMP:20260121T174822
 DTSTART:20260214T084500
 DTEND:20260214T093000
 SUMMARY:🏀 U08 Boys: Solway Hunters vs Glen Iris Scorpions Nettleton
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
  is Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:88d6c9b9-f42d-405b-bd02-11660806b194
+UID:ccf1e669-3249-4456-9e19-e9b47c74aac6
 SEQUENCE:0
-DTSTAMP:20260120T172300
+DTSTAMP:20260121T174822
 DTSTART:20260221T093000
 DTEND:20260221T101500
 SUMMARY:🏀 U08 Boys: Solway Hunters vs Clyde Piranhas
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Clyde P
  iranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b15d6b4f-7a66-42fb-8f1f-063aeea23b10
+UID:2d85a6bb-d7bd-4b12-bd54-a1c39320e283
 SEQUENCE:0
-DTSTAMP:20260120T172300
+DTSTAMP:20260121T174822
 DTSTART:20260228T084500
 DTEND:20260228T093000
 SUMMARY:🏀 U08 Boys: Solway Hunters vs Solway Colts
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Colts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fd4d028d-e066-4934-a319-ece66acba8ee
+UID:fcff9c43-d5a9-49b3-adc6-7902ba2a570e
 SEQUENCE:0
-DTSTAMP:20260120T172300
+DTSTAMP:20260121T174822
 DTSTART:20260314T080000
 DTEND:20260314T084500
 SUMMARY:🏀 U08 Boys: Solway Hunters vs Arax
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Arax\nA
  rrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9e6389bb-fc8d-4031-984b-e72a12f23a38
+SEQUENCE:0
+DTSTAMP:20260121T174822
+DTSTART:20260321T085000
+DTEND:20260321T093500
+SUMMARY:🏀 U08 Boys: Solway Hunters vs Glen Iris Scorpions Raven
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
+ is Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

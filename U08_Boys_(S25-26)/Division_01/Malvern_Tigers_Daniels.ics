@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Daniels Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:dfc3e0ce-706e-4c3b-828a-fb178d7166ff
+UID:5982c8f7-0679-416c-bfdd-469f83107e5b
 SEQUENCE:0
-DTSTAMP:20260120T172244
+DTSTAMP:20260121T174806
 DTSTART:20260131T114500
 DTEND:20260131T123000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Ashy Lightning Gold
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
  ghtning Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1ee036b1-4ec1-4648-a1ed-0387f9aff62c
+UID:92b1cfa5-b89d-48f2-9974-201273afa04f
 SEQUENCE:0
-DTSTAMP:20260120T172244
+DTSTAMP:20260121T174806
 DTSTART:20260207T093000
 DTEND:20260207T101500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Timberwolves Blasters
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Blasters\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9ee75361-e4d4-446a-82a5-4d2f46d3046e
+UID:0cf2cf73-92cf-4fdd-bea6-5c0166950d61
 SEQUENCE:0
-DTSTAMP:20260120T172244
+DTSTAMP:20260121T174806
 DTSTART:20260221T114500
 DTEND:20260221T123000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Maccabi Warriors
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
   Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f1a17431-be5d-4c1b-aee9-fd3d8228bbf9
+UID:0c838950-1779-4d20-ae58-d310129f4bf4
 SEQUENCE:0
-DTSTAMP:20260120T172244
+DTSTAMP:20260121T174806
 DTSTART:20260228T093000
 DTEND:20260228T101500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Claremont Piranhas
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Claremo
  nt Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3f5e8d94-4ede-4576-9b93-867f235bacbb
+UID:3580a674-888c-4126-ad4b-31b2621db02f
 SEQUENCE:0
-DTSTAMP:20260120T172244
+DTSTAMP:20260121T174806
 DTSTART:20260314T114500
 DTEND:20260314T123000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Ashy Lightning Gold
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
  ghtning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ab05691b-68bc-44a5-aad1-25e744de3b1a
+SEQUENCE:0
+DTSTAMP:20260121T174806
+DTSTART:20260321T094000
+DTEND:20260321T102500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Timberwolves Blasters
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Blasters\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

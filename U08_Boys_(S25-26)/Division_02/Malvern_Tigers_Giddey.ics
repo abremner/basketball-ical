@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Giddey Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:5d8d9eb1-173c-4ae9-b372-c8c240d57dc7
+UID:9e3478b2-018e-45bb-a423-2fb21e12b209
 SEQUENCE:0
-DTSTAMP:20260120T172245
+DTSTAMP:20260121T174808
 DTSTART:20260131T093000
 DTEND:20260131T101500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Giddey vs Solway Brumbies
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Brumbies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2c5da1c1-5e0f-4a0b-8e8f-0c06284b52ad
+UID:03abd394-44d2-4edb-8e06-59df95303ad8
 SEQUENCE:0
-DTSTAMP:20260120T172245
+DTSTAMP:20260121T174808
 DTSTART:20260207T084500
 DTEND:20260207T093000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Giddey vs Toorak Toucans
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Toorak
  Toucans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4e8622ac-af45-4b6a-a168-30e3ac8623bd
+UID:fe4301c9-0879-4245-8049-d5acb00a1503
 SEQUENCE:0
-DTSTAMP:20260120T172245
+DTSTAMP:20260121T174808
 DTSTART:20260214T084500
 DTEND:20260214T093000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Giddey vs Glen Iris Scorpions Fernda
@@ -40,9 +40,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
  is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cefe8d56-1dbb-4be7-a010-150957209e86
+UID:57395ffb-d332-4200-9f53-cd01fdc6fde8
 SEQUENCE:0
-DTSTAMP:20260120T172245
+DTSTAMP:20260121T174808
 DTSTART:20260221T093000
 DTEND:20260221T101500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Giddey vs Solway Stallions
@@ -51,9 +51,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway
  Stallions\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e36b7b8d-c6a2-4ccb-aebe-35732a025819
+UID:038a7b74-457c-4ad7-9e26-e426c4f3367e
 SEQUENCE:0
-DTSTAMP:20260120T172245
+DTSTAMP:20260121T174808
 DTSTART:20260228T084500
 DTEND:20260228T093000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Giddey vs Malvern Tigers Mills
@@ -62,14 +62,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Mills\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:32b9dec2-f23d-4612-b7cb-8fac42e8adf5
+UID:607b7bc2-c073-42dd-93e5-cd44cd4b8a47
 SEQUENCE:0
-DTSTAMP:20260120T172245
+DTSTAMP:20260121T174808
 DTSTART:20260314T093000
 DTEND:20260314T101500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Giddey vs Solway Brumbies
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
  Brumbies\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dd059f5f-f866-42e3-8eec-1298a5e600a5
+SEQUENCE:0
+DTSTAMP:20260121T174808
+DTSTART:20260321T085000
+DTEND:20260321T093500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Giddey vs Toorak Toucans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Toorak 
+ Toucans\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

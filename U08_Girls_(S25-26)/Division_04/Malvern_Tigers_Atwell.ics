@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Atwell Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:714b0565-49f1-476c-a21f-d99b76e52bee
+UID:5cb0a805-14c0-4d23-b209-bd849608f01f
 SEQUENCE:0
-DTSTAMP:20260120T172309
+DTSTAMP:20260121T174831
 DTSTART:20260131T093000
 DTEND:20260131T101500
 SUMMARY:🏀 U08 Girls: Malvern Tigers Atwell vs Lauriston Flyers
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston F
  lyers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b3111697-6640-40bb-af0d-4fa7c7c96da8
+UID:5d4631e7-2316-400f-9553-9e8cf95844c9
 SEQUENCE:0
-DTSTAMP:20260120T172309
+DTSTAMP:20260121T174831
 DTSTART:20260207T093000
 DTEND:20260207T101500
 SUMMARY:🏀 U08 Girls: Malvern Tigers Atwell vs Maccabi Ducks
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Duc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1fda8fb5-342c-4166-9c7b-a059a4db8ae0
+UID:92042135-51c6-4b42-bb18-8c4947fb7b40
 SEQUENCE:0
-DTSTAMP:20260120T172309
+DTSTAMP:20260121T174831
 DTSTART:20260214T084500
 DTEND:20260214T093000
 SUMMARY:🏀 U08 Girls: Malvern Tigers Atwell vs Solway Supernovas
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Supe
  rnovas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:79861a0a-b218-40db-8708-d3f371705ece
+UID:de859c9a-3b58-4af8-ac4b-d8fd43a06cbb
 SEQUENCE:0
-DTSTAMP:20260120T172309
+DTSTAMP:20260121T174831
 DTSTART:20260221T084500
 DTEND:20260221T093000
 SUMMARY:🏀 U08 Girls: Malvern Tigers Atwell vs Korowa Cherry
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Korowa Cher
  ry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:102ba4ae-1cab-49c9-845e-421591d95518
+UID:6846b8e7-5b1f-434a-9fd4-d5010467f451
 SEQUENCE:0
-DTSTAMP:20260120T172309
+DTSTAMP:20260121T174831
 DTSTART:20260228T093000
 DTEND:20260228T101500
 SUMMARY:🏀 U08 Girls: Malvern Tigers Atwell vs Wallis Piranhas
@@ -61,14 +61,25 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Wallis Pira
  nhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1a018eb4-cfb4-40e0-825b-bc8eef999bc1
+UID:541e31f8-b803-4e55-8d3a-7f494bbdc109
 SEQUENCE:0
-DTSTAMP:20260120T172309
+DTSTAMP:20260121T174831
 DTSTART:20260314T084500
 DTEND:20260314T093000
 SUMMARY:🏀 U08 Girls: Malvern Tigers Atwell vs Ashy Lightning Green
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
 DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
  ing Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:18cdcc88-884b-4bf9-be53-acfb0a32aea3
+SEQUENCE:0
+DTSTAMP:20260121T174831
+DTSTART:20260321T094000
+DTEND:20260321T102500
+SUMMARY:🏀 U08 Girls: Malvern Tigers Atwell vs Kerferd Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Kerferd Pir
+ anhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

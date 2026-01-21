@@ -6,9 +6,9 @@ X-WR-CALNAME:Wallis Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:72c3c497-38b4-43cd-81ff-075c58e56177
+UID:a3f9cc85-0961-4a77-b8bb-ea77763bad6d
 SEQUENCE:0
-DTSTAMP:20260120T172310
+DTSTAMP:20260121T174831
 DTSTART:20260131T101500
 DTEND:20260131T110000
 SUMMARY:🏀 U08 Girls: Wallis Piranhas vs Korowa Cherry
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Korowa
  Cherry\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4f102b78-fc12-4080-98d1-c2334c5568b0
+UID:cd3698b7-f311-44c6-8f0a-26b3432af637
 SEQUENCE:0
-DTSTAMP:20260120T172310
+DTSTAMP:20260121T174831
 DTSTART:20260207T101500
 DTEND:20260207T110000
 SUMMARY:🏀 U08 Girls: Wallis Piranhas vs Ashy Lightning Green
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:76f2d46c-1bd9-4e30-8be7-63cfdf4b806f
+UID:9847923b-0472-4d61-a4b1-0bcf5b8fffdf
 SEQUENCE:0
-DTSTAMP:20260120T172310
+DTSTAMP:20260121T174831
 DTSTART:20260214T101500
 DTEND:20260214T110000
 SUMMARY:🏀 U08 Girls: Wallis Piranhas vs Maccabi Ducks
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8f44c47d-4dec-4bb8-9ee9-aa3c6615e98d
+UID:83921020-cf88-4cdf-b37f-4da4d0c2877c
 SEQUENCE:0
-DTSTAMP:20260120T172310
+DTSTAMP:20260121T174831
 DTSTART:20260221T101500
 DTEND:20260221T110000
 SUMMARY:🏀 U08 Girls: Wallis Piranhas vs Kerferd Piranhas
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Kerferd
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f268d714-5934-47b6-9c83-d21713e7cd3d
+UID:3bd70767-5aa6-485a-af57-21c5760e85ef
 SEQUENCE:0
-DTSTAMP:20260120T172310
+DTSTAMP:20260121T174831
 DTSTART:20260228T093000
 DTEND:20260228T101500
 SUMMARY:🏀 U08 Girls: Wallis Piranhas vs Malvern Tigers Atwell
@@ -61,14 +61,25 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Atwell\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:592af998-16c1-4f9b-a3d5-9db5ef8d4f3b
+UID:b0681fe9-5144-4f5b-9a9d-8e00072f762d
 SEQUENCE:0
-DTSTAMP:20260120T172310
+DTSTAMP:20260121T174831
 DTSTART:20260314T101500
 DTEND:20260314T110000
 SUMMARY:🏀 U08 Girls: Wallis Piranhas vs Solway Supernovas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
  Supernovas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f79cee9f-ec36-4175-a30a-79a102a809ec
+SEQUENCE:0
+DTSTAMP:20260121T174831
+DTSTART:20260321T085000
+DTEND:20260321T093500
+SUMMARY:🏀 U08 Girls: Wallis Piranhas vs Lauriston Flyers
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Lauriston F
+ lyers\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

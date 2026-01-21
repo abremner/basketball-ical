@@ -6,9 +6,9 @@ X-WR-CALNAME:AlphaWolf Titans Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:61528fb6-0e2f-497f-a0d4-bb4b447f0aef
+UID:b09db58e-5030-4549-8f34-ad394b07d50f
 SEQUENCE:0
-DTSTAMP:20260120T172249
+DTSTAMP:20260121T174812
 DTSTART:20260207T084500
 DTEND:20260207T093000
 SUMMARY:🏀 U08 Boys: AlphaWolf Titans vs Packer Park Piranhas
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Packer
  Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1be82dab-1b58-4ef9-809f-fac853937f01
+UID:66bfe80a-4824-4983-88b5-b87fe18a06f9
 SEQUENCE:0
-DTSTAMP:20260120T172249
+DTSTAMP:20260121T174812
 DTSTART:20260214T101500
 DTEND:20260214T110000
 SUMMARY:🏀 U08 Boys: AlphaWolf Titans vs Golden Hawks Sky
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Golden
  Hawks Sky\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c53b4c65-c9a4-47d0-8f3e-b679830af361
+UID:651b85d0-beaa-44f1-b6fe-8bb6ac1b6607
 SEQUENCE:0
-DTSTAMP:20260120T172249
+DTSTAMP:20260121T174812
 DTSTART:20260221T084500
 DTEND:20260221T093000
 SUMMARY:🏀 U08 Boys: AlphaWolf Titans vs Malvern Tigers Ingles
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Ingles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e7ac6107-d81a-4f07-b168-f2850c221be3
+UID:52100297-04e5-4ba8-acf9-701c6a37600b
 SEQUENCE:0
-DTSTAMP:20260120T172249
+DTSTAMP:20260121T174812
 DTSTART:20260228T080000
 DTEND:20260228T084500
 SUMMARY:🏀 U08 Boys: AlphaWolf Titans vs Malvern Tigers Bogut
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Bogut\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e8017a54-b878-4018-a6bd-e00c7e41db38
+UID:80b178cd-6d2b-46f6-8974-48ef76250846
 SEQUENCE:0
-DTSTAMP:20260120T172249
+DTSTAMP:20260121T174812
 DTSTART:20260314T080000
 DTEND:20260314T084500
 SUMMARY:🏀 U08 Boys: AlphaWolf Titans vs Maccabi Bucks
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a7f62010-9c92-46a6-8fa2-55450c37a664
+SEQUENCE:0
+DTSTAMP:20260121T174812
+DTSTART:20260321T085000
+DTEND:20260321T093500
+SUMMARY:🏀 U08 Boys: AlphaWolf Titans vs Malvern Tigers Dellavedova
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Dellavedova\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

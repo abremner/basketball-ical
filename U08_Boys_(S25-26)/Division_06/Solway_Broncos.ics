@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Broncos Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:42a332c4-8fb4-4257-8e47-9775eab23f51
+UID:a7eb7fe3-ed7b-4225-81f6-d9a0c2136844
 SEQUENCE:0
-DTSTAMP:20260120T172257
+DTSTAMP:20260121T174819
 DTSTART:20260131T080000
 DTEND:20260131T084500
 SUMMARY:🏀 U08 Boys: Solway Broncos vs Maccabi Eagles
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
   Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a9cd0071-740b-43c4-a772-894101216db7
+UID:c97db99e-eb56-4442-8c79-a58fb4b40835
 SEQUENCE:0
-DTSTAMP:20260120T172257
+DTSTAMP:20260121T174819
 DTSTART:20260207T110000
 DTEND:20260207T114500
 SUMMARY:🏀 U08 Boys: Solway Broncos vs Wattletree Piranhas
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Wattlet
  ree Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f8e15c37-0667-4517-b6ec-97109f2ea4dc
+UID:e9e8bc56-614c-4a1e-826c-c03e6146e999
 SEQUENCE:0
-DTSTAMP:20260120T172257
+DTSTAMP:20260121T174819
 DTSTART:20260214T114500
 DTEND:20260214T123000
 SUMMARY:🏀 U08 Boys: Solway Broncos vs Maccabi Ducks
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2bc8656c-7f3c-473c-91da-8311a0c5ae9e
+UID:d8d36ff0-554a-4708-a6f7-dde9069b4e91
 SEQUENCE:0
-DTSTAMP:20260120T172257
+DTSTAMP:20260121T174819
 DTSTART:20260221T110000
 DTEND:20260221T114500
 SUMMARY:🏀 U08 Boys: Solway Broncos vs Nettleton Piranhas
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Nettlet
  on Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d716a1a9-dd10-4f07-b0f4-515fd3cde721
+UID:199566c6-5d5e-425a-a59b-d08027fe90b2
 SEQUENCE:0
-DTSTAMP:20260120T172257
+DTSTAMP:20260121T174819
 DTSTART:20260228T114500
 DTEND:20260228T123000
 SUMMARY:🏀 U08 Boys: Solway Broncos vs Kooyong Piranhas
@@ -61,14 +61,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Kooyong
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9f9cdc97-38c7-4738-b9f1-cb5c72883935
+UID:0727e693-6fe2-49af-9f85-9700faf69d90
 SEQUENCE:0
-DTSTAMP:20260120T172257
+DTSTAMP:20260121T174819
 DTSTART:20260314T101500
 DTEND:20260314T110000
 SUMMARY:🏀 U08 Boys: Solway Broncos vs Ferndale Park Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ferndal
  e Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3764481d-7318-4872-9064-506100b17d7c
+SEQUENCE:0
+DTSTAMP:20260121T174819
+DTSTART:20260321T080000
+DTEND:20260321T084500
+SUMMARY:🏀 U08 Boys: Solway Broncos vs Malvern Tigers Landale
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Landale\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

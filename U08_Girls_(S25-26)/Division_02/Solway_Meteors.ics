@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Meteors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:da00faa3-535e-4d94-aceb-e058dbca357a
+UID:e73e3540-2297-4b7e-b7c9-f77406a37a77
 SEQUENCE:0
-DTSTAMP:20260120T172305
+DTSTAMP:20260121T174826
 DTSTART:20260131T101500
 DTEND:20260131T110000
 SUMMARY:🏀 U08 Girls: Solway Meteors vs Solway Blazes
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Blaz
  es\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e0740d23-8789-4a58-a478-8d8987f825af
+UID:c1876a8b-a96c-4ec9-90f8-4644cc1d64b3
 SEQUENCE:0
-DTSTAMP:20260120T172305
+DTSTAMP:20260121T174826
 DTSTART:20260207T101500
 DTEND:20260207T110000
 SUMMARY:🏀 U08 Girls: Solway Meteors vs Harleston Park Piranhas
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Harleston P
  ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c720edb6-da41-4680-9f47-181b72e830af
+UID:87944147-5a5d-4b26-9b3b-04773f9e7002
 SEQUENCE:0
-DTSTAMP:20260120T172305
+DTSTAMP:20260121T174826
 DTSTART:20260221T101500
 DTEND:20260221T110000
 SUMMARY:🏀 U08 Girls: Solway Meteors vs Ashy Lightning Gold
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
  ing Gold\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e9edeacf-7f6f-433a-9e94-696d71ad3976
+UID:1e02faf1-b2ed-43cb-92ad-d6799848391b
 SEQUENCE:0
-DTSTAMP:20260120T172305
+DTSTAMP:20260121T174826
 DTSTART:20260228T080000
 DTEND:20260228T084500
 SUMMARY:🏀 U08 Girls: Solway Meteors vs Solway Sparks
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Sparks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:db796c35-1a47-47bb-93a8-ef0d32fdf274
+UID:61b1048e-82b0-48ed-955e-1b27210fa2c2
 SEQUENCE:0
-DTSTAMP:20260120T172305
+DTSTAMP:20260121T174826
 DTSTART:20260314T101500
 DTEND:20260314T110000
 SUMMARY:🏀 U08 Girls: Solway Meteors vs Solway Blazes
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
 DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Blaz
  es\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ffa43c57-3660-4dcf-8d3c-2d58c654f241
+SEQUENCE:0
+DTSTAMP:20260121T174826
+DTSTART:20260321T112000
+DTEND:20260321T120500
+SUMMARY:🏀 U08 Girls: Solway Meteors vs Harleston Park Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Harleston P
+ ark Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Stars Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:29977692-375a-44a2-8335-2793a5234e87
+UID:03add836-3e4b-4fbf-b000-82578df85e34
 SEQUENCE:0
-DTSTAMP:20260120T172302
+DTSTAMP:20260121T174824
 DTSTART:20260131T101500
 DTEND:20260131T110000
 SUMMARY:🏀 U08 Girls: Solway Stars vs Flowerdale Piranhas
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Flowerdale
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:feb0e4c1-d8b7-4c6f-ab0e-17f0a46a3203
+UID:ff001c44-197e-4e3a-8cc5-e7eabb41c658
 SEQUENCE:0
-DTSTAMP:20260120T172302
+DTSTAMP:20260121T174824
 DTSTART:20260207T110000
 DTEND:20260207T114500
 SUMMARY:🏀 U08 Girls: Solway Stars vs Malvern Tigers Allen
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Allen\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d4a0eaaf-2e94-41b2-811f-09badc948871
+UID:19880c4c-2517-4f8c-9cf3-2842c31fc8cc
 SEQUENCE:0
-DTSTAMP:20260120T172302
+DTSTAMP:20260121T174824
 DTSTART:20260221T101500
 DTEND:20260221T110000
 SUMMARY:🏀 U08 Girls: Solway Stars vs Warley Piranhas
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Warley Pira
  nhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cf01b0b1-de01-43ce-ad1d-6e85e501812d
+UID:7c80d1b0-66d0-4033-9e95-a5d01ccbdf44
 SEQUENCE:0
-DTSTAMP:20260120T172302
+DTSTAMP:20260121T174824
 DTSTART:20260228T110000
 DTEND:20260228T114500
 SUMMARY:🏀 U08 Girls: Solway Stars vs TImberwolves Diamonds
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: TImberw
  olves Diamonds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7d268d45-3db5-4fa3-87b3-a292fc9f3b4b
+UID:4af5a9ac-494f-4bd0-8590-e8d9d9d12b3a
 SEQUENCE:0
-DTSTAMP:20260120T172302
+DTSTAMP:20260121T174824
 DTSTART:20260314T101500
 DTEND:20260314T110000
 SUMMARY:🏀 U08 Girls: Solway Stars vs Flowerdale Piranhas
 LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
 DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Flowerdale 
  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3a78cb3f-16a9-42cb-99ee-49d9810c424f
+SEQUENCE:0
+DTSTAMP:20260121T174824
+DTSTART:20260321T112000
+DTEND:20260321T120500
+SUMMARY:🏀 U08 Girls: Solway Stars vs Malvern Tigers Allen
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Allen\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

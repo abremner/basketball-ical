@@ -6,9 +6,9 @@ X-WR-CALNAME:Korowa Cherry Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:bd6405ce-cc1e-4fa6-9241-1743c81cc785
+UID:ad0b0086-a564-41c5-a186-c6d0339a80db
 SEQUENCE:0
-DTSTAMP:20260120T172308
+DTSTAMP:20260121T174830
 DTSTART:20260131T101500
 DTEND:20260131T110000
 SUMMARY:🏀 U08 Girls: Korowa Cherry vs Wallis Piranhas
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Wallis
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:76e3dc1c-9d94-408d-95b7-af188be39861
+UID:87964fe2-a119-48d0-8d38-93c0db7902ad
 SEQUENCE:0
-DTSTAMP:20260120T172308
+DTSTAMP:20260121T174830
 DTSTART:20260207T101500
 DTEND:20260207T110000
 SUMMARY:🏀 U08 Girls: Korowa Cherry vs Kerferd Piranhas
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Kerferd
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d5bf0f7e-2113-4dbf-8484-7fbe514eff0a
+UID:95d33543-3935-4a37-9c93-e28906908f82
 SEQUENCE:0
-DTSTAMP:20260120T172308
+DTSTAMP:20260121T174830
 DTSTART:20260214T093000
 DTEND:20260214T101500
 SUMMARY:🏀 U08 Girls: Korowa Cherry vs Lauriston Flyers
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston F
  lyers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e58c78b3-5588-459e-bf18-8b3b7d501234
+UID:f121fa62-b031-461b-8f8e-49d5fc8c27a7
 SEQUENCE:0
-DTSTAMP:20260120T172308
+DTSTAMP:20260121T174830
 DTSTART:20260221T084500
 DTEND:20260221T093000
 SUMMARY:🏀 U08 Girls: Korowa Cherry vs Malvern Tigers Atwell
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Atwell\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3bd42b27-1bd5-40a9-a9d2-ef5810c7ec32
+UID:30b8975f-c76e-4afe-8c27-06659e822d3e
 SEQUENCE:0
-DTSTAMP:20260120T172308
+DTSTAMP:20260121T174830
 DTSTART:20260228T101500
 DTEND:20260228T110000
 SUMMARY:🏀 U08 Girls: Korowa Cherry vs Solway Supernovas
@@ -61,14 +61,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Supernovas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:acc06f8a-1882-45a5-ad52-9d1087879dbc
+UID:9a1806ec-7b1f-47b3-8c73-42928fb58d74
 SEQUENCE:0
-DTSTAMP:20260120T172308
+DTSTAMP:20260121T174830
 DTSTART:20260314T101500
 DTEND:20260314T110000
 SUMMARY:🏀 U08 Girls: Korowa Cherry vs Maccabi Ducks
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8f810676-da5d-4fe0-aac9-24902234149d
+SEQUENCE:0
+DTSTAMP:20260121T174830
+DTSTART:20260321T103000
+DTEND:20260321T111500
+SUMMARY:🏀 U08 Girls: Korowa Cherry vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

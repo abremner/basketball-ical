@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:cf2c91de-9a0d-4a89-a516-9a6d99d39c2a
+UID:2936bcfb-34b3-4b56-9ef3-be8476c72f20
 SEQUENCE:0
-DTSTAMP:20260120T172309
+DTSTAMP:20260121T174831
 DTSTART:20260131T084500
 DTEND:20260131T093000
 SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Ashy Lightning Green
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
  ing Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:be2f3854-3a6e-44c9-af5a-b68b395849c1
+UID:32bec858-3639-4063-8631-a7c64a4ba982
 SEQUENCE:0
-DTSTAMP:20260120T172309
+DTSTAMP:20260121T174831
 DTSTART:20260207T093000
 DTEND:20260207T101500
 SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Malvern Tigers Atwell
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
  ers Atwell\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:11212aec-1074-4ea1-8455-09bdc86b873c
+UID:aff35e4d-5868-4db2-b3b0-eb624a9f1d1d
 SEQUENCE:0
-DTSTAMP:20260120T172309
+DTSTAMP:20260121T174831
 DTSTART:20260214T101500
 DTEND:20260214T110000
 SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Wallis Piranhas
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Wallis
  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b24f24f5-d981-45cf-a407-37e2d13ee316
+UID:d933a39c-8a1f-4ec7-9299-b505735ff0ff
 SEQUENCE:0
-DTSTAMP:20260120T172309
+DTSTAMP:20260121T174831
 DTSTART:20260221T093000
 DTEND:20260221T101500
 SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Lauriston Flyers
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Lauriston F
  lyers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9db3a8d8-ce4b-40df-9e9e-51921d01777c
+UID:f0e6d466-2203-460e-b65d-6bde01a5ba50
 SEQUENCE:0
-DTSTAMP:20260120T172309
+DTSTAMP:20260121T174831
 DTSTART:20260228T101500
 DTEND:20260228T110000
 SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Kerferd Piranhas
@@ -61,14 +61,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Kerferd
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:61f1b507-4b17-4a01-8272-4ae4673945ba
+UID:c7950b9b-8460-46b2-9e89-b98027592983
 SEQUENCE:0
-DTSTAMP:20260120T172309
+DTSTAMP:20260121T174831
 DTSTART:20260314T101500
 DTEND:20260314T110000
 SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Korowa Cherry
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Korowa 
  Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:67c4a014-a1fb-4dd3-a03f-550eafa85526
+SEQUENCE:0
+DTSTAMP:20260121T174831
+DTSTART:20260321T103000
+DTEND:20260321T111500
+SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Solway Supernovas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Supernovas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

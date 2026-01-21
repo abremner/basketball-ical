@@ -6,9 +6,9 @@ X-WR-CALNAME:Glen Iris Scorpions Ferndale Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:1d804caf-d4a2-4d54-9c35-681a5739cb9d
+UID:9a494faf-d7e0-49b1-a42d-0eb822770a65
 SEQUENCE:0
-DTSTAMP:20260120T172245
+DTSTAMP:20260121T174807
 DTSTART:20260131T110000
 DTEND:20260131T114500
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Ferndale vs Solway Stallions
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Stallions\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:92b63f0e-e073-4eb0-bd06-b5a704cd450f
+UID:01f5d539-fd5f-4170-b417-8aa996465ea8
 SEQUENCE:0
-DTSTAMP:20260120T172245
+DTSTAMP:20260121T174807
 DTSTART:20260207T110000
 DTEND:20260207T114500
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Ferndale vs Solway Brumbies
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Brumbies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8fcf1ffa-0a07-4beb-bf8e-7db9cd647f96
+UID:9c135560-9d8a-423f-9d43-4263bb0f5b85
 SEQUENCE:0
-DTSTAMP:20260120T172245
+DTSTAMP:20260121T174807
 DTSTART:20260214T084500
 DTEND:20260214T093000
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Ferndale vs Malvern Tigers Gidd
@@ -40,9 +40,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Giddey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d10b3aaa-6c1f-441b-ae82-72235ad6f07f
+UID:bad4c7ef-aa54-483d-b224-4d4f09e0f77c
 SEQUENCE:0
-DTSTAMP:20260120T172245
+DTSTAMP:20260121T174807
 DTSTART:20260221T110000
 DTEND:20260221T114500
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Ferndale vs Malvern Tigers Mill
@@ -52,9 +52,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Mills\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d29f76e4-bddd-43b2-bc04-ad83bdd09a3a
+UID:2cc45c32-898a-45a4-8ab8-c80f2e8fb105
 SEQUENCE:0
-DTSTAMP:20260120T172245
+DTSTAMP:20260121T174807
 DTSTART:20260228T093000
 DTEND:20260228T101500
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Ferndale vs Toorak Toucans
@@ -63,14 +63,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak
  Toucans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:dc8454ac-d9da-4474-991a-6a9f7db078ab
+UID:eece37f1-24ec-4385-91b2-bbd0b7f77e7f
 SEQUENCE:0
-DTSTAMP:20260120T172245
+DTSTAMP:20260121T174807
 DTSTART:20260314T084500
 DTEND:20260314T093000
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Ferndale vs Solway Stallions
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
  Stallions\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:455248d7-d609-457b-ab71-e48b4007e5fa
+SEQUENCE:0
+DTSTAMP:20260121T174807
+DTSTART:20260321T112000
+DTEND:20260321T120500
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Ferndale vs Solway Brumbies
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Brumbies\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

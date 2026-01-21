@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Longley Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:73374b59-2a8e-431f-9ce5-9e7eb7b3e86b
+UID:9d7000da-3803-467b-9497-b2916e019685
 SEQUENCE:0
-DTSTAMP:20260120T172248
+DTSTAMP:20260121T174810
 DTSTART:20260131T093000
 DTEND:20260131T101500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Burnley Park Piranhas
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Burnley
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:46855734-360f-46e1-8511-dd3045668817
+UID:dbb8de32-9382-4736-b4aa-03431e901f3f
 SEQUENCE:0
-DTSTAMP:20260120T172248
+DTSTAMP:20260121T174810
 DTSTART:20260207T093000
 DTEND:20260207T101500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Solway Mustangs
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Mustangs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:474c5042-fd9a-4e62-b941-acf4d4d5048e
+UID:cb1fa560-4ee4-448b-bf84-336d54ad134b
 SEQUENCE:0
-DTSTAMP:20260120T172248
+DTSTAMP:20260121T174810
 DTSTART:20260214T084500
 DTEND:20260214T093000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Malvern Tigers Exum
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Exum\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a9abe3fa-49a4-472c-b23f-bf28ffd9d82a
+UID:46423103-4120-4308-9776-abfed3ed7689
 SEQUENCE:0
-DTSTAMP:20260120T172248
+DTSTAMP:20260121T174810
 DTSTART:20260221T084500
 DTEND:20260221T093000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Ashy Lightning Green
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8efcbe65-2be3-47b0-a20f-b219fc5fa3c9
+UID:7bfc1868-47fd-4df9-be43-86af9917a167
 SEQUENCE:0
-DTSTAMP:20260120T172248
+DTSTAMP:20260121T174810
 DTSTART:20260228T110000
 DTEND:20260228T114500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Solway Steeds
@@ -61,14 +61,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Steeds\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7f317201-5478-4f62-9329-c8b0cc0dcd97
+UID:e058677a-fab9-46e6-84cb-a484187787f0
 SEQUENCE:0
-DTSTAMP:20260120T172248
+DTSTAMP:20260121T174810
 DTSTART:20260314T110000
 DTEND:20260314T114500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Burnley Park Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Burnley
   Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:164ae977-0ea7-4c1a-83dc-77ccf43a9356
+SEQUENCE:0
+DTSTAMP:20260121T174810
+DTSTART:20260321T094000
+DTEND:20260321T102500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Longley vs Solway Mustangs
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Mustangs\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,9 +6,9 @@ X-WR-CALNAME:Malvern Tigers Gaze Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b583cc8f-5a84-409d-a1d3-4214aa2204b5
+UID:73c543ef-8290-44c5-ba0d-7615cd5ccc4e
 SEQUENCE:0
-DTSTAMP:20260120T172254
+DTSTAMP:20260121T174816
 DTSTART:20260131T093000
 DTEND:20260131T101500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Gaze vs Solway Chargers
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway
  Chargers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:292d86cb-e658-4d65-b6af-24d96fb77c0f
+UID:7a80c6a7-97bc-4241-b6c4-fbc1ecea231e
 SEQUENCE:0
-DTSTAMP:20260120T172254
+DTSTAMP:20260121T174816
 DTSTART:20260207T101500
 DTEND:20260207T110000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Gaze vs Dorrington Piranhas
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Dorring
  ton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:90acdee0-1366-4650-ab05-192363a1c866
+UID:e1823192-2b91-4d96-9aad-d0489b3348c8
 SEQUENCE:0
-DTSTAMP:20260120T172254
+DTSTAMP:20260121T174816
 DTSTART:20260214T110000
 DTEND:20260214T114500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Gaze vs Timberwolves Pythons
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Pythons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d053c4fc-cc01-4df3-b16e-fd63af645cfa
+UID:45c1cec3-b547-45d4-85f2-90366e3b8e9c
 SEQUENCE:0
-DTSTAMP:20260120T172254
+DTSTAMP:20260121T174816
 DTSTART:20260221T110000
 DTEND:20260221T114500
 SUMMARY:🏀 U08 Boys: Malvern Tigers Gaze vs Maccabi Celtics
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e1d2ed3a-4cd7-4358-b39e-53d3c2b84525
+UID:ceda5919-d0dc-44c9-9a66-378f8b52686c
 SEQUENCE:0
-DTSTAMP:20260120T172254
+DTSTAMP:20260121T174816
 DTSTART:20260228T101500
 DTEND:20260228T110000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Gaze vs Renwick Piranhas
@@ -61,14 +61,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Renwick
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1e7e9c73-8944-4413-8ff7-04e7cfd607cf
+UID:3f03f8a7-82b7-43a5-8e9c-b75c5ef5814a
 SEQUENCE:0
-DTSTAMP:20260120T172254
+DTSTAMP:20260121T174816
 DTSTART:20260314T084500
 DTEND:20260314T093000
 SUMMARY:🏀 U08 Boys: Malvern Tigers Gaze vs Golden Hawks Iron
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Golden 
  Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:78c2809d-b3ce-4833-8552-6ae33c478746
+SEQUENCE:0
+DTSTAMP:20260121T174816
+DTSTART:20260321T094000
+DTEND:20260321T102500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Gaze vs Glen Iris Scorpions Gardiner
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
+ is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

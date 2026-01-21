@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e0d088a9-2cc9-43aa-936e-3838099ccd01
+UID:b7173c18-75d0-4d22-bc00-60852147463c
 SEQUENCE:0
-DTSTAMP:20260120T172306
+DTSTAMP:20260121T174828
 DTSTART:20260131T093000
 DTEND:20260131T101500
 SUMMARY:🏀 U08 Girls: Maccabi Warriors vs Brunel Piranhas
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Brunel Pira
  nhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:35062399-b5bf-4765-9fd1-7efa333e75e3
+UID:db1e9148-16d8-4d10-8d90-f61d70b3b8df
 SEQUENCE:0
-DTSTAMP:20260120T172306
+DTSTAMP:20260121T174828
 DTSTART:20260207T084500
 DTEND:20260207T093000
 SUMMARY:🏀 U08 Girls: Maccabi Warriors vs Malvern Tigers Wilson
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Wilson\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c3c67c79-d81e-4876-8bcf-8cc047cbfc50
+UID:1c2b2662-05a5-452a-8fcb-4bb9e99c0c66
 SEQUENCE:0
-DTSTAMP:20260120T172306
+DTSTAMP:20260121T174828
 DTSTART:20260214T080000
 DTEND:20260214T084500
 SUMMARY:🏀 U08 Girls: Maccabi Warriors vs Maccabi Celtics
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d0942d0e-46e2-48be-b319-68617f479960
+UID:a76d1a94-4ff1-40fc-984e-d418737928c3
 SEQUENCE:0
-DTSTAMP:20260120T172306
+DTSTAMP:20260121T174828
 DTSTART:20260221T093000
 DTEND:20260221T101500
 SUMMARY:🏀 U08 Girls: Maccabi Warriors vs Malvern Tigers Wallace
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Wallace\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:65f2586b-d0ff-4ed8-a9f9-bcbf68f13abe
+UID:6360a587-2631-4dd5-9440-d1066c7771fa
 SEQUENCE:0
-DTSTAMP:20260120T172306
+DTSTAMP:20260121T174828
 DTSTART:20260228T084500
 DTEND:20260228T093000
 SUMMARY:🏀 U08 Girls: Maccabi Warriors vs Maccabi Bucks
@@ -61,14 +61,25 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Buc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4026fa4a-6996-46a9-bd07-9c96eb7cc7e3
+UID:b39d6ff8-230a-49a8-a9f2-04245c71ea4f
 SEQUENCE:0
-DTSTAMP:20260120T172306
+DTSTAMP:20260121T174828
 DTSTART:20260314T080000
 DTEND:20260314T084500
 SUMMARY:🏀 U08 Girls: Maccabi Warriors vs Brunel Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Brunel 
  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d301d719-a904-4a61-a62d-7bc8ac3193ef
+SEQUENCE:0
+DTSTAMP:20260121T174828
+DTSTART:20260321T085000
+DTEND:20260321T093500
+SUMMARY:🏀 U08 Girls: Maccabi Warriors vs Malvern Tigers Wilson
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Wilson\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

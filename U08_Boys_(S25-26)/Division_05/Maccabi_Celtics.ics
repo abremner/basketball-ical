@@ -6,9 +6,9 @@ X-WR-CALNAME:Maccabi Celtics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:dd066888-c0bd-4528-9ab5-54fba5c1e64b
+UID:4009bf2c-9783-4201-81a5-7a45c1a0cd31
 SEQUENCE:0
-DTSTAMP:20260120T172253
+DTSTAMP:20260121T174815
 DTSTART:20260131T110000
 DTEND:20260131T114500
 SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Dorrington Piranhas
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Dorring
  ton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:278de60c-6659-42e3-b56e-44b1421f87fa
+UID:bad2ebec-0576-418a-9cdb-a7a62ddf951f
 SEQUENCE:0
-DTSTAMP:20260120T172253
+DTSTAMP:20260121T174815
 DTSTART:20260214T093000
 DTEND:20260214T101500
 SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Renwick Piranhas
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Renwick
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:17abe48a-6315-40f2-a271-7998d1b272f7
+UID:92469433-15cf-4d70-83fc-8b0f92f1d09c
 SEQUENCE:0
-DTSTAMP:20260120T172253
+DTSTAMP:20260121T174815
 DTSTART:20260221T110000
 DTEND:20260221T114500
 SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Malvern Tigers Gaze
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Gaze\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f795f766-62a3-4683-99c3-bda067a2809f
+UID:30dcb672-0638-4e2e-8b81-ea1e04675e08
 SEQUENCE:0
-DTSTAMP:20260120T172253
+DTSTAMP:20260121T174815
 DTSTART:20260228T084500
 DTEND:20260228T093000
 SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Glen Iris Scorpions Gardiner
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:86d41f36-a3d5-41fa-a398-ebe7dc0509cf
+UID:f56a0cbe-3487-4df6-ac2b-f6b09d03ba90
 SEQUENCE:0
-DTSTAMP:20260120T172253
+DTSTAMP:20260121T174815
 DTSTART:20260314T101500
 DTEND:20260314T110000
 SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Solway Chargers
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
  Chargers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:acb1b57e-6cf0-48a4-b54a-284b40c954bd
+SEQUENCE:0
+DTSTAMP:20260121T174815
+DTSTART:20260321T103000
+DTEND:20260321T111500
+SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Malvern Tigers Baynes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Baynes\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

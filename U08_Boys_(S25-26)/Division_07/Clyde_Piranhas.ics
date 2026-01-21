@@ -6,9 +6,9 @@ X-WR-CALNAME:Clyde Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:281fa49e-714a-43fd-9768-c94070b3c17e
+UID:bfaf84e9-48a2-4969-81b5-f30efb2fa9f0
 SEQUENCE:0
-DTSTAMP:20260120T172259
+DTSTAMP:20260121T174821
 DTSTART:20260131T093000
 DTEND:20260131T101500
 SUMMARY:🏀 U08 Boys: Clyde Piranhas vs Solway Colts
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Colts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:838f56e1-098a-4b64-9e75-bfc9e4632a3e
+UID:54593334-f235-4ad7-89c8-71eac6129d23
 SEQUENCE:0
-DTSTAMP:20260120T172259
+DTSTAMP:20260121T174821
 DTSTART:20260207T084500
 DTEND:20260207T093000
 SUMMARY:🏀 U08 Boys: Clyde Piranhas vs Glen Iris Scorpions Raven
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
  is Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6a83a47a-f03d-4d61-8c95-debda8a02291
+UID:93e5dfd6-5996-4749-8844-0b5d4698e817
 SEQUENCE:0
-DTSTAMP:20260120T172259
+DTSTAMP:20260121T174821
 DTSTART:20260221T093000
 DTEND:20260221T101500
 SUMMARY:🏀 U08 Boys: Clyde Piranhas vs Solway Hunters
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Hunters\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:eee4a66c-25a9-45f0-bcf1-f2a3aee7d09d
+UID:4b090f1d-80cc-40e2-a0b6-643ebbfabec9
 SEQUENCE:0
-DTSTAMP:20260120T172259
+DTSTAMP:20260121T174821
 DTSTART:20260228T093000
 DTEND:20260228T101500
 SUMMARY:🏀 U08 Boys: Clyde Piranhas vs Glen Iris Scorpions Nettleton
@@ -50,14 +50,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
  is Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c7107ba7-10f6-45c1-b500-29d31c1f249d
+UID:c54177af-dfac-47ff-9f0a-08ee79aa02d8
 SEQUENCE:0
-DTSTAMP:20260120T172259
+DTSTAMP:20260121T174821
 DTSTART:20260314T084500
 DTEND:20260314T093000
 SUMMARY:🏀 U08 Boys: Clyde Piranhas vs Solway Pacers
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
  Pacers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:48e5402c-ddf1-4886-a882-5d4c74c5f149
+SEQUENCE:0
+DTSTAMP:20260121T174821
+DTSTART:20260321T080000
+DTEND:20260321T084500
+SUMMARY:🏀 U08 Boys: Clyde Piranhas vs Arax
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Arax\nA
+ rrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

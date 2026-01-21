@@ -6,9 +6,9 @@ X-WR-CALNAME:Glen Iris Scorpions Raven Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b298e827-2936-4144-a9c4-273bcc4ab79a
+UID:c68fda85-5052-4bf4-8d40-5ffe935dbb02
 SEQUENCE:0
-DTSTAMP:20260120T172259
+DTSTAMP:20260121T174821
 DTSTART:20260131T080000
 DTEND:20260131T084500
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Raven vs Arax
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Arax\nA
  rrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9926b910-68b4-4626-a763-bb1b12c3dd2d
+UID:db88b8fc-e82d-4e73-9a62-a16e592bf949
 SEQUENCE:0
-DTSTAMP:20260120T172259
+DTSTAMP:20260121T174821
 DTSTART:20260207T084500
 DTEND:20260207T093000
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Raven vs Clyde Piranhas
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Clyde P
  iranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:51733263-c274-44a7-bc58-ff679619f8d4
+UID:b7abd125-b31e-45cc-a8cf-4dac7f1c5b91
 SEQUENCE:0
-DTSTAMP:20260120T172259
+DTSTAMP:20260121T174821
 DTSTART:20260214T093000
 DTEND:20260214T101500
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Raven vs Solway Colts
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Colts\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1c6dbf71-73bf-4215-ade3-7332fbc28375
+UID:f4eea265-7c35-4b41-b216-14d2ee0e8844
 SEQUENCE:0
-DTSTAMP:20260120T172259
+DTSTAMP:20260121T174821
 DTSTART:20260221T084500
 DTEND:20260221T093000
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Raven vs Glen Iris Scorpions Ne
@@ -51,14 +51,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
  is Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c222ed5e-3158-4db5-8409-6a203d6f2c35
+UID:c217147c-7aa7-493f-90c9-3a35da849cb8
 SEQUENCE:0
-DTSTAMP:20260120T172259
+DTSTAMP:20260121T174821
 DTSTART:20260228T080000
 DTEND:20260228T084500
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Raven vs Solway Pacers
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
  Pacers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1991d0d1-e70f-427c-bc33-8ceb90772ca2
+SEQUENCE:0
+DTSTAMP:20260121T174821
+DTSTART:20260321T085000
+DTEND:20260321T093500
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Raven vs Solway Hunters
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Hunters\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR
