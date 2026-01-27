@@ -6,20 +6,20 @@ X-WR-CALNAME:Willoby Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:87db261c-84e6-4b84-b65e-f234d8a4cae5
+UID:be0aec67-c1c2-435c-958b-052ae31ddbd3
 SEQUENCE:0
-DTSTAMP:20260126T172444
-DTSTART:20260131T080000
-DTEND:20260131T084500
+DTSTAMP:20260127T172330
+DTSTART:20260131T084500
+DTEND:20260131T093000
 SUMMARY:🏀 U10 Boys: Willoby Piranhas vs Bambra Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Bambra
-  Piranhas\nArrive 15 mins early for warm-up
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Bambra Piranhas\nArrive 15 mi
+ ns early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1c4df5e6-9173-4007-8da6-2250ba22df01
+UID:ac18d534-6088-4e51-921a-32b18430d420
 SEQUENCE:0
-DTSTAMP:20260126T172444
+DTSTAMP:20260127T172330
 DTSTART:20260207T080000
 DTEND:20260207T084500
 SUMMARY:🏀 U10 Boys: Willoby Piranhas vs Timberwolves Legends
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Legends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:414ead98-2abe-4afd-add7-00dc57ac88ff
+UID:fe2a898d-3106-4328-8ef5-7efa624aca43
 SEQUENCE:0
-DTSTAMP:20260126T172444
+DTSTAMP:20260127T172330
 DTSTART:20260221T093000
 DTEND:20260221T101500
 SUMMARY:🏀 U10 Boys: Willoby Piranhas vs Maccabi Hawks
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Hawks\nArrive 15 mins
   early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:49934721-b66c-4e05-80ac-6772dbad5a8e
+UID:7128a9af-dadb-488d-af1e-db76c9e5ca09
 SEQUENCE:0
-DTSTAMP:20260126T172444
+DTSTAMP:20260127T172330
 DTSTART:20260228T084500
 DTEND:20260228T093000
 SUMMARY:🏀 U10 Boys: Willoby Piranhas vs Ashy Lightning White
@@ -50,14 +50,14 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Ashy Lightning White\nArrive
  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a6952314-3800-460b-b7dc-fce682502ad0
+UID:3017a6ad-b82b-4e9e-a1f1-8118fb99dabe
 SEQUENCE:0
-DTSTAMP:20260126T172444
-DTSTART:20260314T093000
-DTEND:20260314T101500
+DTSTAMP:20260127T172330
+DTSTART:20260314T080000
+DTEND:20260314T084500
 SUMMARY:🏀 U10 Boys: Willoby Piranhas vs Malvern Tigers Maroon
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Maroon\nArrive
-  15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Maroon\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

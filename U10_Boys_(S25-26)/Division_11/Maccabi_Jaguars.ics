@@ -6,20 +6,20 @@ X-WR-CALNAME:Maccabi Jaguars Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:46a96a3a-eaf3-4082-83e9-cbaa8f0d743a
+UID:139154b0-be84-4fea-a90e-e8ac15c9c356
 SEQUENCE:0
-DTSTAMP:20260126T172443
-DTSTART:20260131T084500
-DTEND:20260131T093000
+DTSTAMP:20260127T172329
+DTSTART:20260131T080000
+DTEND:20260131T084500
 SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Malvern Tigers Maroon
-LOCATION:DLS1
-DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Malvern Tigers Maroon\nArrive
-  15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Maroon\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ea3c7d19-1dad-4583-a782-1ef11a0ddacc
+UID:d9d0f3da-c694-4690-b644-498a4daeba7e
 SEQUENCE:0
-DTSTAMP:20260126T172443
+DTSTAMP:20260127T172329
 DTSTART:20260207T093000
 DTEND:20260207T101500
 SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Bambra Piranhas
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Bambra Piranhas\nArrive 15 mi
  ns early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:02dd2338-5fda-4ee8-b6aa-226032e4a492
+UID:dc447454-57de-40f5-a47b-0aee89964240
 SEQUENCE:0
-DTSTAMP:20260126T172443
+DTSTAMP:20260127T172329
 DTSTART:20260214T093000
 DTEND:20260214T101500
 SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Ashy Lightning White
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Ashy Lightning White\nArrive
  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4e6dd648-d9ec-4f12-8f1f-8d7c0622bd1f
+UID:827c45e3-0905-407f-91de-0f4eed6f0496
 SEQUENCE:0
-DTSTAMP:20260126T172443
+DTSTAMP:20260127T172329
 DTSTART:20260221T084500
 DTEND:20260221T093000
 SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Timberwolves Legends
@@ -50,14 +50,14 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Timberwolves Legends\nArrive
  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4739e00b-6b29-4932-b71d-14108405b87c
+UID:788b72c8-05f2-4b58-96d8-b674b2144f40
 SEQUENCE:0
-DTSTAMP:20260126T172443
-DTSTART:20260228T080000
-DTEND:20260228T084500
+DTSTAMP:20260127T172329
+DTSTART:20260228T093000
+DTEND:20260228T101500
 SUMMARY:🏀 U10 Boys: Maccabi Jaguars vs Maccabi Hawks
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
- i Hawks\nArrive 15 mins early for warm-up
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Hawks\nArrive 15 mins
+  early for warm-up
 END:VEVENT
 END:VCALENDAR

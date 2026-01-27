@@ -6,20 +6,20 @@ X-WR-CALNAME:Malvern Tigers Maroon Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f303d3c4-ffbd-4598-abce-f05c7fb014cc
+UID:abddc0f7-6b70-4ebe-b95e-72ea44c86500
 SEQUENCE:0
-DTSTAMP:20260126T172443
-DTSTART:20260131T084500
-DTEND:20260131T093000
+DTSTAMP:20260127T172329
+DTSTART:20260131T080000
+DTEND:20260131T084500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Maroon vs Maccabi Jaguars
-LOCATION:DLS1
-DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Jaguars\nArrive 15 mi
- ns early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Jaguars\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:51afdb27-37d4-46c3-8e4e-69a0a9eeec9d
+UID:d1dccd90-496f-4e17-813e-bc9ea02867aa
 SEQUENCE:0
-DTSTAMP:20260126T172443
+DTSTAMP:20260127T172329
 DTSTART:20260214T080000
 DTEND:20260214T084500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Maroon vs Maccabi Hawks
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
  i Hawks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1a80ee53-ae86-4a79-834f-95b9f1160b83
+UID:c2bf5fe1-9805-44b4-9e08-652fe949609f
 SEQUENCE:0
-DTSTAMP:20260126T172443
+DTSTAMP:20260127T172329
 DTSTART:20260221T080000
 DTEND:20260221T084500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Maroon vs Bambra Piranhas
@@ -39,25 +39,25 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Bambra
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:abf8880c-690a-4a44-8c2f-4219f41e8ba5
+UID:d7498f1a-a1b9-4b6c-be80-cdc2c21417e1
 SEQUENCE:0
-DTSTAMP:20260126T172443
-DTSTART:20260228T093000
-DTEND:20260228T101500
+DTSTAMP:20260127T172329
+DTSTART:20260228T080000
+DTEND:20260228T084500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Maroon vs Timberwolves Legends
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Legends\nArrive 
- 15 mins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Legends\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:427fe890-4eef-4927-a0aa-758b2ea71fce
+UID:7f82be02-e9b1-4e12-b0be-6ffbfa6e0ac8
 SEQUENCE:0
-DTSTAMP:20260126T172443
-DTSTART:20260314T093000
-DTEND:20260314T101500
+DTSTAMP:20260127T172329
+DTSTART:20260314T080000
+DTEND:20260314T084500
 SUMMARY:🏀 U10 Boys: Malvern Tigers Maroon vs Willoby Piranhas
-LOCATION:ASB1
-DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Willoby Piranhas\nArrive 15 m
- ins early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Willob
+ y Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

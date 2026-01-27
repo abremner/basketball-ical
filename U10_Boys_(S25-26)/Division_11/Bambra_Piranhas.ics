@@ -6,20 +6,20 @@ X-WR-CALNAME:Bambra Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d236ccea-86c0-4f3c-99cc-8fa7f9b1dc85
+UID:6b903b03-25d3-43df-8f16-9da7eef021ac
 SEQUENCE:0
-DTSTAMP:20260126T172442
-DTSTART:20260131T080000
-DTEND:20260131T084500
+DTSTAMP:20260127T172328
+DTSTART:20260131T084500
+DTEND:20260131T093000
 SUMMARY:🏀 U10 Boys: Bambra Piranhas vs Willoby Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Willob
- y Piranhas\nArrive 15 mins early for warm-up
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Willoby Piranhas\nArrive 15 m
+ ins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:07275a7e-797b-4c08-b8e9-61153c84bdcf
+UID:fae4b440-5bed-4d47-ab81-b000a6b92ac1
 SEQUENCE:0
-DTSTAMP:20260126T172442
+DTSTAMP:20260127T172328
 DTSTART:20260207T093000
 DTEND:20260207T101500
 SUMMARY:🏀 U10 Boys: Bambra Piranhas vs Maccabi Jaguars
@@ -28,9 +28,9 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Maccabi Jaguars\nArrive 15 mi
  ns early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:879de644-735d-45cf-bc16-5b1e4a49448b
+UID:45787dbc-6509-4acb-a21b-b913fad1a4f9
 SEQUENCE:0
-DTSTAMP:20260126T172442
+DTSTAMP:20260127T172328
 DTSTART:20260214T084500
 DTEND:20260214T093000
 SUMMARY:🏀 U10 Boys: Bambra Piranhas vs Timberwolves Legends
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Timberwolves Legends\nArrive
  15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4a3d09f3-aff8-4d93-b8f2-1cc568700e9e
+UID:c6226313-86d2-4be4-b147-0b157b3c043d
 SEQUENCE:0
-DTSTAMP:20260126T172442
+DTSTAMP:20260127T172328
 DTSTART:20260221T080000
 DTEND:20260221T084500
 SUMMARY:🏀 U10 Boys: Bambra Piranhas vs Malvern Tigers Maroon
@@ -50,14 +50,14 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Maroon\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1336ce05-5f84-4ef7-9572-0ffec39974ee
+UID:6177590c-44aa-429b-a544-33f83b8d5990
 SEQUENCE:0
-DTSTAMP:20260126T172442
-DTSTART:20260314T080000
-DTEND:20260314T084500
+DTSTAMP:20260127T172328
+DTSTART:20260314T093000
+DTEND:20260314T101500
 SUMMARY:🏀 U10 Boys: Bambra Piranhas vs Ashy Lightning White
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
- ightning White\nArrive 15 mins early for warm-up
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Ashy Lightning White\nArrive 
+ 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

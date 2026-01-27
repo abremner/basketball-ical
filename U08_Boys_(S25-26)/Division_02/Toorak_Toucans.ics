@@ -6,9 +6,9 @@ X-WR-CALNAME:Toorak Toucans Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c6252968-5252-49bb-bada-a7f47b80b431
+UID:c1bc1ac4-7730-48e2-9dcd-5db03d1715b1
 SEQUENCE:0
-DTSTAMP:20260126T172351
+DTSTAMP:20260127T172233
 DTSTART:20260131T084500
 DTEND:20260131T093000
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Malvern Tigers Mills
@@ -17,20 +17,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
   Tigers Mills\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6242791b-89fa-443e-a8ea-622d98b1ffde
+UID:ccf9bb06-dd6d-4cba-ad1b-ae6d1f0ddf51
 SEQUENCE:0
-DTSTAMP:20260126T172351
-DTSTART:20260207T084500
-DTEND:20260207T093000
+DTSTAMP:20260127T172233
+DTSTART:20260207T093000
+DTEND:20260207T101500
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Malvern Tigers Giddey
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
   Tigers Giddey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:de433415-d721-4276-8d19-984443793184
+UID:07137f38-387c-4403-bf82-28e7e0aeeacb
 SEQUENCE:0
-DTSTAMP:20260126T172351
+DTSTAMP:20260127T172233
 DTSTART:20260214T110000
 DTEND:20260214T114500
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Solway Stallions
@@ -39,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Stallions\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7f586d92-51ff-4fd6-b0a8-ae52bd200265
+UID:dc16b7da-2ac8-46ee-8b0b-25a3fa73a617
 SEQUENCE:0
-DTSTAMP:20260126T172351
+DTSTAMP:20260127T172233
 DTSTART:20260221T084500
 DTEND:20260221T093000
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Solway Brumbies
@@ -50,20 +50,20 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
  Brumbies\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ca2d0496-524d-48e3-874b-c76e2ecdb119
+UID:68fe4463-cc4b-4cba-a474-5b709cb2806b
 SEQUENCE:0
-DTSTAMP:20260126T172351
-DTSTART:20260228T093000
-DTEND:20260228T101500
+DTSTAMP:20260127T172233
+DTSTART:20260228T084500
+DTEND:20260228T093000
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Glen Iris Scorpions Ferndale
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
  is Scorpions Ferndale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a70d81ec-0294-489b-b289-ea2d821d6129
+UID:5119362a-334f-4941-97fa-023a027b2ece
 SEQUENCE:0
-DTSTAMP:20260126T172351
+DTSTAMP:20260127T172233
 DTSTART:20260314T110000
 DTEND:20260314T114500
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Malvern Tigers Mills
@@ -72,9 +72,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Mills\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:0a8ca70f-77c0-4754-9e0e-5ea2e36a6af2
+UID:146cfa5a-e9f3-4070-9f6c-9aa63dbbd4da
 SEQUENCE:0
-DTSTAMP:20260126T172351
+DTSTAMP:20260127T172233
 DTSTART:20260321T085000
 DTEND:20260321T093500
 SUMMARY:🏀 U08 Boys: Toorak Toucans vs Malvern Tigers Giddey

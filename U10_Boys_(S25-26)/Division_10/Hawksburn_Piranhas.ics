@@ -6,9 +6,9 @@ X-WR-CALNAME:Hawksburn Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:647b2fe2-49ef-413f-bec0-dff7939ab258
+UID:474c49d3-590b-4d03-8a64-9e4b2c55ce92
 SEQUENCE:0
-DTSTAMP:20260126T172439
+DTSTAMP:20260127T172324
 DTSTART:20260207T101500
 DTEND:20260207T110000
 SUMMARY:🏀 U10 Boys: Hawksburn Piranhas vs Malvern Tigers Grey
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3fdbd3ce-9716-4f7c-8f11-b0f6f2357f79
+UID:a621ca80-8ba9-485f-b0f1-ffb2308e6020
 SEQUENCE:0
-DTSTAMP:20260126T172439
+DTSTAMP:20260127T172324
 DTSTART:20260214T101500
 DTEND:20260214T110000
 SUMMARY:🏀 U10 Boys: Hawksburn Piranhas vs Phoenix Park Piranhas
@@ -28,20 +28,20 @@ DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Phoenix Park Piranhas\nArrive
   15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:77b74e67-540b-4eb4-bafe-0471b396a487
+UID:3ea771ac-cf92-4500-a0e9-328fdcbed1d7
 SEQUENCE:0
-DTSTAMP:20260126T172439
-DTSTART:20260221T080000
-DTEND:20260221T084500
+DTSTAMP:20260127T172324
+DTSTART:20260221T110000
+DTEND:20260221T114500
 SUMMARY:🏀 U10 Boys: Hawksburn Piranhas vs Glen Iris Scorpions Raven
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Glen I
- ris Scorpions Raven\nArrive 15 mins early for warm-up
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Glen Iris Scorpions Raven\nAr
+ rive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:2ec11548-b96b-42b4-b706-2940b24f973a
+UID:af6441e8-db1f-4471-a35e-948aa2fd183b
 SEQUENCE:0
-DTSTAMP:20260126T172439
+DTSTAMP:20260127T172324
 DTSTART:20260228T114500
 DTEND:20260228T123000
 SUMMARY:🏀 U10 Boys: Hawksburn Piranhas vs Timberwolves Bucks
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3e90aca2-afa9-46a2-af98-876a64f6e53b
+UID:b34ab00e-71c1-49f5-8992-395d6d84fd66
 SEQUENCE:0
-DTSTAMP:20260126T172439
+DTSTAMP:20260127T172324
 DTSTART:20260314T101500
 DTEND:20260314T110000
 SUMMARY:🏀 U10 Boys: Hawksburn Piranhas vs Toorak Tycoons

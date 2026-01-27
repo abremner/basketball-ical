@@ -6,9 +6,9 @@ X-WR-CALNAME:Toorak Tycoons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:74b55254-c8e9-47c8-9485-d984f4ff8be5
+UID:9b0d3a05-b430-4027-a9c9-dc52d994e32c
 SEQUENCE:0
-DTSTAMP:20260126T172441
+DTSTAMP:20260127T172327
 DTSTART:20260131T101500
 DTEND:20260131T110000
 SUMMARY:🏀 U10 Boys: Toorak Tycoons vs Phoenix Park Piranhas
@@ -17,31 +17,31 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Phoeni
  x Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:73d29e0c-577c-45a3-841d-49e2e0cdebba
+UID:629c9c07-ac19-4142-a0d0-4fbb1aa8a038
 SEQUENCE:0
-DTSTAMP:20260126T172441
-DTSTART:20260214T101500
-DTEND:20260214T110000
+DTSTAMP:20260127T172327
+DTSTART:20260214T114500
+DTEND:20260214T123000
 SUMMARY:🏀 U10 Boys: Toorak Tycoons vs East Malvern Piranhas
 LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
 DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: East M
  alvern Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:19fc8dbb-9095-47df-b042-505312ca1fd2
+UID:d156f59f-6185-488f-9e52-294c737bb102
 SEQUENCE:0
-DTSTAMP:20260126T172441
-DTSTART:20260221T110000
-DTEND:20260221T114500
+DTSTAMP:20260127T172327
+DTSTART:20260221T080000
+DTEND:20260221T084500
 SUMMARY:🏀 U10 Boys: Toorak Tycoons vs SE Venom Magic
-LOCATION:DLS1
-DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: SE Venom Magic\nArrive 15 min
- s early for warm-up
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: SE Ven
+ om Magic\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:49b7efcf-2ad4-4eed-bf95-85ce18a1f5a4
+UID:b5555107-e663-4ffd-9f98-a05ca210994d
 SEQUENCE:0
-DTSTAMP:20260126T172441
+DTSTAMP:20260127T172327
 DTSTART:20260228T080000
 DTEND:20260228T084500
 SUMMARY:🏀 U10 Boys: Toorak Tycoons vs Koornang Piranhas
@@ -50,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Koorna
  ng Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:87fc2b67-93bd-4e41-99fd-4b275ee3661b
+UID:e8d21db8-bc29-4687-8bcd-e6605ecbcc7e
 SEQUENCE:0
-DTSTAMP:20260126T172441
+DTSTAMP:20260127T172327
 DTSTART:20260314T101500
 DTEND:20260314T110000
 SUMMARY:🏀 U10 Boys: Toorak Tycoons vs Hawksburn Piranhas
