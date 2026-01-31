@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Sparrows Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:fedd83c7-ec7b-4e5a-8d3e-81fb53850cb2
+UID:83f77f60-5fce-488a-9d09-5de85011ddaf
 SEQUENCE:0
-DTSTAMP:20260130T172945
-DTSTART:20260131T140000
-DTEND:20260131T144500
-SUMMARY:🏀 U12 Girls: Solway Sparrows vs Korowa Grey
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Korowa Grey
- \nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:c10c6b27-b27d-41d8-9ec4-63d5fb8c5ed6
-SEQUENCE:0
-DTSTAMP:20260130T172945
+DTSTAMP:20260131T171953
 DTSTART:20260207T123000
 DTEND:20260207T131500
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Timberwolves Pearls
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Pearls\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b2664c80-5ba8-4b25-abb6-61ad26895fcc
+UID:be4eaa49-0d91-4267-98ec-7e388dabbda2
 SEQUENCE:0
-DTSTAMP:20260130T172945
+DTSTAMP:20260131T171953
 DTSTART:20260214T140000
 DTEND:20260214T144500
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Creswick Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Creswick Pi
  ranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e7d0f4d7-184c-4412-b6cc-310039457755
+UID:c2d18a9e-49c3-4a1b-96fc-65a7d9145a13
 SEQUENCE:0
-DTSTAMP:20260130T172945
+DTSTAMP:20260131T171953
 DTSTART:20260221T140000
 DTEND:20260221T144500
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Maccabi Eagles
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Eag
  les\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:78ec0ce9-4608-4645-a66d-82977c16c122
+UID:6beeff92-59f4-4308-b727-9d0bbf264ab1
 SEQUENCE:0
-DTSTAMP:20260130T172945
+DTSTAMP:20260131T171953
 DTSTART:20260228T140000
 DTEND:20260228T144500
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Maccabi Bucks
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Buc
  ks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:78694cec-99fa-46af-9a80-60a5b3241b33
+UID:1a45a8c6-7ab3-4a36-95fe-f47705346297
 SEQUENCE:0
-DTSTAMP:20260130T172945
+DTSTAMP:20260131T171953
 DTSTART:20260314T123000
 DTEND:20260314T131500
 SUMMARY:🏀 U12 Girls: Solway Sparrows vs Malvern Tigers Orange

@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Parrots Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0dbf5984-10ac-450c-beda-488e5d353fdd
+UID:300994a5-d60c-4eea-a514-4fbd54a2687a
 SEQUENCE:0
-DTSTAMP:20260130T172941
-DTSTART:20260131T144500
-DTEND:20260131T153000
-SUMMARY:🏀 U12 Girls: Solway Parrots vs Ashy Lightning Green
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
- ing Green\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:a9828eee-0e50-4a92-ae51-5b13fc3992a4
-SEQUENCE:0
-DTSTAMP:20260130T172941
+DTSTAMP:20260131T171950
 DTSTART:20260207T140000
 DTEND:20260207T144500
 SUMMARY:🏀 U12 Girls: Solway Parrots vs Maccabi Falcons
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
   Falcons\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:010ac055-dea8-4e51-8df3-f2b93d61e2cf
+UID:31e60609-d935-4987-bd35-b82eb83d94ae
 SEQUENCE:0
-DTSTAMP:20260130T172941
+DTSTAMP:20260131T171950
 DTSTART:20260214T144500
 DTEND:20260214T153000
 SUMMARY:🏀 U12 Girls: Solway Parrots vs Willow Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Willow Pira
  nhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d3536b30-fd22-4311-b07f-e2b8f90a1ae1
+UID:7cb6612a-1e92-47d0-b9a7-4ffba7153a10
 SEQUENCE:0
-DTSTAMP:20260130T172941
+DTSTAMP:20260131T171950
 DTSTART:20260221T144500
 DTEND:20260221T153000
 SUMMARY:🏀 U12 Girls: Solway Parrots vs Malvern Tigers Blue
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
  ers Blue\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e2b17439-b2b1-4523-bdd5-ed4291ed277d
+UID:810e7932-4e6b-430a-ab26-3868f7e29aa1
 SEQUENCE:0
-DTSTAMP:20260130T172941
+DTSTAMP:20260131T171950
 DTSTART:20260228T140000
 DTEND:20260228T144500
 SUMMARY:🏀 U12 Girls: Solway Parrots vs AlphaWolf Sparks
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: AlphaWo
  lf Sparks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a32b1369-c9ae-4be0-8811-3aee34bd95e7
+UID:dc4f270d-d12a-43ee-b431-2162e9f4f0f9
 SEQUENCE:0
-DTSTAMP:20260130T172941
+DTSTAMP:20260131T171950
 DTSTART:20260314T144500
 DTEND:20260314T153000
 SUMMARY:🏀 U12 Girls: Solway Parrots vs Ashy Lightning Green

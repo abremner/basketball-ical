@@ -6,20 +6,9 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:a5d2b09e-a11b-4168-b991-f9f46f28547c
+UID:fb79fcd0-8cea-4cc9-bd78-5ebdf12b896f
 SEQUENCE:0
-DTSTAMP:20260130T173041
-DTSTART:20260131T183000
-DTEND:20260131T191500
-SUMMARY:🏀 U16 Boys: Arax vs Malvern Tigers Red
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
- n Tigers Red\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:c5e5d91a-3439-4d7f-b8d2-559ec3201ea0
-SEQUENCE:0
-DTSTAMP:20260130T173041
+DTSTAMP:20260131T172041
 DTSTART:20260207T191500
 DTEND:20260207T200000
 SUMMARY:🏀 U16 Boys: Arax vs Maccabi Warriors
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:210e6d37-4f8e-4b55-91f8-36d96aaa4d31
+UID:81b49454-7b67-4183-953c-0d97a0d8d235
 SEQUENCE:0
-DTSTAMP:20260130T173041
+DTSTAMP:20260131T172041
 DTSTART:20260214T174500
 DTEND:20260214T183000
 SUMMARY:🏀 U16 Boys: Arax vs Timberwolves Raiders
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Raiders\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:270c7e9c-7f05-4d59-ba03-4111b76e87f8
+UID:6abc904f-0c5f-4b69-83a6-d2c43acffac6
 SEQUENCE:0
-DTSTAMP:20260130T173041
+DTSTAMP:20260131T172041
 DTSTART:20260221T174500
 DTEND:20260221T183000
 SUMMARY:🏀 U16 Boys: Arax vs Toorak Tropics
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
   Tropics\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:007cd6d4-0bbd-49ee-af20-866058fa701d
+UID:5701b0b9-064b-4993-a931-5d0f6a0978ff
 SEQUENCE:0
-DTSTAMP:20260130T173041
+DTSTAMP:20260131T172041
 DTSTART:20260228T200000
 DTEND:20260228T204500
 SUMMARY:🏀 U16 Boys: Arax vs Timberwolves Taipans
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Taipans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3a38b011-02e7-42a5-bf09-12859eff2988
+UID:a555c59d-fecc-4eec-b350-4bfc2dd44911
 SEQUENCE:0
-DTSTAMP:20260130T173041
+DTSTAMP:20260131T172041
 DTSTART:20260314T183000
 DTEND:20260314T191500
 SUMMARY:🏀 U16 Boys: Arax vs Malvern Tigers Red

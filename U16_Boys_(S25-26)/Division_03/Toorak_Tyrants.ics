@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Tyrants Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:e97d0fd2-a1ed-4330-b047-50092a62dcfe
+UID:4bb8ee14-2aec-4de4-ac6d-07ce4dbd4924
 SEQUENCE:0
-DTSTAMP:20260130T173046
-DTSTART:20260131T191500
-DTEND:20260131T200000
-SUMMARY:🏀 U16 Boys: Toorak Tyrants vs Solway Blazers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
-  Blazers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:838b4789-9a50-48f7-87f2-6485a67434a8
-SEQUENCE:0
-DTSTAMP:20260130T173046
+DTSTAMP:20260131T172046
 DTSTART:20260207T183000
 DTEND:20260207T191500
 SUMMARY:🏀 U16 Boys: Toorak Tyrants vs Malvern Tigers Yellow
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
  n Tigers Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9181b467-e72d-4916-b80b-d6abf96e9e64
+UID:a7f45cdb-fd31-4933-a194-c6c5d6305ebb
 SEQUENCE:0
-DTSTAMP:20260130T173046
+DTSTAMP:20260131T172046
 DTSTART:20260214T191500
 DTEND:20260214T200000
 SUMMARY:🏀 U16 Boys: Toorak Tyrants vs Timberwolves Magnum
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
  olves Magnum\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ba41df34-5659-427e-af1f-38b39aedde2d
+UID:c19aed78-d7eb-4173-897c-0cb236b0021f
 SEQUENCE:0
-DTSTAMP:20260130T173046
+DTSTAMP:20260131T172046
 DTSTART:20260221T191500
 DTEND:20260221T200000
 SUMMARY:🏀 U16 Boys: Toorak Tyrants vs Maccabi Half Court Miracles
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Half Court Miracles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:79db27a4-ea85-4000-b31b-9997e0c92501
+UID:6f736681-45b0-4924-803b-015501ed99a9
 SEQUENCE:0
-DTSTAMP:20260130T173046
+DTSTAMP:20260131T172046
 DTSTART:20260228T174500
 DTEND:20260228T183000
 SUMMARY:🏀 U16 Boys: Toorak Tyrants vs AUBD Thunder
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AUBD T
  hunder\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6dc48546-d918-4bb3-80b4-fde436c9348a
+UID:7ae6bb8d-5907-4254-acdd-58c591a9fb91
 SEQUENCE:0
-DTSTAMP:20260130T173046
+DTSTAMP:20260131T172046
 DTSTART:20260314T191500
 DTEND:20260314T200000
 SUMMARY:🏀 U16 Boys: Toorak Tyrants vs Timberwolves Cats

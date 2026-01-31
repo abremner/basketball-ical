@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:9ccf4499-e110-443a-95ec-cb21df5fc610
+UID:6c427169-4e1a-4af0-9031-56663cd3c598
 SEQUENCE:0
-DTSTAMP:20260130T173056
-DTSTART:20260131T183000
-DTEND:20260131T191500
-SUMMARY:🏀 U16 Boys: Maccabi Bucks vs Malvern Tigers Orange
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
-  Tigers Orange\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:1d40ced3-13c4-4f68-a562-eed5fa2b9d33
-SEQUENCE:0
-DTSTAMP:20260130T173056
+DTSTAMP:20260131T172054
 DTSTART:20260207T191500
 DTEND:20260207T200000
 SUMMARY:🏀 U16 Boys: Maccabi Bucks vs Solway Rangers
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway
  Rangers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1e3d5d06-ef30-4e49-a510-aa6d80da7947
+UID:ccf2d4a2-7700-4b44-ac6d-38cbb1501bc6
 SEQUENCE:0
-DTSTAMP:20260130T173056
+DTSTAMP:20260131T172054
 DTSTART:20260214T191500
 DTEND:20260214T200000
 SUMMARY:🏀 U16 Boys: Maccabi Bucks vs Ashy Lightning Green
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1b8a3970-bd31-498d-8afc-3a1798a2cda6
+UID:65aa5d5f-cdd7-43c1-b49a-396bc05293fc
 SEQUENCE:0
-DTSTAMP:20260130T173056
+DTSTAMP:20260131T172054
 DTSTART:20260221T174500
 DTEND:20260221T183000
 SUMMARY:🏀 U16 Boys: Maccabi Bucks vs Solway Slammers
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Slammers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1760ccd1-1e74-4637-930b-a8ee6b3c020b
+UID:4aba97bc-be7c-4c3b-8937-415a7e204470
 SEQUENCE:0
-DTSTAMP:20260130T173056
+DTSTAMP:20260131T172054
 DTSTART:20260228T191500
 DTEND:20260228T200000
 SUMMARY:🏀 U16 Boys: Maccabi Bucks vs Solway Jets
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway
  Jets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7ead4282-13e4-4f34-9244-f2e78aa67f7a
+UID:b45b6c0d-0d14-461b-9e9f-71688fcabff0
 SEQUENCE:0
-DTSTAMP:20260130T173056
+DTSTAMP:20260131T172054
 DTSTART:20260314T183000
 DTEND:20260314T191500
 SUMMARY:🏀 U16 Boys: Maccabi Bucks vs Manning Piranhas

@@ -6,20 +6,9 @@ X-WR-CALNAME:Comets Lightning Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:0a3d62b6-58c8-4496-91ba-76c8407d36b5
+UID:ed550fcf-75af-404e-b331-7499f0128675
 SEQUENCE:0
-DTSTAMP:20260130T172953
-DTSTART:20260131T174500
-DTEND:20260131T183000
-SUMMARY:🏀 U14 Boys: Comets Lightning vs Maccabi Warriors
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
-  Warriors\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:249cd728-9efd-443e-a752-51796a400fc6
-SEQUENCE:0
-DTSTAMP:20260130T172953
+DTSTAMP:20260131T172000
 DTSTART:20260207T174500
 DTEND:20260207T183000
 SUMMARY:🏀 U14 Boys: Comets Lightning vs Glen Iris Piranhas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
  is Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b4f1466b-a1cb-4c4b-91ef-6705c37a0845
+UID:7be76445-f7e8-49dc-ba46-2f8770f308c6
 SEQUENCE:0
-DTSTAMP:20260130T172953
+DTSTAMP:20260131T172000
 DTSTART:20260214T170000
 DTEND:20260214T174500
 SUMMARY:🏀 U14 Boys: Comets Lightning vs Paxton Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Paxton
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4f242650-cf31-4c3c-aad8-4b0fb8b67731
+UID:6baba38f-87a6-43d3-95e6-531900598e4e
 SEQUENCE:0
-DTSTAMP:20260130T172953
+DTSTAMP:20260131T172000
 DTSTART:20260221T170000
 DTEND:20260221T174500
 SUMMARY:🏀 U14 Boys: Comets Lightning vs Elsternwick Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Elster
  nwick Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:39b41b4a-2250-4965-918c-687ebcae91d7
+UID:9b0c4ddf-d053-448c-85e5-85c3a2a4d84c
 SEQUENCE:0
-DTSTAMP:20260130T172953
+DTSTAMP:20260131T172000
 DTSTART:20260228T170000
 DTEND:20260228T174500
 SUMMARY:🏀 U14 Boys: Comets Lightning vs Glen Iris Scorpions Gardiner
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
  ris Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:80ddf5f4-e0b1-401a-997b-e0fd871cd662
+UID:255c575d-4cfd-49a9-8082-b8327f578e0a
 SEQUENCE:0
-DTSTAMP:20260130T172953
+DTSTAMP:20260131T172000
 DTSTART:20260314T170000
 DTEND:20260314T174500
 SUMMARY:🏀 U14 Boys: Comets Lightning vs Malvern Tigers Red

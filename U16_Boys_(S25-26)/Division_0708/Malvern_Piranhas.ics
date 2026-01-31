@@ -6,20 +6,9 @@ X-WR-CALNAME:Malvern Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d26ef9f5-bb83-4edd-bff8-dcef87942887
+UID:ae541d46-fab1-4fe3-91dd-78d63d355987
 SEQUENCE:0
-DTSTAMP:20260130T173056
-DTSTART:20260131T191500
-DTEND:20260131T200000
-SUMMARY:🏀 U16 Boys: Malvern Piranhas vs Manning Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Manning
-  Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:884e0466-a504-4670-bdba-e72b841456c0
-SEQUENCE:0
-DTSTAMP:20260130T173056
+DTSTAMP:20260131T172055
 DTSTART:20260207T183000
 DTEND:20260207T191500
 SUMMARY:🏀 U16 Boys: Malvern Piranhas vs Glen Iris Scorpions Spurs
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
  is Scorpions Spurs\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:67deb8d3-81e7-4d6a-9cb4-d72d9fec214c
+UID:4158a56f-51fd-4343-a767-f8e3a5390381
 SEQUENCE:0
-DTSTAMP:20260130T173056
+DTSTAMP:20260131T172055
 DTSTART:20260214T183000
 DTEND:20260214T191500
 SUMMARY:🏀 U16 Boys: Malvern Piranhas vs Malvern Tigers Orange
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
   Tigers Orange\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:42df1d43-f480-4f42-9d3d-a9e891cb8090
+UID:c3eead58-dab2-4ec1-97f7-9287a3960e12
 SEQUENCE:0
-DTSTAMP:20260130T173056
+DTSTAMP:20260131T172055
 DTSTART:20260221T191500
 DTEND:20260221T200000
 SUMMARY:🏀 U16 Boys: Malvern Piranhas vs Ashy Lightning Green
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Ashy Li
  ghtning Green\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e3e7ef17-6b38-44e9-9d61-305408c3d14f
+UID:48fe1dae-c36c-47cb-afb3-b65412a2003d
 SEQUENCE:0
-DTSTAMP:20260130T173056
+DTSTAMP:20260131T172055
 DTSTART:20260228T174500
 DTEND:20260228T183000
 SUMMARY:🏀 U16 Boys: Malvern Piranhas vs Timberwolves Blaze
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Blaze\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a302a36a-2c9a-460a-a2b2-dc45aa50b654
+UID:e64fc60b-ffb2-43d0-970f-96496cc5f12b
 SEQUENCE:0
-DTSTAMP:20260130T173056
+DTSTAMP:20260131T172055
 DTSTART:20260314T191500
 DTEND:20260314T200000
 SUMMARY:🏀 U16 Boys: Malvern Piranhas vs Solway Rangers
