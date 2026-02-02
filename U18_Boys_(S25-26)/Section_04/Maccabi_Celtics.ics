@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Celtics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c0e79e78-afd8-498f-b8ff-0fca8d716ec7
+UID:9c1a8c38-3347-475f-8df4-c2b56e1b9ba0
 SEQUENCE:0
-DTSTAMP:20260131T172115
-DTSTART:20260201T173000
-DTEND:20260201T181500
-SUMMARY:🏀 U18 Boys: Maccabi Celtics vs Malvern Tigers Red
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
- n Tigers Red\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:18fc801a-f826-4233-ac86-b815e48ce9ab
-SEQUENCE:0
-DTSTAMP:20260131T172115
+DTSTAMP:20260202T173540
 DTSTART:20260208T181500
 DTEND:20260208T190000
 SUMMARY:🏀 U18 Boys: Maccabi Celtics vs Spring Park Piranhas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Spring
   Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:13aaf867-f8e8-4615-a042-788a6d13a62d
+UID:9cf03e75-5828-4587-82b3-71de397bc4ea
 SEQUENCE:0
-DTSTAMP:20260131T172115
+DTSTAMP:20260202T173540
 DTSTART:20260215T181500
 DTEND:20260215T190000
 SUMMARY:🏀 U18 Boys: Maccabi Celtics vs Toorak Turbos
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
   Turbos\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:834a1da4-eecd-47c2-a57e-1040264d233f
+UID:808091c7-7722-417e-ae14-435da1bad3ce
 SEQUENCE:0
-DTSTAMP:20260131T172115
+DTSTAMP:20260202T173540
 DTSTART:20260222T173000
 DTEND:20260222T181500
 SUMMARY:🏀 U18 Boys: Maccabi Celtics vs Timberwolves Trailblazers
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
  wolves Trailblazers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:123be00b-061f-445f-8bb1-acae430a5e7d
+UID:b351cc89-63da-47a6-9630-e8d7498f525b
 SEQUENCE:0
-DTSTAMP:20260131T172115
+DTSTAMP:20260202T173540
 DTSTART:20260301T173000
 DTEND:20260301T181500
 SUMMARY:🏀 U18 Boys: Maccabi Celtics vs Timberwolves Knights
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Knights\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:99515b19-2c42-4829-bed8-cc3514308be5
+UID:3882551a-008b-419f-8cf6-d3c3812e0081
 SEQUENCE:0
-DTSTAMP:20260131T172115
+DTSTAMP:20260202T173540
 DTSTART:20260315T181500
 DTEND:20260315T190000
 SUMMARY:🏀 U18 Boys: Maccabi Celtics vs Solway Mambas

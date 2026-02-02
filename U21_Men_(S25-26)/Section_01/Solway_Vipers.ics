@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Vipers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:bf109048-4243-4582-a582-91a74d353b0a
+UID:ee0a3e8f-1e3d-4175-8ac9-da65d33a0962
 SEQUENCE:0
-DTSTAMP:20260131T172128
-DTSTART:20260201T190000
-DTEND:20260201T194500
-SUMMARY:🏀 U21 Men: Solway Vipers vs Malvern Tigers Black
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
- n Tigers Black\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:2a05e7e9-07cd-4bc2-976b-7850ee08b325
-SEQUENCE:0
-DTSTAMP:20260131T172128
+DTSTAMP:20260202T173554
 DTSTART:20260208T194500
 DTEND:20260208T203000
 SUMMARY:🏀 U21 Men: Solway Vipers vs Timberwolves Rizzly Bears
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Rizzly Bears\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:45e4b427-3178-46af-b37a-c9d22b7c0078
+UID:34158e1c-9250-4144-a3c2-a71b62fc80c7
 SEQUENCE:0
-DTSTAMP:20260131T172128
+DTSTAMP:20260202T173554
 DTSTART:20260215T194500
 DTEND:20260215T203000
 SUMMARY:🏀 U21 Men: Solway Vipers vs Glen Iris Scorpions Pandas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
  ris Scorpions Pandas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f75d57fc-c0c2-4d4e-9bb5-3dff61ba2b2c
+UID:721ecdb9-26ff-4d7d-bcac-21961af2c001
 SEQUENCE:0
-DTSTAMP:20260131T172128
+DTSTAMP:20260202T173554
 DTSTART:20260222T194500
 DTEND:20260222T203000
 SUMMARY:🏀 U21 Men: Solway Vipers vs Timberwolves Dingoes
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Dingoes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1e9fe97b-7ac6-49ee-a3d0-954827099a62
+UID:eabec26a-847a-4ad9-b327-03e000d896f7
 SEQUENCE:0
-DTSTAMP:20260131T172128
+DTSTAMP:20260202T173554
 DTSTART:20260301T190000
 DTEND:20260301T194500
 SUMMARY:🏀 U21 Men: Solway Vipers vs Solway Wizards
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
   Wizards\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:a5aef913-4846-461f-9c26-073a1f77cb04
+UID:6c289967-3bdc-4225-be6b-ac6b5058c2d0
 SEQUENCE:0
-DTSTAMP:20260131T172128
+DTSTAMP:20260202T173554
 DTSTART:20260315T194500
 DTEND:20260315T203000
 SUMMARY:🏀 U21 Men: Solway Vipers vs Ashy Lightning Gold

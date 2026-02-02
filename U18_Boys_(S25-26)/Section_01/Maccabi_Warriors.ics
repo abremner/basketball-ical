@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Warriors Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:ee5ab72a-b651-47f3-abcb-dc5f414a8cac
+UID:c19a8e69-11a3-4dce-a3c2-0f4e28946701
 SEQUENCE:0
-DTSTAMP:20260131T172107
-DTSTART:20260201T190000
-DTEND:20260201T194500
-SUMMARY:🏀 U18 Boys: Maccabi Warriors vs Timberwolves Lakers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
- wolves Lakers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:25ccf07d-fa78-432d-81b4-e5d51106fac4
-SEQUENCE:0
-DTSTAMP:20260131T172107
+DTSTAMP:20260202T173532
 DTSTART:20260208T190000
 DTEND:20260208T194500
 SUMMARY:🏀 U18 Boys: Maccabi Warriors vs Stanhope Piranhas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Stanho
  pe Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e29e48dd-bab9-492e-8d60-f05dd86a5c60
+UID:6757e5a1-f2b1-4edc-a18d-0c785f04d6ab
 SEQUENCE:0
-DTSTAMP:20260131T172107
+DTSTAMP:20260202T173532
 DTSTART:20260215T194500
 DTEND:20260215T203000
 SUMMARY:🏀 U18 Boys: Maccabi Warriors vs Hazelwood Park Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Hazelw
  ood Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c3d24adc-d486-4340-a4ac-d31f0a17559e
+UID:8824c1bc-2ec4-4ac6-9fb1-93be0ee41a01
 SEQUENCE:0
-DTSTAMP:20260131T172107
+DTSTAMP:20260202T173532
 DTSTART:20260222T173000
 DTEND:20260222T181500
 SUMMARY:🏀 U18 Boys: Maccabi Warriors vs Tooronga Piranhas
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Tooron
  ga Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:69aa02c1-a7df-40b4-ad61-c8f49390c3f4
+UID:83a53b41-2752-44a3-8df8-7eb9241b11a4
 SEQUENCE:0
-DTSTAMP:20260131T172107
+DTSTAMP:20260202T173532
 DTSTART:20260301T190000
 DTEND:20260301T194500
 SUMMARY:🏀 U18 Boys: Maccabi Warriors vs Malvern Tigers Black
@@ -61,9 +50,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Black\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:69cfb5d4-6190-475e-af0f-5130f366add7
+UID:f741e7b1-6705-47d2-abe2-3d843e40ee6b
 SEQUENCE:0
-DTSTAMP:20260131T172107
+DTSTAMP:20260202T173532
 DTSTART:20260315T173000
 DTEND:20260315T181500
 SUMMARY:🏀 U18 Boys: Maccabi Warriors vs Ashy Lightning Gold
