@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Haifa Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f0bc1602-a32c-46ed-af8b-7bc9de1467d8
+UID:b6d4e760-7de8-464c-aa58-d837db9506d0
 SEQUENCE:0
-DTSTAMP:20260206T173854
-DTSTART:20260207T183000
-DTEND:20260207T191500
-SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Toorak Trackers
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
- Trackers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5792a473-0c06-4c03-a848-64a9f4dee1af
-SEQUENCE:0
-DTSTAMP:20260206T173854
+DTSTAMP:20260207T172337
 DTSTART:20260214T183000
 DTEND:20260214T191500
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Glen Iris Scorpions Sixers
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Sixers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b0104f4d-90d1-4764-b84b-8f4d1919726b
+UID:5d9fb4f3-f0c3-4b92-a96f-dd44e0af27b2
 SEQUENCE:0
-DTSTAMP:20260206T173854
+DTSTAMP:20260207T172337
 DTSTART:20260221T191500
 DTEND:20260221T200000
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Malvern Tigers White
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c9924542-d3ec-43d4-801a-3e34c95383a9
+UID:6c7062a1-d041-4122-9ef8-171ef0670a4c
 SEQUENCE:0
-DTSTAMP:20260206T173854
+DTSTAMP:20260207T172337
 DTSTART:20260228T191500
 DTEND:20260228T200000
 SUMMARY:🏀 U16 Boys: Maccabi Haifa vs AlphaWolf Tornados

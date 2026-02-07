@@ -6,20 +6,9 @@ X-WR-CALNAME:Comets Snake Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:f2fe9176-a8cd-4a2a-bf52-badb5f0a04d0
+UID:d815998d-bda0-4513-b18e-44cec8542c75
 SEQUENCE:0
-DTSTAMP:20260206T173640
-DTSTART:20260207T080000
-DTEND:20260207T084500
-SUMMARY:🏀 U10 Boys: Comets Snake vs Solway Thunder
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
-  Thunder\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:23982126-1d76-4bc6-a25f-95346f47a513
-SEQUENCE:0
-DTSTAMP:20260206T173640
+DTSTAMP:20260207T172054
 DTSTART:20260214T080000
 DTEND:20260214T084500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Timberwolves Lightning
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
  wolves Lightning\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3e4c65c3-81ce-4fc7-a351-ec72f35dbd0d
+UID:072f03fc-1d06-4152-ab76-a112854c7768
 SEQUENCE:0
-DTSTAMP:20260206T173640
+DTSTAMP:20260207T172054
 DTSTART:20260221T084500
 DTEND:20260221T093000
 SUMMARY:🏀 U10 Boys: Comets Snake vs Glen Iris Scorpions Gardiner
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:36fcbf2c-146a-459a-b058-3ec6004fb44f
+UID:fd653d46-f6e0-4641-908c-5eab3ff17ed6
 SEQUENCE:0
-DTSTAMP:20260206T173640
+DTSTAMP:20260207T172054
 DTSTART:20260228T093000
 DTEND:20260228T101500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Solway Bucks
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:03e05a7f-f6f8-44f4-b557-ce8c01408e71
+UID:07f11b02-da63-4182-a1bd-7bc9108ddcac
 SEQUENCE:0
-DTSTAMP:20260206T173640
+DTSTAMP:20260207T172054
 DTSTART:20260314T080000
 DTEND:20260314T084500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Solway Grizzlies

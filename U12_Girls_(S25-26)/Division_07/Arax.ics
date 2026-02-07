@@ -6,20 +6,9 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:bf1aafb7-cd93-41cc-8722-df256aa50d4b
+UID:e017185d-3c68-4785-9c55-6e11801221fb
 SEQUENCE:0
-DTSTAMP:20260206T173759
-DTSTART:20260207T131500
-DTEND:20260207T140000
-SUMMARY:🏀 U12 Girls: Arax vs Ashy Lightning Yellow
-LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
-DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
- ing Yellow\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:dbae485a-9a7e-4206-a502-d778247f113f
-SEQUENCE:0
-DTSTAMP:20260206T173759
+DTSTAMP:20260207T172230
 DTSTART:20260214T131500
 DTEND:20260214T140000
 SUMMARY:🏀 U12 Girls: Arax vs Lauriston Suns
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Lauris
  ton Suns\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:729bf0aa-b979-40c7-8854-d12a086ef4df
+UID:dc425b29-da6a-4ced-95ee-7ff86ff3077c
 SEQUENCE:0
-DTSTAMP:20260206T173759
+DTSTAMP:20260207T172230
 DTSTART:20260221T131500
 DTEND:20260221T140000
 SUMMARY:🏀 U12 Girls: Arax vs Ashy Lightning White
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
  ightning White\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b8376213-1d77-4477-b06d-7d496f949761
+UID:643fef0c-ceae-4bbd-a4f6-5a75be6ed77d
 SEQUENCE:0
-DTSTAMP:20260206T173759
+DTSTAMP:20260207T172230
 DTSTART:20260228T131500
 DTEND:20260228T140000
 SUMMARY:🏀 U12 Girls: Arax vs Timberwolves Hurricanes
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
  wolves Hurricanes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:105179f5-e154-4b33-8de0-1cbe4a9170f0
+UID:d00a3bc3-113b-4376-8a32-9d1b850b0c0c
 SEQUENCE:0
-DTSTAMP:20260206T173759
+DTSTAMP:20260207T172230
 DTSTART:20260314T131500
 DTEND:20260314T140000
 SUMMARY:🏀 U12 Girls: Arax vs Maccabi Giants

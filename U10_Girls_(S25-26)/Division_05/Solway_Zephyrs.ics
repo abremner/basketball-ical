@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Zephyrs Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:1fd4d6b4-2f22-4408-a381-3d2074c75a58
+UID:f4deaee8-d28e-4179-92a0-9a2d1603ba81
 SEQUENCE:0
-DTSTAMP:20260206T173708
-DTSTART:20260207T114500
-DTEND:20260207T123000
-SUMMARY:🏀 U10 Girls: Solway Zephyrs vs Maccabi Celtics
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
-  Celtics\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:f1856511-d75a-4d3b-bce3-a024ec736647
-SEQUENCE:0
-DTSTAMP:20260206T173708
+DTSTAMP:20260207T172128
 DTSTART:20260214T114500
 DTEND:20260214T123000
 SUMMARY:🏀 U10 Girls: Solway Zephyrs vs Timberwolves Hornets
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
  olves Hornets\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fe077b4a-255e-4325-add1-100dff22ed24
+UID:bfc51b29-6b16-48b5-ae6c-ce458f4a6403
 SEQUENCE:0
-DTSTAMP:20260206T173708
+DTSTAMP:20260207T172128
 DTSTART:20260221T080000
 DTEND:20260221T084500
 SUMMARY:🏀 U10 Girls: Solway Zephyrs vs Arax
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Arax\n
  Arrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b8200d1f-b175-427d-8da5-e485ab92458e
+UID:3c8beb1b-faca-422b-9eaf-9479cead6159
 SEQUENCE:0
-DTSTAMP:20260206T173708
+DTSTAMP:20260207T172128
 DTSTART:20260228T093000
 DTEND:20260228T101500
 SUMMARY:🏀 U10 Girls: Solway Zephyrs vs Malvern Tigers Lavey
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
  n Tigers Lavey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ad1cd627-3ebb-4e8a-abfc-cf4d1e869599
+UID:f8e37840-71b8-4fe0-8326-08dc19707205
 SEQUENCE:0
-DTSTAMP:20260206T173708
+DTSTAMP:20260207T172128
 DTSTART:20260314T110000
 DTEND:20260314T114500
 SUMMARY:🏀 U10 Girls: Solway Zephyrs vs Como Park Piranhas

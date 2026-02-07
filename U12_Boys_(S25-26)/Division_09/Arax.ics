@@ -6,20 +6,9 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b8710a47-68eb-4fe7-96e0-1e3e1f69fc16
+UID:870a4048-1747-419b-aab5-440af5f800cf
 SEQUENCE:0
-DTSTAMP:20260206T173737
-DTSTART:20260207T131500
-DTEND:20260207T140000
-SUMMARY:🏀 U12 Boys: Arax vs Toorak Thunder
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
-  Thunder\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:3e1c7485-6ece-4759-a0db-401fb6d43c37
-SEQUENCE:0
-DTSTAMP:20260206T173737
+DTSTAMP:20260207T172202
 DTSTART:20260214T131500
 DTEND:20260214T140000
 SUMMARY:🏀 U12 Boys: Arax vs Malvern Tigers Grey
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Grey\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:02230f52-1304-41fe-9d12-af248baea65d
+UID:b6a32d63-3715-4bb8-82ab-46536cd2201e
 SEQUENCE:0
-DTSTAMP:20260206T173737
+DTSTAMP:20260207T172202
 DTSTART:20260221T131500
 DTEND:20260221T140000
 SUMMARY:🏀 U12 Boys: Arax vs Stonnington Piranhas
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Stonni
  ngton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:9c8b6a8f-eb8c-40b2-b8a5-eeca0b477474
+UID:faf34f36-a2e5-41bb-86ed-84f5050da062
 SEQUENCE:0
-DTSTAMP:20260206T173737
+DTSTAMP:20260207T172202
 DTSTART:20260228T131500
 DTEND:20260228T140000
 SUMMARY:🏀 U12 Boys: Arax vs Malvern Tigers Amber
@@ -50,9 +39,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Amber\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7a0ccedb-6d6a-4de3-ba38-3b3add014f90
+UID:52c59636-923e-487b-8858-2e72d4ec23ea
 SEQUENCE:0
-DTSTAMP:20260206T173737
+DTSTAMP:20260207T172202
 DTSTART:20260314T131500
 DTEND:20260314T140000
 SUMMARY:🏀 U12 Boys: Arax vs Maccabi Mavericks
