@@ -6,58 +6,58 @@ X-WR-CALNAME:AlphaWolf Titans Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:4145e625-05a2-4c41-93a8-5e70e5237761
+UID:1b26947a-690a-4305-82bd-f5332e8c6a57
 SEQUENCE:0
-DTSTAMP:20260209T174406
-DTSTART:20260214T101500
-DTEND:20260214T110000
-SUMMARY:🏀 U08 Boys: AlphaWolf Titans vs Golden Hawks Sky
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Golden 
- Hawks Sky\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:72fc7856-c609-4ded-90ab-45c923ef35cf
-SEQUENCE:0
-DTSTAMP:20260209T174406
-DTSTART:20260221T084500
-DTEND:20260221T093000
+DTSTAMP:20260210T175516
+DTSTART:20260214T084500
+DTEND:20260214T093000
 SUMMARY:🏀 U08 Boys: AlphaWolf Titans vs Malvern Tigers Ingles
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
   Tigers Ingles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d4e6d9e2-6f85-4ff3-8b08-c80eca14b4c3
+UID:6e1f7c19-9b2b-4be6-8d15-963e7879bde6
 SEQUENCE:0
-DTSTAMP:20260209T174406
-DTSTART:20260228T080000
-DTEND:20260228T084500
-SUMMARY:🏀 U08 Boys: AlphaWolf Titans vs Malvern Tigers Bogut
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
-  Tigers Bogut\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5cb1b25c-abf6-4ee2-adeb-4959b93c7cdc
-SEQUENCE:0
-DTSTAMP:20260209T174406
-DTSTART:20260314T080000
-DTEND:20260314T084500
+DTSTAMP:20260210T175516
+DTSTART:20260221T084500
+DTEND:20260221T093000
 SUMMARY:🏀 U08 Boys: AlphaWolf Titans vs Maccabi Bucks
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:62ad5c1b-40e4-4cfd-9443-03a5b15c6308
+UID:d4d33715-4f8a-494f-ac7c-a52b07ebd360
 SEQUENCE:0
-DTSTAMP:20260209T174406
-DTSTART:20260321T085000
-DTEND:20260321T093500
-SUMMARY:🏀 U08 Boys: AlphaWolf Titans vs Malvern Tigers Dellavedova
+DTSTAMP:20260210T175516
+DTSTART:20260228T080000
+DTEND:20260228T084500
+SUMMARY:🏀 U08 Boys: AlphaWolf Titans vs Golden Hawks Sky
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Golden 
+ Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ccffd681-d784-4316-ae83-3a52413e282d
+SEQUENCE:0
+DTSTAMP:20260210T175516
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U08 Boys: AlphaWolf Titans vs Malvern Tigers Bogut
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
-  Tigers Dellavedova\nArrive 15 mins early for warm-up
+  Tigers Bogut\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1779f5e2-9236-424d-ac32-163a702f99c2
+SEQUENCE:0
+DTSTAMP:20260210T175516
+DTSTART:20260321T080000
+DTEND:20260321T084500
+SUMMARY:🏀 U08 Boys: AlphaWolf Titans vs Packer Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Packer 
+ Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

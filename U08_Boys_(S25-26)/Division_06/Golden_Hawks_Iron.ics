@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Golden Hawks Iron Fixtures
+X-WR-CALNAME:Golden Hawks Iron Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d082cc18-15dd-4a06-a6d5-569688c12f2e
+SEQUENCE:0
+DTSTAMP:20260210T175523
+DTSTART:20260214T080000
+DTEND:20260214T084500
+SUMMARY:🏀 U08 Boys: Golden Hawks Iron vs Wattletree Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Wattlet
+ ree Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0e111e8c-995b-4684-9ac4-3535ea000f25
+SEQUENCE:0
+DTSTAMP:20260210T175523
+DTSTART:20260221T114500
+DTEND:20260221T123000
+SUMMARY:🏀 U08 Boys: Golden Hawks Iron vs Nettleton Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Nettlet
+ on Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c769b3ff-2065-446a-9d99-90ef47a84050
+SEQUENCE:0
+DTSTAMP:20260210T175523
+DTSTART:20260228T114500
+DTEND:20260228T123000
+SUMMARY:🏀 U08 Boys: Golden Hawks Iron vs Solway Broncos
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Broncos\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:aeae5b2b-4d88-492f-a5ce-a68e0aef5d67
+SEQUENCE:0
+DTSTAMP:20260210T175523
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U08 Boys: Golden Hawks Iron vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bf05261e-9b72-4218-89c3-6fcf3ee1dbbb
+SEQUENCE:0
+DTSTAMP:20260210T175523
+DTSTART:20260321T080000
+DTEND:20260321T084500
+SUMMARY:🏀 U08 Boys: Golden Hawks Iron vs Malvern Tigers Gaze
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Gaze\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

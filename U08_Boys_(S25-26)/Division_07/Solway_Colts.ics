@@ -6,47 +6,47 @@ X-WR-CALNAME:Solway Colts Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:7bd17970-4e4c-4187-a409-0340b3f70436
+UID:735e9f0c-397a-45c7-9056-86740a0f5de8
 SEQUENCE:0
-DTSTAMP:20260209T174418
+DTSTAMP:20260210T175529
 DTSTART:20260214T093000
 DTEND:20260214T101500
+SUMMARY:🏀 U08 Boys: Solway Colts vs Malvern Tigers Dellavedova
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Dellavedova\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:3c8878f1-927c-4f4a-adf8-02913e1a40c5
+SEQUENCE:0
+DTSTAMP:20260210T175529
+DTSTART:20260221T093000
+DTEND:20260221T101500
 SUMMARY:🏀 U08 Boys: Solway Colts vs Glen Iris Scorpions Raven
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
  is Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:22e7fd6d-c55c-4558-aaaf-313f416f49c1
+UID:252420ef-f580-443e-af56-9952b37f2e98
 SEQUENCE:0
-DTSTAMP:20260209T174418
-DTSTART:20260221T080000
-DTEND:20260221T084500
-SUMMARY:🏀 U08 Boys: Solway Colts vs Arax
+DTSTAMP:20260210T175529
+DTSTART:20260228T101500
+DTEND:20260228T110000
+SUMMARY:🏀 U08 Boys: Solway Colts vs Glen Iris Scorpions Nettleton
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Arax\nA
- rrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
+ is Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ceced3be-b64c-41d6-82cd-acc009106b81
+UID:d53c2d53-9be1-4a36-b4a4-7a40d1ddf810
 SEQUENCE:0
-DTSTAMP:20260209T174418
-DTSTART:20260228T084500
-DTEND:20260228T093000
+DTSTAMP:20260210T175529
+DTSTART:20260314T084500
+DTEND:20260314T093000
 SUMMARY:🏀 U08 Boys: Solway Colts vs Solway Hunters
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
  Hunters\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:a5d64781-6e30-4fdc-890e-114f494ecb03
-SEQUENCE:0
-DTSTAMP:20260209T174418
-DTSTART:20260314T093000
-DTEND:20260314T101500
-SUMMARY:🏀 U08 Boys: Solway Colts vs Glen Iris Scorpions Nettleton
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
- is Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

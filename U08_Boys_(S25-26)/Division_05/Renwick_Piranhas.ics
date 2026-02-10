@@ -6,58 +6,47 @@ X-WR-CALNAME:Renwick Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:34149c2d-2f74-432e-80a4-fdc6fc07a388
+UID:7722f72d-bb53-4586-b797-e2ee24b89220
 SEQUENCE:0
-DTSTAMP:20260209T174412
+DTSTAMP:20260210T175521
 DTSTART:20260214T093000
 DTEND:20260214T101500
-SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Maccabi Celtics
+SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Glen Iris Scorpions Gardiner
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
-  Celtics\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Glen Ir
+ is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:fefc7fb4-356c-4dcb-a187-f02e23aa8ba6
+UID:bb7a2db9-a300-48c1-bb91-4e5fcc78407d
 SEQUENCE:0
-DTSTAMP:20260209T174412
-DTSTART:20260221T084500
-DTEND:20260221T093000
+DTSTAMP:20260210T175521
+DTSTART:20260221T110000
+DTEND:20260221T114500
+SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Timberwolves Pythons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Pythons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:daa42a29-c8ba-4fb8-a0f1-2cf8686d7747
+SEQUENCE:0
+DTSTAMP:20260210T175521
+DTSTART:20260228T110000
+DTEND:20260228T114500
+SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Dorrington Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Dorring
+ ton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bef40311-5a16-48af-8d2b-4ba23eee057f
+SEQUENCE:0
+DTSTAMP:20260210T175521
+DTSTART:20260321T085000
+DTEND:20260321T093500
 SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Solway Chargers
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
  Chargers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:48cc0eb7-f2d8-4053-aca1-17015ccb5c2a
-SEQUENCE:0
-DTSTAMP:20260209T174412
-DTSTART:20260228T101500
-DTEND:20260228T110000
-SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Malvern Tigers Gaze
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
-  Tigers Gaze\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:ad41aa02-5d91-4766-899e-97d80f1405ab
-SEQUENCE:0
-DTSTAMP:20260209T174412
-DTSTART:20260314T110000
-DTEND:20260314T114500
-SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Glen Iris Scorpions Gardiner
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
- is Scorpions Gardiner\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:9162f6ab-acea-4a36-a58e-14ca888c677c
-SEQUENCE:0
-DTSTAMP:20260209T174412
-DTSTART:20260321T085000
-DTEND:20260321T093500
-SUMMARY:🏀 U08 Boys: Renwick Piranhas vs Dorrington Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Dorring
- ton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

@@ -6,58 +6,47 @@ X-WR-CALNAME:Wattletree Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:58cb5f0b-5c23-4d2e-b95d-c042a51c253a
+UID:7feb4f98-704c-4ff3-9773-d12a487ce411
 SEQUENCE:0
-DTSTAMP:20260209T174416
-DTSTART:20260214T101500
-DTEND:20260214T110000
-SUMMARY:🏀 U08 Boys: Wattletree Piranhas vs Maccabi Eagles
+DTSTAMP:20260210T175525
+DTSTART:20260214T080000
+DTEND:20260214T084500
+SUMMARY:🏀 U08 Boys: Wattletree Piranhas vs Golden Hawks Iron
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
-  Eagles\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Golden 
+ Hawks Iron\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4c506837-e493-4b7c-b02e-06b190e8b3ea
+UID:aa3c6f6c-8e24-4eff-bcb0-d5eeee32994e
 SEQUENCE:0
-DTSTAMP:20260209T174416
-DTSTART:20260221T080000
-DTEND:20260221T084500
-SUMMARY:🏀 U08 Boys: Wattletree Piranhas vs Malvern Tigers Landale
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
-  Tigers Landale\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:5a234b7a-bcc7-45d0-a998-f6c2fa440bac
-SEQUENCE:0
-DTSTAMP:20260209T174416
-DTSTART:20260228T080000
-DTEND:20260228T084500
+DTSTAMP:20260210T175525
+DTSTART:20260221T110000
+DTEND:20260221T114500
 SUMMARY:🏀 U08 Boys: Wattletree Piranhas vs Maccabi Ducks
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:624bf67c-39c2-4d4b-b20b-8342e131db7d
+UID:a8feee5f-9f7a-42fd-9733-3f76921a0642
 SEQUENCE:0
-DTSTAMP:20260209T174416
-DTSTART:20260314T080000
-DTEND:20260314T084500
+DTSTAMP:20260210T175525
+DTSTART:20260314T110000
+DTEND:20260314T114500
+SUMMARY:🏀 U08 Boys: Wattletree Piranhas vs Kooyong Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Kooyong
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:0958fe55-7e82-4dfb-92a0-23d5b7ba8739
+SEQUENCE:0
+DTSTAMP:20260210T175525
+DTSTART:20260321T103000
+DTEND:20260321T111500
 SUMMARY:🏀 U08 Boys: Wattletree Piranhas vs Nettleton Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Nettlet
  on Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:ed5c5ea8-9a40-4596-850a-86a3dd927067
-SEQUENCE:0
-DTSTAMP:20260209T174416
-DTSTART:20260321T080000
-DTEND:20260321T084500
-SUMMARY:🏀 U08 Boys: Wattletree Piranhas vs Kooyong Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Kooyong
-  Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

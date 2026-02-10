@@ -6,47 +6,58 @@ X-WR-CALNAME:Maccabi Bucks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b3aab252-ba34-4e2a-92d7-fc9e5d4b9275
+UID:d4a7d37a-06fc-4bfd-9bae-9ff38f3cd83f
 SEQUENCE:0
-DTSTAMP:20260209T174407
-DTSTART:20260214T084500
-DTEND:20260214T093000
-SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Malvern Tigers Dellavedova
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
-  Tigers Dellavedova\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:f8c0b4fa-cec5-41b1-9ae0-f706ef081bf8
-SEQUENCE:0
-DTSTAMP:20260209T174407
-DTSTART:20260228T084500
-DTEND:20260228T093000
+DTSTAMP:20260210T175517
+DTSTART:20260214T080000
+DTEND:20260214T084500
 SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Golden Hawks Sky
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Golden 
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Golden 
  Hawks Sky\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b6e7923e-72d8-439a-9311-6490446a6d8f
+UID:24bb6d2d-53de-435f-854c-27a591ee07e5
 SEQUENCE:0
-DTSTAMP:20260209T174407
-DTSTART:20260314T080000
-DTEND:20260314T084500
+DTSTAMP:20260210T175517
+DTSTART:20260221T084500
+DTEND:20260221T093000
 SUMMARY:🏀 U08 Boys: Maccabi Bucks vs AlphaWolf Titans
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: AlphaWo
  lf Titans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:525a21f7-165b-4512-be82-822561e94a8a
+UID:2dd55adf-9cd7-4ff0-9920-ac9e0bd36bcd
 SEQUENCE:0
-DTSTAMP:20260209T174407
-DTSTART:20260321T103000
-DTEND:20260321T111500
+DTSTAMP:20260210T175517
+DTSTART:20260228T101500
+DTEND:20260228T110000
+SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Malvern Tigers Bogut
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Bogut\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:58022387-54cd-4189-9e00-4b476fc846e2
+SEQUENCE:0
+DTSTAMP:20260210T175517
+DTSTART:20260314T084500
+DTEND:20260314T093000
 SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Packer Park Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Packer 
  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8147316c-3e38-496d-b0c1-8fcd4739bd74
+SEQUENCE:0
+DTSTAMP:20260210T175517
+DTSTART:20260321T103000
+DTEND:20260321T111500
+SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Malvern Tigers Ingles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Ingles\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

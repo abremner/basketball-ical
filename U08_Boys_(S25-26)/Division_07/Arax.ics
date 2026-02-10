@@ -6,47 +6,47 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:3a0374ad-1316-4c62-8527-aabb3325633d
+UID:0b773a42-bb6e-4349-a75b-6fceefa376f4
 SEQUENCE:0
-DTSTAMP:20260209T174417
+DTSTAMP:20260210T175526
 DTSTART:20260214T080000
 DTEND:20260214T084500
-SUMMARY:🏀 U08 Boys: Arax vs Solway Pacers
+SUMMARY:🏀 U08 Boys: Arax vs Clyde Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
- Pacers\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Clyde P
+ iranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:f6871ae2-4558-40fc-a097-8672db35aa53
+UID:532f7d5b-41f6-4072-9b10-fe4af606e45d
 SEQUENCE:0
-DTSTAMP:20260209T174417
-DTSTART:20260221T080000
-DTEND:20260221T084500
-SUMMARY:🏀 U08 Boys: Arax vs Solway Colts
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
- Colts\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:8a465fe0-5e4c-4d74-a94d-881b36d8bfff
-SEQUENCE:0
-DTSTAMP:20260209T174417
-DTSTART:20260314T080000
-DTEND:20260314T084500
+DTSTAMP:20260210T175526
+DTSTART:20260228T080000
+DTEND:20260228T084500
 SUMMARY:🏀 U08 Boys: Arax vs Solway Hunters
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
  Hunters\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:8cac888b-fced-4540-ba42-eb8ddfbac78b
+UID:fbe478ba-b6b1-4271-b246-1aabc16ce3df
 SEQUENCE:0
-DTSTAMP:20260209T174417
+DTSTAMP:20260210T175526
+DTSTART:20260314T080000
+DTEND:20260314T084500
+SUMMARY:🏀 U08 Boys: Arax vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cdbde00a-0f6e-4436-874a-3b874f905e6f
+SEQUENCE:0
+DTSTAMP:20260210T175526
 DTSTART:20260321T080000
 DTEND:20260321T084500
-SUMMARY:🏀 U08 Boys: Arax vs Clyde Piranhas
+SUMMARY:🏀 U08 Boys: Arax vs Solway Pacers
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Clyde P
- iranhas\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Pacers\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

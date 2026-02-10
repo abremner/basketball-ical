@@ -6,58 +6,47 @@ X-WR-CALNAME:Glen Iris Scorpions Gardiner Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:d49d644c-e149-4a18-8600-d5be8f30d716
+UID:4f14cf3a-9f0f-4595-8076-c64e6df7b058
 SEQUENCE:0
-DTSTAMP:20260209T174410
-DTSTART:20260214T084500
-DTEND:20260214T093000
+DTSTAMP:20260210T175519
+DTSTART:20260214T093000
+DTEND:20260214T101500
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Renwick Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Renwick
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e02c4522-60b4-4bfa-91d5-5596b1133bd1
+SEQUENCE:0
+DTSTAMP:20260210T175519
+DTSTART:20260221T084500
+DTEND:20260221T093000
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Dorrington Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Dorring
  ton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:942319ff-84ac-4cb8-b48a-0fc20450a799
+UID:682e14f4-5279-4666-a50c-19d320acb84e
 SEQUENCE:0
-DTSTAMP:20260209T174410
-DTSTART:20260221T101500
-DTEND:20260221T110000
-SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Golden Hawks Iron
+DTSTAMP:20260210T175519
+DTSTART:20260228T093000
+DTEND:20260228T101500
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Solway Chargers
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Golden 
- Hawks Iron\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Chargers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cd2b08a1-2cf8-4dbf-a0af-4eacc2f611ae
+UID:4b3bb232-9a31-4895-8ec0-73da35503e69
 SEQUENCE:0
-DTSTAMP:20260209T174410
-DTSTART:20260228T084500
-DTEND:20260228T093000
+DTSTAMP:20260210T175519
+DTSTART:20260314T084500
+DTEND:20260314T093000
 SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Maccabi Celtics
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
   Celtics\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:6c16d91a-70fa-4aae-af0d-8b6a584cefc8
-SEQUENCE:0
-DTSTAMP:20260209T174410
-DTSTART:20260314T110000
-DTEND:20260314T114500
-SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Renwick Piranhas
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Renwick
-  Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:a4d9ba0d-5eaf-49a7-ada2-9ec80732bb19
-SEQUENCE:0
-DTSTAMP:20260209T174410
-DTSTART:20260321T094000
-DTEND:20260321T102500
-SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Gardiner vs Malvern Tigers Gaze
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
-  Tigers Gaze\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

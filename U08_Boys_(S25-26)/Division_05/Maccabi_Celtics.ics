@@ -6,58 +6,58 @@ X-WR-CALNAME:Maccabi Celtics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b4926fec-c192-4cb7-ae62-b0f519826dca
+UID:93db3605-e701-432e-83b9-917cb0c169d9
 SEQUENCE:0
-DTSTAMP:20260209T174411
-DTSTART:20260214T093000
-DTEND:20260214T101500
-SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Renwick Piranhas
+DTSTAMP:20260210T175520
+DTSTART:20260214T110000
+DTEND:20260214T114500
+SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Solway Chargers
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Renwick
-  Piranhas\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Chargers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:b1c6c47b-e94f-4068-8931-18f88485e479
+UID:56f17ad1-c735-4eb5-aeda-b46369bc3b3a
 SEQUENCE:0
-DTSTAMP:20260209T174411
-DTSTART:20260221T110000
-DTEND:20260221T114500
-SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Malvern Tigers Gaze
+DTSTAMP:20260210T175520
+DTSTART:20260221T093000
+DTEND:20260221T101500
+SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Malvern Tigers Baynes
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
-  Tigers Gaze\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Baynes\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:86110b38-c54a-484e-9838-fbe203e1a0ad
+UID:d062dd25-ca43-403f-8300-99d11e78e411
 SEQUENCE:0
-DTSTAMP:20260209T174411
+DTSTAMP:20260210T175520
 DTSTART:20260228T084500
 DTEND:20260228T093000
+SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Timberwolves Pythons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Pythons\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f67d3298-48ae-4988-b3e7-e7e7e85b7551
+SEQUENCE:0
+DTSTAMP:20260210T175520
+DTSTART:20260314T084500
+DTEND:20260314T093000
 SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Glen Iris Scorpions Gardiner
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
  is Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:67316a4a-faa7-4131-b5c3-7ed3669d435e
+UID:b9250b3e-bd93-4eac-b35b-d8ebd7579c17
 SEQUENCE:0
-DTSTAMP:20260209T174411
-DTSTART:20260314T101500
-DTEND:20260314T110000
-SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Solway Chargers
+DTSTAMP:20260210T175520
+DTSTART:20260321T112000
+DTEND:20260321T120500
+SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Dorrington Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
- Chargers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:2a7288cb-440c-4b41-9820-18ae6a4206c4
-SEQUENCE:0
-DTSTAMP:20260209T174411
-DTSTART:20260321T103000
-DTEND:20260321T111500
-SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Malvern Tigers Baynes
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
-  Tigers Baynes\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Dorring
+ ton Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

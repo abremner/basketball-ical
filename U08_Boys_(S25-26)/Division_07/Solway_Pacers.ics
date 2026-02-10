@@ -6,47 +6,47 @@ X-WR-CALNAME:Solway Pacers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:677fef3f-4641-40ad-872d-d559583281f8
+UID:fec03d03-bf09-4d98-bef6-730e15863292
 SEQUENCE:0
-DTSTAMP:20260209T174419
-DTSTART:20260214T080000
-DTEND:20260214T084500
-SUMMARY:🏀 U08 Boys: Solway Pacers vs Arax
+DTSTAMP:20260210T175529
+DTSTART:20260221T101500
+DTEND:20260221T110000
+SUMMARY:🏀 U08 Boys: Solway Pacers vs Maccabi Eagles
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Arax\nA
- rrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:586d312c-aded-4163-8348-0cb42d48a650
+UID:19d24611-9055-4016-a712-6216c84998e6
 SEQUENCE:0
-DTSTAMP:20260209T174419
-DTSTART:20260228T080000
-DTEND:20260228T084500
-SUMMARY:🏀 U08 Boys: Solway Pacers vs Glen Iris Scorpions Raven
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
- is Scorpions Raven\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:ee919f6a-97ab-47f7-bfe7-a63a2cd7d17e
-SEQUENCE:0
-DTSTAMP:20260209T174419
-DTSTART:20260314T084500
-DTEND:20260314T093000
+DTSTAMP:20260210T175529
+DTSTART:20260228T084500
+DTEND:20260228T093000
 SUMMARY:🏀 U08 Boys: Solway Pacers vs Clyde Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Clyde P
  iranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ce51b42b-ee1e-474d-9494-6e44372539bb
+UID:bf06e27b-ad3b-4b0d-876a-4ee8ee30b4b5
 SEQUENCE:0
-DTSTAMP:20260209T174419
-DTSTART:20260321T094000
-DTEND:20260321T102500
+DTSTAMP:20260210T175529
+DTSTART:20260314T101500
+DTEND:20260314T110000
 SUMMARY:🏀 U08 Boys: Solway Pacers vs Glen Iris Scorpions Nettleton
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7d903e8b-1a3b-4f52-8055-3e83d4797952
+SEQUENCE:0
+DTSTAMP:20260210T175529
+DTSTART:20260321T080000
+DTEND:20260321T084500
+SUMMARY:🏀 U08 Boys: Solway Pacers vs Arax
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Arax\nA
+ rrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

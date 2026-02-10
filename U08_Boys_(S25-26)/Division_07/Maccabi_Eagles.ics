@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Eagles Fixtures
+X-WR-CALNAME:Maccabi Eagles Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8006a96e-b512-4c4f-8d0a-f3c6ac847ec2
+SEQUENCE:0
+DTSTAMP:20260210T175528
+DTSTART:20260214T101500
+DTEND:20260214T110000
+SUMMARY:🏀 U08 Boys: Maccabi Eagles vs Solway Hunters
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Hunters\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f4ad20e1-f50f-4a5e-8f06-097c9adde711
+SEQUENCE:0
+DTSTAMP:20260210T175528
+DTSTART:20260221T101500
+DTEND:20260221T110000
+SUMMARY:🏀 U08 Boys: Maccabi Eagles vs Solway Pacers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Pacers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:55a83498-373d-459b-83d9-754e45b7f4b8
+SEQUENCE:0
+DTSTAMP:20260210T175528
+DTSTART:20260228T093000
+DTEND:20260228T101500
+SUMMARY:🏀 U08 Boys: Maccabi Eagles vs Glen Iris Scorpions Raven
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
+ is Scorpions Raven\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8cc5a862-cbbd-4808-983f-865943a7061d
+SEQUENCE:0
+DTSTAMP:20260210T175528
+DTSTART:20260314T080000
+DTEND:20260314T084500
+SUMMARY:🏀 U08 Boys: Maccabi Eagles vs Arax
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Arax\nA
+ rrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:65a7f9d7-6d9e-4508-86f1-cbc645654ee3
+SEQUENCE:0
+DTSTAMP:20260210T175528
+DTSTART:20260321T101500
+DTEND:20260321T110000
+SUMMARY:🏀 U08 Boys: Maccabi Eagles vs Clyde Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Clyde P
+ iranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -6,58 +6,47 @@ X-WR-CALNAME:Ferndale Park Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:6fbc6910-37dd-4789-b1cb-48e7bb393a1c
+UID:7af7b1ca-2372-4f76-9fa8-b955634458d9
 SEQUENCE:0
-DTSTAMP:20260209T174413
-DTSTART:20260214T110000
-DTEND:20260214T114500
-SUMMARY:🏀 U08 Boys: Ferndale Park Piranhas vs Malvern Tigers Landale
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
-  Tigers Landale\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:14837012-9dbb-430c-9ab9-dd627ef485c9
-SEQUENCE:0
-DTSTAMP:20260209T174413
-DTSTART:20260221T114500
-DTEND:20260221T123000
+DTSTAMP:20260210T175522
+DTSTART:20260214T114500
+DTEND:20260214T123000
 SUMMARY:🏀 U08 Boys: Ferndale Park Piranhas vs Maccabi Ducks
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
   Ducks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3a5cdf17-c0bd-41d3-8362-ffd63e09f2f8
+UID:ef203293-224b-4e57-99b5-914723816dd8
 SEQUENCE:0
-DTSTAMP:20260209T174413
-DTSTART:20260228T110000
-DTEND:20260228T114500
-SUMMARY:🏀 U08 Boys: Ferndale Park Piranhas vs Maccabi Eagles
+DTSTAMP:20260210T175522
+DTSTART:20260221T080000
+DTEND:20260221T084500
+SUMMARY:🏀 U08 Boys: Ferndale Park Piranhas vs Malvern Tigers Landale
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
-  Eagles\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Landale\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e521c56f-9481-438b-ae96-d25293df6918
+UID:6e9ffd50-e2f3-4338-b125-bc00c619ddd5
 SEQUENCE:0
-DTSTAMP:20260209T174413
-DTSTART:20260314T101500
-DTEND:20260314T110000
-SUMMARY:🏀 U08 Boys: Ferndale Park Piranhas vs Solway Broncos
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
- Broncos\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:b646db16-b4b7-4310-bf2b-2b745743281e
-SEQUENCE:0
-DTSTAMP:20260209T174413
-DTSTART:20260321T103000
-DTEND:20260321T111500
+DTSTAMP:20260210T175522
+DTSTART:20260228T101500
+DTEND:20260228T110000
 SUMMARY:🏀 U08 Boys: Ferndale Park Piranhas vs Nettleton Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Nettlet
  on Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c76e2941-4008-43a0-b7ff-6f6ef69c4b6d
+SEQUENCE:0
+DTSTAMP:20260210T175522
+DTSTART:20260314T114500
+DTEND:20260314T123000
+SUMMARY:🏀 U08 Boys: Ferndale Park Piranhas vs Solway Broncos
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Broncos\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

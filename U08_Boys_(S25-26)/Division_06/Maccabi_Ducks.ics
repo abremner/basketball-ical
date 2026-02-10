@@ -6,58 +6,58 @@ X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:646a6049-1043-485d-9b80-a9c2ca0accba
+UID:9a2569bd-9fc3-4c7a-acd1-3eaedb560431
 SEQUENCE:0
-DTSTAMP:20260209T174414
+DTSTAMP:20260210T175523
 DTSTART:20260214T114500
 DTEND:20260214T123000
-SUMMARY:🏀 U08 Boys: Maccabi Ducks vs Solway Broncos
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
- Broncos\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:35ce6155-f765-44cd-96c2-042db5593e08
-SEQUENCE:0
-DTSTAMP:20260209T174414
-DTSTART:20260221T114500
-DTEND:20260221T123000
 SUMMARY:🏀 U08 Boys: Maccabi Ducks vs Ferndale Park Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ferndal
  e Park Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:ef939c4c-2c29-470d-b2b6-4bc5a5ed7ca6
+UID:3f17d33c-d939-4bc5-9494-5bad7d21e36f
 SEQUENCE:0
-DTSTAMP:20260209T174414
-DTSTART:20260228T080000
-DTEND:20260228T084500
+DTSTAMP:20260210T175523
+DTSTART:20260221T110000
+DTEND:20260221T114500
 SUMMARY:🏀 U08 Boys: Maccabi Ducks vs Wattletree Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Wattlet
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Wattlet
  ree Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cc3fa3df-d853-40de-846b-b8ad54d62624
+UID:4030ae65-4fb0-40d9-936e-8365e2e40314
 SEQUENCE:0
-DTSTAMP:20260209T174414
-DTSTART:20260314T114500
-DTEND:20260314T123000
+DTSTAMP:20260210T175523
+DTSTART:20260228T080000
+DTEND:20260228T084500
 SUMMARY:🏀 U08 Boys: Maccabi Ducks vs Kooyong Piranhas
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Kooyong
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Kooyong
   Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:664fdbc1-a869-45cd-8c70-ebfcc6ed0b1a
+UID:831f86dc-9d17-46a3-9e48-5816ede340ef
 SEQUENCE:0
-DTSTAMP:20260209T174414
+DTSTAMP:20260210T175523
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U08 Boys: Maccabi Ducks vs Golden Hawks Iron
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Golden 
+ Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cb33465a-5864-4e01-8123-34a566dc8d4f
+SEQUENCE:0
+DTSTAMP:20260210T175523
 DTSTART:20260321T112000
 DTEND:20260321T120500
-SUMMARY:🏀 U08 Boys: Maccabi Ducks vs Maccabi Eagles
+SUMMARY:🏀 U08 Boys: Maccabi Ducks vs Solway Broncos
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
-  Eagles\nArrive 15 mins early for warm-up
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Broncos\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

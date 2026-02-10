@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Dellavedova Fixtures
+X-WR-CALNAME:Malvern Tigers Dellavedova Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:73e21c8f-1272-42e3-914d-a733669afd40
+SEQUENCE:0
+DTSTAMP:20260210T175528
+DTSTART:20260214T093000
+DTEND:20260214T101500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Dellavedova vs Solway Colts
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Colts\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9edd7c4b-f684-426b-8dde-af5400baeb62
+SEQUENCE:0
+DTSTAMP:20260210T175528
+DTSTART:20260221T084500
+DTEND:20260221T093000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Dellavedova vs Solway Hunters
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Hunters\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:56b42269-b583-4cee-9c50-b78e981e8f4a
+SEQUENCE:0
+DTSTAMP:20260210T175528
+DTSTART:20260314T093000
+DTEND:20260314T101500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Dellavedova vs Clyde Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Clyde P
+ iranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:05d4bdd9-e155-41fa-b5bb-1f85518b1f05
+SEQUENCE:0
+DTSTAMP:20260210T175528
+DTSTART:20260321T085000
+DTEND:20260321T093500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Dellavedova vs Glen Iris Scorpions R
+ aven
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
+ is Scorpions Raven\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

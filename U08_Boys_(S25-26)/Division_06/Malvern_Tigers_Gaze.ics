@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Gaze Fixtures
+X-WR-CALNAME:Malvern Tigers Gaze Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:496cda03-46bd-435b-a610-4d69b98c8de8
+SEQUENCE:0
+DTSTAMP:20260210T175524
+DTSTART:20260214T101500
+DTEND:20260214T110000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Gaze vs Solway Broncos
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Broncos\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:67736853-4cdb-4e3d-9b62-ed3c2c753f7f
+SEQUENCE:0
+DTSTAMP:20260210T175524
+DTSTART:20260228T110000
+DTEND:20260228T114500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Gaze vs Malvern Tigers Landale
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Landale\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a0995c19-6f97-42c1-b2a7-eff918b13c22
+SEQUENCE:0
+DTSTAMP:20260210T175524
+DTSTART:20260314T080000
+DTEND:20260314T084500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Gaze vs Nettleton Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Nettlet
+ on Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1a7b7020-b07f-4564-a400-5a9cb098021c
+SEQUENCE:0
+DTSTAMP:20260210T175524
+DTSTART:20260321T080000
+DTEND:20260321T084500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Gaze vs Golden Hawks Iron
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Golden 
+ Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR
