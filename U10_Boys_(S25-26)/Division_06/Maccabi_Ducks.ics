@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Ducks Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:6913d23e-fb27-4dba-8282-6bea1b4ba1fc
+UID:6fa343aa-f7ab-4f9c-945f-7e09f4d81da3
 SEQUENCE:0
-DTSTAMP:20260213T173556
-DTSTART:20260214T084500
-DTEND:20260214T093000
-SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Orrong Park Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Orrong
-  Park Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:9792d09d-d568-4113-8315-f6d45ba2661d
-SEQUENCE:0
-DTSTAMP:20260213T173556
+DTSTAMP:20260214T172039
 DTSTART:20260221T101500
 DTEND:20260221T110000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Toorak Thrashers
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
   Thrashers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:43393ee8-ede4-4797-b7ac-23db13ff410d
+UID:9105158e-ce1d-4ee8-994b-0c8946590321
 SEQUENCE:0
-DTSTAMP:20260213T173556
+DTSTAMP:20260214T172039
 DTSTART:20260228T084500
 DTEND:20260228T093000
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Solway Bulls
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
   Bulls\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d196edc1-0bcd-4cc2-9275-65e87774bd6a
+UID:f73cfeb9-1a45-46dc-8f67-db8739db2beb
 SEQUENCE:0
-DTSTAMP:20260213T173556
+DTSTAMP:20260214T172039
 DTSTART:20260314T093000
 DTEND:20260314T101500
 SUMMARY:🏀 U10 Boys: Maccabi Ducks vs Golden Hawks Iron

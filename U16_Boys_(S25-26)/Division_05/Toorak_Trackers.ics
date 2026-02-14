@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Trackers Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:37fe85c6-920b-4252-8966-8c5e3d6a9957
+UID:2dffb0ca-bada-4071-8ac2-6ce9b8d31f92
 SEQUENCE:0
-DTSTAMP:20260213T173812
-DTSTART:20260214T191500
-DTEND:20260214T200000
-SUMMARY:🏀 U16 Boys: Toorak Trackers vs Malvern Tigers White
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
- n Tigers White\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:2471d8f7-2147-4e45-8735-c14c43635137
-SEQUENCE:0
-DTSTAMP:20260213T173812
+DTSTAMP:20260214T172313
 DTSTART:20260221T183000
 DTEND:20260221T191500
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs AlphaWolf Tornados
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
  lf Tornados\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:13f4b2bc-4c5a-4c7f-9e35-2ad36a036aba
+UID:a7dc8562-2915-499e-b1ed-273718bc0183
 SEQUENCE:0
-DTSTAMP:20260213T173812
+DTSTAMP:20260214T172313
 DTSTART:20260314T191500
 DTEND:20260314T200000
 SUMMARY:🏀 U16 Boys: Toorak Trackers vs Glen Iris Scorpions Sixers

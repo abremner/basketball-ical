@@ -6,20 +6,9 @@ X-WR-CALNAME:Maccabi Kings Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:de91dbe5-a7e4-4c03-99f8-fb63d5ef62f2
+UID:eb954dc4-d94f-4d62-b22e-b4a11e928290
 SEQUENCE:0
-DTSTAMP:20260213T173612
-DTSTART:20260214T101500
-DTEND:20260214T110000
-SUMMARY:🏀 U10 Boys: Maccabi Kings vs Maccabi Lakers
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
- i Lakers\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:fb7535ce-b555-46f5-adb1-0e0b7018deab
-SEQUENCE:0
-DTSTAMP:20260213T173612
+DTSTAMP:20260214T172057
 DTSTART:20260221T093000
 DTEND:20260221T101500
 SUMMARY:🏀 U10 Boys: Maccabi Kings vs Timberwolves Hawks
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Timberwolves Hawks\nArrive 15
   mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:c9dfe6d5-1c88-41d7-b385-67b6160188e1
+UID:9bf594da-9117-4bcf-9c8c-c50750e9ed48
 SEQUENCE:0
-DTSTAMP:20260213T173612
+DTSTAMP:20260214T172057
 DTSTART:20260228T101500
 DTEND:20260228T110000
 SUMMARY:🏀 U10 Boys: Maccabi Kings vs Solway Force
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
   Force\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:df22281f-444c-473b-ad41-fcca15ef71f4
+UID:a3d26155-359b-47dc-9400-cdb7a5117459
 SEQUENCE:0
-DTSTAMP:20260213T173612
+DTSTAMP:20260214T172057
 DTSTART:20260314T084500
 DTEND:20260314T093000
 SUMMARY:🏀 U10 Boys: Maccabi Kings vs Viewbank Piranhas

@@ -6,20 +6,9 @@ X-WR-CALNAME:Comets Snake Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:664388b3-f8f3-4007-8a6a-ea8793e02a5c
+UID:b7e02f3f-156e-483d-8a26-ae283766684f
 SEQUENCE:0
-DTSTAMP:20260213T173558
-DTSTART:20260214T080000
-DTEND:20260214T084500
-SUMMARY:🏀 U10 Boys: Comets Snake vs Timberwolves Lightning
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
- wolves Lightning\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:23eba2fb-c8c4-4a53-b296-91182829bea6
-SEQUENCE:0
-DTSTAMP:20260213T173558
+DTSTAMP:20260214T172041
 DTSTART:20260221T084500
 DTEND:20260221T093000
 SUMMARY:🏀 U10 Boys: Comets Snake vs Glen Iris Scorpions Gardiner
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
  ris Scorpions Gardiner\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:964dba84-83ca-45d4-8c64-fb5665e86142
+UID:f5cf25ce-66b1-46b6-b3a3-eef6b972d986
 SEQUENCE:0
-DTSTAMP:20260213T173558
+DTSTAMP:20260214T172041
 DTSTART:20260228T093000
 DTEND:20260228T101500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Solway Bucks
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
   Bucks\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:82330cd5-ad06-4a0e-ae08-34962916880f
+UID:8baa682e-ed85-40cc-b394-2b6edc624b65
 SEQUENCE:0
-DTSTAMP:20260213T173558
+DTSTAMP:20260214T172041
 DTSTART:20260314T080000
 DTEND:20260314T084500
 SUMMARY:🏀 U10 Boys: Comets Snake vs Solway Grizzlies

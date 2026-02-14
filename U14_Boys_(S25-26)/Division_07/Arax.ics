@@ -6,20 +6,9 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:aa3e0811-aad8-48b2-b3ac-58c529dee983
+UID:2a46bed0-c86a-4995-97c2-a92daee3eb0a
 SEQUENCE:0
-DTSTAMP:20260213T173735
-DTSTART:20260214T131500
-DTEND:20260214T140000
-SUMMARY:🏀 U14 Boys: Arax vs Malvern Tigers Blue
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Malver
- n Tigers Blue\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:c9a455e8-a244-4259-9c35-141dc2219806
-SEQUENCE:0
-DTSTAMP:20260213T173735
+DTSTAMP:20260214T172232
 DTSTART:20260221T131500
 DTEND:20260221T140000
 SUMMARY:🏀 U14 Boys: Arax vs Inkerman Piranhas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Inkerm
  an Piranhas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:3bff49dd-10ac-4154-9a9e-483aaa67fe36
+UID:38d17c01-acc6-472f-a742-5e83fbc6426d
 SEQUENCE:0
-DTSTAMP:20260213T173735
+DTSTAMP:20260214T172232
 DTSTART:20260228T131500
 DTEND:20260228T140000
 SUMMARY:🏀 U14 Boys: Arax vs Ashy Lightning Yellow
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
  ightning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e0dc3b59-9baf-41fb-8cdd-363ed68dba24
+UID:d269d1e0-0ea8-4e38-a69c-083ec137eac3
 SEQUENCE:0
-DTSTAMP:20260213T173735
+DTSTAMP:20260214T172232
 DTSTART:20260314T131500
 DTEND:20260314T140000
 SUMMARY:🏀 U14 Boys: Arax vs Glen Iris Scorpions Raven
