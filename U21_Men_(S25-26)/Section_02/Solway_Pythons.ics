@@ -6,20 +6,9 @@ X-WR-CALNAME:Solway Pythons Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:b0f195c1-28a6-4631-a4ea-e0658b974db6
+UID:d3d7becb-9368-474b-9386-155d6c2497ba
 SEQUENCE:0
-DTSTAMP:20260214T172359
-DTSTART:20260215T194500
-DTEND:20260215T203000
-SUMMARY:🏀 U21 Men: Solway Pythons vs Titans Larrys
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Titans
-  Larrys\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:808ddcd6-31a4-4a95-acc4-c3f8be6d167f
-SEQUENCE:0
-DTSTAMP:20260214T172359
+DTSTAMP:20260215T172323
 DTSTART:20260301T190000
 DTEND:20260301T194500
 SUMMARY:🏀 U21 Men: Solway Pythons vs Solway Cobras
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Cobras\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:cead088a-bde4-495a-b977-b147004211cc
+UID:14970c75-5f63-4a66-94f0-cae9eaae98a5
 SEQUENCE:0
-DTSTAMP:20260214T172359
+DTSTAMP:20260215T172323
 DTSTART:20260315T190000
 DTEND:20260315T194500
 SUMMARY:🏀 U21 Men: Solway Pythons vs Solway Taipans

@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Turbos Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:50f07cbc-e4b5-43e1-a029-ce903eaab655
+UID:f567088e-2ccb-4619-b323-0be5171475fb
 SEQUENCE:0
-DTSTAMP:20260214T172343
-DTSTART:20260215T181500
-DTEND:20260215T190000
-SUMMARY:🏀 U18 Boys: Toorak Turbos vs Maccabi Celtics
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
- i Celtics\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:dbc9cea3-023c-41e0-96cc-a07cd1edea36
-SEQUENCE:0
-DTSTAMP:20260214T172343
+DTSTAMP:20260215T172310
 DTSTART:20260222T181500
 DTEND:20260222T190000
 SUMMARY:🏀 U18 Boys: Toorak Turbos vs Solway Mambas
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
   Mambas\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:6b7c27bb-8ccf-452a-80f8-9a83901649b5
+UID:c979526b-32e6-48aa-84fb-99e278bc8b50
 SEQUENCE:0
-DTSTAMP:20260214T172343
+DTSTAMP:20260215T172310
 DTSTART:20260301T173000
 DTEND:20260301T181500
 SUMMARY:🏀 U18 Boys: Toorak Turbos vs Malvern Tigers Red
@@ -39,9 +28,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
  n Tigers Red\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:7e42e71b-5bb8-4eae-b4f8-5b94a67ca5fc
+UID:d2e1fdc3-9cf0-43eb-b238-30324b2f7b73
 SEQUENCE:0
-DTSTAMP:20260214T172343
+DTSTAMP:20260215T172310
 DTSTART:20260315T173000
 DTEND:20260315T181500
 SUMMARY:🏀 U18 Boys: Toorak Turbos vs Timberwolves Stars

@@ -6,20 +6,9 @@ X-WR-CALNAME:Comets Storm Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c510e49f-6ee2-42bb-9603-086a59c57f02
+UID:4b57df8f-7b70-4b8f-b295-1f904147c5dc
 SEQUENCE:0
-DTSTAMP:20260214T172337
-DTSTART:20260215T173000
-DTEND:20260215T181500
-SUMMARY:🏀 U18 Boys: Comets Storm vs Timberwolves Wizards
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
- wolves Wizards\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:e13bf5a1-3e7d-49f0-b7de-e89168c87b12
-SEQUENCE:0
-DTSTAMP:20260214T172337
+DTSTAMP:20260215T172304
 DTSTART:20260301T190000
 DTEND:20260301T194500
 SUMMARY:🏀 U18 Boys: Comets Storm vs Timberwolves Wildcats
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
  wolves Wildcats\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:788b861b-b904-4c97-ad24-84c1eb1c31be
+UID:95e2a713-848e-476c-bd0e-1d3881ec5aae
 SEQUENCE:0
-DTSTAMP:20260214T172337
+DTSTAMP:20260215T172304
 DTSTART:20260315T181500
 DTEND:20260315T190000
 SUMMARY:🏀 U18 Boys: Comets Storm vs Maccabi Bucks
