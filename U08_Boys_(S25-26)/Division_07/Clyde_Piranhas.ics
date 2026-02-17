@@ -6,9 +6,9 @@ X-WR-CALNAME:Clyde Piranhas Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:710d3af0-bebd-4eb2-bf72-85248984fae5
+UID:302f0988-1cc6-46a2-8ad7-32b2ad9aa7a8
 SEQUENCE:0
-DTSTAMP:20260216T173330
+DTSTAMP:20260217T175025
 DTSTART:20260221T080000
 DTEND:20260221T084500
 SUMMARY:🏀 U08 Boys: Clyde Piranhas vs Glen Iris Scorpions Nettleton
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Glen Ir
  is Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:122efec9-1567-4166-ba59-8919bf033f77
+UID:31a3effe-e1f6-42f2-aa9d-9ba8b448cb58
 SEQUENCE:0
-DTSTAMP:20260216T173330
+DTSTAMP:20260217T175025
 DTSTART:20260228T084500
 DTEND:20260228T093000
 SUMMARY:🏀 U08 Boys: Clyde Piranhas vs Solway Pacers
@@ -28,25 +28,14 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway
  Pacers\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:e30c7d72-385e-46ac-a744-0739bb91de31
+UID:49fa8210-f34e-489a-a41d-3f403c394e17
 SEQUENCE:0
-DTSTAMP:20260216T173330
+DTSTAMP:20260217T175025
 DTSTART:20260314T093000
 DTEND:20260314T101500
 SUMMARY:🏀 U08 Boys: Clyde Piranhas vs Malvern Tigers Dellavedova
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
   Tigers Dellavedova\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:6e826eeb-5c1e-4495-93ca-8063d58f3fa6
-SEQUENCE:0
-DTSTAMP:20260216T173330
-DTSTART:20260321T101500
-DTEND:20260321T110000
-SUMMARY:🏀 U08 Boys: Clyde Piranhas vs Maccabi Eagles
-LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
-DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
-  Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR

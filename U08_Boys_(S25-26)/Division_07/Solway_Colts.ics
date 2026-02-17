@@ -6,9 +6,9 @@ X-WR-CALNAME:Solway Colts Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:45a8ad6b-2e97-45f5-92f3-365e55ad4c92
+UID:93bc29cb-7f4f-4ab6-a935-011fc9fdbb74
 SEQUENCE:0
-DTSTAMP:20260216T173332
+DTSTAMP:20260217T175027
 DTSTART:20260221T093000
 DTEND:20260221T101500
 SUMMARY:🏀 U08 Boys: Solway Colts vs Glen Iris Scorpions Raven
@@ -17,9 +17,9 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
  is Scorpions Raven\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4875d3b0-33d9-4e95-ab8b-adc885dddd4f
+UID:0db366dd-751f-4d36-911a-e7ff99632c0c
 SEQUENCE:0
-DTSTAMP:20260216T173332
+DTSTAMP:20260217T175027
 DTSTART:20260228T101500
 DTEND:20260228T110000
 SUMMARY:🏀 U08 Boys: Solway Colts vs Glen Iris Scorpions Nettleton
@@ -28,14 +28,25 @@ DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Glen Ir
  is Scorpions Nettleton\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:bee8c6f5-cc6d-46ed-9328-fcab91ab5db7
+UID:d4ef7463-ec21-410e-aa00-126cc37283cc
 SEQUENCE:0
-DTSTAMP:20260216T173332
+DTSTAMP:20260217T175027
 DTSTART:20260314T084500
 DTEND:20260314T093000
 SUMMARY:🏀 U08 Boys: Solway Colts vs Solway Hunters
 LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
 DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
  Hunters\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:464b767c-ba83-49e6-ae35-3d1ab73fa235
+SEQUENCE:0
+DTSTAMP:20260217T175027
+DTSTART:20260321T101500
+DTEND:20260321T110000
+SUMMARY:🏀 U08 Boys: Solway Colts vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
 END:VEVENT
 END:VCALENDAR
