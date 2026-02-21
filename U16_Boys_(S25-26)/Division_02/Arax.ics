@@ -6,20 +6,9 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:c1dfca1d-4851-4d2c-87c2-6863979a64fa
+UID:22ee3a5c-7e74-4e75-aa9a-b3c26004ce5c
 SEQUENCE:0
-DTSTAMP:20260220T173354
-DTSTART:20260221T174500
-DTEND:20260221T183000
-SUMMARY:🏀 U16 Boys: Arax vs Toorak Tropics
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
-  Tropics\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:205ee057-bbaa-494e-b8c1-a2a0c228f111
-SEQUENCE:0
-DTSTAMP:20260220T173354
+DTSTAMP:20260221T172319
 DTSTART:20260228T200000
 DTEND:20260228T204500
 SUMMARY:🏀 U16 Boys: Arax vs Timberwolves Taipans
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
  wolves Taipans\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:899d5a5b-6d51-433a-941f-6ccbbb22c14d
+UID:a3f78aaa-812d-4c37-a613-6e06561cd663
 SEQUENCE:0
-DTSTAMP:20260220T173354
+DTSTAMP:20260221T172319
 DTSTART:20260314T183000
 DTEND:20260314T191500
 SUMMARY:🏀 U16 Boys: Arax vs Malvern Tigers Red

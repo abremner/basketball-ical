@@ -6,20 +6,9 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:2e545020-93a9-4d27-a866-b47820313e7e
+UID:41901a07-2e2a-4e9b-aa9a-87f622f3b418
 SEQUENCE:0
-DTSTAMP:20260220T173343
-DTSTART:20260221T131500
-DTEND:20260221T140000
-SUMMARY:🏀 U14 Girls: Arax vs Timberwolves Rubies
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
- wolves Rubies\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:1d8c2a8a-0e1a-4735-88c3-ad266fd848e3
-SEQUENCE:0
-DTSTAMP:20260220T173343
+DTSTAMP:20260221T172306
 DTSTART:20260228T131500
 DTEND:20260228T140000
 SUMMARY:🏀 U14 Girls: Arax vs Ashy Lightning Yellow
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ashy L
  ightning Yellow\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:1e9761bc-511b-4378-961f-47ae1994b1e2
+UID:11b65d2a-ba0b-4386-9d67-b92eabf9c8dc
 SEQUENCE:0
-DTSTAMP:20260220T173343
+DTSTAMP:20260221T172306
 DTSTART:20260314T131500
 DTEND:20260314T140000
 SUMMARY:🏀 U14 Girls: Arax vs Malvern Tigers Fisher

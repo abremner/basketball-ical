@@ -6,20 +6,9 @@ X-WR-CALNAME:Arax Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:70bf79df-9528-4fea-a508-2550c0340c8c
+UID:15084161-eadd-4683-baac-93ff85ed9b6c
 SEQUENCE:0
-DTSTAMP:20260220T173247
-DTSTART:20260221T131500
-DTEND:20260221T140000
-SUMMARY:🏀 U12 Boys: Arax vs Stonnington Piranhas
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Stonni
- ngton Piranhas\nArrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:71d29f85-40d5-4d0a-89b5-a3eb70542565
-SEQUENCE:0
-DTSTAMP:20260220T173247
+DTSTAMP:20260221T172153
 DTSTART:20260228T131500
 DTEND:20260228T140000
 SUMMARY:🏀 U12 Boys: Arax vs Malvern Tigers Amber
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
  n Tigers Amber\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:d7f4af5c-77f8-4bac-ba12-55a9766ae6df
+UID:76f6b85d-a613-4958-9298-8deffd968a51
 SEQUENCE:0
-DTSTAMP:20260220T173247
+DTSTAMP:20260221T172153
 DTSTART:20260314T131500
 DTEND:20260314T140000
 SUMMARY:🏀 U12 Boys: Arax vs Maccabi Mavericks

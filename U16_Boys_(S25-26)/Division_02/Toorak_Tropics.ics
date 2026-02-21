@@ -6,20 +6,9 @@ X-WR-CALNAME:Toorak Tropics Fixtures
 TIMEZONE-ID:Australia/Melbourne
 X-WR-TIMEZONE:Australia/Melbourne
 BEGIN:VEVENT
-UID:62c1d9f3-341f-455b-a64a-aa1e6184ba5e
+UID:0d056d3f-eb98-4140-b42b-e7f937d81932
 SEQUENCE:0
-DTSTAMP:20260220T173356
-DTSTART:20260221T174500
-DTEND:20260221T183000
-SUMMARY:🏀 U16 Boys: Toorak Tropics vs Arax
-LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
-DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Arax\n
- Arrive 15 mins early for warm-up
-END:VEVENT
-BEGIN:VEVENT
-UID:0efac2da-8ac6-4fd3-b9b9-94a8e1358de7
-SEQUENCE:0
-DTSTAMP:20260220T173356
+DTSTAMP:20260221T172321
 DTSTART:20260228T174500
 DTEND:20260228T183000
 SUMMARY:🏀 U16 Boys: Toorak Tropics vs Maccabi Warriors
@@ -28,9 +17,9 @@ DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
  i Warriors\nArrive 15 mins early for warm-up
 END:VEVENT
 BEGIN:VEVENT
-UID:4487176a-11f4-4bc9-925f-3ac23e90a74c
+UID:86d756aa-d235-41bb-9c78-7293876a1cef
 SEQUENCE:0
-DTSTAMP:20260220T173356
+DTSTAMP:20260221T172321
 DTSTART:20260314T191500
 DTEND:20260314T200000
 SUMMARY:🏀 U16 Boys: Toorak Tropics vs Timberwolves Raiders
