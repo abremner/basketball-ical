@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Hazelwood Park Piranhas Fixtures
+X-WR-CALNAME:Hazelwood Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:cd4cd307-ce2e-4190-bd7f-95ba9d0620b4
+SEQUENCE:0
+DTSTAMP:20260301T172025
+DTSTART:20260315T190000
+DTEND:20260315T194500
+SUMMARY:🏀 U18 Boys: Hazelwood Park Piranhas vs Timberwolves Lakers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Lakers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

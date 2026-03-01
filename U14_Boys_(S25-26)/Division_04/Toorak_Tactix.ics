@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tactix Fixtures
+X-WR-CALNAME:Toorak Tactix Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2990d9af-bd1b-4faa-aabf-11b6c793d18f
+SEQUENCE:0
+DTSTAMP:20260301T171922
+DTSTART:20260314T170000
+DTEND:20260314T174500
+SUMMARY:🏀 U14 Boys: Toorak Tactix vs Solway Vikings
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Vikings\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

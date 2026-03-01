@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Blue Fixtures
+X-WR-CALNAME:Malvern Tigers Blue Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:59aed9a6-86ea-4cee-8f8b-ca4afea50987
+SEQUENCE:0
+DTSTAMP:20260301T171831
+DTSTART:20260314T140000
+DTEND:20260314T144500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Blue vs Timberwolves Knicks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Timberw
+ olves Knicks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Dragons Fixtures
+X-WR-CALNAME:AlphaWolf Dragons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3cf01a59-bf87-419c-a0e9-18bbf8934103
+SEQUENCE:0
+DTSTAMP:20260301T171724
+DTSTART:20260314T114500
+DTEND:20260314T123000
+SUMMARY:🏀 U10 Boys: AlphaWolf Dragons vs Timberwolves Crusaders
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Crusaders\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

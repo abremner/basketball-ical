@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Valentine Piranhas Fixtures
+X-WR-CALNAME:Valentine Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a2fb7603-4d0f-4a7e-98c3-06ad791a478e
+SEQUENCE:0
+DTSTAMP:20260301T171808
+DTSTART:20260314T114500
+DTEND:20260314T123000
+SUMMARY:🏀 U10 Girls: Valentine Piranhas vs Netherlee Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Netherlee P
+ iranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

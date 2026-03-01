@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Blue Fixtures
+X-WR-CALNAME:Malvern Tigers Blue Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:91cd978f-dfcc-4818-904a-5a2a144254fc
+SEQUENCE:0
+DTSTAMP:20260301T171930
+DTSTART:20260314T153000
+DTEND:20260314T161500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Blue vs SE Venom RBT Heat
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: SE Ven
+ om RBT Heat\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

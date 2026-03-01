@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Green Fixtures
+X-WR-CALNAME:Malvern Tigers Green Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7c14c466-1db4-4fc9-806a-acc5de27fd0f
+SEQUENCE:0
+DTSTAMP:20260301T171859
+DTSTART:20260314T144500
+DTEND:20260314T153000
+SUMMARY:🏀 U12 Girls: Malvern Tigers Green vs Malvern Tigers White
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

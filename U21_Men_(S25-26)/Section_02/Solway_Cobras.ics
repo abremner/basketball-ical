@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Cobras Fixtures
+X-WR-CALNAME:Solway Cobras Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:31416e21-bba1-43b5-bfec-b619858af480
+SEQUENCE:0
+DTSTAMP:20260301T172050
+DTSTART:20260315T190000
+DTEND:20260315T194500
+SUMMARY:🏀 U21 Men: Solway Cobras vs Titans Larrys
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Titans
+  Larrys\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Stones Fixtures
+X-WR-CALNAME:Timberwolves Stones Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2a4b9d01-ec77-45d3-b5a0-d5c744ca1633
+SEQUENCE:0
+DTSTAMP:20260301T171924
+DTSTART:20260314T161500
+DTEND:20260314T170000
+SUMMARY:🏀 U14 Boys: Timberwolves Stones vs Malvern Tigers White
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

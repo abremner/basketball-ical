@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glenbrook Piranhas Fixtures
+X-WR-CALNAME:Glenbrook Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2f8d40fb-cf21-467c-93c4-0e0f75172853
+SEQUENCE:0
+DTSTAMP:20260301T172027
+DTSTART:20260315T181500
+DTEND:20260315T190000
+SUMMARY:🏀 U18 Boys: Glenbrook Piranhas vs Solway Bullets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Bullets\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

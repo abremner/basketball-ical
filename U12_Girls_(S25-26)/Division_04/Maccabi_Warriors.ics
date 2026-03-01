@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Warriors Fixtures
+X-WR-CALNAME:Maccabi Warriors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:35f03829-8177-4e67-a1c2-f311627bbfd7
+SEQUENCE:0
+DTSTAMP:20260301T171859
+DTSTART:20260314T140000
+DTEND:20260314T144500
+SUMMARY:🏀 U12 Girls: Maccabi Warriors vs Lauriston Sparks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Lauris
+ ton Sparks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

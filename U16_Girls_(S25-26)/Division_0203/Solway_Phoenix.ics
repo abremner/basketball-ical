@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Phoenix Fixtures
+X-WR-CALNAME:Solway Phoenix Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:95eddd0a-4ab2-4f53-b2df-134457302212
+SEQUENCE:0
+DTSTAMP:20260301T172022
+DTSTART:20260303T183000
+DTEND:20260303T191500
+SUMMARY:🏀 U16 Girls: Solway Phoenix vs Timberwolves Storm
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Storm\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8e45cbd5-da4f-4a04-9da7-d5fd5375ac40
+SEQUENCE:0
+DTSTAMP:20260301T172022
+DTSTART:20260310T174500
+DTEND:20260310T183000
+SUMMARY:🏀 U16 Girls: Solway Phoenix vs Glen Iris Scorpions Saints
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Saints\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:e72749a9-57c8-48e4-b53e-e0e33f3de696
+SEQUENCE:0
+DTSTAMP:20260301T172022
+DTSTART:20260317T174500
+DTEND:20260317T183000
+SUMMARY:🏀 U16 Girls: Solway Phoenix vs Glen Iris Scorpions Sixers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
+ ris Scorpions Sixers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

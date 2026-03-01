@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Triple-Threat Fixtures
+X-WR-CALNAME:Toorak Triple-Threat Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:89c6fd61-2ec4-4be6-97f6-cb25dda92512
+SEQUENCE:0
+DTSTAMP:20260301T171922
+DTSTART:20260314T170000
+DTEND:20260314T174500
+SUMMARY:🏀 U14 Boys: Toorak Triple-Threat vs AlphaWolf Apex
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: AlphaWo
+ lf Apex\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

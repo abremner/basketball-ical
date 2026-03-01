@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Yellow Fixtures
+X-WR-CALNAME:Malvern Tigers Yellow Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c246e182-5a92-409a-a937-74e5cf780004
+SEQUENCE:0
+DTSTAMP:20260301T171822
+DTSTART:20260314T144500
+DTEND:20260314T153000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Yellow vs Timberwolves Colts
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Colts\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

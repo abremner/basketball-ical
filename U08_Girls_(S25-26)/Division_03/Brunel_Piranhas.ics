@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Brunel Piranhas Fixtures
+X-WR-CALNAME:Brunel Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7fe0a116-db0c-4a77-abb4-1329fb64ccec
+SEQUENCE:0
+DTSTAMP:20260301T171717
+DTSTART:20260314T080000
+DTEND:20260314T084500
+SUMMARY:🏀 U08 Girls: Brunel Piranhas vs Maccabi Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:dea44378-0643-44a5-ac7a-2ce0db0f14de
+SEQUENCE:0
+DTSTAMP:20260301T171717
+DTSTART:20260321T112000
+DTEND:20260321T120500
+SUMMARY:🏀 U08 Girls: Brunel Piranhas vs Maccabi Celtics
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Cel
+ tics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

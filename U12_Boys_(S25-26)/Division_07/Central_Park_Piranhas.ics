@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Central Park Piranhas Fixtures
+X-WR-CALNAME:Central Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3b267188-dec5-4873-8bc0-1e5de58f56c4
+SEQUENCE:0
+DTSTAMP:20260301T171836
+DTSTART:20260314T123000
+DTEND:20260314T131500
+SUMMARY:🏀 U12 Boys: Central Park Piranhas vs Timberwolves Suns
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Suns\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

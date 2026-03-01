@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Rocks Fixtures
+X-WR-CALNAME:Timberwolves Rocks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3e40e4fb-f526-4138-a2a2-093106d05c8f
+SEQUENCE:0
+DTSTAMP:20260301T171915
+DTSTART:20260314T174500
+DTEND:20260314T183000
+SUMMARY:🏀 U14 Boys: Timberwolves Rocks vs Toorak Taipans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Taipans\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

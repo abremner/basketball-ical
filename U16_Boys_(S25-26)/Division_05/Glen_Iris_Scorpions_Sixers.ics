@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Sixers Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Sixers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3e84214c-6db3-4bd3-826d-80b87cb5a1ca
+SEQUENCE:0
+DTSTAMP:20260301T172006
+DTSTART:20260314T191500
+DTEND:20260314T200000
+SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Sixers vs Toorak Trackers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Trackers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

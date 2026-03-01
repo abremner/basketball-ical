@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Meteors Fixtures
+X-WR-CALNAME:Solway Meteors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a64ab1d5-7d22-4169-88d1-573bb540821e
+SEQUENCE:0
+DTSTAMP:20260301T171717
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U08 Girls: Solway Meteors vs Solway Blazes
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Blaz
+ es\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f96d3d42-70cd-4307-9148-b7568eb67ecf
+SEQUENCE:0
+DTSTAMP:20260301T171717
+DTSTART:20260321T112000
+DTEND:20260321T120500
+SUMMARY:🏀 U08 Girls: Solway Meteors vs Harleston Park Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Harleston P
+ ark Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

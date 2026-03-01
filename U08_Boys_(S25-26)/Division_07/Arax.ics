@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Arax Fixtures
+X-WR-CALNAME:Arax Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:23df24a0-d86b-43bb-b591-72f0663e1564
+SEQUENCE:0
+DTSTAMP:20260301T171709
+DTSTART:20260314T080000
+DTEND:20260314T084500
+SUMMARY:🏀 U08 Boys: Arax vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:49226227-df67-4d8f-af2c-96485601c328
+SEQUENCE:0
+DTSTAMP:20260301T171709
+DTSTART:20260321T080000
+DTEND:20260321T084500
+SUMMARY:🏀 U08 Boys: Arax vs Solway Pacers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Pacers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Grey Fixtures
+X-WR-CALNAME:Malvern Tigers Grey Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7718009e-4205-4f90-9a95-5d99c7bdc87e
+SEQUENCE:0
+DTSTAMP:20260301T171747
+DTSTART:20260314T080000
+DTEND:20260314T084500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Grey vs Phoenix Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Phoeni
+ x Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

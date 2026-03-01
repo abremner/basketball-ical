@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Erica Piranhas Fixtures
+X-WR-CALNAME:Erica Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:46ddb426-c5f5-41c9-986b-8cc8b82e9b62
+SEQUENCE:0
+DTSTAMP:20260301T171856
+DTSTART:20260314T140000
+DTEND:20260314T144500
+SUMMARY:🏀 U12 Girls: Erica Piranhas vs Korowa Cherry
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Korowa 
+ Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

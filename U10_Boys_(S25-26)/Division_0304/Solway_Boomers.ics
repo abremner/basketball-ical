@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Boomers Fixtures
+X-WR-CALNAME:Solway Boomers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:07d7bfea-3045-43e1-b175-cd5d7afaf570
+SEQUENCE:0
+DTSTAMP:20260301T171729
+DTSTART:20260314T114500
+DTEND:20260314T123000
+SUMMARY:🏀 U10 Boys: Solway Boomers vs Tollington Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Tolling
+ ton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

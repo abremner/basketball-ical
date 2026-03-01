@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Raiders Fixtures
+X-WR-CALNAME:Timberwolves Raiders Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f4162379-0e81-48bb-9ee5-5a15385cc110
+SEQUENCE:0
+DTSTAMP:20260301T171958
+DTSTART:20260314T191500
+DTEND:20260314T200000
+SUMMARY:🏀 U16 Boys: Timberwolves Raiders vs Toorak Tropics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
+  Tropics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

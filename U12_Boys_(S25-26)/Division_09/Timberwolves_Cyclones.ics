@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Cyclones Fixtures
+X-WR-CALNAME:Timberwolves Cyclones Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:50d46ea9-65bf-4386-8966-d43d220f7c6f
+SEQUENCE:0
+DTSTAMP:20260301T171844
+DTSTART:20260314T123000
+DTEND:20260314T131500
+SUMMARY:🏀 U12 Boys: Timberwolves Cyclones vs Toorak Thunder
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

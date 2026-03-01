@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Golden Hawks Blaze Fixtures
+X-WR-CALNAME:Golden Hawks Blaze Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8b99b503-88d8-492b-8cc9-0a200e903a53
+SEQUENCE:0
+DTSTAMP:20260301T171848
+DTSTART:20260314T131500
+DTEND:20260314T140000
+SUMMARY:🏀 U12 Boys: Golden Hawks Blaze vs Timberwolves Fury
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Fury\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

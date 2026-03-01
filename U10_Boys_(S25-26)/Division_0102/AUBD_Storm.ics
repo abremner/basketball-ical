@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AUBD Storm Fixtures
+X-WR-CALNAME:AUBD Storm Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7f3d75d5-f2a2-4301-b166-f72d7149f93f
+SEQUENCE:0
+DTSTAMP:20260301T171725
+DTSTART:20260314T131500
+DTEND:20260314T140000
+SUMMARY:🏀 U10 Boys: AUBD Storm vs Toorak Tigercats
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Toorak
+  Tigercats\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

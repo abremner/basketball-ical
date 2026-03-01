@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Nicholson Fixtures
+X-WR-CALNAME:Malvern Tigers Nicholson Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:753ab6d7-d488-4efe-8bf4-f582b7fc4fa8
+SEQUENCE:0
+DTSTAMP:20260301T172041
+DTSTART:20260303T183000
+DTEND:20260303T191500
+SUMMARY:🏀 U18 Girls: Malvern Tigers Nicholson vs Summerhill Park Piranh
+ as
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Summer
+ hill Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6062111e-e728-46b9-8854-befc45bcd6d7
+SEQUENCE:0
+DTSTAMP:20260301T172041
+DTSTART:20260310T183000
+DTEND:20260310T191500
+SUMMARY:🏀 U18 Girls: Malvern Tigers Nicholson vs Glen Iris Scorpions Su
+ ns
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
+ ris Scorpions Suns\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:80572b7a-485e-480f-94ba-ca3f606352dc
+SEQUENCE:0
+DTSTAMP:20260301T172041
+DTSTART:20260317T183000
+DTEND:20260317T191500
+SUMMARY:🏀 U18 Girls: Malvern Tigers Nicholson vs Sorrett Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Sorret
+ t Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

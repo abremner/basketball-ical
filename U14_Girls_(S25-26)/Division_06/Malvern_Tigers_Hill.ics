@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Hill Fixtures
+X-WR-CALNAME:Malvern Tigers Hill Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c35826bb-57e0-4887-a8b8-ef8f7a34e36d
+SEQUENCE:0
+DTSTAMP:20260301T171948
+DTSTART:20260314T161500
+DTEND:20260314T170000
+SUMMARY:🏀 U14 Girls: Malvern Tigers Hill vs Korowa Cherry
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Korowa Cher
+ ry\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Korowa Cherry Fixtures
+X-WR-CALNAME:Korowa Cherry Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:fe0725c3-420a-442f-903d-b5a63057fa3c
+SEQUENCE:0
+DTSTAMP:20260301T171721
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U08 Girls: Korowa Cherry vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bd5182bc-5cfb-4d11-bc58-d46ea7da88e4
+SEQUENCE:0
+DTSTAMP:20260301T171721
+DTSTART:20260321T103000
+DTEND:20260321T111500
+SUMMARY:🏀 U08 Girls: Korowa Cherry vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

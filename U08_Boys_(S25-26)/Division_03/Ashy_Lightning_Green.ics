@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Green Fixtures
+X-WR-CALNAME:Ashy Lightning Green Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:cec3b324-23e4-4f29-a466-02d84b194f86
+SEQUENCE:0
+DTSTAMP:20260301T171658
+DTSTART:20260314T093000
+DTEND:20260314T101500
+SUMMARY:🏀 U08 Boys: Ashy Lightning Green vs Malvern Tigers Exum
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Exum\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:648603d8-c1ae-498c-8805-1135a17434bf
+SEQUENCE:0
+DTSTAMP:20260301T171658
+DTSTART:20260321T112000
+DTEND:20260321T120500
+SUMMARY:🏀 U08 Boys: Ashy Lightning Green vs Solway Steeds
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Steeds\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

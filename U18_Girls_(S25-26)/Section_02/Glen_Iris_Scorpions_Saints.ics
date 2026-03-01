@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Saints Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Saints Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b550734c-b893-48de-8a51-df0b2131961b
+SEQUENCE:0
+DTSTAMP:20260301T172040
+DTSTART:20260303T191500
+DTEND:20260303T200000
+SUMMARY:🏀 U18 Girls: Glen Iris Scorpions Saints vs Glen Iris Scorpions 
+ Suns
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Suns\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6fc65e97-1009-4c99-9626-44319d6ca8ac
+SEQUENCE:0
+DTSTAMP:20260301T172040
+DTSTART:20260310T191500
+DTEND:20260310T200000
+SUMMARY:🏀 U18 Girls: Glen Iris Scorpions Saints vs Sorrett Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Sorret
+ t Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

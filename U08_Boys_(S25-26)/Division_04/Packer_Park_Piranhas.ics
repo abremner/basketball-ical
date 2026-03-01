@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Packer Park Piranhas Fixtures
+X-WR-CALNAME:Packer Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d9740ec4-2f40-4753-9d7b-05f5a7f704b0
+SEQUENCE:0
+DTSTAMP:20260301T171702
+DTSTART:20260314T084500
+DTEND:20260314T093000
+SUMMARY:🏀 U08 Boys: Packer Park Piranhas vs Maccabi Bucks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:8e8d0e7c-4c89-4adf-af99-b05bc2d2eb5e
+SEQUENCE:0
+DTSTAMP:20260301T171702
+DTSTART:20260321T080000
+DTEND:20260321T084500
+SUMMARY:🏀 U08 Boys: Packer Park Piranhas vs AlphaWolf Titans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
+ lf Titans\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

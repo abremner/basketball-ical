@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Rubies Fixtures
+X-WR-CALNAME:Timberwolves Rubies Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9256f6c3-0c8b-4b38-b11c-c6bb70c82a73
+SEQUENCE:0
+DTSTAMP:20260301T171947
+DTSTART:20260314T170000
+DTEND:20260314T174500
+SUMMARY:🏀 U14 Girls: Timberwolves Rubies vs Solway Diamonds
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Diamonds\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

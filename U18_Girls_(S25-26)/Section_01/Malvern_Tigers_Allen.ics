@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Allen Fixtures
+X-WR-CALNAME:Malvern Tigers Allen Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4da0698a-7a95-492d-be13-e7ea40c2d6bc
+SEQUENCE:0
+DTSTAMP:20260301T172037
+DTSTART:20260303T200000
+DTEND:20260303T204500
+SUMMARY:🏀 U18 Girls: Malvern Tigers Allen vs Solway Magic
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Magic\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:37a5a55b-f95a-433b-b8ed-7fa890c9f22c
+SEQUENCE:0
+DTSTAMP:20260301T172037
+DTSTART:20260310T191500
+DTEND:20260310T200000
+SUMMARY:🏀 U18 Girls: Malvern Tigers Allen vs Malvern Tigers Jackson
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Jackson\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:200d4e63-ec23-4862-af89-b24a1695e838
+SEQUENCE:0
+DTSTAMP:20260301T172037
+DTSTART:20260317T191500
+DTEND:20260317T200000
+SUMMARY:🏀 U18 Girls: Malvern Tigers Allen vs Malvern Tigers Talbot
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Talbot\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

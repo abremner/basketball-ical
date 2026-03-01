@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Celtics Fixtures
+X-WR-CALNAME:Timberwolves Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b0f8f4cb-fbd7-400f-9050-a8581fcbdfb0
+SEQUENCE:0
+DTSTAMP:20260301T171919
+DTSTART:20260314T174500
+DTEND:20260314T183000
+SUMMARY:🏀 U14 Boys: Timberwolves Celtics vs AlphaWolf Hustle
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: AlphaWo
+ lf Hustle\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

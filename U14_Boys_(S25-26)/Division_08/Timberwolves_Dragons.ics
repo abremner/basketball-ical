@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Dragons Fixtures
+X-WR-CALNAME:Timberwolves Dragons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b442ebfb-d8d0-42aa-811b-1fe20e4ea5a7
+SEQUENCE:0
+DTSTAMP:20260301T171933
+DTSTART:20260314T153000
+DTEND:20260314T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Dragons vs Malvern Tigers Brown
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Malvern Tigers Brown\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

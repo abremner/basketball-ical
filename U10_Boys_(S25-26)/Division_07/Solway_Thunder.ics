@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Thunder Fixtures
+X-WR-CALNAME:Solway Thunder Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4ff0e5b8-8fb3-4e4e-88ff-f25a3e5c90ab
+SEQUENCE:0
+DTSTAMP:20260301T171739
+DTSTART:20260314T084500
+DTEND:20260314T093000
+SUMMARY:🏀 U10 Boys: Solway Thunder vs Timberwolves Lightning
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Lightning\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

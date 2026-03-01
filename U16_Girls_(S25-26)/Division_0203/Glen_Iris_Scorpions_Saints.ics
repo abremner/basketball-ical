@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Saints Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Saints Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:041d58e2-5297-402b-812d-cddd321c9857
+SEQUENCE:0
+DTSTAMP:20260301T172020
+DTSTART:20260303T174500
+DTEND:20260303T183000
+SUMMARY:🏀 U16 Girls: Glen Iris Scorpions Saints vs Malvern Tigers Walla
+ ce
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Wallace\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:822b8c71-7d59-4dab-b561-96a1cfbed076
+SEQUENCE:0
+DTSTAMP:20260301T172020
+DTSTART:20260310T174500
+DTEND:20260310T183000
+SUMMARY:🏀 U16 Girls: Glen Iris Scorpions Saints vs Solway Phoenix
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Phoenix\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4d821a23-5712-4913-90be-03b35a4ac885
+SEQUENCE:0
+DTSTAMP:20260301T172020
+DTSTART:20260317T183000
+DTEND:20260317T191500
+SUMMARY:🏀 U16 Girls: Glen Iris Scorpions Saints vs Harold Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Harold
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

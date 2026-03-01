@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Amber Fixtures
+X-WR-CALNAME:Malvern Tigers Amber Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:53677b7a-19fa-4b11-86f2-2fa6c807c06d
+SEQUENCE:0
+DTSTAMP:20260301T171843
+DTSTART:20260314T140000
+DTEND:20260314T144500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Amber vs Stonnington Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Stonnington Piranhas\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

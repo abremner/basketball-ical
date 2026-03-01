@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Warriors Fixtures
+X-WR-CALNAME:Timberwolves Warriors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:48bcf5a8-a037-460e-99f4-caac9040bc0c
+SEQUENCE:0
+DTSTAMP:20260301T171808
+DTSTART:20260314T114500
+DTEND:20260314T123000
+SUMMARY:🏀 U10 Girls: Timberwolves Warriors vs Solway Mistrals
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Mist
+ rals\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

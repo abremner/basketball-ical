@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Falcons Fixtures
+X-WR-CALNAME:Maccabi Falcons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:095510f6-7d8a-4c64-a893-f1653836e711
+SEQUENCE:0
+DTSTAMP:20260301T171930
+DTSTART:20260314T161500
+DTEND:20260314T170000
+SUMMARY:🏀 U14 Boys: Maccabi Falcons vs Inkerman Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Inkerm
+ an Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Bulls Fixtures
+X-WR-CALNAME:Timberwolves Bulls Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0ea9866b-ba74-4a62-a4ca-f9d7c8254bd9
+SEQUENCE:0
+DTSTAMP:20260301T172009
+DTSTART:20260314T174500
+DTEND:20260314T183000
+SUMMARY:🏀 U16 Boys: Timberwolves Bulls vs Ormond Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ormond
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

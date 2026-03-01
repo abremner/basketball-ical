@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Golden Hawks Sky Fixtures
+X-WR-CALNAME:Golden Hawks Sky Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0463fc0d-a9db-40d3-8268-9096fe62427f
+SEQUENCE:0
+DTSTAMP:20260301T171701
+DTSTART:20260314T080000
+DTEND:20260314T084500
+SUMMARY:🏀 U08 Boys: Golden Hawks Sky vs Malvern Tigers Ingles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Ingles\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:529de1cf-185c-4b87-b9ce-358c7d99341e
+SEQUENCE:0
+DTSTAMP:20260301T171701
+DTSTART:20260321T085000
+DTEND:20260321T093500
+SUMMARY:🏀 U08 Boys: Golden Hawks Sky vs Malvern Tigers Bogut
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Bogut\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

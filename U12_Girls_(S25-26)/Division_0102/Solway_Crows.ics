@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Crows Fixtures
+X-WR-CALNAME:Solway Crows Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2537a261-9b7b-4ee0-8388-20d71e118eb9
+SEQUENCE:0
+DTSTAMP:20260301T171854
+DTSTART:20260314T144500
+DTEND:20260314T153000
+SUMMARY:🏀 U12 Girls: Solway Crows vs Comets Rubies
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Comets
+  Rubies\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

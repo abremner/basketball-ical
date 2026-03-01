@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c117b624-2a64-45fd-baa3-4f2467994412
+SEQUENCE:0
+DTSTAMP:20260301T171718
+DTSTART:20260314T084500
+DTEND:20260314T093000
+SUMMARY:🏀 U08 Girls: Maccabi Bucks vs Maccabi Celtics
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Cel
+ tics\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b5289a9d-b4c0-42e1-a580-116eb1332c4b
+SEQUENCE:0
+DTSTAMP:20260301T171718
+DTSTART:20260321T094000
+DTEND:20260321T102500
+SUMMARY:🏀 U08 Girls: Maccabi Bucks vs Malvern Tigers Wallace
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Wallace\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

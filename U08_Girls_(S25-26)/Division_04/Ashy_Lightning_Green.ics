@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Green Fixtures
+X-WR-CALNAME:Ashy Lightning Green Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c26be311-21bd-4ee1-99ad-64e5506e5572
+SEQUENCE:0
+DTSTAMP:20260301T171720
+DTSTART:20260314T084500
+DTEND:20260314T093000
+SUMMARY:🏀 U08 Girls: Ashy Lightning Green vs Malvern Tigers Atwell
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Malvern Tig
+ ers Atwell\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f077e800-c0ac-46ac-9b4a-9e24804ca752
+SEQUENCE:0
+DTSTAMP:20260301T171720
+DTSTART:20260321T103000
+DTEND:20260321T111500
+SUMMARY:🏀 U08 Girls: Ashy Lightning Green vs Korowa Cherry
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Korowa 
+ Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Ninjas Fixtures
+X-WR-CALNAME:Solway Ninjas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3dfde42e-1dd5-46fc-85fe-9f5ed172d06b
+SEQUENCE:0
+DTSTAMP:20260301T171936
+DTSTART:20260314T161500
+DTEND:20260314T170000
+SUMMARY:🏀 U14 Boys: Solway Ninjas vs Maccabi Hawks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

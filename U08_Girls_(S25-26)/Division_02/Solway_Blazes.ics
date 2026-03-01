@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Blazes Fixtures
+X-WR-CALNAME:Solway Blazes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8bd556c0-9892-499c-bf9b-142d98fc07fd
+SEQUENCE:0
+DTSTAMP:20260301T171716
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U08 Girls: Solway Blazes vs Solway Meteors
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Mete
+ ors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:88203b41-330b-4c8f-a48e-56d3960415b6
+SEQUENCE:0
+DTSTAMP:20260301T171716
+DTSTART:20260321T103000
+DTEND:20260321T111500
+SUMMARY:🏀 U08 Girls: Solway Blazes vs Ashy Lightning Gold
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
+ ing Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

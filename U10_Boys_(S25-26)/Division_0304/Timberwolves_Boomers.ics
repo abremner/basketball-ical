@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Boomers Fixtures
+X-WR-CALNAME:Timberwolves Boomers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6337e0f8-f8e7-49b6-ba1c-0f78a676d821
+SEQUENCE:0
+DTSTAMP:20260301T171729
+DTSTART:20260314T114500
+DTEND:20260314T123000
+SUMMARY:🏀 U10 Boys: Timberwolves Boomers vs Timberwolves Cobras
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Timberwolves Cobras\nArrive 1
+ 5 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

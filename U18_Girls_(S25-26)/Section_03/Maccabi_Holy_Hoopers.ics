@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Holy Hoopers Fixtures
+X-WR-CALNAME:Maccabi Holy Hoopers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:70f6febd-28b6-4bfb-b11c-ee2d6fecde07
+SEQUENCE:0
+DTSTAMP:20260301T172043
+DTSTART:20260303T191500
+DTEND:20260303T200000
+SUMMARY:🏀 U18 Girls: Maccabi Holy Hoopers vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1d9bfcfb-4a3f-447d-8c31-7c91d17a7d7d
+SEQUENCE:0
+DTSTAMP:20260301T172043
+DTSTART:20260310T200000
+DTEND:20260310T204500
+SUMMARY:🏀 U18 Girls: Maccabi Holy Hoopers vs Solway Stellars
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Stellars\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:266e8a62-1011-47a4-90b0-2cfb799e2db3
+SEQUENCE:0
+DTSTAMP:20260301T172043
+DTSTART:20260317T200000
+DTEND:20260317T204500
+SUMMARY:🏀 U18 Girls: Maccabi Holy Hoopers vs SCBC Dazzling Diamonds
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: SCBC D
+ azzling Diamonds\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

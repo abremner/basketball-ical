@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Taylor Fixtures
+X-WR-CALNAME:Malvern Tigers Taylor Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:160835c0-7f31-4a80-b28f-d73d1e13feaf
+SEQUENCE:0
+DTSTAMP:20260301T171802
+DTSTART:20260314T114500
+DTEND:20260314T123000
+SUMMARY:🏀 U10 Girls: Malvern Tigers Taylor vs Erindale Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Erinda
+ le Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR
