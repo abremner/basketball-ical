@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Mills Fixtures
+X-WR-CALNAME:Malvern Tigers Mills Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d060a18f-f41f-405c-8521-a98612f7f77d
+SEQUENCE:0
+DTSTAMP:20260303T173651
+DTSTART:20260314T110000
+DTEND:20260314T114500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Mills vs Toorak Toucans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak 
+ Toucans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:1802afef-fdd1-442c-ac68-45a34093432a
+SEQUENCE:0
+DTSTAMP:20260303T173651
+DTSTART:20260321T094000
+DTEND:20260321T102500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Mills vs Solway Stallions
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Stallions\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

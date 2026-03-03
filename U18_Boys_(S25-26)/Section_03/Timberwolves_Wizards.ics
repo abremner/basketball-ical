@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Wizards Fixtures
+X-WR-CALNAME:Timberwolves Wizards Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ce2dc892-6925-4dd7-b73e-034f1b373ba3
+SEQUENCE:0
+DTSTAMP:20260303T174045
+DTSTART:20260315T181500
+DTEND:20260315T190000
+SUMMARY:🏀 U18 Boys: Timberwolves Wizards vs Glen Iris Scorpions Saints
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
+ ris Scorpions Saints\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

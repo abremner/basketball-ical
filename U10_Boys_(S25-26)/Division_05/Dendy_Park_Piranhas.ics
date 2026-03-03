@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Dendy Park Piranhas Fixtures
+X-WR-CALNAME:Dendy Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b0a26ca0-e3d6-4f31-8472-c30db18480e9
+SEQUENCE:0
+DTSTAMP:20260303T173730
+DTSTART:20260314T110000
+DTEND:20260314T114500
+SUMMARY:🏀 U10 Boys: Dendy Park Piranhas vs Penpraze Park Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Penpraze Park Piranhas\nArriv
+ e 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

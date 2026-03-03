@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Kooyong Piranhas Fixtures
+X-WR-CALNAME:Kooyong Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:edc9a183-0198-4a61-b13d-5ad10bb53f8d
+SEQUENCE:0
+DTSTAMP:20260303T173703
+DTSTART:20260314T110000
+DTEND:20260314T114500
+SUMMARY:🏀 U08 Boys: Kooyong Piranhas vs Wattletree Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Wattlet
+ ree Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:57a2c7ea-8c03-477d-ac7d-1d4347fe5be6
+SEQUENCE:0
+DTSTAMP:20260303T173703
+DTSTART:20260321T080000
+DTEND:20260321T084500
+SUMMARY:🏀 U08 Boys: Kooyong Piranhas vs Malvern Tigers Landale
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Landale\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ranfurlie Piranhas Fixtures
+X-WR-CALNAME:Ranfurlie Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2ebb6a30-e5cf-4632-bc1a-b55b488fe00f
+SEQUENCE:0
+DTSTAMP:20260303T173948
+DTSTART:20260314T170000
+DTEND:20260314T174500
+SUMMARY:🏀 U14 Girls: Ranfurlie Piranhas vs Cato Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Cato P
+ ark Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

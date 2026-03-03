@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Force Fixtures
+X-WR-CALNAME:Solway Force Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0b23bf9e-e223-464f-bbce-4bf0ed5b4781
+SEQUENCE:0
+DTSTAMP:20260303T173755
+DTSTART:20260314T093000
+DTEND:20260314T101500
+SUMMARY:🏀 U10 Boys: Solway Force vs Comets Eagles
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Comets Eagles\nArrive 15 mins
+  early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Rockets Fixtures
+X-WR-CALNAME:Timberwolves Rockets Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5d16d8be-8584-4bc2-a619-92fa04692ca6
+SEQUENCE:0
+DTSTAMP:20260303T174031
+DTSTART:20260310T183000
+DTEND:20260310T191500
+SUMMARY:🏀 U16 Girls: Timberwolves Rockets vs Solway Marvels
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Marvels\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:81938b42-2852-4f3a-910c-b75ee12a39e5
+SEQUENCE:0
+DTSTAMP:20260303T174031
+DTSTART:20260317T183000
+DTEND:20260317T191500
+SUMMARY:🏀 U16 Girls: Timberwolves Rockets vs Malvern Tigers Rocci
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Rocci\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

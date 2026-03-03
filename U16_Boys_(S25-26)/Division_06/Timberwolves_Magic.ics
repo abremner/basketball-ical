@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Magic Fixtures
+X-WR-CALNAME:Timberwolves Magic Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c2882f38-7a8e-45b7-8df0-e9ef5dbf7a4f
+SEQUENCE:0
+DTSTAMP:20260303T174020
+DTSTART:20260314T191500
+DTEND:20260314T200000
+SUMMARY:🏀 U16 Boys: Timberwolves Magic vs Tennyson Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Tennyso
+ n Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

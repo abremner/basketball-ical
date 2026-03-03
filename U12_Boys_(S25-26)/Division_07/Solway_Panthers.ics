@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Panthers Fixtures
+X-WR-CALNAME:Solway Panthers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8d3b119b-1a3b-4592-8dd7-330cbdf129e0
+SEQUENCE:0
+DTSTAMP:20260303T173838
+DTSTART:20260314T131500
+DTEND:20260314T140000
+SUMMARY:🏀 U12 Boys: Solway Panthers vs Malvern Tigers Maroon
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Maroon\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

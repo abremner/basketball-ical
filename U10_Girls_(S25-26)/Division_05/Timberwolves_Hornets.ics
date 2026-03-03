@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Hornets Fixtures
+X-WR-CALNAME:Timberwolves Hornets Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:dce46c66-856c-47d2-9cef-afca2af49cd8
+SEQUENCE:0
+DTSTAMP:20260303T173811
+DTSTART:20260314T114500
+DTEND:20260314T123000
+SUMMARY:🏀 U10 Girls: Timberwolves Hornets vs Timberwolves Gems
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Gems\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

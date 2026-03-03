@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Warriors Fixtures
+X-WR-CALNAME:AlphaWolf Warriors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a45a64f1-d1e3-49ac-8743-9a3d3e788657
+SEQUENCE:0
+DTSTAMP:20260303T173827
+DTSTART:20260314T144500
+DTEND:20260314T153000
+SUMMARY:🏀 U12 Boys: AlphaWolf Warriors vs Timberwolves Heat
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Heat\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

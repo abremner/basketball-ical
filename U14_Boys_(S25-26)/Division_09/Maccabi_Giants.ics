@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Giants Fixtures
+X-WR-CALNAME:Maccabi Giants Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d3c8eed4-5bba-4536-99c8-d2e6357bfc39
+SEQUENCE:0
+DTSTAMP:20260303T173940
+DTSTART:20260314T144500
+DTEND:20260314T153000
+SUMMARY:🏀 U14 Boys: Maccabi Giants vs Glen Iris Scorpions Summerhill
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Glen Iris Scorpions Summerhil
+ l\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

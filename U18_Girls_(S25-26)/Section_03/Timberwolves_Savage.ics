@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Savage Fixtures
+X-WR-CALNAME:Timberwolves Savage Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a957a331-77d7-4dad-90c2-69a844e785cc
+SEQUENCE:0
+DTSTAMP:20260303T174058
+DTSTART:20260310T200000
+DTEND:20260310T204500
+SUMMARY:🏀 U18 Girls: Timberwolves Savage vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9cd4c1f6-1026-41af-bb45-c18aeee7e255
+SEQUENCE:0
+DTSTAMP:20260303T174058
+DTSTART:20260317T191500
+DTEND:20260317T200000
+SUMMARY:🏀 U18 Girls: Timberwolves Savage vs Solway Stellars
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Stellars\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

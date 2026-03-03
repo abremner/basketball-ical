@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Topguns Fixtures
+X-WR-CALNAME:Toorak Topguns Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:dd5d8aa1-e841-437e-805e-ea199ee67bce
+SEQUENCE:0
+DTSTAMP:20260303T173949
+DTSTART:20260314T174500
+DTEND:20260314T183000
+SUMMARY:🏀 U14 Girls: Toorak Topguns vs Malvern Tigers Lewis
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Lewis\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

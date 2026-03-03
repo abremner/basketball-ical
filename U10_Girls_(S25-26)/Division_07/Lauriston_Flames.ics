@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Lauriston Flames Fixtures
+X-WR-CALNAME:Lauriston Flames Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ef35b4c4-e9c0-41f2-b7c9-1139ada602da
+SEQUENCE:0
+DTSTAMP:20260303T173815
+DTSTART:20260314T110000
+DTEND:20260314T114500
+SUMMARY:🏀 U10 Girls: Lauriston Flames vs Maccabi Eagles
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Eag
+ les\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

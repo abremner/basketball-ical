@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Torpedoes Fixtures
+X-WR-CALNAME:Solway Torpedoes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:57dd5e5c-fd93-49b7-8715-571b5305825e
+SEQUENCE:0
+DTSTAMP:20260303T174041
+DTSTART:20260315T173000
+DTEND:20260315T181500
+SUMMARY:🏀 U18 Boys: Solway Torpedoes vs Maccabi Lightening
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Lightening\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

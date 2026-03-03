@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Ducks Fixtures
+X-WR-CALNAME:Maccabi Ducks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1b5c4745-f496-4788-b834-53e4b7869e40
+SEQUENCE:0
+DTSTAMP:20260303T173719
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Korowa Cherry
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Korowa 
+ Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:d62ecc46-1155-4f15-8b41-de36fdb94e3d
+SEQUENCE:0
+DTSTAMP:20260303T173719
+DTSTART:20260321T103000
+DTEND:20260321T111500
+SUMMARY:🏀 U08 Girls: Maccabi Ducks vs Solway Supernovas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Supernovas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

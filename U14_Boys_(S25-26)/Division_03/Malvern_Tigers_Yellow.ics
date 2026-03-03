@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Yellow Fixtures
+X-WR-CALNAME:Malvern Tigers Yellow Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4baf6e8e-b0dc-4d9f-9ad4-c693c214e581
+SEQUENCE:0
+DTSTAMP:20260303T173922
+DTSTART:20260314T170000
+DTEND:20260314T174500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Yellow vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

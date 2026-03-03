@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Tigers Fixtures
+X-WR-CALNAME:AlphaWolf Tigers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:afee846b-9d1b-46c3-8197-7f8e1c0a2553
+SEQUENCE:0
+DTSTAMP:20260303T173744
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U10 Boys: AlphaWolf Tigers vs SE Venom Magic
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: SE Ven
+ om Magic\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

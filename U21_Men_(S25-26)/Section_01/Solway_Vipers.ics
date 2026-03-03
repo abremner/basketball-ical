@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Vipers Fixtures
+X-WR-CALNAME:Solway Vipers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:94dc0ddc-3676-4671-8b16-ab99cc741b72
+SEQUENCE:0
+DTSTAMP:20260303T174101
+DTSTART:20260315T194500
+DTEND:20260315T203000
+SUMMARY:🏀 U21 Men: Solway Vipers vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

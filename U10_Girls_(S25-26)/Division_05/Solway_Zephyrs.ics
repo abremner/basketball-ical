@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Zephyrs Fixtures
+X-WR-CALNAME:Solway Zephyrs Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:062b7315-e3a3-47bb-a752-8c5e58eb1363
+SEQUENCE:0
+DTSTAMP:20260303T173810
+DTSTART:20260314T110000
+DTEND:20260314T114500
+SUMMARY:🏀 U10 Girls: Solway Zephyrs vs Como Park Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Como Park P
+ iranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Dingoes Fixtures
+X-WR-CALNAME:Solway Dingoes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:efc9814a-7a75-448c-a1de-486cb9a40585
+SEQUENCE:0
+DTSTAMP:20260303T173849
+DTSTART:20260314T131500
+DTEND:20260314T140000
+SUMMARY:🏀 U12 Boys: Solway Dingoes vs Solway Crocodiles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Crocodiles\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

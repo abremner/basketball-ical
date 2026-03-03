@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Wilson Fixtures
+X-WR-CALNAME:Malvern Tigers Wilson Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:95a8a6d5-5c4e-459d-ae36-d4be967c945a
+SEQUENCE:0
+DTSTAMP:20260303T173717
+DTSTART:20260314T093000
+DTEND:20260314T101500
+SUMMARY:🏀 U08 Girls: Malvern Tigers Wilson vs Malvern Tigers Wallace
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Wallace\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5d0dfb8c-cbe2-4b5c-90ad-dca4abad3302
+SEQUENCE:0
+DTSTAMP:20260303T173717
+DTSTART:20260321T085000
+DTEND:20260321T093500
+SUMMARY:🏀 U08 Girls: Malvern Tigers Wilson vs Maccabi Warriors
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi War
+ riors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Comets Lightning Fixtures
+X-WR-CALNAME:Comets Lightning Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:92e9ff03-cf54-4822-b24b-238540441530
+SEQUENCE:0
+DTSTAMP:20260303T173917
+DTSTART:20260314T170000
+DTEND:20260314T174500
+SUMMARY:🏀 U14 Boys: Comets Lightning vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Suns Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Suns Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9e57161a-0e8c-41b3-9bc9-f91633090d49
+SEQUENCE:0
+DTSTAMP:20260303T174054
+DTSTART:20260310T183000
+DTEND:20260310T191500
+SUMMARY:🏀 U18 Girls: Glen Iris Scorpions Suns vs Malvern Tigers Nichols
+ on
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Nicholson\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4fe2d082-d2b9-49ae-9194-8595a50be814
+SEQUENCE:0
+DTSTAMP:20260303T174054
+DTSTART:20260317T191500
+DTEND:20260317T200000
+SUMMARY:🏀 U18 Girls: Glen Iris Scorpions Suns vs Summerhill Park Piranh
+ as
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Summer
+ hill Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

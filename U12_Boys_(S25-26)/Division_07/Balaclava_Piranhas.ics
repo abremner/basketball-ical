@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Balaclava Piranhas Fixtures
+X-WR-CALNAME:Balaclava Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:80efd491-27f0-444c-8261-4a419ff744d8
+SEQUENCE:0
+DTSTAMP:20260303T173836
+DTSTART:20260314T123000
+DTEND:20260314T131500
+SUMMARY:🏀 U12 Boys: Balaclava Piranhas vs Solway  Devils
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+  Devils\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

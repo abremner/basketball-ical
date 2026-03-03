@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Sapphires Fixtures
+X-WR-CALNAME:Solway Sapphires Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:22329d83-f785-430c-a4db-979afd2937f8
+SEQUENCE:0
+DTSTAMP:20260303T174000
+DTSTART:20260314T161500
+DTEND:20260314T170000
+SUMMARY:🏀 U14 Girls: Solway Sapphires vs Timberwolves Sapphires
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Sapphires\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Rocci Fixtures
+X-WR-CALNAME:Malvern Tigers Rocci Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:54c0bbba-6ff5-4dc4-be92-ecc128776e5c
+SEQUENCE:0
+DTSTAMP:20260303T174029
+DTSTART:20260310T183000
+DTEND:20260310T191500
+SUMMARY:🏀 U16 Girls: Malvern Tigers Rocci vs Solway Fever
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Fever\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b4a5797a-26d7-4f2d-8446-d017b2ee849e
+SEQUENCE:0
+DTSTAMP:20260303T174029
+DTSTART:20260317T183000
+DTEND:20260317T191500
+SUMMARY:🏀 U16 Girls: Malvern Tigers Rocci vs Timberwolves Rockets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Rockets\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Thrashers Fixtures
+X-WR-CALNAME:Toorak Thrashers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8a02d477-5820-4d42-aacd-af9c8a7ce978
+SEQUENCE:0
+DTSTAMP:20260303T173736
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Solway Bulls
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Bulls\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

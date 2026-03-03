@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Red Robins Fixtures
+X-WR-CALNAME:Solway Red Robins Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b9e3e5d7-d502-463b-ae33-331b8ad92542
+SEQUENCE:0
+DTSTAMP:20260303T173912
+DTSTART:20260314T123000
+DTEND:20260314T131500
+SUMMARY:🏀 U12 Girls: Solway Red Robins vs Ashy Lightning White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
+ ightning White\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

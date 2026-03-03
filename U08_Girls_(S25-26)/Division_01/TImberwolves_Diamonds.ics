@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:TImberwolves Diamonds Fixtures
+X-WR-CALNAME:TImberwolves Diamonds Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:74ee45cc-8c09-46c9-8e73-f0be6292ff9d
+SEQUENCE:0
+DTSTAMP:20260303T173712
+DTSTART:20260314T110000
+DTEND:20260314T114500
+SUMMARY:🏀 U08 Girls: TImberwolves Diamonds vs Malvern Tigers Allen
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Allen\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR
