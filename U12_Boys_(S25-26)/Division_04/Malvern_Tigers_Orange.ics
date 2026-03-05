@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Orange Fixtures
+X-WR-CALNAME:Malvern Tigers Orange Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e946314a-396e-44a9-853d-c13f7d3c2f50
+SEQUENCE:0
+DTSTAMP:20260305T184719
+DTSTART:20260314T140000
+DTEND:20260314T144500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Orange vs Maccabi Ducks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

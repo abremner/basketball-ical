@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Terriers Fixtures
+X-WR-CALNAME:Timberwolves Terriers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e7dc7ccb-a86b-4383-9aa7-a2453b2b8146
+SEQUENCE:0
+DTSTAMP:20260305T184816
+DTSTART:20260314T161500
+DTEND:20260314T170000
+SUMMARY:🏀 U14 Boys: Timberwolves Terriers vs Golden Hawks Iron
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Golden 
+ Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

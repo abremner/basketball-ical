@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:East Malvern Piranhas Fixtures
+X-WR-CALNAME:East Malvern Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ec9d9688-815e-408b-9cd8-01ddfdec5695
+SEQUENCE:0
+DTSTAMP:20260305T184640
+DTSTART:20260314T110000
+DTEND:20260314T114500
+SUMMARY:🏀 U10 Boys: East Malvern Piranhas vs Koornang Piranhas
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Koornang Piranhas\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+END:VCALENDAR

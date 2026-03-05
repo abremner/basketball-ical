@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Nelson Fixtures
+X-WR-CALNAME:Malvern Tigers Nelson Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3786a0d8-d712-450c-a2e4-2f6e045bec95
+SEQUENCE:0
+DTSTAMP:20260305T184838
+DTSTART:20260314T161500
+DTEND:20260314T170000
+SUMMARY:🏀 U14 Girls: Malvern Tigers Nelson vs Solway Jewels
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Jewe
+ ls\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

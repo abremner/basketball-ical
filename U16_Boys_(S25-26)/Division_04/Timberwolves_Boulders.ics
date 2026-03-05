@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Boulders Fixtures
+X-WR-CALNAME:Timberwolves Boulders Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9dad67f5-1fa6-4585-bd7e-eb0d0af7ec72
+SEQUENCE:0
+DTSTAMP:20260305T184853
+DTSTART:20260314T191500
+DTEND:20260314T200000
+SUMMARY:🏀 U16 Boys: Timberwolves Boulders vs Fawkner Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Fawkne
+ r Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Kings Fixtures
+X-WR-CALNAME:Maccabi Kings Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:bf49ac64-c069-45c3-8cd9-80169b5de112
+SEQUENCE:0
+DTSTAMP:20260305T184648
+DTSTART:20260314T084500
+DTEND:20260314T093000
+SUMMARY:🏀 U10 Boys: Maccabi Kings vs Viewbank Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Viewbank Piranhas\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+END:VCALENDAR

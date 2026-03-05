@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Allen Fixtures
+X-WR-CALNAME:Malvern Tigers Allen Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4721ba84-d129-4942-b52a-8c88a2da15e3
+SEQUENCE:0
+DTSTAMP:20260305T184611
+DTSTART:20260314T110000
+DTEND:20260314T114500
+SUMMARY:🏀 U08 Girls: Malvern Tigers Allen vs TImberwolves Diamonds
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: TImberw
+ olves Diamonds\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:4a88c074-194e-47a5-9214-31f1cc0a6e1e
+SEQUENCE:0
+DTSTAMP:20260305T184611
+DTSTART:20260321T112000
+DTEND:20260321T120500
+SUMMARY:🏀 U08 Girls: Malvern Tigers Allen vs Solway Stars
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Stars\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

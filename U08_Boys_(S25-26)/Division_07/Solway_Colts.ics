@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Colts Fixtures
+X-WR-CALNAME:Solway Colts Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:462c1f47-4c21-40fc-888e-eaea4a914a5d
+SEQUENCE:0
+DTSTAMP:20260305T184609
+DTSTART:20260314T084500
+DTEND:20260314T093000
+SUMMARY:🏀 U08 Boys: Solway Colts vs Solway Hunters
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Hunters\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:60f19db1-8ea0-4947-bc32-d2a6d680cc25
+SEQUENCE:0
+DTSTAMP:20260305T184609
+DTSTART:20260321T101500
+DTEND:20260321T110000
+SUMMARY:🏀 U08 Boys: Solway Colts vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

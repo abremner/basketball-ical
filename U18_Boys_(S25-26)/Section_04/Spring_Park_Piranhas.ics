@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Spring Park Piranhas Fixtures
+X-WR-CALNAME:Spring Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:92a1812c-9d52-45db-b36e-b07c4f98fc91
+SEQUENCE:0
+DTSTAMP:20260305T184923
+DTSTART:20260315T181500
+DTEND:20260315T190000
+SUMMARY:🏀 U18 Boys: Spring Park Piranhas vs Timberwolves Knights
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Knights\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

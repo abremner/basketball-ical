@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Deacon Fixtures
+X-WR-CALNAME:Malvern Tigers Deacon Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1ec6e45e-6e9f-4015-96c0-2f3f71d0b7f3
+SEQUENCE:0
+DTSTAMP:20260305T184832
+DTSTART:20260314T161500
+DTEND:20260314T170000
+SUMMARY:🏀 U14 Girls: Malvern Tigers Deacon vs Lauriston Legacy
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Laurist
+ on Legacy\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

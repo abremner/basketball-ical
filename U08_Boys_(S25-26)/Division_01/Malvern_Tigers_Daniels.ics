@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Daniels Fixtures
+X-WR-CALNAME:Malvern Tigers Daniels Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f988e01d-f149-4c1f-98b6-e4db997b1370
+SEQUENCE:0
+DTSTAMP:20260305T184553
+DTSTART:20260314T114500
+DTEND:20260314T123000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Ashy Lightning Gold
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Ashy Li
+ ghtning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:2ca2e657-b05a-43ac-bfa4-4bb2f6abe9b0
+SEQUENCE:0
+DTSTAMP:20260305T184553
+DTSTART:20260321T094000
+DTEND:20260321T102500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Daniels vs Timberwolves Blasters
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Blasters\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

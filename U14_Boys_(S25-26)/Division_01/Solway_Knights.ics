@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Knights Fixtures
+X-WR-CALNAME:Solway Knights Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:68199ec3-8771-438f-a22a-2353dd950786
+SEQUENCE:0
+DTSTAMP:20260305T184801
+DTSTART:20260314T174500
+DTEND:20260314T183000
+SUMMARY:🏀 U14 Boys: Solway Knights vs AUBD Blaze
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AUBD B
+ laze\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

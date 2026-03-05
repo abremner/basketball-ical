@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Phillips Fixtures
+X-WR-CALNAME:Malvern Tigers Phillips Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:678074fa-4c66-40b1-ae12-90c444034c0d
+SEQUENCE:0
+DTSTAMP:20260305T184652
+DTSTART:20260314T114500
+DTEND:20260314T123000
+SUMMARY:🏀 U10 Girls: Malvern Tigers Phillips vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

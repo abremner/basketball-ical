@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Yanakie Piranhas Fixtures
+X-WR-CALNAME:Yanakie Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e5b2e026-ce0f-4a4a-9705-ae714c24b42b
+SEQUENCE:0
+DTSTAMP:20260305T184744
+DTSTART:20260314T144500
+DTEND:20260314T153000
+SUMMARY:🏀 U12 Girls: Yanakie Piranhas vs Timberwolves Strikers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Strikers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

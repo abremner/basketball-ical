@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Steeds Fixtures
+X-WR-CALNAME:Solway Steeds Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0aec2d45-8de6-4b78-aa07-e7b1606e634f
+SEQUENCE:0
+DTSTAMP:20260305T184558
+DTSTART:20260314T084500
+DTEND:20260314T093000
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Solway Mustangs
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Mustangs\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:7b9054b1-8220-4903-91a4-cb44b271eb07
+SEQUENCE:0
+DTSTAMP:20260305T184558
+DTSTART:20260321T112000
+DTEND:20260321T120500
+SUMMARY:🏀 U08 Boys: Solway Steeds vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

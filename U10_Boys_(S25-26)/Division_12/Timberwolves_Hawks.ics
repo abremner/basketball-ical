@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Hawks Fixtures
+X-WR-CALNAME:Timberwolves Hawks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:79b0075f-cf7d-4bce-998f-56d63d1d2c8d
+SEQUENCE:0
+DTSTAMP:20260305T184649
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U10 Boys: Timberwolves Hawks vs Heyington Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Heying
+ ton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Nettleton Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Nettleton Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0bd75e4b-149f-49dd-9567-91314423d2fa
+SEQUENCE:0
+DTSTAMP:20260305T184607
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Nettleton vs Solway Pacers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Pacers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f689d2cb-21d5-4f3f-8dc4-754f73d15c7b
+SEQUENCE:0
+DTSTAMP:20260305T184607
+DTSTART:20260321T094000
+DTEND:20260321T102500
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Nettleton vs Solway Hunters
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Hunters\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

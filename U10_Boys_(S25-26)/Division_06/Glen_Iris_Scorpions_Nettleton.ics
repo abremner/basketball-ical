@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Nettleton Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Nettleton Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:04c330ec-45c6-43fd-915e-1c88fae5743f
+SEQUENCE:0
+DTSTAMP:20260305T184630
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Nettleton vs Timberwolves Cubs
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Timberwolves Cubs\nArrive 15 
+ mins early for warm-up
+END:VEVENT
+END:VCALENDAR

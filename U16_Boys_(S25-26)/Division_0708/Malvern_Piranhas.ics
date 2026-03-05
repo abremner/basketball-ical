@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Piranhas Fixtures
+X-WR-CALNAME:Malvern Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2e1f644d-7bef-4c10-a3be-d82d53d0f028
+SEQUENCE:0
+DTSTAMP:20260305T184900
+DTSTART:20260314T191500
+DTEND:20260314T200000
+SUMMARY:🏀 U16 Boys: Malvern Piranhas vs Solway Rangers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Rangers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

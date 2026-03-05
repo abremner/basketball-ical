@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Mavericks Fixtures
+X-WR-CALNAME:Solway Mavericks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2c5781d2-2818-429e-9fa9-ae1fef77c06b
+SEQUENCE:0
+DTSTAMP:20260305T184816
+DTSTART:20260314T153000
+DTEND:20260314T161500
+SUMMARY:🏀 U14 Boys: Solway Mavericks vs Maccabi Ducks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Atwell Fixtures
+X-WR-CALNAME:Malvern Tigers Atwell Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f72e74ef-7ab9-4d4b-9ec5-2f89f1cd569e
+SEQUENCE:0
+DTSTAMP:20260305T184619
+DTSTART:20260314T084500
+DTEND:20260314T093000
+SUMMARY:🏀 U08 Girls: Malvern Tigers Atwell vs Ashy Lightning Green
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
+ ing Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:ed967fdf-e2d3-4c7f-a1bd-d8476ea73286
+SEQUENCE:0
+DTSTAMP:20260305T184619
+DTSTART:20260321T094000
+DTEND:20260321T102500
+SUMMARY:🏀 U08 Girls: Malvern Tigers Atwell vs Kerferd Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Kerferd Pir
+ anhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

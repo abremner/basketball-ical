@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Titans Fixtures
+X-WR-CALNAME:AlphaWolf Titans Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0c6fc92c-9372-4d58-b305-92e6908c34d8
+SEQUENCE:0
+DTSTAMP:20260305T184558
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U08 Boys: AlphaWolf Titans vs Malvern Tigers Bogut
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Bogut\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:840a6e5e-5101-4ac3-bcb6-49de3ea531b6
+SEQUENCE:0
+DTSTAMP:20260305T184558
+DTSTART:20260321T080000
+DTEND:20260321T084500
+SUMMARY:🏀 U08 Boys: AlphaWolf Titans vs Packer Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Packer 
+ Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

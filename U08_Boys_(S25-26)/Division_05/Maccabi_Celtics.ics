@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7b03baad-f1cc-42cb-bcd1-98326f0571ff
+SEQUENCE:0
+DTSTAMP:20260305T184601
+DTSTART:20260314T084500
+DTEND:20260314T093000
+SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Glen Iris Scorpions Gardiner
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
+ is Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:570322ca-568c-430c-8226-aac405ae2514
+SEQUENCE:0
+DTSTAMP:20260305T184601
+DTSTART:20260321T112000
+DTEND:20260321T120500
+SUMMARY:🏀 U08 Boys: Maccabi Celtics vs Dorrington Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Dorring
+ ton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Golden Hawks Iron Fixtures
+X-WR-CALNAME:Golden Hawks Iron Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5c854522-d539-49ca-9da9-a5cfbbb431c6
+SEQUENCE:0
+DTSTAMP:20260305T184631
+DTSTART:20260314T093000
+DTEND:20260314T101500
+SUMMARY:🏀 U10 Boys: Golden Hawks Iron vs Maccabi Ducks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

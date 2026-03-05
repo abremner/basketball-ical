@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Willow Piranhas Fixtures
+X-WR-CALNAME:Willow Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2cd218fe-8a4e-4175-ba99-554bbed3289b
+SEQUENCE:0
+DTSTAMP:20260305T184752
+DTSTART:20260314T140000
+DTEND:20260314T144500
+SUMMARY:🏀 U12 Girls: Willow Piranhas vs Maccabi Falcons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Falcons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

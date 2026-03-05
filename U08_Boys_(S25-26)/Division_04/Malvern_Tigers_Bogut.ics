@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Bogut Fixtures
+X-WR-CALNAME:Malvern Tigers Bogut Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8d3bdbb4-3537-42be-b1cf-caf01a0f7578
+SEQUENCE:0
+DTSTAMP:20260305T184559
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U08 Boys: Malvern Tigers Bogut vs AlphaWolf Titans
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: AlphaWo
+ lf Titans\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:a30ec2b3-cd1a-4104-8d0a-bc5272706438
+SEQUENCE:0
+DTSTAMP:20260305T184559
+DTSTART:20260321T085000
+DTEND:20260321T093500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Bogut vs Golden Hawks Sky
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Golden 
+ Hawks Sky\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

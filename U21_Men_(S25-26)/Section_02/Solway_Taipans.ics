@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Taipans Fixtures
+X-WR-CALNAME:Solway Taipans Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a74a3add-5496-4f4c-88a5-f2e488b6f4db
+SEQUENCE:0
+DTSTAMP:20260305T184939
+DTSTART:20260315T190000
+DTEND:20260315T194500
+SUMMARY:🏀 U21 Men: Solway Taipans vs Solway Pythons
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Pythons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

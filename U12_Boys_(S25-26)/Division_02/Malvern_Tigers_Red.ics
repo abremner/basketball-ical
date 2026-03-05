@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Red Fixtures
+X-WR-CALNAME:Malvern Tigers Red Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2d21b530-78ce-4974-8b8f-a5f5e46ea4fe
+SEQUENCE:0
+DTSTAMP:20260305T184712
+DTSTART:20260314T144500
+DTEND:20260314T153000
+SUMMARY:🏀 U12 Boys: Malvern Tigers Red vs Solway Cubs
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Cubs\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

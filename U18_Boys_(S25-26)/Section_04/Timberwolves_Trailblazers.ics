@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Trailblazers Fixtures
+X-WR-CALNAME:Timberwolves Trailblazers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e627dcb4-9714-4cbc-8e49-d6847002759e
+SEQUENCE:0
+DTSTAMP:20260305T184924
+DTSTART:20260315T173000
+DTEND:20260315T181500
+SUMMARY:🏀 U18 Boys: Timberwolves Trailblazers vs Malvern Tigers Red
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Malver
+ n Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

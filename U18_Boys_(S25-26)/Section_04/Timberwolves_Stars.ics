@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Stars Fixtures
+X-WR-CALNAME:Timberwolves Stars Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d1083fbb-bad1-4977-b9e3-7e09621ba0cc
+SEQUENCE:0
+DTSTAMP:20260305T184924
+DTSTART:20260315T173000
+DTEND:20260315T181500
+SUMMARY:🏀 U18 Boys: Timberwolves Stars vs Toorak Turbos
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Toorak
+  Turbos\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

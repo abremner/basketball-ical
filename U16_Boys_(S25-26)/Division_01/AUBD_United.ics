@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AUBD United Fixtures
+X-WR-CALNAME:AUBD United Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:cdba8547-9c71-4ea5-a457-377142d1fa4b
+SEQUENCE:0
+DTSTAMP:20260305T184843
+DTSTART:20260314T183000
+DTEND:20260314T191500
+SUMMARY:🏀 U16 Boys: AUBD United vs Timberwolves Hustlers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Hustlers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

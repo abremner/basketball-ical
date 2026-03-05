@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Emeralds Fixtures
+X-WR-CALNAME:Solway Emeralds Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b82763a3-b78c-4983-9c13-5898fdb9dcf9
+SEQUENCE:0
+DTSTAMP:20260305T184833
+DTSTART:20260314T170000
+DTEND:20260314T174500
+SUMMARY:🏀 U14 Girls: Solway Emeralds vs Glen Iris Scorpions Gardiner
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
+ is Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Raven Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Raven Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:69b4e9bc-65c9-4e18-8a9c-59e9e9c7c15f
+SEQUENCE:0
+DTSTAMP:20260305T184641
+DTSTART:20260314T114500
+DTEND:20260314T123000
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Raven vs Timberwolves Bucks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Timber
+ wolves Bucks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

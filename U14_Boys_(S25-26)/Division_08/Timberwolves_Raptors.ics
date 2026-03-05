@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Raptors Fixtures
+X-WR-CALNAME:Timberwolves Raptors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b7195017-97d0-4ca2-9029-9a140ebba783
+SEQUENCE:0
+DTSTAMP:20260305T184822
+DTSTART:20260314T153000
+DTEND:20260314T161500
+SUMMARY:🏀 U14 Boys: Timberwolves Raptors vs Prahran Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Prahran
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

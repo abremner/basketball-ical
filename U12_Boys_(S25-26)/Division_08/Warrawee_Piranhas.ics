@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Warrawee Piranhas Fixtures
+X-WR-CALNAME:Warrawee Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f01bc7dd-3e5f-4230-8906-d283b9b38c53
+SEQUENCE:0
+DTSTAMP:20260305T184731
+DTSTART:20260314T131500
+DTEND:20260314T140000
+SUMMARY:🏀 U12 Boys: Warrawee Piranhas vs Ashy Lightning Yellow
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Ashy Lightning Yellow\nArrive
+  15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

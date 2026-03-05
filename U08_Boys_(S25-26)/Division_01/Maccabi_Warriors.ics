@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Warriors Fixtures
+X-WR-CALNAME:Maccabi Warriors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:effbb38a-c866-4e63-b5dd-39d4482f68ba
+SEQUENCE:0
+DTSTAMP:20260305T184552
+DTSTART:20260314T093000
+DTEND:20260314T101500
+SUMMARY:🏀 U08 Boys: Maccabi Warriors vs Timberwolves Blasters
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Blasters\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:c7f55eff-1055-42ea-816e-cc8b7c058daf
+SEQUENCE:0
+DTSTAMP:20260305T184552
+DTSTART:20260321T080000
+DTEND:20260321T084500
+SUMMARY:🏀 U08 Boys: Maccabi Warriors vs Claremont Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Claremo
+ nt Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

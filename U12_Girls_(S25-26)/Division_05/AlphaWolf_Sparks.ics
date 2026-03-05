@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Sparks Fixtures
+X-WR-CALNAME:AlphaWolf Sparks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2de5a8ca-e334-4096-853f-e2f39fcc4470
+SEQUENCE:0
+DTSTAMP:20260305T184750
+DTSTART:20260314T144500
+DTEND:20260314T153000
+SUMMARY:🏀 U12 Girls: AlphaWolf Sparks vs Malvern Tigers Blue
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Blue\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

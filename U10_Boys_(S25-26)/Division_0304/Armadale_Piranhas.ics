@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Armadale Piranhas Fixtures
+X-WR-CALNAME:Armadale Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9dff1dd8-df4d-4a5a-8afb-9873c7bbf3bb
+SEQUENCE:0
+DTSTAMP:20260305T184624
+DTSTART:20260314T110000
+DTEND:20260314T114500
+SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Toorak Torpedoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Toorak
+  Torpedoes\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Hawks Fixtures
+X-WR-CALNAME:Maccabi Hawks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1ac688a8-947d-4b51-854c-60a6f79f3bba
+SEQUENCE:0
+DTSTAMP:20260305T184645
+DTSTART:20260314T084500
+DTEND:20260314T093000
+SUMMARY:🏀 U10 Boys: Maccabi Hawks vs Timberwolves Legends
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Timberwolves Legends\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

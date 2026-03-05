@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Broncos Fixtures
+X-WR-CALNAME:Solway Broncos Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e277aa35-802d-4166-be05-b7195f9017d7
+SEQUENCE:0
+DTSTAMP:20260305T184606
+DTSTART:20260314T114500
+DTEND:20260314T123000
+SUMMARY:🏀 U08 Boys: Solway Broncos vs Ferndale Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Ferndal
+ e Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:79d6ed95-4b25-4736-896a-28c8d385c301
+SEQUENCE:0
+DTSTAMP:20260305T184606
+DTSTART:20260321T112000
+DTEND:20260321T120500
+SUMMARY:🏀 U08 Boys: Solway Broncos vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

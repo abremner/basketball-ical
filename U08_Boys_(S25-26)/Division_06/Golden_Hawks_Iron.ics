@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Golden Hawks Iron Fixtures
+X-WR-CALNAME:Golden Hawks Iron Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d31f1d99-9a25-4b06-af58-94e490d0e49e
+SEQUENCE:0
+DTSTAMP:20260305T184604
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U08 Boys: Golden Hawks Iron vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:871ed792-887e-4bdd-8418-326811273941
+SEQUENCE:0
+DTSTAMP:20260305T184604
+DTSTART:20260321T080000
+DTEND:20260321T084500
+SUMMARY:🏀 U08 Boys: Golden Hawks Iron vs Malvern Tigers Gaze
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Gaze\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

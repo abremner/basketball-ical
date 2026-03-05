@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Lauriston Legends Fixtures
+X-WR-CALNAME:Lauriston Legends Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b0b183c3-ad29-4d93-9acd-9a2008845fe9
+SEQUENCE:0
+DTSTAMP:20260305T184840
+DTSTART:20260314T153000
+DTEND:20260314T161500
+SUMMARY:🏀 U14 Girls: Lauriston Legends vs Ashy Lightning White
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
+ ing White\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

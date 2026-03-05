@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Burton Fixtures
+X-WR-CALNAME:Malvern Tigers Burton Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:375b8395-9a32-413e-9b61-7be0c8fae22a
+SEQUENCE:0
+DTSTAMP:20260305T184657
+DTSTART:20260314T123000
+DTEND:20260314T131500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Burton vs Maccabi Warriors
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi War
+ riors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

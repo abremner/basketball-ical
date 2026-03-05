@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Paxton Piranhas Fixtures
+X-WR-CALNAME:Paxton Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c64e73f2-be3a-49dc-93b1-82dbddcb0b32
+SEQUENCE:0
+DTSTAMP:20260305T184804
+DTSTART:20260314T174500
+DTEND:20260314T183000
+SUMMARY:🏀 U14 Boys: Paxton Piranhas vs Maccabi Warriors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

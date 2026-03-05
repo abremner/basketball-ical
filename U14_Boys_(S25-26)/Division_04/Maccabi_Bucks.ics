@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:382cfe66-02ca-4369-ae39-f650d787f54c
+SEQUENCE:0
+DTSTAMP:20260305T184809
+DTSTART:20260314T153000
+DTEND:20260314T161500
+SUMMARY:🏀 U14 Boys: Maccabi Bucks vs AlphaWolf Conquerors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: AlphaW
+ olf Conquerors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

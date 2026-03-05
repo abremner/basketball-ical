@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Blue Fixtures
+X-WR-CALNAME:Malvern Tigers Blue Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:cd9fc017-9fc6-48b4-9156-abb6d8b8f478
+SEQUENCE:0
+DTSTAMP:20260305T184631
+DTSTART:20260314T084500
+DTEND:20260314T093000
+SUMMARY:🏀 U10 Boys: Malvern Tigers Blue vs Orrong Park Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Orrong
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Purple Fixtures
+X-WR-CALNAME:Malvern Tigers Purple Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:973ea632-012e-4285-b9b6-6b3b69c2e8a1
+SEQUENCE:0
+DTSTAMP:20260305T184824
+DTSTART:20260314T153000
+DTEND:20260314T161500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Purple vs Ashy Lightning White
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Ashy Lightning White\nArrive 
+ 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Lauriston Liberty Fixtures
+X-WR-CALNAME:Lauriston Liberty Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:327dc793-0a7e-44a8-8e20-926847de1c91
+SEQUENCE:0
+DTSTAMP:20260305T184826
+DTSTART:20260314T153000
+DTEND:20260314T161500
+SUMMARY:🏀 U14 Girls: Lauriston Liberty vs Solway Rubies
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Rubies\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

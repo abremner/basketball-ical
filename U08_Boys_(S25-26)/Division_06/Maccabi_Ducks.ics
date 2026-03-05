@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Ducks Fixtures
+X-WR-CALNAME:Maccabi Ducks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:346acbce-d07f-4cc6-afb9-f66091945e74
+SEQUENCE:0
+DTSTAMP:20260305T184604
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U08 Boys: Maccabi Ducks vs Golden Hawks Iron
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Golden 
+ Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:50622d1a-defb-4ba9-944f-8eadf4a51990
+SEQUENCE:0
+DTSTAMP:20260305T184604
+DTSTART:20260321T112000
+DTEND:20260321T120500
+SUMMARY:🏀 U08 Boys: Maccabi Ducks vs Solway Broncos
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Broncos\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

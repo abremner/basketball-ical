@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Spartans Fixtures
+X-WR-CALNAME:AlphaWolf Spartans Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8c4d74c5-3b1d-48c1-854c-b33d20f99499
+SEQUENCE:0
+DTSTAMP:20260305T184714
+DTSTART:20260314T140000
+DTEND:20260314T144500
+SUMMARY:🏀 U12 Boys: AlphaWolf Spartans vs Timberwolves Howlers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Timberw
+ olves Howlers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

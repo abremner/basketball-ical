@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Toucans Fixtures
+X-WR-CALNAME:Toorak Toucans Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8bf23bf1-141a-4331-87d0-93c32e281d0a
+SEQUENCE:0
+DTSTAMP:20260305T184555
+DTSTART:20260314T110000
+DTEND:20260314T114500
+SUMMARY:🏀 U08 Boys: Toorak Toucans vs Malvern Tigers Mills
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Mills\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:644db958-33d6-4b47-b182-982b505fd520
+SEQUENCE:0
+DTSTAMP:20260305T184555
+DTSTART:20260321T085000
+DTEND:20260321T093500
+SUMMARY:🏀 U08 Boys: Toorak Toucans vs Malvern Tigers Giddey
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Giddey\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6a009005-832b-44ed-80a1-b05338483a75
+SEQUENCE:0
+DTSTAMP:20260305T184628
+DTSTART:20260314T084500
+DTEND:20260314T093000
+SUMMARY:🏀 U10 Boys: Maccabi Celtics vs AlphaWolf Kings
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AlphaW
+ olf Kings\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

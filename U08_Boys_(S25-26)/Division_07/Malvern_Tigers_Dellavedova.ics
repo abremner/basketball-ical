@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Dellavedova Fixtures
+X-WR-CALNAME:Malvern Tigers Dellavedova Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:df30f741-ec07-4928-b93a-88e70a7ad35e
+SEQUENCE:0
+DTSTAMP:20260305T184608
+DTSTART:20260314T093000
+DTEND:20260314T101500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Dellavedova vs Clyde Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Clyde P
+ iranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:04d85717-ebc8-41e1-8166-9b12e2098502
+SEQUENCE:0
+DTSTAMP:20260305T184608
+DTSTART:20260321T085000
+DTEND:20260321T093500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Dellavedova vs Glen Iris Scorpions R
+ aven
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
+ is Scorpions Raven\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

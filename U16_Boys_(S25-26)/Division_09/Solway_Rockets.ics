@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Rockets Fixtures
+X-WR-CALNAME:Solway Rockets Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:83cfff6f-d382-46ba-8a5c-6e4fab0e9ce9
+SEQUENCE:0
+DTSTAMP:20260305T184905
+DTSTART:20260314T183000
+DTEND:20260314T191500
+SUMMARY:🏀 U16 Boys: Solway Rockets vs Maccabi Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

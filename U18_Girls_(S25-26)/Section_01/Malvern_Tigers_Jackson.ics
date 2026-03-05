@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Jackson Fixtures
+X-WR-CALNAME:Malvern Tigers Jackson Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:518e3333-4ea5-44eb-9fb1-c4cfe4d7c6b2
+SEQUENCE:0
+DTSTAMP:20260305T184926
+DTSTART:20260310T191500
+DTEND:20260310T200000
+SUMMARY:🏀 U18 Girls: Malvern Tigers Jackson vs Malvern Tigers Allen
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Allen\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:6851c625-c6eb-447b-a009-a20edfe13c03
+SEQUENCE:0
+DTSTAMP:20260305T184926
+DTSTART:20260317T191500
+DTEND:20260317T200000
+SUMMARY:🏀 U18 Girls: Malvern Tigers Jackson vs Malvern Tigers Reid
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Reid\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

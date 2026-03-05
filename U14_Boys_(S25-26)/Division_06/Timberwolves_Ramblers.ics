@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Ramblers Fixtures
+X-WR-CALNAME:Timberwolves Ramblers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9c5734c5-9243-43b3-9042-16d74c90b203
+SEQUENCE:0
+DTSTAMP:20260305T184816
+DTSTART:20260314T161500
+DTEND:20260314T170000
+SUMMARY:🏀 U14 Boys: Timberwolves Ramblers vs Maccabi Eagles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

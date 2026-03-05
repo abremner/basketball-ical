@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Dream Fixtures
+X-WR-CALNAME:Solway Dream Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6b79b6d6-0a49-429b-afed-b297805e27a4
+SEQUENCE:0
+DTSTAMP:20260305T184942
+DTSTART:20260310T204500
+DTEND:20260310T213000
+SUMMARY:🏀 U21 Women: Solway Dream vs Solway Galaxy
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Galaxy\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:bea8e998-115d-46fe-b01d-a2f89888cf59
+SEQUENCE:0
+DTSTAMP:20260305T184942
+DTSTART:20260317T204500
+DTEND:20260317T213000
+SUMMARY:🏀 U21 Women: Solway Dream vs Malvern Tigers George
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers George\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

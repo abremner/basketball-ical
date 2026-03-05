@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Korowa Cherry Fixtures
+X-WR-CALNAME:Korowa Cherry Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:44ac09d0-44c2-40c4-ad05-ccc4f14235d0
+SEQUENCE:0
+DTSTAMP:20260305T184655
+DTSTART:20260314T123000
+DTEND:20260314T131500
+SUMMARY:🏀 U10 Girls: Korowa Cherry vs Glen Iris Scorpions Ferndale
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Glen Iris S
+ corpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Boston Fixtures
+X-WR-CALNAME:Malvern Tigers Boston Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8d20843f-ce36-488b-a245-139b88d50806
+SEQUENCE:0
+DTSTAMP:20260305T184829
+DTSTART:20260314T161500
+DTEND:20260314T170000
+SUMMARY:🏀 U14 Girls: Malvern Tigers Boston vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

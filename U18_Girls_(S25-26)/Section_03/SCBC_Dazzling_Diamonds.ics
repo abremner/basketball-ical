@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:SCBC Dazzling Diamonds Fixtures
+X-WR-CALNAME:SCBC Dazzling Diamonds Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e2e0ebd0-094a-4a99-9a96-543b4d9dfdb3
+SEQUENCE:0
+DTSTAMP:20260305T184932
+DTSTART:20260310T191500
+DTEND:20260310T200000
+SUMMARY:🏀 U18 Girls: SCBC Dazzling Diamonds vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:879005ed-519e-47c6-95e8-56a2eef07533
+SEQUENCE:0
+DTSTAMP:20260305T184932
+DTSTART:20260317T200000
+DTEND:20260317T204500
+SUMMARY:🏀 U18 Girls: SCBC Dazzling Diamonds vs Maccabi Holy Hoopers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Maccab
+ i Holy Hoopers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

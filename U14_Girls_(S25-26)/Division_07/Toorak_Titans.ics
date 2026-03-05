@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Titans Fixtures
+X-WR-CALNAME:Toorak Titans Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c75c6f17-a1c0-4c90-be71-144b452c7b7a
+SEQUENCE:0
+DTSTAMP:20260305T184842
+DTSTART:20260314T153000
+DTEND:20260314T161500
+SUMMARY:🏀 U14 Girls: Toorak Titans vs Maccabi Eagles
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Eag
+ les\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

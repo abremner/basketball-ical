@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Hurricanes Fixtures
+X-WR-CALNAME:Timberwolves Hurricanes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0d0b0abb-a21b-4d6a-bf43-c30f86ff3528
+SEQUENCE:0
+DTSTAMP:20260305T184758
+DTSTART:20260314T131500
+DTEND:20260314T140000
+SUMMARY:🏀 U12 Girls: Timberwolves Hurricanes vs Ashy Lightning Yellow
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Ashy Lightn
+ ing Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

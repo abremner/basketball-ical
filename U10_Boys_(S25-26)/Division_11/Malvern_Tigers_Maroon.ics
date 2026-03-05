@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Maroon Fixtures
+X-WR-CALNAME:Malvern Tigers Maroon Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:01861775-5089-42d7-a245-32c1b206d675
+SEQUENCE:0
+DTSTAMP:20260305T184645
+DTSTART:20260314T080000
+DTEND:20260314T084500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Maroon vs Willoby Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Willob
+ y Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Exum Fixtures
+X-WR-CALNAME:Malvern Tigers Exum Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6fb63aca-d283-40a5-80bf-eb03fd6d1d09
+SEQUENCE:0
+DTSTAMP:20260305T184557
+DTSTART:20260314T093000
+DTEND:20260314T101500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Exum vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:b5fcb852-a0e2-4000-8686-670a1aa9eb68
+SEQUENCE:0
+DTSTAMP:20260305T184557
+DTSTART:20260321T085000
+DTEND:20260321T093500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Exum vs Burnley Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Burnley
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

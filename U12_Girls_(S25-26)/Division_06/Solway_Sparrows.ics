@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Sparrows Fixtures
+X-WR-CALNAME:Solway Sparrows Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:02043cb6-d5df-4a4d-bcc5-a4c818b270ef
+SEQUENCE:0
+DTSTAMP:20260305T184755
+DTSTART:20260314T123000
+DTEND:20260314T131500
+SUMMARY:🏀 U12 Girls: Solway Sparrows vs Malvern Tigers Orange
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Orange\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

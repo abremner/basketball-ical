@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Blazers Fixtures
+X-WR-CALNAME:Solway Blazers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:752e7824-a7e8-4f36-b422-afef1f8a833b
+SEQUENCE:0
+DTSTAMP:20260305T184849
+DTSTART:20260314T183000
+DTEND:20260314T191500
+SUMMARY:🏀 U16 Boys: Solway Blazers vs Solway Super Sonics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Super Sonics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

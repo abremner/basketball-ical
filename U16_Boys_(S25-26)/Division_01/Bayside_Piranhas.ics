@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Bayside Piranhas Fixtures
+X-WR-CALNAME:Bayside Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:81704006-7969-4f64-b84c-31a2fabad7ab
+SEQUENCE:0
+DTSTAMP:20260305T184844
+DTSTART:20260314T191500
+DTEND:20260314T200000
+SUMMARY:🏀 U16 Boys: Bayside Piranhas vs Bailey Reserve Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Bailey
+  Reserve Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

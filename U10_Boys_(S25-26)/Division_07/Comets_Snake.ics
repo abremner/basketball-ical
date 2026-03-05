@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Comets Snake Fixtures
+X-WR-CALNAME:Comets Snake Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8c1db460-3b2d-44ab-8538-a2602ea63cfd
+SEQUENCE:0
+DTSTAMP:20260305T184633
+DTSTART:20260314T080000
+DTEND:20260314T084500
+SUMMARY:🏀 U10 Boys: Comets Snake vs Solway Grizzlies
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Grizzlies\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

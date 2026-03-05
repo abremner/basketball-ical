@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers White Fixtures
+X-WR-CALNAME:Malvern Tigers White Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ae9c7236-7282-41aa-ab36-aa64c56f48a1
+SEQUENCE:0
+DTSTAMP:20260305T184855
+DTSTART:20260314T183000
+DTEND:20260314T191500
+SUMMARY:🏀 U16 Boys: Malvern Tigers White vs AlphaWolf Tornados
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: AlphaWo
+ lf Tornados\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

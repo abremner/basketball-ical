@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Blaze Fixtures
+X-WR-CALNAME:Timberwolves Blaze Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e35b2a1f-41be-4304-96a1-b1a9a03e1742
+SEQUENCE:0
+DTSTAMP:20260305T184903
+DTSTART:20260314T174500
+DTEND:20260314T183000
+SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Solway Slammers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Slammers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

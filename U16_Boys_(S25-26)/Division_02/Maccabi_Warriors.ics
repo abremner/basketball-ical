@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Warriors Fixtures
+X-WR-CALNAME:Maccabi Warriors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ef43b6fb-485a-4e96-93dc-a4c64675febc
+SEQUENCE:0
+DTSTAMP:20260305T184846
+DTSTART:20260314T174500
+DTEND:20260314T183000
+SUMMARY:🏀 U16 Boys: Maccabi Warriors vs Timberwolves Taipans
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Taipans\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Harleston Park Piranhas Fixtures
+X-WR-CALNAME:Harleston Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d68a663e-2f29-4dfe-9faf-1ac9c5d03f9a
+SEQUENCE:0
+DTSTAMP:20260305T184613
+DTSTART:20260321T112000
+DTEND:20260321T120500
+SUMMARY:🏀 U08 Girls: Harleston Park Piranhas vs Solway Meteors
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Mete
+ ors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

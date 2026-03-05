@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Phoenix Fixtures
+X-WR-CALNAME:Solway Phoenix Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:42b62e07-51e0-4895-b8aa-89dd357f4667
+SEQUENCE:0
+DTSTAMP:20260305T184911
+DTSTART:20260310T174500
+DTEND:20260310T183000
+SUMMARY:🏀 U16 Girls: Solway Phoenix vs Glen Iris Scorpions Saints
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Saints\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:5574c995-e94c-45ec-8cd3-5d7f101014c8
+SEQUENCE:0
+DTSTAMP:20260305T184911
+DTSTART:20260317T174500
+DTEND:20260317T183000
+SUMMARY:🏀 U16 Girls: Solway Phoenix vs Glen Iris Scorpions Sixers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Glen I
+ ris Scorpions Sixers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

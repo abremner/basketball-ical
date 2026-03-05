@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Comets Cyclones Fixtures
+X-WR-CALNAME:Comets Cyclones Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:cf6e7635-d4d3-4d5b-a5fe-0276c11b2c30
+SEQUENCE:0
+DTSTAMP:20260305T184723
+DTSTART:20260314T140000
+DTEND:20260314T144500
+SUMMARY:🏀 U12 Boys: Comets Cyclones vs Maccabi Giants
+LOCATION:DLS1
+DESCRIPTION:Venue: DLS1\nCourt: 1\nOpponent: Maccabi Giants\nArrive 15 min
+ s early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Windsor Piranhas Fixtures
+X-WR-CALNAME:Windsor Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e7ee5d0b-ff32-46f2-a95b-c5e90d9a3d4d
+SEQUENCE:0
+DTSTAMP:20260305T184711
+DTSTART:20260314T161500
+DTEND:20260314T170000
+SUMMARY:🏀 U12 Boys: Windsor Piranhas vs AUBD Prime
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AUBD P
+ rime\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

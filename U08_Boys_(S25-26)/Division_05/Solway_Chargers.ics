@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Chargers Fixtures
+X-WR-CALNAME:Solway Chargers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5d71e38c-6a70-4400-bc45-7a8ee9f6d70c
+SEQUENCE:0
+DTSTAMP:20260305T184602
+DTSTART:20260314T110000
+DTEND:20260314T114500
+SUMMARY:🏀 U08 Boys: Solway Chargers vs Malvern Tigers Baynes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Tigers Baynes\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:505f2068-7cc1-48d6-8ba9-8f03e0e138c5
+SEQUENCE:0
+DTSTAMP:20260305T184602
+DTSTART:20260321T085000
+DTEND:20260321T093500
+SUMMARY:🏀 U08 Boys: Solway Chargers vs Renwick Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Renwick
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

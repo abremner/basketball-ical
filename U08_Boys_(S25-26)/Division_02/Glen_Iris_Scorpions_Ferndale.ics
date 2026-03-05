@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Ferndale Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Ferndale Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ee28c8cc-ae75-48d6-bd85-1f6fa2cd09b4
+SEQUENCE:0
+DTSTAMP:20260305T184554
+DTSTART:20260314T084500
+DTEND:20260314T093000
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Ferndale vs Solway Stallions
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Stallions\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:231adcea-ecd5-4c14-886e-d498742e60b0
+SEQUENCE:0
+DTSTAMP:20260305T184554
+DTSTART:20260321T112000
+DTEND:20260321T120500
+SUMMARY:🏀 U08 Boys: Glen Iris Scorpions Ferndale vs Solway Brumbies
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Solway 
+ Brumbies\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

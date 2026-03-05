@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tycoons Fixtures
+X-WR-CALNAME:Toorak Tycoons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ae36df8c-5f0e-4412-8903-7f060ada30d1
+SEQUENCE:0
+DTSTAMP:20260305T184643
+DTSTART:20260314T101500
+DTEND:20260314T110000
+SUMMARY:🏀 U10 Boys: Toorak Tycoons vs Hawksburn Piranhas
+LOCATION:ASB1
+DESCRIPTION:Venue: ASB1\nCourt: 1\nOpponent: Hawksburn Piranhas\nArrive 15
+  mins early for warm-up
+END:VEVENT
+END:VCALENDAR

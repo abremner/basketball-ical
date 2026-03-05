@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Falcons Fixtures
+X-WR-CALNAME:Maccabi Falcons Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:75f05dde-0cea-4fc4-a4f1-a4910639a6df
+SEQUENCE:0
+DTSTAMP:20260305T184708
+DTSTART:20260314T084500
+DTEND:20260314T093000
+SUMMARY:🏀 U10 Girls: Maccabi Falcons vs Maccabi Ducks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

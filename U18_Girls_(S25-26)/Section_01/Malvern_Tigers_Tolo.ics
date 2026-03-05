@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Tolo Fixtures
+X-WR-CALNAME:Malvern Tigers Tolo Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:527ce720-6daa-44db-af4d-9a7a9187b351
+SEQUENCE:0
+DTSTAMP:20260305T184927
+DTSTART:20260310T200000
+DTEND:20260310T204500
+SUMMARY:🏀 U18 Girls: Malvern Tigers Tolo vs Solway Suns
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Suns\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:f88d2224-a426-457e-97e2-0effb4818a47
+SEQUENCE:0
+DTSTAMP:20260305T184927
+DTSTART:20260317T200000
+DTEND:20260317T204500
+SUMMARY:🏀 U18 Girls: Malvern Tigers Tolo vs Solway Magic
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Magic\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

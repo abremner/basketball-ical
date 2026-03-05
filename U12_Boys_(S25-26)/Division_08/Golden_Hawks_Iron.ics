@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Golden Hawks Iron Fixtures
+X-WR-CALNAME:Golden Hawks Iron Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:965a11cc-3714-44d5-a48b-68fe9e30606d
+SEQUENCE:0
+DTSTAMP:20260305T184730
+DTSTART:20260314T123000
+DTEND:20260314T131500
+SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Maccabi Hawks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Maccabi
+  Hawks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

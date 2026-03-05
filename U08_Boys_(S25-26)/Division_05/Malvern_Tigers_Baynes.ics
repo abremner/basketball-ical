@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Baynes Fixtures
+X-WR-CALNAME:Malvern Tigers Baynes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:61797a11-07aa-471d-9a5c-642789942c50
+SEQUENCE:0
+DTSTAMP:20260305T184602
+DTSTART:20260314T110000
+DTEND:20260314T114500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Baynes vs Solway Chargers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Chargers\nArrive 15 mins early for warm-up
+END:VEVENT
+BEGIN:VEVENT
+UID:9b4d8b83-4b13-4d14-b9e4-1a58c2c8ad66
+SEQUENCE:0
+DTSTAMP:20260305T184602
+DTSTART:20260321T094000
+DTEND:20260321T102500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Baynes vs Timberwolves Pythons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Pythons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

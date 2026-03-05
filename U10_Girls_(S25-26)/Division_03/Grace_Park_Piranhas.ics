@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Grace Park Piranhas Fixtures
+X-WR-CALNAME:Grace Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:25633702-ebb1-474b-921f-4f4ae0d101e5
+SEQUENCE:0
+DTSTAMP:20260305T184656
+DTSTART:20260314T110000
+DTEND:20260314T114500
+SUMMARY:🏀 U10 Girls: Grace Park Piranhas vs Malvern Tigers Jarry
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Jarry\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:25014381-430c-4beb-98e4-7bcc4af704b9
+SEQUENCE:0
+DTSTAMP:20260305T184832
+DTSTART:20260314T153000
+DTEND:20260314T161500
+SUMMARY:🏀 U14 Girls: Maccabi Bucks vs Toorak Titanium
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Titanium\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

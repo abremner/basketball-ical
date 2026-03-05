@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Lakers Fixtures
+X-WR-CALNAME:AlphaWolf Lakers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e7f02207-c5bc-403f-9599-c6b5e4cd4063
+SEQUENCE:0
+DTSTAMP:20260305T184723
+DTSTART:20260314T123000
+DTEND:20260314T131500
+SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs Malvern Tigers Purple
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Purple\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR
