@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Mustangs Fixtures
+X-WR-CALNAME:Solway Mustangs Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:655da83b-7847-47e2-a457-0e1d0cd88ea2
+SEQUENCE:0
+DTSTAMP:20260316T175453
+DTSTART:20260321T094000
+DTEND:20260321T102500
+SUMMARY:🏀 U08 Boys: Solway Mustangs vs Malvern Tigers Longley
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Longley\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

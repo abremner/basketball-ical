@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ferncroft Piranhas Fixtures
+X-WR-CALNAME:Ferncroft Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ad7e8e3c-4a27-4549-938d-f11d1e29ac42
+SEQUENCE:0
+DTSTAMP:20260316T175911
+DTSTART:20260322T182000
+DTEND:20260322T190500
+SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Maccabi Vipers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Maccab
+ i Vipers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Titans Fixtures
+X-WR-CALNAME:Solway Titans Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1da6a62c-e725-474d-b8af-7f457f68a8fb
+SEQUENCE:0
+DTSTAMP:20260316T175741
+DTSTART:20260321T162000
+DTEND:20260321T170500
+SUMMARY:🏀 U14 Boys: Solway Titans vs AlphaWolf Hustle
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
+ olf Hustle\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

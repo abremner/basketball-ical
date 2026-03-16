@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Blue Fixtures
+X-WR-CALNAME:Malvern Tigers Blue Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:071549ef-94c9-4ddc-953e-16febbbe1b67
+SEQUENCE:0
+DTSTAMP:20260316T175721
+DTSTART:20260321T130000
+DTEND:20260321T134500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Blue vs Maccabi Falcons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Falcons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

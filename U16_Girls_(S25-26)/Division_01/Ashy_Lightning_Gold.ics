@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Gold Fixtures
+X-WR-CALNAME:Ashy Lightning Gold Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5aeb42c8-7807-41c4-93d2-8124c547e25d
+SEQUENCE:0
+DTSTAMP:20260316T175856
+DTSTART:20260317T183000
+DTEND:20260317T191500
+SUMMARY:🏀 U16 Girls: Ashy Lightning Gold vs Solway Fever
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Fever\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

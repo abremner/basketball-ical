@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Lakers Fixtures
+X-WR-CALNAME:Maccabi Lakers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b46017f4-7c92-4b7e-a6c1-bad7cb7434f5
+SEQUENCE:0
+DTSTAMP:20260316T175600
+DTSTART:20260321T085000
+DTEND:20260321T093500
+SUMMARY:🏀 U10 Boys: Maccabi Lakers vs Heyington Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Heying
+ ton Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

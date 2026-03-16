@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Green Fixtures
+X-WR-CALNAME:Ashy Lightning Green Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5b6194c2-49df-40c5-9d19-ae581954259e
+SEQUENCE:0
+DTSTAMP:20260316T175847
+DTSTART:20260321T180000
+DTEND:20260321T184500
+SUMMARY:🏀 U16 Boys: Ashy Lightning Green vs Manning Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Manning
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

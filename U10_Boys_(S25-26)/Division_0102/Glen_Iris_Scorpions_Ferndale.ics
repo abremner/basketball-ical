@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Ferndale Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Ferndale Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:377e8895-bd4c-42a9-af2f-deb80b440960
+SEQUENCE:0
+DTSTAMP:20260316T175525
+DTSTART:20260321T121000
+DTEND:20260321T125500
+SUMMARY:🏀 U10 Boys: Glen Iris Scorpions Ferndale vs Toorak Tigercats
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Tigercats\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

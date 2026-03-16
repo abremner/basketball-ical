@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Green Fixtures
+X-WR-CALNAME:Malvern Tigers Green Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a9f94b51-f90b-4dab-91dc-f7d68bd223f1
+SEQUENCE:0
+DTSTAMP:20260316T175717
+DTSTART:20260321T144000
+DTEND:20260321T152500
+SUMMARY:🏀 U12 Girls: Malvern Tigers Green vs Maccabi Celtics
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Maccabi Cel
+ tics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

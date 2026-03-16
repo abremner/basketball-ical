@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Hustlers Fixtures
+X-WR-CALNAME:Timberwolves Hustlers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:605a5ecd-5131-4a63-bad5-752d80a5b994
+SEQUENCE:0
+DTSTAMP:20260316T175828
+DTSTART:20260321T185000
+DTEND:20260321T193500
+SUMMARY:🏀 U16 Boys: Timberwolves Hustlers vs Timberwolves United
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves United\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

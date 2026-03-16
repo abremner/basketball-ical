@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f0f418ee-8d5d-497f-9355-65f940bd1c32
+SEQUENCE:0
+DTSTAMP:20260316T175529
+DTSTART:20260321T112000
+DTEND:20260321T120500
+SUMMARY:🏀 U10 Boys: Maccabi Bucks vs Toorak Torpedoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Torpedoes\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

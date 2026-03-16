@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tactix Fixtures
+X-WR-CALNAME:Toorak Tactix Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d00f1a0b-89fe-48e9-ac1c-92bedf9e4a6b
+SEQUENCE:0
+DTSTAMP:20260316T175745
+DTSTART:20260321T153000
+DTEND:20260321T161500
+SUMMARY:🏀 U14 Boys: Toorak Tactix vs AlphaWolf Conquerors
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: AlphaWo
+ lf Conquerors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

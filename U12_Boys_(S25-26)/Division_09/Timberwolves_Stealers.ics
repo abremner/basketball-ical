@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Stealers Fixtures
+X-WR-CALNAME:Timberwolves Stealers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f629c44f-17be-49df-aa1b-5c193586d8f3
+SEQUENCE:0
+DTSTAMP:20260316T175700
+DTSTART:20260321T121000
+DTEND:20260321T125500
+SUMMARY:🏀 U12 Boys: Timberwolves Stealers vs Toorak Thunder
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Toorak 
+ Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

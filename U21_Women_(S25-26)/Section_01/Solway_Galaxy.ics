@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Galaxy Fixtures
+X-WR-CALNAME:Solway Galaxy Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1e8be7e9-9ebf-4666-b958-5faa2bc94397
+SEQUENCE:0
+DTSTAMP:20260316T175940
+DTSTART:20260317T204500
+DTEND:20260317T213000
+SUMMARY:🏀 U21 Women: Solway Galaxy vs Malvern Tigers Black
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Black\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

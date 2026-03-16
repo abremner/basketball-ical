@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Storm Fixtures
+X-WR-CALNAME:Timberwolves Storm Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:cfcd7a92-84c3-4008-9cd4-11eb8ec3e3e9
+SEQUENCE:0
+DTSTAMP:20260316T175902
+DTSTART:20260317T174500
+DTEND:20260317T183000
+SUMMARY:🏀 U16 Girls: Timberwolves Storm vs Malvern Tigers Wallace
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers Wallace\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

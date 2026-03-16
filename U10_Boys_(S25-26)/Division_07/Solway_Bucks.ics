@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Bucks Fixtures
+X-WR-CALNAME:Solway Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:93c37d6f-1f54-4b17-a07a-88fc5c698a81
+SEQUENCE:0
+DTSTAMP:20260316T175542
+DTSTART:20260321T094000
+DTEND:20260321T102500
+SUMMARY:🏀 U10 Boys: Solway Bucks vs Comets Snake
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
+  Snake\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

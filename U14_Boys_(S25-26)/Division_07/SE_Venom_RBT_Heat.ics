@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:SE Venom RBT Heat Fixtures
+X-WR-CALNAME:SE Venom RBT Heat Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c1e31425-6827-443d-95a5-0aac86113001
+SEQUENCE:0
+DTSTAMP:20260316T175756
+DTSTART:20260321T153000
+DTEND:20260321T161500
+SUMMARY:🏀 U14 Boys: SE Venom RBT Heat vs Inkerman Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Inkerm
+ an Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Blaze Fixtures
+X-WR-CALNAME:Timberwolves Blaze Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:31988da5-545d-4727-9e3a-d32136807fcc
+SEQUENCE:0
+DTSTAMP:20260316T175851
+DTSTART:20260321T180000
+DTEND:20260321T184500
+SUMMARY:🏀 U16 Boys: Timberwolves Blaze vs Solway Slammers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Slammers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

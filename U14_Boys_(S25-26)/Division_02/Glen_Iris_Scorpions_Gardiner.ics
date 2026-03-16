@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Gardiner Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Gardiner Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1c32f252-3ad6-4dcd-b67c-6ad33b95c5fc
+SEQUENCE:0
+DTSTAMP:20260316T175736
+DTSTART:20260321T144000
+DTEND:20260321T152500
+SUMMARY:🏀 U14 Boys: Glen Iris Scorpions Gardiner vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Warriors Fixtures
+X-WR-CALNAME:Maccabi Warriors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:146912fb-f844-4684-9c8a-25c5006c3902
+SEQUENCE:0
+DTSTAMP:20260316T175629
+DTSTART:20260321T130000
+DTEND:20260321T134500
+SUMMARY:🏀 U12 Boys: Maccabi Warriors vs Timberwolves Bullets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Bullets\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

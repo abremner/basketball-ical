@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Wilson Piranhas Fixtures
+X-WR-CALNAME:Wilson Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:069773ec-25ba-4f24-80b5-91c6bfb19863
+SEQUENCE:0
+DTSTAMP:20260316T175707
+DTSTART:20260321T130000
+DTEND:20260321T134500
+SUMMARY:🏀 U12 Boys: Wilson Piranhas vs Golden Hawks Blaze
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Golden 
+ Hawks Blaze\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

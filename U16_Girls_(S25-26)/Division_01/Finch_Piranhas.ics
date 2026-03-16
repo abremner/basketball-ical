@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Finch Piranhas Fixtures
+X-WR-CALNAME:Finch Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a66da043-a424-4695-90cf-fb15f06ec1b4
+SEQUENCE:0
+DTSTAMP:20260316T175856
+DTSTART:20260317T174500
+DTEND:20260317T183000
+SUMMARY:🏀 U16 Girls: Finch Piranhas vs Solway Marvels
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Solway
+  Marvels\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

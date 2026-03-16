@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Atwell Fixtures
+X-WR-CALNAME:Malvern Tigers Atwell Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8ee97379-3cd8-42ae-8339-d90e868656ba
+SEQUENCE:0
+DTSTAMP:20260316T175521
+DTSTART:20260321T094000
+DTEND:20260321T102500
+SUMMARY:🏀 U08 Girls: Malvern Tigers Atwell vs Kerferd Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Kerferd Pir
+ anhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

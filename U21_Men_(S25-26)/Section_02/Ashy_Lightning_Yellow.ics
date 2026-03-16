@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Yellow Fixtures
+X-WR-CALNAME:Ashy Lightning Yellow Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0af966b0-1e6e-4ad3-85db-f1404e87ebe2
+SEQUENCE:0
+DTSTAMP:20260316T175935
+DTSTART:20260322T182000
+DTEND:20260322T190500
+SUMMARY:🏀 U21 Men: Ashy Lightning Yellow vs Solway Cobras
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Cobras\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

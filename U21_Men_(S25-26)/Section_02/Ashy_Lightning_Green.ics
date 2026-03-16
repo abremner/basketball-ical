@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Green Fixtures
+X-WR-CALNAME:Ashy Lightning Green Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:50531e6e-9fa0-429b-a397-6ec6ce84214e
+SEQUENCE:0
+DTSTAMP:20260316T175934
+DTSTART:20260322T173000
+DTEND:20260322T181500
+SUMMARY:🏀 U21 Men: Ashy Lightning Green vs Titans Larrys
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Titans
+  Larrys\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

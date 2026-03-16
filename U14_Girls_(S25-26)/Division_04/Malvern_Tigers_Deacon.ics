@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Deacon Fixtures
+X-WR-CALNAME:Malvern Tigers Deacon Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1e8e9b69-8d34-4c45-88b0-bd49a1546fad
+SEQUENCE:0
+DTSTAMP:20260316T175813
+DTSTART:20260321T162000
+DTEND:20260321T170500
+SUMMARY:🏀 U14 Girls: Malvern Tigers Deacon vs Toorak Topshots
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Toorak
+  Topshots\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Rocci Fixtures
+X-WR-CALNAME:Malvern Tigers Rocci Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9d421500-31be-46b7-b610-409311d74ef4
+SEQUENCE:0
+DTSTAMP:20260316T175857
+DTSTART:20260317T183000
+DTEND:20260317T191500
+SUMMARY:🏀 U16 Girls: Malvern Tigers Rocci vs Timberwolves Rockets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Rockets\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

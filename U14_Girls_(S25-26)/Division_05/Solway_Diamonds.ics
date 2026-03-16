@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Diamonds Fixtures
+X-WR-CALNAME:Solway Diamonds Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:35fe60e8-bff9-49cb-bc88-1dd4522dd2ee
+SEQUENCE:0
+DTSTAMP:20260316T175817
+DTSTART:20260321T153000
+DTEND:20260321T161500
+SUMMARY:🏀 U14 Girls: Solway Diamonds vs Malvern Tigers Fisher
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Fisher\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

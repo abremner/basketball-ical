@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Blades Fixtures
+X-WR-CALNAME:Solway Blades Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a6fb28c7-db77-4c7e-b8e1-7d3ce73c29cd
+SEQUENCE:0
+DTSTAMP:20260316T175844
+DTSTART:20260321T171000
+DTEND:20260321T175500
+SUMMARY:🏀 U16 Boys: Solway Blades vs Ormond Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ormond 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

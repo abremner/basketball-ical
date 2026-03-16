@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Pacers Fixtures
+X-WR-CALNAME:Solway Pacers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d9fb81c1-f424-4052-b2ed-6ec091962f38
+SEQUENCE:0
+DTSTAMP:20260316T175509
+DTSTART:20260321T080000
+DTEND:20260321T084500
+SUMMARY:🏀 U08 Boys: Solway Pacers vs Arax
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Arax\nA
+ rrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

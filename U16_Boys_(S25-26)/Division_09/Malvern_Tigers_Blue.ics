@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Blue Fixtures
+X-WR-CALNAME:Malvern Tigers Blue Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2fb89407-6f17-4a02-a10b-bedf762276fa
+SEQUENCE:0
+DTSTAMP:20260316T175853
+DTSTART:20260321T171000
+DTEND:20260321T175500
+SUMMARY:🏀 U16 Boys: Malvern Tigers Blue vs Ashy Lightning Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

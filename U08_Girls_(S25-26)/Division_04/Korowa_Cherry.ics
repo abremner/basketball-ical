@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Korowa Cherry Fixtures
+X-WR-CALNAME:Korowa Cherry Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7db69c5e-614f-4dc9-a9d6-635d8a568610
+SEQUENCE:0
+DTSTAMP:20260316T175520
+DTSTART:20260321T103000
+DTEND:20260321T111500
+SUMMARY:🏀 U08 Girls: Korowa Cherry vs Ashy Lightning Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Ashy Li
+ ghtning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

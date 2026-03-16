@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ardrie Park Piranhas Fixtures
+X-WR-CALNAME:Ardrie Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:635c6e3f-edaa-40bf-954a-6c983999cd5d
+SEQUENCE:0
+DTSTAMP:20260316T175653
+DTSTART:20260321T121000
+DTEND:20260321T125500
+SUMMARY:🏀 U12 Boys: Ardrie Park Piranhas vs Glen Iris Scorpions Nettlet
+ on
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Glen I
+ ris Scorpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

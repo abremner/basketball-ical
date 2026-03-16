@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Korowa Cherry Fixtures
+X-WR-CALNAME:Korowa Cherry Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4171621e-4abf-411e-8d32-24d97cb3a306
+SEQUENCE:0
+DTSTAMP:20260316T175901
+DTSTART:20260317T174500
+DTEND:20260317T183000
+SUMMARY:🏀 U16 Girls: Korowa Cherry vs Timberwolves Emeralds
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Emeralds\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

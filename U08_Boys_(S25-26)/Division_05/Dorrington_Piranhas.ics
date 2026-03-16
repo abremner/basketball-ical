@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Dorrington Piranhas Fixtures
+X-WR-CALNAME:Dorrington Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6d8a9a68-e80f-404c-aaf4-19057e9929f4
+SEQUENCE:0
+DTSTAMP:20260316T175457
+DTSTART:20260321T112000
+DTEND:20260321T120500
+SUMMARY:🏀 U08 Boys: Dorrington Piranhas vs Maccabi Celtics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR
