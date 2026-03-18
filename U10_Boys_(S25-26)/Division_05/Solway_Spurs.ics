@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Spurs Fixtures
+X-WR-CALNAME:Solway Spurs Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:082c004b-d064-46a6-b43e-ace8cc258225
+SEQUENCE:0
+DTSTAMP:20260318T175538
+DTSTART:20260321T103000
+DTEND:20260321T111500
+SUMMARY:🏀 U10 Boys: Solway Spurs vs AlphaWolf Kings
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: AlphaW
+ olf Kings\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

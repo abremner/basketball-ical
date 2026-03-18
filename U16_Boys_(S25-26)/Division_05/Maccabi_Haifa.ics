@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Haifa Fixtures
+X-WR-CALNAME:Maccabi Haifa Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:cbbefc19-da44-471a-8fee-bfea18f74655
+SEQUENCE:0
+DTSTAMP:20260318T175845
+DTSTART:20260321T180000
+DTEND:20260321T184500
+SUMMARY:🏀 U16 Boys: Maccabi Haifa vs Toorak Trackers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Trackers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

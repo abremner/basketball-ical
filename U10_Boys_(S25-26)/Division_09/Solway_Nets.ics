@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Nets Fixtures
+X-WR-CALNAME:Solway Nets Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ed62d8e2-81cc-4524-b5ab-fa68bc5fda18
+SEQUENCE:0
+DTSTAMP:20260318T175550
+DTSTART:20260321T080000
+DTEND:20260321T084500
+SUMMARY:🏀 U10 Boys: Solway Nets vs Solway Hornets
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Hornets\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

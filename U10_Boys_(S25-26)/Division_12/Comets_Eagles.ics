@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Comets Eagles Fixtures
+X-WR-CALNAME:Comets Eagles Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b0117c73-4fb1-485f-81a4-eca366b13eb1
+SEQUENCE:0
+DTSTAMP:20260318T175601
+DTSTART:20260321T080000
+DTEND:20260321T084500
+SUMMARY:🏀 U10 Boys: Comets Eagles vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

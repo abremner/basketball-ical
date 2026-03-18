@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Arax Fixtures
+X-WR-CALNAME:Arax Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:bd350e3a-c7dd-4e69-b687-617062f82cfa
+SEQUENCE:0
+DTSTAMP:20260318T175619
+DTSTART:20260321T103000
+DTEND:20260321T111500
+SUMMARY:🏀 U10 Girls: Arax vs Maccabi Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Maccab
+ i Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Arax Fixtures
+X-WR-CALNAME:Arax Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:22915908-166e-4780-9d1c-987d5ed3a2cc
+SEQUENCE:0
+DTSTAMP:20260318T175833
+DTSTART:20260321T171000
+DTEND:20260321T175500
+SUMMARY:🏀 U16 Boys: Arax vs Toorak Tropics
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Toorak 
+ Tropics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

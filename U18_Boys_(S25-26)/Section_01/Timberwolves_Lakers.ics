@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Lakers Fixtures
+X-WR-CALNAME:Timberwolves Lakers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d9fc3c28-3126-46e9-9807-5aeacd00c03d
+SEQUENCE:0
+DTSTAMP:20260318T175910
+DTSTART:20260322T173000
+DTEND:20260322T181500
+SUMMARY:🏀 U18 Boys: Timberwolves Lakers vs Tooronga Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Tooron
+ ga Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

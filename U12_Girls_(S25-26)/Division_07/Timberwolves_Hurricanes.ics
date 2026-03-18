@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Hurricanes Fixtures
+X-WR-CALNAME:Timberwolves Hurricanes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:027e7996-a352-43d2-85b1-59f22bf35532
+SEQUENCE:0
+DTSTAMP:20260318T175732
+DTSTART:20260321T130000
+DTEND:20260321T134500
+SUMMARY:🏀 U12 Girls: Timberwolves Hurricanes vs Solway Red Robins
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Solway Red 
+ Robins\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

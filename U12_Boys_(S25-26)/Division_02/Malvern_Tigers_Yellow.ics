@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Yellow Fixtures
+X-WR-CALNAME:Malvern Tigers Yellow Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:cf603064-0e6d-42f4-af6c-f5f5d0961aed
+SEQUENCE:0
+DTSTAMP:20260318T175634
+DTSTART:20260321T135000
+DTEND:20260321T143500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Yellow vs Malvern Tigers Red
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

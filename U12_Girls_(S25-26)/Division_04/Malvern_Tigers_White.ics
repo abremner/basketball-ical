@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers White Fixtures
+X-WR-CALNAME:Malvern Tigers White Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f6b73fe0-ab6d-438e-9085-ff7830c3054f
+SEQUENCE:0
+DTSTAMP:20260318T175720
+DTSTART:20260321T144000
+DTEND:20260321T152500
+SUMMARY:🏀 U12 Girls: Malvern Tigers White vs Timberwolves Thunder
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Timberwolve
+ s Thunder\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Golden Hawks Iron Fixtures
+X-WR-CALNAME:Golden Hawks Iron Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d60f4e4b-e262-4916-9dac-ea873c259450
+SEQUENCE:0
+DTSTAMP:20260318T175656
+DTSTART:20260321T130000
+DTEND:20260321T134500
+SUMMARY:🏀 U12 Boys: Golden Hawks Iron vs Ashy Lightning Yellow
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Ashy L
+ ightning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

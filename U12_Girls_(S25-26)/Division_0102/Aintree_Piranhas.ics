@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Aintree Piranhas Fixtures
+X-WR-CALNAME:Aintree Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b56a0c2b-20c9-4cf5-8b5f-170bae64d1f2
+SEQUENCE:0
+DTSTAMP:20260318T175711
+DTSTART:20260321T144000
+DTEND:20260321T152500
+SUMMARY:🏀 U12 Girls: Aintree Piranhas vs Glen Iris Scorpions Ferndale
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Glen Ir
+ is Scorpions Ferndale\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

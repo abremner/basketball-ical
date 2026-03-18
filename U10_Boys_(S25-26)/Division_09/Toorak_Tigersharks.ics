@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tigersharks Fixtures
+X-WR-CALNAME:Toorak Tigersharks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:34b8ac21-81a5-4b51-b9df-2479ef7571f3
+SEQUENCE:0
+DTSTAMP:20260318T175550
+DTSTART:20260321T085000
+DTEND:20260321T093500
+SUMMARY:🏀 U10 Boys: Toorak Tigersharks vs Maccabi Eagles
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Eagles\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

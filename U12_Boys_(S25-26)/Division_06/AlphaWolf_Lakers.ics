@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Lakers Fixtures
+X-WR-CALNAME:AlphaWolf Lakers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4b30be93-f757-45a5-9170-9026d13edc8c
+SEQUENCE:0
+DTSTAMP:20260318T175647
+DTSTART:20260321T135000
+DTEND:20260321T143500
+SUMMARY:🏀 U12 Boys: AlphaWolf Lakers vs Maccabi Giants
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Maccabi
+  Giants\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

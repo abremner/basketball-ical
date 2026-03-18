@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Wallace Fixtures
+X-WR-CALNAME:Malvern Tigers Wallace Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e736571b-4c47-4eae-8e52-191d162d60fa
+SEQUENCE:0
+DTSTAMP:20260318T175519
+DTSTART:20260321T094000
+DTEND:20260321T102500
+SUMMARY:🏀 U08 Girls: Malvern Tigers Wallace vs Maccabi Bucks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Buc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

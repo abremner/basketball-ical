@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Saints Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Saints Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b876c030-450a-4c5d-97af-666fff79da96
+SEQUENCE:0
+DTSTAMP:20260318T175903
+DTSTART:20260324T183500
+DTEND:20260324T192000
+SUMMARY:🏀 U16 Girls: Glen Iris Scorpions Saints vs Korowa Cherry
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Korowa
+  Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

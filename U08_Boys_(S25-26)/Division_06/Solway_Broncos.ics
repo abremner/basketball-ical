@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Broncos Fixtures
+X-WR-CALNAME:Solway Broncos Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:142e0010-9a7f-4ee6-bb4f-e35e01a9ad0b
+SEQUENCE:0
+DTSTAMP:20260318T175506
+DTSTART:20260321T112000
+DTEND:20260321T120500
+SUMMARY:🏀 U08 Boys: Solway Broncos vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

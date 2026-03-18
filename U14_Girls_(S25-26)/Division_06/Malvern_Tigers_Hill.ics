@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Hill Fixtures
+X-WR-CALNAME:Malvern Tigers Hill Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e0f24251-f999-4fad-848d-c919c0444d0f
+SEQUENCE:0
+DTSTAMP:20260318T175822
+DTSTART:20260321T153000
+DTEND:20260321T161500
+SUMMARY:🏀 U14 Girls: Malvern Tigers Hill vs Malvern Tigers Nelson
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Nelson\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

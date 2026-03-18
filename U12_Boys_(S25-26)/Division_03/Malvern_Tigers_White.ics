@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers White Fixtures
+X-WR-CALNAME:Malvern Tigers White Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:227712aa-1b9d-4c06-98ff-abba9ba61488
+SEQUENCE:0
+DTSTAMP:20260318T175638
+DTSTART:20260321T135000
+DTEND:20260321T143500
+SUMMARY:🏀 U12 Boys: Malvern Tigers White vs Toorak Tarantulas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Toorak 
+ Tarantulas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

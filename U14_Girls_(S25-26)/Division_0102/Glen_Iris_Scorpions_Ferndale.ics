@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Ferndale Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Ferndale Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5a234571-20f8-4048-bb9c-577d867e41c7
+SEQUENCE:0
+DTSTAMP:20260318T175808
+DTSTART:20260321T153000
+DTEND:20260321T161500
+SUMMARY:🏀 U14 Girls: Glen Iris Scorpions Ferndale vs Lauriston Liberty
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Lauris
+ ton Liberty\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Elsternwick Piranhas Fixtures
+X-WR-CALNAME:Elsternwick Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:975da1bd-99e1-42ed-8535-e9e17dcb1a4d
+SEQUENCE:0
+DTSTAMP:20260318T175738
+DTSTART:20260321T153000
+DTEND:20260321T161500
+SUMMARY:🏀 U14 Boys: Elsternwick Piranhas vs Comets Lightning
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Comets
+  Lightning\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

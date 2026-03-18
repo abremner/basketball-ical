@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Jarry Fixtures
+X-WR-CALNAME:Malvern Tigers Jarry Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0a9811ca-bd0b-4cc0-b9f2-1cba541ac798
+SEQUENCE:0
+DTSTAMP:20260318T175614
+DTSTART:20260321T112000
+DTEND:20260321T120500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Jarry vs Lauriston Fire
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Lauris
+ ton Fire\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

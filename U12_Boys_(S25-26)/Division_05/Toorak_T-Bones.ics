@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak T-Bones Fixtures
+X-WR-CALNAME:Toorak T-Bones Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:736a2406-9148-4929-80f4-301c6ce0fc36
+SEQUENCE:0
+DTSTAMP:20260318T175646
+DTSTART:20260321T135000
+DTEND:20260321T143500
+SUMMARY:🏀 U12 Boys: Toorak T-Bones vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

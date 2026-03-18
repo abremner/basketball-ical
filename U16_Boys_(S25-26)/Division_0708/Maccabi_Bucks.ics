@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:eec3efcf-3211-441f-908b-4b24a1d876bf
+SEQUENCE:0
+DTSTAMP:20260318T175851
+DTSTART:20260321T171000
+DTEND:20260321T175500
+SUMMARY:🏀 U16 Boys: Maccabi Bucks vs Malvern Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Malvern
+  Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

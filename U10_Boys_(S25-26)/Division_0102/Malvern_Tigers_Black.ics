@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Black Fixtures
+X-WR-CALNAME:Malvern Tigers Black Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5438e8d6-964b-4541-bf11-60a2ad73767c
+SEQUENCE:0
+DTSTAMP:20260318T175528
+DTSTART:20260321T121000
+DTEND:20260321T125500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Black vs Malvern Tigers Red
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

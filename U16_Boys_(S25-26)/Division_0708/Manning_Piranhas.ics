@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Manning Piranhas Fixtures
+X-WR-CALNAME:Manning Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7e1461e4-c48b-4daf-a2a5-377628a6242b
+SEQUENCE:0
+DTSTAMP:20260318T175852
+DTSTART:20260321T162000
+DTEND:20260321T170500
+SUMMARY:🏀 U16 Boys: Manning Piranhas vs Ashy Lightning Green
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Ashy L
+ ightning Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

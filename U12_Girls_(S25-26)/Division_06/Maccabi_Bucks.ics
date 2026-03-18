@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:de879c73-4e8f-4a84-91c8-ed241dcf7d89
+SEQUENCE:0
+DTSTAMP:20260318T175726
+DTSTART:20260321T135000
+DTEND:20260321T143500
+SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Maccabi Ducks
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Maccabi Duc
+ ks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

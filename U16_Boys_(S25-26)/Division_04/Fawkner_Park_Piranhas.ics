@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Fawkner Park Piranhas Fixtures
+X-WR-CALNAME:Fawkner Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e791ffa0-3c1a-40af-9175-83900d0f5b2e
+SEQUENCE:0
+DTSTAMP:20260318T175842
+DTSTART:20260321T171000
+DTEND:20260321T175500
+SUMMARY:🏀 U16 Boys: Fawkner Park Piranhas vs Timberwolves Boulders
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Boulders\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

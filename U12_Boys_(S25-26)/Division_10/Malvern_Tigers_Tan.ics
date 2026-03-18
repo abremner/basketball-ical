@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Tan Fixtures
+X-WR-CALNAME:Malvern Tigers Tan Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b3a3f3bc-936e-4c45-90ba-d0dd02ca3804
+SEQUENCE:0
+DTSTAMP:20260318T175705
+DTSTART:20260321T121000
+DTEND:20260321T125500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Tan vs Solway Dingoes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Dingoes\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

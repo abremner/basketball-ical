@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Troublemakers Fixtures
+X-WR-CALNAME:Toorak Troublemakers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:3f0ea43c-916c-4dba-86fe-6c4468901d7e
+SEQUENCE:0
+DTSTAMP:20260318T175718
+DTSTART:20260321T130000
+DTEND:20260321T134500
+SUMMARY:🏀 U12 Girls: Toorak Troublemakers vs Korowa Cherry
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Korowa 
+ Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

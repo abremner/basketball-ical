@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Maroon Fixtures
+X-WR-CALNAME:Malvern Tigers Maroon Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:70b349f4-25f8-46cf-9528-b5be4abc569f
+SEQUENCE:0
+DTSTAMP:20260318T175652
+DTSTART:20260321T130000
+DTEND:20260321T134500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Maroon vs Solway Panthers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Panthers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

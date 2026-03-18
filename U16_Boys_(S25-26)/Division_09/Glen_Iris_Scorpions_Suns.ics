@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Suns Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Suns Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f66c4702-85a5-4872-a8b3-8a9b340ad7a2
+SEQUENCE:0
+DTSTAMP:20260318T175856
+DTSTART:20260321T180000
+DTEND:20260321T184500
+SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Suns vs Solway Rockets
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Solway 
+ Rockets\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

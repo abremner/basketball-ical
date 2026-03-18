@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5eaadcc8-f8dd-4477-988b-b969d868a287
+SEQUENCE:0
+DTSTAMP:20260318T175753
+DTSTART:20260321T153000
+DTEND:20260321T161500
+SUMMARY:🏀 U14 Boys: Maccabi Celtics vs Timberwolves Terriers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Timberw
+ olves Terriers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

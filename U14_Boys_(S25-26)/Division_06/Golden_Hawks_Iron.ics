@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Golden Hawks Iron Fixtures
+X-WR-CALNAME:Golden Hawks Iron Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7e84abbd-0a61-4fbc-b884-1026e8598f5c
+SEQUENCE:0
+DTSTAMP:20260318T175753
+DTSTART:20260321T162000
+DTEND:20260321T170500
+SUMMARY:🏀 U14 Boys: Golden Hawks Iron vs Solway Mavericks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Mavericks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Comets Cyclones Fixtures
+X-WR-CALNAME:Comets Cyclones Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c8a7257a-8c61-4700-82cb-29630a55140f
+SEQUENCE:0
+DTSTAMP:20260318T175647
+DTSTART:20260321T130000
+DTEND:20260321T134500
+SUMMARY:🏀 U12 Boys: Comets Cyclones vs Solway Lions
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Lions\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

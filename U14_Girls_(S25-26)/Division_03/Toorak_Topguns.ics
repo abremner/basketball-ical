@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Topguns Fixtures
+X-WR-CALNAME:Toorak Topguns Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1911c2bb-d9d2-4575-b838-b2e1e74bbc36
+SEQUENCE:0
+DTSTAMP:20260318T175813
+DTSTART:20260321T162000
+DTEND:20260321T170500
+SUMMARY:🏀 U14 Girls: Toorak Topguns vs Malvern Tigers Lewis
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Malver
+ n Tigers Lewis\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

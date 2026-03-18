@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Suns Fixtures
+X-WR-CALNAME:Timberwolves Suns Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8aade796-56e3-4191-afb5-54135582000c
+SEQUENCE:0
+DTSTAMP:20260318T175654
+DTSTART:20260321T135000
+DTEND:20260321T143500
+SUMMARY:🏀 U12 Boys: Timberwolves Suns vs Timberwolves Chargers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Chargers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

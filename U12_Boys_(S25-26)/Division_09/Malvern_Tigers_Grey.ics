@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Grey Fixtures
+X-WR-CALNAME:Malvern Tigers Grey Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e803e113-78de-4aa7-83db-3da18aab1921
+SEQUENCE:0
+DTSTAMP:20260318T175700
+DTSTART:20260321T130000
+DTEND:20260321T134500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Grey vs Arax
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Arax\nA
+ rrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

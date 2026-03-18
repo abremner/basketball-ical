@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Storm Fixtures
+X-WR-CALNAME:Solway Storm Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5bc1b36c-c7c3-49d7-a4c3-5a1cd187a932
+SEQUENCE:0
+DTSTAMP:20260318T175848
+DTSTART:20260321T180000
+DTEND:20260321T184500
+SUMMARY:🏀 U16 Boys: Solway Storm vs Timberwolves Bulls
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Bulls\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

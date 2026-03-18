@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Dream Fixtures
+X-WR-CALNAME:Solway Dream Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ffddde75-91bd-4a1a-b546-f0daf65bc922
+SEQUENCE:0
+DTSTAMP:20260318T175942
+DTSTART:20260324T192500
+DTEND:20260324T201000
+SUMMARY:🏀 U21 Women: Solway Dream vs Malvern Tigers George
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Malver
+ n Tigers George\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR
