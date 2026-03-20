@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Super Sonics Fixtures
+X-WR-CALNAME:Solway Super Sonics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b578573b-0474-4a1e-9e04-138bd6246c7a
+SEQUENCE:0
+DTSTAMP:20260320T173357
+DTSTART:20260321T171000
+DTEND:20260321T175500
+SUMMARY:🏀 U16 Boys: Solway Super Sonics vs Toorak Tyrants
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Toorak
+  Tyrants\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

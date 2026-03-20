@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Magnum Fixtures
+X-WR-CALNAME:Timberwolves Magnum Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b3fc1251-a2c8-4e51-ab2f-7998d90d5a3c
+SEQUENCE:0
+DTSTAMP:20260320T173358
+DTSTART:20260321T180000
+DTEND:20260321T184500
+SUMMARY:🏀 U16 Boys: Timberwolves Magnum vs Maccabi Half Court Miracles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Maccabi
+  Half Court Miracles\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

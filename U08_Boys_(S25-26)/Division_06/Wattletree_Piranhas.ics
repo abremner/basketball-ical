@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Wattletree Piranhas Fixtures
+X-WR-CALNAME:Wattletree Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:94e5ae4f-07f6-4c78-9317-cf05d529df62
+SEQUENCE:0
+DTSTAMP:20260320T173046
+DTSTART:20260321T103000
+DTEND:20260321T111500
+SUMMARY:🏀 U08 Boys: Wattletree Piranhas vs Nettleton Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Nettlet
+ on Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

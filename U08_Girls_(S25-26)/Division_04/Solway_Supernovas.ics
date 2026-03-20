@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Supernovas Fixtures
+X-WR-CALNAME:Solway Supernovas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1fd2cc0a-2060-4316-a0b7-7283fdf9efa4
+SEQUENCE:0
+DTSTAMP:20260320T173101
+DTSTART:20260321T103000
+DTEND:20260321T111500
+SUMMARY:🏀 U08 Girls: Solway Supernovas vs Maccabi Ducks
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Maccabi
+  Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

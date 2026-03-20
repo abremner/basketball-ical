@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Grace Park Piranhas Fixtures
+X-WR-CALNAME:Grace Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:86ff4fd2-74b8-4db4-aa20-ce6c632b1943
+SEQUENCE:0
+DTSTAMP:20260320T173145
+DTSTART:20260321T121000
+DTEND:20260321T125500
+SUMMARY:🏀 U10 Girls: Grace Park Piranhas vs Maccabi Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

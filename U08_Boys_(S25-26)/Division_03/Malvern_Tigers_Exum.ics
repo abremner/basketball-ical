@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Exum Fixtures
+X-WR-CALNAME:Malvern Tigers Exum Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:869b861c-dd87-4617-8bb3-60d5dd61bbe6
+SEQUENCE:0
+DTSTAMP:20260320T173034
+DTSTART:20260321T085000
+DTEND:20260321T093500
+SUMMARY:🏀 U08 Boys: Malvern Tigers Exum vs Burnley Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Burnley
+  Park Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

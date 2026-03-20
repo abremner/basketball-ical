@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Stanhope Piranhas Fixtures
+X-WR-CALNAME:Stanhope Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:308786b0-b7db-4391-b292-18017e7a0e91
+SEQUENCE:0
+DTSTAMP:20260320T173427
+DTSTART:20260322T182000
+DTEND:20260322T190500
+SUMMARY:🏀 U18 Boys: Stanhope Piranhas vs Solway Vampires
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Vampires\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

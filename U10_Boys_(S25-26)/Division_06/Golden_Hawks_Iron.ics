@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Golden Hawks Iron Fixtures
+X-WR-CALNAME:Golden Hawks Iron Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:fbd521d9-4246-45fb-95be-809667d80f3d
+SEQUENCE:0
+DTSTAMP:20260320T173115
+DTSTART:20260321T094000
+DTEND:20260321T102500
+SUMMARY:🏀 U10 Boys: Golden Hawks Iron vs Timberwolves Cubs
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Timber
+ wolves Cubs\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

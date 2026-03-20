@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Harold Piranhas Fixtures
+X-WR-CALNAME:Harold Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:40f0ea8b-d4bd-4169-bfc6-49d833ca7c25
+SEQUENCE:0
+DTSTAMP:20260320T173421
+DTSTART:20260324T174500
+DTEND:20260324T183000
+SUMMARY:🏀 U16 Girls: Harold Piranhas vs Malvern Tigers Wallace
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Wallace\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

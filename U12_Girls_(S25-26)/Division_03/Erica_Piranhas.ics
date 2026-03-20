@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Erica Piranhas Fixtures
+X-WR-CALNAME:Erica Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:35be3913-ec02-4f6f-8b50-28f20ec0225a
+SEQUENCE:0
+DTSTAMP:20260320T173241
+DTSTART:20260321T144000
+DTEND:20260321T152500
+SUMMARY:🏀 U12 Girls: Erica Piranhas vs Malvern Tigers Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

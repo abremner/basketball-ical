@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Sparks Fixtures
+X-WR-CALNAME:AlphaWolf Sparks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:36348f5b-1e3e-4685-a37b-2b81b7e58570
+SEQUENCE:0
+DTSTAMP:20260320T173247
+DTSTART:20260321T135000
+DTEND:20260321T143500
+SUMMARY:🏀 U12 Girls: AlphaWolf Sparks vs Solway Parrots
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Parrots\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

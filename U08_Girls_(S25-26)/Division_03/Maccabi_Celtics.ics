@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Celtics Fixtures
+X-WR-CALNAME:Maccabi Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:e437cdf6-78df-49e1-a80f-ccd6e140ea18
+SEQUENCE:0
+DTSTAMP:20260320T173057
+DTSTART:20260321T112000
+DTEND:20260321T120500
+SUMMARY:🏀 U08 Girls: Maccabi Celtics vs Brunel Piranhas
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 2\nOpponent: Brunel Pira
+ nhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Lime Fixtures
+X-WR-CALNAME:Malvern Tigers Lime Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0f4e6d44-c1d1-47fd-8a23-e9c4c94e5838
+SEQUENCE:0
+DTSTAMP:20260320T173234
+DTSTART:20260321T121000
+DTEND:20260321T125500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Lime vs Timberwolves Cavs
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 5\nOpponent: Timberw
+ olves Cavs\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

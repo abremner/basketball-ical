@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Brown Fixtures
+X-WR-CALNAME:Malvern Tigers Brown Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:00356053-806e-490f-b1a6-abea92a14c41
+SEQUENCE:0
+DTSTAMP:20260320T173322
+DTSTART:20260321T144000
+DTEND:20260321T152500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Brown vs Timberwolves Raptors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Raptors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

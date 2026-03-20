@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Korowa Grey Fixtures
+X-WR-CALNAME:Korowa Grey Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7f0d7fbc-ccec-4f55-88ce-d45a8503ddde
+SEQUENCE:0
+DTSTAMP:20260320T173251
+DTSTART:20260321T130000
+DTEND:20260321T134500
+SUMMARY:🏀 U12 Girls: Korowa Grey vs Solway Sparrows
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Solway Spar
+ rows\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

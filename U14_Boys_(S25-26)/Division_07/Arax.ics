@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Arax Fixtures
+X-WR-CALNAME:Arax Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d2a1a98b-6aef-4416-8d30-1bab5045ac63
+SEQUENCE:0
+DTSTAMP:20260320T173318
+DTSTART:20260321T144000
+DTEND:20260321T152500
+SUMMARY:🏀 U14 Boys: Arax vs Glen Iris Scorpions Raven
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Glen I
+ ris Scorpions Raven\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

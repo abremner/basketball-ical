@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Mitchell Fixtures
+X-WR-CALNAME:Malvern Tigers Mitchell Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9a6c985a-24c4-4564-b2f7-beb242cb79fd
+SEQUENCE:0
+DTSTAMP:20260320T173148
+DTSTART:20260321T112000
+DTEND:20260321T120500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Mitchell vs Timberwolves Warriors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Warriors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

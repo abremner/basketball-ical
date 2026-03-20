@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Warriors Fixtures
+X-WR-CALNAME:Maccabi Warriors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:87d509eb-5d63-4fbc-bd1a-e2af5273dea3
+SEQUENCE:0
+DTSTAMP:20260320T173057
+DTSTART:20260321T085000
+DTEND:20260321T093500
+SUMMARY:🏀 U08 Girls: Maccabi Warriors vs Malvern Tigers Wilson
+LOCATION:Lauriston Girls School\n38 Huntingtower Rd\, Armadale VIC 3143
+DESCRIPTION:Venue: Lauriston Girls School\nCourt: 1\nOpponent: Malvern Tig
+ ers Wilson\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

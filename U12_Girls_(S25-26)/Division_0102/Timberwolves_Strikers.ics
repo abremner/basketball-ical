@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Strikers Fixtures
+X-WR-CALNAME:Timberwolves Strikers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ada93da8-14ca-491e-a1f3-819fde895f9b
+SEQUENCE:0
+DTSTAMP:20260320T173240
+DTSTART:20260321T135000
+DTEND:20260321T143500
+SUMMARY:🏀 U12 Girls: Timberwolves Strikers vs Malvern Tigers Red
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Malvern
+  Tigers Red\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

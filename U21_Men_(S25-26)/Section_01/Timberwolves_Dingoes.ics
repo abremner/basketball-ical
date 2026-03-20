@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Dingoes Fixtures
+X-WR-CALNAME:Timberwolves Dingoes Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:796e67a9-d9c1-4387-a247-add9b922ddab
+SEQUENCE:0
+DTSTAMP:20260320T173452
+DTSTART:20260322T182000
+DTEND:20260322T190500
+SUMMARY:🏀 U21 Men: Timberwolves Dingoes vs Solway Wizards
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Solway
+  Wizards\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

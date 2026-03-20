@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Stallions Fixtures
+X-WR-CALNAME:Solway Stallions Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4c128119-ab3c-4df6-898b-57bb690e9812
+SEQUENCE:0
+DTSTAMP:20260320T173032
+DTSTART:20260321T094000
+DTEND:20260321T102500
+SUMMARY:🏀 U08 Boys: Solway Stallions vs Malvern Tigers Mills
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Malvern
+  Tigers Mills\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

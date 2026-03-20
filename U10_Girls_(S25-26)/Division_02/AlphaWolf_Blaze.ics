@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Blaze Fixtures
+X-WR-CALNAME:AlphaWolf Blaze Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9b46019d-959e-4adb-b51a-696169dec510
+SEQUENCE:0
+DTSTAMP:20260320T173142
+DTSTART:20260321T094000
+DTEND:20260321T102500
+SUMMARY:🏀 U10 Girls: AlphaWolf Blaze vs Korowa Cherry
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Korowa
+  Cherry\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

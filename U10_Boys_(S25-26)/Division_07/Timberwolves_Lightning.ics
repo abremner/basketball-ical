@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Lightning Fixtures
+X-WR-CALNAME:Timberwolves Lightning Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:72eb7506-bbce-4638-9a1b-4c7a50b51d99
+SEQUENCE:0
+DTSTAMP:20260320T173120
+DTSTART:20260321T103000
+DTEND:20260321T111500
+SUMMARY:🏀 U10 Boys: Timberwolves Lightning vs Glen Iris Scorpions Gardi
+ ner
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Glen I
+ ris Scorpions Gardiner\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

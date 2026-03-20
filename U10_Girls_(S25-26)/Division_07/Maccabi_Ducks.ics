@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Ducks Fixtures
+X-WR-CALNAME:Maccabi Ducks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:bb1a399d-a2ed-4921-8206-018c1f8bae85
+SEQUENCE:0
+DTSTAMP:20260320T173157
+DTSTART:20260321T080000
+DTEND:20260321T084500
+SUMMARY:🏀 U10 Girls: Maccabi Ducks vs Timberwolves Swifts
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Swifts\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

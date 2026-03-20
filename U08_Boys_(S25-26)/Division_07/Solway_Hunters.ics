@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Hunters Fixtures
+X-WR-CALNAME:Solway Hunters Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d6cd2ae7-20c1-4985-9859-7fcdaea3574e
+SEQUENCE:0
+DTSTAMP:20260320T173049
+DTSTART:20260321T094000
+DTEND:20260321T102500
+SUMMARY:🏀 U08 Boys: Solway Hunters vs Glen Iris Scorpions Nettleton
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Glen Ir
+ is Scorpions Nettleton\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

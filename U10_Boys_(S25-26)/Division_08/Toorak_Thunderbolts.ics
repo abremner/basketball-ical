@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Thunderbolts Fixtures
+X-WR-CALNAME:Toorak Thunderbolts Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b0b8c63f-6e40-437b-8ae4-63d2ac876e9d
+SEQUENCE:0
+DTSTAMP:20260320T173123
+DTSTART:20260321T080000
+DTEND:20260321T084500
+SUMMARY:🏀 U10 Boys: Toorak Thunderbolts vs AlphaWolf Magic
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: AlphaW
+ olf Magic\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

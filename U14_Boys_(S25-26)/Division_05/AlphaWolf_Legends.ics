@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Legends Fixtures
+X-WR-CALNAME:AlphaWolf Legends Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:eb919016-d703-4a8f-97ed-ee5125ca08e4
+SEQUENCE:0
+DTSTAMP:20260320T173311
+DTSTART:20260321T153000
+DTEND:20260321T161500
+SUMMARY:🏀 U14 Boys: AlphaWolf Legends vs Malvern Tigers Green
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Malvern
+  Tigers Green\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

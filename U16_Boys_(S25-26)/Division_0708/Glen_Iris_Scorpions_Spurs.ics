@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Spurs Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Spurs Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8d46054e-4010-4fd8-92f6-ca25a70a8731
+SEQUENCE:0
+DTSTAMP:20260320T173409
+DTSTART:20260321T171000
+DTEND:20260321T175500
+SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Spurs vs Solway Rangers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Solway 
+ Rangers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

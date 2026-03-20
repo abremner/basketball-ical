@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Sapphires Fixtures
+X-WR-CALNAME:Timberwolves Sapphires Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c34d078b-f97f-4d7a-8572-1de9e9ae2147
+SEQUENCE:0
+DTSTAMP:20260320T173347
+DTSTART:20260321T153000
+DTEND:20260321T161500
+SUMMARY:🏀 U14 Girls: Timberwolves Sapphires vs Ashy Lightning White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Ashy L
+ ightning White\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

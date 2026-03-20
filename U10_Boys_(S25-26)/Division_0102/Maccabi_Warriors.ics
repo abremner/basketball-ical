@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Warriors Fixtures
+X-WR-CALNAME:Maccabi Warriors Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:8b6b4686-9f6a-4c34-a541-922e627c902a
+SEQUENCE:0
+DTSTAMP:20260320T173105
+DTSTART:20260321T135000
+DTEND:20260321T143500
+SUMMARY:🏀 U10 Boys: Maccabi Warriors vs AUBD Storm
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: AUBD S
+ torm\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

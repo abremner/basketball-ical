@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:SE Venom Magic Fixtures
+X-WR-CALNAME:SE Venom Magic Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2e272827-fb44-468d-82c2-4ec0b195d7bb
+SEQUENCE:0
+DTSTAMP:20260320T173129
+DTSTART:20260321T080000
+DTEND:20260321T084500
+SUMMARY:🏀 U10 Boys: SE Venom Magic vs East Malvern Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: East M
+ alvern Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

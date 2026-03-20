@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5f80444d-778d-4545-bf02-6a7281f68722
+SEQUENCE:0
+DTSTAMP:20260320T173037
+DTSTART:20260321T103000
+DTEND:20260321T111500
+SUMMARY:🏀 U08 Boys: Maccabi Bucks vs Malvern Tigers Ingles
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Malvern
+  Tigers Ingles\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

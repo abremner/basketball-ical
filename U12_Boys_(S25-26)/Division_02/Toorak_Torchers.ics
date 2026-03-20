@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Torchers Fixtures
+X-WR-CALNAME:Toorak Torchers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:70d16601-4fa9-4e57-a148-31390431e09b
+SEQUENCE:0
+DTSTAMP:20260320T173205
+DTSTART:20260321T144000
+DTEND:20260321T152500
+SUMMARY:🏀 U12 Boys: Toorak Torchers vs Alma Park Piranhas
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 3\nOpponent: Alma Pa
+ rk Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

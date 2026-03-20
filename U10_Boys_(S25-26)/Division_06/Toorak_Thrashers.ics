@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Thrashers Fixtures
+X-WR-CALNAME:Toorak Thrashers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:858d54b6-c1ea-4104-bbd0-647fcc7b8b59
+SEQUENCE:0
+DTSTAMP:20260320T173118
+DTSTART:20260321T103000
+DTEND:20260321T111500
+SUMMARY:🏀 U10 Boys: Toorak Thrashers vs Maccabi Ducks
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Ducks\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

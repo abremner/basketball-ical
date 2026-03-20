@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ashy Lightning Gold Fixtures
+X-WR-CALNAME:Ashy Lightning Gold Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f8010139-f0a4-42c6-92e6-cccf5fd87cd8
+SEQUENCE:0
+DTSTAMP:20260320T173446
+DTSTART:20260324T174500
+DTEND:20260324T183000
+SUMMARY:🏀 U18 Girls: Ashy Lightning Gold vs Solway Stellars
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 4\nOpponent: Solway
+  Stellars\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

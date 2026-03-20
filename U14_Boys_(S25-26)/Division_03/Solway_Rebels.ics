@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Rebels Fixtures
+X-WR-CALNAME:Solway Rebels Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:85cb9d57-79c1-4989-9f83-149141be91d6
+SEQUENCE:0
+DTSTAMP:20260320T173306
+DTSTART:20260321T171000
+DTEND:20260321T175500
+SUMMARY:🏀 U14 Boys: Solway Rebels vs Timberwolves Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Timber
+ wolves Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

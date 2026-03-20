@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Rubies Fixtures
+X-WR-CALNAME:Timberwolves Rubies Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0d48e32e-0144-40c0-9729-90ffe5107116
+SEQUENCE:0
+DTSTAMP:20260320T173340
+DTSTART:20260321T162000
+DTEND:20260321T170500
+SUMMARY:🏀 U14 Girls: Timberwolves Rubies vs Ashy Lightning Yellow
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 4\nOpponent: Ashy Li
+ ghtning Yellow\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

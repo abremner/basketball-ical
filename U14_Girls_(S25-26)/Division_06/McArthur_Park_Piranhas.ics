@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:McArthur Park Piranhas Fixtures
+X-WR-CALNAME:McArthur Park Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:97cdd8c3-c532-48cd-8ee3-39523e66630c
+SEQUENCE:0
+DTSTAMP:20260320T173343
+DTSTART:20260321T162000
+DTEND:20260321T170500
+SUMMARY:🏀 U14 Girls: McArthur Park Piranhas vs Solway Jewels
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Solway 
+ Jewels\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR
