@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Jewels Fixtures
+X-WR-CALNAME:Solway Jewels Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:9c6d5f98-5e12-48d5-84f3-f1cbbdcb2f34
+SEQUENCE:0
+DTSTAMP:20260323T174822
+DTSTART:20260328T150000
+DTEND:20260328T154500
+SUMMARY:🏀 U14 Girls: Solway Jewels vs Malvern Tigers Nelson
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Malver
+ n Tigers Nelson\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

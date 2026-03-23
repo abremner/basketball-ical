@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Boston Fixtures
+X-WR-CALNAME:Malvern Tigers Boston Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:4875c1ea-615c-457c-aad5-ce7da4c47305
+SEQUENCE:0
+DTSTAMP:20260323T174812
+DTSTART:20260328T160000
+DTEND:20260328T164500
+SUMMARY:🏀 U14 Girls: Malvern Tigers Boston vs Toorak Topguns
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Toorak
+  Topguns\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Spurs Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Spurs Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:1edbf6a7-0a75-478c-8fde-199185b78971
+SEQUENCE:0
+DTSTAMP:20260323T174845
+DTSTART:20260328T173000
+DTEND:20260328T181500
+SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Spurs vs Solway Slammers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Solway
+  Slammers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

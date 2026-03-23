@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Tyrants Fixtures
+X-WR-CALNAME:Toorak Tyrants Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a93dc27b-36c5-45ae-bd00-9f4c2400a116
+SEQUENCE:0
+DTSTAMP:20260323T174836
+DTSTART:20260328T180000
+DTEND:20260328T184500
+SUMMARY:🏀 U16 Boys: Toorak Tyrants vs Timberwolves Magnum
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Timber
+ wolves Magnum\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

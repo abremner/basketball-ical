@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Vipers Fixtures
+X-WR-CALNAME:Solway Vipers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:a2ad81af-c0f7-435b-8e71-e40386431334
+SEQUENCE:0
+DTSTAMP:20260323T174924
+DTSTART:20260329T190000
+DTEND:20260329T194500
+SUMMARY:🏀 U21 Men: Solway Vipers vs Timberwolves Dingoes
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Timber
+ wolves Dingoes\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

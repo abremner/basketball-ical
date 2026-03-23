@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:825b5ac1-aba2-4ec3-bf5f-906143ef0536
+SEQUENCE:0
+DTSTAMP:20260323T174650
+DTSTART:20260328T123000
+DTEND:20260328T131500
+SUMMARY:🏀 U12 Boys: Maccabi Bucks vs Malvern Tigers White
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Malver
+ n Tigers White\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

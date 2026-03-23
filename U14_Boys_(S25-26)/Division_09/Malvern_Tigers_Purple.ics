@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Purple Fixtures
+X-WR-CALNAME:Malvern Tigers Purple Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:6c03087a-660b-4b8b-b5ea-f3fff24b9e41
+SEQUENCE:0
+DTSTAMP:20260323T174806
+DTSTART:20260328T133000
+DTEND:20260328T141500
+SUMMARY:🏀 U14 Boys: Malvern Tigers Purple vs Glen Iris Scorpions Summer
+ hill
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Glen I
+ ris Scorpions Summerhill\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

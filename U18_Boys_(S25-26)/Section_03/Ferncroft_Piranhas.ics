@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Ferncroft Piranhas Fixtures
+X-WR-CALNAME:Ferncroft Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f977ab90-64d7-449f-8dbb-9728bca915c8
+SEQUENCE:0
+DTSTAMP:20260323T174906
+DTSTART:20260329T180000
+DTEND:20260329T184500
+SUMMARY:🏀 U18 Boys: Ferncroft Piranhas vs Comets Storm
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Comets
+  Storm\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

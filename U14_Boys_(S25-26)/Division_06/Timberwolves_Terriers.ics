@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Terriers Fixtures
+X-WR-CALNAME:Timberwolves Terriers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b34ec6ca-e22e-4f66-89a8-65c9c1e64af0
+SEQUENCE:0
+DTSTAMP:20260323T174758
+DTSTART:20260328T143000
+DTEND:20260328T151500
+SUMMARY:🏀 U14 Boys: Timberwolves Terriers vs Golden Hawks Iron
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Golden
+  Hawks Iron\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

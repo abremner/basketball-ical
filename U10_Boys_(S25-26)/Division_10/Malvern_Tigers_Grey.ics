@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Grey Fixtures
+X-WR-CALNAME:Malvern Tigers Grey Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:347f171c-cb5c-47ed-b82b-bfa9e8c15ebc
+SEQUENCE:0
+DTSTAMP:20260323T174614
+DTSTART:20260328T080000
+DTEND:20260328T084500
+SUMMARY:🏀 U10 Boys: Malvern Tigers Grey vs SE Venom Magic
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: SE Ven
+ om Magic\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

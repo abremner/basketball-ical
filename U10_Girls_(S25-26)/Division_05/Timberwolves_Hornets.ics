@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Hornets Fixtures
+X-WR-CALNAME:Timberwolves Hornets Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c87ba0d9-7f45-4092-8280-7d7d09152735
+SEQUENCE:0
+DTSTAMP:20260323T174638
+DTSTART:20260328T093000
+DTEND:20260328T101500
+SUMMARY:🏀 U10 Girls: Timberwolves Hornets vs Arax
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Arax\n
+ Arrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

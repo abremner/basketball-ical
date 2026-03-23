@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Lime Fixtures
+X-WR-CALNAME:Malvern Tigers Lime Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ddfb3310-8bc0-4816-927d-a33ded730caf
+SEQUENCE:0
+DTSTAMP:20260323T174717
+DTSTART:20260328T110000
+DTEND:20260328T114500
+SUMMARY:🏀 U12 Boys: Malvern Tigers Lime vs Golden Hawks Blaze
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: Golden
+  Hawks Blaze\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

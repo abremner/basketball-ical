@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Comets Fixtures
+X-WR-CALNAME:Timberwolves Comets Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:b5e1831c-24c4-432f-aacc-396594eb6545
+SEQUENCE:0
+DTSTAMP:20260323T174810
+DTSTART:20260328T153000
+DTEND:20260328T161500
+SUMMARY:🏀 U14 Girls: Timberwolves Comets vs Lauriston Liberty
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Lauris
+ ton Liberty\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

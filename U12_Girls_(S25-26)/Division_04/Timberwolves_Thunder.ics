@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Thunder Fixtures
+X-WR-CALNAME:Timberwolves Thunder Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:ca6d8501-8fd4-40a2-aba4-5e07deb866bc
+SEQUENCE:0
+DTSTAMP:20260323T174729
+DTSTART:20260328T120000
+DTEND:20260328T124500
+SUMMARY:🏀 U12 Girls: Timberwolves Thunder vs Maccabi Celtics
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Maccab
+ i Celtics\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

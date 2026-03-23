@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Blades Fixtures
+X-WR-CALNAME:Solway Blades Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:2c3d9edb-2261-484b-8b8f-387339558220
+SEQUENCE:0
+DTSTAMP:20260323T174843
+DTSTART:20260328T173000
+DTEND:20260328T181500
+SUMMARY:🏀 U16 Boys: Solway Blades vs Timberwolves Bulls
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Timber
+ wolves Bulls\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

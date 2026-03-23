@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Armadale Piranhas Fixtures
+X-WR-CALNAME:Armadale Piranhas Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:19aa68cf-b5ac-483c-8bb0-97a7a57a16a5
+SEQUENCE:0
+DTSTAMP:20260323T174554
+DTSTART:20260328T100000
+DTEND:20260328T104500
+SUMMARY:🏀 U10 Boys: Armadale Piranhas vs Toorak Torpedoes
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Toorak 
+ Torpedoes\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR
