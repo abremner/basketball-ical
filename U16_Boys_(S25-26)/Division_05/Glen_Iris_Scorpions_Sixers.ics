@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Glen Iris Scorpions Sixers Fixtures
+X-WR-CALNAME:Glen Iris Scorpions Sixers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f57b7c9f-f56f-4148-b77b-a95694f4e17d
+SEQUENCE:0
+DTSTAMP:20260325T175550
+DTSTART:20260328T183000
+DTEND:20260328T191500
+SUMMARY:🏀 U16 Boys: Glen Iris Scorpions Sixers vs Maccabi Haifa
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Maccab
+ i Haifa\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Celtics Fixtures
+X-WR-CALNAME:Timberwolves Celtics Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:d51dcd36-38c7-4398-8a08-94bd10108461
+SEQUENCE:0
+DTSTAMP:20260325T175448
+DTSTART:20260328T160000
+DTEND:20260328T164500
+SUMMARY:🏀 U14 Boys: Timberwolves Celtics vs AlphaWolf Hustle
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: AlphaW
+ olf Hustle\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

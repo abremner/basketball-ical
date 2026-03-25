@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:AlphaWolf Apex Fixtures
+X-WR-CALNAME:AlphaWolf Apex Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:5ffa9d9f-01c1-4549-8ae5-d4fbcbbf7f17
+SEQUENCE:0
+DTSTAMP:20260325T175449
+DTSTART:20260328T153000
+DTEND:20260328T161500
+SUMMARY:🏀 U14 Boys: AlphaWolf Apex vs AlphaWolf Conquerors
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: AlphaW
+ olf Conquerors\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

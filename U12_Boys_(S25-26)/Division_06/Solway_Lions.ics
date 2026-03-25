@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Solway Lions Fixtures
+X-WR-CALNAME:Solway Lions Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:0b324291-1c9c-4eb8-98e1-7e285faf9fe9
+SEQUENCE:0
+DTSTAMP:20260325T175352
+DTSTART:20260328T110000
+DTEND:20260328T114500
+SUMMARY:🏀 U12 Boys: Solway Lions vs AlphaWolf Lakers
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: AlphaWo
+ lf Lakers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Boulders Fixtures
+X-WR-CALNAME:Timberwolves Boulders Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:f28b4c9e-c09e-466b-b3e0-4bf031be8a60
+SEQUENCE:0
+DTSTAMP:20260325T175548
+DTSTART:20260328T170000
+DTEND:20260328T174500
+SUMMARY:🏀 U16 Boys: Timberwolves Boulders vs AlphaWolf Sixseveners
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 2\nOpponent: AlphaW
+ olf Sixseveners\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

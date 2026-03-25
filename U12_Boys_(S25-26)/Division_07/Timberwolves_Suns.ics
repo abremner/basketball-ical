@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Suns Fixtures
+X-WR-CALNAME:Timberwolves Suns Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:292b623d-ca5f-4321-82f1-0463f2b6b828
+SEQUENCE:0
+DTSTAMP:20260325T175356
+DTSTART:20260328T113000
+DTEND:20260328T121500
+SUMMARY:🏀 U12 Boys: Timberwolves Suns vs Solway Panthers
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 6\nOpponent: Solway
+  Panthers\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

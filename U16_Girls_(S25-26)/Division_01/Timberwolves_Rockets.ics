@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Rockets Fixtures
+X-WR-CALNAME:Timberwolves Rockets Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:be333fc5-247e-474e-a437-91f9c8b35a13
+SEQUENCE:0
+DTSTAMP:20260325T175608
+DTSTART:20260331T180000
+DTEND:20260331T184500
+SUMMARY:🏀 U16 Girls: Timberwolves Rockets vs Ashy Lightning Gold
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 1\nOpponent: Ashy L
+ ightning Gold\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

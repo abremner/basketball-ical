@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Malvern Tigers Mitchell Fixtures
+X-WR-CALNAME:Malvern Tigers Mitchell Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:65ccbbed-b15e-44bd-b21e-ef8576f44ac7
+SEQUENCE:0
+DTSTAMP:20260325T175317
+DTSTART:20260328T090000
+DTEND:20260328T094500
+SUMMARY:🏀 U10 Girls: Malvern Tigers Mitchell vs Solway Typhoons
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 1\nOpponent: Solway 
+ Typhoons\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

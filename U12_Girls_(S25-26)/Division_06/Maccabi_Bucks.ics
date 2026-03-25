@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Bucks Fixtures
+X-WR-CALNAME:Maccabi Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:bf73796b-cea6-4bf8-a1c2-a742c0cbcaff
+SEQUENCE:0
+DTSTAMP:20260325T175430
+DTSTART:20260328T120000
+DTEND:20260328T124500
+SUMMARY:🏀 U12 Girls: Maccabi Bucks vs Solway Sparrows
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Solway
+  Sparrows\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

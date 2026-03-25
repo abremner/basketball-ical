@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Maccabi Eagles Fixtures
+X-WR-CALNAME:Maccabi Eagles Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:7807767c-cace-44d9-adc5-d8d1f2623642
+SEQUENCE:0
+DTSTAMP:20260325T175328
+DTSTART:20260328T090000
+DTEND:20260328T094500
+SUMMARY:🏀 U10 Girls: Maccabi Eagles vs Timberwolves Swifts
+LOCATION:Oakleigh Recreation Centre\n2A Park Rd\, Oakleigh VIC 3166
+DESCRIPTION:Venue: Oakleigh Recreation Centre\nCourt: 2\nOpponent: Timberw
+ olves Swifts\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

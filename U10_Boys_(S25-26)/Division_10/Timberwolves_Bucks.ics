@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Timberwolves Bucks Fixtures
+X-WR-CALNAME:Timberwolves Bucks Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:03ed43a3-4a80-46b5-9331-49c0c99f288d
+SEQUENCE:0
+DTSTAMP:20260325T175256
+DTSTART:20260328T083000
+DTEND:20260328T091500
+SUMMARY:🏀 U10 Boys: Timberwolves Bucks vs Hawksburn Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 5\nOpponent: Hawksb
+ urn Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR

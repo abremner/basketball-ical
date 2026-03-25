@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Toorak Troublemakers Fixtures
+X-WR-CALNAME:Toorak Troublemakers Fixtures
+TIMEZONE-ID:Australia/Melbourne
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VEVENT
+UID:c8eddbd6-5b70-402d-a2fa-dfe56b48c3e2
+SEQUENCE:0
+DTSTAMP:20260325T175421
+DTSTART:20260328T130000
+DTEND:20260328T134500
+SUMMARY:🏀 U12 Girls: Toorak Troublemakers vs Erica Piranhas
+LOCATION:Waverley Basketball Stadium\n94 Batesford Rd\, Chadstone VIC 3148
+DESCRIPTION:Venue: Waverley Basketball Stadium\nCourt: 3\nOpponent: Erica 
+ Piranhas\nArrive 15 mins early for warm-up
+END:VEVENT
+END:VCALENDAR
